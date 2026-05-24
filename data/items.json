@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:43:21Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
+    "id": "akimoto-akira/SiliconLifeCollective",
+    "language": "C#",
+    "name": "akimoto-akira/SiliconLifeCollective",
+    "stars": 2,
+    "updated_at": "2026-05-24T16:40:36Z",
+    "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:40:22Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 1892,
+    "updated_at": "2026-05-24T16:38:42Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Experimental harness for studying LLM-based agents through trace-based observability and evaluation.",
+    "id": "tripledoublev/v100",
+    "language": "Go",
+    "name": "tripledoublev/v100",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:38:28Z",
+    "url": "https://github.com/tripledoublev/v100"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "JacobPEvans/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "JacobPEvans/ai-assistant-instructions",
+    "stars": 7,
+    "updated_at": "2026-05-24T16:37:34Z",
+    "url": "https://github.com/JacobPEvans/ai-assistant-instructions"
+  },
+  {
+    "description": "The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control.",
+    "id": "tr00x/SOMA-Core",
+    "language": "TypeScript",
+    "name": "tr00x/SOMA-Core",
+    "stars": 1,
+    "updated_at": "2026-05-24T16:37:04Z",
+    "url": "https://github.com/tr00x/SOMA-Core"
+  },
+  {
+    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
+    "id": "firatcand/roster",
+    "language": "TypeScript",
+    "name": "firatcand/roster",
+    "stars": 1,
+    "updated_at": "2026-05-24T16:37:45Z",
+    "url": "https://github.com/firatcand/roster"
+  },
+  {
+    "description": "APEX \u2014 Context-engineered pipeline framework for coding agents. Multi-agent, stateful, falsifiable, scale-adaptive, non-",
+    "id": "davidel8698-stack/apex",
+    "language": "Shell",
+    "name": "davidel8698-stack/apex",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:36:09Z",
+    "url": "https://github.com/davidel8698-stack/apex"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "MiteshSharma/ethos",
+    "language": "TypeScript",
+    "name": "MiteshSharma/ethos",
+    "stars": 3,
+    "updated_at": "2026-05-24T16:34:39Z",
+    "url": "https://github.com/MiteshSharma/ethos"
+  },
+  {
+    "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
+    "id": "swarmauri/swarmauri-sdk",
+    "language": "Python",
+    "name": "swarmauri/swarmauri-sdk",
+    "stars": 105,
+    "updated_at": "2026-05-24T16:32:56Z",
+    "url": "https://github.com/swarmauri/swarmauri-sdk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source multi-agent AI marketing team with personas, shared memory, 130+ skills, and Docker deploys for Railway and ",
     "id": "citedy/adclaw",
     "language": "Python",
@@ -49,27 +157,9 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17254,
+    "stars": 17256,
     "updated_at": "2026-05-24T16:17:44Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
-    "id": "swarmauri/swarmauri-sdk",
-    "language": "Python",
-    "name": "swarmauri/swarmauri-sdk",
-    "stars": 105,
-    "updated_at": "2026-05-24T16:16:30Z",
-    "url": "https://github.com/swarmauri/swarmauri-sdk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-24T16:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -88,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-05-24T16:30:18Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
-    "id": "akimoto-akira/SiliconLifeCollective",
-    "language": "C#",
-    "name": "akimoto-akira/SiliconLifeCollective",
-    "stars": 2,
-    "updated_at": "2026-05-24T16:08:27Z",
-    "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
   },
   {
     "description": "Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo",
@@ -122,7 +203,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-05-24T16:29:43Z",
+    "updated_at": "2026-05-24T16:43:21Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -144,24 +225,6 @@
     "url": "https://github.com/Arch1eSUN/Moirai"
   },
   {
-    "description": "APEX \u2014 Context-engineered pipeline framework for coding agents. Multi-agent, stateful, falsifiable, scale-adaptive, non-",
-    "id": "davidel8698-stack/apex",
-    "language": "Shell",
-    "name": "davidel8698-stack/apex",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:52:13Z",
-    "url": "https://github.com/davidel8698-stack/apex"
-  },
-  {
-    "description": "Experimental harness for studying LLM-based agents through trace-based observability and evaluation.",
-    "id": "tripledoublev/v100",
-    "language": "Go",
-    "name": "tripledoublev/v100",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:44:16Z",
-    "url": "https://github.com/tripledoublev/v100"
-  },
-  {
     "description": "Open Agent Communication Network - Fork of acn on fetchai/agents-aea",
     "id": "valory-xyz/open-acn",
     "language": "Go",
@@ -180,33 +243,6 @@
     "url": "https://github.com/AgentEra/Agently"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:39:16Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control.",
-    "id": "tr00x/SOMA-Core",
-    "language": "TypeScript",
-    "name": "tr00x/SOMA-Core",
-    "stars": 1,
-    "updated_at": "2026-05-24T15:36:56Z",
-    "url": "https://github.com/tr00x/SOMA-Core"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:36:34Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "A local-first, cost-conscious multi-agent workspace. Mission-first IA, dual-tier sandbox (shared + per-agent), audited s",
     "id": "Yrzhe/missionry",
     "language": "TypeScript",
@@ -220,7 +256,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 6372,
+    "stars": 6384,
     "updated_at": "2026-05-24T15:33:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -239,7 +275,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 7,
-    "updated_at": "2026-05-24T16:17:45Z",
+    "updated_at": "2026-05-24T16:43:38Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T14:30:53Z",
     "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:30:49Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
-    "id": "Trickedout-ribier5513/AgentClaw",
-    "language": "TypeScript",
-    "name": "Trickedout-ribier5513/AgentClaw",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:30:43Z",
-    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
-  },
-  {
-    "description": "Lifecycle-shaped Claude Code agent kit: scheduled audits \u2192 ready-state issues \u2192 developer-agent PRs \u2192 multi-persona advi",
-    "id": "Ethanon/developer.ai",
-    "language": "\u2014",
-    "name": "Ethanon/developer.ai",
-    "stars": 3,
-    "updated_at": "2026-05-24T16:02:31Z",
-    "url": "https://github.com/Ethanon/developer.ai"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:30:13Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
   }
 ]
