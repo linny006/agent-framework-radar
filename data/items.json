@@ -1,11 +1,74 @@
 [
   {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-05-24T15:59:27Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Minimalist toolkit to build the foundation of Agent harness.",
+    "id": "utakotoba/sonetto",
+    "language": "TypeScript",
+    "name": "utakotoba/sonetto",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:59:05Z",
+    "url": "https://github.com/utakotoba/sonetto"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17253,
+    "updated_at": "2026-05-24T15:58:02Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Tree-sitter powered code manipulation and analysis tools for AI coding agents",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 114,
+    "updated_at": "2026-05-24T15:56:13Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo",
+    "id": "getsynkora/synkora-ai",
+    "language": "Python",
+    "name": "getsynkora/synkora-ai",
+    "stars": 6,
+    "updated_at": "2026-05-24T15:59:02Z",
+    "url": "https://github.com/getsynkora/synkora-ai"
+  },
+  {
+    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
+    "id": "Arch1eSUN/Moirai",
+    "language": "Python",
+    "name": "Arch1eSUN/Moirai",
+    "stars": 1,
+    "updated_at": "2026-05-24T15:53:56Z",
+    "url": "https://github.com/Arch1eSUN/Moirai"
+  },
+  {
+    "description": "APEX \u2014 Context-engineered pipeline framework for coding agents. Multi-agent, stateful, falsifiable, scale-adaptive, non-",
+    "id": "davidel8698-stack/apex",
+    "language": "Shell",
+    "name": "davidel8698-stack/apex",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:52:13Z",
+    "url": "https://github.com/davidel8698-stack/apex"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-24T15:45:21Z",
+    "updated_at": "2026-05-24T15:48:00Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -72,24 +135,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-05-24T15:41:11Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "APEX \u2014 Context-engineered pipeline framework for coding agents. Multi-agent, stateful, falsifiable, scale-adaptive, non-",
-    "id": "davidel8698-stack/apex",
-    "language": "Shell",
-    "name": "davidel8698-stack/apex",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:35:22Z",
-    "url": "https://github.com/davidel8698-stack/apex"
-  },
-  {
     "description": "A local-first, cost-conscious multi-agent workspace. Mission-first IA, dual-tier sandbox (shared + per-agent), audited s",
     "id": "Yrzhe/missionry",
     "language": "TypeScript",
@@ -103,27 +148,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 6335,
+    "stars": 6347,
     "updated_at": "2026-05-24T15:33:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Minimalist toolkit to build the foundation of Agent harness.",
-    "id": "utakotoba/sonetto",
-    "language": "TypeScript",
-    "name": "utakotoba/sonetto",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:31:47Z",
-    "url": "https://github.com/utakotoba/sonetto"
-  },
-  {
-    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
-    "id": "Arch1eSUN/Moirai",
-    "language": "Python",
-    "name": "Arch1eSUN/Moirai",
-    "stars": 1,
-    "updated_at": "2026-05-24T15:24:14Z",
-    "url": "https://github.com/Arch1eSUN/Moirai"
   },
   {
     "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 454,
-    "updated_at": "2026-05-24T15:22:45Z",
+    "updated_at": "2026-05-24T15:52:14Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
@@ -203,17 +230,8 @@
     "language": "Shell",
     "name": "bakw00ds/yakos",
     "stars": 0,
-    "updated_at": "2026-05-24T15:00:33Z",
+    "updated_at": "2026-05-24T15:50:36Z",
     "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
-    "description": "Tree-sitter powered code manipulation and analysis tools for AI coding agents",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 114,
-    "updated_at": "2026-05-24T14:53:07Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Hermes Agent \u6846\u67b6\u5b98\u65b9\u63d2\u4ef6\u4ed3\u5e93 - \u667a\u80fd\u4f53\u80fd\u529b\u6269\u5c55\u7684\u6a21\u5757\u5316\u89e3\u51b3\u65b9\u6848",
@@ -430,23 +448,5 @@
     "stars": 53,
     "updated_at": "2026-05-24T14:27:07Z",
     "url": "https://github.com/Jovancoding/Network-AI"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-05-24T14:27:03Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-05-24T14:26:52Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
   }
 ]
