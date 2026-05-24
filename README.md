@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-24 15:45 UTC
+> ⏰ Last updated: 2026-05-24 15:47 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [swarmauri/swarmauri-sdk](https://github.com/swarmauri/swarmauri-sdk) | 105 | Python | 2026-05-24 | Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib |
-| 2 | [tripledoublev/v100](https://github.com/tripledoublev/v100) | 0 | Go | 2026-05-24 | Experimental harness for studying LLM-based agents through trace-based observability and evaluation. |
-| 3 | [valory-xyz/open-acn](https://github.com/valory-xyz/open-acn) | 21 | Go | 2026-05-24 | Open Agent Communication Network - Fork of acn on fetchai/agents-aea |
-| 4 | [AgentEra/Agently](https://github.com/AgentEra/Agently) | 1574 | Python | 2026-05-24 | [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent  |
-| 5 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-24 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 6 | [tr00x/SOMA-Core](https://github.com/tr00x/SOMA-Core) | 1 | TypeScript | 2026-05-24 | The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control. |
-| 7 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-05-24 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 8 | [Aureliolo/synthorg](https://github.com/Aureliolo/synthorg) | 8 | Python | 2026-05-24 | SynthOrg - Framework for building synthetic organizations with autonomous AI agents |
-| 9 | [davidel8698-stack/apex](https://github.com/davidel8698-stack/apex) | 0 | Shell | 2026-05-24 | APEX — Context-engineered pipeline framework for coding agents. Multi-agent, stateful, falsifiable, scale-adaptive, non- |
-| 10 | [Yrzhe/missionry](https://github.com/Yrzhe/missionry) | 1 | TypeScript | 2026-05-24 | A local-first, cost-conscious multi-agent workspace. Mission-first IA, dual-tier sandbox (shared + per-agent), audited s |
-| 11 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 6332 | TypeScript | 2026-05-24 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 12 | [utakotoba/sonetto](https://github.com/utakotoba/sonetto) | 0 | TypeScript | 2026-05-24 | Minimalist toolkit to build the foundation of Agent harness. |
-| 13 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-24 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-24 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [swarmauri/swarmauri-sdk](https://github.com/swarmauri/swarmauri-sdk) | 105 | Python | 2026-05-24 | Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib |
+| 3 | [tripledoublev/v100](https://github.com/tripledoublev/v100) | 0 | Go | 2026-05-24 | Experimental harness for studying LLM-based agents through trace-based observability and evaluation. |
+| 4 | [valory-xyz/open-acn](https://github.com/valory-xyz/open-acn) | 21 | Go | 2026-05-24 | Open Agent Communication Network - Fork of acn on fetchai/agents-aea |
+| 5 | [AgentEra/Agently](https://github.com/AgentEra/Agently) | 1574 | Python | 2026-05-24 | [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent  |
+| 6 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-24 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 7 | [tr00x/SOMA-Core](https://github.com/tr00x/SOMA-Core) | 1 | TypeScript | 2026-05-24 | The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control. |
+| 8 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-05-24 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 9 | [Aureliolo/synthorg](https://github.com/Aureliolo/synthorg) | 8 | Python | 2026-05-24 | SynthOrg - Framework for building synthetic organizations with autonomous AI agents |
+| 10 | [davidel8698-stack/apex](https://github.com/davidel8698-stack/apex) | 0 | Shell | 2026-05-24 | APEX — Context-engineered pipeline framework for coding agents. Multi-agent, stateful, falsifiable, scale-adaptive, non- |
+| 11 | [Yrzhe/missionry](https://github.com/Yrzhe/missionry) | 1 | TypeScript | 2026-05-24 | A local-first, cost-conscious multi-agent workspace. Mission-first IA, dual-tier sandbox (shared + per-agent), audited s |
+| 12 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 6335 | TypeScript | 2026-05-24 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 13 | [utakotoba/sonetto](https://github.com/utakotoba/sonetto) | 0 | TypeScript | 2026-05-24 | Minimalist toolkit to build the foundation of Agent harness. |
 | 14 | [Arch1eSUN/Moirai](https://github.com/Arch1eSUN/Moirai) | 1 | Python | 2026-05-24 | Moirai — Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded |
 | 15 | [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) | 1289 | Python | 2026-05-24 | Full-stack AI app generator — FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo |
 | 16 | [roackb2/heddle](https://github.com/roackb2/heddle) | 7 | TypeScript | 2026-05-24 | An open-source terminal coding agent runtime and CLI for real project work. |
