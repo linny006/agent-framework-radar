@@ -1,12 +1,21 @@
 [
   {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
+    "description": "Open-source multi-agent AI marketing team with personas, shared memory, 130+ skills, and Docker deploys for Railway and ",
+    "id": "citedy/adclaw",
+    "language": "Python",
+    "name": "citedy/adclaw",
+    "stars": 19,
+    "updated_at": "2026-05-24T19:57:08Z",
+    "url": "https://github.com/citedy/adclaw"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
     "stars": 0,
-    "updated_at": "2026-05-24T19:44:40Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
+    "updated_at": "2026-05-24T19:56:35Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -14,8 +23,44 @@
     "language": "TypeScript",
     "name": "opencue/cue",
     "stars": 1,
-    "updated_at": "2026-05-24T19:45:18Z",
+    "updated_at": "2026-05-24T19:56:16Z",
     "url": "https://github.com/opencue/cue"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 62,
+    "updated_at": "2026-05-24T19:58:02Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
+    "id": "Studnicky/Dagonizer",
+    "language": "TypeScript",
+    "name": "Studnicky/Dagonizer",
+    "stars": 1,
+    "updated_at": "2026-05-24T19:47:52Z",
+    "url": "https://github.com/Studnicky/Dagonizer"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:45:55Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
     "description": "Agentic OS done right \u2014 create agents, chat, delegate work, stay safe. Self-hosted control plane with pluggable memory, ",
@@ -45,15 +90,6 @@
     "url": "https://github.com/Fletch-N/HALF"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-24T19:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
     "id": "OrlojHQ/orloj",
     "language": "Go",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-05-24T19:35:35Z",
+    "updated_at": "2026-05-24T19:55:12Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-05-24T19:17:48Z",
     "url": "https://github.com/rogerchappel/crewcmd"
-  },
-  {
-    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
-    "id": "Studnicky/Dagonizer",
-    "language": "TypeScript",
-    "name": "Studnicky/Dagonizer",
-    "stars": 1,
-    "updated_at": "2026-05-24T19:33:10Z",
-    "url": "https://github.com/Studnicky/Dagonizer"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T18:48:36Z",
     "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:48:32Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Automate software development with an autonomous multi-agent loop using Qwen Code to self-direct, commit, and improve yo",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T18:37:23Z",
     "url": "https://github.com/dcluomax/coop"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:37:05Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Build self-spawning AI agents from tasks with distributed memory, guardrails, and a fossil record.",
-    "id": "karunun4659/spawnverse",
-    "language": "\u2014",
-    "name": "karunun4659/spawnverse",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:36:30Z",
-    "url": "https://github.com/karunun4659/spawnverse"
   }
 ]
