@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-24 15:11 UTC
+> ⏰ Last updated: 2026-05-24 15:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,15 +43,15 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [H-Mr/llm-harness](https://github.com/H-Mr/llm-harness) | 1 | Python | 2026-05-24 | Production-grade reusable AI agent infrastructure base. ReAct loop, tool pipeline, permissions, hooks, session   persist |
-| 2 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 122 | Python | 2026-05-24 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
-| 3 | [tripledoublev/v100](https://github.com/tripledoublev/v100) | 0 | Go | 2026-05-24 | Experimental harness for studying LLM-based agents through trace-based observability and evaluation. |
-| 4 | [bakw00ds/yakos](https://github.com/bakw00ds/yakos) | 0 | Shell | 2026-05-24 | Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de |
-| 5 | [cortexkit/aft](https://github.com/cortexkit/aft) | 114 | Rust | 2026-05-24 | Tree-sitter powered code manipulation and analysis tools for AI coding agents |
-| 6 | [Aureliolo/synthorg](https://github.com/Aureliolo/synthorg) | 8 | Python | 2026-05-24 | SynthOrg - Framework for building synthetic organizations with autonomous AI agents |
-| 7 | [weksbwrx62862/hermes-plugins](https://github.com/weksbwrx62862/hermes-plugins) | 0 | Python | 2026-05-24 | Hermes Agent 框架官方插件仓库 - 智能体能力扩展的模块化解决方案 |
-| 8 | [fei426/ParaSoul](https://github.com/fei426/ParaSoul) | 0 | Python | 2026-05-24 | Give your AI a soul that outlives any tool. One command to install, 13 plain-text files, zero dependencies. Switch betwe |
-| 9 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-24 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 10 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 6302 | TypeScript | 2026-05-24 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-24 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 122 | Python | 2026-05-24 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
+| 4 | [tripledoublev/v100](https://github.com/tripledoublev/v100) | 0 | Go | 2026-05-24 | Experimental harness for studying LLM-based agents through trace-based observability and evaluation. |
+| 5 | [bakw00ds/yakos](https://github.com/bakw00ds/yakos) | 0 | Shell | 2026-05-24 | Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de |
+| 6 | [cortexkit/aft](https://github.com/cortexkit/aft) | 114 | Rust | 2026-05-24 | Tree-sitter powered code manipulation and analysis tools for AI coding agents |
+| 7 | [Aureliolo/synthorg](https://github.com/Aureliolo/synthorg) | 8 | Python | 2026-05-24 | SynthOrg - Framework for building synthetic organizations with autonomous AI agents |
+| 8 | [weksbwrx62862/hermes-plugins](https://github.com/weksbwrx62862/hermes-plugins) | 0 | Python | 2026-05-24 | Hermes Agent 框架官方插件仓库 - 智能体能力扩展的模块化解决方案 |
+| 9 | [fei426/ParaSoul](https://github.com/fei426/ParaSoul) | 0 | Python | 2026-05-24 | Give your AI a soul that outlives any tool. One command to install, 13 plain-text files, zero dependencies. Switch betwe |
+| 10 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 6306 | TypeScript | 2026-05-24 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | 11 | [Ecro/harness-maker](https://github.com/Ecro/harness-maker) | 2 | Python | 2026-05-24 | Per-project AI coding harness for Claude Code · Cursor · Codex. Profiler + 10-dim interview build a different harness fo |
 | 12 | [herreravalenz6620/context-compression](https://github.com/herreravalenz6620/context-compression) | 0 | Python | 2026-05-24 | Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents. |
 | 13 | [frandi/tepa-ai](https://github.com/frandi/tepa-ai) | 0 | TypeScript | 2026-05-24 | Runtime harness for AI agents — a TypeScript framework that plans, executes, and verifies its own work via a Planner → E |
