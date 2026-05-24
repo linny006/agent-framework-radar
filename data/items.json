@@ -1,12 +1,12 @@
 [
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "TypeScript",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 6322,
-    "updated_at": "2026-05-24T15:30:01Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
+    "id": "swarmauri/swarmauri-sdk",
+    "language": "Python",
+    "name": "swarmauri/swarmauri-sdk",
+    "stars": 105,
+    "updated_at": "2026-05-24T15:45:00Z",
+    "url": "https://github.com/swarmauri/swarmauri-sdk"
   },
   {
     "description": "Experimental harness for studying LLM-based agents through trace-based observability and evaluation.",
@@ -14,8 +14,107 @@
     "language": "Go",
     "name": "tripledoublev/v100",
     "stars": 0,
-    "updated_at": "2026-05-24T15:28:09Z",
+    "updated_at": "2026-05-24T15:44:16Z",
     "url": "https://github.com/tripledoublev/v100"
+  },
+  {
+    "description": "Open Agent Communication Network - Fork of acn on fetchai/agents-aea",
+    "id": "valory-xyz/open-acn",
+    "language": "Go",
+    "name": "valory-xyz/open-acn",
+    "stars": 21,
+    "updated_at": "2026-05-24T15:42:52Z",
+    "url": "https://github.com/valory-xyz/open-acn"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1574,
+    "updated_at": "2026-05-24T15:41:55Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:39:16Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control.",
+    "id": "tr00x/SOMA-Core",
+    "language": "TypeScript",
+    "name": "tr00x/SOMA-Core",
+    "stars": 1,
+    "updated_at": "2026-05-24T15:36:56Z",
+    "url": "https://github.com/tr00x/SOMA-Core"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:36:34Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-05-24T15:41:11Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "APEX \u2014 Context-engineered pipeline framework for coding agents. Multi-agent, stateful, falsifiable, scale-adaptive, non-",
+    "id": "davidel8698-stack/apex",
+    "language": "Shell",
+    "name": "davidel8698-stack/apex",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:35:22Z",
+    "url": "https://github.com/davidel8698-stack/apex"
+  },
+  {
+    "description": "A local-first, cost-conscious multi-agent workspace. Mission-first IA, dual-tier sandbox (shared + per-agent), audited s",
+    "id": "Yrzhe/missionry",
+    "language": "TypeScript",
+    "name": "Yrzhe/missionry",
+    "stars": 1,
+    "updated_at": "2026-05-24T15:34:54Z",
+    "url": "https://github.com/Yrzhe/missionry"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 6332,
+    "updated_at": "2026-05-24T15:33:37Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Minimalist toolkit to build the foundation of Agent harness.",
+    "id": "utakotoba/sonetto",
+    "language": "TypeScript",
+    "name": "utakotoba/sonetto",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:31:47Z",
+    "url": "https://github.com/utakotoba/sonetto"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:30:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
@@ -41,7 +140,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 7,
-    "updated_at": "2026-05-24T15:22:45Z",
+    "updated_at": "2026-05-24T15:40:37Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -99,15 +198,6 @@
     "url": "https://github.com/xiaojilele-glitch/cube-pets-office"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
     "id": "bakw00ds/yakos",
     "language": "Shell",
@@ -124,15 +214,6 @@
     "stars": 114,
     "updated_at": "2026-05-24T14:53:07Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-05-24T15:27:59Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "Hermes Agent \u6846\u67b6\u5b98\u65b9\u63d2\u4ef6\u4ed3\u5e93 - \u667a\u80fd\u4f53\u80fd\u529b\u6269\u5c55\u7684\u6a21\u5757\u5316\u89e3\u51b3\u65b9\u6848",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-24T14:26:52Z",
     "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:26:15Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-05-24T14:26:00Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:25:42Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:25:42Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:25:21Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17252,
-    "updated_at": "2026-05-24T15:06:44Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-05-24T14:24:47Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:22:56Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 1,
-    "updated_at": "2026-05-24T14:22:09Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
   }
 ]
