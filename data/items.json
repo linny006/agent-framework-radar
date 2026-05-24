@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open-source multi-agent AI marketing team with personas, shared memory, 130+ skills, and Docker deploys for Railway and ",
+    "id": "citedy/adclaw",
+    "language": "Python",
+    "name": "citedy/adclaw",
+    "stars": 19,
+    "updated_at": "2026-05-24T16:28:12Z",
+    "url": "https://github.com/citedy/adclaw"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:26:16Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
+    "id": "fuseraft/fuseraft-cli",
+    "language": "C#",
+    "name": "fuseraft/fuseraft-cli",
+    "stars": 2,
+    "updated_at": "2026-05-24T16:23:49Z",
+    "url": "https://github.com/fuseraft/fuseraft-cli"
+  },
+  {
+    "description": "Minimalist toolkit to build the foundation of Agent harness.",
+    "id": "utakotoba/sonetto",
+    "language": "TypeScript",
+    "name": "utakotoba/sonetto",
+    "stars": 1,
+    "updated_at": "2026-05-24T16:23:13Z",
+    "url": "https://github.com/utakotoba/sonetto"
+  },
+  {
+    "description": "Agentic runtime system still in progress",
+    "id": "StellarRequiem/Forest-Soul-Forge",
+    "language": "Python",
+    "name": "StellarRequiem/Forest-Soul-Forge",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:20:20Z",
+    "url": "https://github.com/StellarRequiem/Forest-Soul-Forge"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17254,
+    "updated_at": "2026-05-24T16:17:44Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
+    "id": "swarmauri/swarmauri-sdk",
+    "language": "Python",
+    "name": "swarmauri/swarmauri-sdk",
+    "stars": 105,
+    "updated_at": "2026-05-24T16:16:30Z",
+    "url": "https://github.com/swarmauri/swarmauri-sdk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
     "id": "hoangtuanhehehehhe/AgentVault",
     "language": "Python",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 2,
-    "updated_at": "2026-05-24T16:10:32Z",
+    "updated_at": "2026-05-24T16:30:18Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -45,40 +117,13 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-24T16:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-05-24T16:14:39Z",
+    "updated_at": "2026-05-24T16:29:43Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Minimalist toolkit to build the foundation of Agent harness.",
-    "id": "utakotoba/sonetto",
-    "language": "TypeScript",
-    "name": "utakotoba/sonetto",
-    "stars": 1,
-    "updated_at": "2026-05-24T15:59:05Z",
-    "url": "https://github.com/utakotoba/sonetto"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17253,
-    "updated_at": "2026-05-24T15:58:02Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Tree-sitter powered code manipulation and analysis tools for AI coding agents",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T15:52:13Z",
     "url": "https://github.com/davidel8698-stack/apex"
-  },
-  {
-    "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
-    "id": "swarmauri/swarmauri-sdk",
-    "language": "Python",
-    "name": "swarmauri/swarmauri-sdk",
-    "stars": 105,
-    "updated_at": "2026-05-24T15:45:00Z",
-    "url": "https://github.com/swarmauri/swarmauri-sdk"
   },
   {
     "description": "Experimental harness for studying LLM-based agents through trace-based observability and evaluation.",
@@ -184,7 +220,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 6362,
+    "stars": 6372,
     "updated_at": "2026-05-24T15:33:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -203,7 +239,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 7,
-    "updated_at": "2026-05-24T15:40:37Z",
+    "updated_at": "2026-05-24T16:17:45Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 812,
     "updated_at": "2026-05-24T15:20:40Z",
     "url": "https://github.com/vstorm-co/pydantic-deepagents"
-  },
-  {
-    "description": "Open-source multi-agent AI marketing team with personas, shared memory, 130+ skills, and Docker deploys for Railway and ",
-    "id": "citedy/adclaw",
-    "language": "Python",
-    "name": "citedy/adclaw",
-    "stars": 19,
-    "updated_at": "2026-05-24T15:19:04Z",
-    "url": "https://github.com/citedy/adclaw"
   },
   {
     "description": "Production-grade reusable AI agent infrastructure base. ReAct loop, tool pipeline, permissions, hooks, session   persist",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T14:30:13Z",
     "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:29:40Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Automate software development with an autonomous multi-agent loop using Qwen Code to self-direct, commit, and improve yo",
-    "id": "Danielle6426/Qwen-Loop",
-    "language": "TypeScript",
-    "name": "Danielle6426/Qwen-Loop",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:29:33Z",
-    "url": "https://github.com/Danielle6426/Qwen-Loop"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:29:04Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
   }
 ]
