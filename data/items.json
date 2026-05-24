@@ -1,12 +1,102 @@
 [
   {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-05-24T21:45:15Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-05-24T21:42:32Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
+    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
+    "language": "Python",
+    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
+    "stars": 0,
+    "updated_at": "2026-05-24T21:42:27Z",
+    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-05-24T21:42:05Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 5,
+    "updated_at": "2026-05-24T21:40:50Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 62,
-    "updated_at": "2026-05-24T21:29:30Z",
+    "updated_at": "2026-05-24T21:35:37Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "",
+    "id": "envergadcr/ai-video-workflow",
+    "language": "Python",
+    "name": "envergadcr/ai-video-workflow",
+    "stars": 1,
+    "updated_at": "2026-05-24T21:34:21Z",
+    "url": "https://github.com/envergadcr/ai-video-workflow"
+  },
+  {
+    "description": "\ud83e\udde0 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool",
+    "id": "Niranjan-008/Agentic-Decision-Cell",
+    "language": "Python",
+    "name": "Niranjan-008/Agentic-Decision-Cell",
+    "stars": 0,
+    "updated_at": "2026-05-24T21:33:45Z",
+    "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
+  },
+  {
+    "description": "The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control.",
+    "id": "tr00x/SOMA-Core",
+    "language": "TypeScript",
+    "name": "tr00x/SOMA-Core",
+    "stars": 1,
+    "updated_at": "2026-05-24T21:32:35Z",
+    "url": "https://github.com/tr00x/SOMA-Core"
+  },
+  {
+    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
+    "id": "rogerchappel/crewcmd",
+    "language": "TypeScript",
+    "name": "rogerchappel/crewcmd",
+    "stars": 2,
+    "updated_at": "2026-05-24T21:31:33Z",
+    "url": "https://github.com/rogerchappel/crewcmd"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-05-24T21:31:18Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-24T21:26:49Z",
+    "updated_at": "2026-05-24T21:30:20Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -113,7 +203,7 @@
     "language": "TypeScript",
     "name": "Studnicky/Dagonizer",
     "stars": 1,
-    "updated_at": "2026-05-24T20:56:50Z",
+    "updated_at": "2026-05-24T21:44:17Z",
     "url": "https://github.com/Studnicky/Dagonizer"
   },
   {
@@ -121,7 +211,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 1957,
+    "stars": 1959,
     "updated_at": "2026-05-24T20:56:41Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -279,15 +369,6 @@
     "url": "https://github.com/gabrielvuksani/wotann"
   },
   {
-    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
-    "id": "rogerchappel/crewcmd",
-    "language": "TypeScript",
-    "name": "rogerchappel/crewcmd",
-    "stars": 2,
-    "updated_at": "2026-05-24T19:17:48Z",
-    "url": "https://github.com/rogerchappel/crewcmd"
-  },
-  {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
     "id": "herreravalenz6620/context-compression",
     "language": "Python",
@@ -304,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T18:56:26Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:56:17Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
   },
   {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T18:49:45Z",
     "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:49:40Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
-    "id": "Trickedout-ribier5513/AgentClaw",
-    "language": "TypeScript",
-    "name": "Trickedout-ribier5513/AgentClaw",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:49:32Z",
-    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:48:57Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:48:36Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Automate software development with an autonomous multi-agent loop using Qwen Code to self-direct, commit, and improve yo",
-    "id": "Danielle6426/Qwen-Loop",
-    "language": "TypeScript",
-    "name": "Danielle6426/Qwen-Loop",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:48:24Z",
-    "url": "https://github.com/Danielle6426/Qwen-Loop"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:47:57Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:46:24Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 1,
-    "updated_at": "2026-05-24T18:46:20Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
   }
 ]
