@@ -1,12 +1,66 @@
 [
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "TypeScript",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 6277,
-    "updated_at": "2026-05-24T14:42:36Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "description": "Production-grade reusable AI agent infrastructure base. ReAct loop, tool pipeline, permissions, hooks, session   persist",
+    "id": "H-Mr/llm-harness",
+    "language": "Python",
+    "name": "H-Mr/llm-harness",
+    "stars": 1,
+    "updated_at": "2026-05-24T15:10:41Z",
+    "url": "https://github.com/H-Mr/llm-harness"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 122,
+    "updated_at": "2026-05-24T15:06:01Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Experimental harness for studying LLM-based agents through trace-based observability and evaluation.",
+    "id": "tripledoublev/v100",
+    "language": "Go",
+    "name": "tripledoublev/v100",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:04:51Z",
+    "url": "https://github.com/tripledoublev/v100"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Shell",
+    "name": "bakw00ds/yakos",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:00:33Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Tree-sitter powered code manipulation and analysis tools for AI coding agents",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 114,
+    "updated_at": "2026-05-24T14:53:07Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-05-24T15:10:59Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Hermes Agent \u6846\u67b6\u5b98\u65b9\u63d2\u4ef6\u4ed3\u5e93 - \u667a\u80fd\u4f53\u80fd\u529b\u6269\u5c55\u7684\u6a21\u5757\u5316\u89e3\u51b3\u65b9\u6848",
+    "id": "weksbwrx62862/hermes-plugins",
+    "language": "Python",
+    "name": "weksbwrx62862/hermes-plugins",
+    "stars": 0,
+    "updated_at": "2026-05-24T14:48:57Z",
+    "url": "https://github.com/weksbwrx62862/hermes-plugins"
   },
   {
     "description": "Give your AI a soul that outlives any tool. One command to install, 13 plain-text files, zero dependencies. Switch betwe",
@@ -14,17 +68,26 @@
     "language": "Python",
     "name": "fei426/ParaSoul",
     "stars": 0,
-    "updated_at": "2026-05-24T14:40:27Z",
+    "updated_at": "2026-05-24T14:45:28Z",
     "url": "https://github.com/fei426/ParaSoul"
   },
   {
-    "description": "Production-grade reusable AI agent infrastructure base. ReAct loop, tool pipeline, permissions, hooks, session   persist",
-    "id": "H-Mr/llm-harness",
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
     "language": "Python",
-    "name": "H-Mr/llm-harness",
-    "stars": 1,
-    "updated_at": "2026-05-24T14:39:59Z",
-    "url": "https://github.com/H-Mr/llm-harness"
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T14:43:09Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 6302,
+    "updated_at": "2026-05-24T14:42:36Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 454,
-    "updated_at": "2026-05-24T14:34:09Z",
+    "updated_at": "2026-05-24T15:10:30Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
@@ -185,7 +248,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 7,
-    "updated_at": "2026-05-24T14:29:42Z",
+    "updated_at": "2026-05-24T15:09:00Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -311,17 +374,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 17252,
-    "updated_at": "2026-05-24T14:32:46Z",
+    "updated_at": "2026-05-24T15:06:44Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Hermes Agent \u6846\u67b6\u5b98\u65b9\u63d2\u4ef6\u4ed3\u5e93 - \u667a\u80fd\u4f53\u80fd\u529b\u6269\u5c55\u7684\u6a21\u5757\u5316\u89e3\u51b3\u65b9\u6848",
-    "id": "weksbwrx62862/hermes-plugins",
-    "language": "Python",
-    "name": "weksbwrx62862/hermes-plugins",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:24:48Z",
-    "url": "https://github.com/weksbwrx62862/hermes-plugins"
   },
   {
     "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T14:18:24Z",
     "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:18:08Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Build self-spawning AI agents from tasks with distributed memory, guardrails, and a fossil record.",
-    "id": "karunun4659/spawnverse",
-    "language": "\u2014",
-    "name": "karunun4659/spawnverse",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:17:43Z",
-    "url": "https://github.com/karunun4659/spawnverse"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:17:42Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:17:17Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 17,
-    "updated_at": "2026-05-24T14:17:14Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Connect WeChat messages to local AI coding agents like Codex, OpenCode, and Claude Code for fast task handling and file ",
-    "id": "arthursou0512/wechat-agent-channel",
-    "language": "Python",
-    "name": "arthursou0512/wechat-agent-channel",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:16:29Z",
-    "url": "https://github.com/arthursou0512/wechat-agent-channel"
   }
 ]
