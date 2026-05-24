@@ -1,12 +1,66 @@
 [
   {
-    "description": "Backend Agent R&D Framework (Engineering Standards & Onboarding). An Agent-driven workflow tailored for backend developm",
-    "id": "listener-He/java-harness-agent",
+    "description": "A framework-agnostic, git-native standard for defining AI agents",
+    "id": "open-gitagent/opengap",
+    "language": "TypeScript",
+    "name": "open-gitagent/opengap",
+    "stars": 2789,
+    "updated_at": "2026-05-24T17:15:17Z",
+    "url": "https://github.com/open-gitagent/opengap"
+  },
+  {
+    "description": "The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control.",
+    "id": "tr00x/SOMA-Core",
+    "language": "TypeScript",
+    "name": "tr00x/SOMA-Core",
+    "stars": 1,
+    "updated_at": "2026-05-24T17:12:46Z",
+    "url": "https://github.com/tr00x/SOMA-Core"
+  },
+  {
+    "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
+    "id": "swarmauri/swarmauri-sdk",
     "language": "Python",
-    "name": "listener-He/java-harness-agent",
-    "stars": 10,
-    "updated_at": "2026-05-24T16:54:40Z",
-    "url": "https://github.com/listener-He/java-harness-agent"
+    "name": "swarmauri/swarmauri-sdk",
+    "stars": 105,
+    "updated_at": "2026-05-24T17:09:44Z",
+    "url": "https://github.com/swarmauri/swarmauri-sdk"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-05-24T17:10:05Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
+    "id": "akimoto-akira/SiliconLifeCollective",
+    "language": "C#",
+    "name": "akimoto-akira/SiliconLifeCollective",
+    "stars": 2,
+    "updated_at": "2026-05-24T17:09:33Z",
+    "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
+  },
+  {
+    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
+    "id": "Arch1eSUN/Moirai",
+    "language": "Python",
+    "name": "Arch1eSUN/Moirai",
+    "stars": 1,
+    "updated_at": "2026-05-24T17:04:56Z",
+    "url": "https://github.com/Arch1eSUN/Moirai"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 1899,
+    "updated_at": "2026-05-24T17:02:19Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-24T16:54:37Z",
+    "updated_at": "2026-05-24T17:00:23Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Backend Agent R&D Framework (Engineering Standards & Onboarding). An Agent-driven workflow tailored for backend developm",
+    "id": "listener-He/java-harness-agent",
+    "language": "Python",
+    "name": "listener-He/java-harness-agent",
+    "stars": 10,
+    "updated_at": "2026-05-24T16:54:40Z",
+    "url": "https://github.com/listener-He/java-harness-agent"
   },
   {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T16:51:23Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "A framework-agnostic, git-native standard for defining AI agents",
-    "id": "open-gitagent/opengap",
-    "language": "TypeScript",
-    "name": "open-gitagent/opengap",
-    "stars": 2789,
-    "updated_at": "2026-05-24T16:50:54Z",
-    "url": "https://github.com/open-gitagent/opengap"
   },
   {
     "description": "Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo",
@@ -81,15 +135,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
-    "id": "akimoto-akira/SiliconLifeCollective",
-    "language": "C#",
-    "name": "akimoto-akira/SiliconLifeCollective",
-    "stars": 2,
-    "updated_at": "2026-05-24T16:40:36Z",
-    "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T16:40:22Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 1898,
-    "updated_at": "2026-05-24T16:38:42Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Experimental harness for studying LLM-based agents through trace-based observability and evaluation.",
@@ -126,15 +162,6 @@
     "url": "https://github.com/JacobPEvans/ai-assistant-instructions"
   },
   {
-    "description": "The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control.",
-    "id": "tr00x/SOMA-Core",
-    "language": "TypeScript",
-    "name": "tr00x/SOMA-Core",
-    "stars": 1,
-    "updated_at": "2026-05-24T16:37:04Z",
-    "url": "https://github.com/tr00x/SOMA-Core"
-  },
-  {
     "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
     "id": "firatcand/roster",
     "language": "TypeScript",
@@ -151,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-05-24T16:34:39Z",
     "url": "https://github.com/MiteshSharma/ethos"
-  },
-  {
-    "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
-    "id": "swarmauri/swarmauri-sdk",
-    "language": "Python",
-    "name": "swarmauri/swarmauri-sdk",
-    "stars": 105,
-    "updated_at": "2026-05-24T16:32:56Z",
-    "url": "https://github.com/swarmauri/swarmauri-sdk"
   },
   {
     "description": "Open-source multi-agent AI marketing team with personas, shared memory, 130+ skills, and Docker deploys for Railway and ",
@@ -234,15 +252,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-05-24T16:55:01Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
     "description": "Tree-sitter powered code manipulation and analysis tools for AI coding agents",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -250,15 +259,6 @@
     "stars": 114,
     "updated_at": "2026-05-24T15:56:13Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
-    "id": "Arch1eSUN/Moirai",
-    "language": "Python",
-    "name": "Arch1eSUN/Moirai",
-    "stars": 1,
-    "updated_at": "2026-05-24T15:53:56Z",
-    "url": "https://github.com/Arch1eSUN/Moirai"
   },
   {
     "description": "Open Agent Communication Network - Fork of acn on fetchai/agents-aea",
@@ -292,7 +292,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 6402,
+    "stars": 6410,
     "updated_at": "2026-05-24T15:33:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -320,7 +320,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 454,
-    "updated_at": "2026-05-24T15:52:14Z",
+    "updated_at": "2026-05-24T17:12:43Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
