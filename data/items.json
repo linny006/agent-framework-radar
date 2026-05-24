@@ -1,12 +1,93 @@
 [
   {
-    "description": "The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control.",
-    "id": "tr00x/SOMA-Core",
-    "language": "TypeScript",
-    "name": "tr00x/SOMA-Core",
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:44:41Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Agentic runtime system still in progress",
+    "id": "StellarRequiem/Forest-Soul-Forge",
+    "language": "Python",
+    "name": "StellarRequiem/Forest-Soul-Forge",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:44:15Z",
+    "url": "https://github.com/StellarRequiem/Forest-Soul-Forge"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
     "stars": 1,
-    "updated_at": "2026-05-24T17:30:06Z",
-    "url": "https://github.com/tr00x/SOMA-Core"
+    "updated_at": "2026-05-24T17:44:08Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "\ud83d\udc14 An open-source, distributed AI agent farm OS. Raise, train, and trade autonomous agents on your own hardware.",
+    "id": "dcluomax/coop",
+    "language": "Rust",
+    "name": "dcluomax/coop",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:43:21Z",
+    "url": "https://github.com/dcluomax/coop"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:41:35Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:38:08Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-05-24T17:37:25Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:35:17Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:34:31Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "A framework-agnostic, git-native standard for defining AI agents",
+    "id": "open-gitagent/opengap",
+    "language": "TypeScript",
+    "name": "open-gitagent/opengap",
+    "stars": 2789,
+    "updated_at": "2026-05-24T17:31:52Z",
+    "url": "https://github.com/open-gitagent/opengap"
   },
   {
     "description": "Open-source multi-agent AI marketing team with personas, shared memory, 130+ skills, and Docker deploys for Railway and ",
@@ -14,8 +95,26 @@
     "language": "Python",
     "name": "citedy/adclaw",
     "stars": 19,
-    "updated_at": "2026-05-24T17:30:08Z",
+    "updated_at": "2026-05-24T17:33:03Z",
     "url": "https://github.com/citedy/adclaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control.",
+    "id": "tr00x/SOMA-Core",
+    "language": "TypeScript",
+    "name": "tr00x/SOMA-Core",
+    "stars": 1,
+    "updated_at": "2026-05-24T17:30:06Z",
+    "url": "https://github.com/tr00x/SOMA-Core"
   },
   {
     "description": "",
@@ -36,21 +135,12 @@
     "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
   },
   {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-05-24T17:26:13Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
     "description": "AI Agent lives in your project. All in one workspace.",
     "id": "DotHarness/dotcraft",
     "language": "C#",
     "name": "DotHarness/dotcraft",
     "stars": 36,
-    "updated_at": "2026-05-24T17:25:48Z",
+    "updated_at": "2026-05-24T17:44:04Z",
     "url": "https://github.com/DotHarness/dotcraft"
   },
   {
@@ -90,24 +180,6 @@
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-24T17:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A framework-agnostic, git-native standard for defining AI agents",
-    "id": "open-gitagent/opengap",
-    "language": "TypeScript",
-    "name": "open-gitagent/opengap",
-    "stars": 2789,
-    "updated_at": "2026-05-24T17:15:17Z",
-    "url": "https://github.com/open-gitagent/opengap"
-  },
-  {
     "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
     "id": "swarmauri/swarmauri-sdk",
     "language": "Python",
@@ -139,7 +211,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 1903,
+    "stars": 1906,
     "updated_at": "2026-05-24T17:02:19Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -187,33 +259,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T16:46:21Z",
     "url": "https://github.com/davidel8698-stack/apex"
-  },
-  {
-    "description": "Agentic runtime system still in progress",
-    "id": "StellarRequiem/Forest-Soul-Forge",
-    "language": "Python",
-    "name": "StellarRequiem/Forest-Soul-Forge",
-    "stars": 0,
-    "updated_at": "2026-05-24T16:45:47Z",
-    "url": "https://github.com/StellarRequiem/Forest-Soul-Forge"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 0,
-    "updated_at": "2026-05-24T16:43:21Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-05-24T16:40:22Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -355,7 +400,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 6418,
+    "stars": 6427,
     "updated_at": "2026-05-24T15:33:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -374,7 +419,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 7,
-    "updated_at": "2026-05-24T17:23:31Z",
+    "updated_at": "2026-05-24T17:34:32Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 248,
     "updated_at": "2026-05-24T15:15:32Z",
     "url": "https://github.com/xiaojilele-glitch/cube-pets-office"
-  },
-  {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Shell",
-    "name": "bakw00ds/yakos",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:50:36Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
-    "description": "Hermes Agent \u6846\u67b6\u5b98\u65b9\u63d2\u4ef6\u4ed3\u5e93 - \u667a\u80fd\u4f53\u80fd\u529b\u6269\u5c55\u7684\u6a21\u5757\u5316\u89e3\u51b3\u65b9\u6848",
-    "id": "weksbwrx62862/hermes-plugins",
-    "language": "Python",
-    "name": "weksbwrx62862/hermes-plugins",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:48:57Z",
-    "url": "https://github.com/weksbwrx62862/hermes-plugins"
-  },
-  {
-    "description": "Give your AI a soul that outlives any tool. One command to install, 13 plain-text files, zero dependencies. Switch betwe",
-    "id": "fei426/ParaSoul",
-    "language": "Python",
-    "name": "fei426/ParaSoul",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:45:28Z",
-    "url": "https://github.com/fei426/ParaSoul"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 2,
-    "updated_at": "2026-05-24T14:38:53Z",
-    "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:38:50Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
   }
 ]
