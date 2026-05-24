@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:07:07Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The All-Father of AI agent harnesses. One install. Every model. Every channel. Full autonomy.",
     "id": "gabrielvuksani/wotann",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 3,
     "updated_at": "2026-05-24T19:05:49Z",
     "url": "https://github.com/gabrielvuksani/wotann"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-24T19:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -284,7 +284,7 @@
     "language": "TypeScript",
     "name": "Studnicky/Dagonizer",
     "stars": 1,
-    "updated_at": "2026-05-24T18:53:15Z",
+    "updated_at": "2026-05-24T19:15:04Z",
     "url": "https://github.com/Studnicky/Dagonizer"
   },
   {
