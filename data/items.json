@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 5,
-    "updated_at": "2026-05-25T12:45:07Z",
+    "updated_at": "2026-05-25T12:58:15Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
+    "id": "mj-deving/omniweb-agents",
+    "language": "TypeScript",
+    "name": "mj-deving/omniweb-agents",
+    "stars": 0,
+    "updated_at": "2026-05-25T12:58:15Z",
+    "url": "https://github.com/mj-deving/omniweb-agents"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 7557,
+    "updated_at": "2026-05-25T12:57:31Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 106,
+    "updated_at": "2026-05-25T12:53:53Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 8,
+    "updated_at": "2026-05-25T12:50:31Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 8,
+    "updated_at": "2026-05-25T12:48:32Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
+    "description": "TeleologyHI \u2014 A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti",
+    "id": "davccavalcante/TeleologyHI",
+    "language": "TypeScript",
+    "name": "davccavalcante/TeleologyHI",
+    "stars": 0,
+    "updated_at": "2026-05-25T12:54:56Z",
+    "url": "https://github.com/davccavalcante/TeleologyHI"
+  },
+  {
+    "description": "Autonomous AI agent runtime \u2014 TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co",
+    "id": "erayendes/kortext",
+    "language": "TypeScript",
+    "name": "erayendes/kortext",
+    "stars": 0,
+    "updated_at": "2026-05-25T12:46:43Z",
+    "url": "https://github.com/erayendes/kortext"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T12:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Backend Agent R&D Framework (Engineering Standards & Onboarding). An Agent-driven workflow tailored for backend developm",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "listener-He/java-harness-agent",
     "stars": 10,
-    "updated_at": "2026-05-25T12:43:11Z",
+    "updated_at": "2026-05-25T12:48:25Z",
     "url": "https://github.com/listener-He/java-harness-agent"
   },
   {
@@ -45,31 +117,22 @@
     "url": "https://github.com/fumino-development/fumino-engine"
   },
   {
-    "description": "TeleologyHI \u2014 A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti",
-    "id": "davccavalcante/TeleologyHI",
-    "language": "TypeScript",
-    "name": "davccavalcante/TeleologyHI",
-    "stars": 1,
-    "updated_at": "2026-05-25T12:42:19Z",
-    "url": "https://github.com/davccavalcante/TeleologyHI"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17281,
+    "stars": 17282,
     "updated_at": "2026-05-25T12:34:57Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
-    "id": "mj-deving/omniweb-agents",
-    "language": "TypeScript",
-    "name": "mj-deving/omniweb-agents",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:41:34Z",
-    "url": "https://github.com/mj-deving/omniweb-agents"
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 106,
+    "updated_at": "2026-05-25T12:33:25Z",
+    "url": "https://github.com/GizClaw/flowcraft"
   },
   {
     "description": "Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability,",
@@ -79,15 +142,6 @@
     "stars": 32,
     "updated_at": "2026-05-25T12:34:50Z",
     "url": "https://github.com/linora-u/AgentLoom"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T12:05:20Z",
     "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:05:11Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:04:53Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-05-25T12:04:24Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:02:30Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 1,
-    "updated_at": "2026-05-25T12:01:36Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Git-based distributed swarm memory for AI agents \u2014 lessons learned, lessons shared. Stop repeating the same debugging se",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 21,
-    "updated_at": "2026-05-25T12:01:10Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   }
 ]
