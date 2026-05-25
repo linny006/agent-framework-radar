@@ -1,12 +1,57 @@
 [
   {
+    "description": "Minimalist toolkit to build the foundation of Agent harness.",
+    "id": "AlphaYou/sonetto",
+    "language": "TypeScript",
+    "name": "AlphaYou/sonetto",
+    "stars": 1,
+    "updated_at": "2026-05-25T06:20:27Z",
+    "url": "https://github.com/AlphaYou/sonetto"
+  },
+  {
+    "description": "Lifecycle-shaped Claude Code agent kit: scheduled audits \u2192 ready-state issues \u2192 developer-agent PRs \u2192 multi-persona advi",
+    "id": "Ethanon/developer.ai",
+    "language": "\u2014",
+    "name": "Ethanon/developer.ai",
+    "stars": 4,
+    "updated_at": "2026-05-25T06:19:54Z",
+    "url": "https://github.com/Ethanon/developer.ai"
+  },
+  {
     "description": "Merged opencode config + agents + accomplishments showcase \u2014 217 skills, 17 agent profiles, 6 MCP servers, 78-server reg",
     "id": "marktantongco/opencodelinux",
     "language": "HTML",
     "name": "marktantongco/opencodelinux",
     "stars": 0,
-    "updated_at": "2026-05-25T06:15:04Z",
+    "updated_at": "2026-05-25T06:18:49Z",
     "url": "https://github.com/marktantongco/opencodelinux"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 7120,
+    "updated_at": "2026-05-25T06:18:30Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 116,
+    "updated_at": "2026-05-25T06:16:42Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
@@ -18,15 +63,6 @@
     "url": "https://github.com/berhannnnd/Agents"
   },
   {
-    "description": "Minimalist toolkit to build the foundation of Agent harness.",
-    "id": "AlphaYou/sonetto",
-    "language": "TypeScript",
-    "name": "AlphaYou/sonetto",
-    "stars": 1,
-    "updated_at": "2026-05-25T06:09:03Z",
-    "url": "https://github.com/AlphaYou/sonetto"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T06:04:57Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Lifecycle-shaped Claude Code agent kit: scheduled audits \u2192 ready-state issues \u2192 developer-agent PRs \u2192 multi-persona advi",
-    "id": "Ethanon/developer.ai",
-    "language": "\u2014",
-    "name": "Ethanon/developer.ai",
-    "stars": 4,
-    "updated_at": "2026-05-25T06:04:11Z",
-    "url": "https://github.com/Ethanon/developer.ai"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -70,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T06:01:32Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T06:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "TypeScript",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 7109,
-    "updated_at": "2026-05-25T06:00:10Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Open source Golang LLM Proxy, Agent SDK with Restate & Temporal support for durable agent loop",
@@ -144,15 +153,6 @@
     "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
   },
   {
-    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 116,
-    "updated_at": "2026-05-25T05:28:46Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
     "id": "hoangtuanhehehehhe/AgentVault",
     "language": "Python",
@@ -160,6 +160,15 @@
     "stars": 8,
     "updated_at": "2026-05-25T05:26:39Z",
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17271,
+    "updated_at": "2026-05-25T05:25:10Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T04:56:34Z",
     "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-05-25T04:56:03Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
   }
 ]
