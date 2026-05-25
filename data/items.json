@@ -1,5 +1,59 @@
 [
   {
+    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1212,
+    "updated_at": "2026-05-25T20:00:09Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
+    "id": "Markusnigerian562/Project-A-MOS-Framework",
+    "language": "Shell",
+    "name": "Markusnigerian562/Project-A-MOS-Framework",
+    "stars": 1,
+    "updated_at": "2026-05-25T19:58:32Z",
+    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
+  },
+  {
+    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
+    "id": "Avesrarity821/robopotato",
+    "language": "\u2014",
+    "name": "Avesrarity821/robopotato",
+    "stars": 0,
+    "updated_at": "2026-05-25T19:58:28Z",
+    "url": "https://github.com/Avesrarity821/robopotato"
+  },
+  {
+    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
+    "id": "counterplaybloodtest96/agent-orchestrator",
+    "language": "\u2014",
+    "name": "counterplaybloodtest96/agent-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-25T19:58:12Z",
+    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
+  },
+  {
+    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
+    "id": "Internationaleundset619/OpenDsStar",
+    "language": "Python",
+    "name": "Internationaleundset619/OpenDsStar",
+    "stars": 0,
+    "updated_at": "2026-05-25T19:57:45Z",
+    "url": "https://github.com/Internationaleundset619/OpenDsStar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T19:57:37Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
     "id": "smooth-snarl702/AE-agent",
     "language": "JavaScript",
@@ -169,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-05-25T19:45:35Z",
     "url": "https://github.com/Nicoman501/Novel-OS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T19:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Provide practical AI interview questions focused on production deployment in real-world MENA enterprise environments.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T19:21:28Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83d\udcda Build an all-in-one subscription-based education platform with secure payments, content management, and analytics for ",
-    "id": "Aikyy99/EduHive",
-    "language": "TypeScript",
-    "name": "Aikyy99/EduHive",
-    "stars": 0,
-    "updated_at": "2026-05-25T19:20:02Z",
-    "url": "https://github.com/Aikyy99/EduHive"
-  },
-  {
-    "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
-    "id": "Kuonirad/MCOP-Framework-2.0",
-    "language": "TypeScript",
-    "name": "Kuonirad/MCOP-Framework-2.0",
-    "stars": 1,
-    "updated_at": "2026-05-25T19:19:26Z",
-    "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4600,
-    "updated_at": "2026-05-25T19:32:36Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
-    "id": "cuteecarrot/AgentHub",
-    "language": "Python",
-    "name": "cuteecarrot/AgentHub",
-    "stars": 4,
-    "updated_at": "2026-05-25T19:17:31Z",
-    "url": "https://github.com/cuteecarrot/AgentHub"
-  },
-  {
-    "description": "\ud83e\udd16 Build advanced multi-agent AI systems with this high-performance Rust framework, enabling automation, reasoning, and e",
-    "id": "Albertossilva-maker/MultiAgent-AI",
-    "language": "HTML",
-    "name": "Albertossilva-maker/MultiAgent-AI",
-    "stars": 0,
-    "updated_at": "2026-05-25T19:17:07Z",
-    "url": "https://github.com/Albertossilva-maker/MultiAgent-AI"
   }
 ]
