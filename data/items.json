@@ -1,5 +1,104 @@
 [
   {
+    "description": "A local-first, cost-conscious multi-agent workspace. Mission-first IA, dual-tier sandbox (shared + per-agent), audited s",
+    "id": "Yrzhe/missionry",
+    "language": "TypeScript",
+    "name": "Yrzhe/missionry",
+    "stars": 1,
+    "updated_at": "2026-05-25T06:59:54Z",
+    "url": "https://github.com/Yrzhe/missionry"
+  },
+  {
+    "description": "\ud83d\udcda Build an all-in-one subscription-based education platform with secure payments, content management, and analytics for ",
+    "id": "Aikyy99/EduHive",
+    "language": "TypeScript",
+    "name": "Aikyy99/EduHive",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:59:01Z",
+    "url": "https://github.com/Aikyy99/EduHive"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
+    "id": "cuteecarrot/AgentHub",
+    "language": "Python",
+    "name": "cuteecarrot/AgentHub",
+    "stars": 4,
+    "updated_at": "2026-05-25T06:56:38Z",
+    "url": "https://github.com/cuteecarrot/AgentHub"
+  },
+  {
+    "description": "\ud83e\udd16 Build advanced multi-agent AI systems with this high-performance Rust framework, enabling automation, reasoning, and e",
+    "id": "Albertossilva-maker/MultiAgent-AI",
+    "language": "HTML",
+    "name": "Albertossilva-maker/MultiAgent-AI",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:56:08Z",
+    "url": "https://github.com/Albertossilva-maker/MultiAgent-AI"
+  },
+  {
+    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
+    "id": "mj-deving/omniweb-agents",
+    "language": "TypeScript",
+    "name": "mj-deving/omniweb-agents",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:53:29Z",
+    "url": "https://github.com/mj-deving/omniweb-agents"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:52:17Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:50:47Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-05-25T06:49:30Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
+    "id": "berhannnnd/Agents",
+    "language": "Python",
+    "name": "berhannnnd/Agents",
+    "stars": 1,
+    "updated_at": "2026-05-25T06:47:23Z",
+    "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
+    "description": "Markdown Agent Studio is a workspace where agents develop specialization through their own experience.",
+    "id": "RobThePCGuy/markdown-agent-studio",
+    "language": "TypeScript",
+    "name": "RobThePCGuy/markdown-agent-studio",
+    "stars": 1,
+    "updated_at": "2026-05-25T06:47:20Z",
+    "url": "https://github.com/RobThePCGuy/markdown-agent-studio"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Minimalist toolkit to build the foundation of Agent harness.",
     "id": "alphayou/sonetto",
     "language": "TypeScript",
@@ -41,7 +140,7 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 0,
-    "updated_at": "2026-05-25T06:42:17Z",
+    "updated_at": "2026-05-25T06:52:38Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -50,17 +149,8 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 62,
-    "updated_at": "2026-05-25T06:39:26Z",
+    "updated_at": "2026-05-25T06:54:53Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "A local-first, cost-conscious multi-agent workspace. Mission-first IA, dual-tier sandbox (shared + per-agent), audited s",
-    "id": "Yrzhe/missionry",
-    "language": "TypeScript",
-    "name": "Yrzhe/missionry",
-    "stars": 1,
-    "updated_at": "2026-05-25T06:39:07Z",
-    "url": "https://github.com/Yrzhe/missionry"
   },
   {
     "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
@@ -70,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-05-25T06:36:22Z",
     "url": "https://github.com/Studnicky/Dagonizer"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
-    "id": "berhannnnd/Agents",
-    "language": "Python",
-    "name": "berhannnnd/Agents",
-    "stars": 1,
-    "updated_at": "2026-05-25T06:35:33Z",
-    "url": "https://github.com/berhannnnd/Agents"
   },
   {
     "description": "",
@@ -103,7 +184,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 7179,
+    "stars": 7222,
     "updated_at": "2026-05-25T06:32:08Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -124,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T06:30:28Z",
     "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T06:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A self-evolving operating system for Claude Code \u2014 dynamic agent evolution, persistent memory, 9-layer safety",
@@ -180,15 +252,6 @@
     "url": "https://github.com/fuseraft/fuseraft-cli"
   },
   {
-    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
-    "id": "mj-deving/omniweb-agents",
-    "language": "TypeScript",
-    "name": "mj-deving/omniweb-agents",
-    "stars": 0,
-    "updated_at": "2026-05-25T06:26:59Z",
-    "url": "https://github.com/mj-deving/omniweb-agents"
-  },
-  {
     "description": "Lifecycle-shaped Claude Code agent kit: scheduled audits \u2192 ready-state issues \u2192 developer-agent PRs \u2192 multi-persona advi",
     "id": "Ethanon/developer.ai",
     "language": "\u2014",
@@ -221,7 +284,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-05-25T06:27:57Z",
+    "updated_at": "2026-05-25T06:58:21Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -256,7 +319,7 @@
     "id": "didilili/ai-agents-from-zero",
     "language": "Python",
     "name": "didilili/ai-agents-from-zero",
-    "stars": 1329,
+    "stars": 1330,
     "updated_at": "2026-05-25T05:39:57Z",
     "url": "https://github.com/didilili/ai-agents-from-zero"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T05:05:18Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:02:53Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:02:36Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:02:36Z",
-    "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:02:13Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:02:01Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
-    "id": "Trickedout-ribier5513/AgentClaw",
-    "language": "TypeScript",
-    "name": "Trickedout-ribier5513/AgentClaw",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:01:49Z",
-    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:01:11Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
   }
 ]
