@@ -1,21 +1,12 @@
 [
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "TypeScript",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 7072,
-    "updated_at": "2026-05-25T06:00:10Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Minimalist toolkit to build the foundation of Agent harness.",
-    "id": "AlphaYou/sonetto",
-    "language": "TypeScript",
-    "name": "AlphaYou/sonetto",
-    "stars": 1,
-    "updated_at": "2026-05-25T05:57:46Z",
-    "url": "https://github.com/AlphaYou/sonetto"
+    "description": "Merged opencode config + agents + accomplishments showcase \u2014 217 skills, 17 agent profiles, 6 MCP servers, 78-server reg",
+    "id": "marktantongco/opencodelinux",
+    "language": "HTML",
+    "name": "marktantongco/opencodelinux",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:15:04Z",
+    "url": "https://github.com/marktantongco/opencodelinux"
   },
   {
     "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
@@ -23,8 +14,80 @@
     "language": "Python",
     "name": "berhannnnd/Agents",
     "stars": 1,
-    "updated_at": "2026-05-25T05:54:51Z",
+    "updated_at": "2026-05-25T06:10:28Z",
     "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
+    "description": "Minimalist toolkit to build the foundation of Agent harness.",
+    "id": "AlphaYou/sonetto",
+    "language": "TypeScript",
+    "name": "AlphaYou/sonetto",
+    "stars": 1,
+    "updated_at": "2026-05-25T06:09:03Z",
+    "url": "https://github.com/AlphaYou/sonetto"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:04:57Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Lifecycle-shaped Claude Code agent kit: scheduled audits \u2192 ready-state issues \u2192 developer-agent PRs \u2192 multi-persona advi",
+    "id": "Ethanon/developer.ai",
+    "language": "\u2014",
+    "name": "Ethanon/developer.ai",
+    "stars": 4,
+    "updated_at": "2026-05-25T06:04:11Z",
+    "url": "https://github.com/Ethanon/developer.ai"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-05-25T06:03:50Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:02:19Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:01:32Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 7109,
+    "updated_at": "2026-05-25T06:00:10Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Open source Golang LLM Proxy, Agent SDK with Restate & Temporal support for durable agent loop",
@@ -36,20 +99,11 @@
     "url": "https://github.com/hastekit/hastekit-sdk-go"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": " \ud83d\ude80 2026 \u6700\u7cfb\u7edf\u7684 AI Agent \u901f\u6210\u6307\u5357\uff5c\u667a\u80fd\u4f53\u5b9e\u6218\u6559\u7a0b \u00b7 \u5b8c\u6574\u5b66\u4e60\u8def\u5f84  + \u5b9e\u6218\u9879\u76ee + \u9762\u8bd5\u9898\u5e93 \u00b7 \u5bf9\u6807\u5927\u6a21\u578b\u5e94\u7528\u5f00\u53d1\u5de5\u7a0b\u5e08\u5c97\u4f4d \u00b7 \u8986\u76d6LangChain / LangGraph / Coze / Dify / MC",
     "id": "didilili/ai-agents-from-zero",
     "language": "Python",
     "name": "didilili/ai-agents-from-zero",
-    "stars": 1328,
+    "stars": 1329,
     "updated_at": "2026-05-25T05:39:57Z",
     "url": "https://github.com/didilili/ai-agents-from-zero"
   },
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 7,
-    "updated_at": "2026-05-25T05:25:07Z",
+    "updated_at": "2026-05-25T06:02:54Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-25T04:56:03Z",
     "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Claude Code skill that ships a full production feature while you sleep. No push, you review.",
-    "id": "sam-siavoshian/autopilot",
-    "language": "Shell",
-    "name": "sam-siavoshian/autopilot",
-    "stars": 1,
-    "updated_at": "2026-05-25T04:55:33Z",
-    "url": "https://github.com/sam-siavoshian/autopilot"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-05-25T04:54:17Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 1,
-    "updated_at": "2026-05-25T04:53:24Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-25T04:52:42Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-25T04:52:16Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 0,
-    "updated_at": "2026-05-25T04:51:36Z",
-    "url": "https://github.com/cele9529/LingxiFish"
   }
 ]
