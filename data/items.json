@@ -1,5 +1,68 @@
 [
   {
+    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
+    "id": "mj-deving/omniweb-agents",
+    "language": "TypeScript",
+    "name": "mj-deving/omniweb-agents",
+    "stars": 0,
+    "updated_at": "2026-05-25T14:15:12Z",
+    "url": "https://github.com/mj-deving/omniweb-agents"
+  },
+  {
+    "description": "Git-based distributed swarm memory for AI agents \u2014 lessons learned, lessons shared. Stop repeating the same debugging se",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 21,
+    "updated_at": "2026-05-25T14:11:07Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Package manager for AI coding assistants \u2014 manage skills, agents & MCPs across Claude Code, Codex, Copilot, and Cursor",
+    "id": "barleviatias/toolkit-ai",
+    "language": "TypeScript",
+    "name": "barleviatias/toolkit-ai",
+    "stars": 10,
+    "updated_at": "2026-05-25T14:09:47Z",
+    "url": "https://github.com/barleviatias/toolkit-ai"
+  },
+  {
+    "description": "",
+    "id": "envergadcr/ai-video-workflow",
+    "language": "Python",
+    "name": "envergadcr/ai-video-workflow",
+    "stars": 1,
+    "updated_at": "2026-05-25T14:08:25Z",
+    "url": "https://github.com/envergadcr/ai-video-workflow"
+  },
+  {
+    "description": "\ud83e\udde0 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool",
+    "id": "Niranjan-008/Agentic-Decision-Cell",
+    "language": "Python",
+    "name": "Niranjan-008/Agentic-Decision-Cell",
+    "stars": 0,
+    "updated_at": "2026-05-25T14:07:43Z",
+    "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-05-25T14:05:32Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T14:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
     "id": "q-j0k/sprintloop-orchestration",
     "language": "\u2014",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 2,
-    "updated_at": "2026-05-25T13:57:49Z",
+    "updated_at": "2026-05-25T14:01:49Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -25,15 +88,6 @@
     "stars": 8,
     "updated_at": "2026-05-25T13:57:59Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T13:56:47Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 5,
-    "updated_at": "2026-05-25T14:00:20Z",
+    "updated_at": "2026-05-25T14:09:57Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -76,7 +130,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 7905,
+    "stars": 7922,
     "updated_at": "2026-05-25T13:51:54Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -95,17 +149,17 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 17282,
-    "updated_at": "2026-05-25T13:45:32Z",
+    "updated_at": "2026-05-25T14:13:09Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "Git-based distributed swarm memory for AI agents \u2014 lessons learned, lessons shared. Stop repeating the same debugging se",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 21,
-    "updated_at": "2026-05-25T13:39:15Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 107,
+    "updated_at": "2026-05-25T13:35:11Z",
+    "url": "https://github.com/GizClaw/flowcraft"
   },
   {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
@@ -133,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-05-25T13:26:28Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
-    "id": "mj-deving/omniweb-agents",
-    "language": "TypeScript",
-    "name": "mj-deving/omniweb-agents",
-    "stars": 0,
-    "updated_at": "2026-05-25T13:24:48Z",
-    "url": "https://github.com/mj-deving/omniweb-agents"
   },
   {
     "description": "Agents should execute whenever possible \u2014 open registry of reusable AI agent skills and capability definitions",
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T12:39:40Z",
     "url": "https://github.com/fumino-development/fumino-engine"
-  },
-  {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 106,
-    "updated_at": "2026-05-25T13:35:11Z",
-    "url": "https://github.com/GizClaw/flowcraft"
   },
   {
     "description": "Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability,",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-25T12:11:16Z",
     "url": "https://github.com/wrm3/gald3r_template_adv"
-  },
-  {
-    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
-    "id": "wrm3/gald3r",
-    "language": "PowerShell",
-    "name": "wrm3/gald3r",
-    "stars": 17,
-    "updated_at": "2026-05-25T12:11:14Z",
-    "url": "https://github.com/wrm3/gald3r"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:10:51Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:10:49Z",
-    "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:10:22Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
   }
 ]
