@@ -1,12 +1,48 @@
 [
   {
-    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
-    "id": "mj-deving/omniweb-agents",
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
     "language": "TypeScript",
-    "name": "mj-deving/omniweb-agents",
+    "name": "Sanga1032/fullstack-mcp-playground",
     "stars": 0,
-    "updated_at": "2026-05-25T22:17:08Z",
-    "url": "https://github.com/mj-deving/omniweb-agents"
+    "updated_at": "2026-05-25T22:25:13Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:24:24Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-05-25T22:23:38Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "Phronesis is a Python framework for designing, composing, and operating AI agent systems \u2014 typed, observable, and built ",
+    "id": "phronesis-framework/phronesis-framework",
+    "language": "Python",
+    "name": "phronesis-framework/phronesis-framework",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:21:35Z",
+    "url": "https://github.com/phronesis-framework/phronesis-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:17:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
@@ -18,13 +54,13 @@
     "url": "https://github.com/dsswift/ion"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
+    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
+    "id": "mj-deving/omniweb-agents",
+    "language": "TypeScript",
+    "name": "mj-deving/omniweb-agents",
     "stars": 0,
-    "updated_at": "2026-05-25T22:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "updated_at": "2026-05-25T22:17:55Z",
+    "url": "https://github.com/mj-deving/omniweb-agents"
   },
   {
     "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "madeinplutofabio/neural-computation-protocol",
     "stars": 11,
-    "updated_at": "2026-05-25T22:10:25Z",
+    "updated_at": "2026-05-25T22:28:31Z",
     "url": "https://github.com/madeinplutofabio/neural-computation-protocol"
   },
   {
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "evalstate/fast-agent",
     "stars": 3791,
-    "updated_at": "2026-05-25T22:05:21Z",
+    "updated_at": "2026-05-25T22:23:48Z",
     "url": "https://github.com/evalstate/fast-agent"
   },
   {
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 2,
-    "updated_at": "2026-05-25T22:11:34Z",
+    "updated_at": "2026-05-25T22:27:43Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 62,
-    "updated_at": "2026-05-25T22:00:04Z",
+    "updated_at": "2026-05-25T22:27:43Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "tylerjrbuell/reactive-agents-ts",
     "stars": 11,
-    "updated_at": "2026-05-25T22:16:40Z",
+    "updated_at": "2026-05-25T22:19:39Z",
     "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 17290,
-    "updated_at": "2026-05-25T21:39:21Z",
+    "updated_at": "2026-05-25T22:21:10Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -211,7 +247,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 2236,
+    "stars": 2237,
     "updated_at": "2026-05-25T21:04:19Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4600,
-    "updated_at": "2026-05-25T22:08:34Z",
+    "updated_at": "2026-05-25T22:29:15Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-25T20:13:57Z",
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:12:32Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 1,
-    "updated_at": "2026-05-25T20:12:20Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-05-25T20:12:01Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-05-25T20:11:58Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
   }
 ]
