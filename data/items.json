@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u591a Agent \u5706\u684c\u8ba8\u8bba\u5f15\u64ce \u2014 Structured roundtable discussions for AI Agent teams",
+    "id": "MoyuFamily/roundtable",
+    "language": "Python",
+    "name": "MoyuFamily/roundtable",
+    "stars": 0,
+    "updated_at": "2026-05-25T03:45:03Z",
+    "url": "https://github.com/MoyuFamily/roundtable"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-05-25T03:43:49Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 0,
+    "updated_at": "2026-05-25T03:39:20Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
+    "id": "agentbreeder/agentbreeder",
+    "language": "Python",
+    "name": "agentbreeder/agentbreeder",
+    "stars": 2,
+    "updated_at": "2026-05-25T03:38:05Z",
+    "url": "https://github.com/agentbreeder/agentbreeder"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 8,
+    "updated_at": "2026-05-25T03:36:02Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 62,
+    "updated_at": "2026-05-25T03:32:58Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
+    "id": "berhannnnd/Agents",
+    "language": "Python",
+    "name": "berhannnnd/Agents",
+    "stars": 1,
+    "updated_at": "2026-05-25T03:31:19Z",
+    "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-25T03:31:06Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 2,
+    "updated_at": "2026-05-25T03:31:05Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T03:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A lightweight framework for running useful local agents on limited compute.",
     "id": "Fletch-N/HALF",
     "language": "C#",
@@ -18,21 +108,12 @@
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 8,
-    "updated_at": "2026-05-25T03:27:51Z",
-    "url": "https://github.com/roackb2/heddle"
-  },
-  {
     "description": "OpenAaaS: science agent network \u2014 bring AI to your data, not your data to AI. AaaS, Agent as a Service, MCP protocol, lo",
     "id": "Wolido/OpenAaaS",
     "language": "Rust",
     "name": "Wolido/OpenAaaS",
     "stars": 11,
-    "updated_at": "2026-05-25T03:26:43Z",
+    "updated_at": "2026-05-25T03:35:48Z",
     "url": "https://github.com/Wolido/OpenAaaS"
   },
   {
@@ -40,18 +121,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 6811,
+    "stars": 6828,
     "updated_at": "2026-05-25T03:25:03Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
-    "id": "berhannnnd/Agents",
-    "language": "Python",
-    "name": "berhannnnd/Agents",
-    "stars": 1,
-    "updated_at": "2026-05-25T03:24:10Z",
-    "url": "https://github.com/berhannnnd/Agents"
   },
   {
     "description": "Composable TypeScript AI agent framework \u2014 Effect-TS type safety, 5 reasoning strategies, persistent gateway, real-time ",
@@ -90,15 +162,6 @@
     "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 62,
-    "updated_at": "2026-05-25T03:22:45Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
     "id": "s2mgtvodois2/postgresql-mcp-js",
     "language": "TypeScript",
@@ -108,15 +171,6 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T03:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
     "id": "fuseraft/fuseraft-cli",
     "language": "C#",
@@ -124,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-05-25T03:11:07Z",
     "url": "https://github.com/fuseraft/fuseraft-cli"
-  },
-  {
-    "description": "\u591a Agent \u5706\u684c\u8ba8\u8bba\u5f15\u64ce \u2014 Structured roundtable discussions for AI Agent teams",
-    "id": "MoyuFamily/roundtable",
-    "language": "Python",
-    "name": "MoyuFamily/roundtable",
-    "stars": 0,
-    "updated_at": "2026-05-25T03:08:42Z",
-    "url": "https://github.com/MoyuFamily/roundtable"
   },
   {
     "description": "\ud83e\udd16 \u2014 a tiny personal AI agent framework. Chat channels (Slack, Telegram, Discord, WhatsApp, \u2026), memory, MCP, and an OpenA",
@@ -198,16 +243,7 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
-    "id": "agentbreeder/agentbreeder",
-    "language": "Python",
-    "name": "agentbreeder/agentbreeder",
-    "stars": 2,
-    "updated_at": "2026-05-25T02:42:02Z",
-    "url": "https://github.com/agentbreeder/agentbreeder"
-  },
-  {
-    "description": "Meta-cognitive orchestration kernels. Reproducible benchmarks, deployment-ready, stigmergy-aware, falsification-first.",
+    "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
     "id": "Kuonirad/MCOP-Framework-2.0",
     "language": "TypeScript",
     "name": "Kuonirad/MCOP-Framework-2.0",
@@ -239,17 +275,8 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 95,
-    "updated_at": "2026-05-25T01:38:27Z",
+    "updated_at": "2026-05-25T03:38:11Z",
     "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 2,
-    "updated_at": "2026-05-25T03:13:18Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-25T01:24:00Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-05-25T01:23:40Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-05-25T01:23:31Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
-    "id": "sheawinkler/ContextLattice",
-    "language": "Go",
-    "name": "sheawinkler/ContextLattice",
-    "stars": 107,
-    "updated_at": "2026-05-25T01:23:12Z",
-    "url": "https://github.com/sheawinkler/ContextLattice"
   }
 ]
