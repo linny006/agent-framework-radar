@@ -1,5 +1,77 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 7596,
+    "updated_at": "2026-05-25T09:30:03Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
+    "id": "berhannnnd/Agents",
+    "language": "Python",
+    "name": "berhannnnd/Agents",
+    "stars": 1,
+    "updated_at": "2026-05-25T09:29:46Z",
+    "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
+    "description": "Operable AI agent system: plan, execute, verify, and close work with project-scoped memory and auditable contracts.",
+    "id": "arthur0824hao/skills",
+    "language": "Python",
+    "name": "arthur0824hao/skills",
+    "stars": 4,
+    "updated_at": "2026-05-25T09:25:43Z",
+    "url": "https://github.com/arthur0824hao/skills"
+  },
+  {
+    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 116,
+    "updated_at": "2026-05-25T09:25:43Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Dart framework for stateful AI agents \u2014 tool use, skills, sub-agent delegation, planning, streaming, and multi-provider ",
+    "id": "memex-lab/dart_agent_core",
+    "language": "Dart",
+    "name": "memex-lab/dart_agent_core",
+    "stars": 21,
+    "updated_at": "2026-05-25T09:19:41Z",
+    "url": "https://github.com/memex-lab/dart_agent_core"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 62,
+    "updated_at": "2026-05-25T09:19:39Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
+    "id": "garyqlin/gbase",
+    "language": "Python",
+    "name": "garyqlin/gbase",
+    "stars": 1,
+    "updated_at": "2026-05-25T09:16:49Z",
+    "url": "https://github.com/garyqlin/gbase"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T09:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Production-grade TypeScript AI runtime focused on reliability, governance, and reproducible LLM systems. Multi-provider ",
     "id": "elsium-ai/elsium-ai",
     "language": "TypeScript",
@@ -14,17 +86,17 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-05-25T09:12:24Z",
+    "updated_at": "2026-05-25T09:17:07Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
-    "id": "garyqlin/gbase",
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "garyqlin/gbase",
-    "stars": 1,
-    "updated_at": "2026-05-25T09:10:29Z",
-    "url": "https://github.com/garyqlin/gbase"
+    "name": "pydantic/pydantic-ai",
+    "stars": 17276,
+    "updated_at": "2026-05-25T09:10:25Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -45,24 +117,6 @@
     "url": "https://github.com/herreravalenz6620/context-compression"
   },
   {
-    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
-    "id": "berhannnnd/Agents",
-    "language": "Python",
-    "name": "berhannnnd/Agents",
-    "stars": 1,
-    "updated_at": "2026-05-25T09:07:53Z",
-    "url": "https://github.com/berhannnnd/Agents"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 62,
-    "updated_at": "2026-05-25T09:08:31Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
     "id": "BrettMGoughWork/vai-core",
     "language": "Python",
@@ -70,24 +124,6 @@
     "stars": 2,
     "updated_at": "2026-05-25T09:01:12Z",
     "url": "https://github.com/BrettMGoughWork/vai-core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T09:00:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "TypeScript",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 7573,
-    "updated_at": "2026-05-25T09:00:17Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -108,15 +144,6 @@
     "url": "https://github.com/MiteshSharma/ethos"
   },
   {
-    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 116,
-    "updated_at": "2026-05-25T08:56:46Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
     "id": "Ecro/harness-maker",
     "language": "Python",
@@ -131,7 +158,7 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 0,
-    "updated_at": "2026-05-25T09:12:22Z",
+    "updated_at": "2026-05-25T09:27:01Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-05-25T08:41:25Z",
     "url": "https://github.com/opencue/cue"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17277,
-    "updated_at": "2026-05-25T09:10:25Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T07:52:13Z",
     "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-05-25T07:52:01Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-05-25T07:51:44Z",
-    "url": "https://github.com/Thuso030703/open-claude"
   }
 ]
