@@ -1,12 +1,12 @@
 [
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 2,
-    "updated_at": "2026-05-25T21:28:54Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "JacobPEvans/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "JacobPEvans/ai-assistant-instructions",
+    "stars": 7,
+    "updated_at": "2026-05-25T21:41:15Z",
+    "url": "https://github.com/JacobPEvans/ai-assistant-instructions"
   },
   {
     "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
@@ -14,8 +14,53 @@
     "language": "Python",
     "name": "0bserver07/chimera",
     "stars": 1,
-    "updated_at": "2026-05-25T21:26:06Z",
+    "updated_at": "2026-05-25T21:40:53Z",
     "url": "https://github.com/0bserver07/chimera"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-05-25T21:38:58Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Production-grade TypeScript AI runtime focused on reliability, governance, and reproducible LLM systems. Multi-provider ",
+    "id": "elsium-ai/elsium-ai",
+    "language": "TypeScript",
+    "name": "elsium-ai/elsium-ai",
+    "stars": 10,
+    "updated_at": "2026-05-25T21:40:03Z",
+    "url": "https://github.com/elsium-ai/elsium-ai"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17289,
+    "updated_at": "2026-05-25T21:39:21Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T21:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 2,
+    "updated_at": "2026-05-25T21:45:19Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
@@ -23,7 +68,7 @@
     "language": "TypeScript",
     "name": "mj-deving/omniweb-agents",
     "stars": 0,
-    "updated_at": "2026-05-25T21:19:15Z",
+    "updated_at": "2026-05-25T21:45:18Z",
     "url": "https://github.com/mj-deving/omniweb-agents"
   },
   {
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T21:17:04Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T21:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -86,7 +122,7 @@
     "language": "Shell",
     "name": "ek33450505/claude-agent-team",
     "stars": 4,
-    "updated_at": "2026-05-25T21:00:48Z",
+    "updated_at": "2026-05-25T21:37:14Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Rust",
     "name": "madeinplutofabio/neural-computation-protocol",
     "stars": 11,
-    "updated_at": "2026-05-25T21:25:44Z",
+    "updated_at": "2026-05-25T21:43:58Z",
     "url": "https://github.com/madeinplutofabio/neural-computation-protocol"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T20:22:18Z",
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:22:09Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
@@ -421,32 +448,5 @@
     "stars": 1213,
     "updated_at": "2026-05-25T20:06:52Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:06:31Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:06:02Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:05:25Z",
-    "url": "https://github.com/cele9529/LingxiFish"
   }
 ]
