@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-25 18:30 UTC
+> ⏰ Last updated: 2026-05-25 18:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [fuseraft/fuseraft-cli](https://github.com/fuseraft/fuseraft-cli) | 2 | C# | 2026-05-25 | Define a team of AI agents — each with its own role, model, skills, and tools — and describe how they hand off to each o |
-| 2 | [Kuonirad/MCOP-Framework-2.0](https://github.com/Kuonirad/MCOP-Framework-2.0) | 1 | TypeScript | 2026-05-25 | Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp |
-| 3 | [pablo0713-glitch/trixxie-companion-agent](https://github.com/pablo0713-glitch/trixxie-companion-agent) | 2 | Python | 2026-05-25 | Trixxie is a self‑hosted AI companion agent that runs in Second Life and Discord. It provides natural conversation, memo |
-| 4 | [Qitor/qitos](https://github.com/Qitor/qitos) | 14 | Python | 2026-05-25 | Let's Qitos! A torch-like agent-native framework for researchers.  |
-| 5 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-05-25 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
-| 6 | [RikyZ90/ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | 91 | Python | 2026-05-25 | 🐕 Self-hosted security-first AI agent · 22 providers · 11 chat channels · WebUI · 3-level memory · cron · heartbeat · sk |
-| 7 | [tr00x/SOMA-Core](https://github.com/tr00x/SOMA-Core) | 1 | TypeScript | 2026-05-25 | The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control. |
-| 8 | [Sanga1032/fullstack-mcp-playground](https://github.com/Sanga1032/fullstack-mcp-playground) | 0 | TypeScript | 2026-05-25 | 🤖 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as |
-| 9 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 0 | TypeScript | 2026-05-25 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
-| 10 | [amazadfar/llm-client](https://github.com/amazadfar/llm-client) | 1 | Python | 2026-05-25 | Async-first Python runtime for building provider-agnostic LLM, agent, tool-calling, streaming, caching, and structured-o |
-| 11 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 2196 | Python | 2026-05-25 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
-| 12 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-25 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 13 | [plaited/plaited](https://github.com/plaited/plaited) | 9 | TypeScript | 2026-05-25 | Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance. |
-| 14 | [oracle-samples/locus](https://github.com/oracle-samples/locus) | 12 | Python | 2026-05-25 | Oracle Generative AI Multi Agent Reasoning Orchestrator |
-| 15 | [getsynkora/synkora-ai](https://github.com/getsynkora/synkora-ai) | 6 | Python | 2026-05-25 | Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo |
-| 16 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-25 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 17 | [MiteshSharma/ethos](https://github.com/MiteshSharma/ethos) | 3 | TypeScript | 2026-05-25 | TypeScript AI agent framework where personality is architecture. Specialists, not chatbots. |
-| 18 | [Arch1eSUN/Moirai](https://github.com/Arch1eSUN/Moirai) | 1 | Python | 2026-05-25 | Moirai — Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded |
+| 1 | [tr00x/SOMA-Core](https://github.com/tr00x/SOMA-Core) | 1 | TypeScript | 2026-05-25 | The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control. |
+| 2 | [Arch1eSUN/Moirai](https://github.com/Arch1eSUN/Moirai) | 1 | Python | 2026-05-25 | Moirai — Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded |
+| 3 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-25 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 4 | [fuseraft/fuseraft-cli](https://github.com/fuseraft/fuseraft-cli) | 2 | C# | 2026-05-25 | Define a team of AI agents — each with its own role, model, skills, and tools — and describe how they hand off to each o |
+| 5 | [Kuonirad/MCOP-Framework-2.0](https://github.com/Kuonirad/MCOP-Framework-2.0) | 1 | TypeScript | 2026-05-25 | Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp |
+| 6 | [pablo0713-glitch/trixxie-companion-agent](https://github.com/pablo0713-glitch/trixxie-companion-agent) | 2 | Python | 2026-05-25 | Trixxie is a self‑hosted AI companion agent that runs in Second Life and Discord. It provides natural conversation, memo |
+| 7 | [Qitor/qitos](https://github.com/Qitor/qitos) | 14 | Python | 2026-05-25 | Let's Qitos! A torch-like agent-native framework for researchers.  |
+| 8 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-05-25 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
+| 9 | [RikyZ90/ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | 91 | Python | 2026-05-25 | 🐕 Self-hosted security-first AI agent · 22 providers · 11 chat channels · WebUI · 3-level memory · cron · heartbeat · sk |
+| 10 | [Sanga1032/fullstack-mcp-playground](https://github.com/Sanga1032/fullstack-mcp-playground) | 0 | TypeScript | 2026-05-25 | 🤖 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as |
+| 11 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 0 | TypeScript | 2026-05-25 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
+| 12 | [amazadfar/llm-client](https://github.com/amazadfar/llm-client) | 1 | Python | 2026-05-25 | Async-first Python runtime for building provider-agnostic LLM, agent, tool-calling, streaming, caching, and structured-o |
+| 13 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 2197 | Python | 2026-05-25 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
+| 14 | [plaited/plaited](https://github.com/plaited/plaited) | 9 | TypeScript | 2026-05-25 | Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance. |
+| 15 | [oracle-samples/locus](https://github.com/oracle-samples/locus) | 12 | Python | 2026-05-25 | Oracle Generative AI Multi Agent Reasoning Orchestrator |
+| 16 | [getsynkora/synkora-ai](https://github.com/getsynkora/synkora-ai) | 6 | Python | 2026-05-25 | Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo |
+| 17 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-25 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 18 | [MiteshSharma/ethos](https://github.com/MiteshSharma/ethos) | 3 | TypeScript | 2026-05-25 | TypeScript AI agent framework where personality is architecture. Specialists, not chatbots. |
 | 19 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-05-25 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
 | 20 | [Aureliolo/synthorg](https://github.com/Aureliolo/synthorg) | 8 | Python | 2026-05-25 | SynthOrg - Framework for building synthetic organizations with autonomous AI agents |
 | 21 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-05-25 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
@@ -83,7 +83,7 @@ expired items removed — so you can rely on what you see being current.
 | 39 | [akyourowngames/friday](https://github.com/akyourowngames/friday) | 0 | Python | 2026-05-25 | Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/ |
 | 40 | [citedy/adclaw](https://github.com/citedy/adclaw) | 19 | Python | 2026-05-25 | Open-source multi-agent AI marketing team with personas, shared memory, 130+ skills, and Docker deploys for Railway and  |
 | 41 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 3 | HTML | 2026-05-25 | Constraint-aware AI systems. PLATO knowledge rooms, fleet orchestration, constraint engines, neural compression, and the |
-| 42 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 8158 | TypeScript | 2026-05-25 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 42 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 8169 | TypeScript | 2026-05-25 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | 43 | [MoyuFamily/agent-roundtable](https://github.com/MoyuFamily/agent-roundtable) | 0 | Python | 2026-05-25 | 🤖 Multi-Agent Roundtable Engine / 多 Agent 圆桌讨论引擎 · Structured discussions · Consensus tracking · Python · Zero dependenc |
 | 44 | [Stranglehold/Exocortex](https://github.com/Stranglehold/Exocortex) | 1 | HTML | 2026-05-25 | Prosthetic cognition architecture for AI agents. Deterministic scaffolding over probabilistic reasoning. |
 | 45 | [ErichHubert/kordo](https://github.com/ErichHubert/kordo) | 0 | TypeScript | 2026-05-25 | Secure workflow runtime for autonomous agents with sandboxed execution, durable runs, connectors, and artifact-driven wo |
