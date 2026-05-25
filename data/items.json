@@ -1,12 +1,111 @@
 [
   {
+    "description": "\ud83c\udf0a PLATO \u2014 Rooms that think. Tiles that remember. Agents that learn. The public face of the Cocapn fleet.",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 3,
+    "updated_at": "2026-05-25T16:44:46Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
+    "id": "akimoto-akira/SiliconLifeCollective",
+    "language": "C#",
+    "name": "akimoto-akira/SiliconLifeCollective",
+    "stars": 2,
+    "updated_at": "2026-05-25T16:44:04Z",
+    "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 8078,
-    "updated_at": "2026-05-25T16:28:35Z",
+    "stars": 8089,
+    "updated_at": "2026-05-25T16:44:46Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
+    "id": "Arch1eSUN/Moirai",
+    "language": "Python",
+    "name": "Arch1eSUN/Moirai",
+    "stars": 1,
+    "updated_at": "2026-05-25T16:43:17Z",
+    "url": "https://github.com/Arch1eSUN/Moirai"
+  },
+  {
+    "description": "Oracle Generative AI Multi Agent Reasoning Orchestrator",
+    "id": "oracle-samples/locus",
+    "language": "Python",
+    "name": "oracle-samples/locus",
+    "stars": 12,
+    "updated_at": "2026-05-25T16:41:57Z",
+    "url": "https://github.com/oracle-samples/locus"
+  },
+  {
+    "description": "\ud83e\udd16 Multi-Agent Roundtable Engine / \u591a Agent \u5706\u684c\u8ba8\u8bba\u5f15\u64ce \u00b7 Structured discussions \u00b7 Consensus tracking \u00b7 Python \u00b7 Zero dependenc",
+    "id": "MoyuFamily/agent-roundtable",
+    "language": "Python",
+    "name": "MoyuFamily/agent-roundtable",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:40:56Z",
+    "url": "https://github.com/MoyuFamily/agent-roundtable"
+  },
+  {
+    "description": "Prosthetic cognition architecture for AI agents. Deterministic scaffolding over probabilistic reasoning.",
+    "id": "Stranglehold/Exocortex",
+    "language": "HTML",
+    "name": "Stranglehold/Exocortex",
+    "stars": 1,
+    "updated_at": "2026-05-25T16:40:54Z",
+    "url": "https://github.com/Stranglehold/Exocortex"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 2174,
+    "updated_at": "2026-05-25T16:40:13Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/Next.js fron",
+    "id": "akyourowngames/friday",
+    "language": "Python",
+    "name": "akyourowngames/friday",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:38:40Z",
+    "url": "https://github.com/akyourowngames/friday"
+  },
+  {
+    "description": "Secure workflow runtime for autonomous agents with sandboxed execution, durable runs, connectors, and artifact-driven wo",
+    "id": "ErichHubert/kordo",
+    "language": "TypeScript",
+    "name": "ErichHubert/kordo",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:37:58Z",
+    "url": "https://github.com/ErichHubert/kordo"
+  },
+  {
+    "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
+    "id": "madeinplutofabio/neural-computation-protocol",
+    "language": "Rust",
+    "name": "madeinplutofabio/neural-computation-protocol",
+    "stars": 11,
+    "updated_at": "2026-05-25T16:31:24Z",
+    "url": "https://github.com/madeinplutofabio/neural-computation-protocol"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
@@ -16,24 +115,6 @@
     "stars": 14,
     "updated_at": "2026-05-25T16:24:35Z",
     "url": "https://github.com/Qitor/qitos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:21:13Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Oracle Generative AI Multi Agent Reasoning Orchestrator",
-    "id": "oracle-samples/locus",
-    "language": "Python",
-    "name": "oracle-samples/locus",
-    "stars": 12,
-    "updated_at": "2026-05-25T16:22:04Z",
-    "url": "https://github.com/oracle-samples/locus"
   },
   {
     "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
@@ -54,15 +135,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Secure workflow runtime for autonomous agents with sandboxed execution, durable runs, connectors, and artifact-driven wo",
-    "id": "ErichHubert/kordo",
-    "language": "TypeScript",
-    "name": "ErichHubert/kordo",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:10:50Z",
-    "url": "https://github.com/ErichHubert/kordo"
-  },
-  {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
     "id": "EvoMap/evolver",
     "language": "JavaScript",
@@ -81,15 +153,6 @@
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
-    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
-    "id": "Arch1eSUN/Moirai",
-    "language": "Python",
-    "name": "Arch1eSUN/Moirai",
-    "stars": 1,
-    "updated_at": "2026-05-25T16:05:55Z",
-    "url": "https://github.com/Arch1eSUN/Moirai"
-  },
-  {
     "description": "Autonomous AI agent runtime \u2014 TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co",
     "id": "erayendes/kortext",
     "language": "TypeScript",
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T16:01:41Z",
     "url": "https://github.com/erayendes/kortext"
-  },
-  {
-    "description": "\ud83e\udd16 Multi-Agent Roundtable Engine / \u591a Agent \u5706\u684c\u8ba8\u8bba\u5f15\u64ce \u00b7 Structured discussions \u00b7 Consensus tracking \u00b7 Python \u00b7 Zero dependenc",
-    "id": "MoyuFamily/agent-roundtable",
-    "language": "Python",
-    "name": "MoyuFamily/agent-roundtable",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:56:50Z",
-    "url": "https://github.com/MoyuFamily/agent-roundtable"
   },
   {
     "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-25T15:30:58Z",
     "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Give your AI a soul that outlives any tool. One command to install, 13 plain-text files, zero dependencies. Switch betwe",
-    "id": "fei426/ParaSoul",
-    "language": "Python",
-    "name": "fei426/ParaSoul",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:30:51Z",
-    "url": "https://github.com/fei426/ParaSoul"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-05-25T15:30:48Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:30:28Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:30:11Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-05-25T15:30:07Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-05-25T15:29:41Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
   }
 ]
