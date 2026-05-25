@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-25 16:21 UTC
+> ⏰ Last updated: 2026-05-25 16:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [oracle-samples/locus](https://github.com/oracle-samples/locus) | 12 | Python | 2026-05-25 | Oracle Generative AI Multi Agent Reasoning Orchestrator |
-| 2 | [mj-deving/omniweb-agents](https://github.com/mj-deving/omniweb-agents) | 0 | TypeScript | 2026-05-25 | Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony |
-| 3 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-25 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 4 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-25 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 5 | [Qitor/qitos](https://github.com/Qitor/qitos) | 14 | Python | 2026-05-25 | Let's Qitos! A torch-like agent-native framework for researchers.  |
-| 6 | [ErichHubert/kordo](https://github.com/ErichHubert/kordo) | 0 | TypeScript | 2026-05-25 | Secure workflow runtime for autonomous agents with sandboxed execution, durable runs, connectors, and artifact-driven wo |
-| 7 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 7559 | JavaScript | 2026-05-25 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
-| 8 | [Eliyce/paqad-ai](https://github.com/Eliyce/paqad-ai) | 0 | TypeScript | 2026-05-25 | Spec-driven development framework — AI agents that think before they type |
-| 9 | [Arch1eSUN/Moirai](https://github.com/Arch1eSUN/Moirai) | 1 | Python | 2026-05-25 | Moirai — Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded |
-| 10 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 8070 | TypeScript | 2026-05-25 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 1 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 8078 | TypeScript | 2026-05-25 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 2 | [Qitor/qitos](https://github.com/Qitor/qitos) | 14 | Python | 2026-05-25 | Let's Qitos! A torch-like agent-native framework for researchers.  |
+| 3 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-25 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 4 | [oracle-samples/locus](https://github.com/oracle-samples/locus) | 12 | Python | 2026-05-25 | Oracle Generative AI Multi Agent Reasoning Orchestrator |
+| 5 | [mj-deving/omniweb-agents](https://github.com/mj-deving/omniweb-agents) | 0 | TypeScript | 2026-05-25 | Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony |
+| 6 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-25 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 7 | [ErichHubert/kordo](https://github.com/ErichHubert/kordo) | 0 | TypeScript | 2026-05-25 | Secure workflow runtime for autonomous agents with sandboxed execution, durable runs, connectors, and artifact-driven wo |
+| 8 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 7559 | JavaScript | 2026-05-25 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
+| 9 | [Eliyce/paqad-ai](https://github.com/Eliyce/paqad-ai) | 0 | TypeScript | 2026-05-25 | Spec-driven development framework — AI agents that think before they type |
+| 10 | [Arch1eSUN/Moirai](https://github.com/Arch1eSUN/Moirai) | 1 | Python | 2026-05-25 | Moirai — Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded |
 | 11 | [erayendes/kortext](https://github.com/erayendes/kortext) | 0 | TypeScript | 2026-05-25 | Autonomous AI agent runtime — TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co |
 | 12 | [MoyuFamily/agent-roundtable](https://github.com/MoyuFamily/agent-roundtable) | 0 | Python | 2026-05-25 | 🤖 Multi-Agent Roundtable Engine / 多 Agent 圆桌讨论引擎 · Structured discussions · Consensus tracking · Python · Zero dependenc |
 | 13 | [truvaagents/truva-g3](https://github.com/truvaagents/truva-g3) | 0 | Go | 2026-05-25 | A Go framework for the microagents architecture with dynamic discovery — specialized agents and tools that register thei |
