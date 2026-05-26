@@ -1,5 +1,59 @@
 [
   {
+    "description": "The behavioral operating system for Claude Code agents \u2014 distilled from 11 deeply-read libraries (179 skills + 99 agents",
+    "id": "huangji6693-max/claude-code-dna",
+    "language": "Shell",
+    "name": "huangji6693-max/claude-code-dna",
+    "stars": 0,
+    "updated_at": "2026-05-26T15:22:03Z",
+    "url": "https://github.com/huangji6693-max/claude-code-dna"
+  },
+  {
+    "description": "The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control.",
+    "id": "tr00x/SOMA-Core",
+    "language": "TypeScript",
+    "name": "tr00x/SOMA-Core",
+    "stars": 1,
+    "updated_at": "2026-05-26T15:21:54Z",
+    "url": "https://github.com/tr00x/SOMA-Core"
+  },
+  {
+    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
+    "id": "Arch1eSUN/Moirai",
+    "language": "Python",
+    "name": "Arch1eSUN/Moirai",
+    "stars": 1,
+    "updated_at": "2026-05-26T15:19:21Z",
+    "url": "https://github.com/Arch1eSUN/Moirai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T15:15:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 7,
+    "updated_at": "2026-05-26T15:14:58Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 0,
+    "updated_at": "2026-05-26T15:08:46Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
     "id": "s2mgtvodois2/postgresql-mcp-js",
     "language": "TypeScript",
@@ -16,15 +70,6 @@
     "stars": 121,
     "updated_at": "2026-05-26T15:05:47Z",
     "url": "https://github.com/valory-xyz/open-autonomy"
-  },
-  {
-    "description": "The behavioral operating system for Claude Code agents \u2014 distilled from 11 deeply-read libraries (179 skills + 99 agents",
-    "id": "huangji6693-max/claude-code-dna",
-    "language": "Shell",
-    "name": "huangji6693-max/claude-code-dna",
-    "stars": 0,
-    "updated_at": "2026-05-26T15:11:46Z",
-    "url": "https://github.com/huangji6693-max/claude-code-dna"
   },
   {
     "description": "An agent runtime that truly has experience.",
@@ -45,15 +90,6 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T15:00:39Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-05-26T14:56:36Z",
+    "updated_at": "2026-05-26T15:25:31Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -117,15 +153,6 @@
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
   },
   {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 7,
-    "updated_at": "2026-05-26T15:14:58Z",
-    "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
     "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -149,7 +176,7 @@
     "language": "JavaScript",
     "name": "dsswift/ion",
     "stars": 2,
-    "updated_at": "2026-05-26T14:18:38Z",
+    "updated_at": "2026-05-26T15:28:59Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T13:57:16Z",
     "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 1,
-    "updated_at": "2026-05-26T13:56:23Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:55:44Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:55:16Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
   }
 ]
