@@ -1,5 +1,77 @@
 [
   {
+    "description": "Composable agentic substrate (skills + MCP tools + harness + governance) running on a single laptop. 14 live business do",
+    "id": "arturcrmbot/zava-control-plane",
+    "language": "Python",
+    "name": "arturcrmbot/zava-control-plane",
+    "stars": 0,
+    "updated_at": "2026-05-26T19:14:11Z",
+    "url": "https://github.com/arturcrmbot/zava-control-plane"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-26T19:13:46Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Shell",
+    "name": "bakw00ds/yakos",
+    "stars": 1,
+    "updated_at": "2026-05-26T19:11:09Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-05-26T19:09:17Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
+    "id": "JoakimCarlsson/ai",
+    "language": "Go",
+    "name": "JoakimCarlsson/ai",
+    "stars": 25,
+    "updated_at": "2026-05-26T19:08:58Z",
+    "url": "https://github.com/JoakimCarlsson/ai"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 2555,
+    "updated_at": "2026-05-26T19:05:43Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-05-26T19:08:23Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T19:00:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
     "id": "hoangtuanhehehehhe/AgentVault",
     "language": "Python",
@@ -49,18 +121,9 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 10762,
+    "stars": 10763,
     "updated_at": "2026-05-26T18:46:21Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T18:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A simple and well-tailored LLM application framework that enables you to seamlessly integrate LLM capabilities in the mo",
@@ -86,17 +149,8 @@
     "language": "Python",
     "name": "MoyuFamily/agent-roundtable",
     "stars": 1,
-    "updated_at": "2026-05-26T18:56:08Z",
+    "updated_at": "2026-05-26T19:01:25Z",
     "url": "https://github.com/MoyuFamily/agent-roundtable"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-05-26T18:53:55Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T18:37:30Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 2547,
-    "updated_at": "2026-05-26T18:35:58Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Constraint-aware AI systems. PLATO knowledge rooms, fleet orchestration, constraint engines, neural compression, and the",
@@ -151,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T18:31:03Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Shell",
-    "name": "bakw00ds/yakos",
-    "stars": 1,
-    "updated_at": "2026-05-26T18:27:11Z",
-    "url": "https://github.com/bakw00ds/yakos"
   },
   {
     "description": "Orchestrate intelligent multi-agent swarms that actually work. Deploy autonomous workflows and conversational AI systems",
@@ -196,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-05-26T18:50:41Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Composable agentic substrate (skills + MCP tools + harness + governance) running on a single laptop. 14 live business do",
-    "id": "arturcrmbot/zava-control-plane",
-    "language": "Python",
-    "name": "arturcrmbot/zava-control-plane",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:53:21Z",
-    "url": "https://github.com/arturcrmbot/zava-control-plane"
   },
   {
     "description": "Open-source multi-agent AI marketing team with personas, shared memory, 130+ skills, and Docker deploys for Railway and ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T17:06:08Z",
     "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "AgentBox - Your personal AI agent that lives in Telegram. Web, reminders, image understanding, and more.",
-    "id": "sauravbhattacharya001/getagentbox",
-    "language": "HTML",
-    "name": "sauravbhattacharya001/getagentbox",
-    "stars": 1,
-    "updated_at": "2026-05-26T17:06:03Z",
-    "url": "https://github.com/sauravbhattacharya001/getagentbox"
-  },
-  {
-    "description": "Automate software development with an autonomous multi-agent loop using Qwen Code to self-direct, commit, and improve yo",
-    "id": "Danielle6426/Qwen-Loop",
-    "language": "TypeScript",
-    "name": "Danielle6426/Qwen-Loop",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:05:59Z",
-    "url": "https://github.com/Danielle6426/Qwen-Loop"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 1,
-    "updated_at": "2026-05-26T17:05:27Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
   }
 ]
