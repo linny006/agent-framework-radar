@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-26 01:29 UTC
+> ⏰ Last updated: 2026-05-26 01:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,13 +43,13 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 62 | TypeScript | 2026-05-26 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 2 | [ek33450505/cast-agents](https://github.com/ek33450505/cast-agents) | 1 | Shell | 2026-05-26 | CAST specialist agent definitions — 23 production-grade Claude Code agents (commit, debug, review, plan, test, research, |
-| 3 | [berhannnnd/Agents](https://github.com/berhannnnd/Agents) | 1 | Python | 2026-05-26 | 🏛️  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries — built for re |
-| 4 | [Sanga1032/fullstack-mcp-playground](https://github.com/Sanga1032/fullstack-mcp-playground) | 0 | TypeScript | 2026-05-26 | 🤖 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as |
-| 5 | [roackb2/heddle](https://github.com/roackb2/heddle) | 8 | TypeScript | 2026-05-26 | An open-source terminal coding agent runtime and CLI for real project work. |
-| 6 | [iamlalitpandit/RudraX](https://github.com/iamlalitpandit/RudraX) | 2 | Python | 2026-05-26 | Build, Break, Deploy @ RudraX Autonomous AI Agent Runtime |
-| 7 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 0 | TypeScript | 2026-05-26 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-26 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-26 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [ek33450505/cast-agents](https://github.com/ek33450505/cast-agents) | 1 | Shell | 2026-05-26 | CAST specialist agent definitions — 23 production-grade Claude Code agents (commit, debug, review, plan, test, research, |
+| 4 | [berhannnnd/Agents](https://github.com/berhannnnd/Agents) | 1 | Python | 2026-05-26 | 🏛️  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries — built for re |
+| 5 | [Sanga1032/fullstack-mcp-playground](https://github.com/Sanga1032/fullstack-mcp-playground) | 0 | TypeScript | 2026-05-26 | 🤖 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as |
+| 6 | [roackb2/heddle](https://github.com/roackb2/heddle) | 8 | TypeScript | 2026-05-26 | An open-source terminal coding agent runtime and CLI for real project work. |
+| 7 | [iamlalitpandit/RudraX](https://github.com/iamlalitpandit/RudraX) | 2 | Python | 2026-05-26 | Build, Break, Deploy @ RudraX Autonomous AI Agent Runtime |
+| 8 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 0 | TypeScript | 2026-05-26 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
 | 9 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17292 | Python | 2026-05-26 | AI Agent Framework, the Pydantic way |
 | 10 | [akimoto-akira/SiliconLifeCollective](https://github.com/akimoto-akira/SiliconLifeCollective) | 2 | C# | 2026-05-26 | A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick |
 | 11 | [getsynkora/synkora-ai](https://github.com/getsynkora/synkora-ai) | 6 | Python | 2026-05-26 | Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo |

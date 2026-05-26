@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 62,
-    "updated_at": "2026-05-26T01:28:04Z",
+    "updated_at": "2026-05-26T01:29:15Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:29:11Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "CAST specialist agent definitions \u2014 23 production-grade Claude Code agents (commit, debug, review, plan, test, research,",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T01:15:53Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T01:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
