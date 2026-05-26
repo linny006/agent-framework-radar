@@ -1,11 +1,83 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 62,
+    "updated_at": "2026-05-26T01:28:04Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "CAST specialist agent definitions \u2014 23 production-grade Claude Code agents (commit, debug, review, plan, test, research,",
+    "id": "ek33450505/cast-agents",
+    "language": "Shell",
+    "name": "ek33450505/cast-agents",
+    "stars": 1,
+    "updated_at": "2026-05-26T01:25:38Z",
+    "url": "https://github.com/ek33450505/cast-agents"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
+    "id": "berhannnnd/Agents",
+    "language": "Python",
+    "name": "berhannnnd/Agents",
+    "stars": 1,
+    "updated_at": "2026-05-26T01:24:28Z",
+    "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:16:35Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 8,
+    "updated_at": "2026-05-26T01:16:24Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Build, Break, Deploy @ RudraX Autonomous AI Agent Runtime",
+    "id": "iamlalitpandit/RudraX",
+    "language": "Python",
+    "name": "iamlalitpandit/RudraX",
+    "stars": 2,
+    "updated_at": "2026-05-26T01:16:11Z",
+    "url": "https://github.com/iamlalitpandit/RudraX"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:15:53Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 17292,
-    "updated_at": "2026-05-26T01:13:11Z",
+    "updated_at": "2026-05-26T01:23:00Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "getsynkora/synkora-ai",
     "stars": 6,
-    "updated_at": "2026-05-26T01:06:35Z",
+    "updated_at": "2026-05-26T01:19:28Z",
     "url": "https://github.com/getsynkora/synkora-ai"
   },
   {
@@ -40,18 +112,9 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 2254,
+    "stars": 2256,
     "updated_at": "2026-05-26T01:01:10Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T01:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "vzwjustin/advisor",
     "stars": 1,
-    "updated_at": "2026-05-26T00:35:20Z",
+    "updated_at": "2026-05-26T01:25:04Z",
     "url": "https://github.com/vzwjustin/advisor"
   },
   {
@@ -169,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T00:22:28Z",
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Build, Break, Deploy @ RudraX Autonomous AI Agent Runtime",
-    "id": "iamlalitpandit/RudraX",
-    "language": "Python",
-    "name": "iamlalitpandit/RudraX",
-    "stars": 2,
-    "updated_at": "2026-05-26T00:21:44Z",
-    "url": "https://github.com/iamlalitpandit/RudraX"
   },
   {
     "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
@@ -284,7 +338,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 2,
-    "updated_at": "2026-05-26T00:49:01Z",
+    "updated_at": "2026-05-26T01:23:21Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T00:08:21Z",
     "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 1,
-    "updated_at": "2026-05-26T00:07:35Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-26T00:06:52Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-26T00:06:26Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 0,
-    "updated_at": "2026-05-26T00:05:40Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-05-26T00:05:20Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-05-26T00:03:54Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
