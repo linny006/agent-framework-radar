@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
+    "id": "akyourowngames/friday",
+    "language": "Python",
+    "name": "akyourowngames/friday",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:28:50Z",
+    "url": "https://github.com/akyourowngames/friday"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 2530,
+    "updated_at": "2026-05-26T18:27:58Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Shell",
+    "name": "bakw00ds/yakos",
+    "stars": 1,
+    "updated_at": "2026-05-26T18:27:11Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Orchestrate intelligent multi-agent swarms that actually work. Deploy autonomous workflows and conversational AI systems",
+    "id": "derricke/neuralswarm",
+    "language": "TypeScript",
+    "name": "derricke/neuralswarm",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:17:57Z",
+    "url": "https://github.com/derricke/neuralswarm"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:15:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Constraint-aware AI systems. PLATO knowledge rooms, fleet orchestration, constraint engines, neural compression, and the",
     "id": "SuperInstance/SuperInstance",
     "language": "HTML",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 10760,
-    "updated_at": "2026-05-26T18:11:34Z",
+    "updated_at": "2026-05-26T18:29:05Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -25,33 +70,6 @@
     "stars": 1,
     "updated_at": "2026-05-26T18:10:12Z",
     "url": "https://github.com/ai-zona/adk"
-  },
-  {
-    "description": "Orchestrate intelligent multi-agent swarms that actually work. Deploy autonomous workflows and conversational AI systems",
-    "id": "derricke/neuralswarm",
-    "language": "TypeScript",
-    "name": "derricke/neuralswarm",
-    "stars": 0,
-    "updated_at": "2026-05-26T18:04:25Z",
-    "url": "https://github.com/derricke/neuralswarm"
-  },
-  {
-    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
-    "id": "akyourowngames/friday",
-    "language": "Python",
-    "name": "akyourowngames/friday",
-    "stars": 0,
-    "updated_at": "2026-05-26T18:04:09Z",
-    "url": "https://github.com/akyourowngames/friday"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T18:00:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 2,
-    "updated_at": "2026-05-26T17:55:53Z",
+    "updated_at": "2026-05-26T18:19:36Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -97,15 +115,6 @@
     "stars": 19,
     "updated_at": "2026-05-26T17:44:44Z",
     "url": "https://github.com/citedy/adclaw"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 2529,
-    "updated_at": "2026-05-26T17:39:29Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-05-26T18:05:15Z",
+    "updated_at": "2026-05-26T18:25:41Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T17:01:29Z",
     "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-05-26T17:01:00Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
   }
 ]
