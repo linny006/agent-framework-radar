@@ -1,21 +1,84 @@
 [
   {
-    "description": "Composable Python SDK for building single-agent and multi-agent AI systems.",
-    "id": "nanitics/nanitics",
-    "language": "Python",
-    "name": "nanitics/nanitics",
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-26T07:58:36Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "UI interface for Kitaru - durable execution for AI agents, built on ZenML",
+    "id": "zenml-io/kitaru-ui",
+    "language": "TypeScript",
+    "name": "zenml-io/kitaru-ui",
     "stars": 4,
-    "updated_at": "2026-05-26T07:45:24Z",
-    "url": "https://github.com/nanitics/nanitics"
+    "updated_at": "2026-05-26T07:57:43Z",
+    "url": "https://github.com/zenml-io/kitaru-ui"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-05-26T07:57:27Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 117,
+    "updated_at": "2026-05-26T07:56:41Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
+    "id": "berhannnnd/Agents",
+    "language": "Python",
+    "name": "berhannnnd/Agents",
+    "stars": 1,
+    "updated_at": "2026-05-26T07:54:32Z",
+    "url": "https://github.com/berhannnnd/Agents"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 2300,
-    "updated_at": "2026-05-26T07:40:25Z",
+    "stars": 2302,
+    "updated_at": "2026-05-26T07:50:20Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 9144,
+    "updated_at": "2026-05-26T07:49:53Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Composable Python SDK for building single-agent and multi-agent AI systems.",
+    "id": "nanitics/nanitics",
+    "language": "Python",
+    "name": "nanitics/nanitics",
+    "stars": 4,
+    "updated_at": "2026-05-26T07:45:58Z",
+    "url": "https://github.com/nanitics/nanitics"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T07:45:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "OpenAaaS: science agent network \u2014 bring AI to your data, not your data to AI. AaaS, Agent as a Service, MCP protocol, lo",
@@ -45,15 +108,6 @@
     "url": "https://github.com/Riverbraid/Riverbraid-Harness-Gold"
   },
   {
-    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 117,
-    "updated_at": "2026-05-26T07:33:06Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
     "id": "codeaholicguy/ai-devkit",
     "language": "TypeScript",
@@ -63,29 +117,11 @@
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T07:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "TypeScript",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 9120,
-    "updated_at": "2026-05-26T07:28:19Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17306,
+    "stars": 17307,
     "updated_at": "2026-05-26T07:25:47Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -189,15 +225,6 @@
     "url": "https://github.com/open-ma/open-managed-agents"
   },
   {
-    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
-    "id": "berhannnnd/Agents",
-    "language": "Python",
-    "name": "berhannnnd/Agents",
-    "stars": 1,
-    "updated_at": "2026-05-26T07:05:01Z",
-    "url": "https://github.com/berhannnnd/Agents"
-  },
-  {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
     "id": "Liny9941/projectsmd",
     "language": "Rust",
@@ -230,7 +257,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6250,
-    "updated_at": "2026-05-26T07:37:22Z",
+    "updated_at": "2026-05-26T07:56:22Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -356,7 +383,7 @@
     "language": "TypeScript",
     "name": "MiteshSharma/ethos",
     "stars": 3,
-    "updated_at": "2026-05-26T06:56:55Z",
+    "updated_at": "2026-05-26T07:49:49Z",
     "url": "https://github.com/MiteshSharma/ethos"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-26T06:55:08Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-05-26T06:54:48Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-05-26T06:54:46Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-05-26T06:54:30Z",
-    "url": "https://github.com/Thuso030703/open-claude"
   }
 ]
