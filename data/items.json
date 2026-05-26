@@ -1,5 +1,68 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 63,
+    "updated_at": "2026-05-26T17:59:27Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Strongly typed Python-first library and CLI for multi-provider, multi-agent coding LLMs with Erlang roots and aspiration",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 8,
+    "updated_at": "2026-05-26T17:58:45Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10759,
+    "updated_at": "2026-05-26T17:56:20Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 2,
+    "updated_at": "2026-05-26T17:55:53Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Composable agentic substrate (skills + MCP tools + harness + governance) running on a single laptop. 14 live business do",
+    "id": "arturcrmbot/zava-control-plane",
+    "language": "Python",
+    "name": "arturcrmbot/zava-control-plane",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:53:21Z",
+    "url": "https://github.com/arturcrmbot/zava-control-plane"
+  },
+  {
+    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
+    "id": "akyourowngames/friday",
+    "language": "Python",
+    "name": "akyourowngames/friday",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:48:39Z",
+    "url": "https://github.com/akyourowngames/friday"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source multi-agent AI marketing team with personas, shared memory, 130+ skills, and Docker deploys for Railway and ",
     "id": "citedy/adclaw",
     "language": "Python",
@@ -9,20 +72,11 @@
     "url": "https://github.com/citedy/adclaw"
   },
   {
-    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
-    "id": "akyourowngames/friday",
-    "language": "Python",
-    "name": "akyourowngames/friday",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:42:01Z",
-    "url": "https://github.com/akyourowngames/friday"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 2519,
+    "stars": 2521,
     "updated_at": "2026-05-26T17:39:29Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -61,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-05-26T17:32:47Z",
     "url": "https://github.com/amazadfar/llm-client"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-26T16:58:04Z",
     "url": "https://github.com/tr00x/SOMA-Core"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 63,
-    "updated_at": "2026-05-26T17:33:18Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 1,
-    "updated_at": "2026-05-26T16:58:02Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1166,
-    "updated_at": "2026-05-26T16:57:48Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "Agent SDK, CLI, Claw, Platform in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:57:29Z",
-    "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:57:29Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
   }
 ]
