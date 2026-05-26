@@ -1,5 +1,86 @@
 [
   {
+    "description": "A simple and well-tailored LLM application framework that enables you to seamlessly integrate LLM capabilities in the mo",
+    "id": "NiJingzhe/SimpleLLMFunc",
+    "language": "Python",
+    "name": "NiJingzhe/SimpleLLMFunc",
+    "stars": 78,
+    "updated_at": "2026-05-26T18:44:50Z",
+    "url": "https://github.com/NiJingzhe/SimpleLLMFunc"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1166,
+    "updated_at": "2026-05-26T18:45:01Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "\ud83e\udd16 Multi-Agent Roundtable Engine / \u591a Agent \u5706\u684c\u8ba8\u8bba\u5f15\u64ce \u00b7 Structured discussions \u00b7 Consensus tracking \u00b7 Python \u00b7 Zero dependenc",
+    "id": "MoyuFamily/agent-roundtable",
+    "language": "Python",
+    "name": "MoyuFamily/agent-roundtable",
+    "stars": 1,
+    "updated_at": "2026-05-26T18:40:39Z",
+    "url": "https://github.com/MoyuFamily/agent-roundtable"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-05-26T18:39:34Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:38:47Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10762,
+    "updated_at": "2026-05-26T18:37:30Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:37:30Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:36:05Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 2536,
+    "updated_at": "2026-05-26T18:35:58Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
     "description": "Constraint-aware AI systems. PLATO knowledge rooms, fleet orchestration, constraint engines, neural compression, and the",
     "id": "SuperInstance/SuperInstance",
     "language": "HTML",
@@ -18,15 +99,6 @@
     "url": "https://github.com/akyourowngames/friday"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 2531,
-    "updated_at": "2026-05-26T18:35:58Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T18:31:03Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T18:30:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T18:17:57Z",
     "url": "https://github.com/derricke/neuralswarm"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10760,
-    "updated_at": "2026-05-26T18:29:05Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "AIZona Agent Development Kit \u2014 Build governed AI agent teams with TypeScript. MIT Licensed.",
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T17:14:29Z",
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-05-26T18:31:17Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-26T17:03:19Z",
     "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-05-26T17:03:08Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:02:31Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-05-26T17:02:21Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:01:50Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:01:50Z",
-    "url": "https://github.com/monahright467/harness-books"
   }
 ]
