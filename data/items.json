@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-05-26T20:27:16Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 0,
+    "updated_at": "2026-05-26T20:25:50Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-05-26T20:24:28Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-05-26T20:19:11Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1166,
+    "updated_at": "2026-05-26T20:18:54Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-05-26T20:16:43Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-05-26T20:15:59Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T20:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udee1\ufe0f AEGIS v15.0 \u2014 AI Agent Team Framework for Claude Code | 11 Marvel Personas \u2022 37 Skills \u2022 16 Commands \u2022 14 Hooks \u2022 60+",
     "id": "phariyawitjiap-aeternix/AEGIS-Team",
     "language": "Shell",
@@ -36,6 +108,15 @@
     "url": "https://github.com/yassineelfakiri/agentpg"
   },
   {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4606,
+    "updated_at": "2026-05-26T20:04:09Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
     "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
     "id": "q-j0k/sprintloop-orchestration",
     "language": "\u2014",
@@ -43,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T20:01:22Z",
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T20:00:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -184,7 +256,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 2591,
+    "stars": 2598,
     "updated_at": "2026-05-26T19:05:43Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -239,7 +311,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 10763,
-    "updated_at": "2026-05-26T19:33:47Z",
+    "updated_at": "2026-05-26T20:30:20Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -250,15 +322,6 @@
     "stars": 78,
     "updated_at": "2026-05-26T18:54:47Z",
     "url": "https://github.com/NiJingzhe/SimpleLLMFunc"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1166,
-    "updated_at": "2026-05-26T18:46:41Z",
-    "url": "https://github.com/inkeep/agents"
   },
   {
     "description": "\ud83e\udd16 Multi-Agent Roundtable Engine / \u591a Agent \u5706\u684c\u8ba8\u8bba\u5f15\u64ce \u00b7 Structured discussions \u00b7 Consensus tracking \u00b7 Python \u00b7 Zero dependenc",
@@ -329,7 +392,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 63,
-    "updated_at": "2026-05-26T17:59:27Z",
+    "updated_at": "2026-05-26T20:28:14Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -347,7 +410,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 2,
-    "updated_at": "2026-05-26T19:43:44Z",
+    "updated_at": "2026-05-26T20:24:31Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T17:33:54Z",
     "url": "https://github.com/gaurav18115/matins"
-  },
-  {
-    "description": "Async-first Python runtime for building provider-agnostic LLM, agent, tool-calling, streaming, caching, and structured-o",
-    "id": "amazadfar/llm-client",
-    "language": "Python",
-    "name": "amazadfar/llm-client",
-    "stars": 1,
-    "updated_at": "2026-05-26T17:32:47Z",
-    "url": "https://github.com/amazadfar/llm-client"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:15:55Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:14:45Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:14:29Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
-    "id": "madeinplutofabio/neural-computation-protocol",
-    "language": "Rust",
-    "name": "madeinplutofabio/neural-computation-protocol",
-    "stars": 11,
-    "updated_at": "2026-05-26T17:35:04Z",
-    "url": "https://github.com/madeinplutofabio/neural-computation-protocol"
-  },
-  {
-    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
-    "id": "mj-deving/omniweb-agents",
-    "language": "TypeScript",
-    "name": "mj-deving/omniweb-agents",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:13:43Z",
-    "url": "https://github.com/mj-deving/omniweb-agents"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:11:29Z",
-    "url": "https://github.com/Liny9941/projectsmd"
   }
 ]
