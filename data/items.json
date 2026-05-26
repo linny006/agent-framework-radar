@@ -1,10 +1,82 @@
 [
   {
+    "description": "Composable Python SDK for building single-agent and multi-agent AI systems.",
+    "id": "nanitics/nanitics",
+    "language": "Python",
+    "name": "nanitics/nanitics",
+    "stars": 4,
+    "updated_at": "2026-05-26T07:45:24Z",
+    "url": "https://github.com/nanitics/nanitics"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 2300,
+    "updated_at": "2026-05-26T07:40:25Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "OpenAaaS: science agent network \u2014 bring AI to your data, not your data to AI. AaaS, Agent as a Service, MCP protocol, lo",
+    "id": "Wolido/OpenAaaS",
+    "language": "Rust",
+    "name": "Wolido/OpenAaaS",
+    "stars": 11,
+    "updated_at": "2026-05-26T07:38:28Z",
+    "url": "https://github.com/Wolido/OpenAaaS"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-05-26T07:37:20Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Cluster wide verification harness for byte floor, seals, and stationary state checks.",
+    "id": "Riverbraid/Riverbraid-Harness-Gold",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-Harness-Gold",
+    "stars": 1,
+    "updated_at": "2026-05-26T07:36:23Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-Harness-Gold"
+  },
+  {
+    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 117,
+    "updated_at": "2026-05-26T07:33:06Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1214,
+    "updated_at": "2026-05-26T07:31:31Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T07:30:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 9102,
+    "stars": 9120,
     "updated_at": "2026-05-26T07:28:19Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -61,24 +133,6 @@
     "stars": 12,
     "updated_at": "2026-05-26T07:16:03Z",
     "url": "https://github.com/gryszzz/open-thymos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T07:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Cluster wide verification harness for byte floor, seals, and stationary state checks.",
-    "id": "Riverbraid/Riverbraid-Harness-Gold",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-Harness-Gold",
-    "stars": 1,
-    "updated_at": "2026-05-26T07:10:11Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-Harness-Gold"
   },
   {
     "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
@@ -176,7 +230,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6250,
-    "updated_at": "2026-05-26T07:03:16Z",
+    "updated_at": "2026-05-26T07:37:22Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T07:03:01Z",
     "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
-  },
-  {
-    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 117,
-    "updated_at": "2026-05-26T07:01:36Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T06:54:30Z",
     "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-05-26T06:53:54Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cue",
-    "language": "TypeScript",
-    "name": "opencue/cue",
-    "stars": 1,
-    "updated_at": "2026-05-26T06:53:17Z",
-    "url": "https://github.com/opencue/cue"
-  },
-  {
-    "description": "Functional Python agent framework with MCP support, enterprise security, immutable state, and production-ready observabi",
-    "id": "xynehq/jaf-py",
-    "language": "Python",
-    "name": "xynehq/jaf-py",
-    "stars": 9,
-    "updated_at": "2026-05-26T06:52:25Z",
-    "url": "https://github.com/xynehq/jaf-py"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-05-26T06:51:58Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Deterministic refusal and boundary enforcement layer for Riverbraid.",
-    "id": "Riverbraid/Riverbraid-Refusal-Gold",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-Refusal-Gold",
-    "stars": 1,
-    "updated_at": "2026-05-26T06:51:21Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-Refusal-Gold"
   }
 ]
