@@ -5,8 +5,35 @@
     "language": "Shell",
     "name": "huangji6693-max/claude-code-dna",
     "stars": 0,
-    "updated_at": "2026-05-26T14:44:04Z",
+    "updated_at": "2026-05-26T14:57:21Z",
     "url": "https://github.com/huangji6693-max/claude-code-dna"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T14:45:37Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Production-grade reusable AI agent infrastructure base. ReAct loop, tool pipeline, permissions, hooks, session   persist",
+    "id": "H-Mr/llm-harness",
+    "language": "Python",
+    "name": "H-Mr/llm-harness",
+    "stars": 1,
+    "updated_at": "2026-05-26T14:41:15Z",
+    "url": "https://github.com/H-Mr/llm-harness"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10754,
+    "updated_at": "2026-05-26T14:37:50Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
@@ -18,13 +45,13 @@
     "url": "https://github.com/mj-deving/omniweb-agents"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T14:30:41Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 8,
+    "updated_at": "2026-05-26T14:30:32Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T13:51:48Z",
     "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Build self-spawning AI agents from tasks with distributed memory, guardrails, and a fossil record.",
-    "id": "karunun4659/spawnverse",
-    "language": "\u2014",
-    "name": "karunun4659/spawnverse",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:51:42Z",
-    "url": "https://github.com/karunun4659/spawnverse"
-  },
-  {
-    "description": "Connect WeChat messages to local AI coding agents like Codex, OpenCode, and Claude Code for fast task handling and file ",
-    "id": "arthursou0512/wechat-agent-channel",
-    "language": "Python",
-    "name": "arthursou0512/wechat-agent-channel",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:51:03Z",
-    "url": "https://github.com/arthursou0512/wechat-agent-channel"
-  },
-  {
-    "description": "Build AI agents with memory using three markdown files and a git repo; no framework, no database, works with any coding ",
-    "id": "Nurrachm6921/agent-kernel",
-    "language": "\u2014",
-    "name": "Nurrachm6921/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:50:16Z",
-    "url": "https://github.com/Nurrachm6921/agent-kernel"
   }
 ]
