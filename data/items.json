@@ -1,5 +1,122 @@
 [
   {
+    "description": "Build, Break, Deploy @ RudraX Autonomous AI Agent Runtime",
+    "id": "iamlalitpandit/RudraX",
+    "language": "Python",
+    "name": "iamlalitpandit/RudraX",
+    "stars": 2,
+    "updated_at": "2026-05-26T01:45:21Z",
+    "url": "https://github.com/iamlalitpandit/RudraX"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:44:27Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 17 professi",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:43:07Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
+    "id": "fuseraft/fuseraft-cli",
+    "language": "C#",
+    "name": "fuseraft/fuseraft-cli",
+    "stars": 2,
+    "updated_at": "2026-05-26T01:43:38Z",
+    "url": "https://github.com/fuseraft/fuseraft-cli"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
+    "id": "berhannnnd/Agents",
+    "language": "Python",
+    "name": "berhannnnd/Agents",
+    "stars": 1,
+    "updated_at": "2026-05-26T01:41:46Z",
+    "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:40:00Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
+    "id": "Ridou/horus-os",
+    "language": "Python",
+    "name": "Ridou/horus-os",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:38:29Z",
+    "url": "https://github.com/Ridou/horus-os"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-05-26T01:35:02Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:32:27Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A privacy-first, self-hosted AI Agent framework. Runs with Local LLMs, supports MCP protocol and RBAC permissions.\u4e2a\u672c\u5730\u4f18\u5148\u3001",
+    "id": "nexus-agent-lab/nexus-agent",
+    "language": "Python",
+    "name": "nexus-agent-lab/nexus-agent",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:32:05Z",
+    "url": "https://github.com/nexus-agent-lab/nexus-agent"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:32:01Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17294,
+    "updated_at": "2026-05-26T01:30:59Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -9,31 +126,13 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T01:29:11Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "CAST specialist agent definitions \u2014 23 production-grade Claude Code agents (commit, debug, review, plan, test, research,",
     "id": "ek33450505/cast-agents",
     "language": "Shell",
     "name": "ek33450505/cast-agents",
     "stars": 1,
-    "updated_at": "2026-05-26T01:25:38Z",
+    "updated_at": "2026-05-26T01:38:52Z",
     "url": "https://github.com/ek33450505/cast-agents"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
-    "id": "berhannnnd/Agents",
-    "language": "Python",
-    "name": "berhannnnd/Agents",
-    "stars": 1,
-    "updated_at": "2026-05-26T01:24:28Z",
-    "url": "https://github.com/berhannnnd/Agents"
   },
   {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
@@ -50,17 +149,8 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 8,
-    "updated_at": "2026-05-26T01:16:24Z",
+    "updated_at": "2026-05-26T01:41:38Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Build, Break, Deploy @ RudraX Autonomous AI Agent Runtime",
-    "id": "iamlalitpandit/RudraX",
-    "language": "Python",
-    "name": "iamlalitpandit/RudraX",
-    "stars": 2,
-    "updated_at": "2026-05-26T01:16:11Z",
-    "url": "https://github.com/iamlalitpandit/RudraX"
   },
   {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
@@ -70,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T01:15:53Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17292,
-    "updated_at": "2026-05-26T01:23:00Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
@@ -95,7 +176,7 @@
     "language": "Python",
     "name": "getsynkora/synkora-ai",
     "stars": 6,
-    "updated_at": "2026-05-26T01:19:28Z",
+    "updated_at": "2026-05-26T01:43:42Z",
     "url": "https://github.com/getsynkora/synkora-ai"
   },
   {
@@ -112,7 +193,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 2256,
+    "stars": 2258,
     "updated_at": "2026-05-26T01:01:10Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -122,7 +203,7 @@
     "language": "TypeScript",
     "name": "Kuonirad/MCOP-Framework-2.0",
     "stars": 1,
-    "updated_at": "2026-05-26T01:08:48Z",
+    "updated_at": "2026-05-26T01:33:00Z",
     "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
   },
   {
@@ -214,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T00:22:41Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
-    "id": "Ridou/horus-os",
-    "language": "Python",
-    "name": "Ridou/horus-os",
-    "stars": 0,
-    "updated_at": "2026-05-26T00:22:29Z",
-    "url": "https://github.com/Ridou/horus-os"
   },
   {
     "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-26T00:12:19Z",
     "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-05-26T00:12:04Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-05-26T00:11:33Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-05-26T00:11:19Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-05-26T00:11:06Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-05-26T00:11:04Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-05-26T00:11:02Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-05-26T00:10:34Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-05-26T00:08:21Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
   }
 ]
