@@ -1,10 +1,73 @@
 [
   {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 123,
+    "updated_at": "2026-05-26T04:12:27Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
+    "id": "0bserver07/chimera",
+    "language": "Python",
+    "name": "0bserver07/chimera",
+    "stars": 1,
+    "updated_at": "2026-05-26T04:09:41Z",
+    "url": "https://github.com/0bserver07/chimera"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-05-26T04:05:37Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
+    "id": "Ridou/horus-os",
+    "language": "Python",
+    "name": "Ridou/horus-os",
+    "stars": 0,
+    "updated_at": "2026-05-26T04:05:20Z",
+    "url": "https://github.com/Ridou/horus-os"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
+    "id": "berhannnnd/Agents",
+    "language": "Python",
+    "name": "berhannnnd/Agents",
+    "stars": 1,
+    "updated_at": "2026-05-26T04:01:38Z",
+    "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
+    "description": "AIZona Agent Development Kit \u2014 Build governed AI agent teams with TypeScript. MIT Licensed.",
+    "id": "ai-zona/adk",
+    "language": "TypeScript",
+    "name": "ai-zona/adk",
+    "stars": 0,
+    "updated_at": "2026-05-26T04:01:35Z",
+    "url": "https://github.com/ai-zona/adk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T04:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "openma - open-source, self-hosted implementation of Claude's Managed Agents API. Drop-in compatible. Runs on Cloudflare ",
     "id": "open-ma/open-managed-agents",
     "language": "TypeScript",
     "name": "open-ma/open-managed-agents",
-    "stars": 10,
+    "stars": 11,
     "updated_at": "2026-05-26T04:00:19Z",
     "url": "https://github.com/open-ma/open-managed-agents"
   },
@@ -25,33 +88,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T03:59:33Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "AIZona Agent Development Kit \u2014 Build governed AI agent teams with TypeScript. MIT Licensed.",
-    "id": "ai-zona/adk",
-    "language": "TypeScript",
-    "name": "ai-zona/adk",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:58:45Z",
-    "url": "https://github.com/ai-zona/adk"
-  },
-  {
-    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
-    "id": "0bserver07/chimera",
-    "language": "Python",
-    "name": "0bserver07/chimera",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:53:20Z",
-    "url": "https://github.com/0bserver07/chimera"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
-    "id": "berhannnnd/Agents",
-    "language": "Python",
-    "name": "berhannnnd/Agents",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:50:42Z",
-    "url": "https://github.com/berhannnnd/Agents"
   },
   {
     "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
@@ -79,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-05-26T03:46:20Z",
     "url": "https://github.com/Maykbiletti/mnemo"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
@@ -122,26 +149,8 @@
     "language": "Python",
     "name": "MoyuFamily/agent-roundtable",
     "stars": 0,
-    "updated_at": "2026-05-26T03:54:36Z",
+    "updated_at": "2026-05-26T04:12:39Z",
     "url": "https://github.com/MoyuFamily/agent-roundtable"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-05-26T03:32:19Z",
-    "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
-    "id": "Ridou/horus-os",
-    "language": "Python",
-    "name": "Ridou/horus-os",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:26:46Z",
-    "url": "https://github.com/Ridou/horus-os"
   },
   {
     "description": "An Electron-based multi-project AI cockpit that orchestrates multiple Claude Code instances with a built-in AI superviso",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T02:53:56Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:53:47Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
   }
 ]
