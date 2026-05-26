@@ -1,21 +1,12 @@
 [
   {
-    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
-    "id": "hdhks1229i3/vibecheck",
-    "language": "Zig",
-    "name": "hdhks1229i3/vibecheck",
+    "description": "\ud83e\udd16 Build advanced multi-agent AI systems with this high-performance Rust framework, enabling automation, reasoning, and e",
+    "id": "Albertossilva-maker/MultiAgent-AI",
+    "language": "HTML",
+    "name": "Albertossilva-maker/MultiAgent-AI",
     "stars": 0,
-    "updated_at": "2026-05-26T08:44:05Z",
-    "url": "https://github.com/hdhks1229i3/vibecheck"
-  },
-  {
-    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
-    "id": "dhaupin/vant",
-    "language": "JavaScript",
-    "name": "dhaupin/vant",
-    "stars": 0,
-    "updated_at": "2026-05-26T08:42:47Z",
-    "url": "https://github.com/dhaupin/vant"
+    "updated_at": "2026-05-26T08:55:54Z",
+    "url": "https://github.com/Albertossilva-maker/MultiAgent-AI"
   },
   {
     "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
@@ -23,17 +14,89 @@
     "language": "Python",
     "name": "berhannnnd/Agents",
     "stars": 1,
-    "updated_at": "2026-05-26T08:42:37Z",
+    "updated_at": "2026-05-26T08:54:40Z",
     "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
+    "description": "Orchestrate intelligent multi-agent swarms that actually work. Deploy autonomous workflows and conversational AI systems",
+    "id": "derricke/neuralswarm",
+    "language": "TypeScript",
+    "name": "derricke/neuralswarm",
+    "stars": 0,
+    "updated_at": "2026-05-26T08:53:30Z",
+    "url": "https://github.com/derricke/neuralswarm"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-05-26T08:52:11Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 9208,
-    "updated_at": "2026-05-26T08:42:15Z",
+    "stars": 9225,
+    "updated_at": "2026-05-26T08:52:06Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
+    "id": "dhaupin/vant",
+    "language": "JavaScript",
+    "name": "dhaupin/vant",
+    "stars": 0,
+    "updated_at": "2026-05-26T08:51:47Z",
+    "url": "https://github.com/dhaupin/vant"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 0,
+    "updated_at": "2026-05-26T08:50:46Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-05-26T08:49:26Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "Agents should execute whenever possible \u2014 open registry of reusable AI agent skills and capability definitions",
+    "id": "gfernandf/agent-skill-registry",
+    "language": "Python",
+    "name": "gfernandf/agent-skill-registry",
+    "stars": 2,
+    "updated_at": "2026-05-26T08:45:35Z",
+    "url": "https://github.com/gfernandf/agent-skill-registry"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T08:45:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-05-26T08:44:05Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
   },
   {
     "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
@@ -70,6 +133,15 @@
     "stars": 3,
     "updated_at": "2026-05-26T08:39:35Z",
     "url": "https://github.com/MiteshSharma/ethos"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4600,
+    "updated_at": "2026-05-26T08:39:31Z",
+    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
@@ -115,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T08:31:09Z",
     "url": "https://github.com/yassineelfakiri/agentpg"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T08:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -288,20 +351,11 @@
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
   {
-    "description": "Orchestrate intelligent multi-agent swarms that actually work. Deploy autonomous workflows and conversational AI systems",
-    "id": "derricke/neuralswarm",
-    "language": "TypeScript",
-    "name": "derricke/neuralswarm",
-    "stars": 0,
-    "updated_at": "2026-05-26T07:29:14Z",
-    "url": "https://github.com/derricke/neuralswarm"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17307,
+    "stars": 17308,
     "updated_at": "2026-05-26T07:25:47Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -394,59 +448,5 @@
     "stars": 644,
     "updated_at": "2026-05-26T07:05:48Z",
     "url": "https://github.com/rapidaai/voice-ai"
-  },
-  {
-    "description": "openma - open-source, self-hosted implementation of Claude's Managed Agents API. Drop-in compatible. Runs on Cloudflare ",
-    "id": "open-ma/open-managed-agents",
-    "language": "TypeScript",
-    "name": "open-ma/open-managed-agents",
-    "stars": 15,
-    "updated_at": "2026-05-26T07:05:09Z",
-    "url": "https://github.com/open-ma/open-managed-agents"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 0,
-    "updated_at": "2026-05-26T07:03:52Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins",
-    "id": "Doubleedged-capitaloftennessee462/agentswift",
-    "language": "\u2014",
-    "name": "Doubleedged-capitaloftennessee462/agentswift",
-    "stars": 0,
-    "updated_at": "2026-05-26T07:03:41Z",
-    "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-05-26T07:03:39Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "",
-    "id": "romainsantoli-web/setup-vs-agent-firm",
-    "language": "Python",
-    "name": "romainsantoli-web/setup-vs-agent-firm",
-    "stars": 0,
-    "updated_at": "2026-05-26T07:03:01Z",
-    "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-05-26T07:01:03Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
   }
 ]
