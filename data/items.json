@@ -1,12 +1,48 @@
 [
   {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 0,
+    "updated_at": "2026-05-26T15:07:51Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "A framework for the creation of autonomous agent services.",
+    "id": "valory-xyz/open-autonomy",
+    "language": "Python",
+    "name": "valory-xyz/open-autonomy",
+    "stars": 121,
+    "updated_at": "2026-05-26T15:05:47Z",
+    "url": "https://github.com/valory-xyz/open-autonomy"
+  },
+  {
     "description": "The behavioral operating system for Claude Code agents \u2014 distilled from 11 deeply-read libraries (179 skills + 99 agents",
     "id": "huangji6693-max/claude-code-dna",
     "language": "Shell",
     "name": "huangji6693-max/claude-code-dna",
     "stars": 0,
-    "updated_at": "2026-05-26T14:57:21Z",
+    "updated_at": "2026-05-26T15:11:46Z",
     "url": "https://github.com/huangji6693-max/claude-code-dna"
+  },
+  {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 5,
+    "updated_at": "2026-05-26T15:02:52Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10755,
+    "updated_at": "2026-05-26T15:02:09Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +50,44 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-26T14:45:37Z",
+    "updated_at": "2026-05-26T15:00:39Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 123,
+    "updated_at": "2026-05-26T14:58:03Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-05-26T14:56:36Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Mozaik is a TypeScript framework for building reactive agents.",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 46,
+    "updated_at": "2026-05-26T14:56:04Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-05-26T14:42:44Z",
+    "url": "https://github.com/raineislam/mcp-framework"
   },
   {
     "description": "Production-grade reusable AI agent infrastructure base. ReAct loop, tool pipeline, permissions, hooks, session   persist",
@@ -25,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-05-26T14:41:15Z",
     "url": "https://github.com/H-Mr/llm-harness"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10754,
-    "updated_at": "2026-05-26T14:37:50Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
@@ -59,7 +122,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 7,
-    "updated_at": "2026-05-26T14:28:46Z",
+    "updated_at": "2026-05-26T15:14:58Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -166,7 +229,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17315,
+    "stars": 17316,
     "updated_at": "2026-05-26T14:07:07Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T13:55:16Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:54:34Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Partner AI Agent Runtime",
-    "id": "slhaf/Partner",
-    "language": "Java",
-    "name": "slhaf/Partner",
-    "stars": 1,
-    "updated_at": "2026-05-26T13:54:17Z",
-    "url": "https://github.com/slhaf/Partner"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:54:05Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Open-source self-hosted AI agent runtime and multi-agent framework for autonomous agent swarms. Agent memory, MCP tools,",
-    "id": "swarmclawai/swarmclaw",
-    "language": "TypeScript",
-    "name": "swarmclawai/swarmclaw",
-    "stars": 523,
-    "updated_at": "2026-05-26T13:53:45Z",
-    "url": "https://github.com/swarmclawai/swarmclaw"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:52:43Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:52:34Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:51:48Z",
-    "url": "https://github.com/Messa8301/quickbench"
   }
 ]
