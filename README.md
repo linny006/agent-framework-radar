@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-26 22:30 UTC
+> ⏰ Last updated: 2026-05-26 22:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-05-26 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
-| 2 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 63 | TypeScript | 2026-05-26 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 3 | [Sanga1032/fullstack-mcp-playground](https://github.com/Sanga1032/fullstack-mcp-playground) | 0 | TypeScript | 2026-05-26 | 🤖 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as |
-| 4 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 0 | TypeScript | 2026-05-26 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
-| 5 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-26 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 6 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-26 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 7 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-05-26 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 8 | [bugsyhewitt/AlienClaw](https://github.com/bugsyhewitt/AlienClaw) | 6 | TypeScript | 2026-05-26 | Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on  |
-| 9 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-05-26 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
-| 10 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 8 | Python | 2026-05-26 | Multi-provider, hot-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recursive s |
-| 11 | [hoangtuanhehehehhe/AgentVault](https://github.com/hoangtuanhehehehhe/AgentVault) | 8 | Python | 2026-05-26 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M |
-| 12 | [citedy/adclaw](https://github.com/citedy/adclaw) | 19 | Python | 2026-05-26 | Open-source multi-agent AI marketing team with personas, shared memory, 130+ skills, and Docker deploys for Railway and  |
+| 1 | [citedy/adclaw](https://github.com/citedy/adclaw) | 19 | Python | 2026-05-26 | Open-source multi-agent AI marketing team with personas, shared memory, 130+ skills, and Docker deploys for Railway and  |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-26 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-05-26 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
+| 4 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 63 | TypeScript | 2026-05-26 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 5 | [Sanga1032/fullstack-mcp-playground](https://github.com/Sanga1032/fullstack-mcp-playground) | 0 | TypeScript | 2026-05-26 | 🤖 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as |
+| 6 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 0 | TypeScript | 2026-05-26 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
+| 7 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-26 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 8 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-05-26 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 9 | [bugsyhewitt/AlienClaw](https://github.com/bugsyhewitt/AlienClaw) | 6 | TypeScript | 2026-05-26 | Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on  |
+| 10 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-05-26 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
+| 11 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 8 | Python | 2026-05-26 | Multi-provider, hot-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recursive s |
+| 12 | [hoangtuanhehehehhe/AgentVault](https://github.com/hoangtuanhehehehhe/AgentVault) | 8 | Python | 2026-05-26 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M |
 | 13 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 10766 | Python | 2026-05-26 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
 | 14 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 0 | HTML | 2026-05-26 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
 | 15 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 2 | Python | 2026-05-26 | Many Agents, one objective... yours  |
