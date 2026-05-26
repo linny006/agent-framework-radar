@@ -1,12 +1,93 @@
 [
   {
+    "description": "openma - open-source, self-hosted implementation of Claude's Managed Agents API. Drop-in compatible. Runs on Cloudflare ",
+    "id": "open-ma/open-managed-agents",
+    "language": "TypeScript",
+    "name": "open-ma/open-managed-agents",
+    "stars": 10,
+    "updated_at": "2026-05-26T04:00:19Z",
+    "url": "https://github.com/open-ma/open-managed-agents"
+  },
+  {
+    "description": "Self-hosted gateway for AI coding agents (Claude Code \u00b7 Codex \u00b7 Gemini \u00b7 shell). Remote-control sessions from web / mobi",
+    "id": "Opendray/opendray",
+    "language": "Dart",
+    "name": "Opendray/opendray",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:59:40Z",
+    "url": "https://github.com/Opendray/opendray"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:59:33Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
     "description": "AIZona Agent Development Kit \u2014 Build governed AI agent teams with TypeScript. MIT Licensed.",
     "id": "ai-zona/adk",
     "language": "TypeScript",
     "name": "ai-zona/adk",
     "stars": 0,
-    "updated_at": "2026-05-26T03:44:54Z",
+    "updated_at": "2026-05-26T03:58:45Z",
     "url": "https://github.com/ai-zona/adk"
+  },
+  {
+    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
+    "id": "0bserver07/chimera",
+    "language": "Python",
+    "name": "0bserver07/chimera",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:53:20Z",
+    "url": "https://github.com/0bserver07/chimera"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
+    "id": "berhannnnd/Agents",
+    "language": "Python",
+    "name": "berhannnnd/Agents",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:50:42Z",
+    "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
+    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
+    "id": "Qitor/qitos",
+    "language": "Python",
+    "name": "Qitor/qitos",
+    "stars": 14,
+    "updated_at": "2026-05-26T03:49:12Z",
+    "url": "https://github.com/Qitor/qitos"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-05-26T03:47:22Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Persistent memory + coordination layer for AI agents. Local SQLite, vector recall, MCP server. Mnemo Connect turns one h",
+    "id": "Maykbiletti/mnemo",
+    "language": "JavaScript",
+    "name": "Maykbiletti/mnemo",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:46:20Z",
+    "url": "https://github.com/Maykbiletti/mnemo"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
@@ -16,24 +97,6 @@
     "stars": 1,
     "updated_at": "2026-05-26T03:44:21Z",
     "url": "https://github.com/Arch1eSUN/Moirai"
-  },
-  {
-    "description": "Persistent memory + coordination layer for AI agents. Local SQLite, vector recall, MCP server. Mnemo Connect turns one h",
-    "id": "Maykbiletti/mnemo",
-    "language": "JavaScript",
-    "name": "Maykbiletti/mnemo",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:43:26Z",
-    "url": "https://github.com/Maykbiletti/mnemo"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
-    "id": "berhannnnd/Agents",
-    "language": "Python",
-    "name": "berhannnnd/Agents",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:43:14Z",
-    "url": "https://github.com/berhannnnd/Agents"
   },
   {
     "description": "A lightweight framework for running useful local agents on limited compute.",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "MoyuFamily/agent-roundtable",
     "stars": 0,
-    "updated_at": "2026-05-26T03:43:02Z",
+    "updated_at": "2026-05-26T03:54:36Z",
     "url": "https://github.com/MoyuFamily/agent-roundtable"
   },
   {
@@ -70,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-05-26T03:32:19Z",
     "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
@@ -106,15 +160,6 @@
     "stars": 5563,
     "updated_at": "2026-05-26T03:17:45Z",
     "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
-    "id": "0bserver07/chimera",
-    "language": "Python",
-    "name": "0bserver07/chimera",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:11:28Z",
-    "url": "https://github.com/0bserver07/chimera"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T02:53:47Z",
     "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Empirical benchmark comparing agent architectures (single-agent, multi-agent, adaptive) on ProgramDev-v0 and CyberGym ta",
-    "id": "outlawresearchlabs/agent-architecture-benchmark",
-    "language": "Python",
-    "name": "outlawresearchlabs/agent-architecture-benchmark",
-    "stars": 1,
-    "updated_at": "2026-05-26T02:53:27Z",
-    "url": "https://github.com/outlawresearchlabs/agent-architecture-benchmark"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:52:53Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:52:41Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17299,
-    "updated_at": "2026-05-26T02:51:42Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 7562,
-    "updated_at": "2026-05-26T02:51:22Z",
-    "url": "https://github.com/EvoMap/evolver"
   }
 ]
