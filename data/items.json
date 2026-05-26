@@ -1,5 +1,59 @@
 [
   {
+    "description": "Constraint-aware AI systems. PLATO knowledge rooms, fleet orchestration, constraint engines, neural compression, and the",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 3,
+    "updated_at": "2026-05-26T18:13:41Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10760,
+    "updated_at": "2026-05-26T18:11:34Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "AIZona Agent Development Kit \u2014 Build governed AI agent teams with TypeScript. MIT Licensed.",
+    "id": "ai-zona/adk",
+    "language": "TypeScript",
+    "name": "ai-zona/adk",
+    "stars": 1,
+    "updated_at": "2026-05-26T18:10:12Z",
+    "url": "https://github.com/ai-zona/adk"
+  },
+  {
+    "description": "Orchestrate intelligent multi-agent swarms that actually work. Deploy autonomous workflows and conversational AI systems",
+    "id": "derricke/neuralswarm",
+    "language": "TypeScript",
+    "name": "derricke/neuralswarm",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:04:25Z",
+    "url": "https://github.com/derricke/neuralswarm"
+  },
+  {
+    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
+    "id": "akyourowngames/friday",
+    "language": "Python",
+    "name": "akyourowngames/friday",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:04:09Z",
+    "url": "https://github.com/akyourowngames/friday"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:00:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -16,15 +70,6 @@
     "stars": 8,
     "updated_at": "2026-05-26T17:58:45Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10759,
-    "updated_at": "2026-05-26T17:56:20Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -45,24 +90,6 @@
     "url": "https://github.com/arturcrmbot/zava-control-plane"
   },
   {
-    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
-    "id": "akyourowngames/friday",
-    "language": "Python",
-    "name": "akyourowngames/friday",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:48:39Z",
-    "url": "https://github.com/akyourowngames/friday"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source multi-agent AI marketing team with personas, shared memory, 130+ skills, and Docker deploys for Railway and ",
     "id": "citedy/adclaw",
     "language": "Python",
@@ -76,7 +103,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 2521,
+    "stars": 2529,
     "updated_at": "2026-05-26T17:39:29Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -144,15 +171,6 @@
     "url": "https://github.com/herreravalenz6620/context-compression"
   },
   {
-    "description": "AIZona Agent Development Kit \u2014 Build governed AI agent teams with TypeScript. MIT Licensed.",
-    "id": "ai-zona/adk",
-    "language": "TypeScript",
-    "name": "ai-zona/adk",
-    "stars": 1,
-    "updated_at": "2026-05-26T17:15:46Z",
-    "url": "https://github.com/ai-zona/adk"
-  },
-  {
     "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
     "id": "Smita6756/Hbrain",
     "language": "Python",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-05-26T17:14:57Z",
+    "updated_at": "2026-05-26T18:05:15Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-26T17:01:00Z",
     "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:59:01Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control.",
-    "id": "tr00x/SOMA-Core",
-    "language": "TypeScript",
-    "name": "tr00x/SOMA-Core",
-    "stars": 1,
-    "updated_at": "2026-05-26T16:58:04Z",
-    "url": "https://github.com/tr00x/SOMA-Core"
   }
 ]
