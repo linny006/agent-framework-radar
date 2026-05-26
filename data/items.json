@@ -1,5 +1,68 @@
 [
   {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "MiteshSharma/ethos",
+    "language": "TypeScript",
+    "name": "MiteshSharma/ethos",
+    "stars": 3,
+    "updated_at": "2026-05-26T05:12:11Z",
+    "url": "https://github.com/MiteshSharma/ethos"
+  },
+  {
+    "description": "InstantNeo: Instant agents as the building blocks of intelligent systems. A Python library for creating LLM-based agents",
+    "id": "InstantNeo/instantneo",
+    "language": "Python",
+    "name": "InstantNeo/instantneo",
+    "stars": 11,
+    "updated_at": "2026-05-26T05:06:16Z",
+    "url": "https://github.com/InstantNeo/instantneo"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 0,
+    "updated_at": "2026-05-26T05:05:57Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 0,
+    "updated_at": "2026-05-26T05:05:08Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
+    "id": "0bserver07/chimera",
+    "language": "Python",
+    "name": "0bserver07/chimera",
+    "stars": 1,
+    "updated_at": "2026-05-26T05:02:15Z",
+    "url": "https://github.com/0bserver07/chimera"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 2276,
+    "updated_at": "2026-05-26T05:00:32Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T05:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -25,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-05-26T04:49:38Z",
     "url": "https://github.com/Maykbiletti/mnemo"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T04:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -67,18 +121,9 @@
     "id": "open-ma/open-managed-agents",
     "language": "TypeScript",
     "name": "open-ma/open-managed-agents",
-    "stars": 14,
+    "stars": 15,
     "updated_at": "2026-05-26T04:29:58Z",
     "url": "https://github.com/open-ma/open-managed-agents"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 2273,
-    "updated_at": "2026-05-26T04:47:28Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 17 professi",
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "MoyuFamily/agent-roundtable",
     "stars": 1,
-    "updated_at": "2026-05-26T04:25:43Z",
+    "updated_at": "2026-05-26T05:04:09Z",
     "url": "https://github.com/MoyuFamily/agent-roundtable"
   },
   {
@@ -124,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-05-26T04:21:44Z",
     "url": "https://github.com/berhannnnd/Agents"
-  },
-  {
-    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
-    "id": "0bserver07/chimera",
-    "language": "Python",
-    "name": "0bserver07/chimera",
-    "stars": 1,
-    "updated_at": "2026-05-26T04:09:41Z",
-    "url": "https://github.com/0bserver07/chimera"
   },
   {
     "description": "Research framework for adaptive, purposeful agents under uncertainty",
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-05-26T04:27:53Z",
+    "updated_at": "2026-05-26T05:02:12Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-26T02:58:48Z",
     "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:58:12Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-05-26T02:57:54Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:57:38Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:57:37Z",
-    "url": "https://github.com/monahright467/harness-books"
   }
 ]
