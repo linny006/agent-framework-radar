@@ -1,12 +1,66 @@
 [
   {
+    "description": "openma - open-source, self-hosted implementation of Claude's Managed Agents API. Drop-in compatible. Runs on Cloudflare ",
+    "id": "open-ma/open-managed-agents",
+    "language": "TypeScript",
+    "name": "open-ma/open-managed-agents",
+    "stars": 13,
+    "updated_at": "2026-05-26T04:29:58Z",
+    "url": "https://github.com/open-ma/open-managed-agents"
+  },
+  {
+    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 17 professi",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 0,
+    "updated_at": "2026-05-26T04:28:57Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 8,
+    "updated_at": "2026-05-26T04:28:40Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
     "name": "DemonDamon/AgenticX",
     "stars": 123,
-    "updated_at": "2026-05-26T04:12:27Z",
+    "updated_at": "2026-05-26T04:26:59Z",
     "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
+    "id": "Ridou/horus-os",
+    "language": "Python",
+    "name": "Ridou/horus-os",
+    "stars": 0,
+    "updated_at": "2026-05-26T04:26:44Z",
+    "url": "https://github.com/Ridou/horus-os"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
+    "id": "berhannnnd/Agents",
+    "language": "Python",
+    "name": "berhannnnd/Agents",
+    "stars": 1,
+    "updated_at": "2026-05-26T04:21:44Z",
+    "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T04:15:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
@@ -27,24 +81,6 @@
     "url": "https://github.com/v2-io/agentic-systems"
   },
   {
-    "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
-    "id": "Ridou/horus-os",
-    "language": "Python",
-    "name": "Ridou/horus-os",
-    "stars": 0,
-    "updated_at": "2026-05-26T04:05:20Z",
-    "url": "https://github.com/Ridou/horus-os"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
-    "id": "berhannnnd/Agents",
-    "language": "Python",
-    "name": "berhannnnd/Agents",
-    "stars": 1,
-    "updated_at": "2026-05-26T04:01:38Z",
-    "url": "https://github.com/berhannnnd/Agents"
-  },
-  {
     "description": "AIZona Agent Development Kit \u2014 Build governed AI agent teams with TypeScript. MIT Licensed.",
     "id": "ai-zona/adk",
     "language": "TypeScript",
@@ -54,30 +90,12 @@
     "url": "https://github.com/ai-zona/adk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T04:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "openma - open-source, self-hosted implementation of Claude's Managed Agents API. Drop-in compatible. Runs on Cloudflare ",
-    "id": "open-ma/open-managed-agents",
-    "language": "TypeScript",
-    "name": "open-ma/open-managed-agents",
-    "stars": 11,
-    "updated_at": "2026-05-26T04:00:19Z",
-    "url": "https://github.com/open-ma/open-managed-agents"
-  },
-  {
     "description": "Self-hosted gateway for AI coding agents (Claude Code \u00b7 Codex \u00b7 Gemini \u00b7 shell). Remote-control sessions from web / mobi",
     "id": "Opendray/opendray",
     "language": "Dart",
     "name": "Opendray/opendray",
     "stars": 1,
-    "updated_at": "2026-05-26T03:59:40Z",
+    "updated_at": "2026-05-26T04:19:46Z",
     "url": "https://github.com/Opendray/opendray"
   },
   {
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-05-26T03:47:22Z",
+    "updated_at": "2026-05-26T04:27:53Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -135,21 +153,12 @@
     "url": "https://github.com/Fletch-N/HALF"
   },
   {
-    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 17 professi",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:33:43Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
     "description": "\ud83e\udd16 Multi-Agent Roundtable Engine / \u591a Agent \u5706\u684c\u8ba8\u8bba\u5f15\u64ce \u00b7 Structured discussions \u00b7 Consensus tracking \u00b7 Python \u00b7 Zero dependenc",
     "id": "MoyuFamily/agent-roundtable",
     "language": "Python",
     "name": "MoyuFamily/agent-roundtable",
     "stars": 0,
-    "updated_at": "2026-05-26T04:12:39Z",
+    "updated_at": "2026-05-26T04:25:43Z",
     "url": "https://github.com/MoyuFamily/agent-roundtable"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-26T02:54:20Z",
     "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:53:56Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
   }
 ]
