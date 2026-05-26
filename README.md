@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-26 05:42 UTC
+> ⏰ Last updated: 2026-05-26 05:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 8910 | TypeScript | 2026-05-26 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 2 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 62 | TypeScript | 2026-05-26 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 3 | [ComputPhillip/agentic-forge](https://github.com/ComputPhillip/agentic-forge) | 0 | PowerShell | 2026-05-26 | Claude Code subagent for token-efficient AI coding. 7 operating principles produce 50% fewer tool calls and 60% less wal |
-| 4 | [envergadcr/ai-video-workflow](https://github.com/envergadcr/ai-video-workflow) | 1 | Python | 2026-05-26 |  |
-| 5 | [Niranjan-008/Agentic-Decision-Cell](https://github.com/Niranjan-008/Agentic-Decision-Cell) | 0 | Python | 2026-05-26 | 🧠 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool |
-| 6 | [yassineelfakiri/agentpg](https://github.com/yassineelfakiri/agentpg) | 0 | Go | 2026-05-26 | 🤖 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by |
-| 7 | [HCF-STUDIOS/openhermit](https://github.com/HCF-STUDIOS/openhermit) | 40 | TypeScript | 2026-05-26 | OpenHermit is the open-source platform for deploying fleets of AI agents as production services — durable state, sandbox |
-| 8 | [roackb2/heddle](https://github.com/roackb2/heddle) | 8 | TypeScript | 2026-05-26 | An open-source terminal coding agent runtime and CLI for real project work. |
-| 9 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 7562 | JavaScript | 2026-05-26 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
-| 10 | [q-j0k/sprintloop-orchestration](https://github.com/q-j0k/sprintloop-orchestration) | 0 | — | 2026-05-26 | 🚀 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents  |
-| 11 | [xiaojilele-glitch/cube-pets-office](https://github.com/xiaojilele-glitch/cube-pets-office) | 250 | TypeScript | 2026-05-26 | AI Agent OS with visible workflow, real execution, and a 3D office shell. From one sentence to full task lifecycle — pla |
-| 12 | [Ridou/horus-os](https://github.com/Ridou/horus-os) | 0 | Python | 2026-05-26 | Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr |
-| 13 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-26 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-26 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 8913 | TypeScript | 2026-05-26 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 3 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 62 | TypeScript | 2026-05-26 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 4 | [ComputPhillip/agentic-forge](https://github.com/ComputPhillip/agentic-forge) | 0 | PowerShell | 2026-05-26 | Claude Code subagent for token-efficient AI coding. 7 operating principles produce 50% fewer tool calls and 60% less wal |
+| 5 | [envergadcr/ai-video-workflow](https://github.com/envergadcr/ai-video-workflow) | 1 | Python | 2026-05-26 |  |
+| 6 | [Niranjan-008/Agentic-Decision-Cell](https://github.com/Niranjan-008/Agentic-Decision-Cell) | 0 | Python | 2026-05-26 | 🧠 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool |
+| 7 | [yassineelfakiri/agentpg](https://github.com/yassineelfakiri/agentpg) | 0 | Go | 2026-05-26 | 🤖 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by |
+| 8 | [HCF-STUDIOS/openhermit](https://github.com/HCF-STUDIOS/openhermit) | 40 | TypeScript | 2026-05-26 | OpenHermit is the open-source platform for deploying fleets of AI agents as production services — durable state, sandbox |
+| 9 | [roackb2/heddle](https://github.com/roackb2/heddle) | 8 | TypeScript | 2026-05-26 | An open-source terminal coding agent runtime and CLI for real project work. |
+| 10 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 7562 | JavaScript | 2026-05-26 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
+| 11 | [q-j0k/sprintloop-orchestration](https://github.com/q-j0k/sprintloop-orchestration) | 0 | — | 2026-05-26 | 🚀 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents  |
+| 12 | [xiaojilele-glitch/cube-pets-office](https://github.com/xiaojilele-glitch/cube-pets-office) | 250 | TypeScript | 2026-05-26 | AI Agent OS with visible workflow, real execution, and a 3D office shell. From one sentence to full task lifecycle — pla |
+| 13 | [Ridou/horus-os](https://github.com/Ridou/horus-os) | 0 | Python | 2026-05-26 | Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr |
 | 14 | [MiteshSharma/ethos](https://github.com/MiteshSharma/ethos) | 3 | TypeScript | 2026-05-26 | TypeScript AI agent framework where personality is architecture. Specialists, not chatbots. |
 | 15 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 2279 | Python | 2026-05-26 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
 | 16 | [Arch1eSUN/Moirai](https://github.com/Arch1eSUN/Moirai) | 1 | Python | 2026-05-26 | Moirai — Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded |
