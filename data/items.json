@@ -1,5 +1,41 @@
 [
   {
+    "description": "Constraint-aware AI systems. PLATO knowledge rooms, fleet orchestration, constraint engines, neural compression, and the",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 3,
+    "updated_at": "2026-05-27T08:40:14Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
+    "id": "Qitor/qitos",
+    "language": "Python",
+    "name": "Qitor/qitos",
+    "stars": 14,
+    "updated_at": "2026-05-27T08:36:34Z",
+    "url": "https://github.com/Qitor/qitos"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 9,
+    "updated_at": "2026-05-27T08:36:05Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T08:30:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
     "id": "rapidaai/voice-ai",
     "language": "Go",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 64,
-    "updated_at": "2026-05-27T08:27:55Z",
+    "updated_at": "2026-05-27T08:40:45Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 108,
     "updated_at": "2026-05-27T08:18:00Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T08:15:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
@@ -166,7 +193,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 10840,
+    "stars": 10864,
     "updated_at": "2026-05-27T07:22:58Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-27T06:38:34Z",
     "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-05-27T06:38:31Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:37:55Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-05-27T06:37:36Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
