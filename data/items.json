@@ -1,12 +1,57 @@
 [
   {
+    "description": "AI agent framework used to automate tasks, manage workflows, and execute code",
+    "id": "guygrigsby/talon",
+    "language": "Go",
+    "name": "guygrigsby/talon",
+    "stars": 0,
+    "updated_at": "2026-05-27T19:59:06Z",
+    "url": "https://github.com/guygrigsby/talon"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 0,
+    "updated_at": "2026-05-27T19:57:37Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Core engine JARVIS OS \u2014 orchestrateur multi-agents, consensus engine, 900+ agents autonomes en production",
+    "id": "Turbo31150/jarvis-core",
+    "language": "Python",
+    "name": "Turbo31150/jarvis-core",
+    "stars": 1,
+    "updated_at": "2026-05-27T19:52:53Z",
+    "url": "https://github.com/Turbo31150/jarvis-core"
+  },
+  {
+    "description": "\ud83e\udd16 Multi-Agent Roundtable Engine / \u591a Agent \u5706\u684c\u8ba8\u8bba\u5f15\u64ce \u00b7 Structured discussions \u00b7 Consensus tracking \u00b7 Python \u00b7 Zero dependenc",
+    "id": "MoyuFamily/agent-roundtable",
+    "language": "Python",
+    "name": "MoyuFamily/agent-roundtable",
+    "stars": 1,
+    "updated_at": "2026-05-27T19:49:58Z",
+    "url": "https://github.com/MoyuFamily/agent-roundtable"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T19:45:28Z",
+    "updated_at": "2026-05-27T19:48:16Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three r",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6271,
+    "updated_at": "2026-05-27T19:48:00Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 cron \u00b7 heartbeat \u00b7 sk",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "RikyZ90/ShibaClaw",
     "stars": 88,
-    "updated_at": "2026-05-27T19:45:36Z",
+    "updated_at": "2026-05-27T19:50:01Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
@@ -81,24 +126,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Core engine JARVIS OS \u2014 orchestrateur multi-agents, consensus engine, 900+ agents autonomes en production",
-    "id": "Turbo31150/jarvis-core",
-    "language": "Python",
-    "name": "Turbo31150/jarvis-core",
-    "stars": 1,
-    "updated_at": "2026-05-27T19:23:41Z",
-    "url": "https://github.com/Turbo31150/jarvis-core"
-  },
-  {
-    "description": "AI agent framework used to automate tasks, manage workflows, and execute code",
-    "id": "guygrigsby/talon",
-    "language": "Go",
-    "name": "guygrigsby/talon",
-    "stars": 0,
-    "updated_at": "2026-05-27T19:18:36Z",
-    "url": "https://github.com/guygrigsby/talon"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T19:12:24Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three r",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6269,
-    "updated_at": "2026-05-27T19:48:00Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "Multi-model adversarial review for catching shared blind spots",
@@ -162,15 +180,6 @@
     "url": "https://github.com/msoedov/agentic_security"
   },
   {
-    "description": "\ud83e\udd16 Multi-Agent Roundtable Engine / \u591a Agent \u5706\u684c\u8ba8\u8bba\u5f15\u64ce \u00b7 Structured discussions \u00b7 Consensus tracking \u00b7 Python \u00b7 Zero dependenc",
-    "id": "MoyuFamily/agent-roundtable",
-    "language": "Python",
-    "name": "MoyuFamily/agent-roundtable",
-    "stars": 1,
-    "updated_at": "2026-05-27T19:46:42Z",
-    "url": "https://github.com/MoyuFamily/agent-roundtable"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -194,7 +203,7 @@
     "language": "TypeScript",
     "name": "jigjoy-ai/mozaik",
     "stars": 46,
-    "updated_at": "2026-05-27T19:45:56Z",
+    "updated_at": "2026-05-27T19:57:51Z",
     "url": "https://github.com/jigjoy-ai/mozaik"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T18:28:12Z",
     "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-05-27T18:27:53Z",
-    "url": "https://github.com/Thuso030703/open-claude"
   }
 ]
