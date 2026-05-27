@@ -1,12 +1,21 @@
 [
   {
-    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
-    "id": "vstorm-co/full-stack-ai-agent-template",
-    "language": "Python",
-    "name": "vstorm-co/full-stack-ai-agent-template",
-    "stars": 1297,
-    "updated_at": "2026-05-27T12:00:36Z",
-    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 11158,
+    "updated_at": "2026-05-27T12:14:03Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
+    "id": "cordum-io/cordum",
+    "language": "Go",
+    "name": "cordum-io/cordum",
+    "stars": 481,
+    "updated_at": "2026-05-27T12:09:37Z",
+    "url": "https://github.com/cordum-io/cordum"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T11:46:44Z",
+    "updated_at": "2026-05-27T12:02:05Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
+    "id": "vstorm-co/full-stack-ai-agent-template",
+    "language": "Python",
+    "name": "vstorm-co/full-stack-ai-agent-template",
+    "stars": 1297,
+    "updated_at": "2026-05-27T12:14:42Z",
+    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
   },
   {
     "description": "Where knowledge flows, voices follow.",
@@ -45,15 +63,6 @@
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
-    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
-    "id": "cordum-io/cordum",
-    "language": "Go",
-    "name": "cordum-io/cordum",
-    "stars": 481,
-    "updated_at": "2026-05-27T11:54:39Z",
-    "url": "https://github.com/cordum-io/cordum"
-  },
-  {
     "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
     "id": "achappey/aihappey-chat",
     "language": "TypeScript",
@@ -68,7 +77,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 5,
-    "updated_at": "2026-05-27T11:53:05Z",
+    "updated_at": "2026-05-27T12:15:52Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -85,7 +94,7 @@
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
-    "stars": 120,
+    "stars": 121,
     "updated_at": "2026-05-27T11:03:14Z",
     "url": "https://github.com/cortexkit/aft"
   },
@@ -149,7 +158,7 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 72,
-    "updated_at": "2026-05-27T11:57:35Z",
+    "updated_at": "2026-05-27T12:04:46Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Dart",
     "name": "memex-lab/dart_agent_core",
     "stars": 22,
-    "updated_at": "2026-05-27T10:06:00Z",
+    "updated_at": "2026-05-27T12:13:31Z",
     "url": "https://github.com/memex-lab/dart_agent_core"
   },
   {
@@ -283,7 +292,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 2882,
+    "stars": 2883,
     "updated_at": "2026-05-27T09:53:37Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:22:00Z",
     "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10781,
-    "updated_at": "2026-05-27T09:20:14Z",
-    "url": "https://github.com/microsoft/agent-framework"
   }
 ]
