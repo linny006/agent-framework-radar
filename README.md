@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-27 01:45 UTC
+> ⏰ Last updated: 2026-05-27 01:50 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [polarisagi/polaris-harness](https://github.com/polarisagi/polaris-harness) | 1 | Go | 2026-05-27 | 开源自托管 AI Agent — Go + Rust + provider-agnostic \| Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness |
-| 2 | [jkraybill/gordo-roundtable](https://github.com/jkraybill/gordo-roundtable) | 1 | TypeScript | 2026-05-27 | Multi-model adversarial review for catching shared blind spots |
-| 3 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 10168 | TypeScript | 2026-05-27 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 4 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-05-27 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
-| 5 | [ek33450505/claude-agent-team](https://github.com/ek33450505/claude-agent-team) | 4 | Shell | 2026-05-27 | CAST: multi-agent orchestration framework for Claude Code with hook-enforced quality gates and observability. |
-| 6 | [cortexkit/aft](https://github.com/cortexkit/aft) | 118 | Rust | 2026-05-27 | Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi |
-| 7 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-27 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 8 | [vzwjustin/advisor](https://github.com/vzwjustin/advisor) | 2 | Python | 2026-05-27 | Opus-led Claude Code agent team — strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z |
-| 9 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-05-27 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 10 | [berhannnnd/Agents](https://github.com/berhannnnd/Agents) | 1 | Python | 2026-05-27 | 🏛️  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries — built for re |
-| 11 | [framersai/agentos](https://github.com/framersai/agentos) | 554 | TypeScript | 2026-05-27 | Build autonomous AI agents with adaptive intelligence and emergent behaviors, included with multimodal RAG and optional  |
-| 12 | [hoangtuanhehehehhe/AgentVault](https://github.com/hoangtuanhehehehhe/AgentVault) | 8 | Python | 2026-05-27 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M |
-| 13 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [cortexkit/aft](https://github.com/cortexkit/aft) | 118 | Rust | 2026-05-27 | Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi |
+| 2 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 10178 | TypeScript | 2026-05-27 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 3 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 4 | [polarisagi/polaris-harness](https://github.com/polarisagi/polaris-harness) | 1 | Go | 2026-05-27 | 开源自托管 AI Agent — Go + Rust + provider-agnostic \| Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness |
+| 5 | [jkraybill/gordo-roundtable](https://github.com/jkraybill/gordo-roundtable) | 1 | TypeScript | 2026-05-27 | Multi-model adversarial review for catching shared blind spots |
+| 6 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-05-27 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
+| 7 | [ek33450505/claude-agent-team](https://github.com/ek33450505/claude-agent-team) | 4 | Shell | 2026-05-27 | CAST: multi-agent orchestration framework for Claude Code with hook-enforced quality gates and observability. |
+| 8 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-27 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 9 | [vzwjustin/advisor](https://github.com/vzwjustin/advisor) | 2 | Python | 2026-05-27 | Opus-led Claude Code agent team — strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z |
+| 10 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-05-27 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 11 | [berhannnnd/Agents](https://github.com/berhannnnd/Agents) | 1 | Python | 2026-05-27 | 🏛️  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries — built for re |
+| 12 | [framersai/agentos](https://github.com/framersai/agentos) | 554 | TypeScript | 2026-05-27 | Build autonomous AI agents with adaptive intelligence and emergent behaviors, included with multimodal RAG and optional  |
+| 13 | [hoangtuanhehehehhe/AgentVault](https://github.com/hoangtuanhehehehhe/AgentVault) | 8 | Python | 2026-05-27 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M |
 | 14 | [steve-seungeui/ephemera](https://github.com/steve-seungeui/ephemera) | 3 | Go | 2026-05-27 | Enterprise control plane for ephemeral AI agents via Firecracker MicroVMs |
 | 15 | [getsynkora/synkora-ai](https://github.com/getsynkora/synkora-ai) | 6 | Python | 2026-05-27 | Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo |
 | 16 | [shrikanth-h/repo-intelligence-dashboard](https://github.com/shrikanth-h/repo-intelligence-dashboard) | 0 | — | 2026-05-27 | A curated atlas of open-source repos shaping modern AI engineering — agent frameworks, RAG platforms, dev tooling. Archi |
