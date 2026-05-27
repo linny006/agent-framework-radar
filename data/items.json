@@ -1,21 +1,66 @@
 [
   {
+    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
+    "id": "vstorm-co/full-stack-ai-agent-template",
+    "language": "Python",
+    "name": "vstorm-co/full-stack-ai-agent-template",
+    "stars": 1298,
+    "updated_at": "2026-05-27T11:00:07Z",
+    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:00:00Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
+    "id": "madeinplutofabio/neural-computation-protocol",
+    "language": "Rust",
+    "name": "madeinplutofabio/neural-computation-protocol",
+    "stars": 12,
+    "updated_at": "2026-05-27T10:57:52Z",
+    "url": "https://github.com/madeinplutofabio/neural-computation-protocol"
+  },
+  {
     "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
     "id": "berhannnnd/Agents",
     "language": "Python",
     "name": "berhannnnd/Agents",
     "stars": 1,
-    "updated_at": "2026-05-27T10:39:54Z",
+    "updated_at": "2026-05-27T10:57:31Z",
     "url": "https://github.com/berhannnnd/Agents"
   },
   {
-    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
-    "id": "cordum-io/cordum",
-    "language": "Go",
-    "name": "cordum-io/cordum",
-    "stars": 481,
-    "updated_at": "2026-05-27T10:40:21Z",
-    "url": "https://github.com/cordum-io/cordum"
+    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 5,
+    "updated_at": "2026-05-27T10:59:02Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
+    "id": "lukeskytorep-bot/echo-claw",
+    "language": "\u2014",
+    "name": "lukeskytorep-bot/echo-claw",
+    "stars": 1,
+    "updated_at": "2026-05-27T10:50:49Z",
+    "url": "https://github.com/lukeskytorep-bot/echo-claw"
+  },
+  {
+    "description": "Production-grade reusable AI agent infrastructure base. ReAct loop, tool pipeline, permissions, hooks, session   persist",
+    "id": "H-Mr/llm-harness",
+    "language": "Python",
+    "name": "H-Mr/llm-harness",
+    "stars": 1,
+    "updated_at": "2026-05-27T10:46:09Z",
+    "url": "https://github.com/H-Mr/llm-harness"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -23,8 +68,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T10:30:50Z",
+    "updated_at": "2026-05-27T10:45:27Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
+    "id": "cordum-io/cordum",
+    "language": "Go",
+    "name": "cordum-io/cordum",
+    "stars": 481,
+    "updated_at": "2026-05-27T11:00:11Z",
+    "url": "https://github.com/cordum-io/cordum"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -43,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-05-27T10:25:05Z",
     "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
-  },
-  {
-    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 5,
-    "updated_at": "2026-05-27T10:42:04Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file ",
@@ -103,7 +148,7 @@
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6265,
+    "stars": 6266,
     "updated_at": "2026-05-27T10:12:14Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 2,
-    "updated_at": "2026-05-27T10:21:27Z",
+    "updated_at": "2026-05-27T10:59:31Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -229,7 +274,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 2872,
+    "stars": 2873,
     "updated_at": "2026-05-27T09:53:37Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -391,7 +436,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 10779,
+    "stars": 10780,
     "updated_at": "2026-05-27T09:20:14Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:20:07Z",
     "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14130,
-    "updated_at": "2026-05-27T09:20:04Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
-    "id": "yassineelfakiri/agentpg",
-    "language": "Go",
-    "name": "yassineelfakiri/agentpg",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:19:55Z",
-    "url": "https://github.com/yassineelfakiri/agentpg"
-  },
-  {
-    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
-    "id": "BrettMGoughWork/vai-core",
-    "language": "Python",
-    "name": "BrettMGoughWork/vai-core",
-    "stars": 2,
-    "updated_at": "2026-05-27T09:19:26Z",
-    "url": "https://github.com/BrettMGoughWork/vai-core"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
-    "id": "q-j0k/sprintloop-orchestration",
-    "language": "\u2014",
-    "name": "q-j0k/sprintloop-orchestration",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:15:05Z",
-    "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "OpenHermit is the open-source platform for deploying fleets of AI agents as production services \u2014 durable state, sandbox",
-    "id": "HCF-STUDIOS/openhermit",
-    "language": "TypeScript",
-    "name": "HCF-STUDIOS/openhermit",
-    "stars": 42,
-    "updated_at": "2026-05-27T09:14:41Z",
-    "url": "https://github.com/HCF-STUDIOS/openhermit"
   }
 ]
