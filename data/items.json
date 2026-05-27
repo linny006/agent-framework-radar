@@ -1,12 +1,21 @@
 [
   {
-    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
-    "id": "cordum-io/cordum",
-    "language": "Go",
-    "name": "cordum-io/cordum",
-    "stars": 481,
-    "updated_at": "2026-05-27T11:30:09Z",
-    "url": "https://github.com/cordum-io/cordum"
+    "description": "Where knowledge flows, voices follow.",
+    "id": "fumino-development/fumino-engine",
+    "language": "TypeScript",
+    "name": "fumino-development/fumino-engine",
+    "stars": 1,
+    "updated_at": "2026-05-27T11:40:53Z",
+    "url": "https://github.com/fumino-development/fumino-engine"
+  },
+  {
+    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
+    "id": "lukeskytorep-bot/echo-claw",
+    "language": "\u2014",
+    "name": "lukeskytorep-bot/echo-claw",
+    "stars": 1,
+    "updated_at": "2026-05-27T11:36:06Z",
+    "url": "https://github.com/lukeskytorep-bot/echo-claw"
   },
   {
     "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three r",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6266,
-    "updated_at": "2026-05-27T11:19:29Z",
+    "updated_at": "2026-05-27T11:32:42Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -23,8 +32,26 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T11:15:30Z",
+    "updated_at": "2026-05-27T11:30:26Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
+    "id": "cordum-io/cordum",
+    "language": "Go",
+    "name": "cordum-io/cordum",
+    "stars": 481,
+    "updated_at": "2026-05-27T11:42:39Z",
+    "url": "https://github.com/cordum-io/cordum"
+  },
+  {
+    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
+    "id": "vstorm-co/full-stack-ai-agent-template",
+    "language": "Python",
+    "name": "vstorm-co/full-stack-ai-agent-template",
+    "stars": 1297,
+    "updated_at": "2026-05-27T11:22:50Z",
+    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
   },
   {
     "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 5,
-    "updated_at": "2026-05-27T11:13:33Z",
+    "updated_at": "2026-05-27T11:41:36Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-05-27T11:06:33Z",
     "url": "https://github.com/nikolas-sapa/grip-browser"
-  },
-  {
-    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
-    "id": "vstorm-co/full-stack-ai-agent-template",
-    "language": "Python",
-    "name": "vstorm-co/full-stack-ai-agent-template",
-    "stars": 1298,
-    "updated_at": "2026-05-27T11:22:50Z",
-    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
   },
   {
     "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
@@ -99,15 +117,6 @@
     "url": "https://github.com/berhannnnd/Agents"
   },
   {
-    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
-    "id": "lukeskytorep-bot/echo-claw",
-    "language": "\u2014",
-    "name": "lukeskytorep-bot/echo-claw",
-    "stars": 1,
-    "updated_at": "2026-05-27T10:50:49Z",
-    "url": "https://github.com/lukeskytorep-bot/echo-claw"
-  },
-  {
     "description": "Production-grade reusable AI agent infrastructure base. ReAct loop, tool pipeline, permissions, hooks, session   persist",
     "id": "H-Mr/llm-harness",
     "language": "Python",
@@ -140,7 +149,7 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 72,
-    "updated_at": "2026-05-27T10:18:54Z",
+    "updated_at": "2026-05-27T11:42:41Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
@@ -274,7 +283,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 2877,
+    "stars": 2880,
     "updated_at": "2026-05-27T09:53:37Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -436,17 +445,8 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 10780,
+    "stars": 10781,
     "updated_at": "2026-05-27T09:20:14Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f AEGIS v15.0 \u2014 AI Agent Team Framework for Claude Code | 11 Marvel Personas \u2022 37 Skills \u2022 16 Commands \u2022 14 Hooks \u2022 60+",
-    "id": "phariyawitjiap-aeternix/AEGIS-Team",
-    "language": "Shell",
-    "name": "phariyawitjiap-aeternix/AEGIS-Team",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:20:07Z",
-    "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
   }
 ]
