@@ -1,5 +1,23 @@
 [
   {
+    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
+    "id": "vstorm-co/full-stack-ai-agent-template",
+    "language": "Python",
+    "name": "vstorm-co/full-stack-ai-agent-template",
+    "stars": 1297,
+    "updated_at": "2026-05-27T12:00:36Z",
+    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:46:44Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Where knowledge flows, voices follow.",
     "id": "fumino-development/fumino-engine",
     "language": "TypeScript",
@@ -14,7 +32,7 @@
     "language": "\u2014",
     "name": "lukeskytorep-bot/echo-claw",
     "stars": 1,
-    "updated_at": "2026-05-27T11:36:06Z",
+    "updated_at": "2026-05-27T11:47:13Z",
     "url": "https://github.com/lukeskytorep-bot/echo-claw"
   },
   {
@@ -23,17 +41,8 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6266,
-    "updated_at": "2026-05-27T11:32:42Z",
+    "updated_at": "2026-05-27T11:46:30Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T11:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
@@ -41,17 +50,8 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 481,
-    "updated_at": "2026-05-27T11:42:39Z",
+    "updated_at": "2026-05-27T11:54:39Z",
     "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
-    "id": "vstorm-co/full-stack-ai-agent-template",
-    "language": "Python",
-    "name": "vstorm-co/full-stack-ai-agent-template",
-    "stars": 1297,
-    "updated_at": "2026-05-27T11:22:50Z",
-    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
   },
   {
     "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
@@ -68,7 +68,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 5,
-    "updated_at": "2026-05-27T11:41:36Z",
+    "updated_at": "2026-05-27T11:53:05Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -149,7 +149,7 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 72,
-    "updated_at": "2026-05-27T11:42:41Z",
+    "updated_at": "2026-05-27T11:57:35Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
@@ -185,7 +185,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 2,
-    "updated_at": "2026-05-27T11:22:38Z",
+    "updated_at": "2026-05-27T11:58:20Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -283,7 +283,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 2880,
+    "stars": 2882,
     "updated_at": "2026-05-27T09:53:37Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -293,7 +293,7 @@
     "language": "Python",
     "name": "Qitor/qitos",
     "stars": 14,
-    "updated_at": "2026-05-27T09:50:35Z",
+    "updated_at": "2026-05-27T12:00:44Z",
     "url": "https://github.com/Qitor/qitos"
   },
   {

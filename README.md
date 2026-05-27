@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-27 11:46 UTC
+> ⏰ Last updated: 2026-05-27 12:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [fumino-development/fumino-engine](https://github.com/fumino-development/fumino-engine) | 1 | TypeScript | 2026-05-27 | Where knowledge flows, voices follow. |
-| 2 | [lukeskytorep-bot/echo-claw](https://github.com/lukeskytorep-bot/echo-claw) | 1 | — | 2026-05-27 | ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor–Viewer architecture, blind-target separation, st |
-| 3 | [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6266 | TypeScript | 2026-05-27 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three r |
-| 4 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 5 | [cordum-io/cordum](https://github.com/cordum-io/cordum) | 481 | Go | 2026-05-27 | The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud |
-| 6 | [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) | 1297 | Python | 2026-05-27 | Full-stack AI app generator — FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo |
+| 1 | [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) | 1297 | Python | 2026-05-27 | Full-stack AI app generator — FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [fumino-development/fumino-engine](https://github.com/fumino-development/fumino-engine) | 1 | TypeScript | 2026-05-27 | Where knowledge flows, voices follow. |
+| 4 | [lukeskytorep-bot/echo-claw](https://github.com/lukeskytorep-bot/echo-claw) | 1 | — | 2026-05-27 | ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor–Viewer architecture, blind-target separation, st |
+| 5 | [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6266 | TypeScript | 2026-05-27 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three r |
+| 6 | [cordum-io/cordum](https://github.com/cordum-io/cordum) | 481 | Go | 2026-05-27 | The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud |
 | 7 | [achappey/aihappey-chat](https://github.com/achappey/aihappey-chat) | 4 | TypeScript | 2026-05-27 | Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans |
 | 8 | [tya5/reyn](https://github.com/tya5/reyn) | 5 | Python | 2026-05-27 | LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy. |
 | 9 | [nikolas-sapa/grip-browser](https://github.com/nikolas-sapa/grip-browser) | 1 | Python | 2026-05-27 | Token-efficient, CDP-native browser SDK for AI agents |
@@ -73,7 +73,7 @@ expired items removed — so you can rely on what you see being current.
 | 29 | [tareksyria/SREAgents](https://github.com/tareksyria/SREAgents) | 1 | JavaScript | 2026-05-27 | 🤖 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too |
 | 30 | [RONIN511/alphora](https://github.com/RONIN511/alphora) | 2 | Python | 2026-05-27 | 🤖 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable  |
 | 31 | [punkxuxu/bank_soal](https://github.com/punkxuxu/bank_soal) | 0 | Python | 2026-05-27 | 📄 Generate static question banks easily with Python and JSON for fast, SEO-friendly websites hosted on GitHub Pages. |
-| 32 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 2880 | Python | 2026-05-27 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
+| 32 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 2882 | Python | 2026-05-27 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
 | 33 | [Qitor/qitos](https://github.com/Qitor/qitos) | 14 | Python | 2026-05-27 | Let's Qitos! A torch-like agent-native framework for researchers.  |
 | 34 | [tanveerkhan2005/custom-agent-with-skills](https://github.com/tanveerkhan2005/custom-agent-with-skills) | 2 | Python | 2026-05-27 | 🤖 Build adaptable AI agents with skill-based systems, enabling efficient context management and seamless integration acr |
 | 35 | [Acelito7618/agentsmith-cli](https://github.com/Acelito7618/agentsmith-cli) | 0 | TypeScript | 2026-05-27 | 🌐 Analyze resources efficiently with Agent Smith CLI, a versatile tool for developers to enhance their workflows and opt |
