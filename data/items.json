@@ -1,12 +1,66 @@
 [
   {
+    "description": "Partner AI Agent Runtime",
+    "id": "slhaf/Partner",
+    "language": "Java",
+    "name": "slhaf/Partner",
+    "stars": 1,
+    "updated_at": "2026-05-27T15:28:02Z",
+    "url": "https://github.com/slhaf/Partner"
+  },
+  {
+    "description": "Composable AI runtime framework for building agent systems with tools, agents, skills, hosts, memory, workflow packages,",
+    "id": "xyz2b/weave-ai-runtime",
+    "language": "Python",
+    "name": "xyz2b/weave-ai-runtime",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:25:24Z",
+    "url": "https://github.com/xyz2b/weave-ai-runtime"
+  },
+  {
+    "description": ".NET 10 console app showcasing a RAG agent with query reformulation, contextual search, streaming responses, and source ",
+    "id": "marcominerva/AgentRag",
+    "language": "C#",
+    "name": "marcominerva/AgentRag",
+    "stars": 5,
+    "updated_at": "2026-05-27T15:22:33Z",
+    "url": "https://github.com/marcominerva/AgentRag"
+  },
+  {
     "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
     "id": "therain2020/therain2020-agent",
     "language": "Python",
     "name": "therain2020/therain2020-agent",
     "stars": 0,
-    "updated_at": "2026-05-27T15:15:02Z",
+    "updated_at": "2026-05-27T15:26:34Z",
     "url": "https://github.com/therain2020/therain2020-agent"
+  },
+  {
+    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 122,
+    "updated_at": "2026-05-27T15:18:35Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
+    "id": "Prompthon-IO/agent-systems-handbook",
+    "language": "MDX",
+    "name": "Prompthon-IO/agent-systems-handbook",
+    "stars": 201,
+    "updated_at": "2026-05-27T15:17:39Z",
+    "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:15:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T15:13:48Z",
     "url": "https://github.com/ramankrishna/bottensor-fleet"
-  },
-  {
-    "description": "Partner AI Agent Runtime",
-    "id": "slhaf/Partner",
-    "language": "Java",
-    "name": "slhaf/Partner",
-    "stars": 1,
-    "updated_at": "2026-05-27T15:11:42Z",
-    "url": "https://github.com/slhaf/Partner"
   },
   {
     "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
@@ -81,29 +126,11 @@
     "url": "https://github.com/NiJingzhe/SimpleLLMFunc"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:00:37Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 122,
-    "updated_at": "2026-05-27T15:00:00Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 11380,
+    "stars": 11405,
     "updated_at": "2026-05-27T14:59:54Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "mj-deving/omniweb-agents",
     "stars": 0,
-    "updated_at": "2026-05-27T15:03:11Z",
+    "updated_at": "2026-05-27T15:30:27Z",
     "url": "https://github.com/mj-deving/omniweb-agents"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 10786,
-    "updated_at": "2026-05-27T13:54:00Z",
+    "updated_at": "2026-05-27T15:19:43Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
   },
   {
-    "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
-    "id": "Prompthon-IO/agent-systems-handbook",
-    "language": "MDX",
-    "name": "Prompthon-IO/agent-systems-handbook",
-    "stars": 201,
-    "updated_at": "2026-05-27T14:14:08Z",
-    "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
-  },
-  {
     "description": "Autonomous AI agent runtime \u2014 TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co",
     "id": "erayendes/kortext",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-27T11:40:53Z",
     "url": "https://github.com/fumino-development/fumino-engine"
-  },
-  {
-    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
-    "id": "lukeskytorep-bot/echo-claw",
-    "language": "\u2014",
-    "name": "lukeskytorep-bot/echo-claw",
-    "stars": 1,
-    "updated_at": "2026-05-27T11:47:13Z",
-    "url": "https://github.com/lukeskytorep-bot/echo-claw"
-  },
-  {
-    "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
-    "id": "achappey/aihappey-chat",
-    "language": "TypeScript",
-    "name": "achappey/aihappey-chat",
-    "stars": 4,
-    "updated_at": "2026-05-27T11:13:45Z",
-    "url": "https://github.com/achappey/aihappey-chat"
   }
 ]
