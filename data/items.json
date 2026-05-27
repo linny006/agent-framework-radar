@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u5f00\u6e90\u81ea\u6258\u7ba1 AI Agent \u2014 Go + Rust + provider-agnostic | Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness",
+    "id": "polarisagi/polaris-harness",
+    "language": "Go",
+    "name": "polarisagi/polaris-harness",
+    "stars": 1,
+    "updated_at": "2026-05-27T01:30:08Z",
+    "url": "https://github.com/polarisagi/polaris-harness"
+  },
+  {
+    "description": "Enterprise control plane for ephemeral AI agents via Firecracker MicroVMs",
+    "id": "steve-seungeui/ephemera",
+    "language": "Go",
+    "name": "steve-seungeui/ephemera",
+    "stars": 3,
+    "updated_at": "2026-05-27T01:29:18Z",
+    "url": "https://github.com/steve-seungeui/ephemera"
+  },
+  {
+    "description": "Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo",
+    "id": "getsynkora/synkora-ai",
+    "language": "Python",
+    "name": "getsynkora/synkora-ai",
+    "stars": 6,
+    "updated_at": "2026-05-27T01:27:05Z",
+    "url": "https://github.com/getsynkora/synkora-ai"
+  },
+  {
+    "description": "A curated atlas of open-source repos shaping modern AI engineering \u2014 agent frameworks, RAG platforms, dev tooling. Archi",
+    "id": "shrikanth-h/repo-intelligence-dashboard",
+    "language": "\u2014",
+    "name": "shrikanth-h/repo-intelligence-dashboard",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:25:06Z",
+    "url": "https://github.com/shrikanth-h/repo-intelligence-dashboard"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 8,
+    "updated_at": "2026-05-27T01:21:30Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
+    "id": "Ridou/horus-os",
+    "language": "Python",
+    "name": "Ridou/horus-os",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:19:15Z",
+    "url": "https://github.com/Ridou/horus-os"
+  },
+  {
+    "description": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 635,
+    "updated_at": "2026-05-27T01:15:56Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
     "id": "vzwjustin/advisor",
     "language": "Python",
@@ -16,15 +88,6 @@
     "stars": 1166,
     "updated_at": "2026-05-27T01:12:35Z",
     "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
-    "id": "Ridou/horus-os",
-    "language": "Python",
-    "name": "Ridou/horus-os",
-    "stars": 0,
-    "updated_at": "2026-05-27T01:11:31Z",
-    "url": "https://github.com/Ridou/horus-os"
   },
   {
     "description": "Build autonomous AI agents with adaptive intelligence and emergent behaviors, included with multimodal RAG and optional ",
@@ -49,18 +112,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 10089,
+    "stars": 10133,
     "updated_at": "2026-05-27T01:08:53Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T01:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
@@ -86,26 +140,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 17325,
-    "updated_at": "2026-05-27T00:49:06Z",
+    "updated_at": "2026-05-27T01:25:41Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 8,
-    "updated_at": "2026-05-27T00:46:29Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
-  },
-  {
-    "description": "\u5f00\u6e90\u81ea\u6258\u7ba1 AI Agent \u2014 Go + Rust + provider-agnostic | Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness",
-    "id": "polarisagi/polaris-harness",
-    "language": "Go",
-    "name": "polarisagi/polaris-harness",
-    "stars": 1,
-    "updated_at": "2026-05-27T00:31:45Z",
-    "url": "https://github.com/polarisagi/polaris-harness"
   },
   {
     "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T00:01:01Z",
     "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 1,
-    "updated_at": "2026-05-27T00:00:09Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
-    "id": "fuseraft/fuseraft-cli",
-    "language": "C#",
-    "name": "fuseraft/fuseraft-cli",
-    "stars": 2,
-    "updated_at": "2026-05-27T00:00:06Z",
-    "url": "https://github.com/fuseraft/fuseraft-cli"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:59:30Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:59:04Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
   }
 ]
