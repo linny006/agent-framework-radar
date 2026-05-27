@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 5,
-    "updated_at": "2026-05-27T13:29:59Z",
+    "updated_at": "2026-05-27T13:45:16Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "TeleologyHI \u2014 A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti",
+    "id": "davccavalcante/TeleologyHI",
+    "language": "TypeScript",
+    "name": "davccavalcante/TeleologyHI",
+    "stars": 1,
+    "updated_at": "2026-05-27T13:40:57Z",
+    "url": "https://github.com/davccavalcante/TeleologyHI"
+  },
+  {
+    "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
+    "id": "therain2020/my-agent",
+    "language": "Python",
+    "name": "therain2020/my-agent",
+    "stars": 0,
+    "updated_at": "2026-05-27T13:37:18Z",
+    "url": "https://github.com/therain2020/my-agent"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 310,
+    "updated_at": "2026-05-27T13:41:47Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T13:30:36Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Generic configurable cognition lifecycle runtime for bounded, resumable agent sessions",
@@ -27,31 +63,13 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
-    "id": "therain2020/my-agent",
-    "language": "Python",
-    "name": "therain2020/my-agent",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:23:51Z",
-    "url": "https://github.com/therain2020/my-agent"
-  },
-  {
     "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
     "id": "mj-deving/omniweb-agents",
     "language": "TypeScript",
     "name": "mj-deving/omniweb-agents",
     "stars": 0,
-    "updated_at": "2026-05-27T13:30:33Z",
+    "updated_at": "2026-05-27T13:38:11Z",
     "url": "https://github.com/mj-deving/omniweb-agents"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:15:37Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
@@ -176,7 +194,7 @@
     "language": "MDX",
     "name": "Prompthon-IO/agent-systems-handbook",
     "stars": 201,
-    "updated_at": "2026-05-27T13:11:02Z",
+    "updated_at": "2026-05-27T13:42:42Z",
     "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
   },
   {
@@ -184,7 +202,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 11236,
+    "stars": 11261,
     "updated_at": "2026-05-27T12:22:59Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:54:04Z",
     "url": "https://github.com/punkxuxu/bank_soal"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 2897,
-    "updated_at": "2026-05-27T09:53:37Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
-    "id": "Qitor/qitos",
-    "language": "Python",
-    "name": "Qitor/qitos",
-    "stars": 14,
-    "updated_at": "2026-05-27T12:00:44Z",
-    "url": "https://github.com/Qitor/qitos"
   }
 ]
