@@ -1,11 +1,29 @@
 [
   {
+    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
+    "id": "berhannnnd/Agents",
+    "language": "Python",
+    "name": "berhannnnd/Agents",
+    "stars": 1,
+    "updated_at": "2026-05-27T10:39:54Z",
+    "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
+    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
+    "id": "cordum-io/cordum",
+    "language": "Go",
+    "name": "cordum-io/cordum",
+    "stars": 481,
+    "updated_at": "2026-05-27T10:40:21Z",
+    "url": "https://github.com/cordum-io/cordum"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T10:30:27Z",
+    "updated_at": "2026-05-27T10:30:50Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -16,15 +34,6 @@
     "stars": 124,
     "updated_at": "2026-05-27T10:28:57Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
-    "id": "berhannnnd/Agents",
-    "language": "Python",
-    "name": "berhannnnd/Agents",
-    "stars": 1,
-    "updated_at": "2026-05-27T10:28:13Z",
-    "url": "https://github.com/berhannnnd/Agents"
   },
   {
     "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 5,
-    "updated_at": "2026-05-27T10:19:19Z",
+    "updated_at": "2026-05-27T10:42:04Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -94,7 +103,7 @@
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6264,
+    "stars": 6265,
     "updated_at": "2026-05-27T10:12:14Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
@@ -220,7 +229,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 2871,
+    "stars": 2872,
     "updated_at": "2026-05-27T09:53:37Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -382,7 +391,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 10778,
+    "stars": 10779,
     "updated_at": "2026-05-27T09:20:14Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -436,17 +445,8 @@
     "id": "HCF-STUDIOS/openhermit",
     "language": "TypeScript",
     "name": "HCF-STUDIOS/openhermit",
-    "stars": 41,
+    "stars": 42,
     "updated_at": "2026-05-27T09:14:41Z",
     "url": "https://github.com/HCF-STUDIOS/openhermit"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 9,
-    "updated_at": "2026-05-27T09:12:55Z",
-    "url": "https://github.com/roackb2/heddle"
   }
 ]
