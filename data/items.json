@@ -1,5 +1,41 @@
 [
   {
+    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
+    "id": "Krako-Labs/KORA",
+    "language": "Python",
+    "name": "Krako-Labs/KORA",
+    "stars": 5,
+    "updated_at": "2026-05-27T12:59:35Z",
+    "url": "https://github.com/Krako-Labs/KORA"
+  },
+  {
+    "description": "An Electron-based multi-project AI cockpit that orchestrates multiple Claude Code instances with a built-in AI superviso",
+    "id": "pingta-guangpingwang/claude-harness-desktop",
+    "language": "TypeScript",
+    "name": "pingta-guangpingwang/claude-harness-desktop",
+    "stars": 32,
+    "updated_at": "2026-05-27T12:58:57Z",
+    "url": "https://github.com/pingta-guangpingwang/claude-harness-desktop"
+  },
+  {
+    "description": "Composable agentic substrate (skills + MCP tools + harness + governance) running on a single laptop. 14 live business do",
+    "id": "arturcrmbot/zava-control-plane",
+    "language": "Python",
+    "name": "arturcrmbot/zava-control-plane",
+    "stars": 0,
+    "updated_at": "2026-05-27T12:56:21Z",
+    "url": "https://github.com/arturcrmbot/zava-control-plane"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T12:47:58Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -13,7 +49,7 @@
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6266,
+    "stars": 6267,
     "updated_at": "2026-05-27T12:33:58Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
@@ -36,21 +72,12 @@
     "url": "https://github.com/HCF-STUDIOS/openhermit"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T12:30:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 2,
-    "updated_at": "2026-05-27T12:44:56Z",
+    "updated_at": "2026-05-27T12:52:42Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -67,7 +94,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 11190,
+    "stars": 11209,
     "updated_at": "2026-05-27T12:22:59Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 5,
-    "updated_at": "2026-05-27T12:43:35Z",
+    "updated_at": "2026-05-27T12:55:13Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -337,7 +364,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 2887,
+    "stars": 2889,
     "updated_at": "2026-05-27T09:53:37Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:39:47Z",
     "url": "https://github.com/kemalefee8/sral-framework"
-  },
-  {
-    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
-    "id": "TonCerqueira/MiroThinker",
-    "language": "Python",
-    "name": "TonCerqueira/MiroThinker",
-    "stars": 1,
-    "updated_at": "2026-05-27T09:38:24Z",
-    "url": "https://github.com/TonCerqueira/MiroThinker"
-  },
-  {
-    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
-    "id": "hdhks1229i3/vibecheck",
-    "language": "Zig",
-    "name": "hdhks1229i3/vibecheck",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:33:05Z",
-    "url": "https://github.com/hdhks1229i3/vibecheck"
-  },
-  {
-    "description": "Zero context compaction for Claude Code & LLM agents. Persistent memory powered by OS primitives (demand paging, kswapd ",
-    "id": "soolaugust/0CompactMem",
-    "language": "Python",
-    "name": "soolaugust/0CompactMem",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:32:59Z",
-    "url": "https://github.com/soolaugust/0CompactMem"
   }
 ]
