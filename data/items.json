@@ -1,12 +1,111 @@
 [
   {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 99,
+    "updated_at": "2026-05-27T14:28:59Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 122,
+    "updated_at": "2026-05-27T14:27:48Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Standalone SDK workspace for building Aomi dynamic plugins.",
+    "id": "aomi-labs/aomi-sdk",
+    "language": "Rust",
+    "name": "aomi-labs/aomi-sdk",
+    "stars": 5,
+    "updated_at": "2026-05-27T14:25:14Z",
+    "url": "https://github.com/aomi-labs/aomi-sdk"
+  },
+  {
+    "description": "AI agent runtime for Rust \u2014 type-safe state, multi-protocol serving, plugin extensibility.",
+    "id": "awakenworks/awaken",
+    "language": "Rust",
+    "name": "awakenworks/awaken",
+    "stars": 75,
+    "updated_at": "2026-05-27T14:28:50Z",
+    "url": "https://github.com/awakenworks/awaken"
+  },
+  {
+    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
+    "id": "akyourowngames/friday",
+    "language": "Python",
+    "name": "akyourowngames/friday",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:24:44Z",
+    "url": "https://github.com/akyourowngames/friday"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 11323,
+    "updated_at": "2026-05-27T14:24:26Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
+    "id": "fuseraft/fuseraft-cli",
+    "language": "C#",
+    "name": "fuseraft/fuseraft-cli",
+    "stars": 2,
+    "updated_at": "2026-05-27T14:19:50Z",
+    "url": "https://github.com/fuseraft/fuseraft-cli"
+  },
+  {
     "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 5,
-    "updated_at": "2026-05-27T14:14:05Z",
+    "updated_at": "2026-05-27T14:28:02Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "An Electron-based multi-project AI cockpit that orchestrates multiple Claude Code instances with a built-in AI superviso",
+    "id": "pingta-guangpingwang/claude-harness-desktop",
+    "language": "TypeScript",
+    "name": "pingta-guangpingwang/claude-harness-desktop",
+    "stars": 32,
+    "updated_at": "2026-05-27T14:17:50Z",
+    "url": "https://github.com/pingta-guangpingwang/claude-harness-desktop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:15:36Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
+    "id": "therain2020/my-agent",
+    "language": "Python",
+    "name": "therain2020/my-agent",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:13:59Z",
+    "url": "https://github.com/therain2020/my-agent"
+  },
+  {
+    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
+    "id": "mj-deving/omniweb-agents",
+    "language": "TypeScript",
+    "name": "mj-deving/omniweb-agents",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:30:27Z",
+    "url": "https://github.com/mj-deving/omniweb-agents"
   },
   {
     "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
@@ -25,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T14:03:45Z",
     "url": "https://github.com/ProtocolWarden/ContextLifecycle"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:02:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
@@ -108,15 +198,6 @@
     "url": "https://github.com/davccavalcante/TeleologyHI"
   },
   {
-    "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
-    "id": "therain2020/my-agent",
-    "language": "Python",
-    "name": "therain2020/my-agent",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:13:59Z",
-    "url": "https://github.com/therain2020/my-agent"
-  },
-  {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
     "id": "mnemon-dev/mnemon",
     "language": "Go",
@@ -133,15 +214,6 @@
     "stars": 64,
     "updated_at": "2026-05-27T13:26:11Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
-    "id": "mj-deving/omniweb-agents",
-    "language": "TypeScript",
-    "name": "mj-deving/omniweb-agents",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:12:14Z",
-    "url": "https://github.com/mj-deving/omniweb-agents"
   },
   {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
@@ -180,15 +252,6 @@
     "url": "https://github.com/BrettMGoughWork/vai-core"
   },
   {
-    "description": "An Electron-based multi-project AI cockpit that orchestrates multiple Claude Code instances with a built-in AI superviso",
-    "id": "pingta-guangpingwang/claude-harness-desktop",
-    "language": "TypeScript",
-    "name": "pingta-guangpingwang/claude-harness-desktop",
-    "stars": 32,
-    "updated_at": "2026-05-27T12:58:57Z",
-    "url": "https://github.com/pingta-guangpingwang/claude-harness-desktop"
-  },
-  {
     "description": "Composable agentic substrate (skills + MCP tools + harness + governance) running on a single laptop. 14 live business do",
     "id": "arturcrmbot/zava-control-plane",
     "language": "Python",
@@ -198,13 +261,13 @@
     "url": "https://github.com/arturcrmbot/zava-control-plane"
   },
   {
-    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 122,
-    "updated_at": "2026-05-27T12:35:06Z",
-    "url": "https://github.com/cortexkit/aft"
+    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
+    "id": "rapidaai/voice-ai",
+    "language": "Go",
+    "name": "rapidaai/voice-ai",
+    "stars": 649,
+    "updated_at": "2026-05-27T12:36:09Z",
+    "url": "https://github.com/rapidaai/voice-ai"
   },
   {
     "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three r",
@@ -250,15 +313,6 @@
     "stars": 201,
     "updated_at": "2026-05-27T14:14:08Z",
     "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "TypeScript",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 11312,
-    "updated_at": "2026-05-27T12:22:59Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Autonomous AI agent runtime \u2014 TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co",
@@ -394,59 +448,5 @@
     "stars": 138,
     "updated_at": "2026-05-27T10:06:16Z",
     "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "Dart framework for stateful AI agents \u2014 tool use, skills, sub-agent delegation, planning, streaming, and multi-provider ",
-    "id": "memex-lab/dart_agent_core",
-    "language": "Dart",
-    "name": "memex-lab/dart_agent_core",
-    "stars": 22,
-    "updated_at": "2026-05-27T12:13:31Z",
-    "url": "https://github.com/memex-lab/dart_agent_core"
-  },
-  {
-    "description": "Provide a Swift framework to build lightweight, efficient agent-based applications for macOS and iOS platforms with robu",
-    "id": "jc18aguilar/SwiftAgentCore",
-    "language": "Swift",
-    "name": "jc18aguilar/SwiftAgentCore",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:05:22Z",
-    "url": "https://github.com/jc18aguilar/SwiftAgentCore"
-  },
-  {
-    "description": "Build and manage AI-driven workflows with private data control, multi-provider LLM support, and local-first architecture",
-    "id": "Hundred-praisworthiness384/DomainOS",
-    "language": "TypeScript",
-    "name": "Hundred-praisworthiness384/DomainOS",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:03:49Z",
-    "url": "https://github.com/Hundred-praisworthiness384/DomainOS"
-  },
-  {
-    "description": "Manage autonomous AI agents at scale with persistent sessions, tool access, and safe human oversight in an efficient, sc",
-    "id": "Bohra-Nitin/AgentManager",
-    "language": "\u2014",
-    "name": "Bohra-Nitin/AgentManager",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:03:39Z",
-    "url": "https://github.com/Bohra-Nitin/AgentManager"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:02:22Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "\ud83e\udd16 Build AI agents with Go featuring multi-agent orchestration, planning, tool use, and support for Gemini, OpenAI, Anthr",
-    "id": "Luiz184/gokin-sdk",
-    "language": "Go",
-    "name": "Luiz184/gokin-sdk",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:01:45Z",
-    "url": "https://github.com/Luiz184/gokin-sdk"
   }
 ]
