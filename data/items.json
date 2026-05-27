@@ -1,5 +1,59 @@
 [
   {
+    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
+    "id": "thenaxon/somora_agent",
+    "language": "TypeScript",
+    "name": "thenaxon/somora_agent",
+    "stars": 4,
+    "updated_at": "2026-05-27T15:45:05Z",
+    "url": "https://github.com/thenaxon/somora_agent"
+  },
+  {
+    "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
+    "id": "therain2020/therain2020-agent",
+    "language": "Python",
+    "name": "therain2020/therain2020-agent",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:42:43Z",
+    "url": "https://github.com/therain2020/therain2020-agent"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-27T15:42:43Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": ".NET 10 console app showcasing a RAG agent with query reformulation, contextual search, streaming responses, and source ",
+    "id": "marcominerva/AgentRag",
+    "language": "C#",
+    "name": "marcominerva/AgentRag",
+    "stars": 5,
+    "updated_at": "2026-05-27T15:37:35Z",
+    "url": "https://github.com/marcominerva/AgentRag"
+  },
+  {
+    "description": "LangChain integration for the Tessera LLM cost-optimization proxy. One line of config routes ChatOpenAI / ChatAnthropic ",
+    "id": "tessera-llm/tessera-langchain",
+    "language": "Python",
+    "name": "tessera-llm/tessera-langchain",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:36:46Z",
+    "url": "https://github.com/tessera-llm/tessera-langchain"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:30:34Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Partner AI Agent Runtime",
     "id": "slhaf/Partner",
     "language": "Java",
@@ -18,24 +72,6 @@
     "url": "https://github.com/xyz2b/weave-ai-runtime"
   },
   {
-    "description": ".NET 10 console app showcasing a RAG agent with query reformulation, contextual search, streaming responses, and source ",
-    "id": "marcominerva/AgentRag",
-    "language": "C#",
-    "name": "marcominerva/AgentRag",
-    "stars": 5,
-    "updated_at": "2026-05-27T15:22:33Z",
-    "url": "https://github.com/marcominerva/AgentRag"
-  },
-  {
-    "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
-    "id": "therain2020/therain2020-agent",
-    "language": "Python",
-    "name": "therain2020/therain2020-agent",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:26:34Z",
-    "url": "https://github.com/therain2020/therain2020-agent"
-  },
-  {
     "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -49,18 +85,9 @@
     "id": "Prompthon-IO/agent-systems-handbook",
     "language": "MDX",
     "name": "Prompthon-IO/agent-systems-handbook",
-    "stars": 201,
+    "stars": 202,
     "updated_at": "2026-05-27T15:17:39Z",
     "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:15:35Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
@@ -130,7 +157,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 11405,
+    "stars": 11414,
     "updated_at": "2026-05-27T14:59:54Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -151,15 +178,6 @@
     "stars": 5,
     "updated_at": "2026-05-27T14:47:07Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
-    "id": "thenaxon/somora_agent",
-    "language": "TypeScript",
-    "name": "thenaxon/somora_agent",
-    "stars": 4,
-    "updated_at": "2026-05-27T14:45:45Z",
-    "url": "https://github.com/thenaxon/somora_agent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -198,6 +216,15 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
+    "description": "Open-source platform layer for AI agents in production",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 174,
+    "updated_at": "2026-05-27T14:26:13Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
     "description": "Standalone SDK workspace for building Aomi dynamic plugins.",
     "id": "aomi-labs/aomi-sdk",
     "language": "Rust",
@@ -212,7 +239,7 @@
     "language": "Rust",
     "name": "awakenworks/awaken",
     "stars": 75,
-    "updated_at": "2026-05-27T14:43:01Z",
+    "updated_at": "2026-05-27T15:37:11Z",
     "url": "https://github.com/awakenworks/awaken"
   },
   {
@@ -315,15 +342,6 @@
     "url": "https://github.com/davccavalcante/TeleologyHI"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-27T13:26:11Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
     "id": "EvoMap/evolver",
     "language": "JavaScript",
@@ -369,6 +387,15 @@
     "url": "https://github.com/arturcrmbot/zava-control-plane"
   },
   {
+    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
+    "id": "vstorm-co/full-stack-ai-agent-template",
+    "language": "Python",
+    "name": "vstorm-co/full-stack-ai-agent-template",
+    "stars": 1298,
+    "updated_at": "2026-05-27T12:40:50Z",
+    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
+  },
+  {
     "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
     "id": "rapidaai/voice-ai",
     "language": "Go",
@@ -383,7 +410,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6268,
-    "updated_at": "2026-05-27T12:33:58Z",
+    "updated_at": "2026-05-27T15:40:38Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/HCF-STUDIOS/openhermit"
   },
   {
-    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
-    "id": "vstorm-co/full-stack-ai-agent-template",
-    "language": "Python",
-    "name": "vstorm-co/full-stack-ai-agent-template",
-    "stars": 1297,
-    "updated_at": "2026-05-27T12:40:50Z",
-    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
-  },
-  {
     "description": "Autonomous AI agent runtime \u2014 TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co",
     "id": "erayendes/kortext",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T12:20:43Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
-    "id": "cordum-io/cordum",
-    "language": "Go",
-    "name": "cordum-io/cordum",
-    "stars": 481,
-    "updated_at": "2026-05-27T12:09:37Z",
-    "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "Where knowledge flows, voices follow.",
-    "id": "fumino-development/fumino-engine",
-    "language": "TypeScript",
-    "name": "fumino-development/fumino-engine",
-    "stars": 1,
-    "updated_at": "2026-05-27T11:40:53Z",
-    "url": "https://github.com/fumino-development/fumino-engine"
   }
 ]
