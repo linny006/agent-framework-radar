@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-27 14:00 UTC
+> ⏰ Last updated: 2026-05-27 14:02 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [open1s/bos](https://github.com/open1s/bos) | 2 | Rust | 2026-05-27 | AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills — in Rust, Python & JavaScript. |
-| 2 | [marcominerva/MultiAgentSystem](https://github.com/marcominerva/MultiAgentSystem) | 6 | C# | 2026-05-27 |  Multi-agent system built with .NET 10 and Microsoft Agent Framework that orchestrates specialist agents for database qu |
-| 3 | [tya5/reyn](https://github.com/tya5/reyn) | 5 | Python | 2026-05-27 | LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy. |
-| 4 | [Krako-Labs/KORA](https://github.com/Krako-Labs/KORA) | 5 | Python | 2026-05-27 | An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it. |
-| 5 | [madeinplutofabio/neural-computation-protocol](https://github.com/madeinplutofabio/neural-computation-protocol) | 12 | Rust | 2026-05-27 | Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems. |
-| 6 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-27 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 7 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 10784 | Python | 2026-05-27 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
-| 8 | [ProtocolWarden/ContextLifecycle](https://github.com/ProtocolWarden/ContextLifecycle) | 0 | Python | 2026-05-27 | Generic configurable cognition lifecycle runtime for bounded, resumable agent sessions |
-| 9 | [thenaxon/somora_agent](https://github.com/thenaxon/somora_agent) | 4 | TypeScript | 2026-05-27 | Local-first gateway for personal AI agents with persistent memory across multiple LLM providers |
-| 10 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-05-27 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 11 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [tya5/reyn](https://github.com/tya5/reyn) | 5 | Python | 2026-05-27 | LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy. |
+| 2 | [open1s/bos](https://github.com/open1s/bos) | 2 | Rust | 2026-05-27 | AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills — in Rust, Python & JavaScript. |
+| 3 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 4 | [madeinplutofabio/neural-computation-protocol](https://github.com/madeinplutofabio/neural-computation-protocol) | 12 | Rust | 2026-05-27 | Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems. |
+| 5 | [marcominerva/MultiAgentSystem](https://github.com/marcominerva/MultiAgentSystem) | 6 | C# | 2026-05-27 |  Multi-agent system built with .NET 10 and Microsoft Agent Framework that orchestrates specialist agents for database qu |
+| 6 | [Krako-Labs/KORA](https://github.com/Krako-Labs/KORA) | 5 | Python | 2026-05-27 | An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it. |
+| 7 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-27 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 8 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 10784 | Python | 2026-05-27 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
+| 9 | [ProtocolWarden/ContextLifecycle](https://github.com/ProtocolWarden/ContextLifecycle) | 0 | Python | 2026-05-27 | Generic configurable cognition lifecycle runtime for bounded, resumable agent sessions |
+| 10 | [thenaxon/somora_agent](https://github.com/thenaxon/somora_agent) | 4 | TypeScript | 2026-05-27 | Local-first gateway for personal AI agents with persistent memory across multiple LLM providers |
+| 11 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-05-27 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
 | 12 | [davccavalcante/TeleologyHI](https://github.com/davccavalcante/TeleologyHI) | 1 | TypeScript | 2026-05-27 | TeleologyHI — A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti |
 | 13 | [therain2020/my-agent](https://github.com/therain2020/my-agent) | 0 | Python | 2026-05-27 | Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. 从外部生态导入工具，接入自己的 LLM。 |
 | 14 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 310 | Go | 2026-05-27 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
 | 15 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 64 | TypeScript | 2026-05-27 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
 | 16 | [mj-deving/omniweb-agents](https://github.com/mj-deving/omniweb-agents) | 0 | TypeScript | 2026-05-27 | Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony |
-| 17 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 7572 | JavaScript | 2026-05-27 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
+| 17 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 7573 | JavaScript | 2026-05-27 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
 | 18 | [harrykimpel/agent-framework-travel-planner-agent](https://github.com/harrykimpel/agent-framework-travel-planner-agent) | 0 | Python | 2026-05-27 | AI Travel Planner - New Relic DevRel Sample |
 | 19 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 2 | Python | 2026-05-27 | Many Agents, one objective... yours  |
 | 20 | [BrettMGoughWork/vai-core](https://github.com/BrettMGoughWork/vai-core) | 2 | Python | 2026-05-27 | An skills-based LLM runtime, using lessons learned from previous attempts |
@@ -70,7 +70,7 @@ expired items removed — so you can rely on what you see being current.
 | 26 | [HCF-STUDIOS/openhermit](https://github.com/HCF-STUDIOS/openhermit) | 42 | TypeScript | 2026-05-27 | OpenHermit is the open-source platform for deploying fleets of AI agents as production services — durable state, sandbox |
 | 27 | [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) | 1297 | Python | 2026-05-27 | Full-stack AI app generator — FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo |
 | 28 | [Prompthon-IO/agent-systems-handbook](https://github.com/Prompthon-IO/agent-systems-handbook) | 201 | MDX | 2026-05-27 | A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent |
-| 29 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 11282 | TypeScript | 2026-05-27 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 29 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 11286 | TypeScript | 2026-05-27 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | 30 | [erayendes/kortext](https://github.com/erayendes/kortext) | 0 | HTML | 2026-05-27 | Autonomous AI agent runtime — TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co |
 | 31 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 0 | HTML | 2026-05-27 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
 | 32 | [cordum-io/cordum](https://github.com/cordum-io/cordum) | 481 | Go | 2026-05-27 | The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud |
