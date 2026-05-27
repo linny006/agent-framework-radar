@@ -1,11 +1,29 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-27T07:58:36Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Discipline layer for CLI agents. Run Claude Code, Codex, and Gemini CLI under one phase-gated runtime with deterministic",
+    "id": "PythonLuvr/openwar",
+    "language": "TypeScript",
+    "name": "PythonLuvr/openwar",
+    "stars": 2,
+    "updated_at": "2026-05-27T08:00:13Z",
+    "url": "https://github.com/PythonLuvr/openwar"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 10775,
-    "updated_at": "2026-05-27T07:43:03Z",
+    "updated_at": "2026-05-27T07:52:52Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -13,18 +31,36 @@
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
-    "stars": 119,
-    "updated_at": "2026-05-27T07:41:33Z",
+    "stars": 120,
+    "updated_at": "2026-05-27T07:49:46Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-27T07:34:30Z",
-    "url": "https://github.com/JKHeadley/instar"
+    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
+    "id": "berhannnnd/Agents",
+    "language": "Python",
+    "name": "berhannnnd/Agents",
+    "stars": 1,
+    "updated_at": "2026-05-27T07:48:23Z",
+    "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
+    "description": "Enterprise control plane for ephemeral AI agents via Firecracker MicroVMs",
+    "id": "steve-seungeui/ephemera",
+    "language": "Go",
+    "name": "steve-seungeui/ephemera",
+    "stars": 3,
+    "updated_at": "2026-05-27T07:46:14Z",
+    "url": "https://github.com/steve-seungeui/ephemera"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file ",
@@ -36,24 +72,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T07:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Enterprise control plane for ephemeral AI agents via Firecracker MicroVMs",
-    "id": "steve-seungeui/ephemera",
-    "language": "Go",
-    "name": "steve-seungeui/ephemera",
-    "stars": 3,
-    "updated_at": "2026-05-27T07:40:27Z",
-    "url": "https://github.com/steve-seungeui/ephemera"
-  },
-  {
     "description": "A curated collection of reusable AI skills, prompts, and agent configurations. Portable across AI coding assistants and ",
     "id": "anthril/official-claude-plugins",
     "language": "Shell",
@@ -63,20 +81,11 @@
     "url": "https://github.com/anthril/official-claude-plugins"
   },
   {
-    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
-    "id": "berhannnnd/Agents",
-    "language": "Python",
-    "name": "berhannnnd/Agents",
-    "stars": 1,
-    "updated_at": "2026-05-27T07:23:07Z",
-    "url": "https://github.com/berhannnnd/Agents"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 10769,
+    "stars": 10796,
     "updated_at": "2026-05-27T07:22:58Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T06:32:39Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:31:59Z",
-    "url": "https://github.com/cele9529/LingxiFish"
   }
 ]
