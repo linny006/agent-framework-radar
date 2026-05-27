@@ -1,12 +1,48 @@
 [
   {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10775,
+    "updated_at": "2026-05-27T07:43:03Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 119,
+    "updated_at": "2026-05-27T07:41:33Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 64,
-    "updated_at": "2026-05-27T07:30:07Z",
+    "updated_at": "2026-05-27T07:34:30Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 72,
+    "updated_at": "2026-05-27T07:31:27Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Enterprise control plane for ephemeral AI agents via Firecracker MicroVMs",
@@ -14,7 +50,7 @@
     "language": "Go",
     "name": "steve-seungeui/ephemera",
     "stars": 3,
-    "updated_at": "2026-05-27T07:24:47Z",
+    "updated_at": "2026-05-27T07:40:27Z",
     "url": "https://github.com/steve-seungeui/ephemera"
   },
   {
@@ -40,7 +76,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 10742,
+    "stars": 10769,
     "updated_at": "2026-05-27T07:22:58Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -70,24 +106,6 @@
     "stars": 6,
     "updated_at": "2026-05-27T07:16:14Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T07:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 119,
-    "updated_at": "2026-05-27T07:14:38Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -148,7 +166,7 @@
     "id": "sipyourdrink-ltd/bernstein",
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
-    "stars": 470,
+    "stars": 471,
     "updated_at": "2026-05-27T06:50:59Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T06:31:59Z",
     "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:31:35Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:30:16Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
