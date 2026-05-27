@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-27 14:02 UTC
+> ⏰ Last updated: 2026-05-27 14:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,13 +44,13 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [tya5/reyn](https://github.com/tya5/reyn) | 5 | Python | 2026-05-27 | LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy. |
 | 2 | [open1s/bos](https://github.com/open1s/bos) | 2 | Rust | 2026-05-27 | AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills — in Rust, Python & JavaScript. |
-| 3 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 4 | [madeinplutofabio/neural-computation-protocol](https://github.com/madeinplutofabio/neural-computation-protocol) | 12 | Rust | 2026-05-27 | Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems. |
-| 5 | [marcominerva/MultiAgentSystem](https://github.com/marcominerva/MultiAgentSystem) | 6 | C# | 2026-05-27 |  Multi-agent system built with .NET 10 and Microsoft Agent Framework that orchestrates specialist agents for database qu |
-| 6 | [Krako-Labs/KORA](https://github.com/Krako-Labs/KORA) | 5 | Python | 2026-05-27 | An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it. |
-| 7 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-27 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 8 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 10784 | Python | 2026-05-27 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
-| 9 | [ProtocolWarden/ContextLifecycle](https://github.com/ProtocolWarden/ContextLifecycle) | 0 | Python | 2026-05-27 | Generic configurable cognition lifecycle runtime for bounded, resumable agent sessions |
+| 3 | [ProtocolWarden/ContextLifecycle](https://github.com/ProtocolWarden/ContextLifecycle) | 0 | Python | 2026-05-27 | Generic configurable cognition lifecycle runtime for bounded, resumable agent sessions |
+| 4 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 5 | [madeinplutofabio/neural-computation-protocol](https://github.com/madeinplutofabio/neural-computation-protocol) | 12 | Rust | 2026-05-27 | Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems. |
+| 6 | [marcominerva/MultiAgentSystem](https://github.com/marcominerva/MultiAgentSystem) | 6 | C# | 2026-05-27 |  Multi-agent system built with .NET 10 and Microsoft Agent Framework that orchestrates specialist agents for database qu |
+| 7 | [Krako-Labs/KORA](https://github.com/Krako-Labs/KORA) | 5 | Python | 2026-05-27 | An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it. |
+| 8 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-27 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 9 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 10784 | Python | 2026-05-27 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
 | 10 | [thenaxon/somora_agent](https://github.com/thenaxon/somora_agent) | 4 | TypeScript | 2026-05-27 | Local-first gateway for personal AI agents with persistent memory across multiple LLM providers |
 | 11 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-05-27 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
 | 12 | [davccavalcante/TeleologyHI](https://github.com/davccavalcante/TeleologyHI) | 1 | TypeScript | 2026-05-27 | TeleologyHI — A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti |
@@ -65,12 +65,12 @@ expired items removed — so you can rely on what you see being current.
 | 21 | [pingta-guangpingwang/claude-harness-desktop](https://github.com/pingta-guangpingwang/claude-harness-desktop) | 32 | TypeScript | 2026-05-27 | An Electron-based multi-project AI cockpit that orchestrates multiple Claude Code instances with a built-in AI superviso |
 | 22 | [arturcrmbot/zava-control-plane](https://github.com/arturcrmbot/zava-control-plane) | 0 | Python | 2026-05-27 | Composable agentic substrate (skills + MCP tools + harness + governance) running on a single laptop. 14 live business do |
 | 23 | [cortexkit/aft](https://github.com/cortexkit/aft) | 122 | Rust | 2026-05-27 | Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi |
-| 24 | [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6267 | TypeScript | 2026-05-27 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three r |
+| 24 | [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6268 | TypeScript | 2026-05-27 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three r |
 | 25 | [DotHarness/dotcraft](https://github.com/DotHarness/dotcraft) | 36 | C# | 2026-05-27 | AI Agent lives in your project. Open-source, self-hosted, multi-provider, highly scalable, powered by .NET. |
 | 26 | [HCF-STUDIOS/openhermit](https://github.com/HCF-STUDIOS/openhermit) | 42 | TypeScript | 2026-05-27 | OpenHermit is the open-source platform for deploying fleets of AI agents as production services — durable state, sandbox |
 | 27 | [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) | 1297 | Python | 2026-05-27 | Full-stack AI app generator — FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo |
 | 28 | [Prompthon-IO/agent-systems-handbook](https://github.com/Prompthon-IO/agent-systems-handbook) | 201 | MDX | 2026-05-27 | A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent |
-| 29 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 11286 | TypeScript | 2026-05-27 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 29 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 11312 | TypeScript | 2026-05-27 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | 30 | [erayendes/kortext](https://github.com/erayendes/kortext) | 0 | HTML | 2026-05-27 | Autonomous AI agent runtime — TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co |
 | 31 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 0 | HTML | 2026-05-27 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
 | 32 | [cordum-io/cordum](https://github.com/cordum-io/cordum) | 481 | Go | 2026-05-27 | The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud |

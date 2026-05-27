@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 5,
-    "updated_at": "2026-05-27T14:02:07Z",
+    "updated_at": "2026-05-27T14:14:05Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -14,8 +14,17 @@
     "language": "Rust",
     "name": "open1s/bos",
     "stars": 2,
-    "updated_at": "2026-05-27T14:01:47Z",
+    "updated_at": "2026-05-27T14:03:48Z",
     "url": "https://github.com/open1s/bos"
+  },
+  {
+    "description": "Generic configurable cognition lifecycle runtime for bounded, resumable agent sessions",
+    "id": "ProtocolWarden/ContextLifecycle",
+    "language": "Python",
+    "name": "ProtocolWarden/ContextLifecycle",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:03:45Z",
+    "url": "https://github.com/ProtocolWarden/ContextLifecycle"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T14:00:40Z",
+    "updated_at": "2026-05-27T14:02:24Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -72,15 +81,6 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "Generic configurable cognition lifecycle runtime for bounded, resumable agent sessions",
-    "id": "ProtocolWarden/ContextLifecycle",
-    "language": "Python",
-    "name": "ProtocolWarden/ContextLifecycle",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:53:20Z",
-    "url": "https://github.com/ProtocolWarden/ContextLifecycle"
-  },
-  {
     "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
     "id": "thenaxon/somora_agent",
     "language": "TypeScript",
@@ -113,7 +113,7 @@
     "language": "Python",
     "name": "therain2020/my-agent",
     "stars": 0,
-    "updated_at": "2026-05-27T13:37:18Z",
+    "updated_at": "2026-05-27T14:13:59Z",
     "url": "https://github.com/therain2020/my-agent"
   },
   {
@@ -140,7 +140,7 @@
     "language": "TypeScript",
     "name": "mj-deving/omniweb-agents",
     "stars": 0,
-    "updated_at": "2026-05-27T13:38:11Z",
+    "updated_at": "2026-05-27T14:12:14Z",
     "url": "https://github.com/mj-deving/omniweb-agents"
   },
   {
@@ -211,7 +211,7 @@
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6267,
+    "stars": 6268,
     "updated_at": "2026-05-27T12:33:58Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
@@ -248,7 +248,7 @@
     "language": "MDX",
     "name": "Prompthon-IO/agent-systems-handbook",
     "stars": 201,
-    "updated_at": "2026-05-27T13:42:42Z",
+    "updated_at": "2026-05-27T14:14:08Z",
     "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
   },
   {
@@ -256,7 +256,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 11286,
+    "stars": 11312,
     "updated_at": "2026-05-27T12:22:59Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
