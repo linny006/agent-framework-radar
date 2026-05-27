@@ -1,20 +1,11 @@
 [
   {
-    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
-    "id": "thenaxon/somora_agent",
-    "language": "TypeScript",
-    "name": "thenaxon/somora_agent",
-    "stars": 4,
-    "updated_at": "2026-05-27T15:45:05Z",
-    "url": "https://github.com/thenaxon/somora_agent"
-  },
-  {
     "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
     "id": "therain2020/therain2020-agent",
     "language": "Python",
     "name": "therain2020/therain2020-agent",
     "stars": 0,
-    "updated_at": "2026-05-27T15:42:43Z",
+    "updated_at": "2026-05-27T15:59:20Z",
     "url": "https://github.com/therain2020/therain2020-agent"
   },
   {
@@ -23,8 +14,35 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 64,
-    "updated_at": "2026-05-27T15:42:43Z",
+    "updated_at": "2026-05-27T15:56:26Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Empirical benchmark comparing agent architectures (single-agent, multi-agent, adaptive) on ProgramDev-v0 and CyberGym ta",
+    "id": "outlawresearchlabs/agent-architecture-benchmark",
+    "language": "Python",
+    "name": "outlawresearchlabs/agent-architecture-benchmark",
+    "stars": 1,
+    "updated_at": "2026-05-27T15:49:00Z",
+    "url": "https://github.com/outlawresearchlabs/agent-architecture-benchmark"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:45:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
+    "id": "thenaxon/somora_agent",
+    "language": "TypeScript",
+    "name": "thenaxon/somora_agent",
+    "stars": 4,
+    "updated_at": "2026-05-27T15:45:05Z",
+    "url": "https://github.com/thenaxon/somora_agent"
   },
   {
     "description": ".NET 10 console app showcasing a RAG agent with query reformulation, contextual search, streaming responses, and source ",
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T15:36:46Z",
     "url": "https://github.com/tessera-llm/tessera-langchain"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:30:34Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Partner AI Agent Runtime",
@@ -157,7 +166,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 11414,
+    "stars": 11435,
     "updated_at": "2026-05-27T14:59:54Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -410,7 +419,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6268,
-    "updated_at": "2026-05-27T15:40:38Z",
+    "updated_at": "2026-05-27T15:49:46Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T12:22:33Z",
     "url": "https://github.com/erayendes/kortext"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 0,
-    "updated_at": "2026-05-27T12:20:43Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   }
 ]
