@@ -1,12 +1,21 @@
 [
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "JavaScript",
-    "name": "dsswift/ion",
+    "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
+    "id": "vzwjustin/advisor",
+    "language": "Python",
+    "name": "vzwjustin/advisor",
     "stars": 2,
-    "updated_at": "2026-05-27T00:59:50Z",
-    "url": "https://github.com/dsswift/ion"
+    "updated_at": "2026-05-27T01:13:53Z",
+    "url": "https://github.com/vzwjustin/advisor"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1166,
+    "updated_at": "2026-05-27T01:12:35Z",
+    "url": "https://github.com/inkeep/agents"
   },
   {
     "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
@@ -14,8 +23,53 @@
     "language": "Python",
     "name": "Ridou/horus-os",
     "stars": 0,
-    "updated_at": "2026-05-27T00:58:37Z",
+    "updated_at": "2026-05-27T01:11:31Z",
     "url": "https://github.com/Ridou/horus-os"
+  },
+  {
+    "description": "Build autonomous AI agents with adaptive intelligence and emergent behaviors, included with multimodal RAG and optional ",
+    "id": "framersai/agentos",
+    "language": "TypeScript",
+    "name": "framersai/agentos",
+    "stars": 554,
+    "updated_at": "2026-05-27T01:12:07Z",
+    "url": "https://github.com/framersai/agentos"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
+    "id": "berhannnnd/Agents",
+    "language": "Python",
+    "name": "berhannnnd/Agents",
+    "stars": 1,
+    "updated_at": "2026-05-27T01:10:28Z",
+    "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 10089,
+    "updated_at": "2026-05-27T01:08:53Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "JavaScript",
+    "name": "dsswift/ion",
+    "stars": 2,
+    "updated_at": "2026-05-27T00:59:50Z",
+    "url": "https://github.com/dsswift/ion"
   },
   {
     "description": "backup of hermes-agent",
@@ -45,24 +99,6 @@
     "url": "https://github.com/kdcube/kdcube-ai-app"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "TypeScript",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 10058,
-    "updated_at": "2026-05-27T00:45:21Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "\u5f00\u6e90\u81ea\u6258\u7ba1 AI Agent \u2014 Go + Rust + provider-agnostic | Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness",
     "id": "polarisagi/polaris-harness",
     "language": "Go",
@@ -79,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-05-27T00:30:16Z",
     "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
-  },
-  {
-    "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
-    "id": "vzwjustin/advisor",
-    "language": "Python",
-    "name": "vzwjustin/advisor",
-    "stars": 2,
-    "updated_at": "2026-05-27T00:25:32Z",
-    "url": "https://github.com/vzwjustin/advisor"
   },
   {
     "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T23:59:04Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:58:31Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:58:01Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:56:47Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
