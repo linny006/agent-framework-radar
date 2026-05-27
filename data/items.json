@@ -1,12 +1,66 @@
 [
   {
+    "description": "Dual-LLM tool-routing boundary \u2014 keep your agent's mind clean while workers execute in silence",
+    "id": "RedstarAlpha/cleancontext",
+    "language": "Python",
+    "name": "RedstarAlpha/cleancontext",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:59:52Z",
+    "url": "https://github.com/RedstarAlpha/cleancontext"
+  },
+  {
+    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 122,
+    "updated_at": "2026-05-27T16:56:39Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
     "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
     "id": "Arch1eSUN/Moirai",
     "language": "Python",
     "name": "Arch1eSUN/Moirai",
     "stars": 1,
-    "updated_at": "2026-05-27T16:44:16Z",
+    "updated_at": "2026-05-27T16:55:54Z",
     "url": "https://github.com/Arch1eSUN/Moirai"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:55:41Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three r",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6268,
+    "updated_at": "2026-05-27T16:53:36Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Build autonomous AI agents with adaptive intelligence and emergent behaviors, included with multimodal RAG and optional ",
+    "id": "framersai/agentos",
+    "language": "TypeScript",
+    "name": "framersai/agentos",
+    "stars": 556,
+    "updated_at": "2026-05-27T16:49:50Z",
+    "url": "https://github.com/framersai/agentos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:45:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI Agent OS with visible workflow, real execution, and a 3D office shell. From one sentence to full task lifecycle \u2014 pla",
@@ -72,21 +126,12 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T16:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 64,
-    "updated_at": "2026-05-27T16:42:43Z",
+    "updated_at": "2026-05-27T16:54:46Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -108,15 +153,6 @@
     "url": "https://github.com/madeinplutofabio/neural-computation-protocol"
   },
   {
-    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 122,
-    "updated_at": "2026-05-27T16:05:53Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
     "id": "hoangtuanhehehehhe/AgentVault",
     "language": "Python",
@@ -124,6 +160,15 @@
     "stars": 8,
     "updated_at": "2026-05-27T16:05:46Z",
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 7574,
+    "updated_at": "2026-05-27T16:05:22Z",
+    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
@@ -247,7 +292,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 11470,
+    "stars": 11477,
     "updated_at": "2026-05-27T14:59:54Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -329,7 +374,7 @@
     "language": "Rust",
     "name": "awakenworks/awaken",
     "stars": 75,
-    "updated_at": "2026-05-27T16:32:00Z",
+    "updated_at": "2026-05-27T16:47:22Z",
     "url": "https://github.com/awakenworks/awaken"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T13:54:38Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10786,
-    "updated_at": "2026-05-27T15:19:43Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:50:30Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "TeleologyHI \u2014 A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti",
-    "id": "davccavalcante/TeleologyHI",
-    "language": "TypeScript",
-    "name": "davccavalcante/TeleologyHI",
-    "stars": 1,
-    "updated_at": "2026-05-27T13:40:57Z",
-    "url": "https://github.com/davccavalcante/TeleologyHI"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 7573,
-    "updated_at": "2026-05-27T16:05:22Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "AI Travel Planner - New Relic DevRel Sample",
-    "id": "harrykimpel/agent-framework-travel-planner-agent",
-    "language": "Python",
-    "name": "harrykimpel/agent-framework-travel-planner-agent",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:09:44Z",
-    "url": "https://github.com/harrykimpel/agent-framework-travel-planner-agent"
   }
 ]
