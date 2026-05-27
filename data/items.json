@@ -1,5 +1,32 @@
 [
   {
+    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 5,
+    "updated_at": "2026-05-27T22:15:02Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Dual-LLM tool-routing boundary \u2014 keep your agent's mind clean while workers execute in silence",
+    "id": "RedstarAlpha/cleancontext",
+    "language": "Python",
+    "name": "RedstarAlpha/cleancontext",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:09:22Z",
+    "url": "https://github.com/RedstarAlpha/cleancontext"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "LLM automation framework: autonomous agent chains (Marble Runs) for Claude Code",
     "id": "ellmos-ai/MarbleRun",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 64,
-    "updated_at": "2026-05-27T21:58:57Z",
+    "updated_at": "2026-05-27T22:09:25Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -34,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T21:54:02Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 5,
-    "updated_at": "2026-05-27T21:55:11Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:47:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4606,
-    "updated_at": "2026-05-27T21:32:03Z",
+    "updated_at": "2026-05-27T22:08:06Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T21:06:49Z",
     "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:06:31Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
   }
 ]
