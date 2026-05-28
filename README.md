@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-28 08:30 UTC
+> ⏰ Last updated: 2026-05-28 08:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [envergadcr/ai-video-workflow](https://github.com/envergadcr/ai-video-workflow) | 1 | Python | 2026-05-28 |  |
-| 2 | [Niranjan-008/Agentic-Decision-Cell](https://github.com/Niranjan-008/Agentic-Decision-Cell) | 0 | Python | 2026-05-28 | 🧠 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool |
-| 3 | [ChronoAIProject/Ornn](https://github.com/ChronoAIProject/Ornn) | 18 | TypeScript | 2026-05-28 | Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple  |
-| 4 | [yassineelfakiri/agentpg](https://github.com/yassineelfakiri/agentpg) | 0 | Go | 2026-05-28 | 🤖 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by |
-| 5 | [RikyZ90/ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | 88 | Python | 2026-05-28 | 🐕 Self-hosted security-first AI agent · 22 providers · 11 chat channels · WebUI · 3-level memory · cron · heartbeat · sk |
-| 6 | [q-j0k/sprintloop-orchestration](https://github.com/q-j0k/sprintloop-orchestration) | 0 | — | 2026-05-28 | 🚀 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents  |
-| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-28 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 8 | [opencue/cuecards](https://github.com/opencue/cuecards) | 1 | TypeScript | 2026-05-28 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
-| 9 | [MiteshSharma/ethos](https://github.com/MiteshSharma/ethos) | 3 | TypeScript | 2026-05-28 | TypeScript AI agent framework where personality is architecture. Specialists, not chatbots. |
-| 10 | [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6274 | TypeScript | 2026-05-28 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three r |
-| 11 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | 1441 | Python | 2026-05-28 |  🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MC |
-| 12 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 2 | Python | 2026-05-28 | Many Agents, one objective... yours  |
-| 13 | [DotHarness/dotcraft](https://github.com/DotHarness/dotcraft) | 36 | C# | 2026-05-28 | AI Agent lives in your project. Open-source, self-hosted, multi-provider, highly scalable, powered by .NET. |
-| 14 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 0 | HTML | 2026-05-28 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
-| 15 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 64 | TypeScript | 2026-05-28 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 16 | [Sanga1032/fullstack-mcp-playground](https://github.com/Sanga1032/fullstack-mcp-playground) | 0 | TypeScript | 2026-05-28 | 🤖 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as |
-| 17 | [Ecro/harness-maker](https://github.com/Ecro/harness-maker) | 2 | Python | 2026-05-28 | Per-project AI coding harness for Claude Code · Cursor · Codex. Profiler + 10-dim interview build a different harness fo |
-| 18 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 0 | TypeScript | 2026-05-28 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
-| 19 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-05-28 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 20 | [iamlalitpandit/RudraX](https://github.com/iamlalitpandit/RudraX) | 2 | Python | 2026-05-28 | Build, Break, Deploy @ RudraX Autonomous AI Agent Runtime |
-| 21 | [Riverbraid/Riverbraid-Vision-Gold](https://github.com/Riverbraid/Riverbraid-Vision-Gold) | 1 | JavaScript | 2026-05-28 | Governed vision input and perception contract surface for Riverbraid. |
-| 22 | [derricke/neuralswarm](https://github.com/derricke/neuralswarm) | 0 | TypeScript | 2026-05-28 | Orchestrate intelligent multi-agent swarms that actually work. Deploy autonomous workflows and conversational AI systems |
-| 23 | [Riverbraid/Riverbraid-Memory-Gold](https://github.com/Riverbraid/Riverbraid-Memory-Gold) | 1 | JavaScript | 2026-05-28 | Meaning scoped persistence and state retention rules for Riverbraid. |
-| 24 | [Riverbraid/Riverbraid-Interface-Gold](https://github.com/Riverbraid/Riverbraid-Interface-Gold) | 1 | JavaScript | 2026-05-28 | The deterministic UI contract and relational interface substrate for the Riverbraid cluster. |
-| 25 | [dhaupin/vant](https://github.com/dhaupin/vant) | 1 | JavaScript | 2026-05-28 | Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B |
-| 26 | [Riverbraid/Riverbraid-Integration-Gold](https://github.com/Riverbraid/Riverbraid-Integration-Gold) | 1 | JavaScript | 2026-05-28 | Execution bridge from verified state into system action surfaces. |
-| 27 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-05-28 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
-| 28 | [Riverbraid/Riverbraid-Audio-Gold](https://github.com/Riverbraid/Riverbraid-Audio-Gold) | 1 | JavaScript | 2026-05-28 | Governed audio input and output contract surface for Riverbraid. |
-| 29 | [Riverbraid/Riverbraid-Cognition](https://github.com/Riverbraid/Riverbraid-Cognition) | 1 | JavaScript | 2026-05-28 | Cognitive architecture and meaning processing layer adjacent to the Riverbraid core. |
-| 30 | [Riverbraid/Riverbraid-GPG-Gold](https://github.com/Riverbraid/Riverbraid-GPG-Gold) | 1 | JavaScript | 2026-05-28 | The identity anchor and sovereign GPG verification petal for the Riverbraid organization. |
-| 31 | [NiJingzhe/SimpleLLMFunc](https://github.com/NiJingzhe/SimpleLLMFunc) | 78 | Python | 2026-05-28 | A simple and well-tailored LLM application framework that enables you to seamlessly integrate LLM capabilities in the mo |
-| 32 | [Riverbraid/Riverbraid-Action-Gold](https://github.com/Riverbraid/Riverbraid-Action-Gold) | 1 | JavaScript | 2026-05-28 | Governed action execution surface for Riverbraid. |
-| 33 | [steve-seungeui/ephemera](https://github.com/steve-seungeui/ephemera) | 3 | Go | 2026-05-28 | Enterprise control plane for ephemeral AI agents via Firecracker MicroVMs |
-| 34 | [ziroagent/sdk-typescript](https://github.com/ziroagent/sdk-typescript) | 0 | TypeScript | 2026-05-28 | ZiroAgent SDK — production-safe TypeScript agent runtime: durable execution, cost guardrails, replayable traces, MCP-nat |
-| 35 | [Riverbraid/Riverbraid-Temporal-Gold](https://github.com/Riverbraid/Riverbraid-Temporal-Gold) | 1 | JavaScript | 2026-05-28 | Temporal contracts and governed time based state logic for Riverbraid. |
-| 36 | [hoangtuanhehehehhe/AgentVault](https://github.com/hoangtuanhehehehhe/AgentVault) | 8 | Python | 2026-05-28 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M |
-| 37 | [Riverbraid/Riverbraid-Harness-Gold](https://github.com/Riverbraid/Riverbraid-Harness-Gold) | 1 | JavaScript | 2026-05-28 | Cluster wide verification harness for byte floor, seals, and stationary state checks. |
-| 38 | [Riverbraid/Riverbraid-Manifest-Gold](https://github.com/Riverbraid/Riverbraid-Manifest-Gold) | 1 | JavaScript | 2026-05-28 | The central directory and Merkle Root mapping for the 17-petal Riverbraid v1.5.0 substrate. |
-| 39 | [romainsantoli-web/setup-vs-agent-firm](https://github.com/romainsantoli-web/setup-vs-agent-firm) | 0 | Python | 2026-05-28 |  |
-| 40 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-05-28 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 41 | [rogerchappel/crewcmd](https://github.com/rogerchappel/crewcmd) | 2 | TypeScript | 2026-05-28 | Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC |
-| 42 | [therain2020/therain2020-agent](https://github.com/therain2020/therain2020-agent) | 0 | Python | 2026-05-28 | 闭环 AI Agent 框架 — 动手前观察，运行时拦截，拿证据验证，每次犯错都记住。247 tests. |
-| 43 | [phariyawitjiap-aeternix/AEGIS-Team](https://github.com/phariyawitjiap-aeternix/AEGIS-Team) | 0 | Shell | 2026-05-28 | 🛡️ AEGIS v15.0 — AI Agent Team Framework for Claude Code \| 11 Marvel Personas • 37 Skills • 16 Commands • 14 Hooks • 60+ |
-| 44 | [herreravalenz6620/context-compression](https://github.com/herreravalenz6620/context-compression) | 0 | Python | 2026-05-28 | Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents. |
-| 45 | [achappey/aihappey-chat](https://github.com/achappey/aihappey-chat) | 4 | TypeScript | 2026-05-28 | Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans |
-| 46 | [Smita6756/Hbrain](https://github.com/Smita6756/Hbrain) | 0 | Python | 2026-05-28 | Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept. |
-| 47 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 8 | Python | 2026-05-28 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
-| 48 | [Quadragesimaaffairedhonneur809/hermes-soul-governance](https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance) | 0 | Python | 2026-05-28 | Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management |
-| 49 | [sattyamjjain/ferrumdeck](https://github.com/sattyamjjain/ferrumdeck) | 5 | TypeScript | 2026-05-28 | Production-grade AgentOps control plane for safe AI agent execution. Dual-plane architecture: Rust governance engine + P |
-| 50 | [Liny9941/projectsmd](https://github.com/Liny9941/projectsmd) | 1 | Rust | 2026-05-28 | Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without  |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-28 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [envergadcr/ai-video-workflow](https://github.com/envergadcr/ai-video-workflow) | 1 | Python | 2026-05-28 |  |
+| 3 | [Niranjan-008/Agentic-Decision-Cell](https://github.com/Niranjan-008/Agentic-Decision-Cell) | 0 | Python | 2026-05-28 | 🧠 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool |
+| 4 | [ChronoAIProject/Ornn](https://github.com/ChronoAIProject/Ornn) | 18 | TypeScript | 2026-05-28 | Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple  |
+| 5 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17357 | Python | 2026-05-28 | AI Agent Framework, the Pydantic way |
+| 6 | [yassineelfakiri/agentpg](https://github.com/yassineelfakiri/agentpg) | 0 | Go | 2026-05-28 | 🤖 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by |
+| 7 | [RikyZ90/ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | 88 | Python | 2026-05-28 | 🐕 Self-hosted security-first AI agent · 22 providers · 11 chat channels · WebUI · 3-level memory · cron · heartbeat · sk |
+| 8 | [q-j0k/sprintloop-orchestration](https://github.com/q-j0k/sprintloop-orchestration) | 0 | — | 2026-05-28 | 🚀 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents  |
+| 9 | [opencue/cuecards](https://github.com/opencue/cuecards) | 1 | TypeScript | 2026-05-28 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
+| 10 | [MiteshSharma/ethos](https://github.com/MiteshSharma/ethos) | 3 | TypeScript | 2026-05-28 | TypeScript AI agent framework where personality is architecture. Specialists, not chatbots. |
+| 11 | [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6274 | TypeScript | 2026-05-28 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three r |
+| 12 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | 1441 | Python | 2026-05-28 |  🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MC |
+| 13 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 2 | Python | 2026-05-28 | Many Agents, one objective... yours  |
+| 14 | [DotHarness/dotcraft](https://github.com/DotHarness/dotcraft) | 36 | C# | 2026-05-28 | AI Agent lives in your project. Open-source, self-hosted, multi-provider, highly scalable, powered by .NET. |
+| 15 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 0 | HTML | 2026-05-28 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
+| 16 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 64 | TypeScript | 2026-05-28 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 17 | [Sanga1032/fullstack-mcp-playground](https://github.com/Sanga1032/fullstack-mcp-playground) | 0 | TypeScript | 2026-05-28 | 🤖 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as |
+| 18 | [Ecro/harness-maker](https://github.com/Ecro/harness-maker) | 2 | Python | 2026-05-28 | Per-project AI coding harness for Claude Code · Cursor · Codex. Profiler + 10-dim interview build a different harness fo |
+| 19 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 0 | TypeScript | 2026-05-28 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
+| 20 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-05-28 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 21 | [iamlalitpandit/RudraX](https://github.com/iamlalitpandit/RudraX) | 2 | Python | 2026-05-28 | Build, Break, Deploy @ RudraX Autonomous AI Agent Runtime |
+| 22 | [Riverbraid/Riverbraid-Vision-Gold](https://github.com/Riverbraid/Riverbraid-Vision-Gold) | 1 | JavaScript | 2026-05-28 | Governed vision input and perception contract surface for Riverbraid. |
+| 23 | [derricke/neuralswarm](https://github.com/derricke/neuralswarm) | 0 | TypeScript | 2026-05-28 | Orchestrate intelligent multi-agent swarms that actually work. Deploy autonomous workflows and conversational AI systems |
+| 24 | [Riverbraid/Riverbraid-Memory-Gold](https://github.com/Riverbraid/Riverbraid-Memory-Gold) | 1 | JavaScript | 2026-05-28 | Meaning scoped persistence and state retention rules for Riverbraid. |
+| 25 | [Riverbraid/Riverbraid-Interface-Gold](https://github.com/Riverbraid/Riverbraid-Interface-Gold) | 1 | JavaScript | 2026-05-28 | The deterministic UI contract and relational interface substrate for the Riverbraid cluster. |
+| 26 | [dhaupin/vant](https://github.com/dhaupin/vant) | 1 | JavaScript | 2026-05-28 | Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B |
+| 27 | [Riverbraid/Riverbraid-Integration-Gold](https://github.com/Riverbraid/Riverbraid-Integration-Gold) | 1 | JavaScript | 2026-05-28 | Execution bridge from verified state into system action surfaces. |
+| 28 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-05-28 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
+| 29 | [Riverbraid/Riverbraid-Audio-Gold](https://github.com/Riverbraid/Riverbraid-Audio-Gold) | 1 | JavaScript | 2026-05-28 | Governed audio input and output contract surface for Riverbraid. |
+| 30 | [Riverbraid/Riverbraid-Cognition](https://github.com/Riverbraid/Riverbraid-Cognition) | 1 | JavaScript | 2026-05-28 | Cognitive architecture and meaning processing layer adjacent to the Riverbraid core. |
+| 31 | [Riverbraid/Riverbraid-GPG-Gold](https://github.com/Riverbraid/Riverbraid-GPG-Gold) | 1 | JavaScript | 2026-05-28 | The identity anchor and sovereign GPG verification petal for the Riverbraid organization. |
+| 32 | [NiJingzhe/SimpleLLMFunc](https://github.com/NiJingzhe/SimpleLLMFunc) | 78 | Python | 2026-05-28 | A simple and well-tailored LLM application framework that enables you to seamlessly integrate LLM capabilities in the mo |
+| 33 | [Riverbraid/Riverbraid-Action-Gold](https://github.com/Riverbraid/Riverbraid-Action-Gold) | 1 | JavaScript | 2026-05-28 | Governed action execution surface for Riverbraid. |
+| 34 | [steve-seungeui/ephemera](https://github.com/steve-seungeui/ephemera) | 3 | Go | 2026-05-28 | Enterprise control plane for ephemeral AI agents via Firecracker MicroVMs |
+| 35 | [ziroagent/sdk-typescript](https://github.com/ziroagent/sdk-typescript) | 0 | TypeScript | 2026-05-28 | ZiroAgent SDK — production-safe TypeScript agent runtime: durable execution, cost guardrails, replayable traces, MCP-nat |
+| 36 | [Riverbraid/Riverbraid-Temporal-Gold](https://github.com/Riverbraid/Riverbraid-Temporal-Gold) | 1 | JavaScript | 2026-05-28 | Temporal contracts and governed time based state logic for Riverbraid. |
+| 37 | [hoangtuanhehehehhe/AgentVault](https://github.com/hoangtuanhehehehhe/AgentVault) | 8 | Python | 2026-05-28 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M |
+| 38 | [Riverbraid/Riverbraid-Harness-Gold](https://github.com/Riverbraid/Riverbraid-Harness-Gold) | 1 | JavaScript | 2026-05-28 | Cluster wide verification harness for byte floor, seals, and stationary state checks. |
+| 39 | [Riverbraid/Riverbraid-Manifest-Gold](https://github.com/Riverbraid/Riverbraid-Manifest-Gold) | 1 | JavaScript | 2026-05-28 | The central directory and Merkle Root mapping for the 17-petal Riverbraid v1.5.0 substrate. |
+| 40 | [romainsantoli-web/setup-vs-agent-firm](https://github.com/romainsantoli-web/setup-vs-agent-firm) | 0 | Python | 2026-05-28 |  |
+| 41 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-05-28 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 42 | [rogerchappel/crewcmd](https://github.com/rogerchappel/crewcmd) | 2 | TypeScript | 2026-05-28 | Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC |
+| 43 | [therain2020/therain2020-agent](https://github.com/therain2020/therain2020-agent) | 0 | Python | 2026-05-28 | 闭环 AI Agent 框架 — 动手前观察，运行时拦截，拿证据验证，每次犯错都记住。247 tests. |
+| 44 | [phariyawitjiap-aeternix/AEGIS-Team](https://github.com/phariyawitjiap-aeternix/AEGIS-Team) | 0 | Shell | 2026-05-28 | 🛡️ AEGIS v15.0 — AI Agent Team Framework for Claude Code \| 11 Marvel Personas • 37 Skills • 16 Commands • 14 Hooks • 60+ |
+| 45 | [herreravalenz6620/context-compression](https://github.com/herreravalenz6620/context-compression) | 0 | Python | 2026-05-28 | Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents. |
+| 46 | [achappey/aihappey-chat](https://github.com/achappey/aihappey-chat) | 4 | TypeScript | 2026-05-28 | Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans |
+| 47 | [Smita6756/Hbrain](https://github.com/Smita6756/Hbrain) | 0 | Python | 2026-05-28 | Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept. |
+| 48 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 8 | Python | 2026-05-28 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
+| 49 | [Quadragesimaaffairedhonneur809/hermes-soul-governance](https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance) | 0 | Python | 2026-05-28 | Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management |
+| 50 | [sattyamjjain/ferrumdeck](https://github.com/sattyamjjain/ferrumdeck) | 5 | TypeScript | 2026-05-28 | Production-grade AgentOps control plane for safe AI agent execution. Dual-plane architecture: Rust governance engine + P |
 <!-- TRACKER_TABLE_END -->
 
 ---
