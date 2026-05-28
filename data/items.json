@@ -1,12 +1,120 @@
 [
   {
+    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 5,
+    "updated_at": "2026-05-28T11:43:38Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-05-28T11:42:57Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
+    "id": "dhaupin/vant",
+    "language": "JavaScript",
+    "name": "dhaupin/vant",
+    "stars": 1,
+    "updated_at": "2026-05-28T11:41:44Z",
+    "url": "https://github.com/dhaupin/vant"
+  },
+  {
+    "description": "The All-Father of AI agent harnesses. One install. Every model. Every channel. Full autonomy.",
+    "id": "gabrielvuksani/wotann",
+    "language": "TypeScript",
+    "name": "gabrielvuksani/wotann",
+    "stars": 3,
+    "updated_at": "2026-05-28T11:40:37Z",
+    "url": "https://github.com/gabrielvuksani/wotann"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 0,
+    "updated_at": "2026-05-28T11:39:26Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "Graph-native multi-agent fleet for Python. BYO-key. Local-first. Ships with a UI.",
+    "id": "ramankrishna/bottensor-fleet",
+    "language": "Python",
+    "name": "ramankrishna/bottensor-fleet",
+    "stars": 0,
+    "updated_at": "2026-05-28T11:38:56Z",
+    "url": "https://github.com/ramankrishna/bottensor-fleet"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 0,
+    "updated_at": "2026-05-28T11:38:34Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1216,
+    "updated_at": "2026-05-28T11:38:22Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Oracle Generative AI Multi Agent Reasoning Orchestrator",
+    "id": "oracle-samples/locus",
+    "language": "Python",
+    "name": "oracle-samples/locus",
+    "stars": 14,
+    "updated_at": "2026-05-28T11:43:13Z",
+    "url": "https://github.com/oracle-samples/locus"
+  },
+  {
     "description": "An embodied agent framework for orchestrating long-horizon, multi-module tasks in real-world robotics.",
     "id": "SamuelGong/RobiAgent",
     "language": "Python",
     "name": "SamuelGong/RobiAgent",
     "stars": 2,
-    "updated_at": "2026-05-28T11:30:14Z",
+    "updated_at": "2026-05-28T11:34:51Z",
     "url": "https://github.com/SamuelGong/RobiAgent"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three r",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6274,
+    "updated_at": "2026-05-28T11:34:18Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-28T11:33:39Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T11:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Core engine JARVIS OS \u2014 orchestrateur multi-agents, consensus engine, 900+ agents autonomes en production",
@@ -16,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-05-28T11:28:27Z",
     "url": "https://github.com/Turbo31150/jarvis-core"
-  },
-  {
-    "description": "The All-Father of AI agent harnesses. One install. Every model. Every channel. Full autonomy.",
-    "id": "gabrielvuksani/wotann",
-    "language": "TypeScript",
-    "name": "gabrielvuksani/wotann",
-    "stars": 3,
-    "updated_at": "2026-05-28T11:26:44Z",
-    "url": "https://github.com/gabrielvuksani/wotann"
   },
   {
     "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
@@ -45,15 +144,6 @@
     "url": "https://github.com/langfengQ/verl-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T11:15:35Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -61,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T11:14:58Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
-    "id": "dhaupin/vant",
-    "language": "JavaScript",
-    "name": "dhaupin/vant",
-    "stars": 1,
-    "updated_at": "2026-05-28T11:13:57Z",
-    "url": "https://github.com/dhaupin/vant"
-  },
-  {
-    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 5,
-    "updated_at": "2026-05-28T11:08:54Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Package manager for AI coding assistants \u2014 manage skills, agents & MCPs across Claude Code, Codex, Copilot, and Cursor",
@@ -97,15 +169,6 @@
     "stars": 10812,
     "updated_at": "2026-05-28T11:05:19Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Oracle Generative AI Multi Agent Reasoning Orchestrator",
-    "id": "oracle-samples/locus",
-    "language": "Python",
-    "name": "oracle-samples/locus",
-    "stars": 14,
-    "updated_at": "2026-05-28T11:03:50Z",
-    "url": "https://github.com/oracle-samples/locus"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -130,7 +193,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3054,
+    "stars": 3056,
     "updated_at": "2026-05-28T11:00:27Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T09:40:00Z",
     "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Automate software development with an autonomous multi-agent loop using Qwen Code to self-direct, commit, and improve yo",
-    "id": "Danielle6426/Qwen-Loop",
-    "language": "TypeScript",
-    "name": "Danielle6426/Qwen-Loop",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:39:56Z",
-    "url": "https://github.com/Danielle6426/Qwen-Loop"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 1,
-    "updated_at": "2026-05-28T09:39:22Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:38:06Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 1,
-    "updated_at": "2026-05-28T09:37:57Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-05-28T09:37:33Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-05-28T09:37:24Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:36:56Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
   }
 ]
