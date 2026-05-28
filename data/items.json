@@ -1,12 +1,66 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-28T01:59:56Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Dual-LLM tool-routing boundary \u2014 keep your agent's mind clean while workers execute in silence",
+    "id": "RedstarAlpha/cleancontext",
+    "language": "Python",
+    "name": "RedstarAlpha/cleancontext",
+    "stars": 0,
+    "updated_at": "2026-05-28T01:58:11Z",
+    "url": "https://github.com/RedstarAlpha/cleancontext"
+  },
+  {
     "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
     "id": "berhannnnd/Agents",
     "language": "Python",
     "name": "berhannnnd/Agents",
     "stars": 1,
-    "updated_at": "2026-05-28T01:44:35Z",
+    "updated_at": "2026-05-28T01:56:40Z",
     "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 11744,
+    "updated_at": "2026-05-28T01:52:29Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-28T01:51:37Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 0,
+    "updated_at": "2026-05-28T01:50:54Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T01:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Graph-native multi-agent fleet for Python. BYO-key. Local-first. Ships with a UI.",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "ramankrishna/bottensor-fleet",
     "stars": 0,
-    "updated_at": "2026-05-28T01:40:10Z",
+    "updated_at": "2026-05-28T01:52:59Z",
     "url": "https://github.com/ramankrishna/bottensor-fleet"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4606,
-    "updated_at": "2026-05-28T01:37:29Z",
+    "updated_at": "2026-05-28T01:50:40Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -52,24 +106,6 @@
     "stars": 2,
     "updated_at": "2026-05-28T01:40:03Z",
     "url": "https://github.com/fuseraft/fuseraft-cli"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T01:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-28T01:33:36Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-28T00:36:51Z",
     "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-28T00:36:15Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-28T00:35:45Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 0,
-    "updated_at": "2026-05-28T00:35:14Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-05-28T00:34:48Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
   }
 ]
