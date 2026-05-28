@@ -1,5 +1,95 @@
 [
   {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 16,
+    "updated_at": "2026-05-28T03:59:26Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
+    "id": "dhaupin/vant",
+    "language": "JavaScript",
+    "name": "dhaupin/vant",
+    "stars": 0,
+    "updated_at": "2026-05-28T03:59:22Z",
+    "url": "https://github.com/dhaupin/vant"
+  },
+  {
+    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
+    "id": "ChronoAIProject/Ornn",
+    "language": "TypeScript",
+    "name": "ChronoAIProject/Ornn",
+    "stars": 18,
+    "updated_at": "2026-05-28T03:56:45Z",
+    "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
+    "id": "garyqlin/gbase",
+    "language": "Python",
+    "name": "garyqlin/gbase",
+    "stars": 1,
+    "updated_at": "2026-05-28T03:55:15Z",
+    "url": "https://github.com/garyqlin/gbase"
+  },
+  {
+    "description": "Constraint-aware AI systems. PLATO knowledge rooms, fleet orchestration, constraint engines, neural compression, and the",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 3,
+    "updated_at": "2026-05-28T03:55:11Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-28T03:53:11Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 72,
+    "updated_at": "2026-05-28T03:51:55Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "MiteshSharma/ethos",
+    "language": "TypeScript",
+    "name": "MiteshSharma/ethos",
+    "stars": 3,
+    "updated_at": "2026-05-28T03:47:06Z",
+    "url": "https://github.com/MiteshSharma/ethos"
+  },
+  {
+    "description": "Multi-agent system built with Claude and MCP featuring 7 specialized agents (chatbot, security researcher, business advi",
+    "id": "brooksmcmillin/agents",
+    "language": "Python",
+    "name": "brooksmcmillin/agents",
+    "stars": 2,
+    "updated_at": "2026-05-28T03:59:59Z",
+    "url": "https://github.com/brooksmcmillin/agents"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T03:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -23,7 +113,7 @@
     "language": "Go",
     "name": "steve-seungeui/ephemera",
     "stars": 3,
-    "updated_at": "2026-05-28T03:41:57Z",
+    "updated_at": "2026-05-28T03:46:53Z",
     "url": "https://github.com/steve-seungeui/ephemera"
   },
   {
@@ -54,24 +144,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
-    "id": "dhaupin/vant",
-    "language": "JavaScript",
-    "name": "dhaupin/vant",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:35:57Z",
-    "url": "https://github.com/dhaupin/vant"
-  },
-  {
-    "description": "Multi-agent system built with Claude and MCP featuring 7 specialized agents (chatbot, security researcher, business advi",
-    "id": "brooksmcmillin/agents",
-    "language": "Python",
-    "name": "brooksmcmillin/agents",
-    "stars": 2,
-    "updated_at": "2026-05-28T03:34:49Z",
-    "url": "https://github.com/brooksmcmillin/agents"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -79,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T03:33:19Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:30:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -360,15 +423,6 @@
     "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
   },
   {
-    "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 72,
-    "updated_at": "2026-05-28T03:15:25Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
     "id": "Daiseyvisible752/Design-Pattern-Cli",
     "language": "Jinja",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T03:12:29Z",
     "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:12:24Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:12:02Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Search, understand, reproduce, and improve an idea with ease",
-    "id": "inclusionAI/AWorld",
-    "language": "Python",
-    "name": "inclusionAI/AWorld",
-    "stars": 1199,
-    "updated_at": "2026-05-28T03:12:08Z",
-    "url": "https://github.com/inclusionAI/AWorld"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:11:24Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:11:11Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-28T03:41:42Z",
-    "url": "https://github.com/JKHeadley/instar"
   }
 ]
