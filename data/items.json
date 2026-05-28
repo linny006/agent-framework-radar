@@ -1,5 +1,86 @@
 [
   {
+    "description": "Build, Break, Deploy @ RudraX Autonomous AI Agent Runtime",
+    "id": "iamlalitpandit/RudraX",
+    "language": "Python",
+    "name": "iamlalitpandit/RudraX",
+    "stars": 2,
+    "updated_at": "2026-05-28T07:44:55Z",
+    "url": "https://github.com/iamlalitpandit/RudraX"
+  },
+  {
+    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
+    "id": "ChronoAIProject/Ornn",
+    "language": "TypeScript",
+    "name": "ChronoAIProject/Ornn",
+    "stars": 18,
+    "updated_at": "2026-05-28T07:42:44Z",
+    "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "Governed vision input and perception contract surface for Riverbraid.",
+    "id": "Riverbraid/Riverbraid-Vision-Gold",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-Vision-Gold",
+    "stars": 1,
+    "updated_at": "2026-05-28T07:39:46Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-Vision-Gold"
+  },
+  {
+    "description": "Orchestrate intelligent multi-agent swarms that actually work. Deploy autonomous workflows and conversational AI systems",
+    "id": "derricke/neuralswarm",
+    "language": "TypeScript",
+    "name": "derricke/neuralswarm",
+    "stars": 0,
+    "updated_at": "2026-05-28T07:39:14Z",
+    "url": "https://github.com/derricke/neuralswarm"
+  },
+  {
+    "description": "Meaning scoped persistence and state retention rules for Riverbraid.",
+    "id": "Riverbraid/Riverbraid-Memory-Gold",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-Memory-Gold",
+    "stars": 1,
+    "updated_at": "2026-05-28T07:38:49Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-Memory-Gold"
+  },
+  {
+    "description": "The deterministic UI contract and relational interface substrate for the Riverbraid cluster.",
+    "id": "Riverbraid/Riverbraid-Interface-Gold",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-Interface-Gold",
+    "stars": 1,
+    "updated_at": "2026-05-28T07:38:02Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-Interface-Gold"
+  },
+  {
+    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
+    "id": "dhaupin/vant",
+    "language": "JavaScript",
+    "name": "dhaupin/vant",
+    "stars": 1,
+    "updated_at": "2026-05-28T07:36:51Z",
+    "url": "https://github.com/dhaupin/vant"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-28T07:43:48Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T07:30:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Execution bridge from verified state into system action surfaces.",
     "id": "Riverbraid/Riverbraid-Integration-Gold",
     "language": "JavaScript",
@@ -45,24 +126,6 @@
     "url": "https://github.com/Riverbraid/Riverbraid-GPG-Gold"
   },
   {
-    "description": "Build, Break, Deploy @ RudraX Autonomous AI Agent Runtime",
-    "id": "iamlalitpandit/RudraX",
-    "language": "Python",
-    "name": "iamlalitpandit/RudraX",
-    "stars": 2,
-    "updated_at": "2026-05-28T07:28:23Z",
-    "url": "https://github.com/iamlalitpandit/RudraX"
-  },
-  {
-    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
-    "id": "dhaupin/vant",
-    "language": "JavaScript",
-    "name": "dhaupin/vant",
-    "stars": 1,
-    "updated_at": "2026-05-28T07:28:20Z",
-    "url": "https://github.com/dhaupin/vant"
-  },
-  {
     "description": "A simple and well-tailored LLM application framework that enables you to seamlessly integrate LLM capabilities in the mo",
     "id": "NiJingzhe/SimpleLLMFunc",
     "language": "Python",
@@ -104,17 +167,8 @@
     "language": "Python",
     "name": "RikyZ90/ShibaClaw",
     "stars": 88,
-    "updated_at": "2026-05-28T07:29:50Z",
+    "updated_at": "2026-05-28T07:35:39Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-28T07:26:39Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Temporal contracts and governed time based state logic for Riverbraid.",
@@ -160,15 +214,6 @@
     "stars": 6274,
     "updated_at": "2026-05-28T07:17:36Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T07:15:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T06:52:51Z",
     "url": "https://github.com/Danielle6426/Qwen-Loop"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 1,
-    "updated_at": "2026-05-28T06:52:18Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 0,
-    "updated_at": "2026-05-28T06:50:58Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 1,
-    "updated_at": "2026-05-28T06:50:54Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-05-28T06:50:30Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-05-28T06:50:23Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
   }
 ]
