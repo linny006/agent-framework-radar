@@ -1,12 +1,30 @@
 [
   {
-    "description": "Build, Break, Deploy @ RudraX Autonomous AI Agent Runtime",
-    "id": "iamlalitpandit/RudraX",
-    "language": "Python",
-    "name": "iamlalitpandit/RudraX",
-    "stars": 2,
-    "updated_at": "2026-05-28T07:44:55Z",
-    "url": "https://github.com/iamlalitpandit/RudraX"
+    "description": "AI Agent lives in your project. Open-source, self-hosted, multi-provider, highly scalable, powered by .NET.",
+    "id": "DotHarness/dotcraft",
+    "language": "C#",
+    "name": "DotHarness/dotcraft",
+    "stars": 36,
+    "updated_at": "2026-05-28T07:58:57Z",
+    "url": "https://github.com/DotHarness/dotcraft"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-05-28T07:57:21Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-28T07:56:18Z",
+    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
@@ -14,8 +32,71 @@
     "language": "TypeScript",
     "name": "ChronoAIProject/Ornn",
     "stars": 18,
-    "updated_at": "2026-05-28T07:42:44Z",
+    "updated_at": "2026-05-28T07:54:04Z",
     "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 0,
+    "updated_at": "2026-05-28T07:53:34Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 2,
+    "updated_at": "2026-05-28T07:53:18Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 0,
+    "updated_at": "2026-05-28T07:52:52Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-28T07:52:12Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three r",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6274,
+    "updated_at": "2026-05-28T07:47:53Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T07:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build, Break, Deploy @ RudraX Autonomous AI Agent Runtime",
+    "id": "iamlalitpandit/RudraX",
+    "language": "Python",
+    "name": "iamlalitpandit/RudraX",
+    "stars": 2,
+    "updated_at": "2026-05-28T07:44:55Z",
+    "url": "https://github.com/iamlalitpandit/RudraX"
   },
   {
     "description": "Governed vision input and perception contract surface for Riverbraid.",
@@ -61,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-05-28T07:36:51Z",
     "url": "https://github.com/dhaupin/vant"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-28T07:43:48Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T07:30:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Execution bridge from verified state into system action surfaces.",
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "RikyZ90/ShibaClaw",
     "stars": 88,
-    "updated_at": "2026-05-28T07:35:39Z",
+    "updated_at": "2026-05-28T07:47:01Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
@@ -205,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-05-28T07:18:08Z",
     "url": "https://github.com/Riverbraid/Riverbraid-Manifest-Gold"
-  },
-  {
-    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three r",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6274,
-    "updated_at": "2026-05-28T07:17:36Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "",
@@ -394,59 +448,5 @@
     "stars": 10,
     "updated_at": "2026-05-28T06:54:23Z",
     "url": "https://github.com/barleviatias/toolkit-ai"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-05-28T06:54:10Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-05-28T06:54:06Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
-    "id": "Trickedout-ribier5513/AgentClaw",
-    "language": "TypeScript",
-    "name": "Trickedout-ribier5513/AgentClaw",
-    "stars": 0,
-    "updated_at": "2026-05-28T06:53:57Z",
-    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-05-28T06:53:20Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-05-28T06:52:54Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Automate software development with an autonomous multi-agent loop using Qwen Code to self-direct, commit, and improve yo",
-    "id": "Danielle6426/Qwen-Loop",
-    "language": "TypeScript",
-    "name": "Danielle6426/Qwen-Loop",
-    "stars": 0,
-    "updated_at": "2026-05-28T06:52:51Z",
-    "url": "https://github.com/Danielle6426/Qwen-Loop"
   }
 ]
