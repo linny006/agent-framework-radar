@@ -1,12 +1,30 @@
 [
   {
-    "description": "Multi-agent specification-driven development (SDD) framework for Claude Code",
-    "id": "mgallet92i/waterfall",
-    "language": "Shell",
-    "name": "mgallet92i/waterfall",
+    "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
+    "id": "akimoto-akira/SiliconLifeCollective",
+    "language": "C#",
+    "name": "akimoto-akira/SiliconLifeCollective",
     "stars": 2,
-    "updated_at": "2026-05-28T16:32:13Z",
-    "url": "https://github.com/mgallet92i/waterfall"
+    "updated_at": "2026-05-28T16:44:36Z",
+    "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-28T16:43:18Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 8,
+    "updated_at": "2026-05-28T16:32:54Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-28T16:30:31Z",
+    "updated_at": "2026-05-28T16:32:50Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Multi-agent specification-driven development (SDD) framework for Claude Code",
+    "id": "mgallet92i/waterfall",
+    "language": "Shell",
+    "name": "mgallet92i/waterfall",
+    "stars": 2,
+    "updated_at": "2026-05-28T16:32:13Z",
+    "url": "https://github.com/mgallet92i/waterfall"
   },
   {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "wanxingai/LightAgent",
     "stars": 1024,
-    "updated_at": "2026-05-28T16:30:17Z",
+    "updated_at": "2026-05-28T16:43:57Z",
     "url": "https://github.com/wanxingai/LightAgent"
   },
   {
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 10829,
-    "updated_at": "2026-05-28T16:28:02Z",
+    "updated_at": "2026-05-28T16:44:26Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -400,7 +427,7 @@
     "id": "sipyourdrink-ltd/bernstein",
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
-    "stars": 487,
+    "stars": 488,
     "updated_at": "2026-05-28T16:00:11Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T15:59:04Z",
     "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
-    "id": "MarlBurroW/kinbot",
-    "language": "TypeScript",
-    "name": "MarlBurroW/kinbot",
-    "stars": 42,
-    "updated_at": "2026-05-28T15:58:38Z",
-    "url": "https://github.com/MarlBurroW/kinbot"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-05-28T15:57:47Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-28T15:57:29Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
   }
 ]
