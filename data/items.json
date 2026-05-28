@@ -1,12 +1,66 @@
 [
   {
+    "description": "A framework for the creation of autonomous agent services.",
+    "id": "valory-xyz/open-autonomy",
+    "language": "Python",
+    "name": "valory-xyz/open-autonomy",
+    "stars": 121,
+    "updated_at": "2026-05-28T16:56:51Z",
+    "url": "https://github.com/valory-xyz/open-autonomy"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-28T16:56:36Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Open-source operating system for running an AI agent company on your own machine. Clone, run, and a localhost wizard wal",
+    "id": "aimerdoux/wavex-os",
+    "language": "TypeScript",
+    "name": "aimerdoux/wavex-os",
+    "stars": 7,
+    "updated_at": "2026-05-28T16:56:05Z",
+    "url": "https://github.com/aimerdoux/wavex-os"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 2,
+    "updated_at": "2026-05-28T16:56:55Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
     "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
     "id": "akimoto-akira/SiliconLifeCollective",
     "language": "C#",
     "name": "akimoto-akira/SiliconLifeCollective",
     "stars": 2,
-    "updated_at": "2026-05-28T16:44:36Z",
+    "updated_at": "2026-05-28T16:52:19Z",
     "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
+  },
+  {
+    "description": "The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control.",
+    "id": "tr00x/SOMA-Core",
+    "language": "TypeScript",
+    "name": "tr00x/SOMA-Core",
+    "stars": 1,
+    "updated_at": "2026-05-28T16:50:49Z",
+    "url": "https://github.com/tr00x/SOMA-Core"
+  },
+  {
+    "description": "Multi-agent specification-driven development (SDD) framework for Claude Code",
+    "id": "mgallet92i/waterfall",
+    "language": "Shell",
+    "name": "mgallet92i/waterfall",
+    "stars": 2,
+    "updated_at": "2026-05-28T16:50:34Z",
+    "url": "https://github.com/mgallet92i/waterfall"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -14,8 +68,17 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 64,
-    "updated_at": "2026-05-28T16:43:18Z",
+    "updated_at": "2026-05-28T16:57:54Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T16:45:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -25,24 +88,6 @@
     "stars": 8,
     "updated_at": "2026-05-28T16:32:54Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:32:50Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Multi-agent specification-driven development (SDD) framework for Claude Code",
-    "id": "mgallet92i/waterfall",
-    "language": "Shell",
-    "name": "mgallet92i/waterfall",
-    "stars": 2,
-    "updated_at": "2026-05-28T16:32:13Z",
-    "url": "https://github.com/mgallet92i/waterfall"
   },
   {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "wanxingai/LightAgent",
     "stars": 1024,
-    "updated_at": "2026-05-28T16:43:57Z",
+    "updated_at": "2026-05-28T16:56:27Z",
     "url": "https://github.com/wanxingai/LightAgent"
   },
   {
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 10829,
-    "updated_at": "2026-05-28T16:44:26Z",
+    "updated_at": "2026-05-28T16:58:04Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T16:01:31Z",
     "url": "https://github.com/mj-deving/omniweb-agents"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:00:52Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:00:20Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 488,
-    "updated_at": "2026-05-28T16:00:11Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 0,
-    "updated_at": "2026-05-28T15:59:35Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-05-28T15:59:04Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
   }
 ]
