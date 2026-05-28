@@ -1,12 +1,66 @@
 [
   {
+    "description": "AI Agent lives in your project. Open-source, self-hosted, multi-provider, highly scalable, powered by .NET.",
+    "id": "DotHarness/dotcraft",
+    "language": "C#",
+    "name": "DotHarness/dotcraft",
+    "stars": 36,
+    "updated_at": "2026-05-28T04:23:29Z",
+    "url": "https://github.com/DotHarness/dotcraft"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-28T04:22:29Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
     "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
     "id": "dhaupin/vant",
     "language": "JavaScript",
     "name": "dhaupin/vant",
     "stars": 0,
-    "updated_at": "2026-05-28T04:14:50Z",
+    "updated_at": "2026-05-28T04:22:19Z",
     "url": "https://github.com/dhaupin/vant"
+  },
+  {
+    "description": "Graph-native multi-agent fleet for Python. BYO-key. Local-first. Ships with a UI.",
+    "id": "ramankrishna/bottensor-fleet",
+    "language": "Python",
+    "name": "ramankrishna/bottensor-fleet",
+    "stars": 0,
+    "updated_at": "2026-05-28T04:21:09Z",
+    "url": "https://github.com/ramankrishna/bottensor-fleet"
+  },
+  {
+    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 5,
+    "updated_at": "2026-05-28T04:19:30Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
+    "id": "vzwjustin/advisor",
+    "language": "Python",
+    "name": "vzwjustin/advisor",
+    "stars": 7,
+    "updated_at": "2026-05-28T04:16:42Z",
+    "url": "https://github.com/vzwjustin/advisor"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T04:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "ChronoAIProject/Ornn",
     "stars": 18,
-    "updated_at": "2026-05-28T04:13:35Z",
+    "updated_at": "2026-05-28T04:20:23Z",
     "url": "https://github.com/ChronoAIProject/Ornn"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Go",
     "name": "mlund01/squadron",
     "stars": 6,
-    "updated_at": "2026-05-28T04:08:23Z",
+    "updated_at": "2026-05-28T04:18:00Z",
     "url": "https://github.com/mlund01/squadron"
   },
   {
@@ -45,15 +99,6 @@
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
-    "description": "AI Agent lives in your project. Open-source, self-hosted, multi-provider, highly scalable, powered by .NET.",
-    "id": "DotHarness/dotcraft",
-    "language": "C#",
-    "name": "DotHarness/dotcraft",
-    "stars": 36,
-    "updated_at": "2026-05-28T04:03:15Z",
-    "url": "https://github.com/DotHarness/dotcraft"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T04:01:18Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T04:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
@@ -90,15 +126,6 @@
     "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-28T04:12:45Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file ",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -113,7 +140,7 @@
     "language": "TypeScript",
     "name": "MiteshSharma/ethos",
     "stars": 3,
-    "updated_at": "2026-05-28T03:47:06Z",
+    "updated_at": "2026-05-28T04:27:31Z",
     "url": "https://github.com/MiteshSharma/ethos"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-05-28T03:59:59Z",
     "url": "https://github.com/brooksmcmillin/agents"
-  },
-  {
-    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 5,
-    "updated_at": "2026-05-28T04:09:02Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4606,
-    "updated_at": "2026-05-28T03:35:16Z",
+    "updated_at": "2026-05-28T04:27:20Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T03:16:09Z",
     "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:16:08Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:15:48Z",
-    "url": "https://github.com/Thuso030703/open-claude"
   }
 ]
