@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "Turbo31150/jarvis-core",
     "stars": 1,
-    "updated_at": "2026-05-28T17:30:10Z",
+    "updated_at": "2026-05-28T17:44:52Z",
     "url": "https://github.com/Turbo31150/jarvis-core"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10829,
+    "updated_at": "2026-05-28T17:43:34Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-05-28T17:41:02Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
+    "id": "MarlBurroW/kinbot",
+    "language": "TypeScript",
+    "name": "MarlBurroW/kinbot",
+    "stars": 42,
+    "updated_at": "2026-05-28T17:36:49Z",
+    "url": "https://github.com/MarlBurroW/kinbot"
+  },
+  {
+    "description": "The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control.",
+    "id": "tr00x/SOMA-Core",
+    "language": "TypeScript",
+    "name": "tr00x/SOMA-Core",
+    "stars": 1,
+    "updated_at": "2026-05-28T17:36:06Z",
+    "url": "https://github.com/tr00x/SOMA-Core"
+  },
+  {
+    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 5,
+    "updated_at": "2026-05-28T17:34:23Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
+    "id": "motojinc25/chatwalaau",
+    "language": "Python",
+    "name": "motojinc25/chatwalaau",
+    "stars": 2,
+    "updated_at": "2026-05-28T17:32:14Z",
+    "url": "https://github.com/motojinc25/chatwalaau"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T17:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -23,7 +86,7 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 2,
-    "updated_at": "2026-05-28T17:25:55Z",
+    "updated_at": "2026-05-28T17:30:52Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 556,
     "updated_at": "2026-05-28T17:16:48Z",
     "url": "https://github.com/framersai/agentos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T17:15:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
@@ -95,7 +149,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 64,
-    "updated_at": "2026-05-28T17:17:49Z",
+    "updated_at": "2026-05-28T17:41:43Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -106,15 +160,6 @@
     "stars": 1024,
     "updated_at": "2026-05-28T17:05:28Z",
     "url": "https://github.com/wanxingai/LightAgent"
-  },
-  {
-    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 5,
-    "updated_at": "2026-05-28T17:21:21Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "A framework for the creation of autonomous agent services.",
@@ -153,15 +198,6 @@
     "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
   },
   {
-    "description": "The nervous system for AI agents. Behavioral monitoring, pressure graphs, and directive control.",
-    "id": "tr00x/SOMA-Core",
-    "language": "TypeScript",
-    "name": "tr00x/SOMA-Core",
-    "stars": 1,
-    "updated_at": "2026-05-28T16:50:49Z",
-    "url": "https://github.com/tr00x/SOMA-Core"
-  },
-  {
     "description": "Multi-agent specification-driven development (SDD) framework for Claude Code",
     "id": "mgallet92i/waterfall",
     "language": "Shell",
@@ -178,15 +214,6 @@
     "stars": 8,
     "updated_at": "2026-05-28T16:30:27Z",
     "url": "https://github.com/kdcube/kdcube-ai-app"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10829,
-    "updated_at": "2026-05-28T17:25:31Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "gald3r advanced tier: 22 agents, 100 core skills + 142 addon skill packs + 8 personality themes, 149 commands. Full fram",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-28T16:06:21Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-05-28T16:05:58Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-05-28T16:05:54Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:05:22Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
   }
 ]
