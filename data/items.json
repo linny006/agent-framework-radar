@@ -1,12 +1,102 @@
 [
   {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "MiteshSharma/ethos",
-    "language": "TypeScript",
-    "name": "MiteshSharma/ethos",
-    "stars": 3,
-    "updated_at": "2026-05-28T12:14:38Z",
-    "url": "https://github.com/MiteshSharma/ethos"
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-05-28T12:29:41Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10814,
+    "updated_at": "2026-05-28T12:28:31Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 0,
+    "updated_at": "2026-05-28T12:28:27Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
+    "description": "\u95ed\u73af AI Agent \u6846\u67b6 \u2014 \u52a8\u624b\u524d\u89c2\u5bdf\uff0c\u8fd0\u884c\u65f6\u62e6\u622a\uff0c\u62ff\u8bc1\u636e\u9a8c\u8bc1\uff0c\u6bcf\u6b21\u72af\u9519\u90fd\u8bb0\u4f4f\u3002247 tests.",
+    "id": "therain2020/therain2020-agent",
+    "language": "Python",
+    "name": "therain2020/therain2020-agent",
+    "stars": 0,
+    "updated_at": "2026-05-28T12:28:15Z",
+    "url": "https://github.com/therain2020/therain2020-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-05-28T12:27:06Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "Oracle Generative AI Multi Agent Reasoning Orchestrator",
+    "id": "oracle-samples/locus",
+    "language": "Python",
+    "name": "oracle-samples/locus",
+    "stars": 14,
+    "updated_at": "2026-05-28T12:26:29Z",
+    "url": "https://github.com/oracle-samples/locus"
+  },
+  {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-05-28T12:21:59Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-05-28T12:19:33Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
+    "id": "fuseraft/fuseraft-cli",
+    "language": "C#",
+    "name": "fuseraft/fuseraft-cli",
+    "stars": 2,
+    "updated_at": "2026-05-28T12:20:20Z",
+    "url": "https://github.com/fuseraft/fuseraft-cli"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-05-28T12:18:43Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
+    "id": "akimoto-akira/SiliconLifeCollective",
+    "language": "C#",
+    "name": "akimoto-akira/SiliconLifeCollective",
+    "stars": 2,
+    "updated_at": "2026-05-28T12:17:53Z",
+    "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
   },
   {
     "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,8 +104,26 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 5,
-    "updated_at": "2026-05-28T12:13:21Z",
+    "updated_at": "2026-05-28T12:17:13Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "MiteshSharma/ethos",
+    "language": "TypeScript",
+    "name": "MiteshSharma/ethos",
+    "stars": 3,
+    "updated_at": "2026-05-28T12:15:32Z",
+    "url": "https://github.com/MiteshSharma/ethos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T12:15:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
@@ -63,15 +171,6 @@
     "url": "https://github.com/yassineelfakiri/agentpg"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T12:04:51Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
     "id": "madeinplutofabio/neural-computation-protocol",
     "language": "Rust",
@@ -115,15 +214,6 @@
     "stars": 1216,
     "updated_at": "2026-05-28T11:56:16Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
-    "id": "akimoto-akira/SiliconLifeCollective",
-    "language": "C#",
-    "name": "akimoto-akira/SiliconLifeCollective",
-    "stars": 2,
-    "updated_at": "2026-05-28T11:56:10Z",
-    "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
   },
   {
     "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
@@ -185,17 +275,8 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 176,
-    "updated_at": "2026-05-28T11:36:47Z",
+    "updated_at": "2026-05-28T12:29:47Z",
     "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
-    "description": "Oracle Generative AI Multi Agent Reasoning Orchestrator",
-    "id": "oracle-samples/locus",
-    "language": "Python",
-    "name": "oracle-samples/locus",
-    "stars": 14,
-    "updated_at": "2026-05-28T12:12:12Z",
-    "url": "https://github.com/oracle-samples/locus"
   },
   {
     "description": "An embodied agent framework for orchestrating long-horizon, multi-module tasks in real-world robotics.",
@@ -261,15 +342,6 @@
     "url": "https://github.com/barleviatias/toolkit-ai"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10813,
-    "updated_at": "2026-05-28T12:08:34Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
     "id": "hoangtuanhehehehhe/AgentVault",
     "language": "Python",
@@ -292,7 +364,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3066,
+    "stars": 3072,
     "updated_at": "2026-05-28T11:00:27Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -376,77 +448,5 @@
     "stars": 4,
     "updated_at": "2026-05-28T09:53:21Z",
     "url": "https://github.com/shahzebqazi/mhn-ai-agent-memory"
-  },
-  {
-    "description": "Think of it as an AI system that can receive a business request, reason about it, delegate subtasks to specialized agent",
-    "id": "Siva-Dev-001/enterprise-agent-studio",
-    "language": "Python",
-    "name": "Siva-Dev-001/enterprise-agent-studio",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:52:11Z",
-    "url": "https://github.com/Siva-Dev-001/enterprise-agent-studio"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:48:37Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:47:33Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:47:14Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Run AI coding agents unattended for hours and ship PRs worth merging. Cybernetics-based multi-agent orchestration + cros",
-    "id": "stone16/harness-engineering-skills",
-    "language": "Shell",
-    "name": "stone16/harness-engineering-skills",
-    "stars": 26,
-    "updated_at": "2026-05-28T09:45:18Z",
-    "url": "https://github.com/stone16/harness-engineering-skills"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 1,
-    "updated_at": "2026-05-28T09:44:40Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:44:24Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins",
-    "id": "Doubleedged-capitaloftennessee462/agentswift",
-    "language": "\u2014",
-    "name": "Doubleedged-capitaloftennessee462/agentswift",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:44:23Z",
-    "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
   }
 ]
