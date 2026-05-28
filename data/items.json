@@ -1,12 +1,39 @@
 [
   {
+    "description": "express.js styled agent orchestration Library for typescript community",
+    "id": "microfox-ai/ai-router",
+    "language": "TypeScript",
+    "name": "microfox-ai/ai-router",
+    "stars": 5,
+    "updated_at": "2026-05-28T10:44:00Z",
+    "url": "https://github.com/microfox-ai/ai-router"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-28T10:43:25Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
     "id": "Ecro/harness-maker",
     "language": "Python",
     "name": "Ecro/harness-maker",
     "stars": 2,
-    "updated_at": "2026-05-28T10:29:46Z",
+    "updated_at": "2026-05-28T10:43:10Z",
     "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T10:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
@@ -32,7 +59,7 @@
     "language": "TypeScript",
     "name": "gabrielvuksani/wotann",
     "stars": 3,
-    "updated_at": "2026-05-28T10:28:52Z",
+    "updated_at": "2026-05-28T10:37:08Z",
     "url": "https://github.com/gabrielvuksani/wotann"
   },
   {
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "ChronoAIProject/Ornn",
     "stars": 18,
-    "updated_at": "2026-05-28T10:22:08Z",
+    "updated_at": "2026-05-28T10:33:46Z",
     "url": "https://github.com/ChronoAIProject/Ornn"
   },
   {
@@ -63,13 +90,13 @@
     "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T10:15:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 481,
+    "updated_at": "2026-05-28T10:09:48Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -139,7 +166,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3049,
+    "stars": 3050,
     "updated_at": "2026-05-28T09:44:47Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T09:31:09Z",
     "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:30:36Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Search, understand, reproduce, and improve an idea with ease",
-    "id": "inclusionAI/AWorld",
-    "language": "Python",
-    "name": "inclusionAI/AWorld",
-    "stars": 1200,
-    "updated_at": "2026-05-28T09:29:45Z",
-    "url": "https://github.com/inclusionAI/AWorld"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:29:20Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
