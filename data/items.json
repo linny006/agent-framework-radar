@@ -1,5 +1,59 @@
 [
   {
+    "description": "An embodied agent framework for orchestrating long-horizon, multi-module tasks in real-world robotics.",
+    "id": "SamuelGong/RobiAgent",
+    "language": "Python",
+    "name": "SamuelGong/RobiAgent",
+    "stars": 2,
+    "updated_at": "2026-05-28T11:30:14Z",
+    "url": "https://github.com/SamuelGong/RobiAgent"
+  },
+  {
+    "description": "Core engine JARVIS OS \u2014 orchestrateur multi-agents, consensus engine, 900+ agents autonomes en production",
+    "id": "Turbo31150/jarvis-core",
+    "language": "Python",
+    "name": "Turbo31150/jarvis-core",
+    "stars": 1,
+    "updated_at": "2026-05-28T11:28:27Z",
+    "url": "https://github.com/Turbo31150/jarvis-core"
+  },
+  {
+    "description": "The All-Father of AI agent harnesses. One install. Every model. Every channel. Full autonomy.",
+    "id": "gabrielvuksani/wotann",
+    "language": "TypeScript",
+    "name": "gabrielvuksani/wotann",
+    "stars": 3,
+    "updated_at": "2026-05-28T11:26:44Z",
+    "url": "https://github.com/gabrielvuksani/wotann"
+  },
+  {
+    "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
+    "id": "madeinplutofabio/neural-computation-protocol",
+    "language": "Rust",
+    "name": "madeinplutofabio/neural-computation-protocol",
+    "stars": 12,
+    "updated_at": "2026-05-28T11:20:46Z",
+    "url": "https://github.com/madeinplutofabio/neural-computation-protocol"
+  },
+  {
+    "description": "verl-agent is an extension of veRL, designed for training LLM/VLM agents via RL. verl-agent is also the official code fo",
+    "id": "langfengQ/verl-agent",
+    "language": "Python",
+    "name": "langfengQ/verl-agent",
+    "stars": 1944,
+    "updated_at": "2026-05-28T11:15:42Z",
+    "url": "https://github.com/langfengQ/verl-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T11:15:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -36,6 +90,15 @@
     "url": "https://github.com/barleviatias/toolkit-ai"
   },
   {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10812,
+    "updated_at": "2026-05-28T11:05:19Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": "Oracle Generative AI Multi Agent Reasoning Orchestrator",
     "id": "oracle-samples/locus",
     "language": "Python",
@@ -54,15 +117,6 @@
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
   },
   {
-    "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
-    "id": "madeinplutofabio/neural-computation-protocol",
-    "language": "Rust",
-    "name": "madeinplutofabio/neural-computation-protocol",
-    "stars": 12,
-    "updated_at": "2026-05-28T11:02:36Z",
-    "url": "https://github.com/madeinplutofabio/neural-computation-protocol"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -72,20 +126,11 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T11:00:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3053,
+    "stars": 3054,
     "updated_at": "2026-05-28T11:00:27Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -106,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-05-28T10:47:02Z",
     "url": "https://github.com/nanitics/nanitics"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10811,
-    "updated_at": "2026-05-28T11:05:19Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -140,26 +176,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 17362,
-    "updated_at": "2026-05-28T10:28:29Z",
+    "updated_at": "2026-05-28T11:15:35Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "An embodied agent framework for orchestrating long-horizon, multi-module tasks in real-world robotics.",
-    "id": "SamuelGong/RobiAgent",
-    "language": "Python",
-    "name": "SamuelGong/RobiAgent",
-    "stars": 2,
-    "updated_at": "2026-05-28T10:28:02Z",
-    "url": "https://github.com/SamuelGong/RobiAgent"
-  },
-  {
-    "description": "The All-Father of AI agent harnesses. One install. Every model. Every channel. Full autonomy.",
-    "id": "gabrielvuksani/wotann",
-    "language": "TypeScript",
-    "name": "gabrielvuksani/wotann",
-    "stars": 3,
-    "updated_at": "2026-05-28T11:01:31Z",
-    "url": "https://github.com/gabrielvuksani/wotann"
   },
   {
     "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T09:36:56Z",
     "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-05-28T09:36:42Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:36:23Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
   }
 ]
