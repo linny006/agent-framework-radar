@@ -1,5 +1,158 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 0,
+    "updated_at": "2026-05-28T05:59:47Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
+    "id": "cuteecarrot/AgentHub",
+    "language": "Python",
+    "name": "cuteecarrot/AgentHub",
+    "stars": 4,
+    "updated_at": "2026-05-28T05:58:58Z",
+    "url": "https://github.com/cuteecarrot/AgentHub"
+  },
+  {
+    "description": "\ud83e\udd16 Build advanced multi-agent AI systems with this high-performance Rust framework, enabling automation, reasoning, and e",
+    "id": "Albertossilva-maker/MultiAgent-AI",
+    "language": "HTML",
+    "name": "Albertossilva-maker/MultiAgent-AI",
+    "stars": 0,
+    "updated_at": "2026-05-28T05:58:28Z",
+    "url": "https://github.com/Albertossilva-maker/MultiAgent-AI"
+  },
+  {
+    "description": "Multi-agent system built with Claude and MCP featuring 7 specialized agents (chatbot, security researcher, business advi",
+    "id": "brooksmcmillin/agents",
+    "language": "Python",
+    "name": "brooksmcmillin/agents",
+    "stars": 2,
+    "updated_at": "2026-05-28T05:58:07Z",
+    "url": "https://github.com/brooksmcmillin/agents"
+  },
+  {
+    "description": "Organization profile and public entry surface for Riverbraid.",
+    "id": "Riverbraid/.github",
+    "language": "JavaScript",
+    "name": "Riverbraid/.github",
+    "stars": 1,
+    "updated_at": "2026-05-28T05:57:55Z",
+    "url": "https://github.com/Riverbraid/.github"
+  },
+  {
+    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
+    "id": "cordum-io/cordum",
+    "language": "Go",
+    "name": "cordum-io/cordum",
+    "stars": 481,
+    "updated_at": "2026-05-28T05:58:10Z",
+    "url": "https://github.com/cordum-io/cordum"
+  },
+  {
+    "description": "Closed-loop AI agent framework \u2014 ontology objects, event-sourced memory, runtime safety enforcement, capability-aware ro",
+    "id": "therain2020/therain2020-agent",
+    "language": "Python",
+    "name": "therain2020/therain2020-agent",
+    "stars": 0,
+    "updated_at": "2026-05-28T05:56:53Z",
+    "url": "https://github.com/therain2020/therain2020-agent"
+  },
+  {
+    "description": "Lightweight C++ core for AI agent orchestration, via Pybind11",
+    "id": "bencrooks-dev/agentcore",
+    "language": "Python",
+    "name": "bencrooks-dev/agentcore",
+    "stars": 0,
+    "updated_at": "2026-05-28T05:56:48Z",
+    "url": "https://github.com/bencrooks-dev/agentcore"
+  },
+  {
+    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
+    "id": "ChronoAIProject/Ornn",
+    "language": "TypeScript",
+    "name": "ChronoAIProject/Ornn",
+    "stars": 18,
+    "updated_at": "2026-05-28T05:59:40Z",
+    "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-05-28T05:54:56Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
+    "id": "dhaupin/vant",
+    "language": "JavaScript",
+    "name": "dhaupin/vant",
+    "stars": 0,
+    "updated_at": "2026-05-28T05:53:37Z",
+    "url": "https://github.com/dhaupin/vant"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 0,
+    "updated_at": "2026-05-28T05:53:36Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
+    "description": "AI Agent lives in your project. Open-source, self-hosted, multi-provider, highly scalable, powered by .NET.",
+    "id": "DotHarness/dotcraft",
+    "language": "C#",
+    "name": "DotHarness/dotcraft",
+    "stars": 36,
+    "updated_at": "2026-05-28T06:00:07Z",
+    "url": "https://github.com/DotHarness/dotcraft"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-05-28T05:52:20Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-05-28T05:47:24Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f AEGIS v15.0 \u2014 AI Agent Team Framework for Claude Code | 11 Marvel Personas \u2022 37 Skills \u2022 16 Commands \u2022 14 Hooks \u2022 60+",
+    "id": "phariyawitjiap-aeternix/AEGIS-Team",
+    "language": "Shell",
+    "name": "phariyawitjiap-aeternix/AEGIS-Team",
+    "stars": 0,
+    "updated_at": "2026-05-28T05:47:10Z",
+    "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T05:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
     "id": "thesiddguy/GenAI",
     "language": "HTML",
@@ -27,15 +180,6 @@
     "url": "https://github.com/open-gitagent/opengap"
   },
   {
-    "description": "Lightweight C++ core for AI agent orchestration, via Pybind11",
-    "id": "bencrooks-dev/agentcore",
-    "language": "Python",
-    "name": "bencrooks-dev/agentcore",
-    "stars": 0,
-    "updated_at": "2026-05-28T05:40:48Z",
-    "url": "https://github.com/bencrooks-dev/agentcore"
-  },
-  {
     "description": "An embodied agent framework for orchestrating long-horizon, multi-module tasks in real-world robotics.",
     "id": "SamuelGong/RobiAgent",
     "language": "Python",
@@ -43,24 +187,6 @@
     "stars": 2,
     "updated_at": "2026-05-28T05:40:36Z",
     "url": "https://github.com/SamuelGong/RobiAgent"
-  },
-  {
-    "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
-    "id": "therain2020/therain2020-agent",
-    "language": "Python",
-    "name": "therain2020/therain2020-agent",
-    "stars": 0,
-    "updated_at": "2026-05-28T05:39:47Z",
-    "url": "https://github.com/therain2020/therain2020-agent"
-  },
-  {
-    "description": "AI Agent lives in your project. Open-source, self-hosted, multi-provider, highly scalable, powered by .NET.",
-    "id": "DotHarness/dotcraft",
-    "language": "C#",
-    "name": "DotHarness/dotcraft",
-    "stars": 36,
-    "updated_at": "2026-05-28T05:39:13Z",
-    "url": "https://github.com/DotHarness/dotcraft"
   },
   {
     "description": "",
@@ -99,15 +225,6 @@
     "url": "https://github.com/MiteshSharma/ethos"
   },
   {
-    "description": "\ud83d\udee1\ufe0f AEGIS v15.0 \u2014 AI Agent Team Framework for Claude Code | 11 Marvel Personas \u2022 37 Skills \u2022 16 Commands \u2022 14 Hooks \u2022 60+",
-    "id": "phariyawitjiap-aeternix/AEGIS-Team",
-    "language": "Shell",
-    "name": "phariyawitjiap-aeternix/AEGIS-Team",
-    "stars": 0,
-    "updated_at": "2026-05-28T05:33:16Z",
-    "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
-  },
-  {
     "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
     "id": "q-j0k/sprintloop-orchestration",
     "language": "\u2014",
@@ -115,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T05:30:58Z",
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T05:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -175,7 +283,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 10798,
+    "stars": 10799,
     "updated_at": "2026-05-28T05:14:25Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -232,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T04:45:02Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
-    "id": "dhaupin/vant",
-    "language": "JavaScript",
-    "name": "dhaupin/vant",
-    "stars": 0,
-    "updated_at": "2026-05-28T05:45:17Z",
-    "url": "https://github.com/dhaupin/vant"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -306,15 +405,6 @@
     "url": "https://github.com/vzwjustin/advisor"
   },
   {
-    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
-    "id": "ChronoAIProject/Ornn",
-    "language": "TypeScript",
-    "name": "ChronoAIProject/Ornn",
-    "stars": 18,
-    "updated_at": "2026-05-28T04:20:23Z",
-    "url": "https://github.com/ChronoAIProject/Ornn"
-  },
-  {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
     "id": "roackb2/heddle",
     "language": "TypeScript",
@@ -358,95 +448,5 @@
     "stars": 72,
     "updated_at": "2026-05-28T03:51:55Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Multi-agent system built with Claude and MCP featuring 7 specialized agents (chatbot, security researcher, business advi",
-    "id": "brooksmcmillin/agents",
-    "language": "Python",
-    "name": "brooksmcmillin/agents",
-    "stars": 2,
-    "updated_at": "2026-05-28T03:59:59Z",
-    "url": "https://github.com/brooksmcmillin/agents"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 479,
-    "updated_at": "2026-05-28T03:42:09Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
-  },
-  {
-    "description": "Enterprise control plane for ephemeral AI agents via Firecracker MicroVMs",
-    "id": "steve-seungeui/ephemera",
-    "language": "Go",
-    "name": "steve-seungeui/ephemera",
-    "stars": 3,
-    "updated_at": "2026-05-28T03:46:53Z",
-    "url": "https://github.com/steve-seungeui/ephemera"
-  },
-  {
-    "description": "A small Go agent framework \u2014 provider-agnostic loop, typed tools, four providers, optional persistence + FTS5 search. Tw",
-    "id": "erain/glue",
-    "language": "Go",
-    "name": "erain/glue",
-    "stars": 1,
-    "updated_at": "2026-05-28T03:41:41Z",
-    "url": "https://github.com/erain/glue"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
-    "id": "berhannnnd/Agents",
-    "language": "Python",
-    "name": "berhannnnd/Agents",
-    "stars": 1,
-    "updated_at": "2026-05-28T03:41:19Z",
-    "url": "https://github.com/berhannnnd/Agents"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:36:26Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:33:19Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:29:23Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:27:40Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:26:40Z",
-    "url": "https://github.com/Smita6756/Hbrain"
   }
 ]
