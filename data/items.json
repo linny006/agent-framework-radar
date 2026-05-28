@@ -1,5 +1,68 @@
 [
   {
+    "description": "Core engine JARVIS OS \u2014 orchestrateur multi-agents, consensus engine, 900+ agents autonomes en production",
+    "id": "Turbo31150/jarvis-core",
+    "language": "Python",
+    "name": "Turbo31150/jarvis-core",
+    "stars": 1,
+    "updated_at": "2026-05-28T17:30:10Z",
+    "url": "https://github.com/Turbo31150/jarvis-core"
+  },
+  {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 8,
+    "updated_at": "2026-05-28T17:29:42Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 2,
+    "updated_at": "2026-05-28T17:25:55Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 8,
+    "updated_at": "2026-05-28T17:24:12Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 8,
+    "updated_at": "2026-05-28T17:19:03Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Build autonomous AI agents with adaptive intelligence and emergent behaviors, included with multimodal RAG and optional ",
+    "id": "framersai/agentos",
+    "language": "TypeScript",
+    "name": "framersai/agentos",
+    "stars": 556,
+    "updated_at": "2026-05-28T17:16:48Z",
+    "url": "https://github.com/framersai/agentos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T17:15:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
     "id": "Arch1eSUN/Moirai",
     "language": "Python",
@@ -32,7 +95,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 64,
-    "updated_at": "2026-05-28T17:10:30Z",
+    "updated_at": "2026-05-28T17:17:49Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -50,17 +113,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 5,
-    "updated_at": "2026-05-28T17:00:42Z",
+    "updated_at": "2026-05-28T17:21:21Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T17:00:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for the creation of autonomous agent services.",
@@ -86,17 +140,8 @@
     "language": "TypeScript",
     "name": "aimerdoux/wavex-os",
     "stars": 7,
-    "updated_at": "2026-05-28T16:56:05Z",
+    "updated_at": "2026-05-28T17:29:52Z",
     "url": "https://github.com/aimerdoux/wavex-os"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 2,
-    "updated_at": "2026-05-28T17:13:19Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
     "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
@@ -126,15 +171,6 @@
     "url": "https://github.com/mgallet92i/waterfall"
   },
   {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 8,
-    "updated_at": "2026-05-28T16:32:54Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
     "id": "kdcube/kdcube-ai-app",
     "language": "Python",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 10829,
-    "updated_at": "2026-05-28T16:58:04Z",
+    "updated_at": "2026-05-28T17:25:31Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T16:05:22Z",
     "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-05-28T16:05:07Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:04:46Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:04:45Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:04:29Z",
-    "url": "https://github.com/Thuso030703/open-claude"
   }
 ]
