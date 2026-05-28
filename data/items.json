@@ -1,21 +1,102 @@
 [
   {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
+    "description": "Novahiz OS v6.0 \u2014 Multi-Agent Orchestration System for AI Development. 24 agents, 64 skills, 7 MCP servers. Cross-platfo",
+    "id": "novahiz/Novahiz-OS-",
     "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 98,
-    "updated_at": "2026-05-28T13:59:47Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
+    "name": "novahiz/Novahiz-OS-",
+    "stars": 0,
+    "updated_at": "2026-05-28T14:13:43Z",
+    "url": "https://github.com/novahiz/Novahiz-OS-"
+  },
+  {
+    "description": "Principles of Earned Autonomy - Skills Suite",
+    "id": "ntholm86/principles-of-earned-autonomy-skills-suite",
+    "language": "PowerShell",
+    "name": "ntholm86/principles-of-earned-autonomy-skills-suite",
+    "stars": 0,
+    "updated_at": "2026-05-28T14:13:24Z",
+    "url": "https://github.com/ntholm86/principles-of-earned-autonomy-skills-suite"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10821,
+    "updated_at": "2026-05-28T14:09:52Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 12492,
-    "updated_at": "2026-05-28T13:57:54Z",
+    "stars": 12504,
+    "updated_at": "2026-05-28T14:09:27Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Composable Python SDK for building single-agent and multi-agent AI systems.",
+    "id": "nanitics/nanitics",
+    "language": "Python",
+    "name": "nanitics/nanitics",
+    "stars": 4,
+    "updated_at": "2026-05-28T14:07:48Z",
+    "url": "https://github.com/nanitics/nanitics"
+  },
+  {
+    "description": "Self-healing AI agent \u2014 ontology objects, event-sourced memory, runtime safety, capability routing, self-teaching patter",
+    "id": "therain2020/therain2020-agent",
+    "language": "Python",
+    "name": "therain2020/therain2020-agent",
+    "stars": 0,
+    "updated_at": "2026-05-28T14:07:03Z",
+    "url": "https://github.com/therain2020/therain2020-agent"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 98,
+    "updated_at": "2026-05-28T14:04:45Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "Graph-native multi-agent fleet for Python. BYO-key. Local-first. Ships with a UI.",
+    "id": "ramankrishna/bottensor-fleet",
+    "language": "Python",
+    "name": "ramankrishna/bottensor-fleet",
+    "stars": 0,
+    "updated_at": "2026-05-28T14:03:40Z",
+    "url": "https://github.com/ramankrishna/bottensor-fleet"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3796,
+    "updated_at": "2026-05-28T14:02:14Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1167,
+    "updated_at": "2026-05-28T14:02:09Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T14:00:37Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
@@ -25,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-05-28T13:57:53Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Graph-native multi-agent fleet for Python. BYO-key. Local-first. Ships with a UI.",
-    "id": "ramankrishna/bottensor-fleet",
-    "language": "Python",
-    "name": "ramankrishna/bottensor-fleet",
-    "stars": 0,
-    "updated_at": "2026-05-28T13:57:16Z",
-    "url": "https://github.com/ramankrishna/bottensor-fleet"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -54,24 +126,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Novahiz OS v6.0 \u2014 Multi-Agent Orchestration System for AI Development. 24 agents, 64 skills, 7 MCP servers. Cross-platfo",
-    "id": "novahiz/Novahiz-OS-",
-    "language": "Python",
-    "name": "novahiz/Novahiz-OS-",
-    "stars": 0,
-    "updated_at": "2026-05-28T13:54:23Z",
-    "url": "https://github.com/novahiz/Novahiz-OS-"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10820,
-    "updated_at": "2026-05-28T13:53:24Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "CAST: multi-agent orchestration framework for Claude Code with hook-enforced quality gates and observability.",
     "id": "ek33450505/claude-agent-team",
     "language": "Shell",
@@ -90,24 +144,6 @@
     "url": "https://github.com/mj-deving/omniweb-agents"
   },
   {
-    "description": "Self-healing AI agent \u2014 ontology objects, event-sourced memory, runtime safety, capability routing, self-teaching patter",
-    "id": "therain2020/therain2020-agent",
-    "language": "Python",
-    "name": "therain2020/therain2020-agent",
-    "stars": 0,
-    "updated_at": "2026-05-28T13:46:58Z",
-    "url": "https://github.com/therain2020/therain2020-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T13:45:37Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
     "id": "hoangtuanhehehehhe/AgentVault",
     "language": "Python",
@@ -115,15 +151,6 @@
     "stars": 8,
     "updated_at": "2026-05-28T13:45:08Z",
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
-  },
-  {
-    "description": "Composable Python SDK for building single-agent and multi-agent AI systems.",
-    "id": "nanitics/nanitics",
-    "language": "Python",
-    "name": "nanitics/nanitics",
-    "stars": 4,
-    "updated_at": "2026-05-28T13:58:38Z",
-    "url": "https://github.com/nanitics/nanitics"
   },
   {
     "description": "OpenHermit is the open-source platform for deploying fleets of AI agents as production services \u2014 durable state, sandbox",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T12:56:35Z",
     "url": "https://github.com/marrakechinmorocco/sktk"
-  },
-  {
-    "description": "Provide a customizable AI assistant on Telegram with multiple tools, skills, and monitors that runs locally using hybrid",
-    "id": "Rayan55050/progressive-agent",
-    "language": "Python",
-    "name": "Rayan55050/progressive-agent",
-    "stars": 1,
-    "updated_at": "2026-05-28T12:55:56Z",
-    "url": "https://github.com/Rayan55050/progressive-agent"
-  },
-  {
-    "description": "Apply unified diffs in Python without git or patch tools, handling messy AI-generated patches and copy-paste errors with",
-    "id": "rxnzyor/patchpilot",
-    "language": "Python",
-    "name": "rxnzyor/patchpilot",
-    "stars": 0,
-    "updated_at": "2026-05-28T12:55:56Z",
-    "url": "https://github.com/rxnzyor/patchpilot"
-  },
-  {
-    "description": "Store, consolidate, and recall coding agent memories with provenance tracking using SQLite and FAISS for fast, structure",
-    "id": "InitialDBklyn/consolidation-memory",
-    "language": "Python",
-    "name": "InitialDBklyn/consolidation-memory",
-    "stars": 1,
-    "updated_at": "2026-05-28T12:55:23Z",
-    "url": "https://github.com/InitialDBklyn/consolidation-memory"
   }
 ]
