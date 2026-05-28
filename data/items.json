@@ -1,11 +1,56 @@
 [
   {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 2,
+    "updated_at": "2026-05-28T10:29:46Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
+    "id": "dhaupin/vant",
+    "language": "JavaScript",
+    "name": "dhaupin/vant",
+    "stars": 1,
+    "updated_at": "2026-05-28T10:28:19Z",
+    "url": "https://github.com/dhaupin/vant"
+  },
+  {
+    "description": "An embodied agent framework for orchestrating long-horizon, multi-module tasks in real-world robotics.",
+    "id": "SamuelGong/RobiAgent",
+    "language": "Python",
+    "name": "SamuelGong/RobiAgent",
+    "stars": 2,
+    "updated_at": "2026-05-28T10:28:02Z",
+    "url": "https://github.com/SamuelGong/RobiAgent"
+  },
+  {
+    "description": "The All-Father of AI agent harnesses. One install. Every model. Every channel. Full autonomy.",
+    "id": "gabrielvuksani/wotann",
+    "language": "TypeScript",
+    "name": "gabrielvuksani/wotann",
+    "stars": 3,
+    "updated_at": "2026-05-28T10:28:52Z",
+    "url": "https://github.com/gabrielvuksani/wotann"
+  },
+  {
+    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
+    "id": "ChronoAIProject/Ornn",
+    "language": "TypeScript",
+    "name": "ChronoAIProject/Ornn",
+    "stars": 18,
+    "updated_at": "2026-05-28T10:22:08Z",
+    "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 10811,
-    "updated_at": "2026-05-28T10:12:21Z",
+    "updated_at": "2026-05-28T10:21:03Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "RikyZ90/ShibaClaw",
     "stars": 88,
-    "updated_at": "2026-05-28T10:10:57Z",
+    "updated_at": "2026-05-28T10:24:21Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T10:15:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -25,33 +79,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T10:04:34Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 2,
-    "updated_at": "2026-05-28T10:03:59Z",
-    "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "The All-Father of AI agent harnesses. One install. Every model. Every channel. Full autonomy.",
-    "id": "gabrielvuksani/wotann",
-    "language": "TypeScript",
-    "name": "gabrielvuksani/wotann",
-    "stars": 3,
-    "updated_at": "2026-05-28T10:14:16Z",
-    "url": "https://github.com/gabrielvuksani/wotann"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T10:00:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent memory using Modern Hopfield Networks \u2014 no LLM calls, no database, one matrix multiply. MCP server for Cursor, ",
@@ -112,7 +139,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3048,
+    "stars": 3049,
     "updated_at": "2026-05-28T09:44:47Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T09:29:20Z",
     "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:29:01Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Connect WeChat messages to local AI coding agents like Codex, OpenCode, and Claude Code for fast task handling and file ",
-    "id": "arthursou0512/wechat-agent-channel",
-    "language": "Python",
-    "name": "arthursou0512/wechat-agent-channel",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:28:28Z",
-    "url": "https://github.com/arthursou0512/wechat-agent-channel"
-  },
-  {
-    "description": "Build self-spawning AI agents from tasks with distributed memory, guardrails, and a fossil record.",
-    "id": "karunun4659/spawnverse",
-    "language": "\u2014",
-    "name": "karunun4659/spawnverse",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:28:27Z",
-    "url": "https://github.com/karunun4659/spawnverse"
   }
 ]
