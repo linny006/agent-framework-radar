@@ -1,5 +1,104 @@
 [
   {
+    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
+    "id": "dhaupin/vant",
+    "language": "JavaScript",
+    "name": "dhaupin/vant",
+    "stars": 1,
+    "updated_at": "2026-05-29T22:27:59Z",
+    "url": "https://github.com/dhaupin/vant"
+  },
+  {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-05-29T22:25:49Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3344,
+    "updated_at": "2026-05-29T22:25:45Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-29T22:25:15Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-05-29T22:23:32Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-05-29T22:22:46Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "Shell",
+    "name": "aaronjmars/aeon",
+    "stars": 461,
+    "updated_at": "2026-05-29T22:22:00Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3796,
+    "updated_at": "2026-05-29T22:21:27Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17382,
+    "updated_at": "2026-05-29T22:20:24Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 1,
+    "updated_at": "2026-05-29T22:19:44Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T22:17:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "",
     "id": "envergadcr/ai-video-workflow",
     "language": "Python",
@@ -16,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T22:16:05Z",
     "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T22:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
@@ -59,7 +149,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 100,
-    "updated_at": "2026-05-29T22:16:27Z",
+    "updated_at": "2026-05-29T22:23:08Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -88,15 +178,6 @@
     "stars": 64,
     "updated_at": "2026-05-29T22:00:32Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
-    "id": "dhaupin/vant",
-    "language": "JavaScript",
-    "name": "dhaupin/vant",
-    "stars": 1,
-    "updated_at": "2026-05-29T21:57:57Z",
-    "url": "https://github.com/dhaupin/vant"
   },
   {
     "description": "Multi-Agent Harness for Production AI",
@@ -144,15 +225,6 @@
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 3343,
-    "updated_at": "2026-05-29T22:10:39Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
     "id": "Sanga1032/fullstack-mcp-playground",
     "language": "TypeScript",
@@ -198,15 +270,6 @@
     "url": "https://github.com/dotcommander/vybe"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17382,
-    "updated_at": "2026-05-29T21:36:30Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -248,7 +311,7 @@
     "language": "Kotlin",
     "name": "Deep-CodeAI/Agents.KT",
     "stars": 7,
-    "updated_at": "2026-05-29T21:27:09Z",
+    "updated_at": "2026-05-29T22:21:30Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T20:50:51Z",
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:50:38Z",
-    "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "Shell",
-    "name": "aaronjmars/aeon",
-    "stars": 461,
-    "updated_at": "2026-05-29T20:50:34Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:50:20Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:50:09Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
-    "id": "Trickedout-ribier5513/AgentClaw",
-    "language": "TypeScript",
-    "name": "Trickedout-ribier5513/AgentClaw",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:50:01Z",
-    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:49:29Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:49:05Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
   }
 ]
