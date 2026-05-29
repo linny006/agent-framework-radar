@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 0,
+    "updated_at": "2026-05-29T15:44:35Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Define AI agent roles in YAML and run them anywhere: CLI, API server, or autonomous daemon",
+    "id": "vladkesler/initrunner",
+    "language": "Python",
+    "name": "vladkesler/initrunner",
+    "stars": 38,
+    "updated_at": "2026-05-29T15:43:57Z",
+    "url": "https://github.com/vladkesler/initrunner"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10857,
+    "updated_at": "2026-05-29T15:43:49Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3304,
+    "updated_at": "2026-05-29T15:39:41Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "\u5f00\u6e90\u81ea\u6258\u7ba1 AI Agent \u2014 Go + Rust + provider-agnostic | Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness",
+    "id": "polarisagi/polarisagi-harness",
+    "language": "Go",
+    "name": "polarisagi/polarisagi-harness",
+    "stars": 1,
+    "updated_at": "2026-05-29T15:36:24Z",
+    "url": "https://github.com/polarisagi/polarisagi-harness"
+  },
+  {
+    "description": "\ud83e\udd16 Multi-Agent Roundtable Engine / \u591a Agent \u5706\u684c\u8ba8\u8bba\u5f15\u64ce \u00b7 Structured discussions \u00b7 Consensus tracking \u00b7 Python \u00b7 Zero dependenc",
+    "id": "MoyuFamily/agent-roundtable",
+    "language": "Python",
+    "name": "MoyuFamily/agent-roundtable",
+    "stars": 1,
+    "updated_at": "2026-05-29T15:33:39Z",
+    "url": "https://github.com/MoyuFamily/agent-roundtable"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-05-29T15:32:41Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T15:30:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -54,24 +126,6 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T15:15:43Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10855,
-    "updated_at": "2026-05-29T15:14:32Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 17 professi",
     "id": "KbWen/agentic-os",
     "language": "Python",
@@ -99,15 +153,6 @@
     "url": "https://github.com/valory-xyz/kv-store"
   },
   {
-    "description": "\u5f00\u6e90\u81ea\u6258\u7ba1 AI Agent \u2014 Go + Rust + provider-agnostic | Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness",
-    "id": "polarisagi/polarisagi-harness",
-    "language": "Go",
-    "name": "polarisagi/polarisagi-harness",
-    "stars": 1,
-    "updated_at": "2026-05-29T15:07:45Z",
-    "url": "https://github.com/polarisagi/polarisagi-harness"
-  },
-  {
     "description": "Composable agentic substrate (skills + MCP tools + harness + governance) running on a single laptop. 14 live business do",
     "id": "arturcrmbot/zava-control-plane",
     "language": "Python",
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 64,
-    "updated_at": "2026-05-29T15:29:47Z",
+    "updated_at": "2026-05-29T15:40:35Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-05-29T14:53:32Z",
+    "updated_at": "2026-05-29T15:41:51Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-29T14:17:29Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-05-29T14:17:13Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 106,
-    "updated_at": "2026-05-29T14:17:08Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-05-29T14:17:02Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:16:31Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-05-29T14:16:18Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
