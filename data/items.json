@@ -1,12 +1,57 @@
 [
   {
-    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
-    "id": "dhaupin/vant",
-    "language": "JavaScript",
-    "name": "dhaupin/vant",
-    "stars": 1,
-    "updated_at": "2026-05-29T21:57:57Z",
-    "url": "https://github.com/dhaupin/vant"
+    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
+    "id": "sheawinkler/ContextLattice",
+    "language": "Go",
+    "name": "sheawinkler/ContextLattice",
+    "stars": 108,
+    "updated_at": "2026-05-29T22:14:17Z",
+    "url": "https://github.com/sheawinkler/ContextLattice"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-05-29T22:14:15Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 0,
+    "updated_at": "2026-05-29T22:10:07Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 100,
+    "updated_at": "2026-05-29T22:09:02Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "\u7cbe\u9009 AI Agent \u6846\u67b6\u3001\u5de5\u5177\u4e0e Skill \u6e05\u5355 \u2014 \u6bcf\u4e2a\u573a\u666f\u53ea\u6536\u5f55\u6700\u4f18\u79c0\u7684\u3002Claude Code / Codex CLI / Cline / Aider / OpenCode \u7b49\u4e3b\u6d41 Agent \u6846\u67b6\u3001\u914d\u5957\u5de5\u5177\u4e0e MCP Skil",
+    "id": "68110923/agent-skill",
+    "language": "\u2014",
+    "name": "68110923/agent-skill",
+    "stars": 0,
+    "updated_at": "2026-05-29T22:00:53Z",
+    "url": "https://github.com/68110923/agent-skill"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10869,
+    "updated_at": "2026-05-29T22:00:41Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -14,8 +59,26 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 64,
-    "updated_at": "2026-05-29T21:57:28Z",
+    "updated_at": "2026-05-29T22:00:32Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T22:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
+    "id": "dhaupin/vant",
+    "language": "JavaScript",
+    "name": "dhaupin/vant",
+    "stars": 1,
+    "updated_at": "2026-05-29T21:57:57Z",
+    "url": "https://github.com/dhaupin/vant"
   },
   {
     "description": "Multi-Agent Harness for Production AI",
@@ -67,8 +130,8 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3342,
-    "updated_at": "2026-05-29T21:52:03Z",
+    "stars": 3343,
+    "updated_at": "2026-05-29T22:10:39Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T21:47:47Z",
     "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
-  },
-  {
-    "description": "\u7cbe\u9009 AI Agent \u6846\u67b6\u3001\u5de5\u5177\u4e0e Skill \u6e05\u5355 \u2014 \u6bcf\u4e2a\u573a\u666f\u53ea\u6536\u5f55\u6700\u4f18\u79c0\u7684\u3002Claude Code / Codex CLI / Cline / Aider / OpenCode \u7b49\u4e3b\u6d41 Agent \u6846\u67b6\u3001\u914d\u5957\u5de5\u5177\u4e0e MCP Skil",
-    "id": "68110923/agent-skill",
-    "language": "\u2014",
-    "name": "68110923/agent-skill",
-    "stars": 0,
-    "updated_at": "2026-05-29T21:47:34Z",
-    "url": "https://github.com/68110923/agent-skill"
   },
   {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T21:45:29Z",
     "url": "https://github.com/MadaraUchiha-314/sherma"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T21:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -139,7 +184,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17381,
+    "stars": 17382,
     "updated_at": "2026-05-29T21:36:30Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T21:24:36Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
-    "id": "sheawinkler/ContextLattice",
-    "language": "Go",
-    "name": "sheawinkler/ContextLattice",
-    "stars": 108,
-    "updated_at": "2026-05-29T21:26:56Z",
-    "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
@@ -288,15 +324,6 @@
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 100,
-    "updated_at": "2026-05-29T20:55:42Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
     "id": "Liny9941/projectsmd",
     "language": "Rust",
@@ -355,7 +382,7 @@
     "id": "aaronjmars/aeon",
     "language": "Shell",
     "name": "aaronjmars/aeon",
-    "stars": 460,
+    "stars": 461,
     "updated_at": "2026-05-29T20:50:34Z",
     "url": "https://github.com/aaronjmars/aeon"
   },
@@ -421,32 +448,5 @@
     "stars": 825,
     "updated_at": "2026-05-29T21:09:39Z",
     "url": "https://github.com/vstorm-co/pydantic-deepagents"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 1,
-    "updated_at": "2026-05-29T20:48:33Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-05-29T20:47:09Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 1,
-    "updated_at": "2026-05-29T20:47:02Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
   }
 ]
