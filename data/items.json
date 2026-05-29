@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 3325,
-    "updated_at": "2026-05-29T18:58:57Z",
+    "updated_at": "2026-05-29T19:15:14Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-05-29T19:11:58Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Zero-dep Agent Library. git clone. No server. No deps.           ",
@@ -14,8 +23,53 @@
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
     "stars": 49,
-    "updated_at": "2026-05-29T18:58:27Z",
+    "updated_at": "2026-05-29T19:11:07Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
+    "id": "sheawinkler/ContextLattice",
+    "language": "Go",
+    "name": "sheawinkler/ContextLattice",
+    "stars": 108,
+    "updated_at": "2026-05-29T19:11:40Z",
+    "url": "https://github.com/sheawinkler/ContextLattice"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "Shell",
+    "name": "aaronjmars/aeon",
+    "stars": 460,
+    "updated_at": "2026-05-29T19:08:17Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 0,
+    "updated_at": "2026-05-29T19:04:02Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 0,
+    "updated_at": "2026-05-29T19:03:08Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T19:00:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
@@ -25,6 +79,15 @@
     "stars": 4,
     "updated_at": "2026-05-29T18:54:43Z",
     "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10863,
+    "updated_at": "2026-05-29T19:14:18Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Build AI agents in Python. Monitor email, automate Slack, create AI shopping assistants \u2014 all through a simple SDK. Gemi",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T18:47:09Z",
     "url": "https://github.com/yiling080225-cpu/ai-girl-friend"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T18:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
@@ -79,15 +133,6 @@
     "stars": 38,
     "updated_at": "2026-05-29T18:39:37Z",
     "url": "https://github.com/vladkesler/initrunner"
-  },
-  {
-    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
-    "id": "sheawinkler/ContextLattice",
-    "language": "Go",
-    "name": "sheawinkler/ContextLattice",
-    "stars": 108,
-    "updated_at": "2026-05-29T18:37:52Z",
-    "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -124,15 +169,6 @@
     "stars": 64,
     "updated_at": "2026-05-29T18:22:33Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10862,
-    "updated_at": "2026-05-29T18:53:39Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-29T17:07:27Z",
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17379,
-    "updated_at": "2026-05-29T17:31:21Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-05-29T17:06:08Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 1,
-    "updated_at": "2026-05-29T17:06:00Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-05-29T17:05:45Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
   }
 ]
