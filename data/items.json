@@ -1,5 +1,68 @@
 [
   {
+    "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
+    "id": "Kuonirad/MCOP-Framework-2.0",
+    "language": "TypeScript",
+    "name": "Kuonirad/MCOP-Framework-2.0",
+    "stars": 1,
+    "updated_at": "2026-05-29T17:28:08Z",
+    "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
+  },
+  {
+    "description": "Governance layer for AI agents \u2014 Plan, Contract, Approve, Execute, Audit. Works with any framework. MIT licensed.",
+    "id": "dajarony/trinidad",
+    "language": "Python",
+    "name": "dajarony/trinidad",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:27:26Z",
+    "url": "https://github.com/dajarony/trinidad"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10860,
+    "updated_at": "2026-05-29T17:30:11Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
+    "id": "herreravalenz6620/context-compression",
+    "language": "Python",
+    "name": "herreravalenz6620/context-compression",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:16:41Z",
+    "url": "https://github.com/herreravalenz6620/context-compression"
+  },
+  {
+    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
+    "id": "Smita6756/Hbrain",
+    "language": "Python",
+    "name": "Smita6756/Hbrain",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:15:37Z",
+    "url": "https://github.com/Smita6756/Hbrain"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:15:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
+    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
+    "language": "Python",
+    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:15:24Z",
+    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
+  },
+  {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
     "id": "Liny9941/projectsmd",
     "language": "Rust",
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T17:09:44Z",
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10860,
-    "updated_at": "2026-05-29T17:09:28Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 17379,
-    "updated_at": "2026-05-29T17:07:16Z",
+    "updated_at": "2026-05-29T17:25:42Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-05-29T17:06:00Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
-    "id": "Kuonirad/MCOP-Framework-2.0",
-    "language": "TypeScript",
-    "name": "Kuonirad/MCOP-Framework-2.0",
-    "stars": 1,
-    "updated_at": "2026-05-29T17:14:09Z",
-    "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
   },
   {
     "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
@@ -279,15 +324,6 @@
     "url": "https://github.com/Throaty-chaff551/buildcrew"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T17:00:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
     "id": "Merovingian-valency417/agent-cost-mcp",
     "language": "HTML",
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-05-29T16:56:03Z",
+    "updated_at": "2026-05-29T17:21:20Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T16:53:07Z",
     "url": "https://github.com/Hosk9612/venutian-antfarm"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 1,
-    "updated_at": "2026-05-29T16:52:31Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
-    "id": "akimoto-akira/SiliconLifeCollective",
-    "language": "C#",
-    "name": "akimoto-akira/SiliconLifeCollective",
-    "stars": 2,
-    "updated_at": "2026-05-29T16:52:22Z",
-    "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-05-29T16:52:17Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-05-29T16:52:11Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
   }
 ]
