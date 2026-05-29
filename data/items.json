@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83d\udee1\ufe0f AEGIS v15.0 \u2014 AI Agent Team Framework for Claude Code | 11 Marvel Personas \u2022 37 Skills \u2022 16 Commands \u2022 14 Hooks \u2022 60+",
-    "id": "phariyawitjiap-aeternix/AEGIS-Team",
-    "language": "Shell",
-    "name": "phariyawitjiap-aeternix/AEGIS-Team",
+    "description": "therain2020-agent \u2014 self-healing, self-evolving AI agent. Modifies its own source code to fix bugs and autonomously grow",
+    "id": "therain2020/therain2020-agent",
+    "language": "TypeScript",
+    "name": "therain2020/therain2020-agent",
     "stars": 0,
-    "updated_at": "2026-05-29T12:44:39Z",
-    "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
+    "updated_at": "2026-05-29T12:58:10Z",
+    "url": "https://github.com/therain2020/therain2020-agent"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 0,
+    "updated_at": "2026-05-29T12:57:49Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
@@ -14,17 +23,8 @@
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 106,
-    "updated_at": "2026-05-29T12:44:30Z",
+    "updated_at": "2026-05-29T12:51:48Z",
     "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "therain2020-agent \u2014 self-healing, self-evolving AI agent. Modifies its own source code to fix bugs and autonomously grow",
-    "id": "therain2020/therain2020-agent",
-    "language": "TypeScript",
-    "name": "therain2020/therain2020-agent",
-    "stars": 0,
-    "updated_at": "2026-05-29T12:44:50Z",
-    "url": "https://github.com/therain2020/therain2020-agent"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -32,8 +32,26 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 64,
-    "updated_at": "2026-05-29T12:44:34Z",
+    "updated_at": "2026-05-29T12:54:10Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T12:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f AEGIS v15.0 \u2014 AI Agent Team Framework for Claude Code | 11 Marvel Personas \u2022 37 Skills \u2022 16 Commands \u2022 14 Hooks \u2022 60+",
+    "id": "phariyawitjiap-aeternix/AEGIS-Team",
+    "language": "Shell",
+    "name": "phariyawitjiap-aeternix/AEGIS-Team",
+    "stars": 0,
+    "updated_at": "2026-05-29T12:44:39Z",
+    "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
   },
   {
     "description": "A knowledge cycle for AI agents \u2014 one that grows with the people who shape it. Centered on the scarcity of human attenti",
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-05-29T12:37:31Z",
+    "updated_at": "2026-05-29T12:53:03Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T12:33:39Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T12:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
@@ -184,7 +193,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 13590,
+    "stars": 13605,
     "updated_at": "2026-05-29T12:07:18Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T10:49:11Z",
     "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 169,
-    "updated_at": "2026-05-29T10:46:54Z",
-    "url": "https://github.com/GizClaw/flowcraft"
   }
 ]
