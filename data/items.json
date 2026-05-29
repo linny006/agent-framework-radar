@@ -1,12 +1,57 @@
 [
   {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3325,
+    "updated_at": "2026-05-29T18:58:57Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
     "description": "Zero-dep Agent Library. git clone. No server. No deps.           ",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
     "stars": 49,
-    "updated_at": "2026-05-29T18:43:29Z",
+    "updated_at": "2026-05-29T18:58:27Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
+    "id": "achappey/aihappey-chat",
+    "language": "TypeScript",
+    "name": "achappey/aihappey-chat",
+    "stars": 4,
+    "updated_at": "2026-05-29T18:54:43Z",
+    "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
+    "description": "Build AI agents in Python. Monitor email, automate Slack, create AI shopping assistants \u2014 all through a simple SDK. Gemi",
+    "id": "M2-Tech-Montreal/zinq-agent-sdk",
+    "language": "Python",
+    "name": "M2-Tech-Montreal/zinq-agent-sdk",
+    "stars": 0,
+    "updated_at": "2026-05-29T18:51:41Z",
+    "url": "https://github.com/M2-Tech-Montreal/zinq-agent-sdk"
+  },
+  {
+    "description": "AI \u5973\u53cb Agent \u00b7 \u591a\u5f15\u64ce\u89d2\u8272\u626e\u6f14\u7cfb\u7edf | \u60c5\u7eea\u72b6\u6001\u673a \u00b7 \u4eba\u683c\u63d0\u793a\u8bcd\u5f15\u64ce \u00b7 \u4e09\u5c42\u8bb0\u5fc6 \u00b7 \u865a\u62df\u751f\u6d3b\u5f15\u64ce \u00b7 \u5174\u8da3\u56fe\u8c31 \u00b7 \u4e3b\u52a8\u6d88\u606f \u00b7 \u8868\u60c5\u5305\u5f15\u64ce \u00b7 \u9632\u5e7b\u89c9 \u00b7 React \u7ba1\u7406\u7aef \u00b7 13\u9875\u5168\u529f\u80fd\u9762\u677f \u00b7 v4.3",
+    "id": "yiling080225-cpu/ai-girl-friend",
+    "language": "Python",
+    "name": "yiling080225-cpu/ai-girl-friend",
+    "stars": 0,
+    "updated_at": "2026-05-29T18:47:09Z",
+    "url": "https://github.com/yiling080225-cpu/ai-girl-friend"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T18:45:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
@@ -54,15 +99,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T18:30:34Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
     "id": "akyourowngames/friday",
     "language": "Python",
@@ -81,15 +117,6 @@
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 3323,
-    "updated_at": "2026-05-29T18:26:56Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 10862,
-    "updated_at": "2026-05-29T18:34:42Z",
+    "updated_at": "2026-05-29T18:53:39Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T18:16:02Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "AI \u5973\u53cb Agent \u00b7 \u591a\u5f15\u64ce\u89d2\u8272\u626e\u6f14\u7cfb\u7edf | \u60c5\u7eea\u72b6\u6001\u673a \u00b7 \u4eba\u683c\u63d0\u793a\u8bcd\u5f15\u64ce \u00b7 \u4e09\u5c42\u8bb0\u5fc6 \u00b7 \u865a\u62df\u751f\u6d3b\u5f15\u64ce \u00b7 \u5174\u8da3\u56fe\u8c31 \u00b7 \u4e3b\u52a8\u6d88\u606f \u00b7 \u8868\u60c5\u5305\u5f15\u64ce \u00b7 \u9632\u5e7b\u89c9 \u00b7 React \u7ba1\u7406\u7aef \u00b7 13\u9875\u5168\u529f\u80fd\u9762\u677f \u00b7 v4.3",
-    "id": "yiling080225-cpu/ai-girl-friend",
-    "language": "Python",
-    "name": "yiling080225-cpu/ai-girl-friend",
-    "stars": 0,
-    "updated_at": "2026-05-29T18:39:09Z",
-    "url": "https://github.com/yiling080225-cpu/ai-girl-friend"
   },
   {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "Studnicky/Dagonizer",
     "stars": 1,
-    "updated_at": "2026-05-29T18:05:45Z",
+    "updated_at": "2026-05-29T18:46:54Z",
     "url": "https://github.com/Studnicky/Dagonizer"
   },
   {
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T18:04:35Z",
     "url": "https://github.com/diego-sigma/the-agency"
-  },
-  {
-    "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
-    "id": "achappey/aihappey-chat",
-    "language": "TypeScript",
-    "name": "achappey/aihappey-chat",
-    "stars": 4,
-    "updated_at": "2026-05-29T18:00:53Z",
-    "url": "https://github.com/achappey/aihappey-chat"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-29T17:05:45Z",
     "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-05-29T17:05:32Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
   }
 ]
