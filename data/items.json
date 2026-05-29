@@ -1,11 +1,65 @@
 [
   {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 0,
+    "updated_at": "2026-05-29T15:00:02Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-29T14:58:44Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:56:10Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Production-grade reusable AI agent infrastructure base. ReAct loop, tool pipeline, permissions, hooks, session   persist",
+    "id": "H-Mr/llm-harness",
+    "language": "Python",
+    "name": "H-Mr/llm-harness",
+    "stars": 2,
+    "updated_at": "2026-05-29T14:59:32Z",
+    "url": "https://github.com/H-Mr/llm-harness"
+  },
+  {
+    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
+    "id": "akyourowngames/friday",
+    "language": "Python",
+    "name": "akyourowngames/friday",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:51:53Z",
+    "url": "https://github.com/akyourowngames/friday"
+  },
+  {
+    "description": "jqwiks antidote, keeps your agents safe while using jqwiks by removing poisoned data",
+    "id": "ElodineOfficial/jqwik-unfucked",
+    "language": "Java",
+    "name": "ElodineOfficial/jqwik-unfucked",
+    "stars": 1,
+    "updated_at": "2026-05-29T14:49:17Z",
+    "url": "https://github.com/ElodineOfficial/jqwik-unfucked"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-29T14:45:33Z",
+    "updated_at": "2026-05-29T14:48:03Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T14:41:16Z",
     "url": "https://github.com/valory-xyz/mech-interact"
-  },
-  {
-    "description": "jqwiks antidote, keeps your agents safe while using jqwiks by removing poisoned data",
-    "id": "ElodineOfficial/jqwik-unfucked",
-    "language": "Java",
-    "name": "ElodineOfficial/jqwik-unfucked",
-    "stars": 1,
-    "updated_at": "2026-05-29T14:37:02Z",
-    "url": "https://github.com/ElodineOfficial/jqwik-unfucked"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-05-29T14:22:48Z",
+    "updated_at": "2026-05-29T14:53:32Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T14:10:29Z",
     "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Self-hosted AI research & knowledge stack: Ollama + n8n + Rinnsal + KnowledgeDigest",
-    "id": "ellmos-ai/ellmos-stack",
-    "language": "Python",
-    "name": "ellmos-ai/ellmos-stack",
-    "stars": 1,
-    "updated_at": "2026-05-29T14:09:58Z",
-    "url": "https://github.com/ellmos-ai/ellmos-stack"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:09:18Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:08:53Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Build self-spawning AI agents from tasks with distributed memory, guardrails, and a fossil record.",
-    "id": "karunun4659/spawnverse",
-    "language": "\u2014",
-    "name": "karunun4659/spawnverse",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:08:26Z",
-    "url": "https://github.com/karunun4659/spawnverse"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:08:17Z",
-    "url": "https://github.com/Messa8301/quickbench"
   }
 ]
