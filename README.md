@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-29 04:40 UTC
+> ⏰ Last updated: 2026-05-29 04:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-29 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 2 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 126 | Python | 2026-05-29 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
-| 3 | [herreravalenz6620/context-compression](https://github.com/herreravalenz6620/context-compression) | 0 | Python | 2026-05-29 | Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents. |
-| 4 | [lightfastai/lightfast](https://github.com/lightfastai/lightfast) | 16 | TypeScript | 2026-05-29 | Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation — orchestrated  |
-| 5 | [therain2020/therain2020-agent](https://github.com/therain2020/therain2020-agent) | 0 | Python | 2026-05-29 | Self-healing AI agent — ontology objects, event-sourced memory, runtime safety, capability routing, self-teaching patter |
-| 6 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 13038 | TypeScript | 2026-05-29 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 7 | [Smita6756/Hbrain](https://github.com/Smita6756/Hbrain) | 0 | Python | 2026-05-29 | Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept. |
-| 8 | [Quadragesimaaffairedhonneur809/hermes-soul-governance](https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance) | 0 | Python | 2026-05-29 | Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management |
-| 9 | [MiteshSharma/ethos](https://github.com/MiteshSharma/ethos) | 3 | TypeScript | 2026-05-29 | TypeScript AI agent framework where personality is architecture. Specialists, not chatbots. |
-| 10 | [Liny9941/projectsmd](https://github.com/Liny9941/projectsmd) | 1 | Rust | 2026-05-29 | Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without  |
-| 11 | [amsilveira-ce/Axon](https://github.com/amsilveira-ce/Axon) | 0 | Python | 2026-05-29 | Framework de infraestrutura para agentes de IA com orquestração dinâmica e interoperabilidade via MCP e A2A. |
-| 12 | [muhamedali7713/agent-audit](https://github.com/muhamedali7713/agent-audit) | 0 | Python | 2026-05-29 | Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist |
-| 13 | [Doubleedged-capitaloftennessee462/agentswift](https://github.com/Doubleedged-capitaloftennessee462/agentswift) | 0 | — | 2026-05-29 | Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins |
-| 14 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-29 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 126 | Python | 2026-05-29 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-29 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 0 | HTML | 2026-05-29 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 4 | [herreravalenz6620/context-compression](https://github.com/herreravalenz6620/context-compression) | 0 | Python | 2026-05-29 | Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents. |
+| 5 | [lightfastai/lightfast](https://github.com/lightfastai/lightfast) | 16 | TypeScript | 2026-05-29 | Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation — orchestrated  |
+| 6 | [therain2020/therain2020-agent](https://github.com/therain2020/therain2020-agent) | 0 | Python | 2026-05-29 | Self-healing AI agent — ontology objects, event-sourced memory, runtime safety, capability routing, self-teaching patter |
+| 7 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 13043 | TypeScript | 2026-05-29 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 8 | [Smita6756/Hbrain](https://github.com/Smita6756/Hbrain) | 0 | Python | 2026-05-29 | Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept. |
+| 9 | [Quadragesimaaffairedhonneur809/hermes-soul-governance](https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance) | 0 | Python | 2026-05-29 | Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management |
+| 10 | [MiteshSharma/ethos](https://github.com/MiteshSharma/ethos) | 3 | TypeScript | 2026-05-29 | TypeScript AI agent framework where personality is architecture. Specialists, not chatbots. |
+| 11 | [Liny9941/projectsmd](https://github.com/Liny9941/projectsmd) | 1 | Rust | 2026-05-29 | Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without  |
+| 12 | [amsilveira-ce/Axon](https://github.com/amsilveira-ce/Axon) | 0 | Python | 2026-05-29 | Framework de infraestrutura para agentes de IA com orquestração dinâmica e interoperabilidade via MCP e A2A. |
+| 13 | [muhamedali7713/agent-audit](https://github.com/muhamedali7713/agent-audit) | 0 | Python | 2026-05-29 | Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist |
+| 14 | [Doubleedged-capitaloftennessee462/agentswift](https://github.com/Doubleedged-capitaloftennessee462/agentswift) | 0 | — | 2026-05-29 | Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins |
 | 15 | [sacid446/unclaw](https://github.com/sacid446/unclaw) | 0 | Shell | 2026-05-29 | Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs. |
 | 16 | [floccose-burner9185/wow-harness](https://github.com/floccose-burner9185/wow-harness) | 0 | Python | 2026-05-29 | Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag |
 | 17 | [carlososoriopulgar/agent-kernel](https://github.com/carlososoriopulgar/agent-kernel) | 0 | — | 2026-05-29 | Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks. |
