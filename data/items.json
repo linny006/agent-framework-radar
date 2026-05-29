@@ -1,12 +1,120 @@
 [
   {
+    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
+    "id": "dhaupin/vant",
+    "language": "JavaScript",
+    "name": "dhaupin/vant",
+    "stars": 1,
+    "updated_at": "2026-05-29T21:57:57Z",
+    "url": "https://github.com/dhaupin/vant"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-29T21:57:28Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Multi-Agent Harness for Production AI",
+    "id": "aden-hive/hive",
+    "language": "Python",
+    "name": "aden-hive/hive",
+    "stars": 10452,
+    "updated_at": "2026-05-29T21:55:22Z",
+    "url": "https://github.com/aden-hive/hive"
+  },
+  {
+    "description": "Personal-agent harness \u2014 agent loop, first-class skills, action verification (SenseGate), MCP integration, scheduling, p",
+    "id": "leosoft-company/ambi",
+    "language": "Python",
+    "name": "leosoft-company/ambi",
+    "stars": 0,
+    "updated_at": "2026-05-29T21:55:08Z",
+    "url": "https://github.com/leosoft-company/ambi"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-05-29T21:54:50Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-29T21:54:41Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4e3aOpenClaw\u5b9e\u4f8b\u63d0\u4f9b\u89c9\u9192\u6846\u67b6\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
+    "id": "yuanchuzi2026/silicon-garden",
+    "language": "Python",
+    "name": "yuanchuzi2026/silicon-garden",
+    "stars": 0,
+    "updated_at": "2026-05-29T21:54:39Z",
+    "url": "https://github.com/yuanchuzi2026/silicon-garden"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3342,
+    "updated_at": "2026-05-29T21:52:03Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 0,
+    "updated_at": "2026-05-29T21:47:47Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "\u7cbe\u9009 AI Agent \u6846\u67b6\u3001\u5de5\u5177\u4e0e Skill \u6e05\u5355 \u2014 \u6bcf\u4e2a\u573a\u666f\u53ea\u6536\u5f55\u6700\u4f18\u79c0\u7684\u3002Claude Code / Codex CLI / Cline / Aider / OpenCode \u7b49\u4e3b\u6d41 Agent \u6846\u67b6\u3001\u914d\u5957\u5de5\u5177\u4e0e MCP Skil",
+    "id": "68110923/agent-skill",
+    "language": "\u2014",
+    "name": "68110923/agent-skill",
+    "stars": 0,
+    "updated_at": "2026-05-29T21:47:34Z",
+    "url": "https://github.com/68110923/agent-skill"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 0,
+    "updated_at": "2026-05-29T21:46:56Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
     "description": "Agent Framework rising through the citadel!",
     "id": "MadaraUchiha-314/sherma",
     "language": "Python",
     "name": "MadaraUchiha-314/sherma",
     "stars": 0,
-    "updated_at": "2026-05-29T21:44:40Z",
+    "updated_at": "2026-05-29T21:45:29Z",
     "url": "https://github.com/MadaraUchiha-314/sherma"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T21:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -16,15 +124,6 @@
     "stars": 19,
     "updated_at": "2026-05-29T21:38:36Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-29T21:37:15Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "CLI for AI coding agents: persistent tasks, memory, events, and deterministic resume across crashes and session resets.",
@@ -43,15 +142,6 @@
     "stars": 17381,
     "updated_at": "2026-05-29T21:36:30Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-05-29T21:32:46Z",
-    "url": "https://github.com/v2-io/agentic-systems"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -81,24 +171,6 @@
     "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T21:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "\u7cbe\u9009 AI Agent \u6846\u67b6\u3001\u5de5\u5177\u4e0e Skill \u6e05\u5355 \u2014 \u6bcf\u4e2a\u573a\u666f\u53ea\u6536\u5f55\u6700\u4f18\u79c0\u7684\u3002Claude Code / Codex CLI / Cline / Aider / OpenCode \u7b49\u4e3b\u6d41 Agent \u6846\u67b6\u3001\u914d\u5957\u5de5\u5177\u4e0e MCP Skil",
-    "id": "68110923/agent-skill",
-    "language": "JavaScript",
-    "name": "68110923/agent-skill",
-    "stars": 0,
-    "updated_at": "2026-05-29T21:30:15Z",
-    "url": "https://github.com/68110923/agent-skill"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T21:24:36Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Personal-agent harness \u2014 agent loop, first-class skills, action verification (SenseGate), MCP integration, scheduling, p",
-    "id": "leosoft-company/ambi",
-    "language": "Python",
-    "name": "leosoft-company/ambi",
-    "stars": 0,
-    "updated_at": "2026-05-29T21:23:48Z",
-    "url": "https://github.com/leosoft-company/ambi"
   },
   {
     "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
@@ -162,15 +225,6 @@
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 3340,
-    "updated_at": "2026-05-29T21:39:00Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "Experimental harness for studying LLM-based agents through trace-based observability and evaluation.",
     "id": "tripledoublev/v100",
     "language": "Go",
@@ -187,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T21:07:11Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
-    "id": "dhaupin/vant",
-    "language": "JavaScript",
-    "name": "dhaupin/vant",
-    "stars": 1,
-    "updated_at": "2026-05-29T21:05:47Z",
-    "url": "https://github.com/dhaupin/vant"
   },
   {
     "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-29T20:47:02Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
-    "id": "lukeskytorep-bot/echo-claw",
-    "language": "\u2014",
-    "name": "lukeskytorep-bot/echo-claw",
-    "stars": 1,
-    "updated_at": "2026-05-29T20:46:55Z",
-    "url": "https://github.com/lukeskytorep-bot/echo-claw"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-05-29T20:46:48Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-05-29T20:46:39Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:46:04Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
-    "id": "MarlBurroW/kinbot",
-    "language": "TypeScript",
-    "name": "MarlBurroW/kinbot",
-    "stars": 42,
-    "updated_at": "2026-05-29T20:46:00Z",
-    "url": "https://github.com/MarlBurroW/kinbot"
   }
 ]
