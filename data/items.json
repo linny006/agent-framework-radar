@@ -1,21 +1,75 @@
 [
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 16,
-    "updated_at": "2026-05-29T06:14:22Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
     "description": "Self-healing AI agent \u2014 ontology objects, event-sourced memory, runtime safety, capability routing, self-teaching patter",
     "id": "therain2020/therain2020-agent",
     "language": "Python",
     "name": "therain2020/therain2020-agent",
     "stars": 0,
-    "updated_at": "2026-05-29T06:13:10Z",
+    "updated_at": "2026-05-29T06:29:13Z",
     "url": "https://github.com/therain2020/therain2020-agent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 13155,
+    "updated_at": "2026-05-29T06:25:48Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 16,
+    "updated_at": "2026-05-29T06:29:50Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framersai/agentos",
+    "language": "TypeScript",
+    "name": "framersai/agentos",
+    "stars": 559,
+    "updated_at": "2026-05-29T06:20:06Z",
+    "url": "https://github.com/framersai/agentos"
+  },
+  {
+    "description": "Framework de infraestrutura para agentes de IA com orquestra\u00e7\u00e3o din\u00e2mica e interoperabilidade via MCP e A2A.",
+    "id": "amsilveira-ce/Axon",
+    "language": "Python",
+    "name": "amsilveira-ce/Axon",
+    "stars": 0,
+    "updated_at": "2026-05-29T06:18:22Z",
+    "url": "https://github.com/amsilveira-ce/Axon"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f AEGIS v15.0 \u2014 AI Agent Team Framework for Claude Code | 11 Marvel Personas \u2022 37 Skills \u2022 16 Commands \u2022 14 Hooks \u2022 60+",
+    "id": "phariyawitjiap-aeternix/AEGIS-Team",
+    "language": "Shell",
+    "name": "phariyawitjiap-aeternix/AEGIS-Team",
+    "stars": 0,
+    "updated_at": "2026-05-29T06:17:30Z",
+    "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-29T06:24:40Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T06:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
@@ -63,24 +117,6 @@
     "url": "https://github.com/nanitics/nanitics"
   },
   {
-    "description": "TypeScript AI agent runtime: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framersai/agentos",
-    "language": "TypeScript",
-    "name": "framersai/agentos",
-    "stars": 559,
-    "updated_at": "2026-05-29T06:02:28Z",
-    "url": "https://github.com/framersai/agentos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T06:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -88,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T05:55:18Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-29T06:12:54Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "TypeScript",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 13134,
-    "updated_at": "2026-05-29T05:50:01Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -133,15 +151,6 @@
     "stars": 8,
     "updated_at": "2026-05-29T05:39:28Z",
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f AEGIS v15.0 \u2014 AI Agent Team Framework for Claude Code | 11 Marvel Personas \u2022 37 Skills \u2022 16 Commands \u2022 14 Hooks \u2022 60+",
-    "id": "phariyawitjiap-aeternix/AEGIS-Team",
-    "language": "Shell",
-    "name": "phariyawitjiap-aeternix/AEGIS-Team",
-    "stars": 0,
-    "updated_at": "2026-05-29T05:32:54Z",
-    "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
   },
   {
     "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
@@ -257,7 +266,7 @@
     "language": "TypeScript",
     "name": "MiteshSharma/ethos",
     "stars": 3,
-    "updated_at": "2026-05-29T04:34:49Z",
+    "updated_at": "2026-05-29T06:24:49Z",
     "url": "https://github.com/MiteshSharma/ethos"
   },
   {
@@ -268,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-05-29T04:32:45Z",
     "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Framework de infraestrutura para agentes de IA com orquestra\u00e7\u00e3o din\u00e2mica e interoperabilidade via MCP e A2A.",
-    "id": "amsilveira-ce/Axon",
-    "language": "Python",
-    "name": "amsilveira-ce/Axon",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:32:32Z",
-    "url": "https://github.com/amsilveira-ce/Axon"
   },
   {
     "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
