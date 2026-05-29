@@ -1,5 +1,140 @@
 [
   {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:40:33Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 126,
+    "updated_at": "2026-05-29T04:36:58Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
+    "id": "herreravalenz6620/context-compression",
+    "language": "Python",
+    "name": "herreravalenz6620/context-compression",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:36:16Z",
+    "url": "https://github.com/herreravalenz6620/context-compression"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 16,
+    "updated_at": "2026-05-29T04:36:12Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Self-healing AI agent \u2014 ontology objects, event-sourced memory, runtime safety, capability routing, self-teaching patter",
+    "id": "therain2020/therain2020-agent",
+    "language": "Python",
+    "name": "therain2020/therain2020-agent",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:36:07Z",
+    "url": "https://github.com/therain2020/therain2020-agent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 13038,
+    "updated_at": "2026-05-29T04:35:39Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
+    "id": "Smita6756/Hbrain",
+    "language": "Python",
+    "name": "Smita6756/Hbrain",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:35:20Z",
+    "url": "https://github.com/Smita6756/Hbrain"
+  },
+  {
+    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
+    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
+    "language": "Python",
+    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:35:02Z",
+    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "MiteshSharma/ethos",
+    "language": "TypeScript",
+    "name": "MiteshSharma/ethos",
+    "stars": 3,
+    "updated_at": "2026-05-29T04:34:49Z",
+    "url": "https://github.com/MiteshSharma/ethos"
+  },
+  {
+    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
+    "id": "Liny9941/projectsmd",
+    "language": "Rust",
+    "name": "Liny9941/projectsmd",
+    "stars": 1,
+    "updated_at": "2026-05-29T04:32:45Z",
+    "url": "https://github.com/Liny9941/projectsmd"
+  },
+  {
+    "description": "Framework de infraestrutura para agentes de IA com orquestra\u00e7\u00e3o din\u00e2mica e interoperabilidade via MCP e A2A.",
+    "id": "amsilveira-ce/Axon",
+    "language": "Python",
+    "name": "amsilveira-ce/Axon",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:32:32Z",
+    "url": "https://github.com/amsilveira-ce/Axon"
+  },
+  {
+    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
+    "id": "muhamedali7713/agent-audit",
+    "language": "Python",
+    "name": "muhamedali7713/agent-audit",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:32:26Z",
+    "url": "https://github.com/muhamedali7713/agent-audit"
+  },
+  {
+    "description": "Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins",
+    "id": "Doubleedged-capitaloftennessee462/agentswift",
+    "language": "\u2014",
+    "name": "Doubleedged-capitaloftennessee462/agentswift",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:32:23Z",
+    "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
+    "id": "sacid446/unclaw",
+    "language": "Shell",
+    "name": "sacid446/unclaw",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:30:18Z",
+    "url": "https://github.com/sacid446/unclaw"
+  },
+  {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
     "id": "floccose-burner9185/wow-harness",
     "language": "Python",
@@ -7,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T04:30:13Z",
     "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "TypeScript",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 13029,
-    "updated_at": "2026-05-29T04:29:53Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
@@ -95,7 +221,7 @@
     "language": "Go",
     "name": "JoakimCarlsson/ai",
     "stars": 25,
-    "updated_at": "2026-05-29T04:28:11Z",
+    "updated_at": "2026-05-29T04:31:49Z",
     "url": "https://github.com/JoakimCarlsson/ai"
   },
   {
@@ -306,24 +432,6 @@
     "url": "https://github.com/Nurrachm6921/agent-kernel"
   },
   {
-    "description": "Self-healing AI agent \u2014 ontology objects, event-sourced memory, runtime safety, capability routing, self-teaching patter",
-    "id": "therain2020/therain2020-agent",
-    "language": "Python",
-    "name": "therain2020/therain2020-agent",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:16:44Z",
-    "url": "https://github.com/therain2020/therain2020-agent"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 16,
-    "updated_at": "2026-05-29T04:16:38Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
     "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
     "id": "breastless-andcircuit638/lean-loop",
     "language": "\u2014",
@@ -333,15 +441,6 @@
     "url": "https://github.com/breastless-andcircuit638/lean-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build a governance-first multi-agent framework that turns Markdown controls into enforcement hooks for structured softwa",
     "id": "Hosk9612/venutian-antfarm",
     "language": "Shell",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T04:15:03Z",
     "url": "https://github.com/Hosk9612/venutian-antfarm"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 1,
-    "updated_at": "2026-05-29T04:14:32Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:14:17Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:14:15Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:13:47Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the ",
-    "id": "Core-Mate/OpenGUI",
-    "language": "Kotlin",
-    "name": "Core-Mate/OpenGUI",
-    "stars": 136,
-    "updated_at": "2026-05-29T04:13:44Z",
-    "url": "https://github.com/Core-Mate/OpenGUI"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:13:27Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:13:09Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Deploy autonomous AI streamers on Kick with one command, automating chat, voice, avatar, and OBS streaming setup in unde",
-    "id": "yhlyblys66-art/moltstream",
-    "language": "TypeScript",
-    "name": "yhlyblys66-art/moltstream",
-    "stars": 1,
-    "updated_at": "2026-05-29T04:12:47Z",
-    "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:12:22Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-05-29T04:11:51Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "Enable AI agents to send, receive, and manage real email autonomously using 27 email tools via Model Context Protocol wi",
-    "id": "dominiks1260/agent-kit",
-    "language": "JavaScript",
-    "name": "dominiks1260/agent-kit",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:10:37Z",
-    "url": "https://github.com/dominiks1260/agent-kit"
   }
 ]
