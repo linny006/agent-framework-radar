@@ -1,5 +1,77 @@
 [
   {
+    "description": "therain2020-agent \u2014 self-healing, self-evolving AI agent. Modifies its own source code to fix bugs and autonomously grow",
+    "id": "therain2020/therain2020-agent",
+    "language": "TypeScript",
+    "name": "therain2020/therain2020-agent",
+    "stars": 0,
+    "updated_at": "2026-05-29T11:43:42Z",
+    "url": "https://github.com/therain2020/therain2020-agent"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 98,
+    "updated_at": "2026-05-29T11:42:43Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 3,
+    "updated_at": "2026-05-29T11:42:52Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 13543,
+    "updated_at": "2026-05-29T11:40:53Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-29T11:44:17Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Personal-agent harness \u2014 agent loop, first-class skills, action verification (SenseGate), MCP integration, scheduling, p",
+    "id": "leosoft-company/ambi",
+    "language": "Python",
+    "name": "leosoft-company/ambi",
+    "stars": 0,
+    "updated_at": "2026-05-29T11:31:44Z",
+    "url": "https://github.com/leosoft-company/ambi"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-05-29T11:30:41Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T11:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A template for development with the open-autonomy framework.",
     "id": "valory-xyz/dev-template",
     "language": "Makefile",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "H-Mr/llm-harness",
     "stars": 2,
-    "updated_at": "2026-05-29T11:28:48Z",
+    "updated_at": "2026-05-29T11:32:02Z",
     "url": "https://github.com/H-Mr/llm-harness"
   },
   {
@@ -32,17 +104,8 @@
     "language": "Python",
     "name": "RikyZ90/ShibaClaw",
     "stars": 89,
-    "updated_at": "2026-05-29T11:28:42Z",
+    "updated_at": "2026-05-29T11:42:38Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
-    "description": "Personal-agent harness \u2014 agent loop, first-class skills, action verification (SenseGate), MCP integration, scheduling, p",
-    "id": "leosoft-company/ambi",
-    "language": "Python",
-    "name": "leosoft-company/ambi",
-    "stars": 0,
-    "updated_at": "2026-05-29T11:25:45Z",
-    "url": "https://github.com/leosoft-company/ambi"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
@@ -52,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-05-29T11:25:12Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "TypeScript",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 13534,
-    "updated_at": "2026-05-29T11:24:55Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
@@ -81,15 +135,6 @@
     "url": "https://github.com/cordum-io/cordum"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T11:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
     "id": "madeinplutofabio/neural-computation-protocol",
     "language": "Rust",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T11:14:35Z",
     "url": "https://github.com/valory-xyz/mech-interact"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-29T11:29:10Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
@@ -270,15 +306,6 @@
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
   },
   {
-    "description": "therain2020-agent \u2014 self-healing, self-evolving AI agent. Modifies its own source code to fix bugs and autonomously grow",
-    "id": "therain2020/therain2020-agent",
-    "language": "TypeScript",
-    "name": "therain2020/therain2020-agent",
-    "stars": 0,
-    "updated_at": "2026-05-29T11:26:20Z",
-    "url": "https://github.com/therain2020/therain2020-agent"
-  },
-  {
     "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
     "id": "ellmos-ai/n8n-manager-mcp",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-05-29T10:38:00Z",
     "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:37:18Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:36:57Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:36:21Z",
-    "url": "https://github.com/cele9529/LingxiFish"
   }
 ]
