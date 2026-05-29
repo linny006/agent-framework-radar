@@ -1,12 +1,102 @@
 [
   {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-05-29T00:58:39Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 0,
+    "updated_at": "2026-05-29T00:57:28Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-05-29T00:56:14Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
+    "id": "MarlBurroW/kinbot",
+    "language": "TypeScript",
+    "name": "MarlBurroW/kinbot",
+    "stars": 42,
+    "updated_at": "2026-05-29T00:54:42Z",
+    "url": "https://github.com/MarlBurroW/kinbot"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 12722,
+    "updated_at": "2026-05-29T00:54:10Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "gald3r advanced tier: 22 agents, 100 core skills + 142 addon skill packs + 8 personality themes, 149 commands. Full fram",
+    "id": "wrm3/gald3r_template_adv",
+    "language": "PowerShell",
+    "name": "wrm3/gald3r_template_adv",
+    "stars": 1,
+    "updated_at": "2026-05-29T00:54:05Z",
+    "url": "https://github.com/wrm3/gald3r_template_adv"
+  },
+  {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-05-29T00:51:38Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
+  },
+  {
     "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
     "id": "Krako-Labs/KORA",
     "language": "Python",
     "name": "Krako-Labs/KORA",
     "stars": 5,
-    "updated_at": "2026-05-29T00:45:17Z",
+    "updated_at": "2026-05-29T00:49:52Z",
     "url": "https://github.com/Krako-Labs/KORA"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-05-29T00:49:28Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-05-29T00:48:42Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T00:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -36,15 +126,6 @@
     "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "TypeScript",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 12701,
-    "updated_at": "2026-05-29T00:41:13Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
     "id": "yassineelfakiri/agentpg",
     "language": "Go",
@@ -72,22 +153,31 @@
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T00:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14141,
+    "updated_at": "2026-05-29T00:29:21Z",
+    "url": "https://github.com/eigent-ai/eigent"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 10834,
+    "stars": 10835,
     "updated_at": "2026-05-29T00:28:19Z",
     "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3185,
+    "updated_at": "2026-05-29T00:28:08Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Enterprise control plane for ephemeral AI agents via Firecracker MicroVMs",
@@ -207,30 +297,12 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "gald3r advanced tier: 22 agents, 100 core skills + 142 addon skill packs + 8 personality themes, 149 commands. Full fram",
-    "id": "wrm3/gald3r_template_adv",
-    "language": "PowerShell",
-    "name": "wrm3/gald3r_template_adv",
-    "stars": 1,
-    "updated_at": "2026-05-29T00:00:04Z",
-    "url": "https://github.com/wrm3/gald3r_template_adv"
-  },
-  {
-    "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
-    "id": "MarlBurroW/kinbot",
-    "language": "TypeScript",
-    "name": "MarlBurroW/kinbot",
-    "stars": 42,
-    "updated_at": "2026-05-28T23:56:16Z",
-    "url": "https://github.com/MarlBurroW/kinbot"
-  },
-  {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
     "id": "ag2ai/ag2",
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4607,
-    "updated_at": "2026-05-29T00:08:27Z",
+    "updated_at": "2026-05-29T01:00:00Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -311,7 +383,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 64,
-    "updated_at": "2026-05-29T00:42:31Z",
+    "updated_at": "2026-05-29T00:59:32Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -374,79 +446,7 @@
     "language": "Python",
     "name": "openlegion-ai/openlegion",
     "stars": 98,
-    "updated_at": "2026-05-28T23:58:56Z",
+    "updated_at": "2026-05-29T00:57:50Z",
     "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
-    "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
-    "id": "vzwjustin/advisor",
-    "language": "Python",
-    "name": "vzwjustin/advisor",
-    "stars": 7,
-    "updated_at": "2026-05-28T22:57:58Z",
-    "url": "https://github.com/vzwjustin/advisor"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-05-28T22:57:09Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
-    "id": "shyftlabs/continuum",
-    "language": "Python",
-    "name": "shyftlabs/continuum",
-    "stars": 12,
-    "updated_at": "2026-05-29T00:39:45Z",
-    "url": "https://github.com/shyftlabs/continuum"
-  },
-  {
-    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
-    "id": "cordum-io/cordum",
-    "language": "Go",
-    "name": "cordum-io/cordum",
-    "stars": 481,
-    "updated_at": "2026-05-28T22:38:05Z",
-    "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 0,
-    "updated_at": "2026-05-28T22:37:03Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-05-28T22:36:05Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-05-28T22:35:54Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 1,
-    "updated_at": "2026-05-28T22:33:36Z",
-    "url": "https://github.com/Liny9941/projectsmd"
   }
 ]
