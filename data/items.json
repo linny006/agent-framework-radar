@@ -1,11 +1,29 @@
 [
   {
+    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
+    "id": "motojinc25/chatwalaau",
+    "language": "Python",
+    "name": "motojinc25/chatwalaau",
+    "stars": 2,
+    "updated_at": "2026-05-29T18:10:12Z",
+    "url": "https://github.com/motojinc25/chatwalaau"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T18:08:50Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
     "id": "sheawinkler/ContextLattice",
     "language": "Go",
     "name": "sheawinkler/ContextLattice",
     "stars": 108,
-    "updated_at": "2026-05-29T18:07:30Z",
+    "updated_at": "2026-05-29T18:11:12Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 3,
-    "updated_at": "2026-05-29T18:07:33Z",
+    "updated_at": "2026-05-29T18:12:41Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -54,20 +72,11 @@
     "url": "https://github.com/achappey/aihappey-chat"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T18:00:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3317,
+    "stars": 3319,
     "updated_at": "2026-05-29T18:00:16Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -81,7 +90,7 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Git-based distributed swarm memory for AI agents \u2014 lessons learned, lessons shared. Stop repeating the same debugging se",
+    "description": "Zero-dep Agent Library. git clone. No server. No deps.           ",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
@@ -104,7 +113,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 64,
-    "updated_at": "2026-05-29T18:05:27Z",
+    "updated_at": "2026-05-29T18:10:16Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-05-29T17:00:56Z",
     "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-29T17:00:19Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
   }
 ]
