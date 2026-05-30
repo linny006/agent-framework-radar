@@ -1,5 +1,131 @@
 [
   {
+    "description": "\ud83e\udd16 Build advanced multi-agent AI systems with this high-performance Rust framework, enabling automation, reasoning, and e",
+    "id": "Albertossilva-maker/MultiAgent-AI",
+    "language": "HTML",
+    "name": "Albertossilva-maker/MultiAgent-AI",
+    "stars": 0,
+    "updated_at": "2026-05-30T14:15:13Z",
+    "url": "https://github.com/Albertossilva-maker/MultiAgent-AI"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 2,
+    "updated_at": "2026-05-30T14:13:16Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-05-30T14:11:22Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 0,
+    "updated_at": "2026-05-30T14:09:59Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 7,
+    "updated_at": "2026-05-30T14:10:49Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-05-30T14:08:45Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+    "id": "NirDiamant/agents-towards-production",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/agents-towards-production",
+    "stars": 20541,
+    "updated_at": "2026-05-30T14:07:45Z",
+    "url": "https://github.com/NirDiamant/agents-towards-production"
+  },
+  {
+    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
+    "id": "Krako-Labs/KORA",
+    "language": "Python",
+    "name": "Krako-Labs/KORA",
+    "stars": 12,
+    "updated_at": "2026-05-30T14:05:24Z",
+    "url": "https://github.com/Krako-Labs/KORA"
+  },
+  {
+    "description": "Multi-agent orchestration system with DAG-based reasoning, tool abstraction, and observable decision traces.",
+    "id": "Adityansh-Chand/ai-proactive-customer-operations",
+    "language": "Python",
+    "name": "Adityansh-Chand/ai-proactive-customer-operations",
+    "stars": 0,
+    "updated_at": "2026-05-30T14:04:45Z",
+    "url": "https://github.com/Adityansh-Chand/ai-proactive-customer-operations"
+  },
+  {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-05-30T14:03:24Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-05-30T14:05:49Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-05-30T14:01:02Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-05-30T14:00:33Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T14:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -45,15 +171,6 @@
     "url": "https://github.com/yassineelfakiri/agentpg"
   },
   {
-    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
-    "id": "Krako-Labs/KORA",
-    "language": "Python",
-    "name": "Krako-Labs/KORA",
-    "stars": 12,
-    "updated_at": "2026-05-30T13:50:21Z",
-    "url": "https://github.com/Krako-Labs/KORA"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -70,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T13:46:20Z",
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T13:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Typed Kotlin DSL framework for AI agent systems.",
-    "id": "Deep-CodeAI/Agents.KT",
-    "language": "Kotlin",
-    "name": "Deep-CodeAI/Agents.KT",
-    "stars": 7,
-    "updated_at": "2026-05-30T13:58:33Z",
-    "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
     "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
@@ -157,7 +256,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 14411,
+    "stars": 14420,
     "updated_at": "2026-05-30T13:21:32Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T11:42:50Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:41:55Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:41:40Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins",
-    "id": "Doubleedged-capitaloftennessee462/agentswift",
-    "language": "\u2014",
-    "name": "Doubleedged-capitaloftennessee462/agentswift",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:39:27Z",
-    "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 1,
-    "updated_at": "2026-05-30T11:39:12Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:38:56Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:36:28Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:36:05Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:36:03Z",
-    "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:35:43Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:35:37Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
-    "id": "Trickedout-ribier5513/AgentClaw",
-    "language": "TypeScript",
-    "name": "Trickedout-ribier5513/AgentClaw",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:35:29Z",
-    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
   }
 ]
