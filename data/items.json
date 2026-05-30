@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83d\udcc4 Generate static question banks easily with Python and JSON for fast, SEO-friendly websites hosted on GitHub Pages.",
+    "id": "punkxuxu/bank_soal",
+    "language": "Python",
+    "name": "punkxuxu/bank_soal",
+    "stars": 0,
+    "updated_at": "2026-05-30T20:47:31Z",
+    "url": "https://github.com/punkxuxu/bank_soal"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framersai/agentos",
+    "language": "TypeScript",
+    "name": "framersai/agentos",
+    "stars": 559,
+    "updated_at": "2026-05-30T20:48:25Z",
+    "url": "https://github.com/framersai/agentos"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fDecision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit",
+    "id": "ucsandman/DashClaw",
+    "language": "JavaScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 269,
+    "updated_at": "2026-05-30T20:46:39Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T20:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udd16 Build adaptable AI agents with skill-based systems, enabling efficient context management and seamless integration acr",
     "id": "tanveerkhan2005/custom-agent-with-skills",
     "language": "Python",
@@ -153,24 +189,6 @@
     "url": "https://github.com/TonCerqueira/MiroThinker"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T20:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fDecision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit",
-    "id": "ucsandman/DashClaw",
-    "language": "JavaScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 269,
-    "updated_at": "2026-05-30T20:28:55Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
     "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
     "id": "hdhks1229i3/vibecheck",
     "language": "Zig",
@@ -203,7 +221,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 64,
-    "updated_at": "2026-05-30T20:24:16Z",
+    "updated_at": "2026-05-30T20:45:58Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -265,7 +283,7 @@
     "id": "Prompthon-IO/agent-systems-handbook",
     "language": "MDX",
     "name": "Prompthon-IO/agent-systems-handbook",
-    "stars": 240,
+    "stars": 241,
     "updated_at": "2026-05-30T20:04:56Z",
     "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
   },
@@ -396,15 +414,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framersai/agentos",
-    "language": "TypeScript",
-    "name": "framersai/agentos",
-    "stars": 559,
-    "updated_at": "2026-05-30T19:14:59Z",
-    "url": "https://github.com/framersai/agentos"
-  },
-  {
     "description": "An AI engineering team for your projects, powered by Claude Code and Obsidian",
     "id": "diego-sigma/the-agency",
     "language": "Shell",
@@ -439,14 +448,5 @@
     "stars": 4617,
     "updated_at": "2026-05-30T20:16:12Z",
     "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "Claude plugin for agentic spec driven development",
-    "id": "guygrigsby/claude-plugins",
-    "language": "TypeScript",
-    "name": "guygrigsby/claude-plugins",
-    "stars": 0,
-    "updated_at": "2026-05-30T19:05:16Z",
-    "url": "https://github.com/guygrigsby/claude-plugins"
   }
 ]
