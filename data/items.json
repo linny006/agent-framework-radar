@@ -1,11 +1,38 @@
 [
   {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4617,
+    "updated_at": "2026-05-30T18:25:18Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "\ud83e\udd16 Multi-Agent Roundtable Engine / \u591a Agent \u5706\u684c\u8ba8\u8bba\u5f15\u64ce \u00b7 Structured discussions \u00b7 Consensus tracking \u00b7 Python \u00b7 Zero dependenc",
+    "id": "MoyuFamily/agent-roundtable",
+    "language": "Python",
+    "name": "MoyuFamily/agent-roundtable",
+    "stars": 1,
+    "updated_at": "2026-05-30T18:16:04Z",
+    "url": "https://github.com/MoyuFamily/agent-roundtable"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Autonomous AI agent runtime \u2014 TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co",
     "id": "erayendes/kortext",
     "language": "HTML",
     "name": "erayendes/kortext",
     "stars": 0,
-    "updated_at": "2026-05-30T18:14:38Z",
+    "updated_at": "2026-05-30T18:18:24Z",
     "url": "https://github.com/erayendes/kortext"
   },
   {
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 16,
-    "updated_at": "2026-05-30T18:06:35Z",
+    "updated_at": "2026-05-30T18:27:27Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T18:00:50Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
@@ -423,30 +441,12 @@
     "url": "https://github.com/Studnicky/Dagonizer"
   },
   {
-    "description": "Plan-deterministic agent runtime. Schema-validated execution contracts, bounded tool invocation, blast-radius policy enf",
+    "description": "Unified plan-deterministic AI operating system layer. Integrates the APEX execution engine, pre-execution safety contrac",
     "id": "axiom-llc/axiom",
     "language": "Python",
     "name": "axiom-llc/axiom",
     "stars": 2,
     "updated_at": "2026-05-30T17:48:38Z",
     "url": "https://github.com/axiom-llc/axiom"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-05-30T17:48:19Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-05-30T17:47:04Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
