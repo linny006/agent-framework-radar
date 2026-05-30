@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\udd16 Build AI agents with Go featuring multi-agent orchestration, planning, tool use, and support for Gemini, OpenAI, Anthr",
+    "id": "Luiz184/gokin-sdk",
+    "language": "Go",
+    "name": "Luiz184/gokin-sdk",
+    "stars": 1,
+    "updated_at": "2026-05-30T17:19:08Z",
+    "url": "https://github.com/Luiz184/gokin-sdk"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 8,
+    "updated_at": "2026-05-30T17:17:03Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
+    "id": "MarlBurroW/kinbot",
+    "language": "TypeScript",
+    "name": "MarlBurroW/kinbot",
+    "stars": 42,
+    "updated_at": "2026-05-30T17:17:00Z",
+    "url": "https://github.com/MarlBurroW/kinbot"
+  },
+  {
+    "description": "Plan-deterministic agent runtime. Schema-validated execution contracts, bounded tool invocation, blast-radius policy enf",
+    "id": "axiom-llc/axiom",
+    "language": "Python",
+    "name": "axiom-llc/axiom",
+    "stars": 2,
+    "updated_at": "2026-05-30T17:17:00Z",
+    "url": "https://github.com/axiom-llc/axiom"
+  },
+  {
+    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
+    "id": "tareksyria/SREAgents",
+    "language": "JavaScript",
+    "name": "tareksyria/SREAgents",
+    "stars": 1,
+    "updated_at": "2026-05-30T17:16:48Z",
+    "url": "https://github.com/tareksyria/SREAgents"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T17:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -126,15 +180,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T17:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
     "id": "kaydenplayZ/agent-skills-guide",
     "language": "\u2014",
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T16:57:02Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Plan-deterministic agent runtime. Schema-validated execution contracts, bounded tool invocation, blast-radius policy enf",
-    "id": "axiom-llc/axiom",
-    "language": "Python",
-    "name": "axiom-llc/axiom",
-    "stars": 2,
-    "updated_at": "2026-05-30T16:56:11Z",
-    "url": "https://github.com/axiom-llc/axiom"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "openlegion-ai/openlegion",
     "stars": 98,
-    "updated_at": "2026-05-30T17:11:50Z",
+    "updated_at": "2026-05-30T17:18:03Z",
     "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
@@ -319,7 +355,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 14519,
+    "stars": 14523,
     "updated_at": "2026-05-30T16:13:33Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -409,44 +445,8 @@
     "id": "NirDiamant/agents-towards-production",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/agents-towards-production",
-    "stars": 20541,
+    "stars": 20542,
     "updated_at": "2026-05-30T15:39:44Z",
     "url": "https://github.com/NirDiamant/agents-towards-production"
-  },
-  {
-    "description": "Agent SDK, CLI, Claw, Platform in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 1,
-    "updated_at": "2026-05-30T15:37:54Z",
-    "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
-    "id": "hoangtuanhehehehhe/AgentVault",
-    "language": "Python",
-    "name": "hoangtuanhehehehhe/AgentVault",
-    "stars": 8,
-    "updated_at": "2026-05-30T15:32:49Z",
-    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framersai/agentos",
-    "language": "TypeScript",
-    "name": "framersai/agentos",
-    "stars": 559,
-    "updated_at": "2026-05-30T15:27:00Z",
-    "url": "https://github.com/framersai/agentos"
-  },
-  {
-    "description": "Partner AI Agent Runtime",
-    "id": "slhaf/Partner",
-    "language": "Java",
-    "name": "slhaf/Partner",
-    "stars": 1,
-    "updated_at": "2026-05-30T15:26:26Z",
-    "url": "https://github.com/slhaf/Partner"
   }
 ]
