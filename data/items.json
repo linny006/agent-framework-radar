@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-05-30T07:44:12Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-05-30T07:43:32Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "The system that knows itself through each other. Conservation spectral framework, agent-native language, PLATO rooms, FL",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 3,
+    "updated_at": "2026-05-30T07:42:27Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1220,
+    "updated_at": "2026-05-30T07:38:50Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "",
+    "id": "envergadcr/ai-video-workflow",
+    "language": "Python",
+    "name": "envergadcr/ai-video-workflow",
+    "stars": 1,
+    "updated_at": "2026-05-30T07:36:55Z",
+    "url": "https://github.com/envergadcr/ai-video-workflow"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-30T07:36:44Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\ud83e\udde0 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool",
+    "id": "Niranjan-008/Agentic-Decision-Cell",
+    "language": "Python",
+    "name": "Niranjan-008/Agentic-Decision-Cell",
+    "stars": 0,
+    "updated_at": "2026-05-30T07:36:21Z",
+    "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-30T07:35:35Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 58,
+    "updated_at": "2026-05-30T07:35:35Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-05-30T07:34:23Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 0,
+    "updated_at": "2026-05-30T07:33:08Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T07:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
     "id": "q-j0k/sprintloop-orchestration",
     "language": "\u2014",
@@ -34,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-05-30T07:19:19Z",
     "url": "https://github.com/opencue/claude-code-skills"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 58,
-    "updated_at": "2026-05-30T07:19:16Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T07:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -95,7 +185,7 @@
     "language": "Rust",
     "name": "vamsiramakrishnan/gemini-rs",
     "stars": 2,
-    "updated_at": "2026-05-30T07:17:38Z",
+    "updated_at": "2026-05-30T07:39:46Z",
     "url": "https://github.com/vamsiramakrishnan/gemini-rs"
   },
   {
@@ -106,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T06:54:06Z",
     "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
-  },
-  {
-    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1220,
-    "updated_at": "2026-05-30T07:16:19Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
   },
   {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 cron \u00b7 heartbeat \u00b7 sk",
@@ -139,7 +220,7 @@
     "id": "Krako-Labs/KORA",
     "language": "Python",
     "name": "Krako-Labs/KORA",
-    "stars": 9,
+    "stars": 11,
     "updated_at": "2026-05-30T06:46:25Z",
     "url": "https://github.com/Krako-Labs/KORA"
   },
@@ -266,7 +347,7 @@
     "language": "Python",
     "name": "darenr/cortex",
     "stars": 2,
-    "updated_at": "2026-05-30T06:11:17Z",
+    "updated_at": "2026-05-30T07:41:46Z",
     "url": "https://github.com/darenr/cortex"
   },
   {
@@ -283,7 +364,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 14150,
+    "stars": 14163,
     "updated_at": "2026-05-30T06:03:12Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -304,15 +385,6 @@
     "stars": 16,
     "updated_at": "2026-05-30T06:00:00Z",
     "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-30T07:23:34Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T05:29:11Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:28:57Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins",
-    "id": "Doubleedged-capitaloftennessee462/agentswift",
-    "language": "\u2014",
-    "name": "Doubleedged-capitaloftennessee462/agentswift",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:26:50Z",
-    "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:26:35Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 1,
-    "updated_at": "2026-05-30T05:26:35Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:24:12Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:23:47Z",
-    "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:23:41Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:23:20Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
   }
 ]
