@@ -1,11 +1,29 @@
 [
   {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6292,
+    "updated_at": "2026-05-30T18:30:36Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
     "id": "ag2ai/ag2",
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4617,
-    "updated_at": "2026-05-30T18:25:18Z",
+    "updated_at": "2026-05-30T18:36:44Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-05-30T18:16:04Z",
     "url": "https://github.com/MoyuFamily/agent-roundtable"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autonomous AI agent runtime \u2014 TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-05-30T17:50:54Z",
     "url": "https://github.com/Studnicky/Dagonizer"
-  },
-  {
-    "description": "Unified plan-deterministic AI operating system layer. Integrates the APEX execution engine, pre-execution safety contrac",
-    "id": "axiom-llc/axiom",
-    "language": "Python",
-    "name": "axiom-llc/axiom",
-    "stars": 2,
-    "updated_at": "2026-05-30T17:48:38Z",
-    "url": "https://github.com/axiom-llc/axiom"
   }
 ]
