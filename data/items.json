@@ -1,12 +1,30 @@
 [
   {
+    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
+    "id": "jaylfc/tinyagentos",
+    "language": "Python",
+    "name": "jaylfc/tinyagentos",
+    "stars": 180,
+    "updated_at": "2026-05-30T19:00:11Z",
+    "url": "https://github.com/jaylfc/tinyagentos"
+  },
+  {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
     "id": "Deep-CodeAI/Agents.KT",
     "language": "Kotlin",
     "name": "Deep-CodeAI/Agents.KT",
     "stars": 7,
-    "updated_at": "2026-05-30T18:45:06Z",
+    "updated_at": "2026-05-30T18:54:18Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An AI engineering team for your projects, powered by Claude Code and Obsidian",
@@ -36,15 +54,6 @@
     "url": "https://github.com/guygrigsby/claude-plugins"
   },
   {
-    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
-    "id": "jaylfc/tinyagentos",
-    "language": "Python",
-    "name": "jaylfc/tinyagentos",
-    "stars": 180,
-    "updated_at": "2026-05-30T18:41:24Z",
-    "url": "https://github.com/jaylfc/tinyagentos"
-  },
-  {
     "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
     "id": "MarlBurroW/kinbot",
     "language": "TypeScript",
@@ -52,15 +61,6 @@
     "stars": 42,
     "updated_at": "2026-05-30T18:39:32Z",
     "url": "https://github.com/MarlBurroW/kinbot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:37:17Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
@@ -77,7 +77,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4617,
-    "updated_at": "2026-05-30T18:36:44Z",
+    "updated_at": "2026-05-30T18:57:04Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -131,7 +131,7 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 16,
-    "updated_at": "2026-05-30T18:27:27Z",
+    "updated_at": "2026-05-30T18:49:43Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -364,7 +364,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3432,
+    "stars": 3433,
     "updated_at": "2026-05-30T17:54:58Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },

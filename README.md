@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-30 18:45 UTC
+> ⏰ Last updated: 2026-05-30 19:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Deep-CodeAI/Agents.KT](https://github.com/Deep-CodeAI/Agents.KT) | 7 | Kotlin | 2026-05-30 | Typed Kotlin DSL framework for AI agent systems. |
-| 2 | [diego-sigma/the-agency](https://github.com/diego-sigma/the-agency) | 0 | Shell | 2026-05-30 | An AI engineering team for your projects, powered by Claude Code and Obsidian |
-| 3 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-05-30 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 4 | [guygrigsby/claude-plugins](https://github.com/guygrigsby/claude-plugins) | 0 | TypeScript | 2026-05-30 | Claude plugin for agentic spec driven development |
-| 5 | [jaylfc/tinyagentos](https://github.com/jaylfc/tinyagentos) | 180 | Python | 2026-05-30 | Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry  |
-| 6 | [MarlBurroW/kinbot](https://github.com/MarlBurroW/kinbot) | 42 | TypeScript | 2026-05-30 | Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud |
-| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-30 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [jaylfc/tinyagentos](https://github.com/jaylfc/tinyagentos) | 180 | Python | 2026-05-30 | Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry  |
+| 2 | [Deep-CodeAI/Agents.KT](https://github.com/Deep-CodeAI/Agents.KT) | 7 | Kotlin | 2026-05-30 | Typed Kotlin DSL framework for AI agent systems. |
+| 3 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-05-30 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 4 | [diego-sigma/the-agency](https://github.com/diego-sigma/the-agency) | 0 | Shell | 2026-05-30 | An AI engineering team for your projects, powered by Claude Code and Obsidian |
+| 5 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-05-30 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 6 | [guygrigsby/claude-plugins](https://github.com/guygrigsby/claude-plugins) | 0 | TypeScript | 2026-05-30 | Claude plugin for agentic spec driven development |
+| 7 | [MarlBurroW/kinbot](https://github.com/MarlBurroW/kinbot) | 42 | TypeScript | 2026-05-30 | Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud |
 | 8 | [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6292 | TypeScript | 2026-05-30 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration. |
 | 9 | [ag2ai/ag2](https://github.com/ag2ai/ag2) | 4617 | Python | 2026-05-30 | AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x |
 | 10 | [MoyuFamily/agent-roundtable](https://github.com/MoyuFamily/agent-roundtable) | 1 | Python | 2026-05-30 | 🤖 Multi-Agent Roundtable Engine / 多 Agent 圆桌讨论引擎 · Structured discussions · Consensus tracking · Python · Zero dependenc |
@@ -82,7 +82,7 @@ expired items removed — so you can rely on what you see being current.
 | 38 | [Tamang4607/rustyhand](https://github.com/Tamang4607/rustyhand) | 1 | Rust | 2026-05-30 | Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase |
 | 39 | [Charlesfrederickmenningerdateplum166/agent-memory-daemon](https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon) | 1 | TypeScript | 2026-05-30 | Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro |
 | 40 | [ItsProGamer974/oh-my-codex](https://github.com/ItsProGamer974/oh-my-codex) | 1 | TypeScript | 2026-05-30 | Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects |
-| 41 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 3432 | Python | 2026-05-30 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
+| 41 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 3433 | Python | 2026-05-30 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
 | 42 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 64 | TypeScript | 2026-05-30 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
 | 43 | [photoconductive-bhaga880/AutoHarness](https://github.com/photoconductive-bhaga880/AutoHarness) | 0 | — | 2026-05-30 | Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res |
 | 44 | [vmy41/agent-harness](https://github.com/vmy41/agent-harness) | 1 | — | 2026-05-30 | Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered |
