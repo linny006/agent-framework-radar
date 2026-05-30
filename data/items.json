@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 5,
-    "updated_at": "2026-05-29T23:58:47Z",
+    "updated_at": "2026-05-30T00:13:16Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-30T00:11:37Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-30T00:04:27Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T00:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
@@ -36,15 +63,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:47:47Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 2,
-    "updated_at": "2026-05-29T23:37:43Z",
+    "updated_at": "2026-05-30T00:07:16Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -315,15 +333,6 @@
     "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-29T23:44:00Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
     "id": "Daiseyvisible752/Design-Pattern-Cli",
     "language": "Jinja",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T23:15:32Z",
     "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Connect WeChat messages to local AI coding agents like Codex, OpenCode, and Claude Code for fast task handling and file ",
-    "id": "arthursou0512/wechat-agent-channel",
-    "language": "Python",
-    "name": "arthursou0512/wechat-agent-channel",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:15:00Z",
-    "url": "https://github.com/arthursou0512/wechat-agent-channel"
   }
 ]
