@@ -1,11 +1,101 @@
 [
   {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-05-30T19:14:58Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framersai/agentos",
+    "language": "TypeScript",
+    "name": "framersai/agentos",
+    "stars": 559,
+    "updated_at": "2026-05-30T19:14:59Z",
+    "url": "https://github.com/framersai/agentos"
+  },
+  {
+    "description": "An AI engineering team for your projects, powered by Claude Code and Obsidian",
+    "id": "diego-sigma/the-agency",
+    "language": "Shell",
+    "name": "diego-sigma/the-agency",
+    "stars": 0,
+    "updated_at": "2026-05-30T19:12:50Z",
+    "url": "https://github.com/diego-sigma/the-agency"
+  },
+  {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 8,
+    "updated_at": "2026-05-30T19:12:18Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
+    "description": "A from-scratch agentic loop that runs in your terminal: Claude streams tokens, calls tools, and a Docker container runs ",
+    "id": "darenr/cortex",
+    "language": "Python",
+    "name": "darenr/cortex",
+    "stars": 3,
+    "updated_at": "2026-05-30T19:10:49Z",
+    "url": "https://github.com/darenr/cortex"
+  },
+  {
+    "description": "The unified APEX core engine: a plan-deterministic execution kernel, pre-execution safety contracts, in-process RAG, and",
+    "id": "axiom-llc/axiom",
+    "language": "Python",
+    "name": "axiom-llc/axiom",
+    "stars": 2,
+    "updated_at": "2026-05-30T19:10:20Z",
+    "url": "https://github.com/axiom-llc/axiom"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fDecision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit",
+    "id": "ucsandman/DashClaw",
+    "language": "JavaScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 269,
+    "updated_at": "2026-05-30T19:10:15Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4617,
+    "updated_at": "2026-05-30T19:05:32Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Claude plugin for agentic spec driven development",
+    "id": "guygrigsby/claude-plugins",
+    "language": "TypeScript",
+    "name": "guygrigsby/claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-05-30T19:05:16Z",
+    "url": "https://github.com/guygrigsby/claude-plugins"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T19:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
     "id": "jaylfc/tinyagentos",
     "language": "Python",
     "name": "jaylfc/tinyagentos",
     "stars": 180,
-    "updated_at": "2026-05-30T19:00:11Z",
+    "updated_at": "2026-05-30T19:12:45Z",
     "url": "https://github.com/jaylfc/tinyagentos"
   },
   {
@@ -14,26 +104,8 @@
     "language": "Kotlin",
     "name": "Deep-CodeAI/Agents.KT",
     "stars": 7,
-    "updated_at": "2026-05-30T18:54:18Z",
+    "updated_at": "2026-05-30T19:00:42Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "An AI engineering team for your projects, powered by Claude Code and Obsidian",
-    "id": "diego-sigma/the-agency",
-    "language": "Shell",
-    "name": "diego-sigma/the-agency",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:44:44Z",
-    "url": "https://github.com/diego-sigma/the-agency"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T18:43:34Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Claude plugin for agentic spec driven development",
-    "id": "guygrigsby/claude-plugins",
-    "language": "TypeScript",
-    "name": "guygrigsby/claude-plugins",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:43:09Z",
-    "url": "https://github.com/guygrigsby/claude-plugins"
   },
   {
     "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
@@ -72,13 +135,13 @@
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
+    "id": "evalstate/fast-agent",
     "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4617,
-    "updated_at": "2026-05-30T18:57:04Z",
-    "url": "https://github.com/ag2ai/ag2"
+    "name": "evalstate/fast-agent",
+    "stars": 3798,
+    "updated_at": "2026-05-30T18:22:25Z",
+    "url": "https://github.com/evalstate/fast-agent"
   },
   {
     "description": "\ud83e\udd16 Multi-Agent Roundtable Engine / \u591a Agent \u5706\u684c\u8ba8\u8bba\u5f15\u64ce \u00b7 Structured discussions \u00b7 Consensus tracking \u00b7 Python \u00b7 Zero dependenc",
@@ -104,7 +167,7 @@
     "language": "MDX",
     "name": "Prompthon-IO/agent-systems-handbook",
     "stars": 238,
-    "updated_at": "2026-05-30T18:12:38Z",
+    "updated_at": "2026-05-30T19:12:13Z",
     "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
   },
   {
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 16,
-    "updated_at": "2026-05-30T18:49:43Z",
+    "updated_at": "2026-05-30T19:05:47Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -364,7 +427,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3433,
+    "stars": 3434,
     "updated_at": "2026-05-30T17:54:58Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T17:54:25Z",
     "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-05-30T17:54:11Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-05-30T17:53:55Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-05-30T17:53:52Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-05-30T17:53:36Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-05-30T17:53:02Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1581,
-    "updated_at": "2026-05-30T17:52:55Z",
-    "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-05-30T17:51:26Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
   }
 ]
