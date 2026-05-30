@@ -1,21 +1,39 @@
 [
   {
+    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 5,
+    "updated_at": "2026-05-30T03:30:06Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 20,
+    "updated_at": "2026-05-30T03:29:46Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
+    "id": "PiloTracer/.ai",
+    "language": "Shell",
+    "name": "PiloTracer/.ai",
+    "stars": 0,
+    "updated_at": "2026-05-30T03:28:33Z",
+    "url": "https://github.com/PiloTracer/.ai"
+  },
+  {
     "description": "Zero-dep Agent Library. git clone. No server. No deps.           ",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
     "stars": 56,
-    "updated_at": "2026-05-30T03:13:38Z",
+    "updated_at": "2026-05-30T03:28:29Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 3360,
-    "updated_at": "2026-05-30T03:12:55Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
@@ -23,8 +41,62 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 123,
-    "updated_at": "2026-05-30T03:11:20Z",
+    "updated_at": "2026-05-30T03:23:40Z",
     "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Self-improving AI agents that run 24/7 on Claude Code. Discord, Telegram, Slack. One command setup.",
+    "id": "sentoagent/sento",
+    "language": "JavaScript",
+    "name": "sentoagent/sento",
+    "stars": 5,
+    "updated_at": "2026-05-30T03:23:01Z",
+    "url": "https://github.com/sentoagent/sento"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-05-30T03:22:16Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-05-30T03:21:13Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 13954,
+    "updated_at": "2026-05-30T03:16:52Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T03:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3361,
+    "updated_at": "2026-05-30T03:12:55Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -36,33 +108,6 @@
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
   },
   {
-    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 5,
-    "updated_at": "2026-05-30T03:06:28Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "TypeScript",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 13935,
-    "updated_at": "2026-05-30T03:05:20Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
-    "id": "PiloTracer/.ai",
-    "language": "Shell",
-    "name": "PiloTracer/.ai",
-    "stars": 0,
-    "updated_at": "2026-05-30T03:03:26Z",
-    "url": "https://github.com/PiloTracer/.ai"
-  },
-  {
     "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
     "id": "fuseraft/fuseraft-cli",
     "language": "C#",
@@ -70,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-05-30T03:03:19Z",
     "url": "https://github.com/fuseraft/fuseraft-cli"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T03:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T02:38:05Z",
     "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-05-30T02:36:51Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-30T02:36:36Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Build self-spawning AI agents from tasks with distributed memory, guardrails, and a fossil record.",
-    "id": "karunun4659/spawnverse",
-    "language": "\u2014",
-    "name": "karunun4659/spawnverse",
-    "stars": 0,
-    "updated_at": "2026-05-30T02:36:02Z",
-    "url": "https://github.com/karunun4659/spawnverse"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-05-30T02:36:00Z",
-    "url": "https://github.com/Messa8301/quickbench"
   }
 ]
