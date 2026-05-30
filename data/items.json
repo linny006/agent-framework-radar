@@ -1,5 +1,86 @@
 [
   {
+    "description": "Zero-dep Agent Library. git clone. No server. No deps.           ",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 56,
+    "updated_at": "2026-05-30T03:13:38Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3360,
+    "updated_at": "2026-05-30T03:12:55Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 123,
+    "updated_at": "2026-05-30T03:11:20Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 8,
+    "updated_at": "2026-05-30T03:11:05Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
+    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 5,
+    "updated_at": "2026-05-30T03:06:28Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 13935,
+    "updated_at": "2026-05-30T03:05:20Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
+    "id": "PiloTracer/.ai",
+    "language": "Shell",
+    "name": "PiloTracer/.ai",
+    "stars": 0,
+    "updated_at": "2026-05-30T03:03:26Z",
+    "url": "https://github.com/PiloTracer/.ai"
+  },
+  {
+    "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
+    "id": "fuseraft/fuseraft-cli",
+    "language": "C#",
+    "name": "fuseraft/fuseraft-cli",
+    "stars": 2,
+    "updated_at": "2026-05-30T03:03:19Z",
+    "url": "https://github.com/fuseraft/fuseraft-cli"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T03:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
     "id": "sheawinkler/ContextLattice",
     "language": "Go",
@@ -70,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T02:50:24Z",
     "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "TypeScript",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 13922,
-    "updated_at": "2026-05-30T02:48:27Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
@@ -180,15 +252,6 @@
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T02:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
     "id": "berrettabadger966/genesis-pantheon",
     "language": "Python",
@@ -270,15 +333,6 @@
     "url": "https://github.com/Thuso030703/open-claude"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 3358,
-    "updated_at": "2026-05-30T02:44:53Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
     "id": "Sammyblear596/open-agent-sdk-go",
     "language": "Go",
@@ -286,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-05-30T02:42:15Z",
     "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
-    "id": "PiloTracer/.ai",
-    "language": "Shell",
-    "name": "PiloTracer/.ai",
-    "stars": 0,
-    "updated_at": "2026-05-30T02:41:19Z",
-    "url": "https://github.com/PiloTracer/.ai"
   },
   {
     "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T02:36:00Z",
     "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Connect WeChat messages to local AI coding agents like Codex, OpenCode, and Claude Code for fast task handling and file ",
-    "id": "arthursou0512/wechat-agent-channel",
-    "language": "Python",
-    "name": "arthursou0512/wechat-agent-channel",
-    "stars": 0,
-    "updated_at": "2026-05-30T02:35:27Z",
-    "url": "https://github.com/arthursou0512/wechat-agent-channel"
-  },
-  {
-    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 5,
-    "updated_at": "2026-05-30T03:00:13Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Build AI agents with memory using three markdown files and a git repo; no framework, no database, works with any coding ",
-    "id": "Nurrachm6921/agent-kernel",
-    "language": "\u2014",
-    "name": "Nurrachm6921/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-05-30T02:34:48Z",
-    "url": "https://github.com/Nurrachm6921/agent-kernel"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 0,
-    "updated_at": "2026-05-30T02:34:13Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 126,
-    "updated_at": "2026-05-30T02:33:34Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   }
 ]
