@@ -1,12 +1,84 @@
 [
   {
-    "description": "Agent Intent Protocol - Jin makes the human internet for agents legible",
-    "id": "meetjin/jin",
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-05-30T13:28:04Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
     "language": "TypeScript",
-    "name": "meetjin/jin",
-    "stars": 1,
-    "updated_at": "2026-05-30T13:14:30Z",
-    "url": "https://github.com/meetjin/jin"
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-30T13:24:46Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 0,
+    "updated_at": "2026-05-30T13:23:03Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 0,
+    "updated_at": "2026-05-30T13:22:16Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "TypeScript",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 14390,
+    "updated_at": "2026-05-30T13:21:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
+    "id": "BrettMGoughWork/vai-core",
+    "language": "Python",
+    "name": "BrettMGoughWork/vai-core",
+    "stars": 2,
+    "updated_at": "2026-05-30T13:20:14Z",
+    "url": "https://github.com/BrettMGoughWork/vai-core"
+  },
+  {
+    "description": "Oracle Generative AI Multi Agent Reasoning Orchestrator",
+    "id": "oracle-samples/locus",
+    "language": "Python",
+    "name": "oracle-samples/locus",
+    "stars": 16,
+    "updated_at": "2026-05-30T13:18:21Z",
+    "url": "https://github.com/oracle-samples/locus"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framersai/agentos",
+    "language": "TypeScript",
+    "name": "framersai/agentos",
+    "stars": 559,
+    "updated_at": "2026-05-30T13:17:48Z",
+    "url": "https://github.com/framersai/agentos"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-30T13:16:19Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +86,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-30T13:11:21Z",
+    "updated_at": "2026-05-30T13:15:23Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Agent Intent Protocol - Jin makes the human internet for agents legible",
+    "id": "meetjin/jin",
+    "language": "TypeScript",
+    "name": "meetjin/jin",
+    "stars": 1,
+    "updated_at": "2026-05-30T13:14:30Z",
+    "url": "https://github.com/meetjin/jin"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -43,33 +124,6 @@
     "stars": 12,
     "updated_at": "2026-05-30T13:10:18Z",
     "url": "https://github.com/Krako-Labs/KORA"
-  },
-  {
-    "description": "Oracle Generative AI Multi Agent Reasoning Orchestrator",
-    "id": "oracle-samples/locus",
-    "language": "Python",
-    "name": "oracle-samples/locus",
-    "stars": 16,
-    "updated_at": "2026-05-30T13:08:59Z",
-    "url": "https://github.com/oracle-samples/locus"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-30T13:12:34Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
-    "id": "BrettMGoughWork/vai-core",
-    "language": "Python",
-    "name": "BrettMGoughWork/vai-core",
-    "stars": 2,
-    "updated_at": "2026-05-30T13:00:54Z",
-    "url": "https://github.com/BrettMGoughWork/vai-core"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -169,15 +223,6 @@
     "stars": 5,
     "updated_at": "2026-05-30T12:17:54Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "TypeScript",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 14382,
-    "updated_at": "2026-05-30T12:15:22Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-30T11:31:38Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:31:28Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:30:59Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:30:54Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:30:41Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-05-30T11:30:08Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
   }
 ]
