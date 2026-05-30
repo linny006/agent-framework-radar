@@ -1,12 +1,57 @@
 [
   {
-    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
-    "id": "open-multi-agent/open-multi-agent",
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 7,
+    "updated_at": "2026-05-30T18:45:06Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
+    "description": "An AI engineering team for your projects, powered by Claude Code and Obsidian",
+    "id": "diego-sigma/the-agency",
+    "language": "Shell",
+    "name": "diego-sigma/the-agency",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:44:44Z",
+    "url": "https://github.com/diego-sigma/the-agency"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:43:34Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Claude plugin for agentic spec driven development",
+    "id": "guygrigsby/claude-plugins",
     "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6292,
-    "updated_at": "2026-05-30T18:30:36Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
+    "name": "guygrigsby/claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:43:09Z",
+    "url": "https://github.com/guygrigsby/claude-plugins"
+  },
+  {
+    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
+    "id": "jaylfc/tinyagentos",
+    "language": "Python",
+    "name": "jaylfc/tinyagentos",
+    "stars": 180,
+    "updated_at": "2026-05-30T18:41:24Z",
+    "url": "https://github.com/jaylfc/tinyagentos"
+  },
+  {
+    "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
+    "id": "MarlBurroW/kinbot",
+    "language": "TypeScript",
+    "name": "MarlBurroW/kinbot",
+    "stars": 42,
+    "updated_at": "2026-05-30T18:39:32Z",
+    "url": "https://github.com/MarlBurroW/kinbot"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-30T18:30:24Z",
+    "updated_at": "2026-05-30T18:37:17Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6292,
+    "updated_at": "2026-05-30T18:30:36Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -45,6 +99,15 @@
     "url": "https://github.com/erayendes/kortext"
   },
   {
+    "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
+    "id": "Prompthon-IO/agent-systems-handbook",
+    "language": "MDX",
+    "name": "Prompthon-IO/agent-systems-handbook",
+    "stars": 238,
+    "updated_at": "2026-05-30T18:12:38Z",
+    "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -52,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-05-30T18:11:52Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Claude plugin for agentic spec driven development",
-    "id": "guygrigsby/claude-plugins",
-    "language": "TypeScript",
-    "name": "guygrigsby/claude-plugins",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:11:45Z",
-    "url": "https://github.com/guygrigsby/claude-plugins"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T18:04:52Z",
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "An AI engineering team for your projects, powered by Claude Code and Obsidian",
-    "id": "diego-sigma/the-agency",
-    "language": "Shell",
-    "name": "diego-sigma/the-agency",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:02:57Z",
-    "url": "https://github.com/diego-sigma/the-agency"
   },
   {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
@@ -319,7 +364,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3431,
+    "stars": 3432,
     "updated_at": "2026-05-30T17:54:58Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T17:51:26Z",
     "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-05-30T17:50:33Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-30T17:50:15Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-30T17:49:24Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 0,
-    "updated_at": "2026-05-30T17:48:55Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
-    "id": "Studnicky/Dagonizer",
-    "language": "TypeScript",
-    "name": "Studnicky/Dagonizer",
-    "stars": 2,
-    "updated_at": "2026-05-30T17:50:54Z",
-    "url": "https://github.com/Studnicky/Dagonizer"
   }
 ]
