@@ -1,12 +1,21 @@
 [
   {
-    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
-    "id": "sheawinkler/ContextLattice",
+    "description": "\u5f00\u6e90\u81ea\u6258\u7ba1 AI Agent \u2014 Go + Rust + provider-agnostic | Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness",
+    "id": "polarisagi/polarisagi-harness",
     "language": "Go",
-    "name": "sheawinkler/ContextLattice",
-    "stars": 108,
-    "updated_at": "2026-05-30T21:45:16Z",
-    "url": "https://github.com/sheawinkler/ContextLattice"
+    "name": "polarisagi/polarisagi-harness",
+    "stars": 1,
+    "updated_at": "2026-05-30T21:54:32Z",
+    "url": "https://github.com/polarisagi/polarisagi-harness"
+  },
+  {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 8,
+    "updated_at": "2026-05-30T21:53:14Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
     "description": "NERV \u2014 Invisible engineering infrastructure for AI agents. Project scaffolding (Geofront), persistent semantic memory (M",
@@ -14,8 +23,71 @@
     "language": "Python",
     "name": "juanmanueldaza/nerv",
     "stars": 1,
-    "updated_at": "2026-05-30T21:44:45Z",
+    "updated_at": "2026-05-30T21:52:18Z",
     "url": "https://github.com/juanmanueldaza/nerv"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-30T21:50:44Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-30T21:48:54Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 0,
+    "updated_at": "2026-05-30T21:48:53Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
+    "id": "Jovancoding/Network-AI",
+    "language": "TypeScript",
+    "name": "Jovancoding/Network-AI",
+    "stars": 57,
+    "updated_at": "2026-05-30T21:48:50Z",
+    "url": "https://github.com/Jovancoding/Network-AI"
+  },
+  {
+    "description": "A Rust execution runtime that governs what AI agents can do: ed25519-signed capability writs, effect-ceiling enforcement",
+    "id": "gryszzz/open-thymos",
+    "language": "Rust",
+    "name": "gryszzz/open-thymos",
+    "stars": 13,
+    "updated_at": "2026-05-30T21:54:06Z",
+    "url": "https://github.com/gryszzz/open-thymos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T21:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
+    "id": "sheawinkler/ContextLattice",
+    "language": "Go",
+    "name": "sheawinkler/ContextLattice",
+    "stars": 108,
+    "updated_at": "2026-05-30T21:45:16Z",
+    "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -27,15 +99,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "A Rust execution runtime that governs what AI agents can do: ed25519-signed capability writs, effect-ceiling enforcement",
-    "id": "gryszzz/open-thymos",
-    "language": "Rust",
-    "name": "gryszzz/open-thymos",
-    "stars": 13,
-    "updated_at": "2026-05-30T21:44:36Z",
-    "url": "https://github.com/gryszzz/open-thymos"
-  },
-  {
     "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
     "id": "dhaupin/vant",
     "language": "JavaScript",
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-05-30T21:40:53Z",
     "url": "https://github.com/dhaupin/vant"
-  },
-  {
-    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
-    "id": "Jovancoding/Network-AI",
-    "language": "TypeScript",
-    "name": "Jovancoding/Network-AI",
-    "stars": 57,
-    "updated_at": "2026-05-30T21:40:41Z",
-    "url": "https://github.com/Jovancoding/Network-AI"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -88,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-05-30T21:36:20Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "CrewAI crews as AIMEAT.io agents \u2014 a tested scaffold, example crews, and crew-forge: an agent that builds agents.",
-    "id": "miikkij/crewaimeat",
-    "language": "Python",
-    "name": "miikkij/crewaimeat",
-    "stars": 0,
-    "updated_at": "2026-05-30T21:36:11Z",
-    "url": "https://github.com/miikkij/crewaimeat"
   },
   {
     "description": "\ud83d\udee1\ufe0fDecision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit",
@@ -142,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-05-30T21:34:50Z",
     "url": "https://github.com/gabrielvuksani/wotann"
-  },
-  {
-    "description": "\u5f00\u6e90\u81ea\u6258\u7ba1 AI Agent \u2014 Go + Rust + provider-agnostic | Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness",
-    "id": "polarisagi/polarisagi-harness",
-    "language": "Go",
-    "name": "polarisagi/polarisagi-harness",
-    "stars": 1,
-    "updated_at": "2026-05-30T21:34:27Z",
-    "url": "https://github.com/polarisagi/polarisagi-harness"
   },
   {
     "description": "Autonomous AI agent runtime \u2014 TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co",
@@ -268,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-05-30T21:30:48Z",
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T21:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T21:23:48Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
-    "id": "Studnicky/Dagonizer",
-    "language": "TypeScript",
-    "name": "Studnicky/Dagonizer",
-    "stars": 2,
-    "updated_at": "2026-05-30T21:23:13Z",
-    "url": "https://github.com/Studnicky/Dagonizer"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 0,
-    "updated_at": "2026-05-30T21:23:06Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-05-30T21:22:36Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
   }
 ]
