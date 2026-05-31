@@ -1,11 +1,47 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-31T07:11:43Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "",
+    "id": "romainsantoli-web/setup-vs-agent-firm",
+    "language": "Python",
+    "name": "romainsantoli-web/setup-vs-agent-firm",
+    "stars": 0,
+    "updated_at": "2026-05-31T07:11:14Z",
+    "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
+  },
+  {
+    "description": "Experimental autonomous work operating system focused on decision quality, human-AI collaboration, and evidence-driven a",
+    "id": "Viswanath129/gemini-cowork-os",
+    "language": "Python",
+    "name": "Viswanath129/gemini-cowork-os",
+    "stars": 1,
+    "updated_at": "2026-05-31T07:07:57Z",
+    "url": "https://github.com/Viswanath129/gemini-cowork-os"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 1,
+    "updated_at": "2026-05-31T07:02:26Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-31T07:00:22Z",
+    "updated_at": "2026-05-31T07:01:10Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -16,15 +52,6 @@
     "stars": 105,
     "updated_at": "2026-05-31T06:56:44Z",
     "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Experimental autonomous work operating system focused on decision quality, human-AI collaboration, and evidence-driven a",
-    "id": "Viswanath129/gemini-cowork-os",
-    "language": "Python",
-    "name": "Viswanath129/gemini-cowork-os",
-    "stars": 1,
-    "updated_at": "2026-05-31T06:55:53Z",
-    "url": "https://github.com/Viswanath129/gemini-cowork-os"
   },
   {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
@@ -40,7 +67,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "TypeScript",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 14795,
+    "stars": 14798,
     "updated_at": "2026-05-31T06:55:32Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -360,15 +387,6 @@
     "url": "https://github.com/Thuso030703/open-claude"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-31T06:58:43Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
     "id": "Sammyblear596/open-agent-sdk-go",
     "language": "Go",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T06:05:41Z",
     "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-05-31T06:05:07Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-05-31T06:03:54Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
