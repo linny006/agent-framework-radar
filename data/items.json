@@ -1,30 +1,39 @@
 [
   {
-    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
-    "id": "motojinc25/chatwalaau",
-    "language": "Python",
-    "name": "motojinc25/chatwalaau",
-    "stars": 2,
-    "updated_at": "2026-05-31T02:00:00Z",
-    "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "AI-guided onboarding for human-AI collaboration projects",
-    "id": "jkraybill/gordo-forge",
-    "language": "Shell",
-    "name": "jkraybill/gordo-forge",
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
     "stars": 0,
-    "updated_at": "2026-05-31T01:59:01Z",
-    "url": "https://github.com/jkraybill/gordo-forge"
+    "updated_at": "2026-05-31T02:14:44Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
-    "description": "Multi-model adversarial review for catching shared blind spots",
-    "id": "jkraybill/gordo-roundtable",
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
     "language": "TypeScript",
-    "name": "jkraybill/gordo-roundtable",
-    "stars": 1,
-    "updated_at": "2026-05-31T01:58:58Z",
-    "url": "https://github.com/jkraybill/gordo-roundtable"
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-31T02:10:33Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-31T02:09:53Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 0,
+    "updated_at": "2026-05-31T02:09:05Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
@@ -32,7 +41,7 @@
     "language": "JavaScript",
     "name": "dhaupin/vant",
     "stars": 1,
-    "updated_at": "2026-05-31T01:55:54Z",
+    "updated_at": "2026-05-31T02:09:00Z",
     "url": "https://github.com/dhaupin/vant"
   },
   {
@@ -41,8 +50,53 @@
     "language": "Python",
     "name": "Ecro/harness-maker",
     "stars": 2,
-    "updated_at": "2026-05-31T01:54:55Z",
+    "updated_at": "2026-05-31T02:08:42Z",
     "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "AI-guided onboarding for human-AI collaboration projects",
+    "id": "jkraybill/gordo-forge",
+    "language": "Shell",
+    "name": "jkraybill/gordo-forge",
+    "stars": 0,
+    "updated_at": "2026-05-31T02:03:19Z",
+    "url": "https://github.com/jkraybill/gordo-forge"
+  },
+  {
+    "description": "A Rust execution runtime that governs what AI agents can do: ed25519-signed capability writs, effect-ceiling enforcement",
+    "id": "gryszzz/open-thymos",
+    "language": "Rust",
+    "name": "gryszzz/open-thymos",
+    "stars": 13,
+    "updated_at": "2026-05-31T02:14:02Z",
+    "url": "https://github.com/gryszzz/open-thymos"
+  },
+  {
+    "description": "Multi-model adversarial review for catching shared blind spots",
+    "id": "jkraybill/gordo-roundtable",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-roundtable",
+    "stars": 1,
+    "updated_at": "2026-05-31T02:01:30Z",
+    "url": "https://github.com/jkraybill/gordo-roundtable"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T02:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
+    "id": "motojinc25/chatwalaau",
+    "language": "Python",
+    "name": "motojinc25/chatwalaau",
+    "stars": 2,
+    "updated_at": "2026-05-31T02:00:57Z",
+    "url": "https://github.com/motojinc25/chatwalaau"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -90,29 +144,11 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-31T01:51:27Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T01:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3466,
+    "stars": 3467,
     "updated_at": "2026-05-31T01:36:22Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 16,
-    "updated_at": "2026-05-31T01:46:44Z",
+    "updated_at": "2026-05-31T02:07:53Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 3,
-    "updated_at": "2026-05-31T00:49:40Z",
+    "updated_at": "2026-05-31T02:11:42Z",
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
@@ -259,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-05-31T00:39:55Z",
     "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
-  },
-  {
-    "description": "A Rust execution runtime that governs what AI agents can do: ed25519-signed capability writs, effect-ceiling enforcement",
-    "id": "gryszzz/open-thymos",
-    "language": "Rust",
-    "name": "gryszzz/open-thymos",
-    "stars": 13,
-    "updated_at": "2026-05-31T01:57:55Z",
-    "url": "https://github.com/gryszzz/open-thymos"
   },
   {
     "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T00:08:09Z",
     "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:07:46Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Automate software development with an autonomous multi-agent loop using Qwen Code to self-direct, commit, and improve yo",
-    "id": "Danielle6426/Qwen-Loop",
-    "language": "TypeScript",
-    "name": "Danielle6426/Qwen-Loop",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:07:40Z",
-    "url": "https://github.com/Danielle6426/Qwen-Loop"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 1,
-    "updated_at": "2026-05-31T00:07:10Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
   }
 ]
