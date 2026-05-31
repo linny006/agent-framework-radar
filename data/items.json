@@ -1,12 +1,12 @@
 [
   {
-    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 5,
-    "updated_at": "2026-05-31T13:14:38Z",
-    "url": "https://github.com/tya5/reyn"
+    "description": "Curated list of Agent Skills for AI coding agents like Claude Code, Codex and Cursor.",
+    "id": "kodustech/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "kodustech/awesome-agent-skills",
+    "stars": 71,
+    "updated_at": "2026-05-31T13:29:40Z",
+    "url": "https://github.com/kodustech/awesome-agent-skills"
   },
   {
     "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
@@ -14,8 +14,71 @@
     "language": "Python",
     "name": "Krako-Labs/KORA",
     "stars": 13,
-    "updated_at": "2026-05-31T13:12:09Z",
+    "updated_at": "2026-05-31T13:26:44Z",
     "url": "https://github.com/Krako-Labs/KORA"
+  },
+  {
+    "description": "A Rust execution runtime framework that governs what AI agents can do: ed25519-signed capability writs, effect-ceiling e",
+    "id": "gryszzz/open-thymos",
+    "language": "Rust",
+    "name": "gryszzz/open-thymos",
+    "stars": 13,
+    "updated_at": "2026-05-31T13:27:19Z",
+    "url": "https://github.com/gryszzz/open-thymos"
+  },
+  {
+    "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
+    "id": "vzwjustin/advisor",
+    "language": "Python",
+    "name": "vzwjustin/advisor",
+    "stars": 7,
+    "updated_at": "2026-05-31T13:24:32Z",
+    "url": "https://github.com/vzwjustin/advisor"
+  },
+  {
+    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 17 professi",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 1,
+    "updated_at": "2026-05-31T13:22:27Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
+    "id": "wrm3/gald3r",
+    "language": "PowerShell",
+    "name": "wrm3/gald3r",
+    "stars": 17,
+    "updated_at": "2026-05-31T13:16:44Z",
+    "url": "https://github.com/wrm3/gald3r"
+  },
+  {
+    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 5,
+    "updated_at": "2026-05-31T13:16:43Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T13:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 124,
+    "updated_at": "2026-05-31T13:15:23Z",
+    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
@@ -25,15 +88,6 @@
     "stars": 248,
     "updated_at": "2026-05-31T13:10:38Z",
     "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
-  },
-  {
-    "description": "A Rust execution runtime framework that governs what AI agents can do: ed25519-signed capability writs, effect-ceiling e",
-    "id": "gryszzz/open-thymos",
-    "language": "Rust",
-    "name": "gryszzz/open-thymos",
-    "stars": 13,
-    "updated_at": "2026-05-31T13:10:17Z",
-    "url": "https://github.com/gryszzz/open-thymos"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -77,7 +131,7 @@
     "language": "Kotlin",
     "name": "Deep-CodeAI/Agents.KT",
     "stars": 8,
-    "updated_at": "2026-05-31T13:09:17Z",
+    "updated_at": "2026-05-31T13:22:01Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 64,
     "updated_at": "2026-05-31T13:03:53Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T13:01:40Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Deterministic policy language for AI agents. Z3 + TLA+ dual-engine formal verification. Runtime enforcement <1ms.",
@@ -396,24 +441,6 @@
     "url": "https://github.com/monahright467/harness-books"
   },
   {
-    "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
-    "id": "vzwjustin/advisor",
-    "language": "Python",
-    "name": "vzwjustin/advisor",
-    "stars": 7,
-    "updated_at": "2026-05-31T12:33:15Z",
-    "url": "https://github.com/vzwjustin/advisor"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 124,
-    "updated_at": "2026-05-31T12:33:14Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
     "id": "Thuso030703/open-claude",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T12:33:07Z",
     "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-05-31T12:32:36Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "",
-    "id": "quoxai/aee",
-    "language": "\u2014",
-    "name": "quoxai/aee",
-    "stars": 0,
-    "updated_at": "2026-05-31T12:32:15Z",
-    "url": "https://github.com/quoxai/aee"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-05-31T12:30:49Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
   }
 ]
