@@ -1,12 +1,30 @@
 [
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
+    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
+    "id": "motojinc25/chatwalaau",
+    "language": "Python",
+    "name": "motojinc25/chatwalaau",
+    "stars": 2,
+    "updated_at": "2026-05-31T02:00:00Z",
+    "url": "https://github.com/motojinc25/chatwalaau"
+  },
+  {
+    "description": "AI-guided onboarding for human-AI collaboration projects",
+    "id": "jkraybill/gordo-forge",
+    "language": "Shell",
+    "name": "jkraybill/gordo-forge",
+    "stars": 0,
+    "updated_at": "2026-05-31T01:59:01Z",
+    "url": "https://github.com/jkraybill/gordo-forge"
+  },
+  {
+    "description": "Multi-model adversarial review for catching shared blind spots",
+    "id": "jkraybill/gordo-roundtable",
     "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-31T01:42:52Z",
-    "url": "https://github.com/JKHeadley/instar"
+    "name": "jkraybill/gordo-roundtable",
+    "stars": 1,
+    "updated_at": "2026-05-31T01:58:58Z",
+    "url": "https://github.com/jkraybill/gordo-roundtable"
   },
   {
     "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
@@ -14,15 +32,87 @@
     "language": "JavaScript",
     "name": "dhaupin/vant",
     "stars": 1,
-    "updated_at": "2026-05-31T01:40:23Z",
+    "updated_at": "2026-05-31T01:55:54Z",
     "url": "https://github.com/dhaupin/vant"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 2,
+    "updated_at": "2026-05-31T01:54:55Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 1,
+    "updated_at": "2026-05-31T01:54:14Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 0,
+    "updated_at": "2026-05-31T01:52:51Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 0,
+    "updated_at": "2026-05-31T01:52:07Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 5,
+    "updated_at": "2026-05-31T01:49:28Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 21,
+    "updated_at": "2026-05-31T01:49:18Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-31T01:51:27Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T01:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3465,
+    "stars": 3466,
     "updated_at": "2026-05-31T01:36:22Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -45,21 +135,12 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T01:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
     "id": "lightfastai/lightfast",
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 16,
-    "updated_at": "2026-05-31T01:29:19Z",
+    "updated_at": "2026-05-31T01:46:44Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -68,7 +149,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 2,
-    "updated_at": "2026-05-31T01:21:25Z",
+    "updated_at": "2026-05-31T01:48:53Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -88,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-05-31T01:19:27Z",
     "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
-  },
-  {
-    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 5,
-    "updated_at": "2026-05-31T01:39:11Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "\u5f00\u6e90\u81ea\u6258\u7ba1 AI Agent \u2014 Go + Rust + provider-agnostic | Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness",
@@ -133,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-05-31T00:59:50Z",
     "url": "https://github.com/alexxety/agent-engineering-kernel"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 2,
-    "updated_at": "2026-05-31T00:51:24Z",
-    "url": "https://github.com/Ecro/harness-maker"
   },
   {
     "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
@@ -203,7 +266,7 @@
     "language": "Rust",
     "name": "gryszzz/open-thymos",
     "stars": 13,
-    "updated_at": "2026-05-31T00:36:29Z",
+    "updated_at": "2026-05-31T01:57:55Z",
     "url": "https://github.com/gryszzz/open-thymos"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-31T00:07:10Z",
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-05-31T00:05:55Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 1,
-    "updated_at": "2026-05-31T00:05:48Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-05-31T00:05:29Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-05-31T00:05:23Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:04:53Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-05-31T00:04:40Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:04:22Z",
-    "url": "https://github.com/monahright467/harness-books"
   }
 ]
