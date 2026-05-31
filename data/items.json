@@ -1,12 +1,48 @@
 [
   {
-    "description": "Governed CLI for AI agents \u2014 compact semantic operations + verifiable receipt chains. Demonstrated on 80 production-syst",
-    "id": "AblemanMosaic/abletools-lite",
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
     "language": "Python",
-    "name": "AblemanMosaic/abletools-lite",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-05-31T21:00:23Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 8,
+    "updated_at": "2026-05-31T20:56:52Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
+    "description": "Spin up a Claude-powered multi-agent team from one sentence",
+    "id": "Fincard-carda/TeamForge",
+    "language": "Python",
+    "name": "Fincard-carda/TeamForge",
+    "stars": 3,
+    "updated_at": "2026-05-31T20:53:18Z",
+    "url": "https://github.com/Fincard-carda/TeamForge"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-05-31T20:49:21Z",
-    "url": "https://github.com/AblemanMosaic/abletools-lite"
+    "updated_at": "2026-05-31T20:53:17Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
+    "id": "sheawinkler/ContextLattice",
+    "language": "Go",
+    "name": "sheawinkler/ContextLattice",
+    "stars": 108,
+    "updated_at": "2026-05-31T20:59:44Z",
+    "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-05-31T20:45:23Z",
+    "updated_at": "2026-05-31T20:52:07Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Governed CLI for AI agents \u2014 compact semantic operations + verifiable receipt chains. Demonstrated on 80 production-syst",
+    "id": "AblemanMosaic/AbleTools-Lite",
+    "language": "Python",
+    "name": "AblemanMosaic/AbleTools-Lite",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:49:21Z",
+    "url": "https://github.com/AblemanMosaic/AbleTools-Lite"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -133,15 +178,6 @@
     "stars": 110,
     "updated_at": "2026-05-31T20:03:56Z",
     "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-05-31T20:42:46Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-31T19:28:08Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:27:46Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:27:41Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:27:23Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-05-31T19:26:55Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
   }
 ]
