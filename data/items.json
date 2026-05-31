@@ -1,5 +1,95 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 64,
+    "updated_at": "2026-05-31T11:38:46Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-05-31T11:38:13Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "Production-ready Model Context Protocol (MCP) servers in Go. Filesystem, PostgreSQL, Redis, shell, HTTP & Home Assistant",
+    "id": "dimasd-angga/go-mcp-servers",
+    "language": "Go",
+    "name": "dimasd-angga/go-mcp-servers",
+    "stars": 0,
+    "updated_at": "2026-05-31T11:37:29Z",
+    "url": "https://github.com/dimasd-angga/go-mcp-servers"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 0,
+    "updated_at": "2026-05-31T11:36:50Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
+    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
+    "id": "Krako-Labs/KORA",
+    "language": "Python",
+    "name": "Krako-Labs/KORA",
+    "stars": 12,
+    "updated_at": "2026-05-31T11:36:29Z",
+    "url": "https://github.com/Krako-Labs/KORA"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-05-31T11:35:30Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 5,
+    "updated_at": "2026-05-31T11:37:08Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
+    "id": "Arch1eSUN/Moirai",
+    "language": "Python",
+    "name": "Arch1eSUN/Moirai",
+    "stars": 1,
+    "updated_at": "2026-05-31T11:31:07Z",
+    "url": "https://github.com/Arch1eSUN/Moirai"
+  },
+  {
+    "description": "\u5f00\u6e90\u81ea\u6258\u7ba1 AI Agent \u2014 Go + Rust + provider-agnostic | Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness",
+    "id": "polarisagi/polarisagi-harness",
+    "language": "Go",
+    "name": "polarisagi/polarisagi-harness",
+    "stars": 1,
+    "updated_at": "2026-05-31T11:30:32Z",
+    "url": "https://github.com/polarisagi/polarisagi-harness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T11:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Standalone SDK workspace for building Aomi dynamic plugins.",
     "id": "aomi-labs/aomi-sdk",
     "language": "Rust",
@@ -72,15 +162,6 @@
     "url": "https://github.com/mf2023/Yim"
   },
   {
-    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
-    "id": "Krako-Labs/KORA",
-    "language": "Python",
-    "name": "Krako-Labs/KORA",
-    "stars": 12,
-    "updated_at": "2026-05-31T11:23:35Z",
-    "url": "https://github.com/Krako-Labs/KORA"
-  },
-  {
     "description": "LangChain integration for the Tessera LLM cost-optimization proxy. One line of config routes ChatOpenAI / ChatAnthropic ",
     "id": "tessera-llm/tessera-langchain",
     "language": "Python",
@@ -88,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T11:23:12Z",
     "url": "https://github.com/tessera-llm/tessera-langchain"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 64,
-    "updated_at": "2026-05-31T11:29:26Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
@@ -139,7 +211,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 14926,
+    "stars": 14928,
     "updated_at": "2026-05-31T11:18:44Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T11:16:47Z",
     "url": "https://github.com/jkraybill/gordo-forge"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T11:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
@@ -225,15 +288,6 @@
     "url": "https://github.com/meetjin/jin"
   },
   {
-    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 5,
-    "updated_at": "2026-05-31T11:26:55Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -268,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T10:56:43Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
-    "id": "Arch1eSUN/Moirai",
-    "language": "Python",
-    "name": "Arch1eSUN/Moirai",
-    "stars": 1,
-    "updated_at": "2026-05-31T10:54:37Z",
-    "url": "https://github.com/Arch1eSUN/Moirai"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -403,50 +448,5 @@
     "stars": 269,
     "updated_at": "2026-05-31T10:08:05Z",
     "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
-    "id": "achappey/aihappey-chat",
-    "language": "TypeScript",
-    "name": "achappey/aihappey-chat",
-    "stars": 5,
-    "updated_at": "2026-05-31T10:04:03Z",
-    "url": "https://github.com/achappey/aihappey-chat"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:55:42Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:54:45Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:54:28Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 1,
-    "updated_at": "2026-05-31T09:52:02Z",
-    "url": "https://github.com/Liny9941/projectsmd"
   }
 ]
