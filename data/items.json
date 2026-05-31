@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
+    "id": "fxMT-nx/El-Primor",
+    "language": "Makefile",
+    "name": "fxMT-nx/El-Primor",
+    "stars": 0,
+    "updated_at": "2026-05-31T19:49:38Z",
+    "url": "https://github.com/fxMT-nx/El-Primor"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-05-31T19:50:54Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T19:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udc14 An open-source, distributed AI agent farm OS. Raise, train, and trade autonomous agents on your own hardware.",
     "id": "dcluomax/coop",
     "language": "Rust",
@@ -198,15 +225,6 @@
     "url": "https://github.com/sauravbhattacharya001/agentlens"
   },
   {
-    "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
-    "id": "fxMT-nx/El-Primor",
-    "language": "Makefile",
-    "name": "fxMT-nx/El-Primor",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:32:50Z",
-    "url": "https://github.com/fxMT-nx/El-Primor"
-  },
-  {
     "description": "",
     "id": "brushworkoilpressure365/oh-my-code",
     "language": "Rust",
@@ -214,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-05-31T19:30:48Z",
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T19:18:57Z",
     "url": "https://github.com/Nurrachm6921/agent-kernel"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:18:18Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
   }
 ]
