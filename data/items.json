@@ -1,12 +1,12 @@
 [
   {
-    "description": "\ud83c\udf10 Analyze resources efficiently with Agent Smith CLI, a versatile tool for developers to enhance their workflows and opt",
-    "id": "Acelito7618/agentsmith-cli",
-    "language": "TypeScript",
-    "name": "Acelito7618/agentsmith-cli",
-    "stars": 0,
-    "updated_at": "2026-05-31T18:41:41Z",
-    "url": "https://github.com/Acelito7618/agentsmith-cli"
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Shell",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-05-31T18:44:01Z",
+    "url": "https://github.com/bakw00ds/yakos"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -14,8 +14,53 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-05-31T18:40:23Z",
+    "updated_at": "2026-05-31T18:43:20Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83e\udd16 Build adaptable AI agents with skill-based systems, enabling efficient context management and seamless integration acr",
+    "id": "tanveerkhan2005/custom-agent-with-skills",
+    "language": "Python",
+    "name": "tanveerkhan2005/custom-agent-with-skills",
+    "stars": 2,
+    "updated_at": "2026-05-31T18:42:34Z",
+    "url": "https://github.com/tanveerkhan2005/custom-agent-with-skills"
+  },
+  {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 9,
+    "updated_at": "2026-05-31T18:44:22Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T18:42:05Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
+    "id": "fuseraft/fuseraft-cli",
+    "language": "C#",
+    "name": "fuseraft/fuseraft-cli",
+    "stars": 2,
+    "updated_at": "2026-05-31T18:42:24Z",
+    "url": "https://github.com/fuseraft/fuseraft-cli"
+  },
+  {
+    "description": "\ud83c\udf10 Analyze resources efficiently with Agent Smith CLI, a versatile tool for developers to enhance their workflows and opt",
+    "id": "Acelito7618/agentsmith-cli",
+    "language": "TypeScript",
+    "name": "Acelito7618/agentsmith-cli",
+    "stars": 1,
+    "updated_at": "2026-05-31T18:41:41Z",
+    "url": "https://github.com/Acelito7618/agentsmith-cli"
   },
   {
     "description": "\ud83d\udcda Build an all-in-one subscription-based education platform with secure payments, content management, and analytics for ",
@@ -40,7 +85,7 @@
     "id": "liberzon/agents-gateway-site",
     "language": "HTML",
     "name": "liberzon/agents-gateway-site",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T18:38:46Z",
     "url": "https://github.com/liberzon/agents-gateway-site"
   },
@@ -58,7 +103,7 @@
     "id": "cuteecarrot/AgentHub",
     "language": "Python",
     "name": "cuteecarrot/AgentHub",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-05-31T18:37:57Z",
     "url": "https://github.com/cuteecarrot/AgentHub"
   },
@@ -72,20 +117,11 @@
     "url": "https://github.com/Albertossilva-maker/MultiAgent-AI"
   },
   {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Shell",
-    "name": "bakw00ds/yakos",
-    "stars": 1,
-    "updated_at": "2026-05-31T18:36:20Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
     "description": "Production-ready FastAPI + Agno gateway for serving AI agents \u2014 agents, teams, supervisor execution, skills, knowledge b",
     "id": "liberzon/agents-gateway",
     "language": "Python",
     "name": "liberzon/agents-gateway",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T18:35:10Z",
     "url": "https://github.com/liberzon/agents-gateway"
   },
@@ -112,18 +148,9 @@
     "id": "kemalefee8/sral-framework",
     "language": "\u2014",
     "name": "kemalefee8/sral-framework",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T18:31:31Z",
     "url": "https://github.com/kemalefee8/sral-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T18:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
@@ -202,7 +229,7 @@
     "id": "Niranjan-008/Agentic-Decision-Cell",
     "language": "Python",
     "name": "Niranjan-008/Agentic-Decision-Cell",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T18:13:25Z",
     "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
   },
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T18:06:27Z",
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "Typed Kotlin DSL framework for AI agent systems.",
-    "id": "Deep-CodeAI/Agents.KT",
-    "language": "Kotlin",
-    "name": "Deep-CodeAI/Agents.KT",
-    "stars": 8,
-    "updated_at": "2026-05-31T18:38:36Z",
-    "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -414,15 +432,6 @@
     "url": "https://github.com/Human-Agent-Society/CORAL"
   },
   {
-    "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
-    "id": "fuseraft/fuseraft-cli",
-    "language": "C#",
-    "name": "fuseraft/fuseraft-cli",
-    "stars": 2,
-    "updated_at": "2026-05-31T18:42:01Z",
-    "url": "https://github.com/fuseraft/fuseraft-cli"
-  },
-  {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
     "id": "fireflyframework/fireflyframework-agentic",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-05-31T18:41:58Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 0,
-    "updated_at": "2026-05-31T16:43:00Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
   }
 ]
