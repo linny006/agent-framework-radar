@@ -1,12 +1,48 @@
 [
   {
+    "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
+    "id": "MarlBurroW/kinbot",
+    "language": "TypeScript",
+    "name": "MarlBurroW/kinbot",
+    "stars": 42,
+    "updated_at": "2026-05-31T20:00:06Z",
+    "url": "https://github.com/MarlBurroW/kinbot"
+  },
+  {
+    "description": "\ud83e\udd16 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 \u2014 the year agents went mainstream",
+    "id": "Zijian-Ni/awesome-ai-agents-2026",
+    "language": "\u2014",
+    "name": "Zijian-Ni/awesome-ai-agents-2026",
+    "stars": 110,
+    "updated_at": "2026-05-31T19:58:32Z",
+    "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-05-31T19:57:59Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
     "id": "fxMT-nx/El-Primor",
     "language": "Makefile",
     "name": "fxMT-nx/El-Primor",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:49:38Z",
+    "stars": 1,
+    "updated_at": "2026-05-31T19:54:37Z",
     "url": "https://github.com/fxMT-nx/El-Primor"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T19:53:41Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -18,20 +54,11 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\udc14 An open-source, distributed AI agent farm OS. Raise, train, and trade autonomous agents on your own hardware.",
     "id": "dcluomax/coop",
     "language": "Rust",
     "name": "dcluomax/coop",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-05-31T19:44:29Z",
     "url": "https://github.com/dcluomax/coop"
   },
@@ -124,15 +151,6 @@
     "stars": 183,
     "updated_at": "2026-05-31T19:34:04Z",
     "url": "https://github.com/jaylfc/tinyagentos"
-  },
-  {
-    "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
-    "id": "MarlBurroW/kinbot",
-    "language": "TypeScript",
-    "name": "MarlBurroW/kinbot",
-    "stars": 42,
-    "updated_at": "2026-05-31T19:33:45Z",
-    "url": "https://github.com/MarlBurroW/kinbot"
   },
   {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
@@ -229,7 +247,7 @@
     "id": "brushworkoilpressure365/oh-my-code",
     "language": "Rust",
     "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-05-31T19:30:48Z",
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T19:20:12Z",
     "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Connect WeChat messages to local AI coding agents like Codex, OpenCode, and Claude Code for fast task handling and file ",
-    "id": "arthursou0512/wechat-agent-channel",
-    "language": "Python",
-    "name": "arthursou0512/wechat-agent-channel",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:19:38Z",
-    "url": "https://github.com/arthursou0512/wechat-agent-channel"
-  },
-  {
-    "description": "Build AI agents with memory using three markdown files and a git repo; no framework, no database, works with any coding ",
-    "id": "Nurrachm6921/agent-kernel",
-    "language": "\u2014",
-    "name": "Nurrachm6921/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:18:57Z",
-    "url": "https://github.com/Nurrachm6921/agent-kernel"
   }
 ]
