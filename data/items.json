@@ -1,5 +1,50 @@
 [
   {
+    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
+    "id": "jaylfc/tinyagentos",
+    "language": "Python",
+    "name": "jaylfc/tinyagentos",
+    "stars": 183,
+    "updated_at": "2026-05-31T20:28:05Z",
+    "url": "https://github.com/jaylfc/tinyagentos"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-05-31T20:23:15Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83e\udde0 Anti-sycophancy prompt pattern for LLM agents \u2014 3-round validation to stop AI from blindly agreeing. Works with ChatGP",
+    "id": "Shawn-Zhou-CHN/expert-insist",
+    "language": "\u2014",
+    "name": "Shawn-Zhou-CHN/expert-insist",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:17:31Z",
+    "url": "https://github.com/Shawn-Zhou-CHN/expert-insist"
+  },
+  {
+    "description": "Open source Golang LLM Proxy, Agent SDK with Restate & Temporal support for durable agent loop",
+    "id": "hastekit/hastekit-sdk-go",
+    "language": "Go",
+    "name": "hastekit/hastekit-sdk-go",
+    "stars": 12,
+    "updated_at": "2026-05-31T20:16:43Z",
+    "url": "https://github.com/hastekit/hastekit-sdk-go"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -18,15 +63,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
-    "id": "jaylfc/tinyagentos",
-    "language": "Python",
-    "name": "jaylfc/tinyagentos",
-    "stars": 183,
-    "updated_at": "2026-05-31T20:11:15Z",
-    "url": "https://github.com/jaylfc/tinyagentos"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T20:07:26Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Open source Golang LLM Proxy, Agent SDK with Restate & Temporal support for durable agent loop",
-    "id": "hastekit/hastekit-sdk-go",
-    "language": "Go",
-    "name": "hastekit/hastekit-sdk-go",
-    "stars": 12,
-    "updated_at": "2026-05-31T20:05:48Z",
-    "url": "https://github.com/hastekit/hastekit-sdk-go"
   },
   {
     "description": "Open-source multi-agent AI marketing team with personas, shared memory, 130+ skills, and Docker deploys for Railway and ",
@@ -70,15 +97,6 @@
     "stars": 8,
     "updated_at": "2026-05-31T20:01:12Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-31T19:23:47Z",
     "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:23:19Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:23:17Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   }
 ]
