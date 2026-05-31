@@ -1,12 +1,57 @@
 [
   {
-    "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
-    "id": "MarlBurroW/kinbot",
-    "language": "TypeScript",
-    "name": "MarlBurroW/kinbot",
-    "stars": 42,
-    "updated_at": "2026-05-31T20:00:06Z",
-    "url": "https://github.com/MarlBurroW/kinbot"
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:11:34Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:11:20Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
+    "id": "jaylfc/tinyagentos",
+    "language": "Python",
+    "name": "jaylfc/tinyagentos",
+    "stars": 183,
+    "updated_at": "2026-05-31T20:11:15Z",
+    "url": "https://github.com/jaylfc/tinyagentos"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:07:26Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Open source Golang LLM Proxy, Agent SDK with Restate & Temporal support for durable agent loop",
+    "id": "hastekit/hastekit-sdk-go",
+    "language": "Go",
+    "name": "hastekit/hastekit-sdk-go",
+    "stars": 12,
+    "updated_at": "2026-05-31T20:05:48Z",
+    "url": "https://github.com/hastekit/hastekit-sdk-go"
+  },
+  {
+    "description": "Open-source multi-agent AI marketing team with personas, shared memory, 130+ skills, and Docker deploys for Railway and ",
+    "id": "citedy/adclaw",
+    "language": "Python",
+    "name": "citedy/adclaw",
+    "stars": 20,
+    "updated_at": "2026-05-31T20:04:37Z",
+    "url": "https://github.com/citedy/adclaw"
   },
   {
     "description": "\ud83e\udd16 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 \u2014 the year agents went mainstream",
@@ -14,8 +59,44 @@
     "language": "\u2014",
     "name": "Zijian-Ni/awesome-ai-agents-2026",
     "stars": 110,
-    "updated_at": "2026-05-31T19:58:32Z",
+    "updated_at": "2026-05-31T20:03:56Z",
     "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-05-31T20:01:12Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 125,
+    "updated_at": "2026-05-31T20:00:22Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
+    "id": "MarlBurroW/kinbot",
+    "language": "TypeScript",
+    "name": "MarlBurroW/kinbot",
+    "stars": 42,
+    "updated_at": "2026-05-31T20:00:06Z",
+    "url": "https://github.com/MarlBurroW/kinbot"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -34,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-05-31T19:54:37Z",
     "url": "https://github.com/fxMT-nx/El-Primor"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:53:41Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-05-31T19:50:54Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "\ud83d\udc14 An open-source, distributed AI agent farm OS. Raise, train, and trade autonomous agents on your own hardware.",
@@ -85,7 +148,7 @@
     "id": "herreravalenz6620/context-compression",
     "language": "Python",
     "name": "herreravalenz6620/context-compression",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T19:39:52Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
   },
@@ -112,7 +175,7 @@
     "id": "agentbreeder/agentbreeder",
     "language": "Python",
     "name": "agentbreeder/agentbreeder",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-05-31T19:38:02Z",
     "url": "https://github.com/agentbreeder/agentbreeder"
   },
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T19:35:50Z",
     "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
-    "id": "jaylfc/tinyagentos",
-    "language": "Python",
-    "name": "jaylfc/tinyagentos",
-    "stars": 183,
-    "updated_at": "2026-05-31T19:34:04Z",
-    "url": "https://github.com/jaylfc/tinyagentos"
   },
   {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
@@ -238,7 +292,7 @@
     "id": "sauravbhattacharya001/agentlens",
     "language": "Python",
     "name": "sauravbhattacharya001/agentlens",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-05-31T19:31:11Z",
     "url": "https://github.com/sauravbhattacharya001/agentlens"
   },
@@ -265,7 +319,7 @@
     "id": "Tamang4607/rustyhand",
     "language": "Rust",
     "name": "Tamang4607/rustyhand",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-05-31T19:29:15Z",
     "url": "https://github.com/Tamang4607/rustyhand"
   },
@@ -364,7 +418,7 @@
     "id": "SeyhmusKaya/agent-symphony",
     "language": "TypeScript",
     "name": "SeyhmusKaya/agent-symphony",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-05-31T19:23:51Z",
     "url": "https://github.com/SeyhmusKaya/agent-symphony"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T19:23:17Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:22:50Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:22:13Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:21:08Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:20:48Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Build self-spawning AI agents from tasks with distributed memory, guardrails, and a fossil record.",
-    "id": "karunun4659/spawnverse",
-    "language": "\u2014",
-    "name": "karunun4659/spawnverse",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:20:17Z",
-    "url": "https://github.com/karunun4659/spawnverse"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:20:12Z",
-    "url": "https://github.com/Messa8301/quickbench"
   }
 ]
