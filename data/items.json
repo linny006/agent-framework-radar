@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
+    "id": "cuteecarrot/AgentHub",
+    "language": "Python",
+    "name": "cuteecarrot/AgentHub",
+    "stars": 5,
+    "updated_at": "2026-05-31T22:30:05Z",
+    "url": "https://github.com/cuteecarrot/AgentHub"
+  },
+  {
+    "description": "\ud83e\udd16 Build advanced multi-agent AI systems with this high-performance Rust framework, enabling automation, reasoning, and e",
+    "id": "Albertossilva-maker/MultiAgent-AI",
+    "language": "HTML",
+    "name": "Albertossilva-maker/MultiAgent-AI",
+    "stars": 0,
+    "updated_at": "2026-05-31T22:29:33Z",
+    "url": "https://github.com/Albertossilva-maker/MultiAgent-AI"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-05-31T22:25:05Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 1,
+    "updated_at": "2026-05-31T22:23:45Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-05-31T22:22:13Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "\u5f00\u6e90\u81ea\u6258\u7ba1 AI Agent \u2014 Go + Rust + provider-agnostic | Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness",
+    "id": "polarisagi/polarisagi-harness",
+    "language": "Go",
+    "name": "polarisagi/polarisagi-harness",
+    "stars": 2,
+    "updated_at": "2026-05-31T22:21:09Z",
+    "url": "https://github.com/polarisagi/polarisagi-harness"
+  },
+  {
+    "description": "A from-scratch agentic loop that runs in your terminal: Claude streams tokens, calls tools, and a Docker container runs ",
+    "id": "darenr/cortex",
+    "language": "Python",
+    "name": "darenr/cortex",
+    "stars": 3,
+    "updated_at": "2026-05-31T22:28:35Z",
+    "url": "https://github.com/darenr/cortex"
+  },
+  {
+    "description": "Give your AI agents structure, guardrails, and full observability \u2014 the Agent control plane built on MCP.",
+    "id": "T4cceptor/centian",
+    "language": "Go",
+    "name": "T4cceptor/centian",
+    "stars": 11,
+    "updated_at": "2026-05-31T22:18:17Z",
+    "url": "https://github.com/T4cceptor/centian"
+  },
+  {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-05-31T22:16:48Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T22:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
     "id": "thesiddguy/GenAI",
     "language": "HTML",
@@ -25,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T22:11:42Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\u5f00\u6e90\u81ea\u6258\u7ba1 AI Agent \u2014 Go + Rust + provider-agnostic | Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness",
-    "id": "polarisagi/polarisagi-harness",
-    "language": "Go",
-    "name": "polarisagi/polarisagi-harness",
-    "stars": 1,
-    "updated_at": "2026-05-31T22:07:08Z",
-    "url": "https://github.com/polarisagi/polarisagi-harness"
   },
   {
     "description": "",
@@ -70,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T22:04:12Z",
     "url": "https://github.com/yassineelfakiri/agentpg"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T22:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A from-scratch agentic loop that runs in your terminal: Claude streams tokens, calls tools, and a Docker container runs ",
-    "id": "darenr/cortex",
-    "language": "Python",
-    "name": "darenr/cortex",
-    "stars": 3,
-    "updated_at": "2026-05-31T22:11:22Z",
-    "url": "https://github.com/darenr/cortex"
   },
   {
     "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
@@ -175,7 +238,7 @@
     "id": "s2mgtvodois2/postgresql-mcp-js",
     "language": "TypeScript",
     "name": "s2mgtvodois2/postgresql-mcp-js",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T21:33:52Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-05-31T21:49:15Z",
+    "updated_at": "2026-05-31T22:18:39Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -301,7 +364,7 @@
     "id": "jaylfc/tinyagentos",
     "language": "Python",
     "name": "jaylfc/tinyagentos",
-    "stars": 183,
+    "stars": 184,
     "updated_at": "2026-05-31T20:28:05Z",
     "url": "https://github.com/jaylfc/tinyagentos"
   },
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-05-31T19:40:56Z",
     "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 1,
-    "updated_at": "2026-05-31T19:39:52Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:38:54Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:38:39Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
-    "id": "agentbreeder/agentbreeder",
-    "language": "Python",
-    "name": "agentbreeder/agentbreeder",
-    "stars": 4,
-    "updated_at": "2026-05-31T19:38:02Z",
-    "url": "https://github.com/agentbreeder/agentbreeder"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 1,
-    "updated_at": "2026-05-31T19:36:23Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:35:55Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins",
-    "id": "Doubleedged-capitaloftennessee462/agentswift",
-    "language": "\u2014",
-    "name": "Doubleedged-capitaloftennessee462/agentswift",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:35:50Z",
-    "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
   }
 ]
