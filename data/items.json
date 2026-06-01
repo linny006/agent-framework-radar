@@ -1,12 +1,84 @@
 [
   {
+    "description": "An agentic loop framework, TUI or Web UI. Supports MCP, skills and plugins with progressive disclosure. ",
+    "id": "darenr/LoopBack",
+    "language": "Python",
+    "name": "darenr/LoopBack",
+    "stars": 3,
+    "updated_at": "2026-06-01T17:58:51Z",
+    "url": "https://github.com/darenr/LoopBack"
+  },
+  {
+    "description": "Luna Pipes: a concatenative AI shell language. 358 verbs composed via >>. AI honesty auditor (/ll-no-bluf), agent scaffo",
+    "id": "lunaos-ai/luna-agents",
+    "language": "HTML",
+    "name": "lunaos-ai/luna-agents",
+    "stars": 0,
+    "updated_at": "2026-06-01T17:58:40Z",
+    "url": "https://github.com/lunaos-ai/luna-agents"
+  },
+  {
+    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
+    "id": "mj-deving/omniweb-agents",
+    "language": "TypeScript",
+    "name": "mj-deving/omniweb-agents",
+    "stars": 0,
+    "updated_at": "2026-06-01T17:57:38Z",
+    "url": "https://github.com/mj-deving/omniweb-agents"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 1,
+    "updated_at": "2026-06-01T17:56:17Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-01T17:55:24Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 4,
+    "updated_at": "2026-06-01T17:54:06Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
     "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
     "id": "MarlBurroW/kinbot",
     "language": "TypeScript",
     "name": "MarlBurroW/kinbot",
     "stars": 42,
-    "updated_at": "2026-06-01T17:41:46Z",
+    "updated_at": "2026-06-01T17:52:06Z",
     "url": "https://github.com/MarlBurroW/kinbot"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "MiteshSharma/ethos",
+    "language": "TypeScript",
+    "name": "MiteshSharma/ethos",
+    "stars": 5,
+    "updated_at": "2026-06-01T17:49:30Z",
+    "url": "https://github.com/MiteshSharma/ethos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T17:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -25,33 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T17:32:35Z",
     "url": "https://github.com/BuffaloShine/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 4,
-    "updated_at": "2026-06-01T17:31:56Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "MiteshSharma/ethos",
-    "language": "TypeScript",
-    "name": "MiteshSharma/ethos",
-    "stars": 5,
-    "updated_at": "2026-06-01T17:31:39Z",
-    "url": "https://github.com/MiteshSharma/ethos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T17:30:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 10944,
-    "updated_at": "2026-06-01T17:24:04Z",
+    "updated_at": "2026-06-01T17:54:13Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "clawboo/clawboo",
     "stars": 10,
-    "updated_at": "2026-06-01T17:15:18Z",
+    "updated_at": "2026-06-01T17:57:29Z",
     "url": "https://github.com/clawboo/clawboo"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 6,
-    "updated_at": "2026-06-01T16:51:23Z",
+    "updated_at": "2026-06-01T17:54:05Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -337,7 +382,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3659,
+    "stars": 3660,
     "updated_at": "2026-06-01T16:35:33Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-01T16:26:24Z",
     "url": "https://github.com/envergadcr/ai-video-workflow"
-  },
-  {
-    "description": "\ud83e\udde0 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool",
-    "id": "Niranjan-008/Agentic-Decision-Cell",
-    "language": "Python",
-    "name": "Niranjan-008/Agentic-Decision-Cell",
-    "stars": 1,
-    "updated_at": "2026-06-01T16:25:46Z",
-    "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
-  },
-  {
-    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
-    "id": "yassineelfakiri/agentpg",
-    "language": "Go",
-    "name": "yassineelfakiri/agentpg",
-    "stars": 0,
-    "updated_at": "2026-06-01T16:23:41Z",
-    "url": "https://github.com/yassineelfakiri/agentpg"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1172,
-    "updated_at": "2026-06-01T16:19:23Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
-    "id": "q-j0k/sprintloop-orchestration",
-    "language": "\u2014",
-    "name": "q-j0k/sprintloop-orchestration",
-    "stars": 1,
-    "updated_at": "2026-06-01T16:18:50Z",
-    "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-01T17:33:43Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   }
 ]
