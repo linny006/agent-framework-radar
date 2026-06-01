@@ -1,12 +1,66 @@
 [
   {
-    "description": "Deterministic AI decisions for production. Rules first, LLMs score second, evidence always required. TypeScript alternat",
-    "id": "balureddy003/kairos-ai",
-    "language": "TypeScript",
-    "name": "balureddy003/kairos-ai",
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3674,
+    "updated_at": "2026-06-01T20:58:19Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
     "stars": 0,
-    "updated_at": "2026-06-01T20:44:44Z",
-    "url": "https://github.com/balureddy003/kairos-ai"
+    "updated_at": "2026-06-01T20:57:45Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 99,
+    "updated_at": "2026-06-01T20:55:07Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-06-01T20:54:29Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Personal-agent harness \u2014 agent loop, first-class skills, action verification (SenseGate), MCP integration, scheduling, p",
+    "id": "leosoft-company/ambi",
+    "language": "Python",
+    "name": "leosoft-company/ambi",
+    "stars": 0,
+    "updated_at": "2026-06-01T20:53:45Z",
+    "url": "https://github.com/leosoft-company/ambi"
+  },
+  {
+    "description": "Trixxie is a self\u2011hosted AI companion agent that runs in Second Life and Discord. It provides natural conversation, memo",
+    "id": "pablo0713-glitch/trixxie-companion-agent",
+    "language": "Python",
+    "name": "pablo0713-glitch/trixxie-companion-agent",
+    "stars": 3,
+    "updated_at": "2026-06-01T20:49:54Z",
+    "url": "https://github.com/pablo0713-glitch/trixxie-companion-agent"
+  },
+  {
+    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
+    "id": "Krako-Labs/KORA",
+    "language": "Python",
+    "name": "Krako-Labs/KORA",
+    "stars": 18,
+    "updated_at": "2026-06-01T20:48:29Z",
+    "url": "https://github.com/Krako-Labs/KORA"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-06-01T20:43:39Z",
+    "updated_at": "2026-06-01T20:45:27Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Deterministic AI decisions for production. Rules first, LLMs score second, evidence always required. TypeScript alternat",
+    "id": "balureddy003/kairos-ai",
+    "language": "TypeScript",
+    "name": "balureddy003/kairos-ai",
+    "stars": 0,
+    "updated_at": "2026-06-01T20:44:44Z",
+    "url": "https://github.com/balureddy003/kairos-ai"
   },
   {
     "description": "Research framework for adaptive, purposeful agents under uncertainty",
@@ -45,6 +108,15 @@
     "url": "https://github.com/dcluomax/coop"
   },
   {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17445,
+    "updated_at": "2026-06-01T20:39:13Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
     "id": "CarlosCaPe/octorato",
     "language": "Python",
@@ -63,24 +135,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 3673,
-    "updated_at": "2026-06-01T20:36:47Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
-    "id": "Krako-Labs/KORA",
-    "language": "Python",
-    "name": "Krako-Labs/KORA",
-    "stars": 18,
-    "updated_at": "2026-06-01T20:36:25Z",
-    "url": "https://github.com/Krako-Labs/KORA"
-  },
-  {
     "description": "A curated list of AI agent infrastructure: memory stores, vector databases, execution sandboxes, MCP servers, tool regis",
     "id": "backblaze-labs/awesome-agent-infrastructure",
     "language": "\u2014",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-01T20:28:17Z",
+    "updated_at": "2026-06-01T20:55:59Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-01T20:42:43Z",
+    "updated_at": "2026-06-01T20:54:37Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T20:14:14Z",
     "url": "https://github.com/liberzon/agents-gateway-site"
-  },
-  {
-    "description": "Trixxie is a self\u2011hosted AI companion agent that runs in Second Life and Discord. It provides natural conversation, memo",
-    "id": "pablo0713-glitch/trixxie-companion-agent",
-    "language": "Python",
-    "name": "pablo0713-glitch/trixxie-companion-agent",
-    "stars": 3,
-    "updated_at": "2026-06-01T20:13:05Z",
-    "url": "https://github.com/pablo0713-glitch/trixxie-companion-agent"
   },
   {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T19:51:37Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-06-01T19:51:17Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-01T19:51:13Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-01T19:50:56Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-01T19:50:43Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-01T19:50:37Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
   }
 ]
