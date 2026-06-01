@@ -1,12 +1,12 @@
 [
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 91,
-    "updated_at": "2026-06-01T04:29:01Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-01T04:43:38Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -14,8 +14,53 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-01T04:27:21Z",
+    "updated_at": "2026-06-01T04:43:03Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-01T04:42:00Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 126,
+    "updated_at": "2026-06-01T04:40:05Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Production-grade AgentOps control plane for safe AI agent execution. Dual-plane architecture: Rust governance engine + P",
+    "id": "sattyamjjain/ferrumdeck",
+    "language": "TypeScript",
+    "name": "sattyamjjain/ferrumdeck",
+    "stars": 5,
+    "updated_at": "2026-06-01T04:33:52Z",
+    "url": "https://github.com/sattyamjjain/ferrumdeck"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 91,
+    "updated_at": "2026-06-01T04:31:26Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T04:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4618,
-    "updated_at": "2026-06-01T04:26:52Z",
+    "updated_at": "2026-06-01T04:39:50Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -32,7 +77,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 16,
-    "updated_at": "2026-06-01T04:26:33Z",
+    "updated_at": "2026-06-01T04:30:57Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -63,20 +108,11 @@
     "url": "https://github.com/soolaugust/0CompactMem"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T04:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
     "id": "GizClaw/flowcraft",
     "language": "Go",
     "name": "GizClaw/flowcraft",
-    "stars": 213,
+    "stars": 214,
     "updated_at": "2026-06-01T04:13:18Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
@@ -108,6 +144,15 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 536,
+    "updated_at": "2026-06-01T04:04:17Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
     "description": "Multi-agent orchestration system with DAG-based reasoning, tool abstraction, and observable decision traces.",
     "id": "Adityansh-Chand/ai-proactive-customer-operations",
     "language": "Python",
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "gabrielvuksani/wotann",
     "stars": 3,
-    "updated_at": "2026-06-01T04:22:34Z",
+    "updated_at": "2026-06-01T04:32:10Z",
     "url": "https://github.com/gabrielvuksani/wotann"
   },
   {
@@ -148,7 +193,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 15432,
+    "stars": 15437,
     "updated_at": "2026-06-01T03:59:13Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 1,
-    "updated_at": "2026-06-01T03:18:22Z",
+    "updated_at": "2026-06-01T04:36:55Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T02:19:59Z",
     "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:19:21Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:18:52Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Automate software development with an autonomous multi-agent loop using Qwen Code to self-direct, commit, and improve yo",
-    "id": "Danielle6426/Qwen-Loop",
-    "language": "TypeScript",
-    "name": "Danielle6426/Qwen-Loop",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:18:48Z",
-    "url": "https://github.com/Danielle6426/Qwen-Loop"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 2,
-    "updated_at": "2026-06-01T02:18:43Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:16:43Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
   }
 ]
