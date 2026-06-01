@@ -4,9 +4,45 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 15671,
-    "updated_at": "2026-06-01T09:40:58Z",
+    "stars": 15681,
+    "updated_at": "2026-06-01T09:56:57Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 90,
+    "updated_at": "2026-06-01T09:54:45Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 26,
+    "updated_at": "2026-06-01T09:47:10Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Multi-agent orchestration system with DAG-based reasoning, tool abstraction, and observable decision traces.",
+    "id": "Adityansh-Chand/ai-proactive-customer-operations",
+    "language": "Python",
+    "name": "Adityansh-Chand/ai-proactive-customer-operations",
+    "stars": 1,
+    "updated_at": "2026-06-01T09:46:06Z",
+    "url": "https://github.com/Adityansh-Chand/ai-proactive-customer-operations"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T09:45:36Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Composable Python SDK for building single-agent and multi-agent AI systems.",
@@ -63,15 +99,6 @@
     "url": "https://github.com/ShakeYoung/K-Storm"
   },
   {
-    "description": "Multi-agent orchestration system with DAG-based reasoning, tool abstraction, and observable decision traces.",
-    "id": "Adityansh-Chand/ai-proactive-customer-operations",
-    "language": "Python",
-    "name": "Adityansh-Chand/ai-proactive-customer-operations",
-    "stars": 1,
-    "updated_at": "2026-06-01T09:32:13Z",
-    "url": "https://github.com/Adityansh-Chand/ai-proactive-customer-operations"
-  },
-  {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
     "id": "Liny9941/projectsmd",
     "language": "Rust",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T09:31:41Z",
     "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:30:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T09:10:42Z",
     "url": "https://github.com/Hosk9612/venutian-antfarm"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 1,
-    "updated_at": "2026-06-01T09:10:26Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:09:45Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
   }
 ]
