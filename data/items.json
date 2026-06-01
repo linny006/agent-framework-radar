@@ -1,5 +1,59 @@
 [
   {
+    "description": "",
+    "id": "envergadcr/ai-video-workflow",
+    "language": "Python",
+    "name": "envergadcr/ai-video-workflow",
+    "stars": 2,
+    "updated_at": "2026-06-01T07:56:40Z",
+    "url": "https://github.com/envergadcr/ai-video-workflow"
+  },
+  {
+    "description": "\ud83e\udd16 Multi-Agent Roundtable Engine / \u591a Agent \u5706\u684c\u8ba8\u8bba\u5f15\u64ce \u00b7 Structured discussions \u00b7 Consensus tracking \u00b7 Python \u00b7 Zero dependenc",
+    "id": "MoyuFamily/agent-roundtable",
+    "language": "Python",
+    "name": "MoyuFamily/agent-roundtable",
+    "stars": 2,
+    "updated_at": "2026-06-01T07:56:07Z",
+    "url": "https://github.com/MoyuFamily/agent-roundtable"
+  },
+  {
+    "description": "\ud83e\udde0 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool",
+    "id": "Niranjan-008/Agentic-Decision-Cell",
+    "language": "Python",
+    "name": "Niranjan-008/Agentic-Decision-Cell",
+    "stars": 1,
+    "updated_at": "2026-06-01T07:55:53Z",
+    "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-01T07:53:31Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 17 professi",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-06-01T07:45:54Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T07:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
     "id": "q-j0k/sprintloop-orchestration",
     "language": "\u2014",
@@ -7,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T07:44:57Z",
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "\ud83e\udd16 Multi-Agent Roundtable Engine / \u591a Agent \u5706\u684c\u8ba8\u8bba\u5f15\u64ce \u00b7 Structured discussions \u00b7 Consensus tracking \u00b7 Python \u00b7 Zero dependenc",
-    "id": "MoyuFamily/agent-roundtable",
-    "language": "Python",
-    "name": "MoyuFamily/agent-roundtable",
-    "stars": 1,
-    "updated_at": "2026-06-01T07:43:46Z",
-    "url": "https://github.com/MoyuFamily/agent-roundtable"
   },
   {
     "description": "Shared persistent memory for multi-agent teams. Catches the things your AI agents forget.",
@@ -40,7 +85,7 @@
     "id": "r-design-j/tri-party-framework",
     "language": "Shell",
     "name": "r-design-j/tri-party-framework",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-01T07:38:15Z",
     "url": "https://github.com/r-design-j/tri-party-framework"
   },
@@ -49,7 +94,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 15594,
+    "stars": 15606,
     "updated_at": "2026-06-01T07:38:14Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -67,7 +112,7 @@
     "id": "ginkida/rustyhand",
     "language": "Rust",
     "name": "ginkida/rustyhand",
-    "stars": 17,
+    "stars": 18,
     "updated_at": "2026-06-01T07:34:33Z",
     "url": "https://github.com/ginkida/rustyhand"
   },
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T07:34:07Z",
     "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T07:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-01T07:24:21Z",
+    "updated_at": "2026-06-01T07:58:23Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T06:12:09Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins",
-    "id": "Doubleedged-capitaloftennessee462/agentswift",
-    "language": "\u2014",
-    "name": "Doubleedged-capitaloftennessee462/agentswift",
-    "stars": 0,
-    "updated_at": "2026-06-01T06:12:09Z",
-    "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
-    "id": "AndersonBY/vv-agent",
-    "language": "Python",
-    "name": "AndersonBY/vv-agent",
-    "stars": 1,
-    "updated_at": "2026-06-01T06:12:27Z",
-    "url": "https://github.com/AndersonBY/vv-agent"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-06-01T06:09:30Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-06-01T06:09:03Z",
-    "url": "https://github.com/sacid446/unclaw"
   }
 ]
