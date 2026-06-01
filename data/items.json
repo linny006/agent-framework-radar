@@ -4,9 +4,72 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 15877,
-    "updated_at": "2026-06-01T15:29:27Z",
+    "stars": 15886,
+    "updated_at": "2026-06-01T15:43:03Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
+    "id": "fuseraft/fuseraft-cli",
+    "language": "C#",
+    "name": "fuseraft/fuseraft-cli",
+    "stars": 2,
+    "updated_at": "2026-06-01T15:43:14Z",
+    "url": "https://github.com/fuseraft/fuseraft-cli"
+  },
+  {
+    "description": "Agent SDK, CLI, Claw, Platform in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 2,
+    "updated_at": "2026-06-01T15:41:32Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Shell",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-01T15:38:38Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "AI agent runtime for Rust \u2014 type-safe state, multi-protocol serving, plugin extensibility.",
+    "id": "awakenworks/awaken",
+    "language": "Rust",
+    "name": "awakenworks/awaken",
+    "stars": 77,
+    "updated_at": "2026-06-01T15:36:57Z",
+    "url": "https://github.com/awakenworks/awaken"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3649,
+    "updated_at": "2026-06-01T15:36:21Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T15:30:38Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
+    "id": "Krako-Labs/KORA",
+    "language": "Python",
+    "name": "Krako-Labs/KORA",
+    "stars": 15,
+    "updated_at": "2026-06-01T15:41:40Z",
+    "url": "https://github.com/Krako-Labs/KORA"
   },
   {
     "description": "Claude Patcher -- MCP tools that extend Claude Code beyond built-in capabilities. Fix encoding, convert formats, detect ",
@@ -22,18 +85,9 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 7611,
+    "stars": 7610,
     "updated_at": "2026-06-01T15:21:15Z",
     "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "AI Agent Frameworks \u2014 ai agents 2026, langchain, langgraph, crewai.",
-    "id": "CourtMidgeAssess/ai-agent-frameworks",
-    "language": "\u2014",
-    "name": "CourtMidgeAssess/ai-agent-frameworks",
-    "stars": 0,
-    "updated_at": "2026-06-01T15:20:19Z",
-    "url": "https://github.com/CourtMidgeAssess/ai-agent-frameworks"
   },
   {
     "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
@@ -54,15 +108,6 @@
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T15:15:34Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "K-Storm multi-agent research brainstorming",
     "id": "ShakeYoung/K-Storm",
     "language": "Python",
@@ -81,6 +126,15 @@
     "url": "https://github.com/MiteshSharma/ethos"
   },
   {
+    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 6,
+    "updated_at": "2026-06-01T15:02:36Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
     "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
     "id": "BrettMGoughWork/vai-core",
     "language": "Python",
@@ -94,7 +148,7 @@
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 14176,
+    "stars": 14175,
     "updated_at": "2026-06-01T14:58:11Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "Arch1eSUN/Moirai",
     "stars": 1,
-    "updated_at": "2026-06-01T15:07:40Z",
+    "updated_at": "2026-06-01T15:40:39Z",
     "url": "https://github.com/Arch1eSUN/Moirai"
   },
   {
@@ -149,7 +203,7 @@
     "language": "TypeScript",
     "name": "balureddy003/kairos-ai",
     "stars": 0,
-    "updated_at": "2026-06-01T14:50:24Z",
+    "updated_at": "2026-06-01T15:35:12Z",
     "url": "https://github.com/balureddy003/kairos-ai"
   },
   {
@@ -189,15 +243,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 6,
-    "updated_at": "2026-06-01T15:02:36Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
@@ -230,7 +275,7 @@
     "language": "JavaScript",
     "name": "ucsandman/DashClaw",
     "stars": 270,
-    "updated_at": "2026-06-01T14:40:04Z",
+    "updated_at": "2026-06-01T15:37:59Z",
     "url": "https://github.com/ucsandman/DashClaw"
   },
   {
@@ -247,7 +292,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17440,
+    "stars": 17441,
     "updated_at": "2026-06-01T14:37:49Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -268,6 +313,15 @@
     "stars": 126,
     "updated_at": "2026-06-01T14:30:45Z",
     "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 472,
+    "updated_at": "2026-06-01T14:26:49Z",
+    "url": "https://github.com/aaronjmars/aeon"
   },
   {
     "description": "LangGraph \u2014 langchain agent, langchain setup, ai agent workflow.",
@@ -297,15 +351,6 @@
     "url": "https://github.com/roackb2/heddle"
   },
   {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 471,
-    "updated_at": "2026-06-01T14:26:49Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -313,15 +358,6 @@
     "stars": 102,
     "updated_at": "2026-06-01T13:57:34Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
-    "id": "Krako-Labs/KORA",
-    "language": "Python",
-    "name": "Krako-Labs/KORA",
-    "stars": 15,
-    "updated_at": "2026-06-01T15:30:29Z",
-    "url": "https://github.com/Krako-Labs/KORA"
   },
   {
     "description": "Agent OS in Rust \u2014 one binary, 37 agents, 26 LLM providers, 37 channels (Telegram/Discord/Slack...), MCP server, A2A pro",
@@ -337,7 +373,7 @@
     "id": "codeaholicguy/ai-devkit",
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
-    "stars": 1228,
+    "stars": 1229,
     "updated_at": "2026-06-01T13:52:58Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
@@ -412,41 +448,5 @@
     "stars": 1316,
     "updated_at": "2026-06-01T13:46:20Z",
     "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:45:10Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:44:39Z",
-    "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:44:38Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:44:09Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
   }
 ]
