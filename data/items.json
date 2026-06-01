@@ -1,5 +1,59 @@
 [
   {
+    "description": "Capsule is an open-source tool built to solve framework lock-in and improve reproducibility in AI agent development. Ins",
+    "id": "vindepemarte/Capsule",
+    "language": "Python",
+    "name": "vindepemarte/Capsule",
+    "stars": 1,
+    "updated_at": "2026-06-01T16:21:41Z",
+    "url": "https://github.com/vindepemarte/Capsule"
+  },
+  {
+    "description": "\u5f00\u6e90\u81ea\u6258\u7ba1 AI Agent \u2014 Go + Rust + provider-agnostic | Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness",
+    "id": "polarisagi/polarisagi-harness",
+    "language": "Go",
+    "name": "polarisagi/polarisagi-harness",
+    "stars": 2,
+    "updated_at": "2026-06-01T16:18:53Z",
+    "url": "https://github.com/polarisagi/polarisagi-harness"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-01T16:16:38Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T16:15:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3650,
+    "updated_at": "2026-06-01T16:15:27Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Deterministic AI decisions for production. Rules first, LLMs score second, evidence always required. TypeScript alternat",
+    "id": "balureddy003/kairos-ai",
+    "language": "TypeScript",
+    "name": "balureddy003/kairos-ai",
+    "stars": 0,
+    "updated_at": "2026-06-01T16:14:39Z",
+    "url": "https://github.com/balureddy003/kairos-ai"
+  },
+  {
     "description": "Principles of Earned Autonomy - Skills Suite",
     "id": "ntholm86/principles-of-earned-autonomy-skills-suite",
     "language": "PowerShell",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 5,
-    "updated_at": "2026-06-01T16:08:47Z",
+    "updated_at": "2026-06-01T16:23:08Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -36,30 +90,12 @@
     "url": "https://github.com/vstorm-co/pydantic-deepagents"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T16:00:41Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 3649,
-    "updated_at": "2026-06-01T16:15:27Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
     "id": "Krako-Labs/KORA",
     "language": "Python",
     "name": "Krako-Labs/KORA",
     "stars": 16,
-    "updated_at": "2026-06-01T16:13:35Z",
+    "updated_at": "2026-06-01T16:19:17Z",
     "url": "https://github.com/Krako-Labs/KORA"
   },
   {
@@ -76,7 +112,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 15901,
+    "stars": 15907,
     "updated_at": "2026-06-01T15:56:26Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "Arch1eSUN/Moirai",
     "stars": 1,
-    "updated_at": "2026-06-01T15:40:39Z",
+    "updated_at": "2026-06-01T16:25:25Z",
     "url": "https://github.com/Arch1eSUN/Moirai"
   },
   {
@@ -153,15 +189,6 @@
     "url": "https://github.com/bakw00ds/yakos"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-01T16:02:13Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -171,15 +198,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "Deterministic AI decisions for production. Rules first, LLMs score second, evidence always required. TypeScript alternat",
-    "id": "balureddy003/kairos-ai",
-    "language": "TypeScript",
-    "name": "balureddy003/kairos-ai",
-    "stars": 0,
-    "updated_at": "2026-06-01T16:14:39Z",
-    "url": "https://github.com/balureddy003/kairos-ai"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -187,24 +205,6 @@
     "stars": 2,
     "updated_at": "2026-06-01T15:35:05Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "\u5f00\u6e90\u81ea\u6258\u7ba1 AI Agent \u2014 Go + Rust + provider-agnostic | Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness",
-    "id": "polarisagi/polarisagi-harness",
-    "language": "Go",
-    "name": "polarisagi/polarisagi-harness",
-    "stars": 2,
-    "updated_at": "2026-06-01T16:14:30Z",
-    "url": "https://github.com/polarisagi/polarisagi-harness"
-  },
-  {
-    "description": "Capsule is an open-source tool built to solve framework lock-in and improve reproducibility in AI agent development. Ins",
-    "id": "vindepemarte/Capsule",
-    "language": "Python",
-    "name": "vindepemarte/Capsule",
-    "stars": 1,
-    "updated_at": "2026-06-01T15:32:12Z",
-    "url": "https://github.com/vindepemarte/Capsule"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -427,7 +427,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17440,
+    "stars": 17441,
     "updated_at": "2026-06-01T14:37:49Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -437,7 +437,7 @@
     "language": "TypeScript",
     "name": "mj-deving/omniweb-agents",
     "stars": 0,
-    "updated_at": "2026-06-01T14:34:48Z",
+    "updated_at": "2026-06-01T16:17:31Z",
     "url": "https://github.com/mj-deving/omniweb-agents"
   },
   {

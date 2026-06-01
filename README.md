@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-01 16:15 UTC
+> ⏰ Last updated: 2026-06-01 16:27 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ntholm86/principles-of-earned-autonomy-skills-suite](https://github.com/ntholm86/principles-of-earned-autonomy-skills-suite) | 0 | PowerShell | 2026-06-01 | Principles of Earned Autonomy - Skills Suite |
-| 2 | [roackb2/heddle](https://github.com/roackb2/heddle) | 12 | TypeScript | 2026-06-01 | An open-source terminal coding agent runtime and CLI for real project work. |
-| 3 | [bbvch-ai/aihub-core](https://github.com/bbvch-ai/aihub-core) | 5 | Python | 2026-06-01 | The open-source AI infrastructure stack for Swiss enterprises. |
-| 4 | [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) | 830 | Python | 2026-06-01 | Build Claude Code–style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints |
-| 5 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-01 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 6 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 3649 | Python | 2026-06-01 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
-| 7 | [Krako-Labs/KORA](https://github.com/Krako-Labs/KORA) | 16 | Python | 2026-06-01 | An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it. |
-| 8 | [MarlBurroW/kinbot](https://github.com/MarlBurroW/kinbot) | 42 | TypeScript | 2026-06-01 | Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud |
-| 9 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 15901 | Go | 2026-06-01 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 10 | [awakenworks/awaken](https://github.com/awakenworks/awaken) | 77 | Rust | 2026-06-01 | AI agent runtime for Rust — type-safe state, multi-protocol serving, plugin extensibility. |
-| 11 | [Sanga1032/fullstack-mcp-playground](https://github.com/Sanga1032/fullstack-mcp-playground) | 1 | TypeScript | 2026-06-01 | 🤖 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as |
-| 12 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-06-01 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
-| 13 | [fuseraft/fuseraft-cli](https://github.com/fuseraft/fuseraft-cli) | 2 | C# | 2026-06-01 | Define a team of AI agents — each with its own role, model, skills, and tools — and describe how they hand off to each o |
-| 14 | [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) | 270 | JavaScript | 2026-06-01 | 🛡️Decision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit |
-| 15 | [Wh1isper/starweaver](https://github.com/Wh1isper/starweaver) | 2 | Rust | 2026-06-01 | Agent SDK, CLI, Claw, Platform in Rust |
-| 16 | [Arch1eSUN/Moirai](https://github.com/Arch1eSUN/Moirai) | 1 | Python | 2026-06-01 | Moirai — Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded |
-| 17 | [bakw00ds/yakos](https://github.com/bakw00ds/yakos) | 2 | Shell | 2026-06-01 | Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de |
-| 18 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 3 | Python | 2026-06-01 | Many Agents, one objective... yours  |
-| 19 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 128 | Python | 2026-06-01 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
-| 20 | [balureddy003/kairos-ai](https://github.com/balureddy003/kairos-ai) | 0 | TypeScript | 2026-06-01 | Deterministic AI decisions for production. Rules first, LLMs score second, evidence always required. TypeScript alternat |
-| 21 | [opencue/cuecards](https://github.com/opencue/cuecards) | 2 | TypeScript | 2026-06-01 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
-| 22 | [polarisagi/polarisagi-harness](https://github.com/polarisagi/polarisagi-harness) | 2 | Go | 2026-06-01 | 开源自托管 AI Agent — Go + Rust + provider-agnostic \| Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness |
-| 23 | [vindepemarte/Capsule](https://github.com/vindepemarte/Capsule) | 1 | Python | 2026-06-01 | Capsule is an open-source tool built to solve framework lock-in and improve reproducibility in AI agent development. Ins |
+| 1 | [vindepemarte/Capsule](https://github.com/vindepemarte/Capsule) | 1 | Python | 2026-06-01 | Capsule is an open-source tool built to solve framework lock-in and improve reproducibility in AI agent development. Ins |
+| 2 | [polarisagi/polarisagi-harness](https://github.com/polarisagi/polarisagi-harness) | 2 | Go | 2026-06-01 | 开源自托管 AI Agent — Go + Rust + provider-agnostic \| Self-hosted AI Agent with FSM kernel, MCP, Cedar policy & eval harness |
+| 3 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 3 | Python | 2026-06-01 | Many Agents, one objective... yours  |
+| 4 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-01 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 5 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 3650 | Python | 2026-06-01 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
+| 6 | [balureddy003/kairos-ai](https://github.com/balureddy003/kairos-ai) | 0 | TypeScript | 2026-06-01 | Deterministic AI decisions for production. Rules first, LLMs score second, evidence always required. TypeScript alternat |
+| 7 | [ntholm86/principles-of-earned-autonomy-skills-suite](https://github.com/ntholm86/principles-of-earned-autonomy-skills-suite) | 0 | PowerShell | 2026-06-01 | Principles of Earned Autonomy - Skills Suite |
+| 8 | [roackb2/heddle](https://github.com/roackb2/heddle) | 12 | TypeScript | 2026-06-01 | An open-source terminal coding agent runtime and CLI for real project work. |
+| 9 | [bbvch-ai/aihub-core](https://github.com/bbvch-ai/aihub-core) | 5 | Python | 2026-06-01 | The open-source AI infrastructure stack for Swiss enterprises. |
+| 10 | [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) | 830 | Python | 2026-06-01 | Build Claude Code–style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints |
+| 11 | [Krako-Labs/KORA](https://github.com/Krako-Labs/KORA) | 16 | Python | 2026-06-01 | An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it. |
+| 12 | [MarlBurroW/kinbot](https://github.com/MarlBurroW/kinbot) | 42 | TypeScript | 2026-06-01 | Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud |
+| 13 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 15907 | Go | 2026-06-01 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 14 | [awakenworks/awaken](https://github.com/awakenworks/awaken) | 77 | Rust | 2026-06-01 | AI agent runtime for Rust — type-safe state, multi-protocol serving, plugin extensibility. |
+| 15 | [Sanga1032/fullstack-mcp-playground](https://github.com/Sanga1032/fullstack-mcp-playground) | 1 | TypeScript | 2026-06-01 | 🤖 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as |
+| 16 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-06-01 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
+| 17 | [fuseraft/fuseraft-cli](https://github.com/fuseraft/fuseraft-cli) | 2 | C# | 2026-06-01 | Define a team of AI agents — each with its own role, model, skills, and tools — and describe how they hand off to each o |
+| 18 | [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) | 270 | JavaScript | 2026-06-01 | 🛡️Decision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit |
+| 19 | [Wh1isper/starweaver](https://github.com/Wh1isper/starweaver) | 2 | Rust | 2026-06-01 | Agent SDK, CLI, Claw, Platform in Rust |
+| 20 | [Arch1eSUN/Moirai](https://github.com/Arch1eSUN/Moirai) | 1 | Python | 2026-06-01 | Moirai — Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded |
+| 21 | [bakw00ds/yakos](https://github.com/bakw00ds/yakos) | 2 | Shell | 2026-06-01 | Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de |
+| 22 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 128 | Python | 2026-06-01 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
+| 23 | [opencue/cuecards](https://github.com/opencue/cuecards) | 2 | TypeScript | 2026-06-01 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
 | 24 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-06-01 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
 | 25 | [fxMT-nx/El-Primor](https://github.com/fxMT-nx/El-Primor) | 1 | Makefile | 2026-06-01 | 🏆 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptación y aprendizaje de errores. Cu |
 | 26 | [ellmos-ai/ellmos-clatcher-mcp](https://github.com/ellmos-ai/ellmos-clatcher-mcp) | 1 | TypeScript | 2026-06-01 | Claude Patcher -- MCP tools that extend Claude Code beyond built-in capabilities. Fix encoding, convert formats, detect  |
@@ -89,7 +89,7 @@ expired items removed — so you can rely on what you see being current.
 | 45 | [lightfastai/lightfast](https://github.com/lightfastai/lightfast) | 16 | TypeScript | 2026-06-01 | Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation — orchestrated  |
 | 46 | [Eliyce/paqad-ai](https://github.com/Eliyce/paqad-ai) | 4 | TypeScript | 2026-06-01 | Spec-driven development framework — AI agents that think before they type |
 | 47 | [KyleC69/Agentic-AI-WPF](https://github.com/KyleC69/Agentic-AI-WPF) | 3 | C# | 2026-06-01 | A robust example demonstrating the power of MS Agent Framework using features like RAG injection, history injection, SQL |
-| 48 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17440 | Python | 2026-06-01 | AI Agent Framework, the Pydantic way |
+| 48 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17441 | Python | 2026-06-01 | AI Agent Framework, the Pydantic way |
 | 49 | [mj-deving/omniweb-agents](https://github.com/mj-deving/omniweb-agents) | 0 | TypeScript | 2026-06-01 | Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony |
 | 50 | [cortexkit/aft](https://github.com/cortexkit/aft) | 126 | Rust | 2026-06-01 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
 <!-- TRACKER_TABLE_END -->
