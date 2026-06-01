@@ -1,12 +1,75 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0fDecision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit",
+    "id": "ucsandman/DashClaw",
+    "language": "JavaScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 272,
+    "updated_at": "2026-06-01T21:12:05Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
+    "id": "MarlBurroW/kinbot",
+    "language": "TypeScript",
+    "name": "MarlBurroW/kinbot",
+    "stars": 42,
+    "updated_at": "2026-06-01T21:09:30Z",
+    "url": "https://github.com/MarlBurroW/kinbot"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-01T21:12:02Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
+    "id": "Krako-Labs/KORA",
+    "language": "Python",
+    "name": "Krako-Labs/KORA",
+    "stars": 18,
+    "updated_at": "2026-06-01T21:06:43Z",
+    "url": "https://github.com/Krako-Labs/KORA"
+  },
+  {
+    "description": "Minimal Python framework for building LLM-powered ReAct agents \u2014 OpenAI, Anthropic, Ollama",
+    "id": "bhupendra05/ai-agents",
+    "language": "Python",
+    "name": "bhupendra05/ai-agents",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:04:20Z",
+    "url": "https://github.com/bhupendra05/ai-agents"
+  },
+  {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 9,
+    "updated_at": "2026-06-01T21:03:33Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 3674,
-    "updated_at": "2026-06-01T20:58:19Z",
+    "updated_at": "2026-06-01T21:03:57Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:00:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -54,24 +117,6 @@
     "url": "https://github.com/pablo0713-glitch/trixxie-companion-agent"
   },
   {
-    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
-    "id": "Krako-Labs/KORA",
-    "language": "Python",
-    "name": "Krako-Labs/KORA",
-    "stars": 18,
-    "updated_at": "2026-06-01T20:48:29Z",
-    "url": "https://github.com/Krako-Labs/KORA"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T20:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Deterministic AI decisions for production. Rules first, LLMs score second, evidence always required. TypeScript alternat",
     "id": "balureddy003/kairos-ai",
     "language": "TypeScript",
@@ -88,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-06-01T20:42:10Z",
     "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fDecision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit",
-    "id": "ucsandman/DashClaw",
-    "language": "JavaScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 272,
-    "updated_at": "2026-06-01T20:40:39Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "\ud83d\udc14 An open-source, distributed AI agent farm OS. Raise, train, and trade autonomous agents on your own hardware.",
@@ -142,24 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T20:35:06Z",
     "url": "https://github.com/backblaze-labs/awesome-agent-infrastructure"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-01T20:55:59Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
-    "id": "MarlBurroW/kinbot",
-    "language": "TypeScript",
-    "name": "MarlBurroW/kinbot",
-    "stars": 42,
-    "updated_at": "2026-06-01T20:27:15Z",
-    "url": "https://github.com/MarlBurroW/kinbot"
   },
   {
     "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T19:52:22Z",
     "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-06-01T19:51:48Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-01T19:51:37Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
