@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open-source multi-agent AI harness \u2014 orchestrate teams of agents that delegate, collaborate in group chat, and work live",
+    "id": "clawboo/clawboo",
+    "language": "TypeScript",
+    "name": "clawboo/clawboo",
+    "stars": 10,
+    "updated_at": "2026-06-01T18:11:04Z",
+    "url": "https://github.com/clawboo/clawboo"
+  },
+  {
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
+    "language": "Python",
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 17,
+    "updated_at": "2026-06-01T18:08:38Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+  },
+  {
+    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
+    "id": "Arch1eSUN/Moirai",
+    "language": "Python",
+    "name": "Arch1eSUN/Moirai",
+    "stars": 1,
+    "updated_at": "2026-06-01T18:03:08Z",
+    "url": "https://github.com/Arch1eSUN/Moirai"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10944,
+    "updated_at": "2026-06-01T18:01:24Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T18:00:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An agentic loop framework, TUI or Web UI. Supports MCP, skills and plugins with progressive disclosure. ",
     "id": "darenr/LoopBack",
     "language": "Python",
@@ -72,15 +117,6 @@
     "url": "https://github.com/MiteshSharma/ethos"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T17:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -135,15 +171,6 @@
     "url": "https://github.com/filipw/AgentGuard"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10944,
-    "updated_at": "2026-06-01T17:54:13Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
     "id": "firatcand/roster",
     "language": "TypeScript",
@@ -151,24 +178,6 @@
     "stars": 12,
     "updated_at": "2026-06-01T17:22:18Z",
     "url": "https://github.com/firatcand/roster"
-  },
-  {
-    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
-    "id": "Arch1eSUN/Moirai",
-    "language": "Python",
-    "name": "Arch1eSUN/Moirai",
-    "stars": 1,
-    "updated_at": "2026-06-01T17:19:39Z",
-    "url": "https://github.com/Arch1eSUN/Moirai"
-  },
-  {
-    "description": "Open-source multi-agent AI harness \u2014 orchestrate teams of agents that delegate, collaborate in group chat, and work live",
-    "id": "clawboo/clawboo",
-    "language": "TypeScript",
-    "name": "clawboo/clawboo",
-    "stars": 10,
-    "updated_at": "2026-06-01T17:57:29Z",
-    "url": "https://github.com/clawboo/clawboo"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -220,7 +229,7 @@
     "id": "Krako-Labs/KORA",
     "language": "Python",
     "name": "Krako-Labs/KORA",
-    "stars": 16,
+    "stars": 17,
     "updated_at": "2026-06-01T17:03:54Z",
     "url": "https://github.com/Krako-Labs/KORA"
   },
@@ -266,7 +275,7 @@
     "language": "JavaScript",
     "name": "EvoMap/evolver",
     "stars": 7610,
-    "updated_at": "2026-06-01T16:50:32Z",
+    "updated_at": "2026-06-01T18:14:48Z",
     "url": "https://github.com/EvoMap/evolver"
   },
   {
@@ -351,15 +360,6 @@
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 17,
-    "updated_at": "2026-06-01T16:37:17Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
     "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
     "id": "hdhks1229i3/vibecheck",
     "language": "Zig",
@@ -382,7 +382,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3660,
+    "stars": 3662,
     "updated_at": "2026-06-01T16:35:33Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
