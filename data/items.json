@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 10948,
-    "updated_at": "2026-06-01T21:27:45Z",
+    "updated_at": "2026-06-01T21:44:36Z",
     "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
+    "id": "PiloTracer/.ai",
+    "language": "Shell",
+    "name": "PiloTracer/.ai",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:43:29Z",
+    "url": "https://github.com/PiloTracer/.ai"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-01T21:43:24Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fDecision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit",
+    "id": "ucsandman/DashClaw",
+    "language": "JavaScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 272,
+    "updated_at": "2026-06-01T21:40:53Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:39:47Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-01T21:38:12Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 8,
+    "updated_at": "2026-06-01T21:37:08Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1172,
+    "updated_at": "2026-06-01T21:33:26Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
+    "id": "Krako-Labs/KORA",
+    "language": "Python",
+    "name": "Krako-Labs/KORA",
+    "stars": 18,
+    "updated_at": "2026-06-01T21:31:46Z",
+    "url": "https://github.com/Krako-Labs/KORA"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:30:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -27,49 +108,13 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1172,
-    "updated_at": "2026-06-01T21:24:32Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3674,
+    "stars": 3675,
     "updated_at": "2026-06-01T21:21:56Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
-    "id": "PiloTracer/.ai",
-    "language": "Shell",
-    "name": "PiloTracer/.ai",
-    "stars": 0,
-    "updated_at": "2026-06-01T21:21:33Z",
-    "url": "https://github.com/PiloTracer/.ai"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fDecision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit",
-    "id": "ucsandman/DashClaw",
-    "language": "JavaScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 272,
-    "updated_at": "2026-06-01T21:21:26Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T21:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
@@ -79,24 +124,6 @@
     "stars": 42,
     "updated_at": "2026-06-01T21:09:30Z",
     "url": "https://github.com/MarlBurroW/kinbot"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-01T21:24:30Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
-    "id": "Krako-Labs/KORA",
-    "language": "Python",
-    "name": "Krako-Labs/KORA",
-    "stars": 18,
-    "updated_at": "2026-06-01T21:06:43Z",
-    "url": "https://github.com/Krako-Labs/KORA"
   },
   {
     "description": "Minimal Python framework for building LLM-powered ReAct agents \u2014 OpenAI, Anthropic, Ollama",
@@ -207,15 +234,6 @@
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 8,
-    "updated_at": "2026-06-01T20:36:51Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "A curated list of AI agent infrastructure: memory stores, vector databases, execution sandboxes, MCP servers, tool regis",
     "id": "backblaze-labs/awesome-agent-infrastructure",
     "language": "\u2014",
@@ -238,7 +256,7 @@
     "id": "fxMT-nx/El-Primor",
     "language": "Makefile",
     "name": "fxMT-nx/El-Primor",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-01T20:22:54Z",
     "url": "https://github.com/fxMT-nx/El-Primor"
   },
@@ -295,15 +313,6 @@
     "stars": 17,
     "updated_at": "2026-06-01T20:10:44Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-01T21:29:51Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T19:54:45Z",
     "url": "https://github.com/Danielle6426/Qwen-Loop"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 2,
-    "updated_at": "2026-06-01T19:54:17Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
   }
 ]
