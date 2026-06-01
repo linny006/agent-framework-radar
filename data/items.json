@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T10:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
     "id": "aomi-labs/aomi",
     "language": "TypeScript",
@@ -18,12 +27,21 @@
     "url": "https://github.com/helix-harness/runtime"
   },
   {
+    "description": "ICL (Imperative Context Language) is an open specification for governed AI agent execution in enterprise systems. It def",
+    "id": "diarm001/ICL",
+    "language": "\u2014",
+    "name": "diarm001/ICL",
+    "stars": 1,
+    "updated_at": "2026-06-01T10:28:17Z",
+    "url": "https://github.com/diarm001/ICL"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 15701,
-    "updated_at": "2026-06-01T10:26:23Z",
+    "updated_at": "2026-06-01T10:31:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -99,15 +117,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T10:15:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
     "id": "MiteshSharma/ethos",
     "language": "TypeScript",
@@ -133,6 +142,15 @@
     "stars": 90,
     "updated_at": "2026-06-01T09:54:45Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 218,
+    "updated_at": "2026-06-01T09:50:12Z",
+    "url": "https://github.com/GizClaw/flowcraft"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T09:20:25Z",
     "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-01T09:19:26Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-01T09:18:48Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
   }
 ]
