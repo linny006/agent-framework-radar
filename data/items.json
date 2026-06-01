@@ -1,5 +1,23 @@
 [
   {
+    "description": "Deterministic AI decisions for production. Rules first, LLMs score second, evidence always required. TypeScript alternat",
+    "id": "balureddy003/kairos-ai",
+    "language": "TypeScript",
+    "name": "balureddy003/kairos-ai",
+    "stars": 0,
+    "updated_at": "2026-06-01T20:44:44Z",
+    "url": "https://github.com/balureddy003/kairos-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T20:43:39Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Research framework for adaptive, purposeful agents under uncertainty",
     "id": "v2-io/agentic-systems",
     "language": "TeX",
@@ -70,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T20:35:06Z",
     "url": "https://github.com/backblaze-labs/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T20:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T19:50:37Z",
     "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 0,
-    "updated_at": "2026-06-01T19:50:28Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
