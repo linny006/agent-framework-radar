@@ -1,5 +1,32 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 15844,
+    "updated_at": "2026-06-01T14:30:06Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "LangGraph \u2014 langchain agent, langchain setup, ai agent workflow.",
+    "id": "BuffaloShine/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "BuffaloShine/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:18:58Z",
+    "url": "https://github.com/BuffaloShine/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:15:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
     "id": "fxMT-nx/El-Primor",
     "language": "Makefile",
@@ -9,22 +36,13 @@
     "url": "https://github.com/fxMT-nx/El-Primor"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 15833,
-    "updated_at": "2026-06-01T14:01:10Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T14:00:35Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 11,
+    "updated_at": "2026-06-01T14:00:49Z",
+    "url": "https://github.com/roackb2/heddle"
   },
   {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
@@ -32,15 +50,24 @@
     "language": "TypeScript",
     "name": "aaronjmars/aeon",
     "stars": 471,
-    "updated_at": "2026-06-01T13:58:22Z",
+    "updated_at": "2026-06-01T14:26:49Z",
     "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
+    "id": "Arch1eSUN/Moirai",
+    "language": "Python",
+    "name": "Arch1eSUN/Moirai",
+    "stars": 1,
+    "updated_at": "2026-06-01T14:29:53Z",
+    "url": "https://github.com/Arch1eSUN/Moirai"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 101,
+    "stars": 102,
     "updated_at": "2026-06-01T13:57:34Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -52,6 +79,15 @@
     "stars": 17438,
     "updated_at": "2026-06-01T13:56:17Z",
     "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
+    "id": "Krako-Labs/KORA",
+    "language": "Python",
+    "name": "Krako-Labs/KORA",
+    "stars": 15,
+    "updated_at": "2026-06-01T13:54:12Z",
+    "url": "https://github.com/Krako-Labs/KORA"
   },
   {
     "description": "Agent OS in Rust \u2014 one binary, 37 agents, 26 LLM providers, 37 channels (Telegram/Discord/Slack...), MCP server, A2A pro",
@@ -70,6 +106,15 @@
     "stars": 1227,
     "updated_at": "2026-06-01T13:52:58Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
+    "id": "herreravalenz6620/context-compression",
+    "language": "Python",
+    "name": "herreravalenz6620/context-compression",
+    "stars": 1,
+    "updated_at": "2026-06-01T13:52:46Z",
+    "url": "https://github.com/herreravalenz6620/context-compression"
   },
   {
     "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
@@ -257,7 +302,7 @@
     "language": "JavaScript",
     "name": "ucsandman/DashClaw",
     "stars": 270,
-    "updated_at": "2026-06-01T14:07:35Z",
+    "updated_at": "2026-06-01T14:19:06Z",
     "url": "https://github.com/ucsandman/DashClaw"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T13:28:35Z",
     "url": "https://github.com/karunun4659/spawnverse"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:28:20Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Connect WeChat messages to local AI coding agents like Codex, OpenCode, and Claude Code for fast task handling and file ",
-    "id": "arthursou0512/wechat-agent-channel",
-    "language": "Python",
-    "name": "arthursou0512/wechat-agent-channel",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:27:36Z",
-    "url": "https://github.com/arthursou0512/wechat-agent-channel"
-  },
-  {
-    "description": "Build AI agents with memory using three markdown files and a git repo; no framework, no database, works with any coding ",
-    "id": "Nurrachm6921/agent-kernel",
-    "language": "\u2014",
-    "name": "Nurrachm6921/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:26:47Z",
-    "url": "https://github.com/Nurrachm6921/agent-kernel"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:26:09Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
-    "id": "fuseraft/fuseraft-cli",
-    "language": "C#",
-    "name": "fuseraft/fuseraft-cli",
-    "stars": 2,
-    "updated_at": "2026-06-01T13:25:12Z",
-    "url": "https://github.com/fuseraft/fuseraft-cli"
   }
 ]
