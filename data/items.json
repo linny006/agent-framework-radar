@@ -1,5 +1,68 @@
 [
   {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Shell",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-02T17:57:05Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
+    "id": "Arch1eSUN/Moirai",
+    "language": "Python",
+    "name": "Arch1eSUN/Moirai",
+    "stars": 1,
+    "updated_at": "2026-06-02T17:56:18Z",
+    "url": "https://github.com/Arch1eSUN/Moirai"
+  },
+  {
+    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
+    "id": "jaylfc/tinyagentos",
+    "language": "Python",
+    "name": "jaylfc/tinyagentos",
+    "stars": 193,
+    "updated_at": "2026-06-02T17:58:27Z",
+    "url": "https://github.com/jaylfc/tinyagentos"
+  },
+  {
+    "description": "Recovery primitives for long-running chat-based AI agent gateways",
+    "id": "loveaq0215/restart-resilient-agent-gateway",
+    "language": "Python",
+    "name": "loveaq0215/restart-resilient-agent-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:56:19Z",
+    "url": "https://github.com/loveaq0215/restart-resilient-agent-gateway"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3778,
+    "updated_at": "2026-06-02T18:00:06Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 10,
+    "updated_at": "2026-06-02T17:55:12Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:45:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
     "id": "JohnnyFiv3r/Core-Memory",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 0,
-    "updated_at": "2026-06-02T17:41:20Z",
+    "updated_at": "2026-06-02T17:46:03Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -36,15 +99,6 @@
     "url": "https://github.com/badhope/DATA-AI"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T17:30:35Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -63,15 +117,6 @@
     "url": "https://github.com/Ecro/harness-maker"
   },
   {
-    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
-    "id": "jaylfc/tinyagentos",
-    "language": "Python",
-    "name": "jaylfc/tinyagentos",
-    "stars": 193,
-    "updated_at": "2026-06-02T17:23:58Z",
-    "url": "https://github.com/jaylfc/tinyagentos"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T17:22:48Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
-    "id": "Arch1eSUN/Moirai",
-    "language": "Python",
-    "name": "Arch1eSUN/Moirai",
-    "stars": 1,
-    "updated_at": "2026-06-02T17:17:23Z",
-    "url": "https://github.com/Arch1eSUN/Moirai"
   },
   {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
@@ -108,21 +144,12 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Shell",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-02T17:13:51Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
     "description": "AI integration layer for Jido agents with LLM orchestration and reasoning strategies.",
     "id": "agentjido/jido_ai",
     "language": "Elixir",
     "name": "agentjido/jido_ai",
     "stars": 188,
-    "updated_at": "2026-06-02T17:10:07Z",
+    "updated_at": "2026-06-02T18:00:04Z",
     "url": "https://github.com/agentjido/jido_ai"
   },
   {
@@ -142,6 +169,15 @@
     "stars": 2,
     "updated_at": "2026-06-02T17:08:19Z",
     "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 106,
+    "updated_at": "2026-06-02T17:03:00Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -175,7 +211,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 16628,
+    "stars": 16631,
     "updated_at": "2026-06-02T16:57:07Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -232,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T16:46:38Z",
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 3777,
-    "updated_at": "2026-06-02T16:44:23Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T16:34:50Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:34:30Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:34:29Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:34:09Z",
-    "url": "https://github.com/Thuso030703/open-claude"
   }
 ]
