@@ -1,39 +1,12 @@
 [
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 3793,
-    "updated_at": "2026-06-02T21:12:08Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
-    "id": "fxMT-nx/El-Primor",
-    "language": "JavaScript",
-    "name": "fxMT-nx/El-Primor",
-    "stars": 4,
-    "updated_at": "2026-06-02T21:10:45Z",
-    "url": "https://github.com/fxMT-nx/El-Primor"
-  },
-  {
-    "description": "gald3r advanced tier: 22 agents, 100 core skills + 142 addon skill packs + 8 personality themes, 149 commands. Full fram",
-    "id": "wrm3/gald3r_template_adv",
-    "language": "PowerShell",
-    "name": "wrm3/gald3r_template_adv",
-    "stars": 1,
-    "updated_at": "2026-06-02T21:05:48Z",
-    "url": "https://github.com/wrm3/gald3r_template_adv"
-  },
-  {
-    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
-    "id": "wrm3/gald3r",
-    "language": "PowerShell",
-    "name": "wrm3/gald3r",
-    "stars": 17,
-    "updated_at": "2026-06-02T21:05:45Z",
-    "url": "https://github.com/wrm3/gald3r"
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-02T21:30:20Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
     "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
@@ -41,17 +14,62 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 0,
-    "updated_at": "2026-06-02T21:06:11Z",
+    "updated_at": "2026-06-02T21:29:37Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:00:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "rllm-org/rllm",
+    "stars": 5589,
+    "updated_at": "2026-06-02T21:29:26Z",
+    "url": "https://github.com/rllm-org/rllm"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 6,
+    "updated_at": "2026-06-02T21:28:46Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-02T21:27:58Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
+    "id": "fxMT-nx/El-Primor",
+    "language": "JavaScript",
+    "name": "fxMT-nx/El-Primor",
+    "stars": 4,
+    "updated_at": "2026-06-02T21:27:57Z",
+    "url": "https://github.com/fxMT-nx/El-Primor"
+  },
+  {
+    "description": "The unified APEX core engine: a plan-deterministic execution kernel, pre-execution safety contracts, in-process RAG, and",
+    "id": "axiom-llc/apex",
+    "language": "Python",
+    "name": "axiom-llc/apex",
+    "stars": 2,
+    "updated_at": "2026-06-02T21:22:22Z",
+    "url": "https://github.com/axiom-llc/apex"
+  },
+  {
+    "description": "An agentic loop framework, TUI or Web UI. Supports MCP, skills and plugins with progressive disclosure. ",
+    "id": "darenr/LoopBack",
+    "language": "Python",
+    "name": "darenr/LoopBack",
+    "stars": 3,
+    "updated_at": "2026-06-02T21:22:01Z",
+    "url": "https://github.com/darenr/LoopBack"
   },
   {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
@@ -59,8 +77,26 @@
     "language": "Shell",
     "name": "bakw00ds/yakos",
     "stars": 2,
-    "updated_at": "2026-06-02T21:15:27Z",
+    "updated_at": "2026-06-02T21:15:34Z",
     "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T21:15:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3795,
+    "updated_at": "2026-06-02T21:12:08Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T20:54:00Z",
     "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-02T21:13:56Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Temporal contracts and governed time based state logic for Riverbraid.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T20:39:56Z",
     "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-02T20:39:42Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-06-02T20:38:34Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Cluster wide verification harness for byte floor, seals, and stationary state checks.",
-    "id": "Riverbraid/Riverbraid-Harness-Gold",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-Harness-Gold",
-    "stars": 1,
-    "updated_at": "2026-06-02T20:38:24Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-Harness-Gold"
   }
 ]
