@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-02 04:59 UTC
+> ⏰ Last updated: 2026-06-02 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [daryhh/voxclaw](https://github.com/daryhh/voxclaw) | 0 | TypeScript | 2026-06-02 | Pluggable voice I/O skill for agent runtimes (Discord-first, OpenClaw-aware) \| 为 Agent 运行时打造的可插拔语音 I/O 技能框架（Discord 优先,兼 |
-| 2 | [tya5/reyn](https://github.com/tya5/reyn) | 6 | Python | 2026-06-02 | LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy. |
-| 3 | [pablo0713-glitch/trixxie-companion-agent](https://github.com/pablo0713-glitch/trixxie-companion-agent) | 3 | Python | 2026-06-02 | Trixxie is a self‑hosted AI companion agent that runs in Second Life and Discord. It provides natural conversation, memo |
-| 4 | [garyqlin/gbase](https://github.com/garyqlin/gbase) | 103 | Python | 2026-06-02 | GBase — Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi |
-| 5 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 65 | TypeScript | 2026-06-02 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 6 | [wanxingai/LightAgent](https://github.com/wanxingai/LightAgent) | 1073 | Python | 2026-06-02 | LightAgent: Lightweight AI agent framework with memory, mcp & skill. Supports multi-agent collaboration, self-learning,  |
-| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-02 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-02 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [daryhh/voxclaw](https://github.com/daryhh/voxclaw) | 0 | TypeScript | 2026-06-02 | Pluggable voice I/O skill for agent runtimes (Discord-first, OpenClaw-aware) \| 为 Agent 运行时打造的可插拔语音 I/O 技能框架（Discord 优先,兼 |
+| 3 | [tya5/reyn](https://github.com/tya5/reyn) | 6 | Python | 2026-06-02 | LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy. |
+| 4 | [pablo0713-glitch/trixxie-companion-agent](https://github.com/pablo0713-glitch/trixxie-companion-agent) | 3 | Python | 2026-06-02 | Trixxie is a self‑hosted AI companion agent that runs in Second Life and Discord. It provides natural conversation, memo |
+| 5 | [garyqlin/gbase](https://github.com/garyqlin/gbase) | 103 | Python | 2026-06-02 | GBase — Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi |
+| 6 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 65 | TypeScript | 2026-06-02 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 7 | [wanxingai/LightAgent](https://github.com/wanxingai/LightAgent) | 1073 | Python | 2026-06-02 | LightAgent: Lightweight AI agent framework with memory, mcp & skill. Supports multi-agent collaboration, self-learning,  |
 | 8 | [tonylnng/gateforge-ai-ao](https://github.com/tonylnng/gateforge-ai-ao) | 0 | Shell | 2026-06-02 | Vendor-neutral, methodology-neutral AI agent orchestration framework. Git + NATS JetStream + MinIO. Event-driven, no pol |
 | 9 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 130 | Python | 2026-06-02 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
 | 10 | [Sanga1032/fullstack-mcp-playground](https://github.com/Sanga1032/fullstack-mcp-playground) | 1 | TypeScript | 2026-06-02 | 🤖 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as |

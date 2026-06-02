@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T04:59:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Pluggable voice I/O skill for agent runtimes (Discord-first, OpenClaw-aware) | \u4e3a Agent \u8fd0\u884c\u65f6\u6253\u9020\u7684\u53ef\u63d2\u62d4\u8bed\u97f3 I/O \u6280\u80fd\u6846\u67b6\uff08Discord \u4f18\u5148,\u517c",
     "id": "daryhh/voxclaw",
     "language": "TypeScript",
@@ -52,15 +61,6 @@
     "stars": 1073,
     "updated_at": "2026-06-02T04:47:02Z",
     "url": "https://github.com/wanxingai/LightAgent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T04:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Vendor-neutral, methodology-neutral AI agent orchestration framework. Git + NATS JetStream + MinIO. Event-driven, no pol",
