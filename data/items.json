@@ -1,20 +1,11 @@
 [
   {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 2,
-    "updated_at": "2026-06-02T23:14:13Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
     "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
     "id": "inkeep/agents",
     "language": "TypeScript",
     "name": "inkeep/agents",
     "stars": 1171,
-    "updated_at": "2026-06-02T23:13:17Z",
+    "updated_at": "2026-06-02T23:29:45Z",
     "url": "https://github.com/inkeep/agents"
   },
   {
@@ -23,8 +14,98 @@
     "language": "Shell",
     "name": "bakw00ds/yakos",
     "stars": 2,
-    "updated_at": "2026-06-02T23:14:53Z",
+    "updated_at": "2026-06-02T23:29:32Z",
     "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "",
+    "id": "envergadcr/ai-video-workflow",
+    "language": "Python",
+    "name": "envergadcr/ai-video-workflow",
+    "stars": 2,
+    "updated_at": "2026-06-02T23:28:54Z",
+    "url": "https://github.com/envergadcr/ai-video-workflow"
+  },
+  {
+    "description": "\ud83e\udde0 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool",
+    "id": "Niranjan-008/Agentic-Decision-Cell",
+    "language": "Python",
+    "name": "Niranjan-008/Agentic-Decision-Cell",
+    "stars": 1,
+    "updated_at": "2026-06-02T23:28:24Z",
+    "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-02T23:26:28Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-02T23:25:31Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 0,
+    "updated_at": "2026-06-02T23:25:24Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-02T23:22:11Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "A Rust execution runtime framework that governs what AI agents can do: ed25519-signed capability writs, effect-ceiling e",
+    "id": "gryszzz/open-thymos",
+    "language": "Rust",
+    "name": "gryszzz/open-thymos",
+    "stars": 13,
+    "updated_at": "2026-06-02T23:22:01Z",
+    "url": "https://github.com/gryszzz/open-thymos"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-02T23:20:12Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-02T23:18:58Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T23:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Phronesis is a Python framework for designing, composing, and operating AI agent systems - typed, observable, and built ",
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "phronesis-framework/phronesis-framework",
     "stars": 0,
-    "updated_at": "2026-06-02T23:15:19Z",
+    "updated_at": "2026-06-02T23:21:11Z",
     "url": "https://github.com/phronesis-framework/phronesis-framework"
   },
   {
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T23:01:55Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T23:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
@@ -194,7 +266,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 6,
-    "updated_at": "2026-06-02T23:09:20Z",
+    "updated_at": "2026-06-02T23:16:08Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -297,24 +369,6 @@
     "url": "https://github.com/Riverbraid/Riverbraid-Integration-Gold"
   },
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:39:49Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:39:40Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
     "id": "fxMT-nx/El-Primor",
     "language": "JavaScript",
@@ -322,15 +376,6 @@
     "stars": 4,
     "updated_at": "2026-06-02T21:38:45Z",
     "url": "https://github.com/fxMT-nx/El-Primor"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:37:56Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
@@ -355,7 +400,7 @@
     "id": "rllm-org/rllm",
     "language": "Python",
     "name": "rllm-org/rllm",
-    "stars": 5589,
+    "stars": 5590,
     "updated_at": "2026-06-02T21:29:26Z",
     "url": "https://github.com/rllm-org/rllm"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-02T20:54:13Z",
     "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-02T20:54:05Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins",
-    "id": "Doubleedged-capitaloftennessee462/agentswift",
-    "language": "\u2014",
-    "name": "Doubleedged-capitaloftennessee462/agentswift",
-    "stars": 0,
-    "updated_at": "2026-06-02T20:54:00Z",
-    "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Temporal contracts and governed time based state logic for Riverbraid.",
-    "id": "Riverbraid/Riverbraid-Temporal-Gold",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-Temporal-Gold",
-    "stars": 1,
-    "updated_at": "2026-06-02T20:51:46Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-Temporal-Gold"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-06-02T20:51:39Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-06-02T20:51:11Z",
-    "url": "https://github.com/sacid446/unclaw"
   }
 ]
