@@ -1,5 +1,131 @@
 [
   {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 1,
+    "updated_at": "2026-06-02T19:44:57Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 0,
+    "updated_at": "2026-06-02T19:45:24Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
+    "id": "fxMT-nx/El-Primor",
+    "language": "Makefile",
+    "name": "fxMT-nx/El-Primor",
+    "stars": 4,
+    "updated_at": "2026-06-02T19:43:59Z",
+    "url": "https://github.com/fxMT-nx/El-Primor"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-06-02T19:43:14Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Shell",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-02T19:40:52Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
+    "id": "mj-deving/omniweb-agents",
+    "language": "TypeScript",
+    "name": "mj-deving/omniweb-agents",
+    "stars": 0,
+    "updated_at": "2026-06-02T19:41:48Z",
+    "url": "https://github.com/mj-deving/omniweb-agents"
+  },
+  {
+    "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
+    "id": "MarlBurroW/kinbot",
+    "language": "TypeScript",
+    "name": "MarlBurroW/kinbot",
+    "stars": 42,
+    "updated_at": "2026-06-02T19:38:19Z",
+    "url": "https://github.com/MarlBurroW/kinbot"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10970,
+    "updated_at": "2026-06-02T19:45:25Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-06-02T19:37:29Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-06-02T19:35:06Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "Open source Golang LLM Proxy, Agent SDK with Restate & Temporal support for durable agent loop",
+    "id": "hastekit/hastekit-sdk-go",
+    "language": "Go",
+    "name": "hastekit/hastekit-sdk-go",
+    "stars": 12,
+    "updated_at": "2026-06-02T19:34:59Z",
+    "url": "https://github.com/hastekit/hastekit-sdk-go"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-06-02T19:34:08Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 476,
+    "updated_at": "2026-06-02T19:32:02Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T19:30:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI integration layer for Jido agents with LLM orchestration and reasoning strategies.",
     "id": "agentjido/jido_ai",
     "language": "Elixir",
@@ -9,15 +135,6 @@
     "url": "https://github.com/agentjido/jido_ai"
   },
   {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 476,
-    "updated_at": "2026-06-02T19:29:42Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
     "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
     "id": "jaylfc/tinyagentos",
     "language": "Python",
@@ -25,15 +142,6 @@
     "stars": 194,
     "updated_at": "2026-06-02T19:29:31Z",
     "url": "https://github.com/jaylfc/tinyagentos"
-  },
-  {
-    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 0,
-    "updated_at": "2026-06-02T19:29:53Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "",
@@ -108,24 +216,6 @@
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
-    "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
-    "id": "MarlBurroW/kinbot",
-    "language": "TypeScript",
-    "name": "MarlBurroW/kinbot",
-    "stars": 42,
-    "updated_at": "2026-06-02T19:15:56Z",
-    "url": "https://github.com/MarlBurroW/kinbot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T19:15:37Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
     "id": "Arch1eSUN/Moirai",
     "language": "Python",
@@ -169,6 +259,15 @@
     "stars": 5,
     "updated_at": "2026-06-02T19:09:29Z",
     "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17470,
+    "updated_at": "2026-06-02T19:08:34Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
@@ -216,15 +315,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Open source Golang LLM Proxy, Agent SDK with Restate & Temporal support for durable agent loop",
-    "id": "hastekit/hastekit-sdk-go",
-    "language": "Go",
-    "name": "hastekit/hastekit-sdk-go",
-    "stars": 12,
-    "updated_at": "2026-06-02T18:54:12Z",
-    "url": "https://github.com/hastekit/hastekit-sdk-go"
-  },
-  {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
     "id": "ag2ai/ag2",
     "language": "Python",
@@ -261,15 +351,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Shell",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-02T18:45:06Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
     "description": "Reference multi-agent orchestrator \u2014 stateless design, YAML agent registry with SIGHUP hot-reload, confidence-gated rout",
     "id": "reaatech/agent-mesh",
     "language": "TypeScript",
@@ -286,24 +367,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T18:43:26Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10970,
-    "updated_at": "2026-06-02T19:30:22Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
-    "id": "mj-deving/omniweb-agents",
-    "language": "TypeScript",
-    "name": "mj-deving/omniweb-agents",
-    "stars": 0,
-    "updated_at": "2026-06-02T19:10:38Z",
-    "url": "https://github.com/mj-deving/omniweb-agents"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -337,7 +400,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3785,
+    "stars": 3786,
     "updated_at": "2026-06-02T18:18:40Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -385,68 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-02T17:29:13Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 2,
-    "updated_at": "2026-06-02T17:26:42Z",
-    "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 0,
-    "updated_at": "2026-06-02T17:22:48Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
-    "id": "motojinc25/chatwalaau",
-    "language": "Python",
-    "name": "motojinc25/chatwalaau",
-    "stars": 2,
-    "updated_at": "2026-06-02T17:17:12Z",
-    "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-02T17:16:17Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14189,
-    "updated_at": "2026-06-02T17:10:48Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Local-first AI dev agent for your terminal \u2014 provider-agnostic, cost-aware, self-improving. Apache-2.0.",
-    "id": "david-2814/metis",
-    "language": "Python",
-    "name": "david-2814/metis",
-    "stars": 1,
-    "updated_at": "2026-06-02T17:09:00Z",
-    "url": "https://github.com/david-2814/metis"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 108,
-    "updated_at": "2026-06-02T17:03:00Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   }
 ]
