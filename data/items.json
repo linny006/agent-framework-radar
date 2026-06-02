@@ -1,12 +1,66 @@
 [
   {
+    "description": "AI integration layer for Jido agents with LLM orchestration and reasoning strategies.",
+    "id": "agentjido/jido_ai",
+    "language": "Elixir",
+    "name": "agentjido/jido_ai",
+    "stars": 188,
+    "updated_at": "2026-06-02T18:13:07Z",
+    "url": "https://github.com/agentjido/jido_ai"
+  },
+  {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 9,
+    "updated_at": "2026-06-02T18:12:49Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
     "id": "bakw00ds/yakos",
     "language": "Shell",
     "name": "bakw00ds/yakos",
     "stars": 2,
-    "updated_at": "2026-06-02T17:57:05Z",
+    "updated_at": "2026-06-02T18:08:02Z",
     "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Enterprise AI Agent Framework for the modern office \u00b7 FastAPI + React 19 \u00b7 streaming chat, multi-agent teams, RAG, memor",
+    "id": "badhope/DATA-AI",
+    "language": "Python",
+    "name": "badhope/DATA-AI",
+    "stars": 17,
+    "updated_at": "2026-06-02T18:07:52Z",
+    "url": "https://github.com/badhope/DATA-AI"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1172,
+    "updated_at": "2026-06-02T18:06:06Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3780,
+    "updated_at": "2026-06-02T18:03:50Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T18:00:41Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "jaylfc/tinyagentos",
     "stars": 193,
-    "updated_at": "2026-06-02T17:58:27Z",
+    "updated_at": "2026-06-02T18:11:39Z",
     "url": "https://github.com/jaylfc/tinyagentos"
   },
   {
@@ -36,15 +90,6 @@
     "url": "https://github.com/loveaq0215/restart-resilient-agent-gateway"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 3778,
-    "updated_at": "2026-06-02T18:00:06Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
     "id": "Deep-CodeAI/Agents.KT",
     "language": "Kotlin",
@@ -52,15 +97,6 @@
     "stars": 10,
     "updated_at": "2026-06-02T17:55:12Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T17:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
@@ -77,7 +113,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 0,
-    "updated_at": "2026-06-02T17:46:03Z",
+    "updated_at": "2026-06-02T18:02:01Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-02T17:38:12Z",
     "url": "https://github.com/flowork-os/Flowork_Agent"
-  },
-  {
-    "description": "Enterprise AI Agent Framework for the modern office \u00b7 FastAPI + React 19 \u00b7 streaming chat, multi-agent teams, RAG, memor",
-    "id": "badhope/DATA-AI",
-    "language": "Python",
-    "name": "badhope/DATA-AI",
-    "stars": 17,
-    "updated_at": "2026-06-02T17:37:13Z",
-    "url": "https://github.com/badhope/DATA-AI"
   },
   {
     "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -144,15 +171,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "AI integration layer for Jido agents with LLM orchestration and reasoning strategies.",
-    "id": "agentjido/jido_ai",
-    "language": "Elixir",
-    "name": "agentjido/jido_ai",
-    "stars": 188,
-    "updated_at": "2026-06-02T18:00:04Z",
-    "url": "https://github.com/agentjido/jido_ai"
-  },
-  {
     "description": "Local-first AI dev agent for your terminal \u2014 provider-agnostic, cost-aware, self-improving. Apache-2.0.",
     "id": "david-2814/metis",
     "language": "Python",
@@ -167,7 +185,7 @@
     "language": "HTML",
     "name": "DYAI2025/Plumbline",
     "stars": 2,
-    "updated_at": "2026-06-02T17:08:19Z",
+    "updated_at": "2026-06-02T18:13:53Z",
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
@@ -211,7 +229,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 16631,
+    "stars": 16633,
     "updated_at": "2026-06-02T16:57:07Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -223,15 +241,6 @@
     "stars": 4625,
     "updated_at": "2026-06-02T16:56:56Z",
     "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1172,
-    "updated_at": "2026-06-02T16:53:48Z",
-    "url": "https://github.com/inkeep/agents"
   },
   {
     "description": "Open-source terminal AI coding-agent harness for studying agent loops, tools, MCP, skills, safety, and persistence.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T16:35:09Z",
     "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-02T16:34:50Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
