@@ -1,19 +1,127 @@
 [
   {
+    "description": "\u26a1 Self-hosted AI agent framework \u2014 sandboxed plug-and-play WASM agents, a live code security radar (Threat Radar), Teleg",
+    "id": "flowork-os/Flowork_Agent",
+    "language": "Go",
+    "name": "flowork-os/Flowork_Agent",
+    "stars": 2,
+    "updated_at": "2026-06-02T08:43:54Z",
+    "url": "https://github.com/flowork-os/Flowork_Agent"
+  },
+  {
     "description": "Composable agentic substrate (skills + MCP tools + harness + governance) running on a single laptop. 14 live business do",
     "id": "arturcrmbot/zava-control-plane",
     "language": "Python",
     "name": "arturcrmbot/zava-control-plane",
     "stars": 0,
-    "updated_at": "2026-06-02T08:30:11Z",
+    "updated_at": "2026-06-02T08:42:25Z",
     "url": "https://github.com/arturcrmbot/zava-control-plane"
+  },
+  {
+    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
+    "id": "RONIN511/alphora",
+    "language": "Python",
+    "name": "RONIN511/alphora",
+    "stars": 2,
+    "updated_at": "2026-06-02T08:41:56Z",
+    "url": "https://github.com/RONIN511/alphora"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-06-02T08:39:31Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "\ud83e\udd16 Build adaptable AI agents with skill-based systems, enabling efficient context management and seamless integration acr",
+    "id": "tanveerkhan2005/custom-agent-with-skills",
+    "language": "Python",
+    "name": "tanveerkhan2005/custom-agent-with-skills",
+    "stars": 2,
+    "updated_at": "2026-06-02T08:36:54Z",
+    "url": "https://github.com/tanveerkhan2005/custom-agent-with-skills"
+  },
+  {
+    "description": "\ud83c\udf10 Analyze resources efficiently with Agent Smith CLI, a versatile tool for developers to enhance their workflows and opt",
+    "id": "Acelito7618/agentsmith-cli",
+    "language": "TypeScript",
+    "name": "Acelito7618/agentsmith-cli",
+    "stars": 1,
+    "updated_at": "2026-06-02T08:36:09Z",
+    "url": "https://github.com/Acelito7618/agentsmith-cli"
+  },
+  {
+    "description": "Principles of Earned Autonomy - Skills Suite",
+    "id": "ntholm86/principles-of-earned-autonomy-skills-suite",
+    "language": "PowerShell",
+    "name": "ntholm86/principles-of-earned-autonomy-skills-suite",
+    "stars": 0,
+    "updated_at": "2026-06-02T08:35:36Z",
+    "url": "https://github.com/ntholm86/principles-of-earned-autonomy-skills-suite"
+  },
+  {
+    "description": "\ud83d\udcda Build an all-in-one subscription-based education platform with secure payments, content management, and analytics for ",
+    "id": "Aikyy99/EduHive",
+    "language": "TypeScript",
+    "name": "Aikyy99/EduHive",
+    "stars": 0,
+    "updated_at": "2026-06-02T08:34:45Z",
+    "url": "https://github.com/Aikyy99/EduHive"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 130,
+    "updated_at": "2026-06-02T08:33:06Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
+    "id": "cuteecarrot/AgentHub",
+    "language": "Python",
+    "name": "cuteecarrot/AgentHub",
+    "stars": 5,
+    "updated_at": "2026-06-02T08:32:23Z",
+    "url": "https://github.com/cuteecarrot/AgentHub"
+  },
+  {
+    "description": "\ud83e\udd16 Build advanced multi-agent AI systems with this high-performance Rust framework, enabling automation, reasoning, and e",
+    "id": "Albertossilva-maker/MultiAgent-AI",
+    "language": "HTML",
+    "name": "Albertossilva-maker/MultiAgent-AI",
+    "stars": 0,
+    "updated_at": "2026-06-02T08:31:47Z",
+    "url": "https://github.com/Albertossilva-maker/MultiAgent-AI"
+  },
+  {
+    "description": "Composable AI runtime framework for building agent systems with tools, agents, skills, hosts, memory, workflow packages,",
+    "id": "xyz2b/weave-ai-runtime",
+    "language": "Python",
+    "name": "xyz2b/weave-ai-runtime",
+    "stars": 0,
+    "updated_at": "2026-06-02T08:30:40Z",
+    "url": "https://github.com/xyz2b/weave-ai-runtime"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T08:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 16300,
+    "stars": 16320,
     "updated_at": "2026-06-02T08:28:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -81,15 +189,6 @@
     "url": "https://github.com/hdhks1229i3/vibecheck"
   },
   {
-    "description": "Composable AI runtime framework for building agent systems with tools, agents, skills, hosts, memory, workflow packages,",
-    "id": "xyz2b/weave-ai-runtime",
-    "language": "Python",
-    "name": "xyz2b/weave-ai-runtime",
-    "stars": 0,
-    "updated_at": "2026-06-02T08:19:17Z",
-    "url": "https://github.com/xyz2b/weave-ai-runtime"
-  },
-  {
     "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
     "id": "thesiddguy/GenAI",
     "language": "HTML",
@@ -106,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T08:16:21Z",
     "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 130,
-    "updated_at": "2026-06-02T08:15:45Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T08:15:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
@@ -166,8 +247,8 @@
     "id": "roackb2/heddle",
     "language": "TypeScript",
     "name": "roackb2/heddle",
-    "stars": 12,
-    "updated_at": "2026-06-02T08:05:11Z",
+    "stars": 13,
+    "updated_at": "2026-06-02T08:45:15Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -187,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-06-02T08:01:49Z",
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "\u26a1 Self-hosted AI agent framework \u2014 sandboxed plug-and-play WASM agents, a live code security radar (Threat Radar), Teleg",
-    "id": "flowork-os/Flowork_Agent",
-    "language": "Go",
-    "name": "flowork-os/Flowork_Agent",
-    "stars": 2,
-    "updated_at": "2026-06-02T08:01:38Z",
-    "url": "https://github.com/flowork-os/Flowork_Agent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -221,7 +293,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 16,
-    "updated_at": "2026-06-02T08:11:58Z",
+    "updated_at": "2026-06-02T08:44:05Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -239,7 +311,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 10957,
-    "updated_at": "2026-06-02T07:47:52Z",
+    "updated_at": "2026-06-02T08:41:37Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -266,7 +338,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-02T08:21:24Z",
+    "updated_at": "2026-06-02T08:44:09Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -293,7 +365,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 3735,
-    "updated_at": "2026-06-02T07:32:36Z",
+    "updated_at": "2026-06-02T08:44:45Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 52,
     "updated_at": "2026-06-02T07:05:09Z",
     "url": "https://github.com/jigjoy-ai/mozaik"
-  },
-  {
-    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 17 professi",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 3,
-    "updated_at": "2026-06-02T07:04:46Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1581,
-    "updated_at": "2026-06-02T07:03:55Z",
-    "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "A lightweight framework for running useful local agents on limited compute.",
-    "id": "Fletch-N/HALF",
-    "language": "C#",
-    "name": "Fletch-N/HALF",
-    "stars": 0,
-    "updated_at": "2026-06-02T07:00:20Z",
-    "url": "https://github.com/Fletch-N/HALF"
-  },
-  {
-    "description": "Informed Vibe Atelier \u2014 local-first OS for AI co-founders. Vibe code with a brain, ship with discipline, bring your own ",
-    "id": "Amitshukla2308/informed-vibe-atelier-prod",
-    "language": "TypeScript",
-    "name": "Amitshukla2308/informed-vibe-atelier-prod",
-    "stars": 0,
-    "updated_at": "2026-06-02T06:58:18Z",
-    "url": "https://github.com/Amitshukla2308/informed-vibe-atelier-prod"
-  },
-  {
-    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
-    "id": "hoangtuanhehehehhe/AgentVault",
-    "language": "Python",
-    "name": "hoangtuanhehehehhe/AgentVault",
-    "stars": 9,
-    "updated_at": "2026-06-02T06:57:56Z",
-    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 1,
-    "updated_at": "2026-06-02T06:54:30Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Security-first AI agent daemon \u2014 the model proposes actions, the runtime decides what execute",
-    "id": "shisa-ai/shisad",
-    "language": "Python",
-    "name": "shisa-ai/shisad",
-    "stars": 25,
-    "updated_at": "2026-06-02T06:44:14Z",
-    "url": "https://github.com/shisa-ai/shisad"
-  },
-  {
-    "description": "K-Storm multi-agent research brainstorming",
-    "id": "ShakeYoung/K-Storm",
-    "language": "Python",
-    "name": "ShakeYoung/K-Storm",
-    "stars": 5,
-    "updated_at": "2026-06-02T06:40:17Z",
-    "url": "https://github.com/ShakeYoung/K-Storm"
   }
 ]
