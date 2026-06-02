@@ -1,12 +1,21 @@
 [
   {
-    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
     "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 6,
-    "updated_at": "2026-06-02T17:29:13Z",
-    "url": "https://github.com/tya5/reyn"
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 17,
+    "updated_at": "2026-06-02T17:43:28Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:41:20Z",
+    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "\u26a1 Self-hosted AI agent framework \u2014 sandboxed plug-and-play WASM agents, a live code security radar (Threat Radar), Teleg",
@@ -14,8 +23,35 @@
     "language": "Go",
     "name": "flowork-os/Flowork_Agent",
     "stars": 2,
-    "updated_at": "2026-06-02T17:28:49Z",
+    "updated_at": "2026-06-02T17:38:12Z",
     "url": "https://github.com/flowork-os/Flowork_Agent"
+  },
+  {
+    "description": "Enterprise AI Agent Framework for the modern office \u00b7 FastAPI + React 19 \u00b7 streaming chat, multi-agent teams, RAG, memor",
+    "id": "badhope/DATA-AI",
+    "language": "Python",
+    "name": "badhope/DATA-AI",
+    "stars": 17,
+    "updated_at": "2026-06-02T17:37:13Z",
+    "url": "https://github.com/badhope/DATA-AI"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:30:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "LLM agent workflow OS with a Markdown DSL. Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 6,
+    "updated_at": "2026-06-02T17:29:13Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
@@ -27,6 +63,15 @@
     "url": "https://github.com/Ecro/harness-maker"
   },
   {
+    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
+    "id": "jaylfc/tinyagentos",
+    "language": "Python",
+    "name": "jaylfc/tinyagentos",
+    "stars": 193,
+    "updated_at": "2026-06-02T17:23:58Z",
+    "url": "https://github.com/jaylfc/tinyagentos"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T17:22:48Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Production-grade AI Agent Framework \u00b7 FastAPI + React 19 \u00b7 streaming chat, multi-agent teams, RAG, memory, code sandbox,",
-    "id": "badhope/DATA-AI",
-    "language": "Python",
-    "name": "badhope/DATA-AI",
-    "stars": 17,
-    "updated_at": "2026-06-02T17:21:16Z",
-    "url": "https://github.com/badhope/DATA-AI"
   },
   {
     "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T17:16:17Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T17:15:35Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
@@ -117,15 +144,6 @@
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
-    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 0,
-    "updated_at": "2026-06-02T17:23:50Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -157,7 +175,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 16625,
+    "stars": 16628,
     "updated_at": "2026-06-02T16:57:07Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T16:34:09Z",
     "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-02T16:33:32Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 4,
-    "updated_at": "2026-06-02T16:33:22Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
   }
 ]
