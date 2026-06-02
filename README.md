@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-02 22:30 UTC
+> ⏰ Last updated: 2026-06-02 22:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,31 +42,31 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ek33450505/claude-agent-team](https://github.com/ek33450505/claude-agent-team) | 4 | Shell | 2026-06-02 | CAST: multi-agent orchestration framework for Claude Code with hook-enforced quality gates and observability. |
-| 2 | [framerslab/agentos](https://github.com/framerslab/agentos) | 568 | TypeScript | 2026-06-02 | TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers. |
-| 3 | [hoangtuanhehehehhe/AgentVault](https://github.com/hoangtuanhehehehhe/AgentVault) | 9 | Python | 2026-06-02 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M |
-| 4 | [MarlBurroW/kinbot](https://github.com/MarlBurroW/kinbot) | 42 | TypeScript | 2026-06-02 | Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud |
-| 5 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-02 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 6 | [tya5/reyn](https://github.com/tya5/reyn) | 6 | Python | 2026-06-02 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 7 | [broomva/life](https://github.com/broomva/life) | 4 | Rust | 2026-06-02 | Open-source Rust runtime for autonomous agents — 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho |
-| 8 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 65 | TypeScript | 2026-06-02 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 9 | [bakw00ds/yakos](https://github.com/bakw00ds/yakos) | 2 | Shell | 2026-06-02 | Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de |
-| 10 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 1 | HTML | 2026-06-02 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 11 | [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) | 273 | JavaScript | 2026-06-02 | 🛡️Decision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit |
-| 12 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-02 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
-| 13 | [Riverbraid/Riverbraid-Cognition](https://github.com/Riverbraid/Riverbraid-Cognition) | 1 | JavaScript | 2026-06-02 | Cognitive architecture and meaning processing layer adjacent to the Riverbraid core. |
-| 14 | [Riverbraid/Riverbraid-Memory-Gold](https://github.com/Riverbraid/Riverbraid-Memory-Gold) | 1 | JavaScript | 2026-06-02 | Meaning scoped persistence and state retention rules for Riverbraid. |
-| 15 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 0 | JavaScript | 2026-06-02 | Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac |
-| 16 | [Riverbraid/Riverbraid-Interface-Gold](https://github.com/Riverbraid/Riverbraid-Interface-Gold) | 1 | JavaScript | 2026-06-02 | The deterministic UI contract and relational interface substrate for the Riverbraid cluster. |
-| 17 | [VisionaireLabs/Visionaire](https://github.com/VisionaireLabs/Visionaire) | 2 | TypeScript | 2026-06-02 | I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it |
-| 18 | [Riverbraid/Riverbraid-Integration-Gold](https://github.com/Riverbraid/Riverbraid-Integration-Gold) | 1 | JavaScript | 2026-06-02 | Execution bridge from verified state into system action surfaces. |
-| 19 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-06-02 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
-| 20 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 0 | HTML | 2026-06-02 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 21 | [vamsiramakrishnan/gemini-rs](https://github.com/vamsiramakrishnan/gemini-rs) | 2 | Rust | 2026-06-02 | Full Rust SDK for the Gemini Multimodal Live API — wire protocol, agent runtime, and fluent DX in three layered crates. |
-| 22 | [fxMT-nx/El-Primor](https://github.com/fxMT-nx/El-Primor) | 4 | JavaScript | 2026-06-02 | 🏆 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptación y aprendizaje de errores. Cu |
-| 23 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-06-02 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 24 | [JohnnyFiv3r/Core-Memory](https://github.com/JohnnyFiv3r/Core-Memory) | 17 | Python | 2026-06-02 | Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection. |
-| 25 | [axiom-llc/apex](https://github.com/axiom-llc/apex) | 2 | Python | 2026-06-02 | The unified APEX core engine: a plan-deterministic execution kernel, pre-execution safety contracts, in-process RAG, and |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-02 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [axiom-llc/apex](https://github.com/axiom-llc/apex) | 2 | Python | 2026-06-02 | The unified APEX core engine: a plan-deterministic execution kernel, pre-execution safety contracts, in-process RAG, and |
+| 3 | [ek33450505/claude-agent-team](https://github.com/ek33450505/claude-agent-team) | 4 | Shell | 2026-06-02 | CAST: multi-agent orchestration framework for Claude Code with hook-enforced quality gates and observability. |
+| 4 | [framerslab/agentos](https://github.com/framerslab/agentos) | 568 | TypeScript | 2026-06-02 | TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers. |
+| 5 | [hoangtuanhehehehhe/AgentVault](https://github.com/hoangtuanhehehehhe/AgentVault) | 9 | Python | 2026-06-02 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M |
+| 6 | [MarlBurroW/kinbot](https://github.com/MarlBurroW/kinbot) | 42 | TypeScript | 2026-06-02 | Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud |
+| 7 | [tya5/reyn](https://github.com/tya5/reyn) | 6 | Python | 2026-06-02 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 8 | [broomva/life](https://github.com/broomva/life) | 4 | Rust | 2026-06-02 | Open-source Rust runtime for autonomous agents — 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho |
+| 9 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 65 | TypeScript | 2026-06-02 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 10 | [bakw00ds/yakos](https://github.com/bakw00ds/yakos) | 2 | Shell | 2026-06-02 | Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de |
+| 11 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 1 | HTML | 2026-06-02 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 12 | [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) | 273 | JavaScript | 2026-06-02 | 🛡️Decision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit |
+| 13 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-02 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
+| 14 | [Riverbraid/Riverbraid-Cognition](https://github.com/Riverbraid/Riverbraid-Cognition) | 1 | JavaScript | 2026-06-02 | Cognitive architecture and meaning processing layer adjacent to the Riverbraid core. |
+| 15 | [Riverbraid/Riverbraid-Memory-Gold](https://github.com/Riverbraid/Riverbraid-Memory-Gold) | 1 | JavaScript | 2026-06-02 | Meaning scoped persistence and state retention rules for Riverbraid. |
+| 16 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 0 | JavaScript | 2026-06-02 | Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac |
+| 17 | [Riverbraid/Riverbraid-Interface-Gold](https://github.com/Riverbraid/Riverbraid-Interface-Gold) | 1 | JavaScript | 2026-06-02 | The deterministic UI contract and relational interface substrate for the Riverbraid cluster. |
+| 18 | [VisionaireLabs/Visionaire](https://github.com/VisionaireLabs/Visionaire) | 2 | TypeScript | 2026-06-02 | I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it |
+| 19 | [Riverbraid/Riverbraid-Integration-Gold](https://github.com/Riverbraid/Riverbraid-Integration-Gold) | 1 | JavaScript | 2026-06-02 | Execution bridge from verified state into system action surfaces. |
+| 20 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-06-02 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
+| 21 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 0 | HTML | 2026-06-02 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 22 | [vamsiramakrishnan/gemini-rs](https://github.com/vamsiramakrishnan/gemini-rs) | 2 | Rust | 2026-06-02 | Full Rust SDK for the Gemini Multimodal Live API — wire protocol, agent runtime, and fluent DX in three layered crates. |
+| 23 | [fxMT-nx/El-Primor](https://github.com/fxMT-nx/El-Primor) | 4 | JavaScript | 2026-06-02 | 🏆 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptación y aprendizaje de errores. Cu |
+| 24 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-06-02 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 25 | [JohnnyFiv3r/Core-Memory](https://github.com/JohnnyFiv3r/Core-Memory) | 17 | Python | 2026-06-02 | Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection. |
 | 26 | [Deep-CodeAI/Agents.KT](https://github.com/Deep-CodeAI/Agents.KT) | 10 | Kotlin | 2026-06-02 | Typed Kotlin DSL framework for AI agent systems. |
 | 27 | [rllm-org/rllm](https://github.com/rllm-org/rllm) | 5589 | Python | 2026-06-02 | Democratizing Reinforcement Learning for LLMs |
 | 28 | [darenr/LoopBack](https://github.com/darenr/LoopBack) | 3 | Python | 2026-06-02 | An agentic loop framework, TUI or Web UI. Supports MCP, skills and plugins with progressive disclosure.  |
