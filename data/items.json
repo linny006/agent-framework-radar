@@ -1,30 +1,12 @@
 [
   {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 90,
-    "updated_at": "2026-06-02T10:15:09Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 16387,
-    "updated_at": "2026-06-02T10:14:35Z",
+    "stars": 16392,
+    "updated_at": "2026-06-02T10:30:08Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 0,
-    "updated_at": "2026-06-02T10:13:47Z",
-    "url": "https://github.com/maref-org/maref"
   },
   {
     "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
@@ -32,7 +14,7 @@
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
     "stars": 1232,
-    "updated_at": "2026-06-02T10:12:02Z",
+    "updated_at": "2026-06-02T10:29:40Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
   {
@@ -41,15 +23,69 @@
     "language": "HTML",
     "name": "SunrisesIllNeverSee/agent-universe",
     "stars": 0,
-    "updated_at": "2026-06-02T10:11:33Z",
+    "updated_at": "2026-06-02T10:29:07Z",
     "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
+  },
+  {
+    "description": "Principles of Earned Autonomy - Skills Suite",
+    "id": "ntholm86/principles-of-earned-autonomy-skills-suite",
+    "language": "PowerShell",
+    "name": "ntholm86/principles-of-earned-autonomy-skills-suite",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:25:51Z",
+    "url": "https://github.com/ntholm86/principles-of-earned-autonomy-skills-suite"
+  },
+  {
+    "description": "Composable agentic substrate (skills + MCP tools + harness + governance) running on a single laptop. 14 live business do",
+    "id": "arturcrmbot/zava-control-plane",
+    "language": "Python",
+    "name": "arturcrmbot/zava-control-plane",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:23:34Z",
+    "url": "https://github.com/arturcrmbot/zava-control-plane"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:28:23Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
+    "id": "Arch1eSUN/Moirai",
+    "language": "Python",
+    "name": "Arch1eSUN/Moirai",
+    "stars": 1,
+    "updated_at": "2026-06-02T10:21:43Z",
+    "url": "https://github.com/Arch1eSUN/Moirai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 90,
+    "updated_at": "2026-06-02T10:19:39Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 10958,
+    "stars": 10959,
     "updated_at": "2026-06-02T10:08:22Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -61,15 +97,6 @@
     "stars": 563,
     "updated_at": "2026-06-02T10:04:52Z",
     "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T10:00:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -99,15 +126,6 @@
     "url": "https://github.com/Tanush1912/ouroboros"
   },
   {
-    "description": "Principles of Earned Autonomy - Skills Suite",
-    "id": "ntholm86/principles-of-earned-autonomy-skills-suite",
-    "language": "PowerShell",
-    "name": "ntholm86/principles-of-earned-autonomy-skills-suite",
-    "stars": 0,
-    "updated_at": "2026-06-02T09:58:14Z",
-    "url": "https://github.com/ntholm86/principles-of-earned-autonomy-skills-suite"
-  },
-  {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
     "id": "Deep-CodeAI/Agents.KT",
     "language": "Kotlin",
@@ -121,18 +139,9 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3742,
+    "stars": 3744,
     "updated_at": "2026-06-02T09:53:15Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Composable agentic substrate (skills + MCP tools + harness + governance) running on a single laptop. 14 live business do",
-    "id": "arturcrmbot/zava-control-plane",
-    "language": "Python",
-    "name": "arturcrmbot/zava-control-plane",
-    "stars": 0,
-    "updated_at": "2026-06-02T09:48:37Z",
-    "url": "https://github.com/arturcrmbot/zava-control-plane"
   },
   {
     "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T09:19:46Z",
     "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-02T09:19:21Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
   }
 ]
