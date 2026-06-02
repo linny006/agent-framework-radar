@@ -1,21 +1,57 @@
 [
   {
-    "description": "\ud83d\udee1\ufe0fDecision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit",
-    "id": "ucsandman/DashClaw",
-    "language": "JavaScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 273,
-    "updated_at": "2026-06-02T03:43:56Z",
-    "url": "https://github.com/ucsandman/DashClaw"
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 9,
+    "updated_at": "2026-06-02T04:00:01Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 16100,
-    "updated_at": "2026-06-02T03:43:10Z",
+    "stars": 16110,
+    "updated_at": "2026-06-02T03:59:20Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
+    "id": "Arch1eSUN/Moirai",
+    "language": "Python",
+    "name": "Arch1eSUN/Moirai",
+    "stars": 1,
+    "updated_at": "2026-06-02T03:58:52Z",
+    "url": "https://github.com/Arch1eSUN/Moirai"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:56:01Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Agent SDK, CLI, Claw, Platform in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 3,
+    "updated_at": "2026-06-02T03:52:49Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 7611,
+    "updated_at": "2026-06-02T03:53:37Z",
+    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 17 professi",
@@ -23,8 +59,53 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 3,
-    "updated_at": "2026-06-02T03:38:14Z",
+    "updated_at": "2026-06-02T03:49:27Z",
     "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Vendor-neutral, methodology-neutral AI agent orchestration framework. Git + NATS JetStream + MinIO. Event-driven, no pol",
+    "id": "tonylnng/gateforge-ai-ao",
+    "language": "Shell",
+    "name": "tonylnng/gateforge-ai-ao",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:49:22Z",
+    "url": "https://github.com/tonylnng/gateforge-ai-ao"
+  },
+  {
+    "description": "Trixxie is a self\u2011hosted AI companion agent that runs in Second Life and Discord. It provides natural conversation, memo",
+    "id": "pablo0713-glitch/trixxie-companion-agent",
+    "language": "Python",
+    "name": "pablo0713-glitch/trixxie-companion-agent",
+    "stars": 3,
+    "updated_at": "2026-06-02T03:46:07Z",
+    "url": "https://github.com/pablo0713-glitch/trixxie-companion-agent"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-02T03:45:43Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fDecision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit",
+    "id": "ucsandman/DashClaw",
+    "language": "JavaScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 273,
+    "updated_at": "2026-06-02T03:43:56Z",
+    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "Productized LLM Wiki pattern + typed pack registry + proposal-only governance \u2014 UNESCO Memory of the World Triple Anchor",
@@ -36,15 +117,6 @@
     "url": "https://github.com/sillok-os/sillok"
   },
   {
-    "description": "Vendor-neutral, methodology-neutral AI agent orchestration framework. Git + NATS JetStream + MinIO. Event-driven, no pol",
-    "id": "tonylnng/gateforge-ai-ao",
-    "language": "Shell",
-    "name": "tonylnng/gateforge-ai-ao",
-    "stars": 0,
-    "updated_at": "2026-06-02T03:34:22Z",
-    "url": "https://github.com/tonylnng/gateforge-ai-ao"
-  },
-  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "Insajin/autopus-adk",
     "language": "Go",
@@ -52,24 +124,6 @@
     "stars": 106,
     "updated_at": "2026-06-02T03:31:37Z",
     "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T03:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
-    "id": "Arch1eSUN/Moirai",
-    "language": "Python",
-    "name": "Arch1eSUN/Moirai",
-    "stars": 1,
-    "updated_at": "2026-06-02T03:30:01Z",
-    "url": "https://github.com/Arch1eSUN/Moirai"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -90,15 +144,6 @@
     "url": "https://github.com/Ecro/harness-maker"
   },
   {
-    "description": "Trixxie is a self\u2011hosted AI companion agent that runs in Second Life and Discord. It provides natural conversation, memo",
-    "id": "pablo0713-glitch/trixxie-companion-agent",
-    "language": "Python",
-    "name": "pablo0713-glitch/trixxie-companion-agent",
-    "stars": 3,
-    "updated_at": "2026-06-02T03:17:15Z",
-    "url": "https://github.com/pablo0713-glitch/trixxie-companion-agent"
-  },
-  {
     "description": "An embodied agent framework for orchestrating long-horizon, multi-module tasks in real-world robotics.",
     "id": "SamuelGong/RobiAgent",
     "language": "Python",
@@ -115,15 +160,6 @@
     "stars": 17451,
     "updated_at": "2026-06-02T03:01:51Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-02T03:36:31Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -203,7 +239,7 @@
     "language": "C#",
     "name": "fuseraft/fuseraft-cli",
     "stars": 2,
-    "updated_at": "2026-06-02T03:07:17Z",
+    "updated_at": "2026-06-02T03:58:46Z",
     "url": "https://github.com/fuseraft/fuseraft-cli"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T02:33:58Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-02T02:33:34Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-06-02T02:33:31Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-02T02:33:14Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-02T02:32:40Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
   }
 ]
