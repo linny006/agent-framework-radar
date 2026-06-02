@@ -1,12 +1,84 @@
 [
   {
+    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 17 professi",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 3,
+    "updated_at": "2026-06-02T04:29:54Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17452,
+    "updated_at": "2026-06-02T04:29:21Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "A curated atlas of open-source repos shaping modern AI engineering \u2014 agent frameworks, RAG platforms, dev tooling. Archi",
+    "id": "shrikanth-h/repo-intelligence-dashboard",
+    "language": "HTML",
+    "name": "shrikanth-h/repo-intelligence-dashboard",
+    "stars": 0,
+    "updated_at": "2026-06-02T04:27:14Z",
+    "url": "https://github.com/shrikanth-h/repo-intelligence-dashboard"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 16115,
-    "updated_at": "2026-06-02T04:13:00Z",
+    "stars": 16121,
+    "updated_at": "2026-06-02T04:27:08Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Productized LLM Wiki pattern + typed pack registry + proposal-only governance \u2014 UNESCO Memory of the World Triple Anchor",
+    "id": "sillok-os/sillok",
+    "language": "Python",
+    "name": "sillok-os/sillok",
+    "stars": 1,
+    "updated_at": "2026-06-02T04:24:17Z",
+    "url": "https://github.com/sillok-os/sillok"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-02T04:23:15Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "A curated collection of reusable AI skills, prompts, and agent configurations. Portable across AI coding assistants and ",
+    "id": "anthril/official-claude-plugins",
+    "language": "Shell",
+    "name": "anthril/official-claude-plugins",
+    "stars": 3,
+    "updated_at": "2026-06-02T04:23:10Z",
+    "url": "https://github.com/anthril/official-claude-plugins"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "JavaScript",
+    "name": "dsswift/ion",
+    "stars": 2,
+    "updated_at": "2026-06-02T04:16:53Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T04:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T04:11:39Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T04:00:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -72,15 +135,6 @@
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
-    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 17 professi",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 3,
-    "updated_at": "2026-06-02T04:03:43Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
     "description": "Vendor-neutral, methodology-neutral AI agent orchestration framework. Git + NATS JetStream + MinIO. Event-driven, no pol",
     "id": "tonylnng/gateforge-ai-ao",
     "language": "Shell",
@@ -104,7 +158,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-02T03:45:43Z",
+    "updated_at": "2026-06-02T04:26:05Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -115,15 +169,6 @@
     "stars": 273,
     "updated_at": "2026-06-02T03:43:56Z",
     "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "Productized LLM Wiki pattern + typed pack registry + proposal-only governance \u2014 UNESCO Memory of the World Triple Anchor",
-    "id": "sillok-os/sillok",
-    "language": "Python",
-    "name": "sillok-os/sillok",
-    "stars": 1,
-    "updated_at": "2026-06-02T03:37:29Z",
-    "url": "https://github.com/sillok-os/sillok"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
@@ -160,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-06-02T03:15:14Z",
     "url": "https://github.com/SamuelGong/RobiAgent"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17452,
-    "updated_at": "2026-06-02T03:01:51Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -212,7 +248,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 16,
-    "updated_at": "2026-06-02T03:34:03Z",
+    "updated_at": "2026-06-02T04:18:33Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-02T02:35:08Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-02T02:34:48Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-06-02T02:34:39Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4621,
-    "updated_at": "2026-06-02T02:47:38Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-06-02T02:34:06Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
   }
 ]
