@@ -1,12 +1,21 @@
 [
   {
-    "description": "Multi-agent orchestration system for Claude Code \u2014 intelligent planning, delegation, and governance for complex software",
-    "id": "DaveGerson/agent-baton",
+    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
+    "id": "Krako-Labs/KORA",
     "language": "Python",
-    "name": "DaveGerson/agent-baton",
-    "stars": 1,
-    "updated_at": "2026-06-02T00:30:09Z",
-    "url": "https://github.com/DaveGerson/agent-baton"
+    "name": "Krako-Labs/KORA",
+    "stars": 18,
+    "updated_at": "2026-06-02T00:44:24Z",
+    "url": "https://github.com/Krako-Labs/KORA"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3683,
+    "updated_at": "2026-06-02T00:43:17Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "\ud83d\udee1\ufe0fDecision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit",
@@ -14,8 +23,44 @@
     "language": "JavaScript",
     "name": "ucsandman/DashClaw",
     "stars": 272,
-    "updated_at": "2026-06-02T00:29:10Z",
+    "updated_at": "2026-06-02T00:40:50Z",
     "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Agent SDK, CLI, Claw, Platform in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 2,
+    "updated_at": "2026-06-02T00:40:16Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-02T00:44:13Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T00:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Multi-agent orchestration system for Claude Code \u2014 intelligent planning, delegation, and governance for complex software",
+    "id": "DaveGerson/agent-baton",
+    "language": "Python",
+    "name": "DaveGerson/agent-baton",
+    "stars": 1,
+    "updated_at": "2026-06-02T00:30:09Z",
+    "url": "https://github.com/DaveGerson/agent-baton"
   },
   {
     "description": "Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud",
@@ -45,15 +90,6 @@
     "url": "https://github.com/garyqlin/opprime-world-key"
   },
   {
-    "description": "An AI-native cognitive runtime focused on epistemic honesty, uncertainty management, and structured reasoning.",
-    "id": "xbox002000/Noesis",
-    "language": "Python",
-    "name": "xbox002000/Noesis",
-    "stars": 1,
-    "updated_at": "2026-06-02T00:25:44Z",
-    "url": "https://github.com/xbox002000/Noesis"
-  },
-  {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
     "id": "DYAI2025/Plumbline",
     "language": "HTML",
@@ -72,24 +108,6 @@
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-02T00:22:11Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
-    "id": "Krako-Labs/KORA",
-    "language": "Python",
-    "name": "Krako-Labs/KORA",
-    "stars": 18,
-    "updated_at": "2026-06-02T00:18:07Z",
-    "url": "https://github.com/Krako-Labs/KORA"
-  },
-  {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
     "id": "hoangtuanhehehehhe/AgentVault",
     "language": "Python",
@@ -97,15 +115,6 @@
     "stars": 9,
     "updated_at": "2026-06-02T00:15:30Z",
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T00:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -133,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T00:04:15Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 3681,
-    "updated_at": "2026-06-02T00:03:53Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -202,7 +202,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 15961,
+    "stars": 15967,
     "updated_at": "2026-06-01T23:52:45Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },

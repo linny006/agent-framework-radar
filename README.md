@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-02 00:30 UTC
+> ⏰ Last updated: 2026-06-02 00:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [DaveGerson/agent-baton](https://github.com/DaveGerson/agent-baton) | 1 | Python | 2026-06-02 | Multi-agent orchestration system for Claude Code — intelligent planning, delegation, and governance for complex software |
-| 2 | [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) | 272 | JavaScript | 2026-06-02 | 🛡️Decision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit |
-| 3 | [MarlBurroW/kinbot](https://github.com/MarlBurroW/kinbot) | 42 | TypeScript | 2026-06-02 | Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud |
-| 4 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-06-02 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
-| 5 | [garyqlin/opprime-world-key](https://github.com/garyqlin/opprime-world-key) | 94 | Shell | 2026-06-02 | The key that opens Opprime World — the first metaverse where AI agents are natives, not tools, not NPCs. |
-| 6 | [xbox002000/Noesis](https://github.com/xbox002000/Noesis) | 1 | Python | 2026-06-02 | An AI-native cognitive runtime focused on epistemic honesty, uncertainty management, and structured reasoning. |
-| 7 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 2 | HTML | 2026-06-02 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
-| 8 | [CarlosCaPe/octorato](https://github.com/CarlosCaPe/octorato) | 4 | Python | 2026-06-02 | Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale |
-| 9 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 65 | TypeScript | 2026-06-02 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 10 | [Krako-Labs/KORA](https://github.com/Krako-Labs/KORA) | 18 | Python | 2026-06-02 | An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it. |
-| 11 | [hoangtuanhehehehhe/AgentVault](https://github.com/hoangtuanhehehehhe/AgentVault) | 9 | Python | 2026-06-02 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M |
-| 12 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-02 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 13 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 10949 | Python | 2026-06-02 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
-| 14 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-06-02 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
-| 15 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 0 | HTML | 2026-06-02 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 16 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 3681 | Python | 2026-06-02 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
+| 1 | [Krako-Labs/KORA](https://github.com/Krako-Labs/KORA) | 18 | Python | 2026-06-02 | An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it. |
+| 2 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 3683 | Python | 2026-06-02 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
+| 3 | [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) | 272 | JavaScript | 2026-06-02 | 🛡️Decision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit |
+| 4 | [Wh1isper/starweaver](https://github.com/Wh1isper/starweaver) | 2 | Rust | 2026-06-02 | Agent SDK, CLI, Claw, Platform in Rust |
+| 5 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 65 | TypeScript | 2026-06-02 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 6 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-02 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 7 | [DaveGerson/agent-baton](https://github.com/DaveGerson/agent-baton) | 1 | Python | 2026-06-02 | Multi-agent orchestration system for Claude Code — intelligent planning, delegation, and governance for complex software |
+| 8 | [MarlBurroW/kinbot](https://github.com/MarlBurroW/kinbot) | 42 | TypeScript | 2026-06-02 | Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud |
+| 9 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-06-02 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
+| 10 | [garyqlin/opprime-world-key](https://github.com/garyqlin/opprime-world-key) | 94 | Shell | 2026-06-02 | The key that opens Opprime World — the first metaverse where AI agents are natives, not tools, not NPCs. |
+| 11 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 2 | HTML | 2026-06-02 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
+| 12 | [CarlosCaPe/octorato](https://github.com/CarlosCaPe/octorato) | 4 | Python | 2026-06-02 | Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale |
+| 13 | [hoangtuanhehehehhe/AgentVault](https://github.com/hoangtuanhehehehhe/AgentVault) | 9 | Python | 2026-06-02 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M |
+| 14 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 10949 | Python | 2026-06-02 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
+| 15 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-06-02 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
+| 16 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 0 | HTML | 2026-06-02 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 17 | [herreravalenz6620/context-compression](https://github.com/herreravalenz6620/context-compression) | 1 | Python | 2026-06-01 | Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents. |
 | 18 | [Smita6756/Hbrain](https://github.com/Smita6756/Hbrain) | 0 | Python | 2026-06-01 | Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept. |
 | 19 | [Quadragesimaaffairedhonneur809/hermes-soul-governance](https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance) | 0 | Python | 2026-06-01 | Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management |
 | 20 | [Liny9941/projectsmd](https://github.com/Liny9941/projectsmd) | 2 | Rust | 2026-06-01 | Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without  |
 | 21 | [Doubleedged-capitaloftennessee462/agentswift](https://github.com/Doubleedged-capitaloftennessee462/agentswift) | 0 | — | 2026-06-01 | Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins |
 | 22 | [muhamedali7713/agent-audit](https://github.com/muhamedali7713/agent-audit) | 0 | Python | 2026-06-01 | Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist |
-| 23 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 15961 | Go | 2026-06-01 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 23 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 15967 | Go | 2026-06-01 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | 24 | [floccose-burner9185/wow-harness](https://github.com/floccose-burner9185/wow-harness) | 0 | Python | 2026-06-01 | Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag |
 | 25 | [sacid446/unclaw](https://github.com/sacid446/unclaw) | 0 | Shell | 2026-06-01 | Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs. |
 | 26 | [carlososoriopulgar/agent-kernel](https://github.com/carlososoriopulgar/agent-kernel) | 0 | — | 2026-06-01 | Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks. |
