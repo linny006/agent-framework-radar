@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T15:13:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Conduct autonomous Claude Code agents at scale safely. Human-on-the-loop orchestration platform with kill switch, cost t",
     "id": "simonstaton/AgentManager",
     "language": "TypeScript",
     "name": "simonstaton/AgentManager",
     "stars": 24,
-    "updated_at": "2026-06-03T15:12:56Z",
+    "updated_at": "2026-06-03T15:13:50Z",
     "url": "https://github.com/simonstaton/AgentManager"
   },
   {
@@ -22,7 +31,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17293,
+    "stars": 17295,
     "updated_at": "2026-06-03T15:03:29Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -34,15 +43,6 @@
     "stars": 8,
     "updated_at": "2026-06-03T15:00:43Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T15:00:36Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
