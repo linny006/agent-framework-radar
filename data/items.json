@@ -1,11 +1,65 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 16710,
+    "updated_at": "2026-06-03T01:13:31Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Shell",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-03T01:13:11Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 9,
+    "updated_at": "2026-06-03T01:10:12Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "JavaScript",
+    "name": "dsswift/ion",
+    "stars": 2,
+    "updated_at": "2026-06-03T01:06:04Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 3,
+    "updated_at": "2026-06-03T01:03:58Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T01:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The unified APEX core engine: a plan-deterministic execution kernel, pre-execution safety contracts, in-process RAG, and",
     "id": "axiom-llc/apex",
     "language": "Python",
     "name": "axiom-llc/apex",
     "stars": 2,
-    "updated_at": "2026-06-03T00:56:59Z",
+    "updated_at": "2026-06-03T01:00:23Z",
     "url": "https://github.com/axiom-llc/apex"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-06-03T00:56:19Z",
     "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Shell",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-03T00:53:50Z",
-    "url": "https://github.com/bakw00ds/yakos"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -54,21 +99,12 @@
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 16694,
-    "updated_at": "2026-06-03T00:49:48Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
     "id": "lightfastai/lightfast",
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 16,
-    "updated_at": "2026-06-03T00:53:35Z",
+    "updated_at": "2026-06-03T01:09:24Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T00:45:24Z",
     "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T00:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T00:30:32Z",
     "url": "https://github.com/Nurrachm6921/agent-kernel"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-06-03T00:29:51Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Build a governance-first multi-agent framework that turns Markdown controls into enforcement hooks for structured softwa",
-    "id": "Hosk9612/venutian-antfarm",
-    "language": "Shell",
-    "name": "Hosk9612/venutian-antfarm",
-    "stars": 0,
-    "updated_at": "2026-06-03T00:28:23Z",
-    "url": "https://github.com/Hosk9612/venutian-antfarm"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 1,
-    "updated_at": "2026-06-03T00:27:51Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
   }
 ]
