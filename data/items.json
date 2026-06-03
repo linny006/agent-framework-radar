@@ -1,5 +1,41 @@
 [
   {
+    "description": "Framework g\u00e9n\u00e9rique d'orchestration d'agents IA \u2014 BusinessDigital.fr",
+    "id": "franckparienti/businessdigital-ai-agents",
+    "language": "\u2014",
+    "name": "franckparienti/businessdigital-ai-agents",
+    "stars": 0,
+    "updated_at": "2026-06-03T07:59:59Z",
+    "url": "https://github.com/franckparienti/businessdigital-ai-agents"
+  },
+  {
+    "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
+    "id": "broomva/life",
+    "language": "Rust",
+    "name": "broomva/life",
+    "stars": 4,
+    "updated_at": "2026-06-03T07:59:45Z",
+    "url": "https://github.com/broomva/life"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 99,
+    "updated_at": "2026-06-03T07:55:39Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T07:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -180,15 +216,6 @@
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
     "id": "berrettabadger966/genesis-pantheon",
     "language": "Python",
@@ -355,7 +382,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 16998,
+    "stars": 17012,
     "updated_at": "2026-06-03T07:23:30Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -365,7 +392,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 13,
-    "updated_at": "2026-06-03T07:45:21Z",
+    "updated_at": "2026-06-03T07:55:28Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:19:55Z",
     "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Build self-spawning AI agents from tasks with distributed memory, guardrails, and a fossil record.",
-    "id": "karunun4659/spawnverse",
-    "language": "\u2014",
-    "name": "karunun4659/spawnverse",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:19:52Z",
-    "url": "https://github.com/karunun4659/spawnverse"
-  },
-  {
-    "description": "Connect WeChat messages to local AI coding agents like Codex, OpenCode, and Claude Code for fast task handling and file ",
-    "id": "arthursou0512/wechat-agent-channel",
-    "language": "Python",
-    "name": "arthursou0512/wechat-agent-channel",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:19:12Z",
-    "url": "https://github.com/arthursou0512/wechat-agent-channel"
-  },
-  {
-    "description": "Build AI agents with memory using three markdown files and a git repo; no framework, no database, works with any coding ",
-    "id": "Nurrachm6921/agent-kernel",
-    "language": "\u2014",
-    "name": "Nurrachm6921/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:18:22Z",
-    "url": "https://github.com/Nurrachm6921/agent-kernel"
   }
 ]
