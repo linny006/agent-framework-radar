@@ -1,12 +1,30 @@
 [
   {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-03T10:16:47Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17116,
-    "updated_at": "2026-06-03T10:14:04Z",
+    "stars": 17117,
+    "updated_at": "2026-06-03T10:16:00Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T10:15:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
@@ -43,24 +61,6 @@
     "stars": 8,
     "updated_at": "2026-06-03T10:03:08Z",
     "url": "https://github.com/zbigniewsobiecki/llmist"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T10:00:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-03T09:59:24Z",
-    "url": "https://github.com/bakw00ds/yakos"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -284,7 +284,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 14,
-    "updated_at": "2026-06-03T09:58:17Z",
+    "updated_at": "2026-06-03T10:17:13Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -301,7 +301,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 7624,
+    "stars": 7625,
     "updated_at": "2026-06-03T09:02:25Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -365,7 +365,7 @@
     "language": "Python",
     "name": "xuiltul/animaworks",
     "stars": 236,
-    "updated_at": "2026-06-03T09:50:46Z",
+    "updated_at": "2026-06-03T10:15:32Z",
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
