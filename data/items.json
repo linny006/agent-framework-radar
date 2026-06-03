@@ -1,20 +1,74 @@
 [
   {
+    "description": "Ouroboros: Agent first software engineering infrastructure. Autonomous AI agents plan, implement, test, review, and merg",
+    "id": "Tanush1912/ouroboros",
+    "language": "Python",
+    "name": "Tanush1912/ouroboros",
+    "stars": 3,
+    "updated_at": "2026-06-03T10:30:17Z",
+    "url": "https://github.com/Tanush1912/ouroboros"
+  },
+  {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
     "id": "bakw00ds/yakos",
     "language": "Go",
     "name": "bakw00ds/yakos",
     "stars": 2,
-    "updated_at": "2026-06-03T10:16:47Z",
+    "updated_at": "2026-06-03T10:30:05Z",
     "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 130,
+    "updated_at": "2026-06-03T10:29:59Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
+    "id": "AndersonBY/vv-agent",
+    "language": "Python",
+    "name": "AndersonBY/vv-agent",
+    "stars": 1,
+    "updated_at": "2026-06-03T10:28:15Z",
+    "url": "https://github.com/AndersonBY/vv-agent"
+  },
+  {
+    "description": "A generative AI agent workflow builder \u2014 describe your goal, AI architects the multi-agent DAG automatically",
+    "id": "tiand23/yuri-os",
+    "language": "TypeScript",
+    "name": "tiand23/yuri-os",
+    "stars": 1,
+    "updated_at": "2026-06-03T10:25:08Z",
+    "url": "https://github.com/tiand23/yuri-os"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-03T10:29:30Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\u7075\u667aMindPal \u2014 \u5143\u6570\u636e\u9a71\u52a8\u7684\u8d85\u7ea7\u667a\u80fd\u4f53\u7cfb\u7edf\u3002\u7edf\u4e00\u7ba1\u7406\u6570\u636e\u3001\u77e5\u8bc6\u3001\u8bbe\u5907\u4e0e\u667a\u80fd\u4f53\uff0c\u652f\u6301\u53ef\u63a7\u5de5\u5177\u8c03\u7528\u3001\u7b56\u7565\u9a71\u52a8\u6267\u884c\u3001\u5b8c\u6574\u5ba1\u8ba1\u8ffd\u6eaf\u4e0eSkill\u63d2\u4ef6\u6269\u5c55\uff0c\u8986\u76d6\u4ece\u5bf9\u8bdd\u7f16\u6392\u3001\u5de5\u4f5c\u6d41\u81ea\u52a8\u5316\u5230\u5177\u8eab\u667a\u80fd\u7684\u5168\u94fe\u8def\u80fd\u529b\u3002\u5b89\u5168\u7b2c\u4e00\uff0c\u4e07\u7269\u7686\u53ef\u5efa\u6a21\u3002",
+    "id": "openmindpal/mindpal",
+    "language": "TypeScript",
+    "name": "openmindpal/mindpal",
+    "stars": 9,
+    "updated_at": "2026-06-03T10:23:46Z",
+    "url": "https://github.com/openmindpal/mindpal"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17117,
-    "updated_at": "2026-06-03T10:16:00Z",
+    "stars": 17127,
+    "updated_at": "2026-06-03T10:21:38Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-06-03T10:15:31Z",
+    "updated_at": "2026-06-03T10:17:37Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -63,15 +117,6 @@
     "url": "https://github.com/zbigniewsobiecki/llmist"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-03T10:06:19Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
     "id": "Ridou/horus-os",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-06-03T09:50:27Z",
     "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "\u7075\u667aMindPal \u2014 \u5143\u6570\u636e\u9a71\u52a8\u7684\u8d85\u7ea7\u667a\u80fd\u4f53\u7cfb\u7edf\u3002\u7edf\u4e00\u7ba1\u7406\u6570\u636e\u3001\u77e5\u8bc6\u3001\u8bbe\u5907\u4e0e\u667a\u80fd\u4f53\uff0c\u652f\u6301\u53ef\u63a7\u5de5\u5177\u8c03\u7528\u3001\u7b56\u7565\u9a71\u52a8\u6267\u884c\u3001\u5b8c\u6574\u5ba1\u8ba1\u8ffd\u6eaf\u4e0eSkill\u63d2\u4ef6\u6269\u5c55\uff0c\u8986\u76d6\u4ece\u5bf9\u8bdd\u7f16\u6392\u3001\u5de5\u4f5c\u6d41\u81ea\u52a8\u5316\u5230\u5177\u8eab\u667a\u80fd\u7684\u5168\u94fe\u8def\u80fd\u529b\u3002\u5b89\u5168\u7b2c\u4e00\uff0c\u4e07\u7269\u7686\u53ef\u5efa\u6a21\u3002",
-    "id": "openmindpal/mindpal",
-    "language": "TypeScript",
-    "name": "openmindpal/mindpal",
-    "stars": 9,
-    "updated_at": "2026-06-03T09:48:21Z",
-    "url": "https://github.com/openmindpal/mindpal"
   },
   {
     "description": "Desktop multi-agent orchestrator for the Claude Agent SDK. Command a hierarchy of AI agents \u2014 chiefs, specialists, advis",
@@ -293,7 +329,7 @@
     "language": "Rust",
     "name": "aomi-labs/aomi-sdk",
     "stars": 5,
-    "updated_at": "2026-06-03T10:08:25Z",
+    "updated_at": "2026-06-03T10:20:56Z",
     "url": "https://github.com/aomi-labs/aomi-sdk"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:40:34Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:40:18Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-06-03T07:37:29Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:37:12Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins",
-    "id": "Doubleedged-capitaloftennessee462/agentswift",
-    "language": "\u2014",
-    "name": "Doubleedged-capitaloftennessee462/agentswift",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:37:04Z",
-    "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
   }
 ]
