@@ -1,21 +1,84 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 17258,
+    "updated_at": "2026-06-03T14:10:35Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Lightweight TypeScript framework for building agentic tools.",
+    "id": "Tom-R-Main/openFunctions",
+    "language": "TypeScript",
+    "name": "Tom-R-Main/openFunctions",
+    "stars": 3,
+    "updated_at": "2026-06-03T14:09:57Z",
+    "url": "https://github.com/Tom-R-Main/openFunctions"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-03T14:14:00Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-03T14:10:14Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 476,
+    "updated_at": "2026-06-03T14:03:41Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "MiteshSharma/ethos",
+    "language": "TypeScript",
+    "name": "MiteshSharma/ethos",
+    "stars": 5,
+    "updated_at": "2026-06-03T14:02:15Z",
+    "url": "https://github.com/MiteshSharma/ethos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T14:00:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source platform layer for AI agents in production",
     "id": "zenml-io/kitaru",
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 180,
-    "updated_at": "2026-06-03T13:59:26Z",
+    "updated_at": "2026-06-03T14:05:07Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
+    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
+    "id": "cordum-io/cordum",
     "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17248,
-    "updated_at": "2026-06-03T13:55:09Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "name": "cordum-io/cordum",
+    "stars": 485,
+    "updated_at": "2026-06-03T14:11:52Z",
+    "url": "https://github.com/cordum-io/cordum"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T13:54:20Z",
     "url": "https://github.com/xyz2b/weave-ai-runtime"
-  },
-  {
-    "description": "Lightweight TypeScript framework for building agentic tools.",
-    "id": "Tom-R-Main/openFunctions",
-    "language": "TypeScript",
-    "name": "Tom-R-Main/openFunctions",
-    "stars": 3,
-    "updated_at": "2026-06-03T13:52:57Z",
-    "url": "https://github.com/Tom-R-Main/openFunctions"
   },
   {
     "description": "CAST: multi-agent orchestration framework for Claude Code with hook-enforced quality gates and observability.",
@@ -70,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-06-03T13:47:34Z",
     "url": "https://github.com/aomi-labs/aomi-sdk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T13:45:36Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
@@ -144,6 +189,15 @@
     "url": "https://github.com/QANOT/qanot"
   },
   {
+    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
+    "id": "jaylfc/tinyagentos",
+    "language": "Python",
+    "name": "jaylfc/tinyagentos",
+    "stars": 198,
+    "updated_at": "2026-06-03T14:15:16Z",
+    "url": "https://github.com/jaylfc/tinyagentos"
+  },
+  {
     "description": "OpenClaw plugin: durable orchestration state (VINES) + decay-aware shared agent memory (VECNA) for multi-agent swarms. 1",
     "id": "parijatmukherjee/openclaw-hawkins",
     "language": "TypeScript",
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-03T13:40:04Z",
+    "updated_at": "2026-06-03T14:05:07Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -178,15 +232,6 @@
     "stars": 4,
     "updated_at": "2026-06-03T13:12:26Z",
     "url": "https://github.com/fxMT-nx/El-Primor"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-03T13:50:44Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
@@ -297,15 +342,6 @@
     "url": "https://github.com/wrm3/gald3r"
   },
   {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-03T14:00:31Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 8,
-    "updated_at": "2026-06-03T13:12:29Z",
+    "updated_at": "2026-06-03T14:10:49Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T12:15:21Z",
     "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:15:15Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
-    "id": "Trickedout-ribier5513/AgentClaw",
-    "language": "TypeScript",
-    "name": "Trickedout-ribier5513/AgentClaw",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:15:07Z",
-    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
-  },
-  {
-    "description": "BACH v3.7.1 \u2014 Text-based OS for LLMs. Personal Agentic OS with 109+ handlers, 373+ tools, 932+ skills, portable agents, ",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 6,
-    "updated_at": "2026-06-03T12:14:44Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:14:27Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
   }
 ]
