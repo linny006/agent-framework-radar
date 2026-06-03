@@ -1,21 +1,120 @@
 [
   {
-    "description": "A2A-based network automation platform for Arista cEOS. Operates NETCONF / eAPI / eAPI Config / ANTA / XDP from a single ",
-    "id": "hidemi-k/a2a-ceos-core",
-    "language": "Python",
-    "name": "hidemi-k/a2a-ceos-core",
-    "stars": 0,
-    "updated_at": "2026-06-03T09:00:23Z",
-    "url": "https://github.com/hidemi-k/a2a-ceos-core"
+    "description": "Agent SDK, CLI, Claw, Platform in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 4,
+    "updated_at": "2026-06-03T09:13:35Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "Mozaik is a TypeScript framework for building reactive agents.",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 53,
+    "updated_at": "2026-06-03T09:13:29Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
+    "id": "fxMT-nx/El-Primor",
+    "language": "JavaScript",
+    "name": "fxMT-nx/El-Primor",
+    "stars": 4,
+    "updated_at": "2026-06-03T09:12:49Z",
+    "url": "https://github.com/fxMT-nx/El-Primor"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17059,
-    "updated_at": "2026-06-03T08:58:32Z",
+    "stars": 17066,
+    "updated_at": "2026-06-03T09:11:50Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10984,
+    "updated_at": "2026-06-03T09:12:40Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 14,
+    "updated_at": "2026-06-03T09:08:48Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Standalone SDK workspace for building Aomi dynamic plugins.",
+    "id": "aomi-labs/aomi-sdk",
+    "language": "Rust",
+    "name": "aomi-labs/aomi-sdk",
+    "stars": 5,
+    "updated_at": "2026-06-03T09:08:33Z",
+    "url": "https://github.com/aomi-labs/aomi-sdk"
+  },
+  {
+    "description": "Enterprise AI Agent Framework for the modern office \u00b7 FastAPI + React 19 \u00b7 streaming chat, multi-agent teams, RAG, memor",
+    "id": "badhope/DATA-AI",
+    "language": "Python",
+    "name": "badhope/DATA-AI",
+    "stars": 17,
+    "updated_at": "2026-06-03T09:05:40Z",
+    "url": "https://github.com/badhope/DATA-AI"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-03T09:05:38Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 7623,
+    "updated_at": "2026-06-03T09:02:25Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 131,
+    "updated_at": "2026-06-03T09:01:28Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T09:00:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A2A-based network automation platform for Arista cEOS. Operates NETCONF / eAPI / eAPI Config / ANTA / XDP from a single ",
+    "id": "hidemi-k/a2a-ceos-core",
+    "language": "Python",
+    "name": "hidemi-k/a2a-ceos-core",
+    "stars": 0,
+    "updated_at": "2026-06-03T09:01:56Z",
+    "url": "https://github.com/hidemi-k/a2a-ceos-core"
   },
   {
     "description": "Verifiable Codex + Claude + Gemini collaboration framework with source checks, mutual cross-audit, merge gates, HTTP and",
@@ -25,42 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-03T08:55:36Z",
     "url": "https://github.com/r-design-j/tri-party-framework"
-  },
-  {
-    "description": "Enterprise AI Agent Framework for the modern office \u00b7 FastAPI + React 19 \u00b7 streaming chat, multi-agent teams, RAG, memor",
-    "id": "badhope/DATA-AI",
-    "language": "Python",
-    "name": "badhope/DATA-AI",
-    "stars": 17,
-    "updated_at": "2026-06-03T08:57:51Z",
-    "url": "https://github.com/badhope/DATA-AI"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10983,
-    "updated_at": "2026-06-03T08:50:54Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
-    "id": "fxMT-nx/El-Primor",
-    "language": "JavaScript",
-    "name": "fxMT-nx/El-Primor",
-    "stars": 4,
-    "updated_at": "2026-06-03T08:50:43Z",
-    "url": "https://github.com/fxMT-nx/El-Primor"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T08:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
@@ -77,17 +140,8 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-03T08:41:59Z",
+    "updated_at": "2026-06-03T09:06:14Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 7623,
-    "updated_at": "2026-06-03T08:59:19Z",
-    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "A curated collection of reusable AI skills, prompts, and agent configurations. Portable across AI coding assistants and ",
@@ -113,17 +167,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 6,
-    "updated_at": "2026-06-03T08:26:40Z",
+    "updated_at": "2026-06-03T09:15:19Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 2,
-    "updated_at": "2026-06-03T08:49:56Z",
-    "url": "https://github.com/opencue/cuecards"
   },
   {
     "description": "The harness your agents grow in.",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "xuiltul/animaworks",
     "stars": 236,
-    "updated_at": "2026-06-03T08:56:54Z",
+    "updated_at": "2026-06-03T09:11:23Z",
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-06-03T08:14:09Z",
     "url": "https://github.com/KyleC69/Agentic-AI-WPF"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 14,
-    "updated_at": "2026-06-03T08:11:20Z",
-    "url": "https://github.com/roackb2/heddle"
   },
   {
     "description": "Agentic finance engine \u2014 x402 machine-to-machine payments, secp256k1 wallets, per-task billing, on-chain USDC settlement",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:29:06Z",
     "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:28:46Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:28:28Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:28:23Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:28:20Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
   }
 ]
