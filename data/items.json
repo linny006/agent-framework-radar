@@ -4,18 +4,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17258,
-    "updated_at": "2026-06-03T14:10:35Z",
+    "stars": 17266,
+    "updated_at": "2026-06-03T14:22:46Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Lightweight TypeScript framework for building agentic tools.",
-    "id": "Tom-R-Main/openFunctions",
-    "language": "TypeScript",
-    "name": "Tom-R-Main/openFunctions",
-    "stars": 3,
-    "updated_at": "2026-06-03T14:09:57Z",
-    "url": "https://github.com/Tom-R-Main/openFunctions"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -23,8 +14,17 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-03T14:14:00Z",
+    "updated_at": "2026-06-03T14:18:26Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T14:15:38Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
@@ -34,6 +34,24 @@
     "stars": 2,
     "updated_at": "2026-06-03T14:10:14Z",
     "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Lightweight TypeScript framework for building agentic tools.",
+    "id": "Tom-R-Main/openFunctions",
+    "language": "TypeScript",
+    "name": "Tom-R-Main/openFunctions",
+    "stars": 3,
+    "updated_at": "2026-06-03T14:25:50Z",
+    "url": "https://github.com/Tom-R-Main/openFunctions"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-03T14:08:23Z",
+    "url": "https://github.com/raineislam/mcp-framework"
   },
   {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
@@ -54,21 +72,12 @@
     "url": "https://github.com/MiteshSharma/ethos"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T14:00:35Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source platform layer for AI agents in production",
     "id": "zenml-io/kitaru",
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 180,
-    "updated_at": "2026-06-03T14:05:07Z",
+    "updated_at": "2026-06-03T14:26:04Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "jaylfc/tinyagentos",
     "stars": 198,
-    "updated_at": "2026-06-03T14:15:16Z",
+    "updated_at": "2026-06-03T14:24:48Z",
     "url": "https://github.com/jaylfc/tinyagentos"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T12:15:50Z",
     "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:15:21Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
   }
 ]
