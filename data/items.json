@@ -1,12 +1,66 @@
 [
   {
+    "description": "A2A-based network automation platform for Arista cEOS. Operates NETCONF / eAPI / eAPI Config / ANTA / XDP from a single ",
+    "id": "hidemi-k/a2a-ceos-core",
+    "language": "Python",
+    "name": "hidemi-k/a2a-ceos-core",
+    "stars": 0,
+    "updated_at": "2026-06-03T09:00:23Z",
+    "url": "https://github.com/hidemi-k/a2a-ceos-core"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 17059,
+    "updated_at": "2026-06-03T08:58:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "Verifiable Codex + Claude + Gemini collaboration framework with source checks, mutual cross-audit, merge gates, HTTP and",
     "id": "r-design-j/tri-party-framework",
     "language": "Shell",
     "name": "r-design-j/tri-party-framework",
     "stars": 2,
-    "updated_at": "2026-06-03T08:45:07Z",
+    "updated_at": "2026-06-03T08:55:36Z",
     "url": "https://github.com/r-design-j/tri-party-framework"
+  },
+  {
+    "description": "Enterprise AI Agent Framework for the modern office \u00b7 FastAPI + React 19 \u00b7 streaming chat, multi-agent teams, RAG, memor",
+    "id": "badhope/DATA-AI",
+    "language": "Python",
+    "name": "badhope/DATA-AI",
+    "stars": 17,
+    "updated_at": "2026-06-03T08:57:51Z",
+    "url": "https://github.com/badhope/DATA-AI"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 10983,
+    "updated_at": "2026-06-03T08:50:54Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
+    "id": "fxMT-nx/El-Primor",
+    "language": "JavaScript",
+    "name": "fxMT-nx/El-Primor",
+    "stars": 4,
+    "updated_at": "2026-06-03T08:50:43Z",
+    "url": "https://github.com/fxMT-nx/El-Primor"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:45:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
@@ -16,15 +70,6 @@
     "stars": 10,
     "updated_at": "2026-06-03T08:43:57Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17050,
-    "updated_at": "2026-06-03T08:43:47Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -41,17 +86,8 @@
     "language": "JavaScript",
     "name": "EvoMap/evolver",
     "stars": 7623,
-    "updated_at": "2026-06-03T08:44:59Z",
+    "updated_at": "2026-06-03T08:59:19Z",
     "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "Enterprise AI Agent Framework for the modern office \u00b7 FastAPI + React 19 \u00b7 streaming chat, multi-agent teams, RAG, memor",
-    "id": "badhope/DATA-AI",
-    "language": "Python",
-    "name": "badhope/DATA-AI",
-    "stars": 17,
-    "updated_at": "2026-06-03T08:35:16Z",
-    "url": "https://github.com/badhope/DATA-AI"
   },
   {
     "description": "A curated collection of reusable AI skills, prompts, and agent configurations. Portable across AI coding assistants and ",
@@ -72,15 +108,6 @@
     "url": "https://github.com/broomva/life"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T08:30:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "opencue/cuecards",
     "stars": 2,
-    "updated_at": "2026-06-03T08:26:13Z",
+    "updated_at": "2026-06-03T08:49:56Z",
     "url": "https://github.com/opencue/cuecards"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "xuiltul/animaworks",
     "stars": 236,
-    "updated_at": "2026-06-03T08:19:21Z",
+    "updated_at": "2026-06-03T08:56:54Z",
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "openlegion-ai/openlegion",
     "stars": 99,
-    "updated_at": "2026-06-03T07:55:39Z",
+    "updated_at": "2026-06-03T08:52:34Z",
     "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:28:20Z",
     "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:27:58Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:27:27Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:25:50Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
   }
 ]
