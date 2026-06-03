@@ -1,5 +1,68 @@
 [
   {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 3,
+    "updated_at": "2026-06-03T19:27:22Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "JavaScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 273,
+    "updated_at": "2026-06-03T19:26:11Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
+    "id": "Arch1eSUN/Moirai",
+    "language": "Python",
+    "name": "Arch1eSUN/Moirai",
+    "stars": 1,
+    "updated_at": "2026-06-03T19:25:31Z",
+    "url": "https://github.com/Arch1eSUN/Moirai"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 127,
+    "updated_at": "2026-06-03T19:24:51Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Agent Intent Protocol - Jin makes the human internet for agents legible",
+    "id": "meetjin/jin",
+    "language": "TypeScript",
+    "name": "meetjin/jin",
+    "stars": 1,
+    "updated_at": "2026-06-03T19:23:33Z",
+    "url": "https://github.com/meetjin/jin"
+  },
+  {
+    "description": "CAST: multi-agent orchestration framework for Claude Code with hook-enforced quality gates and observability.",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 5,
+    "updated_at": "2026-06-03T19:17:20Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T19:15:38Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
     "id": "Sanga1032/fullstack-mcp-playground",
     "language": "TypeScript",
@@ -27,15 +90,6 @@
     "url": "https://github.com/lucasmailland/orchester"
   },
   {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "HTML",
-    "name": "DYAI2025/Plumbline",
-    "stars": 3,
-    "updated_at": "2026-06-03T19:07:12Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
     "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
     "id": "openlegion-ai/openlegion",
     "language": "Python",
@@ -43,15 +97,6 @@
     "stars": 100,
     "updated_at": "2026-06-03T19:06:43Z",
     "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T19:00:40Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Standalone SDK workspace for building Aomi dynamic plugins.",
@@ -81,13 +126,22 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Production-ready core execution systems engine for the AXIOM LLC ecosystem. APEX is a stateless, deterministic, highly p",
+    "description": "Production-grade AI execution kernel. It provides a stateless, deterministic, and highly parallelized runtime designed t",
     "id": "axiom-llc/axiom-apex",
     "language": "Python",
     "name": "axiom-llc/axiom-apex",
     "stars": 2,
     "updated_at": "2026-06-03T18:53:41Z",
     "url": "https://github.com/axiom-llc/axiom-apex"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11000,
+    "updated_at": "2026-06-03T18:50:17Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "phronesis-framework/phronesis-framework",
     "stars": 0,
-    "updated_at": "2026-06-03T18:30:49Z",
+    "updated_at": "2026-06-03T19:28:43Z",
     "url": "https://github.com/phronesis-framework/phronesis-framework"
   },
   {
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "jaylfc/tinyagentos",
     "stars": 198,
-    "updated_at": "2026-06-03T18:59:55Z",
+    "updated_at": "2026-06-03T19:20:27Z",
     "url": "https://github.com/jaylfc/tinyagentos"
   },
   {
@@ -187,24 +241,6 @@
     "stars": 3,
     "updated_at": "2026-06-03T18:36:18Z",
     "url": "https://github.com/darenr/LoopBack"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 10999,
-    "updated_at": "2026-06-03T18:50:17Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
-    "id": "Arch1eSUN/Moirai",
-    "language": "Python",
-    "name": "Arch1eSUN/Moirai",
-    "stars": 1,
-    "updated_at": "2026-06-03T18:17:39Z",
-    "url": "https://github.com/Arch1eSUN/Moirai"
   },
   {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
@@ -241,15 +277,6 @@
     "stars": 24,
     "updated_at": "2026-06-03T18:00:37Z",
     "url": "https://github.com/simonstaton/AgentManager"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "JavaScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 273,
-    "updated_at": "2026-06-03T18:00:30Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
@@ -360,15 +387,6 @@
     "url": "https://github.com/moonhwilee/openclaw-multi-agent-workbench"
   },
   {
-    "description": "CAST: multi-agent orchestration framework for Claude Code with hook-enforced quality gates and observability.",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 5,
-    "updated_at": "2026-06-03T18:39:37Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T16:51:08Z",
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Agentic finance engine \u2014 x402 machine-to-machine payments, secp256k1 wallets, per-task billing, on-chain USDC settlement",
-    "id": "broomva/haima",
-    "language": "Rust",
-    "name": "broomva/haima",
-    "stars": 2,
-    "updated_at": "2026-06-03T16:49:57Z",
-    "url": "https://github.com/broomva/haima"
-  },
-  {
-    "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
-    "id": "broomva/life",
-    "language": "Rust",
-    "name": "broomva/life",
-    "stars": 4,
-    "updated_at": "2026-06-03T19:14:34Z",
-    "url": "https://github.com/broomva/life"
   }
 ]
