@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0fDecision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit",
+    "id": "ucsandman/DashClaw",
+    "language": "JavaScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 273,
+    "updated_at": "2026-06-03T17:44:23Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Conduct autonomous Claude Code agents at scale safely. Human-on-the-loop orchestration platform with kill switch, cost t",
+    "id": "simonstaton/AgentManager",
+    "language": "TypeScript",
+    "name": "simonstaton/AgentManager",
+    "stars": 24,
+    "updated_at": "2026-06-03T17:44:16Z",
+    "url": "https://github.com/simonstaton/AgentManager"
+  },
+  {
+    "description": "Moirai \u2014 Sovereign Local Autonomous AI Agent Runtime. Local-first, long-term memory, multi-paradigm forecasting, bounded",
+    "id": "Arch1eSUN/Moirai",
+    "language": "Python",
+    "name": "Arch1eSUN/Moirai",
+    "stars": 1,
+    "updated_at": "2026-06-03T17:42:54Z",
+    "url": "https://github.com/Arch1eSUN/Moirai"
+  },
+  {
+    "description": "Production-ready core execution systems engine for the AXIOM LLC ecosystem. APEX is a stateless, deterministic, highly p",
+    "id": "axiom-llc/axiom-apex",
+    "language": "Python",
+    "name": "axiom-llc/axiom-apex",
+    "stars": 2,
+    "updated_at": "2026-06-03T17:34:11Z",
+    "url": "https://github.com/axiom-llc/axiom-apex"
+  },
+  {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 11,
+    "updated_at": "2026-06-03T17:33:20Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:30:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The AI agent that flies on its own. Two commands to fly. \ud83e\udeb6",
     "id": "QANOT/qanot",
     "language": "Python",
@@ -9,15 +63,6 @@
     "url": "https://github.com/QANOT/qanot"
   },
   {
-    "description": "Conduct autonomous Claude Code agents at scale safely. Human-on-the-loop orchestration platform with kill switch, cost t",
-    "id": "simonstaton/AgentManager",
-    "language": "TypeScript",
-    "name": "simonstaton/AgentManager",
-    "stars": 24,
-    "updated_at": "2026-06-03T17:27:57Z",
-    "url": "https://github.com/simonstaton/AgentManager"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -25,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-06-03T17:26:55Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fDecision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit",
-    "id": "ucsandman/DashClaw",
-    "language": "JavaScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 273,
-    "updated_at": "2026-06-03T17:25:57Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "Build AI-native SaaS agents with the ROAM Loop: Render, Observe, Act, Memorize.",
@@ -50,7 +86,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-03T17:23:02Z",
+    "updated_at": "2026-06-03T17:35:36Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 113,
     "updated_at": "2026-06-03T17:16:46Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:15:36Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Public-safe base for a reproducible OpenClaw multi-agent development workbench.",
@@ -126,20 +153,11 @@
     "url": "https://github.com/sauravbhattacharya001/agentlens"
   },
   {
-    "description": "Production-ready core execution systems engine for the AXIOM LLC ecosystem. APEX is a stateless, deterministic, highly p",
-    "id": "axiom-llc/axiom-apex",
-    "language": "Python",
-    "name": "axiom-llc/axiom-apex",
-    "stars": 2,
-    "updated_at": "2026-06-03T17:02:11Z",
-    "url": "https://github.com/axiom-llc/axiom-apex"
-  },
-  {
     "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
     "id": "NirDiamant/agents-towards-production",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/agents-towards-production",
-    "stars": 20597,
+    "stars": 20598,
     "updated_at": "2026-06-03T17:02:11Z",
     "url": "https://github.com/NirDiamant/agents-towards-production"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T16:37:21Z",
     "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:36:50Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:34:50Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
   }
 ]
