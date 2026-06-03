@@ -1,21 +1,48 @@
 [
   {
-    "description": "\ud83d\udc14 An open-source, distributed AI agent farm OS. Raise, train, and trade autonomous agents on your own hardware.",
-    "id": "dcluomax/coop",
-    "language": "Rust",
-    "name": "dcluomax/coop",
-    "stars": 2,
-    "updated_at": "2026-06-03T22:30:05Z",
-    "url": "https://github.com/dcluomax/coop"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-03T22:30:04Z",
+    "updated_at": "2026-06-03T22:43:16Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Curated list of Agent Skills for AI coding agents like Claude Code, Codex and Cursor.",
+    "id": "kodustech/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "kodustech/awesome-agent-skills",
+    "stars": 74,
+    "updated_at": "2026-06-03T22:42:05Z",
+    "url": "https://github.com/kodustech/awesome-agent-skills"
+  },
+  {
+    "description": "\ud83d\udc14 An open-source, distributed AI agent farm OS. Raise, train, and trade autonomous agents on your own hardware.",
+    "id": "dcluomax/coop",
+    "language": "Rust",
+    "name": "dcluomax/coop",
+    "stars": 2,
+    "updated_at": "2026-06-03T22:40:26Z",
+    "url": "https://github.com/dcluomax/coop"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:38:08Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 6,
+    "updated_at": "2026-06-03T22:45:14Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
@@ -23,8 +50,44 @@
     "language": "Kotlin",
     "name": "Deep-CodeAI/Agents.KT",
     "stars": 11,
-    "updated_at": "2026-06-03T22:27:35Z",
+    "updated_at": "2026-06-03T22:37:42Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:37:27Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Agentic runtime system still in progress",
+    "id": "StellarRequiem/Forest-Soul-Forge",
+    "language": "Python",
+    "name": "StellarRequiem/Forest-Soul-Forge",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:35:47Z",
+    "url": "https://github.com/StellarRequiem/Forest-Soul-Forge"
+  },
+  {
+    "description": "Open-source operating system for running an AI agent company on your own machine. Clone, run, and a localhost wizard wal",
+    "id": "aimerdoux/wavex-os",
+    "language": "TypeScript",
+    "name": "aimerdoux/wavex-os",
+    "stars": 7,
+    "updated_at": "2026-06-03T22:32:21Z",
+    "url": "https://github.com/aimerdoux/wavex-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:30:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 8,
-    "updated_at": "2026-06-03T22:29:12Z",
+    "updated_at": "2026-06-03T22:32:12Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 3920,
     "updated_at": "2026-06-03T22:23:47Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T22:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T22:04:50Z",
     "url": "https://github.com/BerryTheBenson/toqie-kernel"
-  },
-  {
-    "description": "Agentic runtime system still in progress",
-    "id": "StellarRequiem/Forest-Soul-Forge",
-    "language": "Python",
-    "name": "StellarRequiem/Forest-Soul-Forge",
-    "stars": 0,
-    "updated_at": "2026-06-03T22:03:43Z",
-    "url": "https://github.com/StellarRequiem/Forest-Soul-Forge"
   },
   {
     "description": "An agentic loop framework, TUI or Web UI. Supports MCP, skills and plugins with progressive disclosure. ",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 198,
-    "updated_at": "2026-06-03T22:00:43Z",
+    "updated_at": "2026-06-03T22:31:51Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T21:10:03Z",
     "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-03T21:09:51Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:09:21Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:09:19Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:08:59Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-03T21:08:14Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
   }
 ]
