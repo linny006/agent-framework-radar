@@ -1,30 +1,30 @@
 [
   {
-    "description": "OpenClaw plugin: durable orchestration state (VINES) + decay-aware shared agent memory (VECNA) for multi-agent swarms. 1",
-    "id": "parijatmukherjee/openclaw-hawkins",
-    "language": "TypeScript",
-    "name": "parijatmukherjee/openclaw-hawkins",
-    "stars": 5,
-    "updated_at": "2026-06-03T13:18:13Z",
-    "url": "https://github.com/parijatmukherjee/openclaw-hawkins"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 17241,
+    "updated_at": "2026-06-03T13:42:50Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
-    "id": "mj-deving/omniweb-agents",
-    "language": "TypeScript",
-    "name": "mj-deving/omniweb-agents",
-    "stars": 0,
-    "updated_at": "2026-06-03T13:28:42Z",
-    "url": "https://github.com/mj-deving/omniweb-agents"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
+    "id": "Ridou/horus-os",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
+    "name": "Ridou/horus-os",
     "stars": 0,
-    "updated_at": "2026-06-03T13:15:37Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "updated_at": "2026-06-03T13:42:32Z",
+    "url": "https://github.com/Ridou/horus-os"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 568,
+    "updated_at": "2026-06-03T13:39:33Z",
+    "url": "https://github.com/framerslab/agentos"
   },
   {
     "description": "Open-source platform layer for AI agents in production",
@@ -32,8 +32,89 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 180,
-    "updated_at": "2026-06-03T13:27:49Z",
+    "updated_at": "2026-06-03T13:38:07Z",
     "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
+    "id": "fuseraft/fuseraft-cli",
+    "language": "C#",
+    "name": "fuseraft/fuseraft-cli",
+    "stars": 2,
+    "updated_at": "2026-06-03T13:34:21Z",
+    "url": "https://github.com/fuseraft/fuseraft-cli"
+  },
+  {
+    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
+    "id": "mj-deving/omniweb-agents",
+    "language": "TypeScript",
+    "name": "mj-deving/omniweb-agents",
+    "stars": 0,
+    "updated_at": "2026-06-03T13:33:48Z",
+    "url": "https://github.com/mj-deving/omniweb-agents"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 16,
+    "updated_at": "2026-06-03T13:32:48Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T13:30:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-03T13:45:12Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Composable TypeScript AI agent framework \u2014 Effect-TS type safety, 5 reasoning strategies, persistent gateway, real-time ",
+    "id": "tylerjrbuell/reactive-agents-ts",
+    "language": "TypeScript",
+    "name": "tylerjrbuell/reactive-agents-ts",
+    "stars": 13,
+    "updated_at": "2026-06-03T13:27:51Z",
+    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
+  },
+  {
+    "description": "CAST: multi-agent orchestration framework for Claude Code with hook-enforced quality gates and observability.",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 4,
+    "updated_at": "2026-06-03T13:38:38Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "The AI agent that flies on its own. Two commands to fly. \ud83e\udeb6",
+    "id": "QANOT/qanot",
+    "language": "Python",
+    "name": "QANOT/qanot",
+    "stars": 2,
+    "updated_at": "2026-06-03T13:26:38Z",
+    "url": "https://github.com/QANOT/qanot"
+  },
+  {
+    "description": "OpenClaw plugin: durable orchestration state (VINES) + decay-aware shared agent memory (VECNA) for multi-agent swarms. 1",
+    "id": "parijatmukherjee/openclaw-hawkins",
+    "language": "TypeScript",
+    "name": "parijatmukherjee/openclaw-hawkins",
+    "stars": 5,
+    "updated_at": "2026-06-03T13:18:13Z",
+    "url": "https://github.com/parijatmukherjee/openclaw-hawkins"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-03T13:24:00Z",
+    "updated_at": "2026-06-03T13:40:04Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -63,21 +144,12 @@
     "url": "https://github.com/fxMT-nx/El-Primor"
   },
   {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 568,
-    "updated_at": "2026-06-03T13:26:23Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-03T13:11:08Z",
+    "updated_at": "2026-06-03T13:41:10Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 273,
     "updated_at": "2026-06-03T13:10:11Z",
     "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 2,
-    "updated_at": "2026-06-03T13:30:20Z",
-    "url": "https://github.com/opencue/cuecards"
   },
   {
     "description": "\ud83e\ude9d \u900f\u660e\u53ef\u63a7\u7684 AI Agent \u7ec8\u7aef | \u72b6\u6001\u673a \u00b7 \u591a\u5c42\u8bb0\u5fc6\u7cfb\u7edf  \u00b7 \u6c99\u7bb1\u9632\u5fa1 \u00b7 \u5b8c\u6574\u5ba1\u8ba1 \u00b7 \u591a\u4eba\u8bbe\u591a\u6280\u80fd ",
@@ -135,15 +198,6 @@
     "url": "https://github.com/r-design-j/tri-party-framework"
   },
   {
-    "description": "Composable TypeScript AI agent framework \u2014 Effect-TS type safety, 5 reasoning strategies, persistent gateway, real-time ",
-    "id": "tylerjrbuell/reactive-agents-ts",
-    "language": "TypeScript",
-    "name": "tylerjrbuell/reactive-agents-ts",
-    "stars": 13,
-    "updated_at": "2026-06-03T13:27:51Z",
-    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
-  },
-  {
     "description": "A CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs \u2014 every promotion passes through a human appro",
     "id": "shimo4228/contemplative-agent",
     "language": "Python",
@@ -153,15 +207,6 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 16,
-    "updated_at": "2026-06-03T13:29:40Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
     "description": "Digital Life Primordium\uff08\u6570\u5b57\u751f\u547d\u539f\u57fa\uff09\u2014 \u8d85\u8d8a\u5de5\u5177\u89c6\u89d2\uff0c\u8d70\u5411\u53ef\u8fdb\u5316\u7684\u6570\u5b57\u7075\u9b42\u3002\u6982\u5ff5\u9884\u7814\u7ea7\u5f00\u6e90\u9879\u76ee\uff0c\u63a2\u7d22\u4e0b\u4e00\u4ee3\u667a\u80fd\u4f53\u7684\u6839\u672c\u6027\u67b6\u6784\u3002",
     "id": "suoyinjv/digital-life-primordium",
     "language": "Python",
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T12:42:05Z",
     "url": "https://github.com/suoyinjv/digital-life-primordium"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17232,
-    "updated_at": "2026-06-03T12:36:12Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Oracle Generative AI Multi Agent Reasoning Orchestrator",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-03T12:13:18Z",
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-03T13:24:57Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-06-03T12:11:54Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-06-03T12:11:42Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-03T12:11:15Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
   }
 ]
