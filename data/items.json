@@ -1,12 +1,66 @@
 [
   {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 0,
+    "updated_at": "2026-06-03T04:59:54Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
+    "id": "fxMT-nx/El-Primor",
+    "language": "JavaScript",
+    "name": "fxMT-nx/El-Primor",
+    "stars": 4,
+    "updated_at": "2026-06-03T04:59:08Z",
+    "url": "https://github.com/fxMT-nx/El-Primor"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fDecision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit",
+    "id": "ucsandman/DashClaw",
+    "language": "JavaScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 273,
+    "updated_at": "2026-06-03T04:58:16Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 9,
+    "updated_at": "2026-06-03T04:56:40Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
     "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
     "id": "CarlosCaPe/octorato",
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 4,
-    "updated_at": "2026-06-03T04:43:23Z",
+    "updated_at": "2026-06-03T04:53:26Z",
     "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "An agentic loop framework, TUI or Web UI. Supports MCP, skills and plugins with progressive disclosure. ",
+    "id": "darenr/LoopBack",
+    "language": "Python",
+    "name": "darenr/LoopBack",
+    "stars": 3,
+    "updated_at": "2026-06-03T04:51:23Z",
+    "url": "https://github.com/darenr/LoopBack"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T04:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -22,7 +76,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 16858,
+    "stars": 16867,
     "updated_at": "2026-06-03T04:41:45Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -45,15 +99,6 @@
     "url": "https://github.com/aimogapex/aimog-apex"
   },
   {
-    "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
-    "id": "fxMT-nx/El-Primor",
-    "language": "JavaScript",
-    "name": "fxMT-nx/El-Primor",
-    "stars": 4,
-    "updated_at": "2026-06-03T04:37:34Z",
-    "url": "https://github.com/fxMT-nx/El-Primor"
-  },
-  {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
     "id": "bakw00ds/yakos",
     "language": "Go",
@@ -61,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-06-03T04:33:50Z",
     "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T04:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Research framework for adaptive, purposeful agents under uncertainty",
@@ -266,7 +302,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 16,
-    "updated_at": "2026-06-03T04:43:26Z",
+    "updated_at": "2026-06-03T04:55:42Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T03:25:29Z",
     "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-03T03:25:03Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "A curated collection of reusable AI skills, prompts, and agent configurations. Portable across AI coding assistants and ",
-    "id": "anthril/official-claude-plugins",
-    "language": "Shell",
-    "name": "anthril/official-claude-plugins",
-    "stars": 3,
-    "updated_at": "2026-06-03T03:24:49Z",
-    "url": "https://github.com/anthril/official-claude-plugins"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-03T03:23:14Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-03T03:22:15Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
   }
 ]
