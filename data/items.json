@@ -1,12 +1,57 @@
 [
   {
+    "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
+    "id": "lucasmailland/orchester",
+    "language": "TypeScript",
+    "name": "lucasmailland/orchester",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:11:45Z",
+    "url": "https://github.com/lucasmailland/orchester"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 568,
+    "updated_at": "2026-06-03T22:09:27Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1174,
+    "updated_at": "2026-06-03T22:06:44Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "Ultra-lightweight, zero-dependency runtime governance protocol for stochastic AI engines.",
+    "id": "BerryTheBenson/toqie-kernel",
+    "language": "Python",
+    "name": "BerryTheBenson/toqie-kernel",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:04:50Z",
+    "url": "https://github.com/BerryTheBenson/toqie-kernel"
+  },
+  {
     "description": "Agentic runtime system still in progress",
     "id": "StellarRequiem/Forest-Soul-Forge",
     "language": "Python",
     "name": "StellarRequiem/Forest-Soul-Forge",
     "stars": 0,
-    "updated_at": "2026-06-03T21:58:16Z",
+    "updated_at": "2026-06-03T22:03:43Z",
     "url": "https://github.com/StellarRequiem/Forest-Soul-Forge"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An agentic loop framework, TUI or Web UI. Supports MCP, skills and plugins with progressive disclosure. ",
@@ -16,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-06-03T21:56:09Z",
     "url": "https://github.com/darenr/LoopBack"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:53:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -54,15 +90,6 @@
     "url": "https://github.com/guygrigsby/talon"
   },
   {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1174,
-    "updated_at": "2026-06-03T21:49:20Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T21:48:55Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
-    "id": "lucasmailland/orchester",
-    "language": "TypeScript",
-    "name": "lucasmailland/orchester",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:50:06Z",
-    "url": "https://github.com/lucasmailland/orchester"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11005,
-    "updated_at": "2026-06-03T21:55:38Z",
+    "updated_at": "2026-06-03T22:01:40Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -103,7 +121,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3919,
+    "stars": 3920,
     "updated_at": "2026-06-03T21:43:55Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-03T21:55:11Z",
+    "updated_at": "2026-06-03T22:11:23Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 198,
-    "updated_at": "2026-06-03T21:36:24Z",
+    "updated_at": "2026-06-03T22:00:43Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T21:05:41Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-03T21:04:55Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-03T21:04:04Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
   }
 ]
