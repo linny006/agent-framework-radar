@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 1,
+    "updated_at": "2026-06-03T01:44:14Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-03T01:43:25Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-03T01:40:56Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 16731,
+    "updated_at": "2026-06-03T01:40:43Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Shell",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-03T01:39:26Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 4,
+    "updated_at": "2026-06-03T01:36:55Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "Cluster wide verification harness for byte floor, seals, and stationary state checks.",
+    "id": "Riverbraid/Riverbraid-Harness-Gold",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-Harness-Gold",
+    "stars": 1,
+    "updated_at": "2026-06-03T01:35:40Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-Harness-Gold"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 131,
+    "updated_at": "2026-06-03T01:33:12Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 14,
+    "updated_at": "2026-06-03T01:31:35Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T01:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "TNE-SDK - The Official Python SDK for The Null Epoch - an AI-only MMO where LLMs play autonomously. Connect any model (O",
     "id": "Firespawn-Studios/tne-sdk",
     "language": "Python",
@@ -7,15 +97,6 @@
     "stars": 13,
     "updated_at": "2026-06-03T01:29:37Z",
     "url": "https://github.com/Firespawn-Studios/tne-sdk"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 16721,
-    "updated_at": "2026-06-03T01:28:14Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "",
@@ -27,31 +108,13 @@
     "url": "https://github.com/axiom-llc/apex"
   },
   {
-    "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 4,
-    "updated_at": "2026-06-03T01:27:20Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3818,
+    "stars": 3820,
     "updated_at": "2026-06-03T01:25:38Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Shell",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-03T01:22:38Z",
-    "url": "https://github.com/bakw00ds/yakos"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -77,7 +140,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 10975,
-    "updated_at": "2026-06-03T01:19:35Z",
+    "updated_at": "2026-06-03T01:42:29Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -88,15 +151,6 @@
     "stars": 9,
     "updated_at": "2026-06-03T01:18:50Z",
     "url": "https://github.com/kdcube/kdcube-ai-app"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T01:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -288,15 +342,6 @@
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
   },
   {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 131,
-    "updated_at": "2026-06-03T00:42:08Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
     "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
     "id": "berrettabadger966/genesis-pantheon",
     "language": "Python",
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "Ridou/horus-os",
     "stars": 0,
-    "updated_at": "2026-06-03T00:41:20Z",
+    "updated_at": "2026-06-03T01:31:14Z",
     "url": "https://github.com/Ridou/horus-os"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T00:37:03Z",
     "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-03T00:36:27Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-03T00:35:31Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-03T00:35:14Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 1,
-    "updated_at": "2026-06-03T00:34:26Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 1,
-    "updated_at": "2026-06-03T00:33:56Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
   }
 ]
