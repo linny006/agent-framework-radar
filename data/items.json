@@ -1,5 +1,59 @@
 [
   {
+    "description": "Native desktop client for the Hermes Agent gateway \u2014 Tauri port of pan-ui.",
+    "id": "ankurCES/hermes-desktop",
+    "language": "TypeScript",
+    "name": "ankurCES/hermes-desktop",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:14:25Z",
+    "url": "https://github.com/ankurCES/hermes-desktop"
+  },
+  {
+    "description": "A robust example demonstrating the power of MS Agent Framework using features like RAG injection, history injection, SQL",
+    "id": "KyleC69/Agentic-AI-WPF",
+    "language": "C#",
+    "name": "KyleC69/Agentic-AI-WPF",
+    "stars": 3,
+    "updated_at": "2026-06-03T08:14:09Z",
+    "url": "https://github.com/KyleC69/Agentic-AI-WPF"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 13,
+    "updated_at": "2026-06-03T08:11:20Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 17023,
+    "updated_at": "2026-06-03T08:09:24Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Agentic finance engine \u2014 x402 machine-to-machine payments, secp256k1 wallets, per-task billing, on-chain USDC settlement",
+    "id": "broomva/haima",
+    "language": "Rust",
+    "name": "broomva/haima",
+    "stars": 2,
+    "updated_at": "2026-06-03T08:00:37Z",
+    "url": "https://github.com/broomva/haima"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:00:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Framework g\u00e9n\u00e9rique d'orchestration d'agents IA \u2014 BusinessDigital.fr",
     "id": "franckparienti/businessdigital-ai-agents",
     "language": "\u2014",
@@ -27,21 +81,12 @@
     "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
     "name": "opencue/cuecards",
     "stars": 2,
-    "updated_at": "2026-06-03T07:44:06Z",
+    "updated_at": "2026-06-03T08:08:23Z",
     "url": "https://github.com/opencue/cuecards"
   },
   {
@@ -378,24 +423,6 @@
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17012,
-    "updated_at": "2026-06-03T07:23:30Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 13,
-    "updated_at": "2026-06-03T07:55:28Z",
-    "url": "https://github.com/roackb2/heddle"
-  },
-  {
     "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
     "id": "cele9529/LingxiFish",
     "language": "EJS",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:21:22Z",
     "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:20:30Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 16,
-    "updated_at": "2026-06-03T07:20:13Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:19:55Z",
-    "url": "https://github.com/Messa8301/quickbench"
   }
 ]
