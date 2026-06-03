@@ -5,8 +5,80 @@
     "language": "Shell",
     "name": "r-design-j/tri-party-framework",
     "stars": 2,
-    "updated_at": "2026-06-03T08:27:04Z",
+    "updated_at": "2026-06-03T08:45:07Z",
     "url": "https://github.com/r-design-j/tri-party-framework"
+  },
+  {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 10,
+    "updated_at": "2026-06-03T08:43:57Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 17050,
+    "updated_at": "2026-06-03T08:43:47Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-03T08:41:59Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 7623,
+    "updated_at": "2026-06-03T08:44:59Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "Enterprise AI Agent Framework for the modern office \u00b7 FastAPI + React 19 \u00b7 streaming chat, multi-agent teams, RAG, memor",
+    "id": "badhope/DATA-AI",
+    "language": "Python",
+    "name": "badhope/DATA-AI",
+    "stars": 17,
+    "updated_at": "2026-06-03T08:35:16Z",
+    "url": "https://github.com/badhope/DATA-AI"
+  },
+  {
+    "description": "A curated collection of reusable AI skills, prompts, and agent configurations. Portable across AI coding assistants and ",
+    "id": "anthril/official-claude-plugins",
+    "language": "Python",
+    "name": "anthril/official-claude-plugins",
+    "stars": 3,
+    "updated_at": "2026-06-03T08:34:50Z",
+    "url": "https://github.com/anthril/official-claude-plugins"
+  },
+  {
+    "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
+    "id": "broomva/life",
+    "language": "Rust",
+    "name": "broomva/life",
+    "stars": 4,
+    "updated_at": "2026-06-03T08:34:33Z",
+    "url": "https://github.com/broomva/life"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -27,21 +99,12 @@
     "url": "https://github.com/opencue/cuecards"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17038,
-    "updated_at": "2026-06-03T08:23:57Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "The harness your agents grow in.",
     "id": "senweaver/SenHarness",
     "language": "Python",
     "name": "senweaver/SenHarness",
     "stars": 5,
-    "updated_at": "2026-06-03T08:20:36Z",
+    "updated_at": "2026-06-03T08:41:10Z",
     "url": "https://github.com/senweaver/SenHarness"
   },
   {
@@ -52,24 +115,6 @@
     "stars": 236,
     "updated_at": "2026-06-03T08:19:21Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Enterprise AI Agent Framework for the modern office \u00b7 FastAPI + React 19 \u00b7 streaming chat, multi-agent teams, RAG, memor",
-    "id": "badhope/DATA-AI",
-    "language": "Python",
-    "name": "badhope/DATA-AI",
-    "stars": 17,
-    "updated_at": "2026-06-03T08:16:39Z",
-    "url": "https://github.com/badhope/DATA-AI"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T08:15:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Native desktop client for the Hermes Agent gateway \u2014 Tauri port of pan-ui.",
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:59:59Z",
     "url": "https://github.com/franckparienti/businessdigital-ai-agents"
-  },
-  {
-    "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
-    "id": "broomva/life",
-    "language": "Rust",
-    "name": "broomva/life",
-    "stars": 4,
-    "updated_at": "2026-06-03T08:23:15Z",
-    "url": "https://github.com/broomva/life"
   },
   {
     "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:25:50Z",
     "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Organization profile and public entry surface for Riverbraid.",
-    "id": "Riverbraid/.github",
-    "language": "JavaScript",
-    "name": "Riverbraid/.github",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:25:42Z",
-    "url": "https://github.com/Riverbraid/.github"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-03T07:24:57Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:24:10Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:23:31Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
   }
 ]
