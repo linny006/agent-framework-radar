@@ -1,12 +1,84 @@
 [
   {
+    "description": "Desktop multi-agent orchestrator for the Claude Agent SDK. Command a hierarchy of AI agents \u2014 chiefs, specialists, advis",
+    "id": "SeyhmusKaya/agent-symphony",
+    "language": "TypeScript",
+    "name": "SeyhmusKaya/agent-symphony",
+    "stars": 9,
+    "updated_at": "2026-06-03T09:42:16Z",
+    "url": "https://github.com/SeyhmusKaya/agent-symphony"
+  },
+  {
+    "description": "Verifiable Codex + Claude + Gemini collaboration framework with source checks, mutual cross-audit, merge gates, HTTP and",
+    "id": "r-design-j/tri-party-framework",
+    "language": "Shell",
+    "name": "r-design-j/tri-party-framework",
+    "stars": 2,
+    "updated_at": "2026-06-03T09:41:29Z",
+    "url": "https://github.com/r-design-j/tri-party-framework"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-03T09:41:13Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-03T09:41:04Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17078,
-    "updated_at": "2026-06-03T09:30:18Z",
+    "stars": 17094,
+    "updated_at": "2026-06-03T09:39:47Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Deterministic Python lab for tool-calling agent architecture, risk gates, traces, and execution control.",
+    "id": "codelifterr/tool-calling-agent-lab",
+    "language": "Python",
+    "name": "codelifterr/tool-calling-agent-lab",
+    "stars": 0,
+    "updated_at": "2026-06-03T09:36:40Z",
+    "url": "https://github.com/codelifterr/tool-calling-agent-lab"
+  },
+  {
+    "description": "A robust example demonstrating the power of MS Agent Framework using features like RAG injection, history injection, SQL",
+    "id": "KyleC69/Agentic-AI-WPF",
+    "language": "C#",
+    "name": "KyleC69/Agentic-AI-WPF",
+    "stars": 3,
+    "updated_at": "2026-06-03T09:36:06Z",
+    "url": "https://github.com/KyleC69/Agentic-AI-WPF"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 126,
+    "updated_at": "2026-06-03T09:32:22Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T09:30:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -40,9 +112,18 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 10984,
+    "stars": 10985,
     "updated_at": "2026-06-03T09:26:07Z",
     "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 100,
+    "updated_at": "2026-06-03T09:25:54Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -59,7 +140,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-03T09:19:46Z",
+    "updated_at": "2026-06-03T09:44:08Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -70,15 +151,6 @@
     "stars": 17,
     "updated_at": "2026-06-03T09:17:57Z",
     "url": "https://github.com/badhope/DATA-AI"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T09:15:34Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent SDK, CLI, Claw, Platform in Rust",
@@ -126,15 +198,6 @@
     "url": "https://github.com/aomi-labs/aomi-sdk"
   },
   {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 2,
-    "updated_at": "2026-06-03T09:25:22Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
     "id": "EvoMap/evolver",
     "language": "JavaScript",
@@ -160,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T09:01:56Z",
     "url": "https://github.com/hidemi-k/a2a-ceos-core"
-  },
-  {
-    "description": "Verifiable Codex + Claude + Gemini collaboration framework with source checks, mutual cross-audit, merge gates, HTTP and",
-    "id": "r-design-j/tri-party-framework",
-    "language": "Shell",
-    "name": "r-design-j/tri-party-framework",
-    "stars": 2,
-    "updated_at": "2026-06-03T08:55:36Z",
-    "url": "https://github.com/r-design-j/tri-party-framework"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "xuiltul/animaworks",
     "stars": 236,
-    "updated_at": "2026-06-03T09:25:17Z",
+    "updated_at": "2026-06-03T09:39:24Z",
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
@@ -223,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T08:14:25Z",
     "url": "https://github.com/ankurCES/hermes-desktop"
-  },
-  {
-    "description": "A robust example demonstrating the power of MS Agent Framework using features like RAG injection, history injection, SQL",
-    "id": "KyleC69/Agentic-AI-WPF",
-    "language": "C#",
-    "name": "KyleC69/Agentic-AI-WPF",
-    "stars": 3,
-    "updated_at": "2026-06-03T08:14:09Z",
-    "url": "https://github.com/KyleC69/Agentic-AI-WPF"
   },
   {
     "description": "Agentic finance engine \u2014 x402 machine-to-machine payments, secp256k1 wallets, per-task billing, on-chain USDC settlement",
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:59:59Z",
     "url": "https://github.com/franckparienti/businessdigital-ai-agents"
-  },
-  {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
-    "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 99,
-    "updated_at": "2026-06-03T09:25:54Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-03T07:31:40Z",
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:30:15Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-06-03T07:30:04Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:29:51Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:29:41Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
   }
 ]
