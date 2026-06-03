@@ -1,12 +1,12 @@
 [
   {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 236,
-    "updated_at": "2026-06-03T03:43:44Z",
-    "url": "https://github.com/xuiltul/animaworks"
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-03T03:55:28Z",
+    "url": "https://github.com/bakw00ds/yakos"
   },
   {
     "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
@@ -14,8 +14,53 @@
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 4,
-    "updated_at": "2026-06-03T03:42:49Z",
+    "updated_at": "2026-06-03T03:58:40Z",
     "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
+    "id": "Ridou/horus-os",
+    "language": "Python",
+    "name": "Ridou/horus-os",
+    "stars": 0,
+    "updated_at": "2026-06-03T03:53:31Z",
+    "url": "https://github.com/Ridou/horus-os"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-03T03:55:20Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 6,
+    "updated_at": "2026-06-03T03:53:01Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T03:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 236,
+    "updated_at": "2026-06-03T03:43:44Z",
+    "url": "https://github.com/xuiltul/animaworks"
   },
   {
     "description": "Engineering infrastructure for opencode AI agents: memory, skills, subagent dispatch.",
@@ -49,7 +94,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 16834,
+    "stars": 16843,
     "updated_at": "2026-06-03T03:36:16Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T03:36:07Z",
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-03T03:34:49Z",
-    "url": "https://github.com/bakw00ds/yakos"
   },
   {
     "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
@@ -133,24 +169,6 @@
     "stars": 16,
     "updated_at": "2026-06-03T03:30:27Z",
     "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T03:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 6,
-    "updated_at": "2026-06-03T03:30:24Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T03:16:01Z",
     "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Build a governance-first multi-agent framework that turns Markdown controls into enforcement hooks for structured softwa",
-    "id": "Hosk9612/venutian-antfarm",
-    "language": "Shell",
-    "name": "Hosk9612/venutian-antfarm",
-    "stars": 0,
-    "updated_at": "2026-06-03T03:14:43Z",
-    "url": "https://github.com/Hosk9612/venutian-antfarm"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 1,
-    "updated_at": "2026-06-03T03:14:10Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
   }
 ]
