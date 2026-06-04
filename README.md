@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-04 02:30 UTC
+> ⏰ Last updated: 2026-06-04 02:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,34 +42,34 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 17457 | Go | 2026-06-04 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 2 | [saajunaid/junai](https://github.com/saajunaid/junai) | 0 | Python | 2026-06-04 | junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic |
-| 3 | [berhannnnd/Agents](https://github.com/berhannnnd/Agents) | 1 | Python | 2026-06-04 | 🏛️  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries — built for re |
-| 4 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 0 | JavaScript | 2026-06-04 | Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac |
-| 5 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 12 | Python | 2026-06-04 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
-| 6 | [AgileSmagile/smagile-agentic-kanban-blueprint](https://github.com/AgileSmagile/smagile-agentic-kanban-blueprint) | 4 | JavaScript | 2026-06-04 | A working reference for running AI agents with Kanban discipline. Operating model, knowledge system, persona files, and  |
+| 1 | [berhannnnd/Agents](https://github.com/berhannnnd/Agents) | 1 | Python | 2026-06-04 | 🏛️  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries — built for re |
+| 2 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 17474 | Go | 2026-06-04 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 3 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 65 | TypeScript | 2026-06-04 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 4 | [tya5/reyn](https://github.com/tya5/reyn) | 6 | Python | 2026-06-04 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 5 | [gryszzz/open-thymos](https://github.com/gryszzz/open-thymos) | 13 | Rust | 2026-06-04 | Make AI agent actions authorized, auditable, and replayable — not trust-the-prompt. A Rust execution kernel where signed |
+| 6 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 3 | Python | 2026-06-04 | Many Agents, one objective... yours  |
 | 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-04 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 8 | [StellarRequiem/Forest-Soul-Forge](https://github.com/StellarRequiem/Forest-Soul-Forge) | 0 | Python | 2026-06-04 | Agentic runtime system still in progress |
-| 9 | [lightfastai/lightfast](https://github.com/lightfastai/lightfast) | 16 | TypeScript | 2026-06-04 | Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation — orchestrated  |
-| 10 | [gryszzz/open-thymos](https://github.com/gryszzz/open-thymos) | 13 | Rust | 2026-06-04 | Make AI agent actions authorized, auditable, and replayable — not trust-the-prompt. A Rust execution kernel where signed |
-| 11 | [aimerdoux/wavex-os](https://github.com/aimerdoux/wavex-os) | 7 | TypeScript | 2026-06-04 | Open-source operating system for running an AI agent company on your own machine. Clone, run, and a localhost wizard wal |
-| 12 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 65 | TypeScript | 2026-06-04 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 13 | [reaatech/agent-mesh](https://github.com/reaatech/agent-mesh) | 0 | TypeScript | 2026-06-04 | Reference multi-agent orchestrator — stateless design, YAML agent registry with SIGHUP hot-reload, confidence-gated rout |
-| 14 | [tya5/reyn](https://github.com/tya5/reyn) | 6 | Python | 2026-06-04 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 15 | [roackb2/heddle](https://github.com/roackb2/heddle) | 14 | TypeScript | 2026-06-04 | An open-source terminal coding agent runtime and CLI for real project work. |
-| 16 | [leolilley/ryeos](https://github.com/leolilley/ryeos) | 2 | Rust | 2026-06-04 | A data-driven, cryptographically signed, registry-backed AI operating system, with capability-scoped execution and graph |
-| 17 | [Zhao961215/DIKW-Memory-System](https://github.com/Zhao961215/DIKW-Memory-System) | 2 | Python | 2026-06-04 | Pure SQLite memory system for Hermes Agent. Zero Docker, zero external services. 5-layer self-healing (v2.1+) + CIRAAF m |
-| 18 | [lucasmailland/orchester](https://github.com/lucasmailland/orchester) | 0 | TypeScript | 2026-06-04 | Open-source platform for building teams of AI agents — orchestrator delegates, specialists execute, persistent memory le |
-| 19 | [sloppy-yeast840/tri-party-framework](https://github.com/sloppy-yeast840/tri-party-framework) | 0 | Shell | 2026-06-04 | Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc |
-| 20 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-06-04 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
-| 21 | [herreravalenz6620/context-compression](https://github.com/herreravalenz6620/context-compression) | 1 | Python | 2026-06-04 | Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents. |
-| 22 | [Quadragesimaaffairedhonneur809/hermes-soul-governance](https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance) | 0 | Python | 2026-06-04 | Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management |
-| 23 | [Smita6756/Hbrain](https://github.com/Smita6756/Hbrain) | 0 | Python | 2026-06-04 | Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept. |
-| 24 | [Liny9941/projectsmd](https://github.com/Liny9941/projectsmd) | 2 | Rust | 2026-06-04 | Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without  |
-| 25 | [muhamedali7713/agent-audit](https://github.com/muhamedali7713/agent-audit) | 0 | Python | 2026-06-04 | Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist |
-| 26 | [Doubleedged-capitaloftennessee462/agentswift](https://github.com/Doubleedged-capitaloftennessee462/agentswift) | 1 | — | 2026-06-04 | Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins |
-| 27 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 1 | HTML | 2026-06-04 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 28 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 3 | Python | 2026-06-04 | Many Agents, one objective... yours  |
+| 8 | [saajunaid/junai](https://github.com/saajunaid/junai) | 0 | Python | 2026-06-04 | junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic |
+| 9 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 0 | JavaScript | 2026-06-04 | Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac |
+| 10 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 12 | Python | 2026-06-04 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
+| 11 | [AgileSmagile/smagile-agentic-kanban-blueprint](https://github.com/AgileSmagile/smagile-agentic-kanban-blueprint) | 4 | JavaScript | 2026-06-04 | A working reference for running AI agents with Kanban discipline. Operating model, knowledge system, persona files, and  |
+| 12 | [StellarRequiem/Forest-Soul-Forge](https://github.com/StellarRequiem/Forest-Soul-Forge) | 0 | Python | 2026-06-04 | Agentic runtime system still in progress |
+| 13 | [lightfastai/lightfast](https://github.com/lightfastai/lightfast) | 16 | TypeScript | 2026-06-04 | Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation — orchestrated  |
+| 14 | [aimerdoux/wavex-os](https://github.com/aimerdoux/wavex-os) | 7 | TypeScript | 2026-06-04 | Open-source operating system for running an AI agent company on your own machine. Clone, run, and a localhost wizard wal |
+| 15 | [reaatech/agent-mesh](https://github.com/reaatech/agent-mesh) | 0 | TypeScript | 2026-06-04 | Reference multi-agent orchestrator — stateless design, YAML agent registry with SIGHUP hot-reload, confidence-gated rout |
+| 16 | [roackb2/heddle](https://github.com/roackb2/heddle) | 14 | TypeScript | 2026-06-04 | An open-source terminal coding agent runtime and CLI for real project work. |
+| 17 | [leolilley/ryeos](https://github.com/leolilley/ryeos) | 2 | Rust | 2026-06-04 | A data-driven, cryptographically signed, registry-backed AI operating system, with capability-scoped execution and graph |
+| 18 | [Zhao961215/DIKW-Memory-System](https://github.com/Zhao961215/DIKW-Memory-System) | 2 | Python | 2026-06-04 | Pure SQLite memory system for Hermes Agent. Zero Docker, zero external services. 5-layer self-healing (v2.1+) + CIRAAF m |
+| 19 | [lucasmailland/orchester](https://github.com/lucasmailland/orchester) | 0 | TypeScript | 2026-06-04 | Open-source platform for building teams of AI agents — orchestrator delegates, specialists execute, persistent memory le |
+| 20 | [sloppy-yeast840/tri-party-framework](https://github.com/sloppy-yeast840/tri-party-framework) | 0 | Shell | 2026-06-04 | Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc |
+| 21 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-06-04 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
+| 22 | [herreravalenz6620/context-compression](https://github.com/herreravalenz6620/context-compression) | 1 | Python | 2026-06-04 | Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents. |
+| 23 | [Quadragesimaaffairedhonneur809/hermes-soul-governance](https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance) | 0 | Python | 2026-06-04 | Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management |
+| 24 | [Smita6756/Hbrain](https://github.com/Smita6756/Hbrain) | 0 | Python | 2026-06-04 | Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept. |
+| 25 | [Liny9941/projectsmd](https://github.com/Liny9941/projectsmd) | 2 | Rust | 2026-06-04 | Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without  |
+| 26 | [muhamedali7713/agent-audit](https://github.com/muhamedali7713/agent-audit) | 0 | Python | 2026-06-04 | Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist |
+| 27 | [Doubleedged-capitaloftennessee462/agentswift](https://github.com/Doubleedged-capitaloftennessee462/agentswift) | 1 | — | 2026-06-04 | Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins |
+| 28 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 1 | HTML | 2026-06-04 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
 | 29 | [AgentsKit-io/agentskit](https://github.com/AgentsKit-io/agentskit) | 8 | TypeScript | 2026-06-04 | The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t |
 | 30 | [floccose-burner9185/wow-harness](https://github.com/floccose-burner9185/wow-harness) | 0 | Python | 2026-06-04 | Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag |
 | 31 | [carlososoriopulgar/agent-kernel](https://github.com/carlososoriopulgar/agent-kernel) | 0 | — | 2026-06-04 | Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks. |

@@ -1,12 +1,66 @@
 [
   {
+    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
+    "id": "berhannnnd/Agents",
+    "language": "Python",
+    "name": "berhannnnd/Agents",
+    "stars": 1,
+    "updated_at": "2026-06-04T02:44:42Z",
+    "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17457,
-    "updated_at": "2026-06-04T02:27:24Z",
+    "stars": 17474,
+    "updated_at": "2026-06-04T02:40:42Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-04T02:44:02Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 6,
+    "updated_at": "2026-06-04T02:33:35Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Make AI agent actions authorized, auditable, and replayable \u2014 not trust-the-prompt. A Rust execution kernel where signed",
+    "id": "gryszzz/open-thymos",
+    "language": "Rust",
+    "name": "gryszzz/open-thymos",
+    "stars": 13,
+    "updated_at": "2026-06-04T02:32:33Z",
+    "url": "https://github.com/gryszzz/open-thymos"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-04T02:31:21Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T02:23:50Z",
     "url": "https://github.com/saajunaid/junai"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
-    "id": "berhannnnd/Agents",
-    "language": "Python",
-    "name": "berhannnnd/Agents",
-    "stars": 1,
-    "updated_at": "2026-06-04T02:23:19Z",
-    "url": "https://github.com/berhannnnd/Agents"
   },
   {
     "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
@@ -54,15 +99,6 @@
     "url": "https://github.com/AgileSmagile/smagile-agentic-kanban-blueprint"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T02:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agentic runtime system still in progress",
     "id": "StellarRequiem/Forest-Soul-Forge",
     "language": "Python",
@@ -81,15 +117,6 @@
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
-    "description": "Make AI agent actions authorized, auditable, and replayable \u2014 not trust-the-prompt. A Rust execution kernel where signed",
-    "id": "gryszzz/open-thymos",
-    "language": "Rust",
-    "name": "gryszzz/open-thymos",
-    "stars": 13,
-    "updated_at": "2026-06-04T02:30:15Z",
-    "url": "https://github.com/gryszzz/open-thymos"
-  },
-  {
     "description": "Open-source operating system for running an AI agent company on your own machine. Clone, run, and a localhost wizard wal",
     "id": "aimerdoux/wavex-os",
     "language": "TypeScript",
@@ -99,15 +126,6 @@
     "url": "https://github.com/aimerdoux/wavex-os"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-04T02:23:15Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Reference multi-agent orchestrator \u2014 stateless design, YAML agent registry with SIGHUP hot-reload, confidence-gated rout",
     "id": "reaatech/agent-mesh",
     "language": "TypeScript",
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T02:07:52Z",
     "url": "https://github.com/reaatech/agent-mesh"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 6,
-    "updated_at": "2026-06-04T02:30:18Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
@@ -241,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T01:41:54Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-04T01:58:07Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
