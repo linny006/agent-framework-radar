@@ -1,5 +1,131 @@
 [
   {
+    "description": "DIKW memory system v3 universal deployment template. 11-step information flow. Any Hermes Agent one-click deploy: 5 min ",
+    "id": "Zhao961215/dikw-v3-universal-template",
+    "language": "Python",
+    "name": "Zhao961215/dikw-v3-universal-template",
+    "stars": 1,
+    "updated_at": "2026-06-04T19:14:08Z",
+    "url": "https://github.com/Zhao961215/dikw-v3-universal-template"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-06-04T19:13:57Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "Enterprise AI Agent Framework for the modern office \u00b7 FastAPI + React 19 \u00b7 streaming chat, multi-agent teams, RAG, memor",
+    "id": "badhope/DATA-AI",
+    "language": "Python",
+    "name": "badhope/DATA-AI",
+    "stars": 16,
+    "updated_at": "2026-06-04T19:13:00Z",
+    "url": "https://github.com/badhope/DATA-AI"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-04T19:11:27Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-04T19:11:27Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 7,
+    "updated_at": "2026-06-04T19:09:54Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3973,
+    "updated_at": "2026-06-04T19:08:53Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
+    "id": "vzwjustin/advisor",
+    "language": "Python",
+    "name": "vzwjustin/advisor",
+    "stars": 7,
+    "updated_at": "2026-06-04T19:06:15Z",
+    "url": "https://github.com/vzwjustin/advisor"
+  },
+  {
+    "description": "",
+    "id": "envergadcr/ai-video-workflow",
+    "language": "Python",
+    "name": "envergadcr/ai-video-workflow",
+    "stars": 2,
+    "updated_at": "2026-06-04T19:05:54Z",
+    "url": "https://github.com/envergadcr/ai-video-workflow"
+  },
+  {
+    "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
+    "id": "fxMT-nx/El-Primor",
+    "language": "JavaScript",
+    "name": "fxMT-nx/El-Primor",
+    "stars": 5,
+    "updated_at": "2026-06-04T19:05:28Z",
+    "url": "https://github.com/fxMT-nx/El-Primor"
+  },
+  {
+    "description": "\ud83e\udde0 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool",
+    "id": "Niranjan-008/Agentic-Decision-Cell",
+    "language": "Python",
+    "name": "Niranjan-008/Agentic-Decision-Cell",
+    "stars": 1,
+    "updated_at": "2026-06-04T19:05:20Z",
+    "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 1,
+    "updated_at": "2026-06-04T19:05:17Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-04T19:03:01Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T19:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -18,15 +144,6 @@
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 3973,
-    "updated_at": "2026-06-04T18:58:55Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
     "id": "q-j0k/sprintloop-orchestration",
     "language": "\u2014",
@@ -40,18 +157,9 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11042,
+    "stars": 11043,
     "updated_at": "2026-06-04T18:57:41Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
-    "id": "vzwjustin/advisor",
-    "language": "Python",
-    "name": "vzwjustin/advisor",
-    "stars": 7,
-    "updated_at": "2026-06-04T19:00:11Z",
-    "url": "https://github.com/vzwjustin/advisor"
   },
   {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
@@ -63,38 +171,11 @@
     "url": "https://github.com/kdcube/kdcube-ai-app"
   },
   {
-    "description": "DIKW memory system v3 universal deployment template. 11-step information flow. Any Hermes Agent one-click deploy: 5 min ",
-    "id": "Zhao961215/dikw-v3-universal-template",
-    "language": "Python",
-    "name": "Zhao961215/dikw-v3-universal-template",
-    "stars": 1,
-    "updated_at": "2026-06-04T18:50:13Z",
-    "url": "https://github.com/Zhao961215/dikw-v3-universal-template"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T18:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
-    "id": "fxMT-nx/El-Primor",
-    "language": "JavaScript",
-    "name": "fxMT-nx/El-Primor",
-    "stars": 5,
-    "updated_at": "2026-06-04T18:39:13Z",
-    "url": "https://github.com/fxMT-nx/El-Primor"
-  },
-  {
     "description": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
-    "stars": 722,
+    "stars": 723,
     "updated_at": "2026-06-04T18:32:55Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
@@ -126,15 +207,6 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "Enterprise AI Agent Framework for the modern office \u00b7 FastAPI + React 19 \u00b7 streaming chat, multi-agent teams, RAG, memor",
-    "id": "badhope/DATA-AI",
-    "language": "Python",
-    "name": "badhope/DATA-AI",
-    "stars": 16,
-    "updated_at": "2026-06-04T18:25:18Z",
-    "url": "https://github.com/badhope/DATA-AI"
-  },
-  {
     "description": "Agentic runtime system still in progress",
     "id": "StellarRequiem/Forest-Soul-Forge",
     "language": "Python",
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "ProtocolWarden/ContextLifecycle",
     "stars": 0,
-    "updated_at": "2026-06-04T18:19:28Z",
+    "updated_at": "2026-06-04T19:13:40Z",
     "url": "https://github.com/ProtocolWarden/ContextLifecycle"
   },
   {
@@ -265,7 +337,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17981,
+    "stars": 17985,
     "updated_at": "2026-06-04T17:38:27Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -369,15 +441,6 @@
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 1,
-    "updated_at": "2026-06-04T16:37:09Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T16:21:25Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "HTML",
-    "name": "DYAI2025/Plumbline",
-    "stars": 4,
-    "updated_at": "2026-06-04T16:17:15Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 795,
-    "updated_at": "2026-06-04T16:16:07Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-04T16:15:57Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:15:48Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Local-first AI dev agent for your terminal \u2014 provider-agnostic, cost-aware, self-improving. Apache-2.0.",
-    "id": "david-2814/metis",
-    "language": "Python",
-    "name": "david-2814/metis",
-    "stars": 1,
-    "updated_at": "2026-06-04T17:40:45Z",
-    "url": "https://github.com/david-2814/metis"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "MiteshSharma/ethos",
-    "language": "TypeScript",
-    "name": "MiteshSharma/ethos",
-    "stars": 5,
-    "updated_at": "2026-06-04T16:13:38Z",
-    "url": "https://github.com/MiteshSharma/ethos"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:06:22Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
   }
 ]
