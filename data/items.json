@@ -1,5 +1,59 @@
 [
   {
+    "description": "Multi-model adversarial review for catching shared blind spots",
+    "id": "jkraybill/gordo-roundtable",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-roundtable",
+    "stars": 1,
+    "updated_at": "2026-06-04T12:59:22Z",
+    "url": "https://github.com/jkraybill/gordo-roundtable"
+  },
+  {
+    "description": "Pure SQLite memory system for Hermes Agent. Zero Docker, zero external services. 5-layer self-healing (v2.1+) + CIRAAF m",
+    "id": "Zhao961215/DIKW-Memory-System",
+    "language": "Python",
+    "name": "Zhao961215/DIKW-Memory-System",
+    "stars": 2,
+    "updated_at": "2026-06-04T12:56:31Z",
+    "url": "https://github.com/Zhao961215/DIKW-Memory-System"
+  },
+  {
+    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
+    "id": "WhitzardAgent/qitos",
+    "language": "Python",
+    "name": "WhitzardAgent/qitos",
+    "stars": 14,
+    "updated_at": "2026-06-04T12:52:50Z",
+    "url": "https://github.com/WhitzardAgent/qitos"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 4,
+    "updated_at": "2026-06-04T12:50:22Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-04T12:47:42Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
     "id": "kdcube/kdcube-ai-app",
     "language": "Python",
@@ -54,24 +108,6 @@
     "url": "https://github.com/Turbo31150/jarvis-core"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Multi-model adversarial review for catching shared blind spots",
-    "id": "jkraybill/gordo-roundtable",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-roundtable",
-    "stars": 1,
-    "updated_at": "2026-06-04T12:28:34Z",
-    "url": "https://github.com/jkraybill/gordo-roundtable"
-  },
-  {
     "description": "BACH v3.7.1 \u2014 Text-based OS for LLMs. Personal Agentic OS with 109+ handlers, 373+ tools, 932+ skills, portable agents, ",
     "id": "ellmos-ai/bach",
     "language": "Python",
@@ -95,7 +131,7 @@
     "language": "Kotlin",
     "name": "Deep-CodeAI/Agents.KT",
     "stars": 11,
-    "updated_at": "2026-06-04T12:29:23Z",
+    "updated_at": "2026-06-04T12:52:08Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T12:12:27Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 2,
-    "updated_at": "2026-06-04T12:43:07Z",
-    "url": "https://github.com/opencue/cuecards"
   },
   {
     "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, token sniping, portfolio tracking, bri",
@@ -216,24 +243,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Pure SQLite memory system for Hermes Agent. Zero Docker, zero external services. 5-layer self-healing (v2.1+) + CIRAAF m",
-    "id": "Zhao961215/DIKW-Memory-System",
-    "language": "Python",
-    "name": "Zhao961215/DIKW-Memory-System",
-    "stars": 2,
-    "updated_at": "2026-06-04T11:41:51Z",
-    "url": "https://github.com/Zhao961215/DIKW-Memory-System"
-  },
-  {
-    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
-    "id": "WhitzardAgent/qitos",
-    "language": "Python",
-    "name": "WhitzardAgent/qitos",
-    "stars": 14,
-    "updated_at": "2026-06-04T11:38:17Z",
-    "url": "https://github.com/WhitzardAgent/qitos"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-04T12:31:43Z",
+    "updated_at": "2026-06-04T12:50:12Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-04T11:04:09Z",
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-06-04T11:02:31Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
   }
 ]
