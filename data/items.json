@@ -1,12 +1,84 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 17742,
+    "updated_at": "2026-06-04T09:14:23Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Pure SQLite memory system for Hermes Agent. Zero Docker, zero external services. 5-layer self-healing (v2.1+) + CIRAAF m",
+    "id": "Zhao961215/DIKW-Memory-System",
+    "language": "Python",
+    "name": "Zhao961215/DIKW-Memory-System",
+    "stars": 2,
+    "updated_at": "2026-06-04T09:12:57Z",
+    "url": "https://github.com/Zhao961215/DIKW-Memory-System"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 6,
+    "updated_at": "2026-06-04T09:10:10Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
     "description": "Verification-first, multi-surface AI agent framework. One config powers Telegram, Discord, Slack, Teams, web widget, RES",
     "id": "zakky8/TENET",
     "language": "TypeScript",
     "name": "zakky8/TENET",
     "stars": 0,
-    "updated_at": "2026-06-04T08:53:36Z",
+    "updated_at": "2026-06-04T09:15:30Z",
     "url": "https://github.com/zakky8/TENET"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11023,
+    "updated_at": "2026-06-04T09:05:49Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-04T09:02:58Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T09:00:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "JavaScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 273,
+    "updated_at": "2026-06-04T09:00:23Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17512,
+    "updated_at": "2026-06-04T08:54:32Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -54,15 +126,6 @@
     "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11023,
-    "updated_at": "2026-06-04T08:59:20Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -70,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-06-04T08:47:29Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T08:45:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Democratizing Reinforcement Learning for LLMs",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T08:28:50Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17732,
-    "updated_at": "2026-06-04T08:24:23Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
@@ -225,15 +270,6 @@
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17511,
-    "updated_at": "2026-06-04T08:54:32Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Autonomous AI agent runtime \u2014 TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co",
     "id": "erayendes/kortext",
     "language": "TypeScript",
@@ -241,24 +277,6 @@
     "stars": 2,
     "updated_at": "2026-06-04T07:44:16Z",
     "url": "https://github.com/erayendes/kortext"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 6,
-    "updated_at": "2026-06-04T07:40:07Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "JavaScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 273,
-    "updated_at": "2026-06-04T09:00:23Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "",
@@ -328,7 +346,7 @@
     "id": "RiggdAI/uniqent",
     "language": "TypeScript",
     "name": "RiggdAI/uniqent",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-06-04T07:00:57Z",
     "url": "https://github.com/RiggdAI/uniqent"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T06:07:49Z",
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 14,
-    "updated_at": "2026-06-04T08:21:19Z",
-    "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-06-04T06:04:47Z",
-    "url": "https://github.com/Liny9941/projectsmd"
   }
 ]
