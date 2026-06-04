@@ -1,21 +1,48 @@
 [
   {
-    "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
-    "id": "vzwjustin/advisor",
-    "language": "Python",
-    "name": "vzwjustin/advisor",
-    "stars": 7,
-    "updated_at": "2026-06-04T17:28:59Z",
-    "url": "https://github.com/vzwjustin/advisor"
-  },
-  {
     "description": "TypeScript AI agent framework with multi-judge hallucination verifier + Vectara HHEM-2.1, pre-tool-call governance/appro",
     "id": "zakky8/TENET",
     "language": "TypeScript",
     "name": "zakky8/TENET",
     "stars": 0,
-    "updated_at": "2026-06-04T17:28:24Z",
+    "updated_at": "2026-06-04T17:44:18Z",
     "url": "https://github.com/zakky8/TENET"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3970,
+    "updated_at": "2026-06-04T17:44:55Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:40:54Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 17968,
+    "updated_at": "2026-06-04T17:38:27Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "JavaScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 273,
+    "updated_at": "2026-06-04T17:35:22Z",
+    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, token sniping, portfolio tracking, bri",
@@ -23,8 +50,26 @@
     "language": "Python",
     "name": "ulsreall/web3-agent-kit",
     "stars": 4,
-    "updated_at": "2026-06-04T17:27:41Z",
+    "updated_at": "2026-06-04T17:30:34Z",
     "url": "https://github.com/ulsreall/web3-agent-kit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
+    "id": "vzwjustin/advisor",
+    "language": "Python",
+    "name": "vzwjustin/advisor",
+    "stars": 7,
+    "updated_at": "2026-06-04T17:28:59Z",
+    "url": "https://github.com/vzwjustin/advisor"
   },
   {
     "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
@@ -49,18 +94,9 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11040,
-    "updated_at": "2026-06-04T17:16:07Z",
+    "stars": 11042,
+    "updated_at": "2026-06-04T17:41:52Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -126,15 +162,6 @@
     "url": "https://github.com/fxMT-nx/El-Primor"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 3969,
-    "updated_at": "2026-06-04T17:25:50Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "Lightweight TypeScript framework for building agentic tools.",
     "id": "Tom-R-Main/openFunctions",
     "language": "TypeScript",
@@ -167,7 +194,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-04T17:17:02Z",
+    "updated_at": "2026-06-04T17:38:56Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "david-2814/metis",
     "stars": 1,
-    "updated_at": "2026-06-04T16:25:02Z",
+    "updated_at": "2026-06-04T17:40:45Z",
     "url": "https://github.com/david-2814/metis"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T15:53:50Z",
     "url": "https://github.com/jkraybill/gordo-roundtable"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 6,
-    "updated_at": "2026-06-04T15:53:35Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 2,
-    "updated_at": "2026-06-04T15:53:13Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 482,
-    "updated_at": "2026-06-04T15:52:45Z",
-    "url": "https://github.com/aaronjmars/aeon"
   }
 ]
