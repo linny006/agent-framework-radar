@@ -1,12 +1,66 @@
 [
   {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 127,
+    "updated_at": "2026-06-04T17:12:55Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 113,
+    "updated_at": "2026-06-04T17:15:22Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Open Symbolic AI Core Repository",
+    "id": "OpenSymbolicAI/core-py",
+    "language": "Python",
+    "name": "OpenSymbolicAI/core-py",
+    "stars": 1,
+    "updated_at": "2026-06-04T17:10:27Z",
+    "url": "https://github.com/OpenSymbolicAI/core-py"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1175,
+    "updated_at": "2026-06-04T17:08:25Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
     "description": "TypeScript AI agent framework with multi-judge hallucination verifier + Vectara HHEM-2.1, pre-tool-call governance/appro",
     "id": "zakky8/TENET",
     "language": "TypeScript",
     "name": "zakky8/TENET",
     "stars": 0,
-    "updated_at": "2026-06-04T16:58:45Z",
+    "updated_at": "2026-06-04T17:08:22Z",
     "url": "https://github.com/zakky8/TENET"
+  },
+  {
+    "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
+    "id": "Kuonirad/MCOP-Framework-2.0",
+    "language": "TypeScript",
+    "name": "Kuonirad/MCOP-Framework-2.0",
+    "stars": 1,
+    "updated_at": "2026-06-04T17:08:00Z",
+    "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:00:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source operating system for running an AI agent company on your own machine. Clone, run, and a localhost wizard wal",
@@ -18,13 +72,13 @@
     "url": "https://github.com/aimerdoux/wavex-os"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:48:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "microsoft/agent-framework",
+    "stars": 11041,
+    "updated_at": "2026-06-04T17:14:11Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
@@ -58,7 +112,7 @@
     "id": "ulsreall/web3-agent-kit",
     "language": "Python",
     "name": "ulsreall/web3-agent-kit",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-06-04T16:42:23Z",
     "url": "https://github.com/ulsreall/web3-agent-kit"
   },
@@ -70,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-06-04T16:42:12Z",
     "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 113,
-    "updated_at": "2026-06-04T16:38:49Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-04T16:59:52Z",
+    "updated_at": "2026-06-04T17:14:50Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T16:02:39Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1175,
-    "updated_at": "2026-06-04T16:02:22Z",
-    "url": "https://github.com/inkeep/agents"
   },
   {
     "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T15:51:07Z",
     "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-06-04T15:50:57Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-06-04T15:50:24Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-04T15:50:21Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Open-source platform layer for AI agents in production",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 181,
-    "updated_at": "2026-06-04T16:04:38Z",
-    "url": "https://github.com/zenml-io/kitaru"
   }
 ]
