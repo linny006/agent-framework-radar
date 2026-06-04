@@ -1,12 +1,21 @@
 [
   {
-    "description": "Verification-first, multi-surface AI agent framework. One config powers Telegram, Discord, Slack, Teams, web widget, RES",
+    "description": "TypeScript AI agent framework with multi-judge hallucination verifier + Vectara HHEM-2.1, pre-tool-call governance/appro",
     "id": "zakky8/TENET",
     "language": "TypeScript",
     "name": "zakky8/TENET",
     "stars": 0,
-    "updated_at": "2026-06-04T16:46:43Z",
+    "updated_at": "2026-06-04T16:58:45Z",
     "url": "https://github.com/zakky8/TENET"
+  },
+  {
+    "description": "Open-source operating system for running an AI agent company on your own machine. Clone, run, and a localhost wizard wal",
+    "id": "aimerdoux/wavex-os",
+    "language": "TypeScript",
+    "name": "aimerdoux/wavex-os",
+    "stars": 7,
+    "updated_at": "2026-06-04T16:58:33Z",
+    "url": "https://github.com/aimerdoux/wavex-os"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-06-04T16:45:33Z",
+    "updated_at": "2026-06-04T16:48:31Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -31,7 +40,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3966,
+    "stars": 3967,
     "updated_at": "2026-06-04T16:43:05Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -86,7 +95,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-04T16:28:16Z",
+    "updated_at": "2026-06-04T16:59:52Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 181,
     "updated_at": "2026-06-04T16:04:38Z",
     "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-04T15:49:42Z",
-    "url": "https://github.com/monahright467/harness-books"
   }
 ]
