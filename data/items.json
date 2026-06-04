@@ -1,5 +1,86 @@
 [
   {
+    "description": "Provide structured LinkedIn data by searching profiles, companies, and jobs through an MCP server with granular scraping",
+    "id": "dottiedissimilar494/linkedin-mcp-server",
+    "language": "Python",
+    "name": "dottiedissimilar494/linkedin-mcp-server",
+    "stars": 2,
+    "updated_at": "2026-06-04T10:35:50Z",
+    "url": "https://github.com/dottiedissimilar494/linkedin-mcp-server"
+  },
+  {
+    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, token sniping, portfolio tracking, bri",
+    "id": "ulsreall/web3-agent-kit",
+    "language": "Python",
+    "name": "ulsreall/web3-agent-kit",
+    "stars": 2,
+    "updated_at": "2026-06-04T10:35:07Z",
+    "url": "https://github.com/ulsreall/web3-agent-kit"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "JavaScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 273,
+    "updated_at": "2026-06-04T10:34:01Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "A lightweight MCP server for LinkedIn automation. Supports profile, job, company and post scraping. Enables post creatio",
+    "id": "selvin-paul-raj/Linkedin-MCP-Server",
+    "language": "Python",
+    "name": "selvin-paul-raj/Linkedin-MCP-Server",
+    "stars": 3,
+    "updated_at": "2026-06-04T10:33:52Z",
+    "url": "https://github.com/selvin-paul-raj/Linkedin-MCP-Server"
+  },
+  {
+    "description": "Provide a lightweight, cross-platform AI agent with TUI and GUI support, optimized for performance and flexible tool int",
+    "id": "duduard/saneagent",
+    "language": "\u2014",
+    "name": "duduard/saneagent",
+    "stars": 0,
+    "updated_at": "2026-06-04T10:33:50Z",
+    "url": "https://github.com/duduard/saneagent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 6,
+    "updated_at": "2026-06-04T10:33:23Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Build and manage AI agents within git repositories using a Rust-based, dependency-free framework that version-controls a",
+    "id": "yeab405/rusty-gitclaw",
+    "language": "Rust",
+    "name": "yeab405/rusty-gitclaw",
+    "stars": 2,
+    "updated_at": "2026-06-04T10:32:40Z",
+    "url": "https://github.com/yeab405/rusty-gitclaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T10:30:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Enable collaborative novel writing with AI agents that handle editing, plotting, and drafting in a production-ready Pyth",
+    "id": "Nicoman501/Novel-OS",
+    "language": "Python",
+    "name": "Nicoman501/Novel-OS",
+    "stars": 1,
+    "updated_at": "2026-06-04T10:30:26Z",
+    "url": "https://github.com/Nicoman501/Novel-OS"
+  },
+  {
     "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
     "id": "kokorubbong/agenticqa-scan-action",
     "language": "Python",
@@ -130,7 +211,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17796,
+    "stars": 17798,
     "updated_at": "2026-06-04T10:24:16Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -151,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T10:22:00Z",
     "url": "https://github.com/jc18aguilar/SwiftAgentCore"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 6,
-    "updated_at": "2026-06-04T10:24:44Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Build and manage AI-driven workflows with private data control, multi-provider LLM support, and local-first architecture",
@@ -187,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-06-04T10:17:28Z",
     "url": "https://github.com/Luiz184/gokin-sdk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T10:15:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
@@ -324,15 +387,6 @@
     "url": "https://github.com/TonCerqueira/MiroThinker"
   },
   {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "JavaScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 273,
-    "updated_at": "2026-06-04T09:47:05Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
     "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
     "id": "hdhks1229i3/vibecheck",
     "language": "Zig",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-04T09:39:19Z",
     "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11028,
-    "updated_at": "2026-06-04T09:37:04Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 14,
-    "updated_at": "2026-06-04T09:32:46Z",
-    "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "",
-    "id": "envergadcr/ai-video-workflow",
-    "language": "Python",
-    "name": "envergadcr/ai-video-workflow",
-    "stars": 2,
-    "updated_at": "2026-06-04T09:32:03Z",
-    "url": "https://github.com/envergadcr/ai-video-workflow"
-  },
-  {
-    "description": "\ud83e\udde0 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool",
-    "id": "Niranjan-008/Agentic-Decision-Cell",
-    "language": "Python",
-    "name": "Niranjan-008/Agentic-Decision-Cell",
-    "stars": 1,
-    "updated_at": "2026-06-04T09:31:07Z",
-    "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
-  },
-  {
-    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
-    "id": "yassineelfakiri/agentpg",
-    "language": "Go",
-    "name": "yassineelfakiri/agentpg",
-    "stars": 0,
-    "updated_at": "2026-06-04T09:28:43Z",
-    "url": "https://github.com/yassineelfakiri/agentpg"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 2,
-    "updated_at": "2026-06-04T09:28:25Z",
-    "url": "https://github.com/opencue/cuecards"
   }
 ]
