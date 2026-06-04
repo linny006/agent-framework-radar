@@ -1,12 +1,93 @@
 [
   {
+    "description": "Agentic runtime system still in progress",
+    "id": "StellarRequiem/Forest-Soul-Forge",
+    "language": "Python",
+    "name": "StellarRequiem/Forest-Soul-Forge",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:14:52Z",
+    "url": "https://github.com/StellarRequiem/Forest-Soul-Forge"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 16,
+    "updated_at": "2026-06-04T02:14:34Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Make AI agent actions authorized, auditable, and replayable \u2014 not trust-the-prompt. A Rust execution kernel where signed",
+    "id": "gryszzz/open-thymos",
+    "language": "Rust",
+    "name": "gryszzz/open-thymos",
+    "stars": 13,
+    "updated_at": "2026-06-04T02:13:57Z",
+    "url": "https://github.com/gryszzz/open-thymos"
+  },
+  {
+    "description": "Open-source operating system for running an AI agent company on your own machine. Clone, run, and a localhost wizard wal",
+    "id": "aimerdoux/wavex-os",
+    "language": "TypeScript",
+    "name": "aimerdoux/wavex-os",
+    "stars": 7,
+    "updated_at": "2026-06-04T02:13:27Z",
+    "url": "https://github.com/aimerdoux/wavex-os"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:12:06Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-04T02:11:04Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
     "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
     "id": "berhannnnd/Agents",
     "language": "Python",
     "name": "berhannnnd/Agents",
     "stars": 1,
-    "updated_at": "2026-06-04T02:03:03Z",
+    "updated_at": "2026-06-04T02:10:44Z",
     "url": "https://github.com/berhannnnd/Agents"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 17448,
+    "updated_at": "2026-06-04T02:15:01Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Reference multi-agent orchestrator \u2014 stateless design, YAML agent registry with SIGHUP hot-reload, confidence-gated rout",
+    "id": "reaatech/agent-mesh",
+    "language": "TypeScript",
+    "name": "reaatech/agent-mesh",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:07:52Z",
+    "url": "https://github.com/reaatech/agent-mesh"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:06:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -18,15 +99,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T02:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
     "id": "roackb2/heddle",
     "language": "TypeScript",
@@ -34,24 +106,6 @@
     "stars": 14,
     "updated_at": "2026-06-04T01:58:01Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-04T02:01:51Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17441,
-    "updated_at": "2026-06-04T01:53:57Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A data-driven, cryptographically signed, registry-backed AI operating system, with capability-scoped execution and graph",
@@ -99,15 +153,6 @@
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 16,
-    "updated_at": "2026-06-04T02:06:18Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
     "id": "herreravalenz6620/context-compression",
     "language": "Python",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T01:45:29Z",
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "A Rust execution runtime framework that governs what AI agents can do: ed25519-signed capability writs, effect-ceiling e",
-    "id": "gryszzz/open-thymos",
-    "language": "Rust",
-    "name": "gryszzz/open-thymos",
-    "stars": 13,
-    "updated_at": "2026-06-04T01:45:27Z",
-    "url": "https://github.com/gryszzz/open-thymos"
   },
   {
     "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
@@ -351,15 +387,6 @@
     "url": "https://github.com/ItsProGamer974/oh-my-codex"
   },
   {
-    "description": "Agentic runtime system still in progress",
-    "id": "StellarRequiem/Forest-Soul-Forge",
-    "language": "Python",
-    "name": "StellarRequiem/Forest-Soul-Forge",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:34:56Z",
-    "url": "https://github.com/StellarRequiem/Forest-Soul-Forge"
-  },
-  {
     "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
     "id": "photoconductive-bhaga880/AutoHarness",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T01:33:10Z",
     "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:31:24Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-04T01:30:32Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-04T01:29:52Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
   }
 ]
