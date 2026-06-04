@@ -1,12 +1,48 @@
 [
   {
-    "description": "Markdown Agent Studio is a workspace where agents develop specialization through their own experience.",
-    "id": "RobThePCGuy/markdown-agent-studio",
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-04T21:44:29Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-04T21:42:31Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
+    "language": "Python",
+    "name": "rllm-org/rllm",
+    "stars": 5593,
+    "updated_at": "2026-06-04T21:42:27Z",
+    "url": "https://github.com/rllm-org/rllm"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
     "language": "TypeScript",
-    "name": "RobThePCGuy/markdown-agent-studio",
-    "stars": 2,
-    "updated_at": "2026-06-04T21:27:39Z",
-    "url": "https://github.com/RobThePCGuy/markdown-agent-studio"
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 1,
+    "updated_at": "2026-06-04T21:40:30Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-04T21:39:36Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
@@ -14,8 +50,53 @@
     "language": "JavaScript",
     "name": "ucsandman/DashClaw",
     "stars": 273,
-    "updated_at": "2026-06-04T21:23:11Z",
+    "updated_at": "2026-06-04T21:39:09Z",
     "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 569,
+    "updated_at": "2026-06-04T21:39:31Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Agentic runtime system still in progress",
+    "id": "StellarRequiem/Forest-Soul-Forge",
+    "language": "Python",
+    "name": "StellarRequiem/Forest-Soul-Forge",
+    "stars": 0,
+    "updated_at": "2026-06-04T21:35:02Z",
+    "url": "https://github.com/StellarRequiem/Forest-Soul-Forge"
+  },
+  {
+    "description": "Resilience middleware that makes AI agents self-healing. Retries, checkpointing, circuit breakers, cost budgets - for an",
+    "id": "Cole-Godfrey/tardigrade",
+    "language": "Python",
+    "name": "Cole-Godfrey/tardigrade",
+    "stars": 0,
+    "updated_at": "2026-06-04T21:31:24Z",
+    "url": "https://github.com/Cole-Godfrey/tardigrade"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T21:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Markdown Agent Studio is a workspace where agents develop specialization through their own experience.",
+    "id": "RobThePCGuy/markdown-agent-studio",
+    "language": "TypeScript",
+    "name": "RobThePCGuy/markdown-agent-studio",
+    "stars": 2,
+    "updated_at": "2026-06-04T21:27:39Z",
+    "url": "https://github.com/RobThePCGuy/markdown-agent-studio"
   },
   {
     "description": "JARVIS Core \u2014 Agentic AI on-premise \u00b7 900+ agents autonomes \u00b7 Model Context Protocol (MCP) \u00b7 consensus multi-LLM (Claude",
@@ -41,7 +122,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-04T21:21:48Z",
+    "updated_at": "2026-06-04T21:37:04Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -72,15 +153,6 @@
     "url": "https://github.com/juanmanueldaza/n3rv"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T21:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -106,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T21:08:30Z",
     "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
-  },
-  {
-    "description": "Agentic runtime system still in progress",
-    "id": "StellarRequiem/Forest-Soul-Forge",
-    "language": "Python",
-    "name": "StellarRequiem/Forest-Soul-Forge",
-    "stars": 0,
-    "updated_at": "2026-06-04T21:07:38Z",
-    "url": "https://github.com/StellarRequiem/Forest-Soul-Forge"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11043,
-    "updated_at": "2026-06-04T20:51:16Z",
+    "updated_at": "2026-06-04T21:42:44Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T20:26:04Z",
     "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-06-04T20:25:52Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-06-04T20:25:26Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-04T20:25:01Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-06-04T20:24:38Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-04T20:24:36Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-04T20:24:30Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-04T20:23:48Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
   }
 ]
