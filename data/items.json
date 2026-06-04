@@ -1,12 +1,48 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-04T18:59:24Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 4,
+    "updated_at": "2026-06-04T18:58:55Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 3973,
-    "updated_at": "2026-06-04T18:45:22Z",
+    "updated_at": "2026-06-04T18:58:55Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-04T18:58:00Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11042,
+    "updated_at": "2026-06-04T18:57:41Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "vzwjustin/advisor",
     "stars": 7,
-    "updated_at": "2026-06-04T18:44:13Z",
+    "updated_at": "2026-06-04T19:00:11Z",
     "url": "https://github.com/vzwjustin/advisor"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 9,
+    "updated_at": "2026-06-04T18:52:19Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "DIKW memory system v3 universal deployment template. 11-step information flow. Any Hermes Agent one-click deploy: 5 min ",
+    "id": "Zhao961215/dikw-v3-universal-template",
+    "language": "Python",
+    "name": "Zhao961215/dikw-v3-universal-template",
+    "stars": 1,
+    "updated_at": "2026-06-04T18:50:13Z",
+    "url": "https://github.com/Zhao961215/dikw-v3-universal-template"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T18:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
@@ -27,15 +90,6 @@
     "url": "https://github.com/fxMT-nx/El-Primor"
   },
   {
-    "description": "DIKW memory system v3 universal deployment template. 11-step information flow. Any Hermes Agent one-click deploy: 5 min ",
-    "id": "Zhao961215/dikw-v3-universal-template",
-    "language": "Python",
-    "name": "Zhao961215/dikw-v3-universal-template",
-    "stars": 1,
-    "updated_at": "2026-06-04T18:35:47Z",
-    "url": "https://github.com/Zhao961215/dikw-v3-universal-template"
-  },
-  {
     "description": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
@@ -43,15 +97,6 @@
     "stars": 722,
     "updated_at": "2026-06-04T18:32:55Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 9,
-    "updated_at": "2026-06-04T18:32:24Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
   },
   {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
@@ -70,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T18:31:12Z",
     "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T18:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
@@ -124,24 +160,6 @@
     "stars": 2,
     "updated_at": "2026-06-04T18:19:30Z",
     "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-04T18:17:09Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11042,
-    "updated_at": "2026-06-04T18:44:27Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "TypeScript AI agent framework with multi-judge hallucination verifier + Vectara HHEM-2.1, pre-tool-call governance/appro",
@@ -247,7 +265,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17979,
+    "stars": 17981,
     "updated_at": "2026-06-04T17:38:27Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -311,7 +329,7 @@
     "language": "TypeScript",
     "name": "inkeep/agents",
     "stars": 1175,
-    "updated_at": "2026-06-04T18:45:09Z",
+    "updated_at": "2026-06-04T18:47:29Z",
     "url": "https://github.com/inkeep/agents"
   },
   {
@@ -340,15 +358,6 @@
     "stars": 3,
     "updated_at": "2026-06-04T16:42:38Z",
     "url": "https://github.com/Tom-R-Main/openFunctions"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 4,
-    "updated_at": "2026-06-04T16:42:12Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T16:06:22Z",
     "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:06:05Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
