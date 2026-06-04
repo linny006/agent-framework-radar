@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud83e\udd16 Build advanced multi-agent AI systems with this high-performance Rust framework, enabling automation, reasoning, and e",
+    "id": "Albertossilva-maker/MultiAgent-AI",
+    "language": "HTML",
+    "name": "Albertossilva-maker/MultiAgent-AI",
+    "stars": 0,
+    "updated_at": "2026-06-04T05:00:12Z",
+    "url": "https://github.com/Albertossilva-maker/MultiAgent-AI"
+  },
+  {
+    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
+    "id": "ChronoAIProject/Ornn",
+    "language": "TypeScript",
+    "name": "ChronoAIProject/Ornn",
+    "stars": 18,
+    "updated_at": "2026-06-04T04:59:46Z",
+    "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 568,
+    "updated_at": "2026-06-04T04:56:33Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-06-04T04:56:08Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "JavaScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 273,
+    "updated_at": "2026-06-04T04:55:52Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Any brain, any agent. Package an AI agent's brain \u2014 persona, MCP stack, skills, memory, config \u2014 into one open, signed b",
+    "id": "RiggdAI/uniqent",
+    "language": "TypeScript",
+    "name": "RiggdAI/uniqent",
+    "stars": 3,
+    "updated_at": "2026-06-04T04:54:48Z",
+    "url": "https://github.com/RiggdAI/uniqent"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 1,
+    "updated_at": "2026-06-04T04:54:42Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 16,
+    "updated_at": "2026-06-04T04:54:40Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-06-04T04:53:14Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 4,
+    "updated_at": "2026-06-04T04:51:27Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11015,
+    "updated_at": "2026-06-04T04:50:03Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-06-04T04:47:22Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T04:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
     "id": "thesiddguy/GenAI",
     "language": "HTML",
@@ -23,7 +140,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-04T04:43:49Z",
+    "updated_at": "2026-06-04T04:58:20Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -40,18 +157,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 17562,
+    "stars": 17566,
     "updated_at": "2026-06-04T04:40:14Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "JavaScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 273,
-    "updated_at": "2026-06-04T04:38:20Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -90,33 +198,6 @@
     "url": "https://github.com/yassineelfakiri/agentpg"
   },
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 16,
-    "updated_at": "2026-06-04T04:33:12Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 568,
-    "updated_at": "2026-06-04T04:34:05Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T04:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agentic runtime system still in progress",
     "id": "StellarRequiem/Forest-Soul-Forge",
     "language": "Python",
@@ -124,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T04:30:12Z",
     "url": "https://github.com/StellarRequiem/Forest-Soul-Forge"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 4,
-    "updated_at": "2026-06-04T04:45:18Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
     "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
@@ -167,7 +239,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 3935,
-    "updated_at": "2026-06-04T04:22:53Z",
+    "updated_at": "2026-06-04T04:58:34Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -196,6 +268,15 @@
     "stars": 2,
     "updated_at": "2026-06-04T04:10:35Z",
     "url": "https://github.com/QANOT/qanot"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17505,
+    "updated_at": "2026-06-04T04:07:41Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
@@ -288,15 +369,6 @@
     "url": "https://github.com/fuseraft/fuseraft-cli"
   },
   {
-    "description": "Any brain, any agent. Package an AI agent's brain \u2014 persona, MCP stack, skills, memory, config \u2014 into one open, signed b",
-    "id": "RiggdAI/uniqent",
-    "language": "TypeScript",
-    "name": "RiggdAI/uniqent",
-    "stars": 3,
-    "updated_at": "2026-06-04T03:47:44Z",
-    "url": "https://github.com/RiggdAI/uniqent"
-  },
-  {
     "description": "Oracle Generative AI Multi Agent Reasoning Orchestrator",
     "id": "oracle-samples/locus",
     "language": "Python",
@@ -306,12 +378,21 @@
     "url": "https://github.com/oracle-samples/locus"
   },
   {
+    "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
+    "id": "agentbreeder/agentbreeder",
+    "language": "Python",
+    "name": "agentbreeder/agentbreeder",
+    "stars": 4,
+    "updated_at": "2026-06-04T03:42:31Z",
+    "url": "https://github.com/agentbreeder/agentbreeder"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 6,
-    "updated_at": "2026-06-04T03:40:51Z",
+    "updated_at": "2026-06-04T04:58:20Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 9,
     "updated_at": "2026-06-04T03:24:15Z",
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
-  },
-  {
-    "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
-    "id": "agentbreeder/agentbreeder",
-    "language": "Python",
-    "name": "agentbreeder/agentbreeder",
-    "stars": 4,
-    "updated_at": "2026-06-04T03:42:31Z",
-    "url": "https://github.com/agentbreeder/agentbreeder"
-  },
-  {
-    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6316,
-    "updated_at": "2026-06-04T04:35:14Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Ops harness for Claude Code \u2014 5 install profiles, 7 shipped skills, full session rituals. Apache 2.0.",
-    "id": "cerebrocybersolutions/libro",
-    "language": "Python",
-    "name": "cerebrocybersolutions/libro",
-    "stars": 0,
-    "updated_at": "2026-06-04T03:21:36Z",
-    "url": "https://github.com/cerebrocybersolutions/libro"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
-    "id": "berhannnnd/Agents",
-    "language": "Python",
-    "name": "berhannnnd/Agents",
-    "stars": 1,
-    "updated_at": "2026-06-04T03:10:05Z",
-    "url": "https://github.com/berhannnnd/Agents"
-  },
-  {
-    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 5,
-    "updated_at": "2026-06-04T03:09:15Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Make AI agent actions authorized, auditable, and replayable \u2014 not trust-the-prompt. A Rust execution kernel where signed",
-    "id": "gryszzz/open-thymos",
-    "language": "Rust",
-    "name": "gryszzz/open-thymos",
-    "stars": 13,
-    "updated_at": "2026-06-04T02:54:51Z",
-    "url": "https://github.com/gryszzz/open-thymos"
-  },
-  {
-    "description": "CAST specialist agent definitions \u2014 23 production-grade Claude Code agents (commit, debug, review, plan, test, research,",
-    "id": "ek33450505/cast-agents",
-    "language": "Shell",
-    "name": "ek33450505/cast-agents",
-    "stars": 1,
-    "updated_at": "2026-06-04T02:47:23Z",
-    "url": "https://github.com/ek33450505/cast-agents"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-04T02:31:21Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
-    "id": "saajunaid/junai",
-    "language": "Python",
-    "name": "saajunaid/junai",
-    "stars": 0,
-    "updated_at": "2026-06-04T02:23:50Z",
-    "url": "https://github.com/saajunaid/junai"
   }
 ]
