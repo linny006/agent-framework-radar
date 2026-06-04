@@ -1,12 +1,66 @@
 [
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 127,
-    "updated_at": "2026-06-04T17:12:55Z",
-    "url": "https://github.com/cortexkit/aft"
+    "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
+    "id": "vzwjustin/advisor",
+    "language": "Python",
+    "name": "vzwjustin/advisor",
+    "stars": 7,
+    "updated_at": "2026-06-04T17:28:59Z",
+    "url": "https://github.com/vzwjustin/advisor"
+  },
+  {
+    "description": "TypeScript AI agent framework with multi-judge hallucination verifier + Vectara HHEM-2.1, pre-tool-call governance/appro",
+    "id": "zakky8/TENET",
+    "language": "TypeScript",
+    "name": "zakky8/TENET",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:28:24Z",
+    "url": "https://github.com/zakky8/TENET"
+  },
+  {
+    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, token sniping, portfolio tracking, bri",
+    "id": "ulsreall/web3-agent-kit",
+    "language": "Python",
+    "name": "ulsreall/web3-agent-kit",
+    "stars": 4,
+    "updated_at": "2026-06-04T17:27:41Z",
+    "url": "https://github.com/ulsreall/web3-agent-kit"
+  },
+  {
+    "description": "Open-source, self-hosted AI command center. Run a personal team of agents locally with Anthropic + Gemini, full audit tr",
+    "id": "Ridou/horus-os",
+    "language": "Python",
+    "name": "Ridou/horus-os",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:25:41Z",
+    "url": "https://github.com/Ridou/horus-os"
+  },
+  {
+    "description": "JARVIS Core \u2014 Agentic AI on-premise \u00b7 900+ agents autonomes \u00b7 Model Context Protocol (MCP) \u00b7 consensus multi-LLM (Claude",
+    "id": "Turbo31150/jarvis-core",
+    "language": "Python",
+    "name": "Turbo31150/jarvis-core",
+    "stars": 1,
+    "updated_at": "2026-06-04T17:17:41Z",
+    "url": "https://github.com/Turbo31150/jarvis-core"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11040,
+    "updated_at": "2026-06-04T17:16:07Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -16,6 +70,15 @@
     "stars": 113,
     "updated_at": "2026-06-04T17:15:22Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 127,
+    "updated_at": "2026-06-04T17:12:55Z",
+    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Open Symbolic AI Core Repository",
@@ -36,15 +99,6 @@
     "url": "https://github.com/inkeep/agents"
   },
   {
-    "description": "TypeScript AI agent framework with multi-judge hallucination verifier + Vectara HHEM-2.1, pre-tool-call governance/appro",
-    "id": "zakky8/TENET",
-    "language": "TypeScript",
-    "name": "zakky8/TENET",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:08:22Z",
-    "url": "https://github.com/zakky8/TENET"
-  },
-  {
     "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
     "id": "Kuonirad/MCOP-Framework-2.0",
     "language": "TypeScript",
@@ -54,15 +108,6 @@
     "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:00:35Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source operating system for running an AI agent company on your own machine. Clone, run, and a localhost wizard wal",
     "id": "aimerdoux/wavex-os",
     "language": "TypeScript",
@@ -70,15 +115,6 @@
     "stars": 7,
     "updated_at": "2026-06-04T16:58:33Z",
     "url": "https://github.com/aimerdoux/wavex-os"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11041,
-    "updated_at": "2026-06-04T17:14:11Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
@@ -94,8 +130,8 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 3967,
-    "updated_at": "2026-06-04T16:43:05Z",
+    "stars": 3969,
+    "updated_at": "2026-06-04T17:25:50Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -106,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-06-04T16:42:38Z",
     "url": "https://github.com/Tom-R-Main/openFunctions"
-  },
-  {
-    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, token sniping, portfolio tracking, bri",
-    "id": "ulsreall/web3-agent-kit",
-    "language": "Python",
-    "name": "ulsreall/web3-agent-kit",
-    "stars": 4,
-    "updated_at": "2026-06-04T16:42:23Z",
-    "url": "https://github.com/ulsreall/web3-agent-kit"
   },
   {
     "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
@@ -140,7 +167,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-04T17:14:50Z",
+    "updated_at": "2026-06-04T17:17:02Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 482,
     "updated_at": "2026-06-04T15:52:45Z",
     "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-06-04T15:51:42Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-06-04T15:51:34Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-04T15:51:07Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
   }
 ]
