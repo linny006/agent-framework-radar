@@ -1,12 +1,39 @@
 [
   {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 9,
+    "updated_at": "2026-06-05T10:58:58Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
     "description": "A CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs \u2014 every promotion passes through a human appro",
     "id": "shimo4228/contemplative-agent",
     "language": "Python",
     "name": "shimo4228/contemplative-agent",
     "stars": 4,
-    "updated_at": "2026-06-05T10:53:13Z",
+    "updated_at": "2026-06-05T10:55:57Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "The AI agent that flies on its own. Two commands to fly. \ud83e\udeb6",
+    "id": "QANOT/qanot",
+    "language": "Python",
+    "name": "QANOT/qanot",
+    "stars": 2,
+    "updated_at": "2026-06-05T10:55:22Z",
+    "url": "https://github.com/QANOT/qanot"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T10:54:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
@@ -36,21 +63,12 @@
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T10:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Mozaik is a TypeScript framework for building reactive agents.",
     "id": "jigjoy-ai/mozaik",
     "language": "TypeScript",
     "name": "jigjoy-ai/mozaik",
     "stars": 55,
-    "updated_at": "2026-06-05T10:45:20Z",
+    "updated_at": "2026-06-05T10:59:01Z",
     "url": "https://github.com/jigjoy-ai/mozaik"
   },
   {
@@ -76,7 +94,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18321,
+    "stars": 18322,
     "updated_at": "2026-06-05T10:33:30Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
     "stars": 14212,
-    "updated_at": "2026-06-05T10:32:18Z",
+    "updated_at": "2026-06-05T10:59:57Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-05T10:13:27Z",
     "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-05T10:13:07Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 1,
-    "updated_at": "2026-06-05T10:12:16Z",
-    "url": "https://github.com/cele9529/LingxiFish"
   }
 ]
