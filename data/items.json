@@ -1,12 +1,57 @@
 [
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 1,
-    "updated_at": "2026-06-05T03:43:13Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
+    "id": "BrettMGoughWork/vai-core",
+    "language": "Python",
+    "name": "BrettMGoughWork/vai-core",
+    "stars": 3,
+    "updated_at": "2026-06-05T03:59:40Z",
+    "url": "https://github.com/BrettMGoughWork/vai-core"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-05T03:59:26Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 132,
+    "updated_at": "2026-06-05T03:59:05Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 6,
+    "updated_at": "2026-06-05T03:56:28Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Beta-version* Autonomous AI Robotics Framework. Hormone-Driven Self-Prompting, Optional Proof-of-Power Blockchain, and S",
+    "id": "ai158z/repryntt-public",
+    "language": "Python",
+    "name": "ai158z/repryntt-public",
+    "stars": 0,
+    "updated_at": "2026-06-05T03:55:58Z",
+    "url": "https://github.com/ai158z/repryntt-public"
+  },
+  {
+    "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
+    "id": "lucasmailland/orchester",
+    "language": "TypeScript",
+    "name": "lucasmailland/orchester",
+    "stars": 0,
+    "updated_at": "2026-06-05T03:58:35Z",
+    "url": "https://github.com/lucasmailland/orchester"
   },
   {
     "description": "Multi-model adversarial review for catching shared blind spots",
@@ -14,8 +59,44 @@
     "language": "TypeScript",
     "name": "jkraybill/gordo-roundtable",
     "stars": 1,
-    "updated_at": "2026-06-05T03:42:29Z",
+    "updated_at": "2026-06-05T03:55:18Z",
     "url": "https://github.com/jkraybill/gordo-roundtable"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-05T03:52:51Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 16,
+    "updated_at": "2026-06-05T03:45:25Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T03:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 1,
+    "updated_at": "2026-06-05T03:43:13Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "A curated list of AI agent platforms, frameworks, protocols, tools, and resources",
@@ -34,24 +115,6 @@
     "stars": 9,
     "updated_at": "2026-06-05T03:40:22Z",
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 16,
-    "updated_at": "2026-06-05T03:42:12Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 6,
-    "updated_at": "2026-06-05T03:44:58Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
@@ -79,24 +142,6 @@
     "stars": 5592,
     "updated_at": "2026-06-05T03:32:39Z",
     "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T03:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
-    "id": "BrettMGoughWork/vai-core",
-    "language": "Python",
-    "name": "BrettMGoughWork/vai-core",
-    "stars": 3,
-    "updated_at": "2026-06-05T03:29:03Z",
-    "url": "https://github.com/BrettMGoughWork/vai-core"
   },
   {
     "description": "Define a team of AI agents \u2014 each with its own role, model, skills, and tools \u2014 and describe how they hand off to each o",
@@ -148,7 +193,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18125,
+    "stars": 18129,
     "updated_at": "2026-06-05T03:20:23Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T03:20:05Z",
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-05T03:18:04Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-05T03:04:58Z",
     "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-05T03:04:34Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 1,
-    "updated_at": "2026-06-05T03:03:56Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 1,
-    "updated_at": "2026-06-05T03:03:30Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-06-05T03:02:07Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
