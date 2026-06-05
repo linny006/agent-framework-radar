@@ -1,12 +1,48 @@
 [
   {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-05T20:15:22Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4027,
+    "updated_at": "2026-06-05T20:11:58Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
+    "id": "truvaagents/truva-g3",
+    "language": "Go",
+    "name": "truvaagents/truva-g3",
+    "stars": 5,
+    "updated_at": "2026-06-05T20:08:56Z",
+    "url": "https://github.com/truvaagents/truva-g3"
+  },
+  {
     "description": "Pi agent skills for specialized workflows and automation",
     "id": "shalomb/agent-skills",
     "language": "Python",
     "name": "shalomb/agent-skills",
     "stars": 2,
-    "updated_at": "2026-06-05T19:57:46Z",
+    "updated_at": "2026-06-05T20:08:11Z",
     "url": "https://github.com/shalomb/agent-skills"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T20:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -81,21 +117,12 @@
     "url": "https://github.com/achappey/aihappey-agents"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T19:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-05T19:58:34Z",
+    "updated_at": "2026-06-05T20:03:59Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -106,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-06-05T19:43:12Z",
     "url": "https://github.com/gokborayilmaz/competitor-analysis-agent"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4028,
-    "updated_at": "2026-06-05T19:41:37Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -148,7 +166,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11064,
+    "stars": 11067,
     "updated_at": "2026-06-05T19:30:16Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -277,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T18:29:06Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
-    "id": "truvaagents/truva-g3",
-    "language": "Go",
-    "name": "truvaagents/truva-g3",
-    "stars": 5,
-    "updated_at": "2026-06-05T18:11:10Z",
-    "url": "https://github.com/truvaagents/truva-g3"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T17:51:31Z",
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-06-05T17:51:03Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
   }
 ]
