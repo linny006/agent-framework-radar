@@ -1,21 +1,21 @@
 [
   {
-    "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
-    "id": "lucasmailland/orchester",
-    "language": "TypeScript",
-    "name": "lucasmailland/orchester",
-    "stars": 0,
-    "updated_at": "2026-06-05T00:28:11Z",
-    "url": "https://github.com/lucasmailland/orchester"
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
+    "language": "Python",
+    "name": "rllm-org/rllm",
+    "stars": 5593,
+    "updated_at": "2026-06-05T00:42:44Z",
+    "url": "https://github.com/rllm-org/rllm"
   },
   {
-    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
-    "id": "BrettMGoughWork/vai-core",
-    "language": "Python",
-    "name": "BrettMGoughWork/vai-core",
-    "stars": 3,
-    "updated_at": "2026-06-05T00:26:02Z",
-    "url": "https://github.com/BrettMGoughWork/vai-core"
+    "description": "Multi-model adversarial review for catching shared blind spots",
+    "id": "jkraybill/gordo-roundtable",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-roundtable",
+    "stars": 1,
+    "updated_at": "2026-06-05T00:40:43Z",
+    "url": "https://github.com/jkraybill/gordo-roundtable"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -23,8 +23,98 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-05T00:28:37Z",
+    "updated_at": "2026-06-05T00:43:57Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 569,
+    "updated_at": "2026-06-05T00:41:21Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
+    "id": "BrettMGoughWork/vai-core",
+    "language": "Python",
+    "name": "BrettMGoughWork/vai-core",
+    "stars": 3,
+    "updated_at": "2026-06-05T00:39:40Z",
+    "url": "https://github.com/BrettMGoughWork/vai-core"
+  },
+  {
+    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
+    "id": "wrm3/gald3r",
+    "language": "PowerShell",
+    "name": "wrm3/gald3r",
+    "stars": 1,
+    "updated_at": "2026-06-05T00:36:56Z",
+    "url": "https://github.com/wrm3/gald3r"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 6,
+    "updated_at": "2026-06-05T00:43:44Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 9,
+    "updated_at": "2026-06-05T00:34:16Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "Make AI agent actions authorized, auditable, and replayable not trust-the-prompt. A Rust execution kernel where signed c",
+    "id": "gryszzz/open-thymos",
+    "language": "Rust",
+    "name": "gryszzz/open-thymos",
+    "stars": 14,
+    "updated_at": "2026-06-05T00:33:58Z",
+    "url": "https://github.com/gryszzz/open-thymos"
+  },
+  {
+    "description": "ellmos-ai organization profile and complete public repo index for local-first LLM operating systems, agent infrastructur",
+    "id": "ellmos-ai/.github",
+    "language": "\u2014",
+    "name": "ellmos-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-06-05T00:32:48Z",
+    "url": "https://github.com/ellmos-ai/.github"
+  },
+  {
+    "description": "Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Skills, MCP, ",
+    "id": "codeking-ai/cligate",
+    "language": "JavaScript",
+    "name": "codeking-ai/cligate",
+    "stars": 89,
+    "updated_at": "2026-06-05T00:31:03Z",
+    "url": "https://github.com/codeking-ai/cligate"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T00:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
+    "id": "lucasmailland/orchester",
+    "language": "TypeScript",
+    "name": "lucasmailland/orchester",
+    "stars": 0,
+    "updated_at": "2026-06-05T00:30:54Z",
+    "url": "https://github.com/lucasmailland/orchester"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -54,15 +144,6 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T00:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs \u2014 every promotion passes through a human appro",
     "id": "shimo4228/contemplative-agent",
     "language": "Python",
@@ -70,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-06-05T00:14:06Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Multi-model adversarial review for catching shared blind spots",
-    "id": "jkraybill/gordo-roundtable",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-roundtable",
-    "stars": 1,
-    "updated_at": "2026-06-05T00:13:23Z",
-    "url": "https://github.com/jkraybill/gordo-roundtable"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -90,6 +162,15 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 3982,
+    "updated_at": "2026-06-05T00:09:44Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -97,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-05T00:09:43Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 3981,
-    "updated_at": "2026-06-05T00:09:44Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -176,17 +248,8 @@
     "language": "Rust",
     "name": "awakenworks/awaken",
     "stars": 79,
-    "updated_at": "2026-06-05T00:01:13Z",
+    "updated_at": "2026-06-05T00:34:17Z",
     "url": "https://github.com/awakenworks/awaken"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 6,
-    "updated_at": "2026-06-05T00:29:58Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
@@ -360,15 +423,6 @@
     "url": "https://github.com/ItsProGamer974/oh-my-codex"
   },
   {
-    "description": "ellmos-ai organization profile and complete public repo index for local-first LLM operating systems, agent infrastructur",
-    "id": "ellmos-ai/.github",
-    "language": "\u2014",
-    "name": "ellmos-ai/.github",
-    "stars": 0,
-    "updated_at": "2026-06-04T23:50:00Z",
-    "url": "https://github.com/ellmos-ai/.github"
-  },
-  {
     "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
     "id": "photoconductive-bhaga880/AutoHarness",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T23:49:19Z",
     "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-04T23:49:18Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-04T23:49:02Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-04T23:48:43Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-04T23:46:28Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-04T23:45:30Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-04T23:44:47Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
   }
 ]
