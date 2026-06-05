@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "ulsreall/web3-agent-kit",
     "stars": 6,
-    "updated_at": "2026-06-05T11:44:44Z",
+    "updated_at": "2026-06-05T11:59:41Z",
     "url": "https://github.com/ulsreall/web3-agent-kit"
+  },
+  {
+    "description": "",
+    "id": "envergadcr/ai-video-workflow",
+    "language": "Python",
+    "name": "envergadcr/ai-video-workflow",
+    "stars": 2,
+    "updated_at": "2026-06-05T11:59:12Z",
+    "url": "https://github.com/envergadcr/ai-video-workflow"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-05T11:59:06Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83e\udde0 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool",
+    "id": "Niranjan-008/Agentic-Decision-Cell",
+    "language": "Python",
+    "name": "Niranjan-008/Agentic-Decision-Cell",
+    "stars": 1,
+    "updated_at": "2026-06-05T11:58:33Z",
+    "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-05T11:56:34Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
+    "id": "truvaagents/truva-g3",
+    "language": "Go",
+    "name": "truvaagents/truva-g3",
+    "stars": 5,
+    "updated_at": "2026-06-05T11:54:17Z",
+    "url": "https://github.com/truvaagents/truva-g3"
+  },
+  {
+    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
+    "id": "BrettMGoughWork/vai-core",
+    "language": "Python",
+    "name": "BrettMGoughWork/vai-core",
+    "stars": 3,
+    "updated_at": "2026-06-05T11:52:57Z",
+    "url": "https://github.com/BrettMGoughWork/vai-core"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-05T11:51:39Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
+    "id": "Shiyao-Huang/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "Shiyao-Huang/awesome-agent-evolution",
+    "stars": 136,
+    "updated_at": "2026-06-05T11:51:37Z",
+    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-05T11:46:43Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T11:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The EU & UK compliance plane for Google ADK.",
@@ -45,21 +135,12 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-05T11:44:54Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Functional Python agent framework with MCP support, enterprise security, immutable state, and production-ready observabi",
     "id": "xynehq/jaf-py",
     "language": "Python",
     "name": "xynehq/jaf-py",
     "stars": 9,
-    "updated_at": "2026-06-05T11:38:31Z",
+    "updated_at": "2026-06-05T11:45:29Z",
     "url": "https://github.com/xynehq/jaf-py"
   },
   {
@@ -72,15 +153,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
-    "id": "Shiyao-Huang/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "Shiyao-Huang/awesome-agent-evolution",
-    "stars": 136,
-    "updated_at": "2026-06-05T11:30:31Z",
-    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
-  },
-  {
     "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
     "id": "mj-deving/omniweb-agents",
     "language": "TypeScript",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T11:31:23Z",
     "url": "https://github.com/mj-deving/omniweb-agents"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T11:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
@@ -113,7 +176,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 8,
-    "updated_at": "2026-06-05T11:29:22Z",
+    "updated_at": "2026-06-05T11:50:04Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -157,7 +220,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18339,
+    "stars": 18346,
     "updated_at": "2026-06-05T11:13:12Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 202,
-    "updated_at": "2026-06-05T11:39:28Z",
+    "updated_at": "2026-06-05T11:54:13Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -248,7 +311,7 @@
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
     "stars": 14212,
-    "updated_at": "2026-06-05T10:59:57Z",
+    "updated_at": "2026-06-05T11:53:26Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
   {
@@ -313,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T10:28:44Z",
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
-    "id": "BrettMGoughWork/vai-core",
-    "language": "Python",
-    "name": "BrettMGoughWork/vai-core",
-    "stars": 3,
-    "updated_at": "2026-06-05T10:28:09Z",
-    "url": "https://github.com/BrettMGoughWork/vai-core"
   },
   {
     "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T10:22:44Z",
     "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-05T10:22:26Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
-    "id": "Trickedout-ribier5513/AgentClaw",
-    "language": "TypeScript",
-    "name": "Trickedout-ribier5513/AgentClaw",
-    "stars": 0,
-    "updated_at": "2026-06-05T10:22:19Z",
-    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-06-05T10:21:44Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Automate software development with an autonomous multi-agent loop using Qwen Code to self-direct, commit, and improve yo",
-    "id": "Danielle6426/Qwen-Loop",
-    "language": "TypeScript",
-    "name": "Danielle6426/Qwen-Loop",
-    "stars": 0,
-    "updated_at": "2026-06-05T10:21:18Z",
-    "url": "https://github.com/Danielle6426/Qwen-Loop"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-06-05T10:21:17Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 2,
-    "updated_at": "2026-06-05T10:20:47Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
   }
 ]
