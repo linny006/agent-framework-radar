@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "adam2go/tilo-framework",
     "stars": 4,
-    "updated_at": "2026-06-05T00:59:28Z",
+    "updated_at": "2026-06-05T01:13:28Z",
     "url": "https://github.com/adam2go/tilo-framework"
+  },
+  {
+    "description": "Product Build Gate (hplan) + 5 agent-PM lifecycle plugins \u2014 6 plugins, 43 skills, 18 commands for PMs who decide what, w",
+    "id": "kimsanguine/hplan",
+    "language": "HTML",
+    "name": "kimsanguine/hplan",
+    "stars": 0,
+    "updated_at": "2026-06-05T01:12:12Z",
+    "url": "https://github.com/kimsanguine/hplan"
   },
   {
     "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
@@ -14,8 +23,35 @@
     "language": "Python",
     "name": "BrettMGoughWork/vai-core",
     "stars": 3,
-    "updated_at": "2026-06-05T00:54:15Z",
+    "updated_at": "2026-06-05T01:11:27Z",
     "url": "https://github.com/BrettMGoughWork/vai-core"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-05T01:02:59Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 132,
+    "updated_at": "2026-06-05T01:02:54Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T01:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-05T00:58:53Z",
+    "updated_at": "2026-06-05T01:10:59Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 17525,
-    "updated_at": "2026-06-05T00:59:55Z",
+    "updated_at": "2026-06-05T01:02:58Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 9,
     "updated_at": "2026-06-05T00:45:29Z",
     "url": "https://github.com/plaited/plaited"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T00:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Democratizing Reinforcement Learning for LLMs",
@@ -279,15 +306,6 @@
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 132,
-    "updated_at": "2026-06-05T00:05:30Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
     "id": "herreravalenz6620/context-compression",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T23:53:37Z",
     "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Automate software development with an autonomous multi-agent loop using Qwen Code to self-direct, commit, and improve yo",
-    "id": "Danielle6426/Qwen-Loop",
-    "language": "TypeScript",
-    "name": "Danielle6426/Qwen-Loop",
-    "stars": 0,
-    "updated_at": "2026-06-04T23:53:35Z",
-    "url": "https://github.com/Danielle6426/Qwen-Loop"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 2,
-    "updated_at": "2026-06-04T23:53:04Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
   }
 ]
