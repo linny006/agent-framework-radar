@@ -1,5 +1,77 @@
 [
   {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-05T08:44:53Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "The system that knows itself through each other. Conservation spectral framework, agent-native language, PLATO rooms, FL",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 4,
+    "updated_at": "2026-06-05T08:44:29Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-05T08:41:25Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-05T08:37:33Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 131,
+    "updated_at": "2026-06-05T08:37:25Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Composable Python SDK for building single-agent and multi-agent AI systems.",
+    "id": "nanitics/nanitics",
+    "language": "Python",
+    "name": "nanitics/nanitics",
+    "stars": 5,
+    "updated_at": "2026-06-05T08:33:44Z",
+    "url": "https://github.com/nanitics/nanitics"
+  },
+  {
+    "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
+    "id": "Sheep1433/Noesis",
+    "language": "\u2014",
+    "name": "Sheep1433/Noesis",
+    "stars": 1,
+    "updated_at": "2026-06-05T08:32:19Z",
+    "url": "https://github.com/Sheep1433/Noesis"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T08:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
     "id": "Sanga1032/fullstack-mcp-playground",
     "language": "TypeScript",
@@ -58,7 +130,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18249,
+    "stars": 18261,
     "updated_at": "2026-06-05T08:26:18Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -72,15 +144,6 @@
     "url": "https://github.com/rllm-org/rllm"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-05T08:29:32Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -88,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-06-05T08:17:17Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T08:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
@@ -108,21 +162,12 @@
     "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 131,
-    "updated_at": "2026-06-05T08:09:18Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
     "id": "ChronoAIProject/Ornn",
     "language": "TypeScript",
     "name": "ChronoAIProject/Ornn",
     "stars": 18,
-    "updated_at": "2026-06-05T08:18:56Z",
+    "updated_at": "2026-06-05T08:37:42Z",
     "url": "https://github.com/ChronoAIProject/Ornn"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T06:17:50Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:17:33Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Product Build Gate (hplan) + 5 agent-PM lifecycle plugins \u2014 6 plugins, 43 skills, 18 commands for PMs who decide what, w",
-    "id": "kimsanguine/hplan",
-    "language": "HTML",
-    "name": "kimsanguine/hplan",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:17:09Z",
-    "url": "https://github.com/kimsanguine/hplan"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-06-05T06:15:03Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:15:00Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins",
-    "id": "Doubleedged-capitaloftennessee462/agentswift",
-    "language": "\u2014",
-    "name": "Doubleedged-capitaloftennessee462/agentswift",
-    "stars": 1,
-    "updated_at": "2026-06-05T06:14:48Z",
-    "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
   }
 ]
