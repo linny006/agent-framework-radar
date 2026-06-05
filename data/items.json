@@ -1,12 +1,30 @@
 [
   {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "Shell",
+    "name": "aaronjmars/aeon",
+    "stars": 484,
+    "updated_at": "2026-06-05T18:18:09Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
     "description": "Make AI agent actions authorized, auditable, and replayable not trust-the-prompt. A Rust execution kernel where signed c",
     "id": "gryszzz/open-thymos",
     "language": "Rust",
     "name": "gryszzz/open-thymos",
     "stars": 14,
-    "updated_at": "2026-06-05T18:15:21Z",
+    "updated_at": "2026-06-05T18:15:54Z",
     "url": "https://github.com/gryszzz/open-thymos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -25,15 +43,6 @@
     "stars": 5,
     "updated_at": "2026-06-05T18:11:10Z",
     "url": "https://github.com/truvaagents/truva-g3"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "Shell",
-    "name": "aaronjmars/aeon",
-    "stars": 484,
-    "updated_at": "2026-06-05T18:10:55Z",
-    "url": "https://github.com/aaronjmars/aeon"
   },
   {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T18:01:36Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T18:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -149,7 +149,7 @@
     "language": "TypeScript",
     "name": "the-long-ride/engram",
     "stars": 0,
-    "updated_at": "2026-06-05T17:56:23Z",
+    "updated_at": "2026-06-05T18:18:48Z",
     "url": "https://github.com/the-long-ride/engram"
   },
   {
