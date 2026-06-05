@@ -1,21 +1,111 @@
 [
   {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 9,
+    "updated_at": "2026-06-05T11:30:10Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 8,
+    "updated_at": "2026-06-05T11:29:22Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-05T11:29:06Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 1,
+    "updated_at": "2026-06-05T11:26:20Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-05T11:25:26Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-05T11:22:13Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
+    "id": "AndersonBY/vv-agent",
+    "language": "Python",
+    "name": "AndersonBY/vv-agent",
+    "stars": 1,
+    "updated_at": "2026-06-05T11:21:07Z",
+    "url": "https://github.com/AndersonBY/vv-agent"
+  },
+  {
     "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
     "id": "mj-deving/omniweb-agents",
     "language": "TypeScript",
     "name": "mj-deving/omniweb-agents",
     "stars": 0,
-    "updated_at": "2026-06-05T11:14:09Z",
+    "updated_at": "2026-06-05T11:27:07Z",
     "url": "https://github.com/mj-deving/omniweb-agents"
+  },
+  {
+    "description": "The AI agent that flies on its own. Two commands to fly. \ud83e\udeb6",
+    "id": "QANOT/qanot",
+    "language": "Python",
+    "name": "QANOT/qanot",
+    "stars": 2,
+    "updated_at": "2026-06-05T11:17:01Z",
+    "url": "https://github.com/QANOT/qanot"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T11:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18326,
+    "stars": 18335,
     "updated_at": "2026-06-05T11:13:12Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 202,
+    "updated_at": "2026-06-05T11:12:07Z",
+    "url": "https://github.com/jaylfc/taOS"
   },
   {
     "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
@@ -36,24 +126,6 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T11:00:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 9,
-    "updated_at": "2026-06-05T10:58:58Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
-  },
-  {
     "description": "A CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs \u2014 every promotion passes through a human appro",
     "id": "shimo4228/contemplative-agent",
     "language": "Python",
@@ -61,24 +133,6 @@
     "stars": 4,
     "updated_at": "2026-06-05T10:55:57Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "The AI agent that flies on its own. Two commands to fly. \ud83e\udeb6",
-    "id": "QANOT/qanot",
-    "language": "Python",
-    "name": "QANOT/qanot",
-    "stars": 2,
-    "updated_at": "2026-06-05T10:55:22Z",
-    "url": "https://github.com/QANOT/qanot"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-05T10:50:05Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -158,7 +212,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 14,
-    "updated_at": "2026-06-05T10:31:17Z",
+    "updated_at": "2026-06-05T11:18:59Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-05T10:17:48Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-05T10:17:36Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-06-05T10:17:32Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-05T10:17:12Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-05T10:16:42Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11056,
-    "updated_at": "2026-06-05T10:16:41Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
-    "id": "Shiyao-Huang/awesome-agent-evolution",
-    "language": "TeX",
-    "name": "Shiyao-Huang/awesome-agent-evolution",
-    "stars": 136,
-    "updated_at": "2026-06-05T10:15:59Z",
-    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
   }
 ]
