@@ -1,12 +1,48 @@
 [
   {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-06T00:40:24Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 6,
+    "updated_at": "2026-06-06T00:38:46Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Composable TypeScript AI agent framework \u2014 Effect-TS type safety, 5 reasoning strategies, persistent gateway, real-time ",
+    "id": "tylerjrbuell/reactive-agents-ts",
+    "language": "TypeScript",
+    "name": "tylerjrbuell/reactive-agents-ts",
+    "stars": 13,
+    "updated_at": "2026-06-06T00:36:35Z",
+    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
+  },
+  {
     "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
     "id": "BrettMGoughWork/vai-core",
     "language": "Python",
     "name": "BrettMGoughWork/vai-core",
     "stars": 3,
-    "updated_at": "2026-06-06T00:29:12Z",
+    "updated_at": "2026-06-06T00:35:45Z",
     "url": "https://github.com/BrettMGoughWork/vai-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T00:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
@@ -45,33 +81,6 @@
     "url": "https://github.com/ungrav/antigravity-ultra"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T00:18:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Composable TypeScript AI agent framework \u2014 Effect-TS type safety, 5 reasoning strategies, persistent gateway, real-time ",
-    "id": "tylerjrbuell/reactive-agents-ts",
-    "language": "TypeScript",
-    "name": "tylerjrbuell/reactive-agents-ts",
-    "stars": 13,
-    "updated_at": "2026-06-06T00:16:07Z",
-    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 6,
-    "updated_at": "2026-06-06T00:29:34Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -86,7 +95,7 @@
     "language": "Rust",
     "name": "gryszzz/open-thymos",
     "stars": 14,
-    "updated_at": "2026-06-06T00:26:00Z",
+    "updated_at": "2026-06-06T00:36:06Z",
     "url": "https://github.com/gryszzz/open-thymos"
   },
   {
@@ -157,7 +166,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11069,
+    "stars": 11070,
     "updated_at": "2026-06-05T23:29:43Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 206,
-    "updated_at": "2026-06-06T00:29:51Z",
+    "updated_at": "2026-06-06T00:41:21Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -241,15 +250,6 @@
     "stars": 4,
     "updated_at": "2026-06-05T22:47:33Z",
     "url": "https://github.com/adam2go/tilo-framework"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-06T00:10:07Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
