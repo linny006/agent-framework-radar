@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 6,
-    "updated_at": "2026-06-06T12:48:50Z",
+    "updated_at": "2026-06-06T12:59:23Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-06T12:58:10Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
+    "id": "cordum-io/cordum",
+    "language": "Go",
+    "name": "cordum-io/cordum",
+    "stars": 485,
+    "updated_at": "2026-06-06T12:59:10Z",
+    "url": "https://github.com/cordum-io/cordum"
   },
   {
     "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "openlegion-ai/openlegion",
     "stars": 100,
-    "updated_at": "2026-06-06T12:48:43Z",
+    "updated_at": "2026-06-06T12:58:13Z",
     "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
+    "id": "LeopardDefend/gbase-485",
+    "language": "Python",
+    "name": "LeopardDefend/gbase-485",
+    "stars": 0,
+    "updated_at": "2026-06-06T12:50:36Z",
+    "url": "https://github.com/LeopardDefend/gbase-485"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T12:49:38Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An open methodology for building independent AI agents from a single, verified foundation. V0 built; V1/V2 planned.",
@@ -27,20 +63,11 @@
     "url": "https://github.com/LoriT0T/foundry"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18699,
+    "stars": 18700,
     "updated_at": "2026-06-06T12:43:03Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -113,7 +140,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-06T12:30:22Z",
+    "updated_at": "2026-06-06T12:51:57Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T12:15:05Z",
     "url": "https://github.com/senseibreathhovel/awesome-agent-evolution-293"
-  },
-  {
-    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
-    "id": "cordum-io/cordum",
-    "language": "Go",
-    "name": "cordum-io/cordum",
-    "stars": 485,
-    "updated_at": "2026-06-06T12:33:23Z",
-    "url": "https://github.com/cordum-io/cordum"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T11:56:01Z",
     "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-06T11:55:29Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-06T11:53:49Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
   }
 ]
