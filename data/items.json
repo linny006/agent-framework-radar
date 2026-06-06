@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
     "stars": 0,
-    "updated_at": "2026-06-06T17:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "updated_at": "2026-06-06T17:13:28Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": ".NET CLI tool and framework for orchestrating multi-agent AI  pipelines with strong mechanical enforcement.",
+    "id": "fuseraft/fuseraft-cli",
+    "language": "C#",
+    "name": "fuseraft/fuseraft-cli",
+    "stars": 2,
+    "updated_at": "2026-06-06T17:10:39Z",
+    "url": "https://github.com/fuseraft/fuseraft-cli"
   },
   {
     "description": "\ud83d\ude80 AI \u516c\u53f8\u88c5\u8fdb\u547d\u4ee4\u884c \u2014 Column Memory \u6c38\u4e0d\u4e22\u5931\u4e0a\u4e0b\u6587, Experience Engine \u8d8a\u505a\u8d8a\u4f1a\u505a, \u7ea2\u84dd\u8fa9\u8bba/\u8463\u4e8b\u4f1a/\u591a\u5de5\u4eba, 20\u79cd\u6a21\u578b, 281\u6d4b\u8bd5, \u5f00\u6e90MIT",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "Dong04-123/Dong-AI-Company",
     "stars": 1,
-    "updated_at": "2026-06-06T16:57:30Z",
+    "updated_at": "2026-06-06T17:09:45Z",
     "url": "https://github.com/Dong04-123/Dong-AI-Company"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-06T17:05:24Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T17:03:48Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -49,7 +76,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18792,
+    "stars": 18795,
     "updated_at": "2026-06-06T16:55:13Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -59,7 +86,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-06T16:57:56Z",
+    "updated_at": "2026-06-06T17:13:22Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -203,7 +230,7 @@
     "language": "TypeScript",
     "name": "balureddy003/kairos-ai",
     "stars": 0,
-    "updated_at": "2026-06-06T16:48:33Z",
+    "updated_at": "2026-06-06T17:13:11Z",
     "url": "https://github.com/balureddy003/kairos-ai"
   },
   {
@@ -277,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T16:10:17Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": ".NET CLI tool and framework for orchestrating multi-agent AI  pipelines with strong mechanical enforcement.",
-    "id": "fuseraft/fuseraft-cli",
-    "language": "C#",
-    "name": "fuseraft/fuseraft-cli",
-    "stars": 2,
-    "updated_at": "2026-06-06T16:10:25Z",
-    "url": "https://github.com/fuseraft/fuseraft-cli"
   },
   {
     "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-06T16:04:26Z",
     "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 9,
-    "updated_at": "2026-06-06T16:02:52Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-06T16:02:37Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
   }
 ]
