@@ -1,12 +1,12 @@
 [
   {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
+    "description": "\u60a8\u7684\u79c1\u4ebaAI\u516c\u53f8 \u2014 \u7ea2\u84dd\u8fa9\u8bba\u00b7\u52a8\u6001\u5de5\u4eba\u6c60\u00b7\u56fe\u8bb0\u5fc6\u00b7MCP\u00b720+Provider\u00b7API/\u672c\u5730\u53cc\u6a21\u5f0f",
+    "id": "Dong04-123/Dong-AI-Company",
     "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 100,
-    "updated_at": "2026-06-06T10:00:04Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
+    "name": "Dong04-123/Dong-AI-Company",
+    "stars": 1,
+    "updated_at": "2026-06-06T10:13:37Z",
+    "url": "https://github.com/Dong04-123/Dong-AI-Company"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -14,17 +14,53 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-06T09:59:31Z",
+    "updated_at": "2026-06-06T10:13:21Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "\u60a8\u7684\u79c1\u4ebaAI\u516c\u53f8 \u2014 \u7ea2\u84dd\u8fa9\u8bba\u00b7\u52a8\u6001\u5de5\u4eba\u6c60\u00b7\u56fe\u8bb0\u5fc6\u00b7MCP\u00b720+Provider\u00b7API/\u672c\u5730\u53cc\u6a21\u5f0f",
-    "id": "Dong04-123/Dong-AI-Company",
-    "language": "Python",
-    "name": "Dong04-123/Dong-AI-Company",
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
     "stars": 1,
-    "updated_at": "2026-06-06T09:58:55Z",
-    "url": "https://github.com/Dong04-123/Dong-AI-Company"
+    "updated_at": "2026-06-06T10:13:09Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-06T10:12:15Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-06T10:09:00Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T10:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 100,
+    "updated_at": "2026-06-06T10:10:58Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
     "description": "Official BisQue Ultra Platform",
@@ -63,15 +99,6 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T09:47:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
     "id": "hoangtuanhehehehhe/AgentVault",
     "language": "Python",
@@ -103,7 +130,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18656,
+    "stars": 18661,
     "updated_at": "2026-06-06T09:22:50Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-06T09:04:13Z",
     "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-06T09:02:19Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-06T09:01:29Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-06T09:00:51Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
   }
 ]
