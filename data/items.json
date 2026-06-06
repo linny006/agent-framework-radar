@@ -1,5 +1,86 @@
 [
   {
+    "description": "Reference architecture for production AI agents",
+    "id": "mikestangdevs/based-agent",
+    "language": "TypeScript",
+    "name": "mikestangdevs/based-agent",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:12:58Z",
+    "url": "https://github.com/mikestangdevs/based-agent"
+  },
+  {
+    "description": "LangChain integration for the Tessera LLM cost-optimization proxy. One line of config routes ChatOpenAI / ChatAnthropic ",
+    "id": "tessera-llm/tessera-langchain",
+    "language": "Python",
+    "name": "tessera-llm/tessera-langchain",
+    "stars": 1,
+    "updated_at": "2026-06-06T13:12:50Z",
+    "url": "https://github.com/tessera-llm/tessera-langchain"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 100,
+    "updated_at": "2026-06-06T13:14:22Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": " SQLite-backed task coordination for AI agents. No server. No daemon. No queues. Just a shared database file agents use ",
+    "id": "mrSamDev/agentic-kanban",
+    "language": "Go",
+    "name": "mrSamDev/agentic-kanban",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:10:24Z",
+    "url": "https://github.com/mrSamDev/agentic-kanban"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 9,
+    "updated_at": "2026-06-06T13:09:21Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:03:44Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
+    "id": "DomeSlayerPhase/gbase-109",
+    "language": "Python",
+    "name": "DomeSlayerPhase/gbase-109",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:03:37Z",
+    "url": "https://github.com/DomeSlayerPhase/gbase-109"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-06T13:03:36Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -23,35 +104,8 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 485,
-    "updated_at": "2026-06-06T12:59:10Z",
+    "updated_at": "2026-06-06T13:08:45Z",
     "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
-    "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 100,
-    "updated_at": "2026-06-06T12:58:13Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
-    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
-    "id": "LeopardDefend/gbase-485",
-    "language": "Python",
-    "name": "LeopardDefend/gbase-485",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:50:36Z",
-    "url": "https://github.com/LeopardDefend/gbase-485"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:49:38Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An open methodology for building independent AI agents from a single, verified foundation. V0 built; V1/V2 planned.",
@@ -67,7 +121,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18700,
+    "stars": 18707,
     "updated_at": "2026-06-06T12:43:03Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -95,7 +149,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 16,
-    "updated_at": "2026-06-06T12:39:01Z",
+    "updated_at": "2026-06-06T13:10:25Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 65,
     "updated_at": "2026-06-06T12:51:57Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 9,
-    "updated_at": "2026-06-06T12:25:58Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
   },
   {
     "description": "Autonomous network security and operations framework. Provides eBPF/XDP enforcement and multi-layer fault diagnosis \u2014 ea",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T12:06:36Z",
     "url": "https://github.com/prismal-ai/prismal"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-06-06T11:56:58Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-06T11:56:41Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-06-06T11:56:24Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-06T11:56:20Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-06T11:56:01Z",
-    "url": "https://github.com/Thuso030703/open-claude"
   }
 ]
