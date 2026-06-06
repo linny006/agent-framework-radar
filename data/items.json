@@ -1,12 +1,84 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 273,
+    "updated_at": "2026-06-06T13:58:30Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 18727,
+    "updated_at": "2026-06-06T13:58:22Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 100,
+    "updated_at": "2026-06-06T13:57:58Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "Reference architecture for production AI agents",
+    "id": "mikestangdevs/based-agent",
+    "language": "TypeScript",
+    "name": "mikestangdevs/based-agent",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:56:10Z",
+    "url": "https://github.com/mikestangdevs/based-agent"
+  },
+  {
+    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
+    "id": "ToucanEnumerate/awesome-agent-evolution-883",
+    "language": "Python",
+    "name": "ToucanEnumerate/awesome-agent-evolution-883",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:53:59Z",
+    "url": "https://github.com/ToucanEnumerate/awesome-agent-evolution-883"
+  },
+  {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
     "id": "lightfastai/lightfast",
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 16,
-    "updated_at": "2026-06-06T13:45:08Z",
+    "updated_at": "2026-06-06T13:52:40Z",
     "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 9,
+    "updated_at": "2026-06-06T13:52:34Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+    "id": "NirDiamant/agents-towards-production",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/agents-towards-production",
+    "stars": 20624,
+    "updated_at": "2026-06-06T13:51:45Z",
+    "url": "https://github.com/NirDiamant/agents-towards-production"
+  },
+  {
+    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
+    "id": "UrbanDuelist/awesome-agent-evolution-947",
+    "language": "Python",
+    "name": "UrbanDuelist/awesome-agent-evolution-947",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:48:25Z",
+    "url": "https://github.com/UrbanDuelist/awesome-agent-evolution-947"
   },
   {
     "description": "Claude Patcher -- MCP tools that extend Claude Code beyond built-in capabilities. Fix encoding, convert formats, detect ",
@@ -14,8 +86,26 @@
     "language": "TypeScript",
     "name": "ellmos-ai/ellmos-clatcher-mcp",
     "stars": 1,
-    "updated_at": "2026-06-06T13:41:50Z",
+    "updated_at": "2026-06-06T13:47:23Z",
     "url": "https://github.com/ellmos-ai/ellmos-clatcher-mcp"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:46:14Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
@@ -50,7 +140,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-06T13:33:53Z",
+    "updated_at": "2026-06-06T13:54:47Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -72,33 +162,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 273,
-    "updated_at": "2026-06-06T13:30:26Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T13:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18721,
-    "updated_at": "2026-06-06T13:27:56Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
     "id": "achappey/aihappey-chat",
     "language": "TypeScript",
@@ -115,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T13:19:45Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Reference architecture for production AI agents",
-    "id": "mikestangdevs/based-agent",
-    "language": "TypeScript",
-    "name": "mikestangdevs/based-agent",
-    "stars": 0,
-    "updated_at": "2026-06-06T13:19:16Z",
-    "url": "https://github.com/mikestangdevs/based-agent"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -144,31 +198,13 @@
     "url": "https://github.com/tessera-llm/tessera-langchain"
   },
   {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
-    "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 100,
-    "updated_at": "2026-06-06T13:33:34Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
     "description": " SQLite-backed task coordination for AI agents. No server. No daemon. No queues. Just a shared database file agents use ",
     "id": "mrSamDev/agentic-kanban",
     "language": "Go",
     "name": "mrSamDev/agentic-kanban",
     "stars": 0,
-    "updated_at": "2026-06-06T13:15:26Z",
+    "updated_at": "2026-06-06T13:50:13Z",
     "url": "https://github.com/mrSamDev/agentic-kanban"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 9,
-    "updated_at": "2026-06-06T13:09:21Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T12:01:17Z",
     "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
-    "id": "Trickedout-ribier5513/AgentClaw",
-    "language": "TypeScript",
-    "name": "Trickedout-ribier5513/AgentClaw",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:01:11Z",
-    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:00:38Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:00:13Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Automate software development with an autonomous multi-agent loop using Qwen Code to self-direct, commit, and improve yo",
-    "id": "Danielle6426/Qwen-Loop",
-    "language": "TypeScript",
-    "name": "Danielle6426/Qwen-Loop",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:00:04Z",
-    "url": "https://github.com/Danielle6426/Qwen-Loop"
   }
 ]
