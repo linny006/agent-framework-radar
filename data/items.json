@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "Dong04-123/Dong-AI-Company",
     "stars": 1,
-    "updated_at": "2026-06-06T09:25:36Z",
+    "updated_at": "2026-06-06T09:44:30Z",
     "url": "https://github.com/Dong04-123/Dong-AI-Company"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-06T09:44:00Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 9,
+    "updated_at": "2026-06-06T09:37:26Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
+    "description": "Multi-agent specification-driven development (SDD) framework for Claude Code",
+    "id": "mgallet92i/waterfall",
+    "language": "Shell",
+    "name": "mgallet92i/waterfall",
+    "stars": 2,
+    "updated_at": "2026-06-06T09:36:01Z",
+    "url": "https://github.com/mgallet92i/waterfall"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 16,
+    "updated_at": "2026-06-06T09:39:37Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T09:30:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -22,7 +67,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18651,
+    "stars": 18654,
     "updated_at": "2026-06-06T09:22:50Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T09:21:38Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 16,
-    "updated_at": "2026-06-06T09:27:38Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
@@ -108,15 +144,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T09:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
     "id": "Liny9941/projectsmd",
     "language": "Rust",
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T09:13:35Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-06T09:29:53Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T08:57:46Z",
     "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-06T08:57:27Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-06-06T08:57:01Z",
-    "url": "https://github.com/Messa8301/quickbench"
   }
 ]
