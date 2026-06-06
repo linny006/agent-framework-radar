@@ -1,5 +1,23 @@
 [
   {
+    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
+    "id": "Sammyblear596/open-agent-sdk-go",
+    "language": "Go",
+    "name": "Sammyblear596/open-agent-sdk-go",
+    "stars": 1,
+    "updated_at": "2026-06-06T23:15:41Z",
+    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:15:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
     "id": "ucsandman/DashClaw",
     "language": "TypeScript",
@@ -279,15 +297,6 @@
     "url": "https://github.com/dominiks1260/agent-kit"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Convert raw language models into principled, self-governing Elyan-class AI agents with identity coherence and ethical op",
     "id": "Mosaicgoldjerusalemartichoke682/shaprai",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T22:49:48Z",
     "url": "https://github.com/rxnzyor/patchpilot"
-  },
-  {
-    "description": "Store, consolidate, and recall coding agent memories with provenance tracking using SQLite and FAISS for fast, structure",
-    "id": "InitialDBklyn/consolidation-memory",
-    "language": "Python",
-    "name": "InitialDBklyn/consolidation-memory",
-    "stars": 2,
-    "updated_at": "2026-06-06T22:49:22Z",
-    "url": "https://github.com/InitialDBklyn/consolidation-memory"
   }
 ]
