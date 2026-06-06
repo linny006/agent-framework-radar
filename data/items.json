@@ -1,12 +1,147 @@
 [
   {
-    "description": "Infinite Context AI Company \u2014 Graph Memory eliminates context windows. Corporate governance (red/blue debate, board revi",
+    "description": "An open methodology for building independent AI agents from a single, verified foundation. V0 built; V1/V2 planned.",
+    "id": "LoriT0T/foundry",
+    "language": "HTML",
+    "name": "LoriT0T/foundry",
+    "stars": 0,
+    "updated_at": "2026-06-06T14:45:05Z",
+    "url": "https://github.com/LoriT0T/foundry"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-06T14:45:02Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 273,
+    "updated_at": "2026-06-06T14:43:55Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-06T14:43:48Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 137,
+    "updated_at": "2026-06-06T14:41:12Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
+    "id": "cordum-io/cordum",
+    "language": "Go",
+    "name": "cordum-io/cordum",
+    "stars": 485,
+    "updated_at": "2026-06-06T14:41:26Z",
+    "url": "https://github.com/cordum-io/cordum"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-06T14:37:46Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Infinite Context AI Company \u2014 Graph Memory + Experience Engine. Corporate governance (red/blue debate, board review), dy",
     "id": "Dong04-123/Dong-AI-Company",
     "language": "Python",
     "name": "Dong04-123/Dong-AI-Company",
     "stars": 1,
-    "updated_at": "2026-06-06T14:28:18Z",
+    "updated_at": "2026-06-06T14:37:33Z",
     "url": "https://github.com/Dong04-123/Dong-AI-Company"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-06T14:36:42Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
+    "id": "NodeRetrieve/gbase-631",
+    "language": "Python",
+    "name": "NodeRetrieve/gbase-631",
+    "stars": 0,
+    "updated_at": "2026-06-06T14:35:55Z",
+    "url": "https://github.com/NodeRetrieve/gbase-631"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 18740,
+    "updated_at": "2026-06-06T14:35:28Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Agent SDK, CLI, Claw, Platform in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 4,
+    "updated_at": "2026-06-06T14:34:54Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
+    "id": "lukeskytorep-bot/echo-claw",
+    "language": "\u2014",
+    "name": "lukeskytorep-bot/echo-claw",
+    "stars": 1,
+    "updated_at": "2026-06-06T14:33:06Z",
+    "url": "https://github.com/lukeskytorep-bot/echo-claw"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 9,
+    "updated_at": "2026-06-06T14:32:01Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Local-first AI dev agent for your terminal \u2014 provider-agnostic, cost-aware, self-improving. Apache-2.0.",
+    "id": "david-2814/metis",
+    "language": "Python",
+    "name": "david-2814/metis",
+    "stars": 1,
+    "updated_at": "2026-06-06T14:31:11Z",
+    "url": "https://github.com/david-2814/metis"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T14:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
@@ -16,24 +151,6 @@
     "stars": 16,
     "updated_at": "2026-06-06T14:26:53Z",
     "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T14:25:58Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
-    "id": "cordum-io/cordum",
-    "language": "Go",
-    "name": "cordum-io/cordum",
-    "stars": 485,
-    "updated_at": "2026-06-06T14:27:40Z",
-    "url": "https://github.com/cordum-io/cordum"
   },
   {
     "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
@@ -54,7 +171,7 @@
     "url": "https://github.com/NirDiamant/agents-towards-production"
   },
   {
-    "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
+    "description": "Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cuan",
     "id": "fxMT-nx/El-Primor",
     "language": "JavaScript",
     "name": "fxMT-nx/El-Primor",
@@ -70,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-06-06T14:23:30Z",
     "url": "https://github.com/ellmos-ai/clutch"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-06T14:23:48Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Reference architecture for production AI agents",
@@ -97,15 +205,6 @@
     "stars": 100,
     "updated_at": "2026-06-06T14:18:26Z",
     "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 9,
-    "updated_at": "2026-06-06T14:17:46Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
     "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
@@ -151,33 +250,6 @@
     "stars": 1,
     "updated_at": "2026-06-06T14:10:58Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "An open methodology for building independent AI agents from a single, verified foundation. V0 built; V1/V2 planned.",
-    "id": "LoriT0T/foundry",
-    "language": "HTML",
-    "name": "LoriT0T/foundry",
-    "stars": 0,
-    "updated_at": "2026-06-06T14:07:27Z",
-    "url": "https://github.com/LoriT0T/foundry"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 273,
-    "updated_at": "2026-06-06T13:58:30Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18734,
-    "updated_at": "2026-06-06T13:58:22Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
@@ -257,7 +329,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 6,
-    "updated_at": "2026-06-06T14:10:11Z",
+    "updated_at": "2026-06-06T14:42:29Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-06T12:36:00Z",
     "url": "https://github.com/truvaagents/truva-g3"
-  },
-  {
-    "description": "Deterministic AI decisions for production. Rules first, LLMs score second, evidence always required. TypeScript alternat",
-    "id": "balureddy003/kairos-ai",
-    "language": "TypeScript",
-    "name": "balureddy003/kairos-ai",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:33:41Z",
-    "url": "https://github.com/balureddy003/kairos-ai"
-  },
-  {
-    "description": "Autonomous network security and operations framework. Provides eBPF/XDP enforcement and multi-layer fault diagnosis \u2014 ea",
-    "id": "hidemi-k/maf-ebpf-sase",
-    "language": "Jupyter Notebook",
-    "name": "hidemi-k/maf-ebpf-sase",
-    "stars": 1,
-    "updated_at": "2026-06-06T12:31:03Z",
-    "url": "https://github.com/hidemi-k/maf-ebpf-sase"
-  },
-  {
-    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
-    "id": "senseibreathhovel/awesome-agent-evolution-293",
-    "language": "Python",
-    "name": "senseibreathhovel/awesome-agent-evolution-293",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:15:05Z",
-    "url": "https://github.com/senseibreathhovel/awesome-agent-evolution-293"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:11:24Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:11:05Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 1,
-    "updated_at": "2026-06-06T12:09:02Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:08:14Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:07:52Z",
-    "url": "https://github.com/Smita6756/Hbrain"
   }
 ]
