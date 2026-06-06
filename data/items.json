@@ -1,5 +1,23 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-06T20:58:07Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T20:57:10Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Cross-project memory and organizational governance for any AI agent. pip install dong-ai.",
     "id": "Dong04-123/Dong-AI-Company",
     "language": "Python",
@@ -25,15 +43,6 @@
     "stars": 3811,
     "updated_at": "2026-06-06T20:45:53Z",
     "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T20:45:34Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T20:19:01Z",
     "url": "https://github.com/Nurrachm6921/agent-kernel"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-06-06T20:18:26Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
   }
 ]
