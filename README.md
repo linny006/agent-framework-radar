@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-06 18:19 UTC
+> ⏰ Last updated: 2026-06-06 18:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-06-06 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
-| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-06 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 3 | [Dong04-123/Dong-AI-Company](https://github.com/Dong04-123/Dong-AI-Company) | 1 | Python | 2026-06-06 | AI company engine + Hermes skill. Column memory, self-directed learning, governance pipeline, 7x24 runtime. Direct CLI o |
-| 4 | [mrSamDev/agentic-kanban](https://github.com/mrSamDev/agentic-kanban) | 0 | Go | 2026-06-06 |  SQLite-backed task coordination for AI agents. No server. No daemon. No queues. Just a shared database file agents use  |
-| 5 | [rllm-org/rllm](https://github.com/rllm-org/rllm) | 5594 | Python | 2026-06-06 | Democratizing Reinforcement Learning for LLMs |
-| 6 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-06 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
-| 7 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 8141 | JavaScript | 2026-06-06 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
-| 8 | [hoangtuanhehehehhe/AgentVault](https://github.com/hoangtuanhehehehhe/AgentVault) | 9 | Python | 2026-06-06 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M |
-| 9 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-06-06 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
-| 10 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-06 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 11 | [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) | 273 | TypeScript | 2026-06-06 | 🛡️The governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit- |
+| 1 | [rllm-org/rllm](https://github.com/rllm-org/rllm) | 5594 | Python | 2026-06-06 | Democratizing Reinforcement Learning for LLMs |
+| 2 | [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) | 273 | TypeScript | 2026-06-06 | 🛡️The governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit- |
+| 3 | [mrSamDev/agentic-kanban](https://github.com/mrSamDev/agentic-kanban) | 0 | Go | 2026-06-06 |  SQLite-backed task coordination for AI agents. No server. No daemon. No queues. Just a shared database file agents use  |
+| 4 | [Dong04-123/Dong-AI-Company](https://github.com/Dong04-123/Dong-AI-Company) | 1 | Python | 2026-06-06 | Cross-project memory and organizational governance for any AI agent. pip install dong-ai. |
+| 5 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-06 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 6 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-06-06 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
+| 7 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-06 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
+| 8 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 8146 | JavaScript | 2026-06-06 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
+| 9 | [hoangtuanhehehehhe/AgentVault](https://github.com/hoangtuanhehehehhe/AgentVault) | 9 | Python | 2026-06-06 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M |
+| 10 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-06-06 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
+| 11 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-06 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 12 | [erayendes/kortext](https://github.com/erayendes/kortext) | 2 | TypeScript | 2026-06-06 | Autonomous AI agent runtime — TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co |
-| 13 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 18804 | Go | 2026-06-06 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 13 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 18807 | Go | 2026-06-06 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | 14 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 9 | TypeScript | 2026-06-06 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
 | 15 | [fxMT-nx/El-Primor](https://github.com/fxMT-nx/El-Primor) | 6 | JavaScript | 2026-06-06 | Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptación y aprendizaje de errores. Cuan |
 | 16 | [Kuonirad/MCOP-Framework-2.0](https://github.com/Kuonirad/MCOP-Framework-2.0) | 1 | TypeScript | 2026-06-06 | Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp |

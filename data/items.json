@@ -1,30 +1,21 @@
 [
   {
-    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
-    "id": "raineislam/mcp-framework",
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
     "language": "Python",
-    "name": "raineislam/mcp-framework",
-    "stars": 0,
-    "updated_at": "2026-06-06T18:17:02Z",
-    "url": "https://github.com/raineislam/mcp-framework"
+    "name": "rllm-org/rllm",
+    "stars": 5594,
+    "updated_at": "2026-06-06T18:30:12Z",
+    "url": "https://github.com/rllm-org/rllm"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T18:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI company engine + Hermes skill. Column memory, self-directed learning, governance pipeline, 7x24 runtime. Direct CLI o",
-    "id": "Dong04-123/Dong-AI-Company",
-    "language": "Python",
-    "name": "Dong04-123/Dong-AI-Company",
-    "stars": 1,
-    "updated_at": "2026-06-06T18:14:53Z",
-    "url": "https://github.com/Dong04-123/Dong-AI-Company"
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 273,
+    "updated_at": "2026-06-06T18:29:46Z",
+    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": " SQLite-backed task coordination for AI agents. No server. No daemon. No queues. Just a shared database file agents use ",
@@ -32,17 +23,35 @@
     "language": "Go",
     "name": "mrSamDev/agentic-kanban",
     "stars": 0,
-    "updated_at": "2026-06-06T18:14:49Z",
+    "updated_at": "2026-06-06T18:29:03Z",
     "url": "https://github.com/mrSamDev/agentic-kanban"
   },
   {
-    "description": "Democratizing Reinforcement Learning for LLMs",
-    "id": "rllm-org/rllm",
+    "description": "Cross-project memory and organizational governance for any AI agent. pip install dong-ai.",
+    "id": "Dong04-123/Dong-AI-Company",
     "language": "Python",
-    "name": "rllm-org/rllm",
-    "stars": 5594,
-    "updated_at": "2026-06-06T18:11:01Z",
-    "url": "https://github.com/rllm-org/rllm"
+    "name": "Dong04-123/Dong-AI-Company",
+    "stars": 1,
+    "updated_at": "2026-06-06T18:27:42Z",
+    "url": "https://github.com/Dong04-123/Dong-AI-Company"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T18:19:59Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-06T18:17:02Z",
+    "url": "https://github.com/raineislam/mcp-framework"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -58,7 +67,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8141,
+    "stars": 8146,
     "updated_at": "2026-06-06T18:08:16Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -90,15 +99,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 273,
-    "updated_at": "2026-06-06T18:01:08Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
     "description": "Autonomous AI agent runtime \u2014 TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co",
     "id": "erayendes/kortext",
     "language": "TypeScript",
@@ -112,7 +112,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18804,
+    "stars": 18807,
     "updated_at": "2026-06-06T17:55:43Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -194,7 +194,7 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 485,
-    "updated_at": "2026-06-06T17:22:36Z",
+    "updated_at": "2026-06-06T18:23:16Z",
     "url": "https://github.com/cordum-io/cordum"
   },
   {
