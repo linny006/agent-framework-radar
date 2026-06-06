@@ -1,12 +1,12 @@
 [
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18698,
-    "updated_at": "2026-06-06T12:43:03Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 6,
+    "updated_at": "2026-06-06T12:48:50Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "openlegion-ai/openlegion",
     "stars": 100,
-    "updated_at": "2026-06-06T12:40:27Z",
+    "updated_at": "2026-06-06T12:48:43Z",
     "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "An open methodology for building independent AI agents from a single, verified foundation. V0 built; V1/V2 planned.",
+    "id": "LoriT0T/foundry",
+    "language": "HTML",
+    "name": "LoriT0T/foundry",
+    "stars": 0,
+    "updated_at": "2026-06-06T12:47:10Z",
+    "url": "https://github.com/LoriT0T/foundry"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T12:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 18699,
+    "updated_at": "2026-06-06T12:43:03Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Infinite Context AI Company \u2014 Graph Memory eliminates context windows. Corporate governance (red/blue debate, board revi",
@@ -88,24 +115,6 @@
     "stars": 65,
     "updated_at": "2026-06-06T12:30:22Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "An open methodology for building independent AI agents from a single, verified foundation. V0 built; V1/V2 planned.",
-    "id": "LoriT0T/foundry",
-    "language": "HTML",
-    "name": "LoriT0T/foundry",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:30:09Z",
-    "url": "https://github.com/LoriT0T/foundry"
   },
   {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T11:53:49Z",
     "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-06T11:53:05Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
   }
 ]
