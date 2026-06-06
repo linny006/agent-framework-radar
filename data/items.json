@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "Dong04-123/Dong-AI-Company",
     "stars": 1,
-    "updated_at": "2026-06-06T20:44:20Z",
+    "updated_at": "2026-06-06T20:55:15Z",
     "url": "https://github.com/Dong04-123/Dong-AI-Company"
+  },
+  {
+    "description": "Modular agent infrastructure primitives for orchestration, memory, routing, cost tracking, and AI system operations.",
+    "id": "a2z2k26/agent-primitives",
+    "language": "JavaScript",
+    "name": "a2z2k26/agent-primitives",
+    "stars": 0,
+    "updated_at": "2026-06-06T20:50:20Z",
+    "url": "https://github.com/a2z2k26/agent-primitives"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3811,
+    "updated_at": "2026-06-06T20:45:53Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T20:45:34Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
@@ -189,15 +216,6 @@
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T20:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
     "id": "berrettabadger966/genesis-pantheon",
     "language": "Python",
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 6,
-    "updated_at": "2026-06-06T20:27:50Z",
+    "updated_at": "2026-06-06T20:48:57Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-06T20:18:26Z",
     "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Modular agent infrastructure primitives for orchestration, memory, routing, cost tracking, and AI system operations.",
-    "id": "a2z2k26/agent-primitives",
-    "language": "JavaScript",
-    "name": "a2z2k26/agent-primitives",
-    "stars": 0,
-    "updated_at": "2026-06-06T20:17:19Z",
-    "url": "https://github.com/a2z2k26/agent-primitives"
-  },
-  {
-    "description": "Build a governance-first multi-agent framework that turns Markdown controls into enforcement hooks for structured softwa",
-    "id": "Hosk9612/venutian-antfarm",
-    "language": "Shell",
-    "name": "Hosk9612/venutian-antfarm",
-    "stars": 0,
-    "updated_at": "2026-06-06T20:17:05Z",
-    "url": "https://github.com/Hosk9612/venutian-antfarm"
   }
 ]
