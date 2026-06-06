@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83c\udf10 Analyze resources efficiently with Agent Smith CLI, a versatile tool for developers to enhance their workflows and opt",
-    "id": "Acelito7618/agentsmith-cli",
+    "description": "Composable TypeScript AI agent framework \u2014 Effect-TS type safety, 5 reasoning strategies, persistent gateway, real-time ",
+    "id": "tylerjrbuell/reactive-agents-ts",
     "language": "TypeScript",
-    "name": "Acelito7618/agentsmith-cli",
-    "stars": 1,
-    "updated_at": "2026-06-06T15:15:12Z",
-    "url": "https://github.com/Acelito7618/agentsmith-cli"
+    "name": "tylerjrbuell/reactive-agents-ts",
+    "stars": 13,
+    "updated_at": "2026-06-06T15:28:59Z",
+    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
+  },
+  {
+    "description": "\ud83e\udd16 Build AI agents with Go featuring multi-agent orchestration, planning, tool use, and support for Gemini, OpenAI, Anthr",
+    "id": "Luiz184/gokin-sdk",
+    "language": "Go",
+    "name": "Luiz184/gokin-sdk",
+    "stars": 2,
+    "updated_at": "2026-06-06T15:28:29Z",
+    "url": "https://github.com/Luiz184/gokin-sdk"
   },
   {
     "description": "Make AI agent actions authorized, auditable, and replayable not trust-the-prompt. A Rust execution kernel where signed c",
@@ -14,8 +23,116 @@
     "language": "Rust",
     "name": "gryszzz/open-thymos",
     "stars": 14,
-    "updated_at": "2026-06-06T15:15:12Z",
+    "updated_at": "2026-06-06T15:26:29Z",
     "url": "https://github.com/gryszzz/open-thymos"
+  },
+  {
+    "description": "Infinite Context AI Company \u2014 Graph Memory + Experience Engine. Corporate governance (red/blue debate, board review), dy",
+    "id": "Dong04-123/Dong-AI-Company",
+    "language": "Python",
+    "name": "Dong04-123/Dong-AI-Company",
+    "stars": 1,
+    "updated_at": "2026-06-06T15:26:00Z",
+    "url": "https://github.com/Dong04-123/Dong-AI-Company"
+  },
+  {
+    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
+    "id": "tareksyria/SREAgents",
+    "language": "JavaScript",
+    "name": "tareksyria/SREAgents",
+    "stars": 1,
+    "updated_at": "2026-06-06T15:25:59Z",
+    "url": "https://github.com/tareksyria/SREAgents"
+  },
+  {
+    "description": "Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Skills, MCP, ",
+    "id": "codeking-ai/cligate",
+    "language": "JavaScript",
+    "name": "codeking-ai/cligate",
+    "stars": 89,
+    "updated_at": "2026-06-06T15:24:21Z",
+    "url": "https://github.com/codeking-ai/cligate"
+  },
+  {
+    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
+    "id": "RONIN511/alphora",
+    "language": "Python",
+    "name": "RONIN511/alphora",
+    "stars": 2,
+    "updated_at": "2026-06-06T15:22:12Z",
+    "url": "https://github.com/RONIN511/alphora"
+  },
+  {
+    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
+    "id": "Cyclonedusupervise/awesome-agent-evolution-158",
+    "language": "Python",
+    "name": "Cyclonedusupervise/awesome-agent-evolution-158",
+    "stars": 0,
+    "updated_at": "2026-06-06T15:21:59Z",
+    "url": "https://github.com/Cyclonedusupervise/awesome-agent-evolution-158"
+  },
+  {
+    "description": "The AI agent that flies on its own. Two commands to fly. \ud83e\udeb6",
+    "id": "QANOT/qanot",
+    "language": "Python",
+    "name": "QANOT/qanot",
+    "stars": 2,
+    "updated_at": "2026-06-06T15:21:15Z",
+    "url": "https://github.com/QANOT/qanot"
+  },
+  {
+    "description": "\ud83d\udcc4 Generate static question banks easily with Python and JSON for fast, SEO-friendly websites hosted on GitHub Pages.",
+    "id": "punkxuxu/bank_soal",
+    "language": "Python",
+    "name": "punkxuxu/bank_soal",
+    "stars": 0,
+    "updated_at": "2026-06-06T15:20:41Z",
+    "url": "https://github.com/punkxuxu/bank_soal"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-06T15:19:10Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
+    "id": "ArmsSwordSeparator/gbase-690",
+    "language": "Python",
+    "name": "ArmsSwordSeparator/gbase-690",
+    "stars": 0,
+    "updated_at": "2026-06-06T15:18:14Z",
+    "url": "https://github.com/ArmsSwordSeparator/gbase-690"
+  },
+  {
+    "description": "\ud83e\udd16 Build adaptable AI agents with skill-based systems, enabling efficient context management and seamless integration acr",
+    "id": "tanveerkhan2005/custom-agent-with-skills",
+    "language": "Python",
+    "name": "tanveerkhan2005/custom-agent-with-skills",
+    "stars": 2,
+    "updated_at": "2026-06-06T15:16:15Z",
+    "url": "https://github.com/tanveerkhan2005/custom-agent-with-skills"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T15:15:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83c\udf10 Analyze resources efficiently with Agent Smith CLI, a versatile tool for developers to enhance their workflows and opt",
+    "id": "Acelito7618/agentsmith-cli",
+    "language": "TypeScript",
+    "name": "Acelito7618/agentsmith-cli",
+    "stars": 1,
+    "updated_at": "2026-06-06T15:15:12Z",
+    "url": "https://github.com/Acelito7618/agentsmith-cli"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -49,7 +166,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18757,
+    "stars": 18759,
     "updated_at": "2026-06-06T15:12:46Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -61,15 +178,6 @@
     "stars": 9,
     "updated_at": "2026-06-06T15:12:20Z",
     "url": "https://github.com/kdcube/kdcube-ai-app"
-  },
-  {
-    "description": "Infinite Context AI Company \u2014 Graph Memory + Experience Engine. Corporate governance (red/blue debate, board review), dy",
-    "id": "Dong04-123/Dong-AI-Company",
-    "language": "Python",
-    "name": "Dong04-123/Dong-AI-Company",
-    "stars": 1,
-    "updated_at": "2026-06-06T15:11:00Z",
-    "url": "https://github.com/Dong04-123/Dong-AI-Company"
   },
   {
     "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
@@ -153,15 +261,6 @@
     "url": "https://github.com/TonCerqueira/MiroThinker"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T15:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 14 professi",
     "id": "KbWen/agentic-os",
     "language": "Python",
@@ -185,7 +284,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 6,
-    "updated_at": "2026-06-06T14:56:39Z",
+    "updated_at": "2026-06-06T15:21:34Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -259,15 +358,6 @@
     "stars": 485,
     "updated_at": "2026-06-06T14:48:49Z",
     "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "Composable TypeScript AI agent framework \u2014 Effect-TS type safety, 5 reasoning strategies, persistent gateway, real-time ",
-    "id": "tylerjrbuell/reactive-agents-ts",
-    "language": "TypeScript",
-    "name": "tylerjrbuell/reactive-agents-ts",
-    "stars": 13,
-    "updated_at": "2026-06-06T14:47:08Z",
-    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
   },
   {
     "description": "",
@@ -358,95 +448,5 @@
     "stars": 9,
     "updated_at": "2026-06-06T14:32:01Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Local-first AI dev agent for your terminal \u2014 provider-agnostic, cost-aware, self-improving. Apache-2.0.",
-    "id": "david-2814/metis",
-    "language": "Python",
-    "name": "david-2814/metis",
-    "stars": 1,
-    "updated_at": "2026-06-06T14:31:11Z",
-    "url": "https://github.com/david-2814/metis"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 16,
-    "updated_at": "2026-06-06T14:26:53Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
-    "id": "Prompthon-IO/agent-systems-handbook",
-    "language": "MDX",
-    "name": "Prompthon-IO/agent-systems-handbook",
-    "stars": 299,
-    "updated_at": "2026-06-06T14:25:06Z",
-    "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
-  },
-  {
-    "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
-    "id": "NirDiamant/agents-towards-production",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/agents-towards-production",
-    "stars": 20624,
-    "updated_at": "2026-06-06T14:25:06Z",
-    "url": "https://github.com/NirDiamant/agents-towards-production"
-  },
-  {
-    "description": "Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cuan",
-    "id": "fxMT-nx/El-Primor",
-    "language": "JavaScript",
-    "name": "fxMT-nx/El-Primor",
-    "stars": 6,
-    "updated_at": "2026-06-06T14:24:22Z",
-    "url": "https://github.com/fxMT-nx/El-Primor"
-  },
-  {
-    "description": "Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones",
-    "id": "ellmos-ai/clutch",
-    "language": "Python",
-    "name": "ellmos-ai/clutch",
-    "stars": 1,
-    "updated_at": "2026-06-06T14:23:30Z",
-    "url": "https://github.com/ellmos-ai/clutch"
-  },
-  {
-    "description": "Reference architecture for production AI agents",
-    "id": "mikestangdevs/based-agent",
-    "language": "TypeScript",
-    "name": "mikestangdevs/based-agent",
-    "stars": 0,
-    "updated_at": "2026-06-06T14:18:47Z",
-    "url": "https://github.com/mikestangdevs/based-agent"
-  },
-  {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
-    "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 100,
-    "updated_at": "2026-06-06T14:57:54Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
-    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
-    "id": "EarthRepair11/gbase-778",
-    "language": "Python",
-    "name": "EarthRepair11/gbase-778",
-    "stars": 0,
-    "updated_at": "2026-06-06T14:13:15Z",
-    "url": "https://github.com/EarthRepair11/gbase-778"
-  },
-  {
-    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
-    "id": "Sanga1032/fullstack-mcp-playground",
-    "language": "TypeScript",
-    "name": "Sanga1032/fullstack-mcp-playground",
-    "stars": 1,
-    "updated_at": "2026-06-06T14:11:59Z",
-    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
   }
 ]
