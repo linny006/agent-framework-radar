@@ -1,12 +1,75 @@
 [
   {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 9,
+    "updated_at": "2026-06-06T06:40:47Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 9,
+    "updated_at": "2026-06-06T06:40:23Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
     "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, token sniping, portfolio tracking, bri",
     "id": "ulsreall/web3-agent-kit",
     "language": "Python",
     "name": "ulsreall/web3-agent-kit",
     "stars": 7,
-    "updated_at": "2026-06-06T06:27:09Z",
+    "updated_at": "2026-06-06T06:39:28Z",
     "url": "https://github.com/ulsreall/web3-agent-kit"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 18596,
+    "updated_at": "2026-06-06T06:37:17Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "No-code AI agent builder \u2014 turn one sentence into a single agent or a multi-agent team. The engine inside Agentlas. A no",
+    "id": "agentlas-ai/Hephaestus",
+    "language": "Python",
+    "name": "agentlas-ai/Hephaestus",
+    "stars": 5,
+    "updated_at": "2026-06-06T06:35:58Z",
+    "url": "https://github.com/agentlas-ai/Hephaestus"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-06T06:34:36Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
+    "id": "lucasmailland/orchester",
+    "language": "TypeScript",
+    "name": "lucasmailland/orchester",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:32:57Z",
+    "url": "https://github.com/lucasmailland/orchester"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The AI agent that flies on its own. Two commands to fly. \ud83e\udeb6",
@@ -41,17 +104,8 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-06T06:20:42Z",
+    "updated_at": "2026-06-06T06:42:47Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T06:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
@@ -61,15 +115,6 @@
     "stars": 16,
     "updated_at": "2026-06-06T06:14:38Z",
     "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18591,
-    "updated_at": "2026-06-06T06:11:57Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
@@ -88,15 +133,6 @@
     "stars": 132,
     "updated_at": "2026-06-06T06:00:09Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
-    "id": "lucasmailland/orchester",
-    "language": "TypeScript",
-    "name": "lucasmailland/orchester",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:59:33Z",
-    "url": "https://github.com/lucasmailland/orchester"
   },
   {
     "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
@@ -142,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-06T05:34:07Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "No-code AI agent builder \u2014 turn one sentence into a single agent or a multi-agent team. The engine inside Agentlas. A no",
-    "id": "agentlas-ai/Hephaestus",
-    "language": "Python",
-    "name": "agentlas-ai/Hephaestus",
-    "stars": 5,
-    "updated_at": "2026-06-06T05:33:57Z",
-    "url": "https://github.com/agentlas-ai/Hephaestus"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T05:10:10Z",
     "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:10:04Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:09:53Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-06T05:09:13Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
   }
 ]
