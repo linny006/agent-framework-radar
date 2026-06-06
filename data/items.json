@@ -1,11 +1,38 @@
 [
   {
+    "description": "Infinite Context AI Company \u2014 Graph Memory eliminates context windows. Corporate governance (red/blue debate, board revi",
+    "id": "Dong04-123/Dong-AI-Company",
+    "language": "Python",
+    "name": "Dong04-123/Dong-AI-Company",
+    "stars": 1,
+    "updated_at": "2026-06-06T14:28:18Z",
+    "url": "https://github.com/Dong04-123/Dong-AI-Company"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 16,
+    "updated_at": "2026-06-06T14:26:53Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T14:25:58Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud",
     "id": "cordum-io/cordum",
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 485,
-    "updated_at": "2026-06-06T14:25:28Z",
+    "updated_at": "2026-06-06T14:27:40Z",
     "url": "https://github.com/cordum-io/cordum"
   },
   {
@@ -81,15 +108,6 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T14:15:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
     "id": "EarthRepair11/gbase-778",
     "language": "Python",
@@ -157,7 +175,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18732,
+    "stars": 18734,
     "updated_at": "2026-06-06T13:58:22Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T13:53:59Z",
     "url": "https://github.com/ToucanEnumerate/awesome-agent-evolution-883"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 16,
-    "updated_at": "2026-06-06T14:23:43Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
@@ -293,7 +302,7 @@
     "language": "Go",
     "name": "mrSamDev/agentic-kanban",
     "stars": 0,
-    "updated_at": "2026-06-06T13:50:13Z",
+    "updated_at": "2026-06-06T14:26:15Z",
     "url": "https://github.com/mrSamDev/agentic-kanban"
   },
   {
@@ -331,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T12:58:10Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Infinite Context AI Company \u2014 Graph Memory eliminates context windows. Corporate governance (red/blue debate, board revi",
-    "id": "Dong04-123/Dong-AI-Company",
-    "language": "Python",
-    "name": "Dong04-123/Dong-AI-Company",
-    "stars": 1,
-    "updated_at": "2026-06-06T12:39:38Z",
-    "url": "https://github.com/Dong04-123/Dong-AI-Company"
   },
   {
     "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
