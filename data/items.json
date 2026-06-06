@@ -1,29 +1,11 @@
 [
   {
-    "description": "Democratizing Reinforcement Learning for LLMs",
-    "id": "rllm-org/rllm",
-    "language": "Python",
-    "name": "rllm-org/rllm",
-    "stars": 5594,
-    "updated_at": "2026-06-06T18:30:12Z",
-    "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 273,
-    "updated_at": "2026-06-06T18:29:46Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
     "description": " SQLite-backed task coordination for AI agents. No server. No daemon. No queues. Just a shared database file agents use ",
     "id": "mrSamDev/agentic-kanban",
     "language": "Go",
     "name": "mrSamDev/agentic-kanban",
     "stars": 0,
-    "updated_at": "2026-06-06T18:29:03Z",
+    "updated_at": "2026-06-06T18:45:13Z",
     "url": "https://github.com/mrSamDev/agentic-kanban"
   },
   {
@@ -32,8 +14,71 @@
     "language": "Python",
     "name": "Dong04-123/Dong-AI-Company",
     "stars": 1,
-    "updated_at": "2026-06-06T18:27:42Z",
+    "updated_at": "2026-06-06T18:44:14Z",
     "url": "https://github.com/Dong04-123/Dong-AI-Company"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-06T18:43:50Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "An open methodology for building independent AI agents from a single, verified foundation. V0 built; V1/V2 planned.",
+    "id": "LoriT0T/foundry",
+    "language": "HTML",
+    "name": "LoriT0T/foundry",
+    "stars": 0,
+    "updated_at": "2026-06-06T18:43:10Z",
+    "url": "https://github.com/LoriT0T/foundry"
+  },
+  {
+    "description": "Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cuan",
+    "id": "fxMT-nx/El-Primor",
+    "language": "JavaScript",
+    "name": "fxMT-nx/El-Primor",
+    "stars": 6,
+    "updated_at": "2026-06-06T18:43:10Z",
+    "url": "https://github.com/fxMT-nx/El-Primor"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 1,
+    "updated_at": "2026-06-06T18:41:55Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-06T18:41:06Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 273,
+    "updated_at": "2026-06-06T18:38:40Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-06T18:38:03Z",
+    "url": "https://github.com/ludex-lab/ludex"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -41,8 +86,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-06-06T18:19:59Z",
+    "updated_at": "2026-06-06T18:30:23Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
+    "language": "Python",
+    "name": "rllm-org/rllm",
+    "stars": 5594,
+    "updated_at": "2026-06-06T18:30:12Z",
+    "url": "https://github.com/rllm-org/rllm"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -67,7 +121,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8146,
+    "stars": 8152,
     "updated_at": "2026-06-06T18:08:16Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -113,7 +167,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 18807,
-    "updated_at": "2026-06-06T17:55:43Z",
+    "updated_at": "2026-06-06T18:43:53Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 9,
     "updated_at": "2026-06-06T17:54:02Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cuan",
-    "id": "fxMT-nx/El-Primor",
-    "language": "JavaScript",
-    "name": "fxMT-nx/El-Primor",
-    "stars": 6,
-    "updated_at": "2026-06-06T17:51:36Z",
-    "url": "https://github.com/fxMT-nx/El-Primor"
   },
   {
     "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
@@ -184,7 +229,7 @@
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6330,
+    "stars": 6332,
     "updated_at": "2026-06-06T17:24:51Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
@@ -194,7 +239,7 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 485,
-    "updated_at": "2026-06-06T18:23:16Z",
+    "updated_at": "2026-06-06T18:31:08Z",
     "url": "https://github.com/cordum-io/cordum"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T17:21:56Z",
     "url": "https://github.com/prismal-ai/prismal"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-06T17:20:13Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -277,15 +313,6 @@
     "stars": 4,
     "updated_at": "2026-06-06T16:42:19Z",
     "url": "https://github.com/achappey/aihappey-chat"
-  },
-  {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 0,
-    "updated_at": "2026-06-06T16:27:16Z",
-    "url": "https://github.com/ludex-lab/ludex"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T16:10:36Z",
     "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-06T16:10:35Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
-    "id": "Trickedout-ribier5513/AgentClaw",
-    "language": "TypeScript",
-    "name": "Trickedout-ribier5513/AgentClaw",
-    "stars": 0,
-    "updated_at": "2026-06-06T16:10:29Z",
-    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-06-06T16:09:48Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
   }
 ]
