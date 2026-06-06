@@ -1,21 +1,84 @@
 [
   {
-    "description": "An open methodology for building independent AI agents from a single, verified foundation. V0 built; V1/V2 planned.",
-    "id": "LoriT0T/foundry",
-    "language": "HTML",
-    "name": "LoriT0T/foundry",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:30:09Z",
-    "url": "https://github.com/LoriT0T/foundry"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 18698,
+    "updated_at": "2026-06-06T12:43:03Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "Your Private AI Company \u2014 Multi-agent orchestration with red/blue debate, graph memory, dynamic worker pools, and board ",
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 100,
+    "updated_at": "2026-06-06T12:40:27Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "Infinite Context AI Company \u2014 Graph Memory eliminates context windows. Corporate governance (red/blue debate, board revi",
     "id": "Dong04-123/Dong-AI-Company",
     "language": "Python",
     "name": "Dong04-123/Dong-AI-Company",
     "stars": 1,
-    "updated_at": "2026-06-06T12:29:55Z",
+    "updated_at": "2026-06-06T12:39:38Z",
     "url": "https://github.com/Dong04-123/Dong-AI-Company"
+  },
+  {
+    "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
+    "id": "Sheep1433/Noesis",
+    "language": "Python",
+    "name": "Sheep1433/Noesis",
+    "stars": 1,
+    "updated_at": "2026-06-06T12:39:30Z",
+    "url": "https://github.com/Sheep1433/Noesis"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 16,
+    "updated_at": "2026-06-06T12:39:01Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "\ud83e\udd16 Multi-Agent Roundtable Engine / \u591a Agent \u5706\u684c\u8ba8\u8bba\u5f15\u64ce \u00b7 Structured discussions \u00b7 Consensus tracking \u00b7 Python \u00b7 Zero dependenc",
+    "id": "MoyuFamily/agent-roundtable",
+    "language": "Python",
+    "name": "MoyuFamily/agent-roundtable",
+    "stars": 2,
+    "updated_at": "2026-06-06T12:37:45Z",
+    "url": "https://github.com/MoyuFamily/agent-roundtable"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 8,
+    "updated_at": "2026-06-06T12:36:01Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
+    "id": "truvaagents/truva-g3",
+    "language": "Go",
+    "name": "truvaagents/truva-g3",
+    "stars": 5,
+    "updated_at": "2026-06-06T12:36:00Z",
+    "url": "https://github.com/truvaagents/truva-g3"
+  },
+  {
+    "description": "Deterministic AI decisions for production. Rules first, LLMs score second, evidence always required. TypeScript alternat",
+    "id": "balureddy003/kairos-ai",
+    "language": "TypeScript",
+    "name": "balureddy003/kairos-ai",
+    "stars": 0,
+    "updated_at": "2026-06-06T12:33:41Z",
+    "url": "https://github.com/balureddy003/kairos-ai"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -23,8 +86,26 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-06T12:27:04Z",
+    "updated_at": "2026-06-06T12:30:22Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T12:30:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An open methodology for building independent AI agents from a single, verified foundation. V0 built; V1/V2 planned.",
+    "id": "LoriT0T/foundry",
+    "language": "HTML",
+    "name": "LoriT0T/foundry",
+    "stars": 0,
+    "updated_at": "2026-06-06T12:30:09Z",
+    "url": "https://github.com/LoriT0T/foundry"
   },
   {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
@@ -41,7 +122,7 @@
     "language": "Jupyter Notebook",
     "name": "hidemi-k/maf-ebpf-sase",
     "stars": 1,
-    "updated_at": "2026-06-06T12:24:56Z",
+    "updated_at": "2026-06-06T12:31:03Z",
     "url": "https://github.com/hidemi-k/maf-ebpf-sase"
   },
   {
@@ -52,24 +133,6 @@
     "stars": 2,
     "updated_at": "2026-06-06T12:23:45Z",
     "url": "https://github.com/fuseraft/fuseraft-cli"
-  },
-  {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
-    "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 100,
-    "updated_at": "2026-06-06T12:22:15Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
@@ -86,7 +149,7 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 485,
-    "updated_at": "2026-06-06T12:29:04Z",
+    "updated_at": "2026-06-06T12:33:23Z",
     "url": "https://github.com/cordum-io/cordum"
   },
   {
@@ -153,15 +216,6 @@
     "url": "https://github.com/Liny9941/projectsmd"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18695,
-    "updated_at": "2026-06-06T12:04:48Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
     "id": "muhamedali7713/agent-audit",
     "language": "Python",
@@ -178,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-06T12:04:43Z",
     "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 16,
-    "updated_at": "2026-06-06T12:26:42Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-06T11:53:05Z",
     "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-06T11:52:24Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-06T11:51:59Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 1,
-    "updated_at": "2026-06-06T11:51:40Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 1,
-    "updated_at": "2026-06-06T11:51:18Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "No-code AI agent builder \u2014 turn one sentence into a single agent or a multi-agent team. The engine inside Agentlas. A no",
-    "id": "agentlas-ai/Hephaestus",
-    "language": "Python",
-    "name": "agentlas-ai/Hephaestus",
-    "stars": 8,
-    "updated_at": "2026-06-06T11:51:18Z",
-    "url": "https://github.com/agentlas-ai/Hephaestus"
   }
 ]
