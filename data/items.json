@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-07T18:54:50Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-07T18:50:10Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T18:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
     "id": "ludex-lab/ludex",
     "language": "Python",
@@ -7,6 +34,15 @@
     "stars": 0,
     "updated_at": "2026-06-07T18:44:50Z",
     "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 19188,
+    "updated_at": "2026-06-07T18:43:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -59,17 +95,8 @@
     "language": "Python",
     "name": "prismal-ai/prismal",
     "stars": 0,
-    "updated_at": "2026-06-07T18:31:49Z",
+    "updated_at": "2026-06-07T18:53:59Z",
     "url": "https://github.com/prismal-ai/prismal"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T18:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "openlegion-ai/openlegion",
     "stars": 100,
-    "updated_at": "2026-06-07T18:44:32Z",
+    "updated_at": "2026-06-07T18:52:06Z",
     "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
@@ -171,15 +198,6 @@
     "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-07T17:38:05Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 213,
-    "updated_at": "2026-06-07T18:24:58Z",
+    "updated_at": "2026-06-07T18:53:50Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -250,15 +268,6 @@
     "stars": 56,
     "updated_at": "2026-06-07T17:20:19Z",
     "url": "https://github.com/jigjoy-ai/mozaik"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 19186,
-    "updated_at": "2026-06-07T18:43:32Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T16:56:42Z",
     "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
-    "id": "Trickedout-ribier5513/AgentClaw",
-    "language": "TypeScript",
-    "name": "Trickedout-ribier5513/AgentClaw",
-    "stars": 0,
-    "updated_at": "2026-06-07T16:56:28Z",
-    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
   }
 ]
