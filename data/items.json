@@ -1,5 +1,86 @@
 [
   {
+    "description": "Local-first, state-driven AI agent platform. Plan-review before execution, capability-gated tools, BYO LLM (Ollama / Ant",
+    "id": "klarlabs-studio/nomi",
+    "language": "Go",
+    "name": "klarlabs-studio/nomi",
+    "stars": 0,
+    "updated_at": "2026-06-07T04:30:12Z",
+    "url": "https://github.com/klarlabs-studio/nomi"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-07T04:28:57Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 18904,
+    "updated_at": "2026-06-07T04:27:35Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-07T04:26:38Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "Python",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-06-07T04:23:00Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
+    "id": "lucasmailland/orchester",
+    "language": "TypeScript",
+    "name": "lucasmailland/orchester",
+    "stars": 1,
+    "updated_at": "2026-06-07T04:22:35Z",
+    "url": "https://github.com/lucasmailland/orchester"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "MiteshSharma/ethos",
+    "language": "TypeScript",
+    "name": "MiteshSharma/ethos",
+    "stars": 5,
+    "updated_at": "2026-06-07T04:23:53Z",
+    "url": "https://github.com/MiteshSharma/ethos"
+  },
+  {
+    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
+    "id": "BrettMGoughWork/vai-core",
+    "language": "Python",
+    "name": "BrettMGoughWork/vai-core",
+    "stars": 3,
+    "updated_at": "2026-06-07T04:17:24Z",
+    "url": "https://github.com/BrettMGoughWork/vai-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T04:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
     "id": "lightfastai/lightfast",
     "language": "TypeScript",
@@ -18,30 +99,12 @@
     "url": "https://github.com/ludex-lab/ludex"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-07T04:07:30Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18900,
-    "updated_at": "2026-06-07T04:07:21Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "ZiroAgent SDK \u2014 production-safe TypeScript agent runtime: durable execution, cost guardrails, replayable traces, MCP-nat",
     "id": "ziroagent/sdk-typescript",
     "language": "TypeScript",
     "name": "ziroagent/sdk-typescript",
     "stars": 0,
-    "updated_at": "2026-06-07T04:15:08Z",
+    "updated_at": "2026-06-07T04:29:05Z",
     "url": "https://github.com/ziroagent/sdk-typescript"
   },
   {
@@ -59,17 +122,8 @@
     "language": "Rust",
     "name": "gryszzz/open-thymos",
     "stars": 14,
-    "updated_at": "2026-06-07T04:04:25Z",
+    "updated_at": "2026-06-07T04:28:55Z",
     "url": "https://github.com/gryszzz/open-thymos"
-  },
-  {
-    "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
-    "id": "lucasmailland/orchester",
-    "language": "TypeScript",
-    "name": "lucasmailland/orchester",
-    "stars": 1,
-    "updated_at": "2026-06-07T04:04:14Z",
-    "url": "https://github.com/lucasmailland/orchester"
   },
   {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
@@ -97,24 +151,6 @@
     "stars": 1,
     "updated_at": "2026-06-07T04:02:14Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T04:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "MiteshSharma/ethos",
-    "language": "TypeScript",
-    "name": "MiteshSharma/ethos",
-    "stars": 5,
-    "updated_at": "2026-06-07T03:58:32Z",
-    "url": "https://github.com/MiteshSharma/ethos"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T02:58:28Z",
     "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "JARVIS Core \u2014 Agentic AI on-premise \u00b7 900+ agents autonomes \u00b7 Model Context Protocol (MCP) \u00b7 consensus multi-LLM (Claude",
-    "id": "Turbo31150/jarvis-core",
-    "language": "Python",
-    "name": "Turbo31150/jarvis-core",
-    "stars": 1,
-    "updated_at": "2026-06-07T02:58:27Z",
-    "url": "https://github.com/Turbo31150/jarvis-core"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-07T02:57:49Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-07T02:56:13Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-06-07T02:56:04Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
   }
 ]
