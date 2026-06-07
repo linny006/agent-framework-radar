@@ -1,5 +1,59 @@
 [
   {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "MiteshSharma/ethos",
+    "language": "TypeScript",
+    "name": "MiteshSharma/ethos",
+    "stars": 5,
+    "updated_at": "2026-06-07T10:30:09Z",
+    "url": "https://github.com/MiteshSharma/ethos"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:29:20Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 19040,
+    "updated_at": "2026-06-07T10:26:59Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "JARVIS Core \u2014 Agentic AI on-premise \u00b7 900+ agents autonomes \u00b7 Model Context Protocol (MCP) \u00b7 consensus multi-LLM (Claude",
+    "id": "Turbo31150/jarvis-core",
+    "language": "HTML",
+    "name": "Turbo31150/jarvis-core",
+    "stars": 1,
+    "updated_at": "2026-06-07T10:26:05Z",
+    "url": "https://github.com/Turbo31150/jarvis-core"
+  },
+  {
+    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
+    "id": "BrettMGoughWork/vai-core",
+    "language": "Python",
+    "name": "BrettMGoughWork/vai-core",
+    "stars": 3,
+    "updated_at": "2026-06-07T10:24:32Z",
+    "url": "https://github.com/BrettMGoughWork/vai-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI Agent \u9762\u8bd5\u77e5\u8bc6\u5e93\uff1a\u8986\u76d6 LLM\u3001Prompt\u3001RAG\u3001MCP\u3001Tool Use\u3001Agent \u67b6\u6784\u3001Multi-Agent\u3001LangGraph\u3001Claude Code\u3001Codex CLI\u3001\u5de5\u7a0b\u5316\u8bc4\u4f30\u3001\u5b89\u5168\u4e0e\u6e90\u7801\u89e3\u6790\u3002",
     "id": "yibo365/agent-camp",
     "language": "CSS",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 6,
-    "updated_at": "2026-06-07T10:07:18Z",
+    "updated_at": "2026-06-07T10:28:54Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -52,24 +106,6 @@
     "stars": 135,
     "updated_at": "2026-06-07T10:05:16Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 19036,
-    "updated_at": "2026-06-07T10:02:20Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T10:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T09:54:02Z",
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
-    "id": "BrettMGoughWork/vai-core",
-    "language": "Python",
-    "name": "BrettMGoughWork/vai-core",
-    "stars": 3,
-    "updated_at": "2026-06-07T10:12:41Z",
-    "url": "https://github.com/BrettMGoughWork/vai-core"
   },
   {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T09:38:07Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 1,
-    "updated_at": "2026-06-07T09:37:19Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 1,
-    "updated_at": "2026-06-07T09:36:42Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-06-07T09:35:09Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
