@@ -1,12 +1,30 @@
 [
   {
-    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
-    "id": "hoangtuanhehehehhe/AgentVault",
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
     "language": "Python",
-    "name": "hoangtuanhehehehhe/AgentVault",
-    "stars": 9,
-    "updated_at": "2026-06-07T03:28:47Z",
-    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+    "name": "DemonDamon/AgenticX",
+    "stars": 137,
+    "updated_at": "2026-06-07T03:43:24Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 16,
+    "updated_at": "2026-06-07T03:42:31Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-07T03:39:41Z",
+    "url": "https://github.com/raineislam/mcp-framework"
   },
   {
     "description": "Cross-project memory and organizational governance for any AI agent. pip install dong-ai.",
@@ -14,17 +32,44 @@
     "language": "Python",
     "name": "Dong04-123/Dong-AI-Company",
     "stars": 1,
-    "updated_at": "2026-06-07T03:26:09Z",
+    "updated_at": "2026-06-07T03:38:53Z",
     "url": "https://github.com/Dong04-123/Dong-AI-Company"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-07T03:35:56Z",
+    "url": "https://github.com/ludex-lab/ludex"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18889,
-    "updated_at": "2026-06-07T03:19:07Z",
+    "stars": 18895,
+    "updated_at": "2026-06-07T03:34:02Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T03:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 9,
+    "updated_at": "2026-06-07T03:28:47Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
   },
   {
     "description": "AgentBridge helps existing products add an AI assistant quickly.",
@@ -36,15 +81,6 @@
     "url": "https://github.com/jastfkjg/AgentBridge"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T03:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
     "id": "sloppy-yeast840/tri-party-framework",
     "language": "Shell",
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T03:12:02Z",
     "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 137,
-    "updated_at": "2026-06-07T03:11:55Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -223,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-06-07T03:01:30Z",
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 0,
-    "updated_at": "2026-06-07T03:01:30Z",
-    "url": "https://github.com/ludex-lab/ludex"
   },
   {
     "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T02:51:29Z",
     "url": "https://github.com/karunun4659/spawnverse"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-06-07T02:51:26Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Connect WeChat messages to local AI coding agents like Codex, OpenCode, and Claude Code for fast task handling and file ",
-    "id": "arthursou0512/wechat-agent-channel",
-    "language": "Python",
-    "name": "arthursou0512/wechat-agent-channel",
-    "stars": 0,
-    "updated_at": "2026-06-07T02:51:09Z",
-    "url": "https://github.com/arthursou0512/wechat-agent-channel"
   }
 ]
