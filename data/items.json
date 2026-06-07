@@ -1,5 +1,50 @@
 [
   {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-07T18:12:52Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "Build Claude Code\u2013style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints",
+    "id": "vstorm-co/pydantic-deepagents",
+    "language": "Python",
+    "name": "vstorm-co/pydantic-deepagents",
+    "stars": 847,
+    "updated_at": "2026-06-07T18:08:53Z",
+    "url": "https://github.com/vstorm-co/pydantic-deepagents"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-07T18:07:02Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-06-07T18:03:55Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T18:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -25,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T17:46:02Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T17:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 0,
-    "updated_at": "2026-06-07T17:43:30Z",
-    "url": "https://github.com/ludex-lab/ludex"
   },
   {
     "description": "PurrCat Agent",
@@ -95,7 +122,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 135,
-    "updated_at": "2026-06-07T17:36:53Z",
+    "updated_at": "2026-06-07T18:07:46Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "openlegion-ai/openlegion",
     "stars": 100,
-    "updated_at": "2026-06-07T17:58:08Z",
+    "updated_at": "2026-06-07T18:08:20Z",
     "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
@@ -122,17 +149,8 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-06-07T17:32:59Z",
+    "updated_at": "2026-06-07T18:13:13Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Build Claude Code\u2013style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints",
-    "id": "vstorm-co/pydantic-deepagents",
-    "language": "Python",
-    "name": "vstorm-co/pydantic-deepagents",
-    "stars": 847,
-    "updated_at": "2026-06-07T17:36:26Z",
-    "url": "https://github.com/vstorm-co/pydantic-deepagents"
   },
   {
     "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
@@ -184,7 +202,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 19180,
+    "stars": 19183,
     "updated_at": "2026-06-07T17:11:04Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-07T16:53:13Z",
     "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-06-07T16:53:08Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-07T16:52:42Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
   }
 ]
