@@ -1,12 +1,48 @@
 [
   {
-    "description": "ZiroAgent SDK \u2014 production-safe TypeScript agent runtime: durable execution, cost guardrails, replayable traces, MCP-nat",
-    "id": "ziroagent/sdk-typescript",
+    "description": "JARVIS Core \u2014 Agentic AI on-premise \u00b7 900+ agents autonomes \u00b7 Model Context Protocol (MCP) \u00b7 consensus multi-LLM (Claude",
+    "id": "Turbo31150/jarvis-core",
+    "language": "Python",
+    "name": "Turbo31150/jarvis-core",
+    "stars": 1,
+    "updated_at": "2026-06-07T06:44:41Z",
+    "url": "https://github.com/Turbo31150/jarvis-core"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
     "language": "TypeScript",
-    "name": "ziroagent/sdk-typescript",
-    "stars": 0,
-    "updated_at": "2026-06-07T06:30:13Z",
-    "url": "https://github.com/ziroagent/sdk-typescript"
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-07T06:44:14Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Skills, MCP, ",
+    "id": "codeking-ai/cligate",
+    "language": "JavaScript",
+    "name": "codeking-ai/cligate",
+    "stars": 90,
+    "updated_at": "2026-06-07T06:40:17Z",
+    "url": "https://github.com/codeking-ai/cligate"
+  },
+  {
+    "description": "Official BisQue Ultra Platform",
+    "id": "amilworks/ultra",
+    "language": "TypeScript",
+    "name": "amilworks/ultra",
+    "stars": 3,
+    "updated_at": "2026-06-07T06:37:57Z",
+    "url": "https://github.com/amilworks/ultra"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 18955,
+    "updated_at": "2026-06-07T06:37:17Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Cross-project memory and organizational governance for any AI agent. pip install dong-ai.",
@@ -14,17 +50,53 @@
     "language": "Python",
     "name": "Dong04-123/Dong-AI-Company",
     "stars": 1,
-    "updated_at": "2026-06-07T06:29:53Z",
+    "updated_at": "2026-06-07T06:37:20Z",
     "url": "https://github.com/Dong04-123/Dong-AI-Company"
   },
   {
-    "description": "JARVIS Core \u2014 Agentic AI on-premise \u00b7 900+ agents autonomes \u00b7 Model Context Protocol (MCP) \u00b7 consensus multi-LLM (Claude",
-    "id": "Turbo31150/jarvis-core",
-    "language": "Python",
-    "name": "Turbo31150/jarvis-core",
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
     "stars": 1,
-    "updated_at": "2026-06-07T06:26:13Z",
-    "url": "https://github.com/Turbo31150/jarvis-core"
+    "updated_at": "2026-06-07T06:36:19Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\u57fa\u4e8e\u751f\u547d\u5468\u671f\u94a9\u5b50\u7684\u8f7b\u91cf\u7ea7 AI Agent \u6846\u67b6 \u2014 \u63d2\u4ef6\u5373\u6587\u4ef6\uff0c\u5168\u5f02\u6b65\uff0c\u96f6 SDK \u4f9d\u8d56",
+    "id": "zpb911km/fp-agent",
+    "language": "Python",
+    "name": "zpb911km/fp-agent",
+    "stars": 3,
+    "updated_at": "2026-06-07T06:31:40Z",
+    "url": "https://github.com/zpb911km/fp-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T06:30:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "No-code AI agent builder \u2014 turn one sentence into a single agent or a multi-agent team. The engine inside Agentlas. A no",
+    "id": "agentlas-ai/Hephaestus",
+    "language": "Python",
+    "name": "agentlas-ai/Hephaestus",
+    "stars": 10,
+    "updated_at": "2026-06-07T06:30:18Z",
+    "url": "https://github.com/agentlas-ai/Hephaestus"
+  },
+  {
+    "description": "ZiroAgent SDK \u2014 production-safe TypeScript agent runtime: durable execution, cost guardrails, replayable traces, MCP-nat",
+    "id": "ziroagent/sdk-typescript",
+    "language": "TypeScript",
+    "name": "ziroagent/sdk-typescript",
+    "stars": 0,
+    "updated_at": "2026-06-07T06:34:31Z",
+    "url": "https://github.com/ziroagent/sdk-typescript"
   },
   {
     "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
@@ -63,15 +135,6 @@
     "url": "https://github.com/fuseraft/fuseraft-cli"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T06:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
     "id": "ucsandman/DashClaw",
     "language": "TypeScript",
@@ -79,42 +142,6 @@
     "stars": 273,
     "updated_at": "2026-06-07T06:13:55Z",
     "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Skills, MCP, ",
-    "id": "codeking-ai/cligate",
-    "language": "JavaScript",
-    "name": "codeking-ai/cligate",
-    "stars": 90,
-    "updated_at": "2026-06-07T06:16:45Z",
-    "url": "https://github.com/codeking-ai/cligate"
-  },
-  {
-    "description": "\u57fa\u4e8e\u751f\u547d\u5468\u671f\u94a9\u5b50\u7684\u8f7b\u91cf\u7ea7 AI Agent \u6846\u67b6 \u2014 \u63d2\u4ef6\u5373\u6587\u4ef6\uff0c\u5168\u5f02\u6b65\uff0c\u96f6 SDK \u4f9d\u8d56",
-    "id": "zpb911km/fp-agent",
-    "language": "Python",
-    "name": "zpb911km/fp-agent",
-    "stars": 3,
-    "updated_at": "2026-06-07T06:12:03Z",
-    "url": "https://github.com/zpb911km/fp-agent"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-07T06:11:01Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 18952,
-    "updated_at": "2026-06-07T06:08:42Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-07T05:40:24Z",
     "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-07T05:39:45Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-07T05:39:18Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 1,
-    "updated_at": "2026-06-07T05:38:41Z",
-    "url": "https://github.com/cele9529/LingxiFish"
   }
 ]
