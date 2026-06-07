@@ -1,21 +1,57 @@
 [
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 135,
-    "updated_at": "2026-06-07T14:28:23Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
     "id": "rararulab/rara",
     "language": "Rust",
     "name": "rararulab/rara",
     "stars": 8,
-    "updated_at": "2026-06-07T14:27:07Z",
+    "updated_at": "2026-06-07T14:44:58Z",
     "url": "https://github.com/rararulab/rara"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-07T14:39:01Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Reference architecture for production AI agents",
+    "id": "mikestangdevs/based-agent",
+    "language": "TypeScript",
+    "name": "mikestangdevs/based-agent",
+    "stars": 0,
+    "updated_at": "2026-06-07T14:38:49Z",
+    "url": "https://github.com/mikestangdevs/based-agent"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 15,
+    "updated_at": "2026-06-07T14:44:44Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Trixxie is a self\u2011hosted AI companion agent that runs in Second Life and Discord. It provides natural conversation, memo",
+    "id": "pablo0713-glitch/trixxie-companion-agent",
+    "language": "Python",
+    "name": "pablo0713-glitch/trixxie-companion-agent",
+    "stars": 3,
+    "updated_at": "2026-06-07T14:35:58Z",
+    "url": "https://github.com/pablo0713-glitch/trixxie-companion-agent"
+  },
+  {
+    "description": "JARVIS Core \u2014 Agentic AI on-premise \u00b7 900+ agents autonomes \u00b7 Model Context Protocol (MCP) \u00b7 consensus multi-LLM (Claude",
+    "id": "Turbo31150/jarvis-core",
+    "language": "Python",
+    "name": "Turbo31150/jarvis-core",
+    "stars": 1,
+    "updated_at": "2026-06-07T14:35:27Z",
+    "url": "https://github.com/Turbo31150/jarvis-core"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -23,8 +59,35 @@
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
     "stars": 113,
-    "updated_at": "2026-06-07T14:24:16Z",
+    "updated_at": "2026-06-07T14:32:03Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-07T14:31:42Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 135,
+    "updated_at": "2026-06-07T14:30:22Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T14:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
@@ -34,15 +97,6 @@
     "stars": 8239,
     "updated_at": "2026-06-07T14:22:13Z",
     "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-07T14:19:48Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -81,15 +135,6 @@
     "url": "https://github.com/shimo4228/agent-knowledge-cycle"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T14:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "openlegion-ai/openlegion",
     "stars": 100,
-    "updated_at": "2026-06-07T14:25:24Z",
+    "updated_at": "2026-06-07T14:40:37Z",
     "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T13:44:50Z",
     "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-07T13:44:13Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6337,
-    "updated_at": "2026-06-07T13:42:44Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-07T13:42:28Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-07T13:41:32Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "JARVIS Core \u2014 Agentic AI on-premise \u00b7 900+ agents autonomes \u00b7 Model Context Protocol (MCP) \u00b7 consensus multi-LLM (Claude",
-    "id": "Turbo31150/jarvis-core",
-    "language": "Python",
-    "name": "Turbo31150/jarvis-core",
-    "stars": 1,
-    "updated_at": "2026-06-07T13:41:02Z",
-    "url": "https://github.com/Turbo31150/jarvis-core"
   }
 ]
