@@ -1,11 +1,56 @@
 [
   {
+    "description": "Official BisQue Ultra Platform",
+    "id": "amilworks/ultra",
+    "language": "TypeScript",
+    "name": "amilworks/ultra",
+    "stars": 3,
+    "updated_at": "2026-06-07T01:34:14Z",
+    "url": "https://github.com/amilworks/ultra"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 273,
+    "updated_at": "2026-06-07T01:33:25Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Enterprise control plane for ephemeral AI agents via Firecracker MicroVMs",
+    "id": "steve-seungeui/ephemera",
+    "language": "Go",
+    "name": "steve-seungeui/ephemera",
+    "stars": 3,
+    "updated_at": "2026-06-07T01:34:00Z",
+    "url": "https://github.com/steve-seungeui/ephemera"
+  },
+  {
+    "description": "AI integration layer for Jido agents with LLM orchestration and reasoning strategies.",
+    "id": "agentjido/jido_ai",
+    "language": "Elixir",
+    "name": "agentjido/jido_ai",
+    "stars": 189,
+    "updated_at": "2026-06-07T01:30:37Z",
+    "url": "https://github.com/agentjido/jido_ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T01:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 18853,
-    "updated_at": "2026-06-07T01:23:33Z",
+    "updated_at": "2026-06-07T01:34:25Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -27,15 +72,6 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T01:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "OpenClaw plugin: durable orchestration state (VINES) + decay-aware shared agent memory (VECNA) for multi-agent swarms. 1",
     "id": "parijatmukherjee/openclaw-hawkins",
     "language": "TypeScript",
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T01:09:13Z",
     "url": "https://github.com/hidemi-k/maf-netconf-rag-gui"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 273,
-    "updated_at": "2026-06-07T01:24:12Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-06T23:18:02Z",
     "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-06-06T23:17:59Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:17:35Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:17:30Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
   }
 ]
