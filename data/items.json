@@ -1,5 +1,95 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-07T23:46:27Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "OpenPalAI is a free and open source self\u2011hosted AI companion agent that is platform agnostic but also runs in Second Lif",
+    "id": "pablo0713-glitch/OpenPalAI",
+    "language": "Python",
+    "name": "pablo0713-glitch/OpenPalAI",
+    "stars": 3,
+    "updated_at": "2026-06-07T23:46:23Z",
+    "url": "https://github.com/pablo0713-glitch/OpenPalAI"
+  },
+  {
+    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
+    "id": "floccose-burner9185/wow-harness",
+    "language": "Python",
+    "name": "floccose-burner9185/wow-harness",
+    "stars": 0,
+    "updated_at": "2026-06-07T23:46:22Z",
+    "url": "https://github.com/floccose-burner9185/wow-harness"
+  },
+  {
+    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
+    "id": "sacid446/unclaw",
+    "language": "Shell",
+    "name": "sacid446/unclaw",
+    "stars": 0,
+    "updated_at": "2026-06-07T23:45:57Z",
+    "url": "https://github.com/sacid446/unclaw"
+  },
+  {
+    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
+    "id": "carlososoriopulgar/agent-kernel",
+    "language": "\u2014",
+    "name": "carlososoriopulgar/agent-kernel",
+    "stars": 0,
+    "updated_at": "2026-06-07T23:45:50Z",
+    "url": "https://github.com/carlososoriopulgar/agent-kernel"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 137,
+    "updated_at": "2026-06-07T23:45:36Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
+    "id": "peruzzo3265/ClawTrap",
+    "language": "JavaScript",
+    "name": "peruzzo3265/ClawTrap",
+    "stars": 0,
+    "updated_at": "2026-06-07T23:45:34Z",
+    "url": "https://github.com/peruzzo3265/ClawTrap"
+  },
+  {
+    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
+    "id": "adaxial-lineofscrimmage6998/mempalace",
+    "language": "\u2014",
+    "name": "adaxial-lineofscrimmage6998/mempalace",
+    "stars": 0,
+    "updated_at": "2026-06-07T23:45:28Z",
+    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
+  },
+  {
+    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
+    "id": "Trickedout-ribier5513/AgentClaw",
+    "language": "TypeScript",
+    "name": "Trickedout-ribier5513/AgentClaw",
+    "stars": 0,
+    "updated_at": "2026-06-07T23:45:24Z",
+    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T23:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -43,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-06-07T23:43:54Z",
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-07T23:43:01Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
@@ -288,15 +369,6 @@
     "url": "https://github.com/Hosk9612/venutian-antfarm"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T23:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
     "id": "Markusnigerian562/Project-A-MOS-Framework",
     "language": "Shell",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-07T23:27:31Z",
     "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "JARVIS Core \u2014 Agentic AI on-premise \u00b7 900+ agents autonomes \u00b7 Model Context Protocol (MCP) \u00b7 consensus multi-LLM (Claude",
-    "id": "Turbo31150/jarvis-core",
-    "language": "Python",
-    "name": "Turbo31150/jarvis-core",
-    "stars": 1,
-    "updated_at": "2026-06-07T23:27:04Z",
-    "url": "https://github.com/Turbo31150/jarvis-core"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-06-07T23:42:15Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Enable AI agents to send, receive, and manage real email autonomously using 27 email tools via Model Context Protocol wi",
-    "id": "dominiks1260/agent-kit",
-    "language": "JavaScript",
-    "name": "dominiks1260/agent-kit",
-    "stars": 0,
-    "updated_at": "2026-06-07T23:26:17Z",
-    "url": "https://github.com/dominiks1260/agent-kit"
-  },
-  {
-    "description": "Convert raw language models into principled, self-governing Elyan-class AI agents with identity coherence and ethical op",
-    "id": "Mosaicgoldjerusalemartichoke682/shaprai",
-    "language": "Python",
-    "name": "Mosaicgoldjerusalemartichoke682/shaprai",
-    "stars": 0,
-    "updated_at": "2026-06-07T23:25:22Z",
-    "url": "https://github.com/Mosaicgoldjerusalemartichoke682/shaprai"
-  },
-  {
-    "description": "Curate and explore a comprehensive list of Chinese AI agents, tools, and resources for development and research in artif",
-    "id": "Sonicly8968/awesome-chinese-ai-agents",
-    "language": "Python",
-    "name": "Sonicly8968/awesome-chinese-ai-agents",
-    "stars": 3,
-    "updated_at": "2026-06-07T23:25:02Z",
-    "url": "https://github.com/Sonicly8968/awesome-chinese-ai-agents"
-  },
-  {
-    "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
-    "id": "Ibisselfgovernment28/v1-multiagent-articles",
-    "language": "\u2014",
-    "name": "Ibisselfgovernment28/v1-multiagent-articles",
-    "stars": 1,
-    "updated_at": "2026-06-07T23:24:29Z",
-    "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
-  },
-  {
-    "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
-    "id": "gatherfigtree740/ai-agent-landscape",
-    "language": "\u2014",
-    "name": "gatherfigtree740/ai-agent-landscape",
-    "stars": 1,
-    "updated_at": "2026-06-07T23:22:49Z",
-    "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
-  },
-  {
-    "description": "Provide structured LinkedIn data by searching profiles, companies, and jobs through an MCP server with granular scraping",
-    "id": "dottiedissimilar494/linkedin-mcp-server",
-    "language": "Python",
-    "name": "dottiedissimilar494/linkedin-mcp-server",
-    "stars": 2,
-    "updated_at": "2026-06-07T23:22:44Z",
-    "url": "https://github.com/dottiedissimilar494/linkedin-mcp-server"
   }
 ]
