@@ -1,5 +1,50 @@
 [
   {
+    "description": "A code-first framework for building deterministic CLI tools that LLM agents can discover, validate, and invoke with zero",
+    "id": "beogip/code-first-agents-tool",
+    "language": "TypeScript",
+    "name": "beogip/code-first-agents-tool",
+    "stars": 6,
+    "updated_at": "2026-06-07T15:05:54Z",
+    "url": "https://github.com/beogip/code-first-agents-tool"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 15,
+    "updated_at": "2026-06-07T15:02:14Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 1,
+    "updated_at": "2026-06-07T15:01:20Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 113,
+    "updated_at": "2026-06-07T15:00:58Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T15:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
     "id": "Sanga1032/fullstack-mcp-playground",
     "language": "TypeScript",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "mikestangdevs/based-agent",
     "stars": 0,
-    "updated_at": "2026-06-07T14:59:25Z",
+    "updated_at": "2026-06-07T15:12:31Z",
     "url": "https://github.com/mikestangdevs/based-agent"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-07T14:59:06Z",
+    "updated_at": "2026-06-07T15:10:09Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -54,31 +99,13 @@
     "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 15,
-    "updated_at": "2026-06-07T14:57:29Z",
-    "url": "https://github.com/roackb2/heddle"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 19129,
+    "stars": 19137,
     "updated_at": "2026-06-07T14:55:04Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T14:52:34Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -126,15 +153,6 @@
     "url": "https://github.com/Turbo31150/jarvis-core"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 113,
-    "updated_at": "2026-06-07T14:32:03Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -169,6 +187,15 @@
     "stars": 4,
     "updated_at": "2026-06-07T14:19:25Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Run any AI agent \u2014 Claude Code, GAP, LangGraph DeepAgents \u2014 in a hermetic sandbox. Reference implementation of the Harne",
+    "id": "open-gitagent/ComputerAgent",
+    "language": "JavaScript",
+    "name": "open-gitagent/ComputerAgent",
+    "stars": 12,
+    "updated_at": "2026-06-07T15:09:25Z",
+    "url": "https://github.com/open-gitagent/ComputerAgent"
   },
   {
     "description": "Configuration-driven, provider-agnostic runtime for declaring AI agents in YAML and deploying them on AWS \u2014 built on the",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-07T13:46:47Z",
     "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-06-07T13:46:41Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-07T13:46:14Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-06-07T13:46:11Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
   }
 ]
