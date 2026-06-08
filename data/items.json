@@ -1,5 +1,59 @@
 [
   {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-06-08T15:44:05Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-08T15:41:15Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Skills, MCP, ",
+    "id": "codeking-ai/cligate",
+    "language": "JavaScript",
+    "name": "codeking-ai/cligate",
+    "stars": 91,
+    "updated_at": "2026-06-08T15:40:52Z",
+    "url": "https://github.com/codeking-ai/cligate"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:40:23Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 8,
+    "updated_at": "2026-06-08T15:33:06Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:30:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
     "id": "hoangtuanhehehehhe/AgentVault",
     "language": "Python",
@@ -36,30 +90,12 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "An agent runtime that truly has experience.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 7,
-    "updated_at": "2026-06-08T15:19:30Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T15:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11140,
-    "updated_at": "2026-06-08T15:28:08Z",
+    "updated_at": "2026-06-08T15:30:32Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -77,17 +113,8 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 15,
-    "updated_at": "2026-06-08T15:23:59Z",
+    "updated_at": "2026-06-08T15:39:59Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 2,
-    "updated_at": "2026-06-08T15:29:44Z",
-    "url": "https://github.com/opencue/cuecards"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-08T15:09:07Z",
+    "updated_at": "2026-06-08T15:38:09Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -139,7 +166,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 19712,
+    "stars": 19721,
     "updated_at": "2026-06-08T14:38:59Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -205,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-08T14:13:57Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Skills, MCP, ",
-    "id": "codeking-ai/cligate",
-    "language": "JavaScript",
-    "name": "codeking-ai/cligate",
-    "stars": 91,
-    "updated_at": "2026-06-08T14:11:50Z",
-    "url": "https://github.com/codeking-ai/cligate"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-08T13:55:41Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-08T13:55:21Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-06-08T13:55:14Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
   }
 ]
