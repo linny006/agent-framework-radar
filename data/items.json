@@ -1,12 +1,12 @@
 [
   {
-    "description": "An agent runtime that truly has experience.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 7,
-    "updated_at": "2026-06-08T08:44:28Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 19495,
+    "updated_at": "2026-06-08T08:59:41Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
@@ -14,8 +14,71 @@
     "language": "TypeScript",
     "name": "VisionaireLabs/Visionaire",
     "stars": 2,
-    "updated_at": "2026-06-08T08:40:31Z",
+    "updated_at": "2026-06-08T08:59:07Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "AgentBridge helps existing products add an AI assistant quickly.",
+    "id": "jastfkjg/AgentBridge",
+    "language": "Python",
+    "name": "jastfkjg/AgentBridge",
+    "stars": 0,
+    "updated_at": "2026-06-08T08:57:52Z",
+    "url": "https://github.com/jastfkjg/AgentBridge"
+  },
+  {
+    "description": "A hands-on tutorial for building a Claude Code-style coding agent with tools, memory, hooks, subagents, and plugins.",
+    "id": "Loveca/tiny-claude-code",
+    "language": "Python",
+    "name": "Loveca/tiny-claude-code",
+    "stars": 1,
+    "updated_at": "2026-06-08T08:55:41Z",
+    "url": "https://github.com/Loveca/tiny-claude-code"
+  },
+  {
+    "description": "JARVIS OS \u2014 Infrastructure IA distribu\u00e9e on-premise \u00b7 Cluster 5 n\u0153uds \u00b7 10 GPU \u00b7 68G VRAM \u00b7 900+ agents \u00b7 LLM local \u00b7 So",
+    "id": "Turbo31150/jarvis-core",
+    "language": "HTML",
+    "name": "Turbo31150/jarvis-core",
+    "stars": 1,
+    "updated_at": "2026-06-08T08:54:32Z",
+    "url": "https://github.com/Turbo31150/jarvis-core"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-08T08:49:12Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-06-08T08:48:38Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 14 professi",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 4,
+    "updated_at": "2026-06-08T08:48:17Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T08:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -54,15 +117,6 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 19485,
-    "updated_at": "2026-06-08T08:33:45Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -88,33 +142,6 @@
     "stars": 3,
     "updated_at": "2026-06-08T08:31:48Z",
     "url": "https://github.com/steve-seungeui/ephemera"
-  },
-  {
-    "description": "JARVIS Core \u2014 Agentic AI on-premise \u00b7 900+ agents autonomes \u00b7 Model Context Protocol (MCP) \u00b7 consensus multi-LLM (Claude",
-    "id": "Turbo31150/jarvis-core",
-    "language": "HTML",
-    "name": "Turbo31150/jarvis-core",
-    "stars": 1,
-    "updated_at": "2026-06-08T08:30:32Z",
-    "url": "https://github.com/Turbo31150/jarvis-core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T08:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 14 professi",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 4,
-    "updated_at": "2026-06-08T08:25:37Z",
-    "url": "https://github.com/KbWen/agentic-os"
   },
   {
     "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
@@ -144,15 +171,6 @@
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
-    "description": "A hands-on tutorial for building a Claude Code-style coding agent with tools, memory, hooks, subagents, and plugins.",
-    "id": "Loveca/tiny-claude-code",
-    "language": "Python",
-    "name": "Loveca/tiny-claude-code",
-    "stars": 1,
-    "updated_at": "2026-06-08T08:08:15Z",
-    "url": "https://github.com/Loveca/tiny-claude-code"
-  },
-  {
     "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
     "id": "sheawinkler/ContextLattice",
     "language": "Go",
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "ChronoAIProject/Ornn",
     "stars": 18,
-    "updated_at": "2026-06-08T08:45:07Z",
+    "updated_at": "2026-06-08T08:57:14Z",
     "url": "https://github.com/ChronoAIProject/Ornn"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-08T08:32:17Z",
+    "updated_at": "2026-06-08T08:59:12Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 15,
-    "updated_at": "2026-06-08T08:24:53Z",
+    "updated_at": "2026-06-08T08:55:58Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-08T06:09:18Z",
     "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:06:58Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:06:34Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
   }
 ]
