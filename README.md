@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-08 18:41 UTC
+> ⏰ Last updated: 2026-06-08 18:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-06-08 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
-| 2 | [erain/glue](https://github.com/erain/glue) | 1 | Go | 2026-06-08 | A small Go agent framework — provider-agnostic loop, typed tools, four providers, optional persistence + FTS5 search. Tw |
-| 3 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-06-08 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 4 | [inkeep/agents](https://github.com/inkeep/agents) | 1186 | TypeScript | 2026-06-08 | Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult |
-| 5 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 3 | Python | 2026-06-08 | Many Agents, one objective... yours  |
-| 6 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-08 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-08 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-06-08 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
+| 3 | [erain/glue](https://github.com/erain/glue) | 1 | Go | 2026-06-08 | A small Go agent framework — provider-agnostic loop, typed tools, four providers, optional persistence + FTS5 search. Tw |
+| 4 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-06-08 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 5 | [inkeep/agents](https://github.com/inkeep/agents) | 1186 | TypeScript | 2026-06-08 | Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult |
+| 6 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 3 | Python | 2026-06-08 | Many Agents, one objective... yours  |
 | 7 | [hoangtuanhehehehhe/AgentVault](https://github.com/hoangtuanhehehehhe/AgentVault) | 9 | Python | 2026-06-08 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M |
 | 8 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 495 | Shell | 2026-06-08 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
 | 9 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 11144 | Python | 2026-06-08 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |

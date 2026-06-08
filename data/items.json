@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T18:41:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -45,15 +54,6 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T18:30:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
     "id": "hoangtuanhehehehhe/AgentVault",
     "language": "Python",
@@ -68,7 +68,7 @@
     "language": "Shell",
     "name": "aaronjmars/aeon",
     "stars": 495,
-    "updated_at": "2026-06-08T18:25:58Z",
+    "updated_at": "2026-06-08T18:44:59Z",
     "url": "https://github.com/aaronjmars/aeon"
   },
   {
@@ -86,7 +86,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 138,
-    "updated_at": "2026-06-08T18:20:24Z",
+    "updated_at": "2026-06-08T18:44:47Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
