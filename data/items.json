@@ -1,5 +1,104 @@
 [
   {
+    "description": "Multi-Agent Orchestration for Hermes. Code constrains AI \u2014 not the other way around.",
+    "id": "Ebonyhtx/Hermes-Hive",
+    "language": "Python",
+    "name": "Ebonyhtx/Hermes-Hive",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:44:27Z",
+    "url": "https://github.com/Ebonyhtx/Hermes-Hive"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:43:46Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-08T09:40:36Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-08T09:39:14Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Hands-on labs: build Microsoft Agent Framework (MAF) single & multi-agent workflows via GitHub Copilot CLI vibe coding, ",
+    "id": "junwoojeong100/vibe-coding-labs",
+    "language": "Python",
+    "name": "junwoojeong100/vibe-coding-labs",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:38:46Z",
+    "url": "https://github.com/junwoojeong100/vibe-coding-labs"
+  },
+  {
+    "description": "JARVIS OS \u2014 Infrastructure IA distribu\u00e9e on-premise \u00b7 Cluster 5 n\u0153uds \u00b7 10 GPU \u00b7 68G VRAM \u00b7 900+ agents \u00b7 LLM local \u00b7 So",
+    "id": "Turbo31150/jarvis-core",
+    "language": "HTML",
+    "name": "Turbo31150/jarvis-core",
+    "stars": 1,
+    "updated_at": "2026-06-08T09:36:51Z",
+    "url": "https://github.com/Turbo31150/jarvis-core"
+  },
+  {
+    "description": "Official BisQue Ultra Platform",
+    "id": "amilworks/ultra",
+    "language": "TypeScript",
+    "name": "amilworks/ultra",
+    "stars": 3,
+    "updated_at": "2026-06-08T09:44:58Z",
+    "url": "https://github.com/amilworks/ultra"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-08T09:43:22Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 9,
+    "updated_at": "2026-06-08T09:34:50Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "A self-evolving, AI-native language and platform for intelligent agents and autonomous software.",
+    "id": "AetherraLabs/Aetherra",
+    "language": "Python",
+    "name": "AetherraLabs/Aetherra",
+    "stars": 8,
+    "updated_at": "2026-06-08T09:34:22Z",
+    "url": "https://github.com/AetherraLabs/Aetherra"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Skills, MCP, ",
     "id": "codeking-ai/cligate",
     "language": "JavaScript",
@@ -9,29 +108,11 @@
     "url": "https://github.com/codeking-ai/cligate"
   },
   {
-    "description": "Multi-Agent Orchestration for Hermes. Code constrains AI \u2014 not the other way around.",
-    "id": "Ebonyhtx/Hermes-Hive",
-    "language": "Python",
-    "name": "Ebonyhtx/Hermes-Hive",
-    "stars": 0,
-    "updated_at": "2026-06-08T09:29:29Z",
-    "url": "https://github.com/Ebonyhtx/Hermes-Hive"
-  },
-  {
-    "description": "JARVIS OS \u2014 Infrastructure IA distribu\u00e9e on-premise \u00b7 Cluster 5 n\u0153uds \u00b7 10 GPU \u00b7 68G VRAM \u00b7 900+ agents \u00b7 LLM local \u00b7 So",
-    "id": "Turbo31150/jarvis-core",
-    "language": "HTML",
-    "name": "Turbo31150/jarvis-core",
-    "stars": 1,
-    "updated_at": "2026-06-08T09:27:10Z",
-    "url": "https://github.com/Turbo31150/jarvis-core"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 19513,
+    "stars": 19520,
     "updated_at": "2026-06-08T09:26:44Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -61,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-06-08T09:17:26Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T09:15:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
@@ -106,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-08T09:12:37Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-08T09:10:29Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
@@ -248,7 +311,7 @@
     "language": "TypeScript",
     "name": "MiteshSharma/ethos",
     "stars": 5,
-    "updated_at": "2026-06-08T08:25:51Z",
+    "updated_at": "2026-06-08T09:44:54Z",
     "url": "https://github.com/MiteshSharma/ethos"
   },
   {
@@ -257,7 +320,7 @@
     "language": "TypeScript",
     "name": "ChronoAIProject/Ornn",
     "stars": 18,
-    "updated_at": "2026-06-08T09:22:56Z",
+    "updated_at": "2026-06-08T09:45:01Z",
     "url": "https://github.com/ChronoAIProject/Ornn"
   },
   {
@@ -284,7 +347,7 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 349,
-    "updated_at": "2026-06-08T09:16:49Z",
+    "updated_at": "2026-06-08T09:37:56Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T06:43:54Z",
     "url": "https://github.com/skarkala-akm/asksachi-sdk"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 572,
-    "updated_at": "2026-06-08T06:38:37Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-06-08T08:18:34Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "A data-driven, cryptographically signed, registry-backed AI operating system, with capability-scoped execution and graph",
-    "id": "leolilley/ryeos",
-    "language": "Rust",
-    "name": "leolilley/ryeos",
-    "stars": 2,
-    "updated_at": "2026-06-08T06:36:37Z",
-    "url": "https://github.com/leolilley/ryeos"
-  },
-  {
-    "description": "Official BisQue Ultra Platform",
-    "id": "amilworks/ultra",
-    "language": "TypeScript",
-    "name": "amilworks/ultra",
-    "stars": 3,
-    "updated_at": "2026-06-08T06:33:49Z",
-    "url": "https://github.com/amilworks/ultra"
-  },
-  {
-    "description": "Autonomous AI agent runtime \u2014 TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co",
-    "id": "erayendes/kortext",
-    "language": "TypeScript",
-    "name": "erayendes/kortext",
-    "stars": 2,
-    "updated_at": "2026-06-08T06:19:11Z",
-    "url": "https://github.com/erayendes/kortext"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:18:24Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 15,
-    "updated_at": "2026-06-08T09:24:19Z",
-    "url": "https://github.com/roackb2/heddle"
   }
 ]
