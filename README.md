@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-08 16:15 UTC
+> ⏰ Last updated: 2026-06-08 16:21 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [UiPath/uipath-integrations-python](https://github.com/UiPath/uipath-integrations-python) | 10 | Python | 2026-06-08 | A collection of Python SDKs that enable developers to build and deploy agents to the UiPath Cloud Platform using differe |
-| 2 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-06-08 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 3 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 123 | Python | 2026-06-08 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
-| 4 | [shadow3aaa/DaatLocus](https://github.com/shadow3aaa/DaatLocus) | 7 | Rust | 2026-06-08 | An agent runtime that truly has experience. |
-| 5 | [Sanga1032/fullstack-mcp-playground](https://github.com/Sanga1032/fullstack-mcp-playground) | 1 | TypeScript | 2026-06-08 | 🤖 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as |
-| 6 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-06-08 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
-| 7 | [valory-xyz/open-autonomy](https://github.com/valory-xyz/open-autonomy) | 122 | Python | 2026-06-08 | A framework for the creation of autonomous agent services. |
-| 8 | [roackb2/heddle](https://github.com/roackb2/heddle) | 15 | TypeScript | 2026-06-08 | An open-source terminal coding agent runtime and CLI for real project work. |
-| 9 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-08 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
-| 10 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-08 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 11 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 19729 | Go | 2026-06-08 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-08 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [UiPath/uipath-integrations-python](https://github.com/UiPath/uipath-integrations-python) | 10 | Python | 2026-06-08 | A collection of Python SDKs that enable developers to build and deploy agents to the UiPath Cloud Platform using differe |
+| 3 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-06-08 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 4 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 123 | Python | 2026-06-08 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
+| 5 | [shadow3aaa/DaatLocus](https://github.com/shadow3aaa/DaatLocus) | 7 | Rust | 2026-06-08 | An agent runtime that truly has experience. |
+| 6 | [Sanga1032/fullstack-mcp-playground](https://github.com/Sanga1032/fullstack-mcp-playground) | 1 | TypeScript | 2026-06-08 | 🤖 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as |
+| 7 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-06-08 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
+| 8 | [valory-xyz/open-autonomy](https://github.com/valory-xyz/open-autonomy) | 122 | Python | 2026-06-08 | A framework for the creation of autonomous agent services. |
+| 9 | [roackb2/heddle](https://github.com/roackb2/heddle) | 15 | TypeScript | 2026-06-08 | An open-source terminal coding agent runtime and CLI for real project work. |
+| 10 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-08 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
+| 11 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 19733 | Go | 2026-06-08 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | 12 | [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) | 273 | TypeScript | 2026-06-08 | 🛡️The governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit- |
 | 13 | [anthril/official-claude-plugins](https://github.com/anthril/official-claude-plugins) | 3 | Python | 2026-06-08 | A curated collection of reusable AI skills, prompts, and agent configurations. Portable across AI coding assistants and  |
 | 14 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 140 | Python | 2026-06-08 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |

@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T16:15:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A collection of Python SDKs that enable developers to build and deploy agents to the UiPath Cloud Platform using differe",
     "id": "UiPath/uipath-integrations-python",
     "language": "Python",
@@ -81,20 +90,11 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T16:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 19729,
+    "stars": 19733,
     "updated_at": "2026-06-08T15:55:09Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -131,7 +131,7 @@
     "language": "Go",
     "name": "erain/glue",
     "stars": 1,
-    "updated_at": "2026-06-08T15:50:44Z",
+    "updated_at": "2026-06-08T16:18:12Z",
     "url": "https://github.com/erain/glue"
   },
   {
@@ -140,7 +140,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 4,
-    "updated_at": "2026-06-08T15:46:58Z",
+    "updated_at": "2026-06-08T16:20:10Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -149,7 +149,7 @@
     "language": "TypeScript",
     "name": "opencue/cuecards",
     "stars": 2,
-    "updated_at": "2026-06-08T15:41:15Z",
+    "updated_at": "2026-06-08T16:20:03Z",
     "url": "https://github.com/opencue/cuecards"
   },
   {
@@ -212,7 +212,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11140,
-    "updated_at": "2026-06-08T15:49:42Z",
+    "updated_at": "2026-06-08T16:18:12Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
