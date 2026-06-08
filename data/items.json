@@ -1,11 +1,101 @@
 [
   {
+    "description": " SQLite-backed task coordination for AI agents. No server. No daemon. No queues. Just a shared database file agents use ",
+    "id": "mrSamDev/agentic-kanban",
+    "language": "Go",
+    "name": "mrSamDev/agentic-kanban",
+    "stars": 0,
+    "updated_at": "2026-06-08T14:45:17Z",
+    "url": "https://github.com/mrSamDev/agentic-kanban"
+  },
+  {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-06-08T14:43:25Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 4,
+    "updated_at": "2026-06-08T14:39:47Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 19694,
+    "updated_at": "2026-06-08T14:38:59Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-08T14:41:58Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
+    "id": "qbtrix/ripple-iui",
+    "language": "Svelte",
+    "name": "qbtrix/ripple-iui",
+    "stars": 2,
+    "updated_at": "2026-06-08T14:37:19Z",
+    "url": "https://github.com/qbtrix/ripple-iui"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 137,
+    "updated_at": "2026-06-08T14:33:17Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "CLI for managing AI agent squads. Status, memory, goals, feedback, and dashboard for your autonomous agents.",
+    "id": "agents-squads/squads-cli",
+    "language": "TypeScript",
+    "name": "agents-squads/squads-cli",
+    "stars": 48,
+    "updated_at": "2026-06-08T14:44:31Z",
+    "url": "https://github.com/agents-squads/squads-cli"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T14:30:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 839,
+    "updated_at": "2026-06-08T14:29:38Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
     "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
     "id": "OrlojHQ/orloj",
     "language": "Go",
     "name": "OrlojHQ/orloj",
     "stars": 103,
-    "updated_at": "2026-06-08T14:28:45Z",
+    "updated_at": "2026-06-08T14:32:38Z",
     "url": "https://github.com/OrlojHQ/orloj"
   },
   {
@@ -25,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T14:27:57Z",
     "url": "https://github.com/reaatech/agent-mesh"
-  },
-  {
-    "description": "An agent runtime that truly has experience.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 7,
-    "updated_at": "2026-06-08T14:26:51Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:15:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "JARVIS OS \u2014 Infrastructure IA distribu\u00e9e on-premise \u00b7 Cluster 5 n\u0153uds \u00b7 10 GPU \u00b7 68G VRAM \u00b7 900+ agents \u00b7 LLM local \u00b7 So",
@@ -338,7 +410,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11138,
-    "updated_at": "2026-06-08T13:54:12Z",
+    "updated_at": "2026-06-08T14:41:52Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T13:53:16Z",
     "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": " SQLite-backed task coordination for AI agents. No server. No daemon. No queues. Just a shared database file agents use ",
-    "id": "mrSamDev/agentic-kanban",
-    "language": "Go",
-    "name": "mrSamDev/agentic-kanban",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:15:01Z",
-    "url": "https://github.com/mrSamDev/agentic-kanban"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-08T13:51:50Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 137,
-    "updated_at": "2026-06-08T13:50:59Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-08T13:50:39Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-08T13:49:57Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-08T13:49:31Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 2,
-    "updated_at": "2026-06-08T13:48:50Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 1,
-    "updated_at": "2026-06-08T13:48:20Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
   }
 ]
