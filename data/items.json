@@ -1,5 +1,104 @@
 [
   {
+    "description": "Multi-Agent Orchestration for Hermes. Code constrains AI \u2014 not the other way around.",
+    "id": "Ebonyhtx/Hermes-Hive",
+    "language": "Python",
+    "name": "Ebonyhtx/Hermes-Hive",
+    "stars": 0,
+    "updated_at": "2026-06-08T04:59:27Z",
+    "url": "https://github.com/Ebonyhtx/Hermes-Hive"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-06-08T04:59:00Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-06-08T04:58:15Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 273,
+    "updated_at": "2026-06-08T04:53:38Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "",
+    "id": "envergadcr/ai-video-workflow",
+    "language": "Python",
+    "name": "envergadcr/ai-video-workflow",
+    "stars": 2,
+    "updated_at": "2026-06-08T04:51:50Z",
+    "url": "https://github.com/envergadcr/ai-video-workflow"
+  },
+  {
+    "description": "\ud83e\udde0 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool",
+    "id": "Niranjan-008/Agentic-Decision-Cell",
+    "language": "Python",
+    "name": "Niranjan-008/Agentic-Decision-Cell",
+    "stars": 1,
+    "updated_at": "2026-06-08T04:51:18Z",
+    "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
+  },
+  {
+    "description": "Extract a language-independent Semantic IR from a legacy codebase and regenerate clean implementations from it.",
+    "id": "simoneventuri/semantic-autoencoder",
+    "language": "Shell",
+    "name": "simoneventuri/semantic-autoencoder",
+    "stars": 0,
+    "updated_at": "2026-06-08T04:49:40Z",
+    "url": "https://github.com/simoneventuri/semantic-autoencoder"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-08T04:49:25Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-08T04:50:58Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 0,
+    "updated_at": "2026-06-08T04:45:38Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T04:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
     "id": "q-j0k/sprintloop-orchestration",
     "language": "\u2014",
@@ -7,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-08T04:45:03Z",
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "Multi-Agent Orchestration for Hermes. Code constrains AI \u2014 not the other way around.",
-    "id": "Ebonyhtx/Hermes-Hive",
-    "language": "Python",
-    "name": "Ebonyhtx/Hermes-Hive",
-    "stars": 0,
-    "updated_at": "2026-06-08T04:40:27Z",
-    "url": "https://github.com/Ebonyhtx/Hermes-Hive"
   },
   {
     "description": "An agent runtime that truly has experience.",
@@ -40,18 +130,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 19346,
+    "stars": 19352,
     "updated_at": "2026-06-08T04:30:41Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T04:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "OpenHermit is the open-source platform for deploying fleets of AI agents as production services \u2014 durable state, sandbox",
@@ -61,15 +142,6 @@
     "stars": 44,
     "updated_at": "2026-06-08T04:27:08Z",
     "url": "https://github.com/HCF-STUDIOS/openhermit"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-08T04:38:30Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
@@ -88,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-08T04:21:48Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 273,
-    "updated_at": "2026-06-08T04:20:47Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 14 professi",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T03:17:40Z",
     "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-06-08T03:17:14Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-06-08T03:16:33Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-08T03:16:18Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-06-08T03:16:04Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-08T03:15:57Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-08T03:15:41Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-08T03:15:30Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
   }
 ]
