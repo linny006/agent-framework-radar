@@ -1,12 +1,57 @@
 [
   {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1186,
+    "updated_at": "2026-06-08T16:29:08Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6339,
+    "updated_at": "2026-06-08T16:28:49Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-06-08T16:27:31Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 8,
+    "updated_at": "2026-06-08T16:22:11Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-06-08T16:15:33Z",
+    "updated_at": "2026-06-08T16:21:01Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A small Go agent framework \u2014 provider-agnostic loop, typed tools, four providers, optional persistence + FTS5 search. Tw",
+    "id": "erain/glue",
+    "language": "Go",
+    "name": "erain/glue",
+    "stars": 1,
+    "updated_at": "2026-06-08T16:21:00Z",
+    "url": "https://github.com/erain/glue"
   },
   {
     "description": "A collection of Python SDKs that enable developers to build and deploy agents to the UiPath Cloud Platform using differe",
@@ -36,15 +81,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "An agent runtime that truly has experience.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 7,
-    "updated_at": "2026-06-08T16:08:22Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
     "id": "Sanga1032/fullstack-mcp-playground",
     "language": "TypeScript",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "valory-xyz/open-autonomy",
     "stars": 122,
-    "updated_at": "2026-06-08T16:03:55Z",
+    "updated_at": "2026-06-08T16:29:00Z",
     "url": "https://github.com/valory-xyz/open-autonomy"
   },
   {
@@ -94,7 +130,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 19733,
+    "stars": 19735,
     "updated_at": "2026-06-08T15:55:09Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -124,15 +160,6 @@
     "stars": 140,
     "updated_at": "2026-06-08T15:51:28Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "A small Go agent framework \u2014 provider-agnostic loop, typed tools, four providers, optional persistence + FTS5 search. Tw",
-    "id": "erain/glue",
-    "language": "Go",
-    "name": "erain/glue",
-    "stars": 1,
-    "updated_at": "2026-06-08T16:18:12Z",
-    "url": "https://github.com/erain/glue"
   },
   {
     "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 14 professi",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-08T16:02:08Z",
+    "updated_at": "2026-06-08T16:29:12Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -351,15 +378,6 @@
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 8,
-    "updated_at": "2026-06-08T14:59:01Z",
-    "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
     "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
     "id": "agentjido/jidoka",
     "language": "Elixir",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-08T14:02:44Z",
     "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:00:15Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-06-08T13:59:42Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
   }
 ]
