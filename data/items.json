@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
-    "id": "raineislam/mcp-framework",
-    "language": "Python",
-    "name": "raineislam/mcp-framework",
-    "stars": 0,
-    "updated_at": "2026-06-08T03:58:44Z",
-    "url": "https://github.com/raineislam/mcp-framework"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 19337,
+    "updated_at": "2026-06-08T04:09:47Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A small Go agent framework \u2014 provider-agnostic loop, typed tools, four providers, optional persistence + FTS5 search. Tw",
+    "id": "erain/glue",
+    "language": "Go",
+    "name": "erain/glue",
+    "stars": 1,
+    "updated_at": "2026-06-08T04:07:45Z",
+    "url": "https://github.com/erain/glue"
   },
   {
     "description": "JARVIS Core \u2014 Agentic AI on-premise \u00b7 900+ agents autonomes \u00b7 Model Context Protocol (MCP) \u00b7 consensus multi-LLM (Claude",
@@ -14,8 +23,26 @@
     "language": "HTML",
     "name": "Turbo31150/jarvis-core",
     "stars": 1,
-    "updated_at": "2026-06-08T03:58:17Z",
+    "updated_at": "2026-06-08T04:07:07Z",
     "url": "https://github.com/Turbo31150/jarvis-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T04:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-08T03:58:44Z",
+    "url": "https://github.com/raineislam/mcp-framework"
   },
   {
     "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 14 professi",
@@ -31,7 +58,7 @@
     "id": "GammaLabTechnologies/harmonist",
     "language": "Python",
     "name": "GammaLabTechnologies/harmonist",
-    "stars": 1816,
+    "stars": 1817,
     "updated_at": "2026-06-08T03:55:17Z",
     "url": "https://github.com/GammaLabTechnologies/harmonist"
   },
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "badhope/DATA-AI",
     "stars": 21,
-    "updated_at": "2026-06-08T03:56:16Z",
+    "updated_at": "2026-06-08T04:09:13Z",
     "url": "https://github.com/badhope/DATA-AI"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 9,
     "updated_at": "2026-06-08T03:48:06Z",
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T03:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Hands-on labs: build Microsoft Agent Framework (MAF) single & multi-agent workflows via GitHub Copilot CLI vibe coding, ",
@@ -81,15 +99,6 @@
     "url": "https://github.com/ludex-lab/ludex"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 19330,
-    "updated_at": "2026-06-08T03:39:02Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
     "id": "BrettMGoughWork/vai-core",
     "language": "Python",
@@ -97,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-06-08T03:37:26Z",
     "url": "https://github.com/BrettMGoughWork/vai-core"
-  },
-  {
-    "description": "A small Go agent framework \u2014 provider-agnostic loop, typed tools, four providers, optional persistence + FTS5 search. Tw",
-    "id": "erain/glue",
-    "language": "Go",
-    "name": "erain/glue",
-    "stars": 1,
-    "updated_at": "2026-06-08T03:34:21Z",
-    "url": "https://github.com/erain/glue"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
