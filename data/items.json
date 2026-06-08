@@ -1,5 +1,77 @@
 [
   {
+    "description": "Structured skill graph for LLM agents: routing, execution guidance, references, and reusable domain knowledge in JSON.",
+    "id": "Dranser/Skills-Graph",
+    "language": "\u2014",
+    "name": "Dranser/Skills-Graph",
+    "stars": 0,
+    "updated_at": "2026-06-08T00:29:38Z",
+    "url": "https://github.com/Dranser/Skills-Graph"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 273,
+    "updated_at": "2026-06-08T00:28:07Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Peer to peer discovery mesh for agents and services",
+    "id": "J3nnaAI/mesh",
+    "language": "Go",
+    "name": "J3nnaAI/mesh",
+    "stars": 0,
+    "updated_at": "2026-06-08T00:24:02Z",
+    "url": "https://github.com/J3nnaAI/mesh"
+  },
+  {
+    "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
+    "id": "plaited/plaited",
+    "language": "TypeScript",
+    "name": "plaited/plaited",
+    "stars": 9,
+    "updated_at": "2026-06-08T00:23:14Z",
+    "url": "https://github.com/plaited/plaited"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 140,
+    "updated_at": "2026-06-08T00:21:48Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 1,
+    "updated_at": "2026-06-08T00:19:47Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Free, open-source, self-hosted social AI companions with browser chat, memory, personas, and optional Second Life, OpenS",
+    "id": "pablo0713-glitch/OpenPalAI",
+    "language": "Python",
+    "name": "pablo0713-glitch/OpenPalAI",
+    "stars": 3,
+    "updated_at": "2026-06-08T00:15:49Z",
+    "url": "https://github.com/pablo0713-glitch/OpenPalAI"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T00:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-08T00:12:19Z",
+    "updated_at": "2026-06-08T00:27:27Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -52,15 +124,6 @@
     "stars": 65,
     "updated_at": "2026-06-08T00:02:31Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T00:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -171,15 +234,6 @@
     "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
   },
   {
-    "description": "Free, open-source, self-hosted social AI companions with browser chat, memory, personas, and optional Second Life, OpenS",
-    "id": "pablo0713-glitch/OpenPalAI",
-    "language": "Python",
-    "name": "pablo0713-glitch/OpenPalAI",
-    "stars": 3,
-    "updated_at": "2026-06-07T23:46:23Z",
-    "url": "https://github.com/pablo0713-glitch/OpenPalAI"
-  },
-  {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
     "id": "floccose-burner9185/wow-harness",
     "language": "Python",
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T23:45:50Z",
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 140,
-    "updated_at": "2026-06-07T23:45:36Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-07T23:37:18Z",
     "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "A code-first framework for building deterministic CLI tools that LLM agents can discover, validate, and invoke with zero",
-    "id": "beogip/code-first-agents-tool",
-    "language": "TypeScript",
-    "name": "beogip/code-first-agents-tool",
-    "stars": 6,
-    "updated_at": "2026-06-07T23:55:38Z",
-    "url": "https://github.com/beogip/code-first-agents-tool"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-07T23:36:50Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 1,
-    "updated_at": "2026-06-07T23:36:11Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 1,
-    "updated_at": "2026-06-07T23:35:49Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 2,
-    "updated_at": "2026-06-07T23:34:56Z",
-    "url": "https://github.com/opencue/cuecards"
   }
 ]
