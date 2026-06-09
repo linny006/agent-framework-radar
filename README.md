@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-09 21:08 UTC
+> ⏰ Last updated: 2026-06-09 21:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 0 | JavaScript | 2026-06-09 | Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-09 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
 | 2 | [sytone/botnexus](https://github.com/sytone/botnexus) | 2 | C# | 2026-06-09 | BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in  |
-| 3 | [aomi-labs/aomi](https://github.com/aomi-labs/aomi) | 8 | TypeScript | 2026-06-09 | The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library. |
-| 4 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 1 | HTML | 2026-06-09 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 5 | [AgentsKit-io/agentskit](https://github.com/AgentsKit-io/agentskit) | 9 | TypeScript | 2026-06-09 | The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t |
-| 6 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-09 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
-| 7 | [zenml-io/kitaru](https://github.com/zenml-io/kitaru) | 184 | Python | 2026-06-09 | Open-source platform layer for AI agents in production |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-09 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 0 | JavaScript | 2026-06-09 | Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac |
+| 4 | [aomi-labs/aomi](https://github.com/aomi-labs/aomi) | 8 | TypeScript | 2026-06-09 | The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library. |
+| 5 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 1 | HTML | 2026-06-09 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 6 | [AgentsKit-io/agentskit](https://github.com/AgentsKit-io/agentskit) | 9 | TypeScript | 2026-06-09 | The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t |
+| 7 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-09 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
+| 8 | [zenml-io/kitaru](https://github.com/zenml-io/kitaru) | 184 | Python | 2026-06-09 | Open-source platform layer for AI agents in production |
 | 9 | [kdcube/kdcube-ai-app](https://github.com/kdcube/kdcube-ai-app) | 9 | Python | 2026-06-09 | Ship customer-facing AI with isolation, spend controls, and provenance. |
 | 10 | [Sanga1032/fullstack-mcp-playground](https://github.com/Sanga1032/fullstack-mcp-playground) | 1 | TypeScript | 2026-06-09 | 🤖 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as |
 | 11 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 0 | HTML | 2026-06-09 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
 | 12 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-06-09 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
-| 13 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 498 | TypeScript | 2026-06-09 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
+| 13 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 499 | TypeScript | 2026-06-09 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
 | 14 | [bencrooks-dev/marrow](https://github.com/bencrooks-dev/marrow) | 0 | Python | 2026-06-09 | Lightweight C++ core for AI agent orchestration, via Pybind11 |
 | 15 | [gryszzz/open-thymos](https://github.com/gryszzz/open-thymos) | 14 | Rust | 2026-06-09 | Make AI agent actions authorized, auditable, and replayable not trust-the-prompt. A Rust execution kernel where signed c |
 | 16 | [boblabs-eu/boblabs](https://github.com/boblabs-eu/boblabs) | 5 | Python | 2026-06-09 | Self-hosted multi-agent AI platform. Persistent labs, 40 sandboxed tools (code, web, RAG, GPU dispatcher, web3), private |
