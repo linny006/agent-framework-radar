@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
+    "id": "cuteecarrot/AgentHub",
+    "language": "Python",
+    "name": "cuteecarrot/AgentHub",
+    "stars": 4,
+    "updated_at": "2026-06-09T22:00:08Z",
+    "url": "https://github.com/cuteecarrot/AgentHub"
+  },
+  {
+    "description": "\ud83e\udd16 Build advanced multi-agent AI systems with this high-performance Rust framework, enabling automation, reasoning, and e",
+    "id": "Albertossilva-maker/MultiAgent-AI",
+    "language": "HTML",
+    "name": "Albertossilva-maker/MultiAgent-AI",
+    "stars": 0,
+    "updated_at": "2026-06-09T21:59:43Z",
+    "url": "https://github.com/Albertossilva-maker/MultiAgent-AI"
+  },
+  {
+    "description": "A cognitive runtime architecture that transforms experience into reusable structure, reducing the reasoning required to ",
+    "id": "aedrondouren/Byte",
+    "language": "TypeScript",
+    "name": "aedrondouren/Byte",
+    "stars": 0,
+    "updated_at": "2026-06-09T21:57:14Z",
+    "url": "https://github.com/aedrondouren/Byte"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-06-09T21:54:47Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 2,
+    "updated_at": "2026-06-09T21:53:10Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1189,
+    "updated_at": "2026-06-09T21:53:27Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-06-09T21:51:34Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4160,
+    "updated_at": "2026-06-09T21:59:29Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T21:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-06-09T21:45:21Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
+  },
+  {
     "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
     "id": "thesiddguy/GenAI",
     "language": "HTML",
@@ -36,20 +126,11 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4160,
-    "updated_at": "2026-06-09T21:35:56Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11191,
+    "stars": 11192,
     "updated_at": "2026-06-09T21:39:05Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T21:30:38Z",
     "url": "https://github.com/yassineelfakiri/agentpg"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T21:30:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -158,7 +230,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-06-09T21:40:38Z",
+    "updated_at": "2026-06-09T21:56:52Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -351,15 +423,6 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1189,
-    "updated_at": "2026-06-09T20:23:12Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
     "id": "Eliyce/paqad-ai",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-09T20:10:36Z",
     "url": "https://github.com/erayendes/kortext"
-  },
-  {
-    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
-    "id": "rogerchappel/crewcmd",
-    "language": "TypeScript",
-    "name": "rogerchappel/crewcmd",
-    "stars": 3,
-    "updated_at": "2026-06-09T20:09:29Z",
-    "url": "https://github.com/rogerchappel/crewcmd"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-09T20:01:16Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
-    "id": "sheawinkler/ContextLattice",
-    "language": "Go",
-    "name": "sheawinkler/ContextLattice",
-    "stars": 113,
-    "updated_at": "2026-06-09T19:52:18Z",
-    "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "\u27a1\ufe0f Moved to Hivekeep: github.com/MarlBurroW/hivekeep \u2014 self-hosted autonomous AI agents. Your AI team. At home.",
-    "id": "MarlBurroW/kinbot",
-    "language": "TypeScript",
-    "name": "MarlBurroW/kinbot",
-    "stars": 43,
-    "updated_at": "2026-06-09T19:43:47Z",
-    "url": "https://github.com/MarlBurroW/kinbot"
-  },
-  {
-    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
-    "id": "motojinc25/chatwalaau",
-    "language": "Python",
-    "name": "motojinc25/chatwalaau",
-    "stars": 2,
-    "updated_at": "2026-06-09T19:40:14Z",
-    "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "Democratizing Reinforcement Learning for LLMs",
-    "id": "rllm-org/rllm",
-    "language": "Python",
-    "name": "rllm-org/rllm",
-    "stars": 5604,
-    "updated_at": "2026-06-09T19:36:48Z",
-    "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
-    "id": "JoakimCarlsson/ai",
-    "language": "Go",
-    "name": "JoakimCarlsson/ai",
-    "stars": 29,
-    "updated_at": "2026-06-09T19:35:42Z",
-    "url": "https://github.com/JoakimCarlsson/ai"
   }
 ]
