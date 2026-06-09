@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83d\udcda Build an all-in-one subscription-based education platform with secure payments, content management, and analytics for ",
+    "id": "Aikyy99/EduHive",
+    "language": "TypeScript",
+    "name": "Aikyy99/EduHive",
+    "stars": 0,
+    "updated_at": "2026-06-09T17:43:43Z",
+    "url": "https://github.com/Aikyy99/EduHive"
+  },
+  {
+    "description": "Agents should execute whenever possible \u2014 open registry of reusable AI agent skills and capability definitions",
+    "id": "gfernandf/agent-skill-registry",
+    "language": "Python",
+    "name": "gfernandf/agent-skill-registry",
+    "stars": 2,
+    "updated_at": "2026-06-09T17:42:10Z",
+    "url": "https://github.com/gfernandf/agent-skill-registry"
+  },
+  {
+    "description": "ManusClaw v5.0.0 \u2014 Production-Grade Autonomous AI Agent Framework | 10+ LLM Providers | 14+ Tools | 12+ Channels | PAORR",
+    "id": "ManusAgents/ManusClaw",
+    "language": "Python",
+    "name": "ManusAgents/ManusClaw",
+    "stars": 0,
+    "updated_at": "2026-06-09T17:42:01Z",
+    "url": "https://github.com/ManusAgents/ManusClaw"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 101,
+    "updated_at": "2026-06-09T17:40:53Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
+    "id": "cuteecarrot/AgentHub",
+    "language": "Python",
+    "name": "cuteecarrot/AgentHub",
+    "stars": 4,
+    "updated_at": "2026-06-09T17:39:43Z",
+    "url": "https://github.com/cuteecarrot/AgentHub"
+  },
+  {
+    "description": "\ud83e\udd16 Build advanced multi-agent AI systems with this high-performance Rust framework, enabling automation, reasoning, and e",
+    "id": "Albertossilva-maker/MultiAgent-AI",
+    "language": "HTML",
+    "name": "Albertossilva-maker/MultiAgent-AI",
+    "stars": 0,
+    "updated_at": "2026-06-09T17:39:18Z",
+    "url": "https://github.com/Albertossilva-maker/MultiAgent-AI"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-06-09T17:32:39Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 6,
+    "updated_at": "2026-06-09T17:32:03Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "Ops harness for Claude Code \u2014 5 install profiles, 7 shipped skills, full session rituals. Apache 2.0.",
+    "id": "cerebrocybersolutions/libro",
+    "language": "Python",
+    "name": "cerebrocybersolutions/libro",
+    "stars": 0,
+    "updated_at": "2026-06-09T17:31:47Z",
+    "url": "https://github.com/cerebrocybersolutions/libro"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T17:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 2,
+    "updated_at": "2026-06-09T17:30:25Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
     "id": "sloppy-yeast840/tri-party-framework",
     "language": "Shell",
@@ -18,6 +117,15 @@
     "url": "https://github.com/TonCerqueira/MiroThinker"
   },
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-09T17:44:24Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
@@ -34,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T17:22:33Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-09T17:26:41Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -70,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T17:19:16Z",
     "url": "https://github.com/hdhks1229i3/vibecheck"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T17:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
@@ -113,7 +203,7 @@
     "language": "Rust",
     "name": "gryszzz/open-thymos",
     "stars": 14,
-    "updated_at": "2026-06-09T17:08:58Z",
+    "updated_at": "2026-06-09T17:41:24Z",
     "url": "https://github.com/gryszzz/open-thymos"
   },
   {
@@ -162,15 +252,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "ManusClaw v5.0.0 \u2014 Production-Grade Autonomous AI Agent Framework | 10+ LLM Providers | 14+ Tools | 12+ Channels | PAORR",
-    "id": "ManusAgents/ManusClaw",
-    "language": "Python",
-    "name": "ManusAgents/ManusClaw",
-    "stars": 0,
-    "updated_at": "2026-06-09T17:00:37Z",
-    "url": "https://github.com/ManusAgents/ManusClaw"
-  },
-  {
     "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
     "id": "jaylfc/taOS",
     "language": "Python",
@@ -216,21 +297,12 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Agents should execute whenever possible \u2014 open registry of reusable AI agent skills and capability definitions",
-    "id": "gfernandf/agent-skill-registry",
-    "language": "Python",
-    "name": "gfernandf/agent-skill-registry",
-    "stars": 2,
-    "updated_at": "2026-06-09T16:40:26Z",
-    "url": "https://github.com/gfernandf/agent-skill-registry"
-  },
-  {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
     "id": "aaronjmars/aeon",
     "language": "TypeScript",
     "name": "aaronjmars/aeon",
     "stars": 498,
-    "updated_at": "2026-06-09T16:39:56Z",
+    "updated_at": "2026-06-09T17:42:50Z",
     "url": "https://github.com/aaronjmars/aeon"
   },
   {
@@ -288,21 +360,12 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
-    "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 101,
-    "updated_at": "2026-06-09T16:29:00Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-06-09T17:26:19Z",
+    "updated_at": "2026-06-09T17:37:05Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -347,7 +410,7 @@
     "language": "TypeScript",
     "name": "MiteshSharma/ethos",
     "stars": 5,
-    "updated_at": "2026-06-09T16:05:30Z",
+    "updated_at": "2026-06-09T17:38:26Z",
     "url": "https://github.com/MiteshSharma/ethos"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-09T15:52:28Z",
     "url": "https://github.com/qmilab/asterism"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
-    "id": "raineislam/mcp-framework",
-    "language": "Python",
-    "name": "raineislam/mcp-framework",
-    "stars": 0,
-    "updated_at": "2026-06-09T15:50:15Z",
-    "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 6,
-    "updated_at": "2026-06-09T17:14:09Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-09T15:49:09Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-09T15:46:58Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "The .NET library to build AI agents with 30+ built-in connectors.",
-    "id": "lofcz/LLMTornado",
-    "language": "C#",
-    "name": "lofcz/LLMTornado",
-    "stars": 616,
-    "updated_at": "2026-06-09T15:44:45Z",
-    "url": "https://github.com/lofcz/LLMTornado"
-  },
-  {
-    "description": "Agents for Role Play. Agents for Game. Agents as a Game. An orchestrator-agents engine for living worlds \u2014 file-backed, ",
-    "id": "LudicDynamics/WorldLines",
-    "language": "\u2014",
-    "name": "LudicDynamics/WorldLines",
-    "stars": 7,
-    "updated_at": "2026-06-09T15:43:21Z",
-    "url": "https://github.com/LudicDynamics/WorldLines"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 15,
-    "updated_at": "2026-06-09T15:42:15Z",
-    "url": "https://github.com/roackb2/heddle"
   }
 ]
