@@ -1,12 +1,102 @@
 [
   {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-06-09T11:58:55Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
     "description": "A2A-based network automation platform for Arista cEOS. Operates NETCONF / eAPI / eAPI Config / ANTA / XDP from a single ",
     "id": "hidemi-k/a2a-ceos-core",
     "language": "Python",
     "name": "hidemi-k/a2a-ceos-core",
     "stars": 0,
-    "updated_at": "2026-06-09T11:44:59Z",
+    "updated_at": "2026-06-09T11:57:32Z",
     "url": "https://github.com/hidemi-k/a2a-ceos-core"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-09T11:56:06Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-09T11:55:53Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
+    "id": "neural-agi/Qwen3-Coder-Next",
+    "language": "Python",
+    "name": "neural-agi/Qwen3-Coder-Next",
+    "stars": 0,
+    "updated_at": "2026-06-09T11:53:32Z",
+    "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 20177,
+    "updated_at": "2026-06-09T11:51:16Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Search, understand, reproduce, and improve an idea with ease",
+    "id": "inclusionAI/AWorld",
+    "language": "Python",
+    "name": "inclusionAI/AWorld",
+    "stars": 1201,
+    "updated_at": "2026-06-09T11:51:18Z",
+    "url": "https://github.com/inclusionAI/AWorld"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 497,
+    "updated_at": "2026-06-09T11:48:05Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
+    "id": "JoakimCarlsson/ai",
+    "language": "Go",
+    "name": "JoakimCarlsson/ai",
+    "stars": 29,
+    "updated_at": "2026-06-09T11:53:23Z",
+    "url": "https://github.com/JoakimCarlsson/ai"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-09T11:50:35Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T11:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -45,33 +135,6 @@
     "url": "https://github.com/qmilab/asterism"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 20170,
-    "updated_at": "2026-06-09T11:44:32Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
-    "id": "JoakimCarlsson/ai",
-    "language": "Go",
-    "name": "JoakimCarlsson/ai",
-    "stars": 29,
-    "updated_at": "2026-06-09T11:36:33Z",
-    "url": "https://github.com/JoakimCarlsson/ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T11:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
     "id": "w8123/EnterpriseAgentFramework",
     "language": "Java",
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T11:25:42Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 496,
-    "updated_at": "2026-06-09T11:23:39Z",
-    "url": "https://github.com/aaronjmars/aeon"
   },
   {
     "description": "Peer to peer discovery mesh for agents and services",
@@ -151,15 +205,6 @@
     "stars": 772,
     "updated_at": "2026-06-09T11:03:05Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-09T11:42:54Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T10:37:48Z",
     "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-09T10:37:28Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-09T10:37:03Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-09T10:35:05Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Substructure is an engine for building durable, long-running AI agents using only a stateless HTTP endpoint hosted on yo",
-    "id": "substructureai/substructure",
-    "language": "Rust",
-    "name": "substructureai/substructure",
-    "stars": 3,
-    "updated_at": "2026-06-09T10:34:47Z",
-    "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-09T10:34:28Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
   }
 ]
