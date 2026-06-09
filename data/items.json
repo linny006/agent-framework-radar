@@ -1,5 +1,59 @@
 [
   {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1299,
+    "updated_at": "2026-06-09T12:14:16Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Composable Python SDK for building single-agent and multi-agent AI systems.",
+    "id": "nanitics/nanitics",
+    "language": "Python",
+    "name": "nanitics/nanitics",
+    "stars": 5,
+    "updated_at": "2026-06-09T12:09:18Z",
+    "url": "https://github.com/nanitics/nanitics"
+  },
+  {
+    "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
+    "id": "open1s/bos",
+    "language": "Rust",
+    "name": "open1s/bos",
+    "stars": 2,
+    "updated_at": "2026-06-09T12:06:59Z",
+    "url": "https://github.com/open1s/bos"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 497,
+    "updated_at": "2026-06-09T12:04:07Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
+    "id": "rapidaai/voice-ai",
+    "language": "Go",
+    "name": "rapidaai/voice-ai",
+    "stars": 663,
+    "updated_at": "2026-06-09T12:01:17Z",
+    "url": "https://github.com/rapidaai/voice-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T12:00:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An agent runtime that truly has experience.",
     "id": "shadow3aaa/DaatLocus",
     "language": "Rust",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "hidemi-k/a2a-ceos-core",
     "stars": 0,
-    "updated_at": "2026-06-09T11:57:32Z",
+    "updated_at": "2026-06-09T12:03:03Z",
     "url": "https://github.com/hidemi-k/a2a-ceos-core"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-09T11:55:53Z",
+    "updated_at": "2026-06-09T12:09:23Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -49,7 +103,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 20177,
+    "stars": 20181,
     "updated_at": "2026-06-09T11:51:16Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -61,15 +115,6 @@
     "stars": 1201,
     "updated_at": "2026-06-09T11:51:18Z",
     "url": "https://github.com/inclusionAI/AWorld"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 497,
-    "updated_at": "2026-06-09T11:48:05Z",
-    "url": "https://github.com/aaronjmars/aeon"
   },
   {
     "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
@@ -86,17 +131,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-09T11:50:35Z",
+    "updated_at": "2026-06-09T12:06:57Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T11:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 1,
-    "updated_at": "2026-06-09T11:37:11Z",
+    "updated_at": "2026-06-09T12:06:43Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
@@ -139,7 +175,7 @@
     "id": "w8123/EnterpriseAgentFramework",
     "language": "Java",
     "name": "w8123/EnterpriseAgentFramework",
-    "stars": 278,
+    "stars": 280,
     "updated_at": "2026-06-09T11:29:04Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
   },
@@ -189,13 +225,13 @@
     "url": "https://github.com/erayendes/kortext"
   },
   {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1299,
-    "updated_at": "2026-06-09T11:12:21Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
+    "description": "Batteries-included framework for building AI agents at scale. YAML-first, LangGraph-powered, zero-infrastructure by defa",
+    "id": "SuyeshBadge/Alfredo",
+    "language": "Python",
+    "name": "SuyeshBadge/Alfredo",
+    "stars": 0,
+    "updated_at": "2026-06-09T11:17:01Z",
+    "url": "https://github.com/SuyeshBadge/Alfredo"
   },
   {
     "description": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-09T10:38:56Z",
     "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-06-09T10:38:47Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-09T10:38:10Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-06-09T10:37:53Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-09T10:37:48Z",
-    "url": "https://github.com/monahright467/harness-books"
   }
 ]
