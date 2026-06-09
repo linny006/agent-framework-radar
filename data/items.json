@@ -1,5 +1,95 @@
 [
   {
+    "description": "Modular AI agent skills for planning, auditing, debugging, team orchestration, and skill creation.",
+    "id": "edisonzerolam/openclaw-skills",
+    "language": "Python",
+    "name": "edisonzerolam/openclaw-skills",
+    "stars": 0,
+    "updated_at": "2026-06-09T04:28:37Z",
+    "url": "https://github.com/edisonzerolam/openclaw-skills"
+  },
+  {
+    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
+    "id": "ChronoAIProject/Ornn",
+    "language": "TypeScript",
+    "name": "ChronoAIProject/Ornn",
+    "stars": 18,
+    "updated_at": "2026-06-09T04:24:01Z",
+    "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "Multi-agent team coordination skill with roles, handoffs, checkpoint protocols, and quality gates.",
+    "id": "edisonzerolam/agent-team-orchestration",
+    "language": "Python",
+    "name": "edisonzerolam/agent-team-orchestration",
+    "stars": 0,
+    "updated_at": "2026-06-09T04:23:31Z",
+    "url": "https://github.com/edisonzerolam/agent-team-orchestration"
+  },
+  {
+    "description": "Log tracing, crash analysis, memory leak detection, and HTTP debugging skill for the OpenClaw framework.",
+    "id": "edisonzerolam/debug",
+    "language": "Shell",
+    "name": "edisonzerolam/debug",
+    "stars": 0,
+    "updated_at": "2026-06-09T04:23:30Z",
+    "url": "https://github.com/edisonzerolam/debug"
+  },
+  {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-06-09T04:21:23Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "Guide and toolkit for creating new OpenClaw skills, implementing Anthropic 4 hard constraints.",
+    "id": "edisonzerolam/qclaw-skill-creator",
+    "language": "Python",
+    "name": "edisonzerolam/qclaw-skill-creator",
+    "stars": 0,
+    "updated_at": "2026-06-09T04:22:12Z",
+    "url": "https://github.com/edisonzerolam/qclaw-skill-creator"
+  },
+  {
+    "description": "Systematic code and compliance audit skill with Phase G + S1-S5 stages for the OpenClaw framework.",
+    "id": "edisonzerolam/auditor",
+    "language": "Python",
+    "name": "edisonzerolam/auditor",
+    "stars": 0,
+    "updated_at": "2026-06-09T04:22:08Z",
+    "url": "https://github.com/edisonzerolam/auditor"
+  },
+  {
+    "description": "Task planning skill with fact verification, audit workflow, and F0-F12 pipeline for the OpenClaw framework.",
+    "id": "edisonzerolam/agent-planner",
+    "language": "Python",
+    "name": "edisonzerolam/agent-planner",
+    "stars": 0,
+    "updated_at": "2026-06-09T04:22:07Z",
+    "url": "https://github.com/edisonzerolam/agent-planner"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T04:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 19939,
+    "updated_at": "2026-06-09T04:14:57Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
     "id": "qmilab/asterism",
     "language": "TypeScript",
@@ -16,15 +106,6 @@
     "stars": 8334,
     "updated_at": "2026-06-09T04:03:21Z",
     "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T04:02:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Extract a language-independent Semantic IR from a legacy codebase and regenerate clean implementations from it.",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T03:46:41Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "An agent runtime that truly has experience.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 7,
-    "updated_at": "2026-06-09T03:46:26Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T03:28:22Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 2,
-    "updated_at": "2026-06-09T03:27:48Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 1,
-    "updated_at": "2026-06-09T03:27:18Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-06-09T03:26:08Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-09T03:25:46Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Build self-spawning AI agents from tasks with distributed memory, guardrails, and a fossil record.",
-    "id": "karunun4659/spawnverse",
-    "language": "\u2014",
-    "name": "karunun4659/spawnverse",
-    "stars": 0,
-    "updated_at": "2026-06-09T03:25:14Z",
-    "url": "https://github.com/karunun4659/spawnverse"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-06-09T03:25:13Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Connect WeChat messages to local AI coding agents like Codex, OpenCode, and Claude Code for fast task handling and file ",
-    "id": "arthursou0512/wechat-agent-channel",
-    "language": "Python",
-    "name": "arthursou0512/wechat-agent-channel",
-    "stars": 0,
-    "updated_at": "2026-06-09T03:24:38Z",
-    "url": "https://github.com/arthursou0512/wechat-agent-channel"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 141,
-    "updated_at": "2026-06-09T03:24:11Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   }
 ]
