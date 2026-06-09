@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-09 04:00 UTC
+> ⏰ Last updated: 2026-06-09 04:02 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [simoneventuri/semantic-autoencoder](https://github.com/simoneventuri/semantic-autoencoder) | 1 | Shell | 2026-06-09 | Extract a language-independent Semantic IR from a legacy codebase and regenerate clean implementations from it. |
-| 2 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-09 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
-| 3 | [pablo0713-glitch/OpenPalAI](https://github.com/pablo0713-glitch/OpenPalAI) | 3 | Python | 2026-06-09 | Free, open-source, self-hosted social AI companions with browser chat, memory, personas, and optional Second Life, OpenS |
-| 4 | [agentlas-ai/Hephaestus](https://github.com/agentlas-ai/Hephaestus) | 18 | Python | 2026-06-09 | No-code AI agent builder — turn one sentence into a single agent or a multi-agent team. The engine inside Agentlas. A no |
-| 5 | [qmilab/asterism](https://github.com/qmilab/asterism) | 1 | TypeScript | 2026-06-09 | A local-first runtime for running many distinct agents — each with its own memory, secrets, skills, workspace, and auton |
-| 6 | [sloppy-yeast840/tri-party-framework](https://github.com/sloppy-yeast840/tri-party-framework) | 0 | Shell | 2026-06-09 | Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc |
-| 7 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-06-09 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
-| 8 | [shadow3aaa/DaatLocus](https://github.com/shadow3aaa/DaatLocus) | 7 | Rust | 2026-06-09 | An agent runtime that truly has experience. |
-| 9 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-09 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-09 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [simoneventuri/semantic-autoencoder](https://github.com/simoneventuri/semantic-autoencoder) | 1 | Shell | 2026-06-09 | Extract a language-independent Semantic IR from a legacy codebase and regenerate clean implementations from it. |
+| 3 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-09 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
+| 4 | [pablo0713-glitch/OpenPalAI](https://github.com/pablo0713-glitch/OpenPalAI) | 3 | Python | 2026-06-09 | Free, open-source, self-hosted social AI companions with browser chat, memory, personas, and optional Second Life, OpenS |
+| 5 | [agentlas-ai/Hephaestus](https://github.com/agentlas-ai/Hephaestus) | 18 | Python | 2026-06-09 | No-code AI agent builder — turn one sentence into a single agent or a multi-agent team. The engine inside Agentlas. A no |
+| 6 | [qmilab/asterism](https://github.com/qmilab/asterism) | 1 | TypeScript | 2026-06-09 | A local-first runtime for running many distinct agents — each with its own memory, secrets, skills, workspace, and auton |
+| 7 | [sloppy-yeast840/tri-party-framework](https://github.com/sloppy-yeast840/tri-party-framework) | 0 | Shell | 2026-06-09 | Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc |
+| 8 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-06-09 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
+| 9 | [shadow3aaa/DaatLocus](https://github.com/shadow3aaa/DaatLocus) | 7 | Rust | 2026-06-09 | An agent runtime that truly has experience. |
 | 10 | [herreravalenz6620/context-compression](https://github.com/herreravalenz6620/context-compression) | 2 | Python | 2026-06-09 | Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents. |
 | 11 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 8333 | JavaScript | 2026-06-09 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
 | 12 | [Smita6756/Hbrain](https://github.com/Smita6756/Hbrain) | 0 | Python | 2026-06-09 | Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept. |

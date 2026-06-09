@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T04:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Extract a language-independent Semantic IR from a legacy codebase and regenerate clean implementations from it.",
     "id": "simoneventuri/semantic-autoencoder",
     "language": "Shell",
     "name": "simoneventuri/semantic-autoencoder",
     "stars": 1,
-    "updated_at": "2026-06-09T03:58:35Z",
+    "updated_at": "2026-06-09T04:01:04Z",
     "url": "https://github.com/simoneventuri/semantic-autoencoder"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 7,
     "updated_at": "2026-06-09T03:46:26Z",
     "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T03:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
