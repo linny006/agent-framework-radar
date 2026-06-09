@@ -1,11 +1,65 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-09T04:59:59Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-06-09T04:58:57Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 9,
+    "updated_at": "2026-06-09T04:54:51Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "AI-guided onboarding for human-AI collaboration projects",
+    "id": "jkraybill/gordo-forge",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-forge",
+    "stars": 1,
+    "updated_at": "2026-06-09T04:49:52Z",
+    "url": "https://github.com/jkraybill/gordo-forge"
+  },
+  {
+    "description": "Multi-model adversarial review for catching shared blind spots",
+    "id": "jkraybill/gordo-roundtable",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-roundtable",
+    "stars": 1,
+    "updated_at": "2026-06-09T04:49:46Z",
+    "url": "https://github.com/jkraybill/gordo-roundtable"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T04:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Guide and toolkit for creating new OpenClaw skills, implementing Anthropic 4 hard constraints.",
     "id": "edisonzerolam/qclaw-skill-creator",
     "language": "Python",
     "name": "edisonzerolam/qclaw-skill-creator",
     "stars": 0,
-    "updated_at": "2026-06-09T04:43:54Z",
+    "updated_at": "2026-06-09T04:47:27Z",
     "url": "https://github.com/edisonzerolam/qclaw-skill-creator"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "edisonzerolam/agent-team-orchestration",
     "stars": 0,
-    "updated_at": "2026-06-09T04:43:52Z",
+    "updated_at": "2026-06-09T04:47:23Z",
     "url": "https://github.com/edisonzerolam/agent-team-orchestration"
   },
   {
@@ -23,7 +77,7 @@
     "language": "Shell",
     "name": "edisonzerolam/debug",
     "stars": 0,
-    "updated_at": "2026-06-09T04:43:49Z",
+    "updated_at": "2026-06-09T04:47:18Z",
     "url": "https://github.com/edisonzerolam/debug"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "edisonzerolam/auditor",
     "stars": 0,
-    "updated_at": "2026-06-09T04:42:58Z",
+    "updated_at": "2026-06-09T04:47:15Z",
     "url": "https://github.com/edisonzerolam/auditor"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "edisonzerolam/agent-planner",
     "stars": 0,
-    "updated_at": "2026-06-09T04:42:55Z",
+    "updated_at": "2026-06-09T04:47:08Z",
     "url": "https://github.com/edisonzerolam/agent-planner"
   },
   {
@@ -68,17 +122,8 @@
     "language": "Python",
     "name": "edisonzerolam/openclaw-skills",
     "stars": 0,
-    "updated_at": "2026-06-09T04:37:03Z",
+    "updated_at": "2026-06-09T04:47:02Z",
     "url": "https://github.com/edisonzerolam/openclaw-skills"
-  },
-  {
-    "description": "An agent runtime that truly has experience.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 7,
-    "updated_at": "2026-06-09T04:36:42Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
     "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
@@ -99,15 +144,6 @@
     "url": "https://github.com/calisweetleaf/Aeriadne"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T04:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Production-ready multi-user AI agent framework \u2014 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-c",
     "id": "stephonGAO/milu",
     "language": "Python",
@@ -121,7 +157,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 19944,
+    "stars": 19951,
     "updated_at": "2026-06-09T04:14:57Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 1,
-    "updated_at": "2026-06-09T04:04:15Z",
+    "updated_at": "2026-06-09T04:47:11Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-09T03:33:05Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-09T03:32:49Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-06-09T03:32:47Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-09T03:32:33Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-09T03:32:01Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
   }
 ]
