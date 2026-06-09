@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-09T01:21:13Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-09T01:20:35Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
+    "id": "sheawinkler/ContextLattice",
+    "language": "Go",
+    "name": "sheawinkler/ContextLattice",
+    "stars": 113,
+    "updated_at": "2026-06-09T01:19:45Z",
+    "url": "https://github.com/sheawinkler/ContextLattice"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T01:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Create evidence-bound AI-agent contracts, governed runtime flows, assurance reports, trace/evidence bundles, and falsifi",
     "id": "BryceWDesign/IX",
     "language": "Python",
@@ -18,21 +54,12 @@
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T01:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
     "id": "maref-org/maref",
     "language": "Python",
     "name": "maref-org/maref",
     "stars": 0,
-    "updated_at": "2026-06-09T01:13:00Z",
+    "updated_at": "2026-06-09T01:16:20Z",
     "url": "https://github.com/maref-org/maref"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T00:30:29Z",
     "url": "https://github.com/Nurrachm6921/agent-kernel"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-06-09T00:29:53Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "A CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs \u2014 every promotion passes through a human appro",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 4,
-    "updated_at": "2026-06-09T00:28:44Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Build a governance-first multi-agent framework that turns Markdown controls into enforcement hooks for structured softwa",
-    "id": "Hosk9612/venutian-antfarm",
-    "language": "Shell",
-    "name": "Hosk9612/venutian-antfarm",
-    "stars": 0,
-    "updated_at": "2026-06-09T00:28:35Z",
-    "url": "https://github.com/Hosk9612/venutian-antfarm"
   }
 ]
