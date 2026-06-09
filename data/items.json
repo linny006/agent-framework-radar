@@ -1,12 +1,66 @@
 [
   {
+    "description": "Composable agentic substrate (skills + MCP tools + harness + governance) running on a single laptop. 14 live business do",
+    "id": "arturcrmbot/zava-control-plane",
+    "language": "Python",
+    "name": "arturcrmbot/zava-control-plane",
+    "stars": 0,
+    "updated_at": "2026-06-09T13:24:46Z",
+    "url": "https://github.com/arturcrmbot/zava-control-plane"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11181,
+    "updated_at": "2026-06-09T13:23:04Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 20197,
-    "updated_at": "2026-06-09T13:12:47Z",
+    "stars": 20204,
+    "updated_at": "2026-06-09T13:22:03Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1312,
+    "updated_at": "2026-06-09T13:21:46Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T13:15:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 143,
+    "updated_at": "2026-06-09T13:14:19Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-09T13:12:03Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
     "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 218,
-    "updated_at": "2026-06-09T13:08:17Z",
+    "updated_at": "2026-06-09T13:22:27Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "erayendes/kortext",
     "stars": 2,
-    "updated_at": "2026-06-09T13:04:22Z",
+    "updated_at": "2026-06-09T13:27:56Z",
     "url": "https://github.com/erayendes/kortext"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 8,
     "updated_at": "2026-06-09T13:01:57Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T13:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Peer to peer discovery mesh for agents and services",
@@ -113,7 +158,7 @@
     "language": "Shell",
     "name": "ek33450505/claude-agent-team",
     "stars": 6,
-    "updated_at": "2026-06-09T12:50:23Z",
+    "updated_at": "2026-06-09T13:24:44Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
@@ -162,15 +207,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-09T13:12:03Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -216,15 +252,6 @@
     "url": "https://github.com/getsynkora/synkora-ai"
   },
   {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 143,
-    "updated_at": "2026-06-09T13:14:19Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
     "id": "hoangtuanhehehehhe/AgentVault",
     "language": "Python",
@@ -241,6 +268,15 @@
     "stars": 0,
     "updated_at": "2026-06-09T12:22:33Z",
     "url": "https://github.com/sloppy-yeast840/tri-party-framework"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17647,
+    "updated_at": "2026-06-09T12:21:29Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Batteries-included framework for building AI agents at scale. YAML-first, LangGraph-powered, zero-infrastructure by defa",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-09T13:06:42Z",
+    "updated_at": "2026-06-09T13:26:46Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -367,15 +403,6 @@
     "stars": 3,
     "updated_at": "2026-06-09T12:06:57Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11180,
-    "updated_at": "2026-06-09T13:06:16Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T11:25:42Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "A framework for the creation of autonomous agent services.",
-    "id": "valory-xyz/open-autonomy",
-    "language": "Python",
-    "name": "valory-xyz/open-autonomy",
-    "stars": 122,
-    "updated_at": "2026-06-09T11:20:29Z",
-    "url": "https://github.com/valory-xyz/open-autonomy"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8340,
-    "updated_at": "2026-06-09T11:14:56Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 773,
-    "updated_at": "2026-06-09T11:03:05Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   }
 ]
