@@ -1,5 +1,41 @@
 [
   {
+    "description": "Composable agentic substrate (skills + MCP tools + harness + governance) running on a single laptop. 14 live business do",
+    "id": "arturcrmbot/zava-control-plane",
+    "language": "Python",
+    "name": "arturcrmbot/zava-control-plane",
+    "stars": 0,
+    "updated_at": "2026-06-09T09:13:41Z",
+    "url": "https://github.com/arturcrmbot/zava-control-plane"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-09T09:06:21Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "The tool-calling loop for LLM agents; iterator-first, protocol-hooked, one dependency.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 6,
+    "updated_at": "2026-06-09T09:06:15Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T09:00:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Ouroboros: Agent first software engineering infrastructure. Autonomous AI agents plan, implement, test, review, and merg",
     "id": "Tanush1912/ouroboros",
     "language": "Python",
@@ -36,15 +72,6 @@
     "url": "https://github.com/zpb911km/fp-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T08:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
     "id": "Sanga1032/fullstack-mcp-playground",
     "language": "TypeScript",
@@ -58,7 +85,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11173,
+    "stars": 11174,
     "updated_at": "2026-06-09T08:43:32Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -104,17 +131,8 @@
     "language": "Go",
     "name": "klarlabs-studio/nomi",
     "stars": 0,
-    "updated_at": "2026-06-09T08:57:38Z",
+    "updated_at": "2026-06-09T09:09:35Z",
     "url": "https://github.com/klarlabs-studio/nomi"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-09T08:45:05Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 17642,
-    "updated_at": "2026-06-09T08:42:14Z",
+    "updated_at": "2026-06-09T09:07:34Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T07:34:49Z",
     "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-09T07:34:46Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-09T07:34:26Z",
-    "url": "https://github.com/Thuso030703/open-claude"
   }
 ]
