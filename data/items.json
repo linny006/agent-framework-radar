@@ -1,11 +1,29 @@
 [
   {
+    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
+    "id": "qmilab/asterism",
+    "language": "TypeScript",
+    "name": "qmilab/asterism",
+    "stars": 1,
+    "updated_at": "2026-06-09T04:04:15Z",
+    "url": "https://github.com/qmilab/asterism"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8334,
+    "updated_at": "2026-06-09T04:03:21Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-06-09T04:00:24Z",
+    "updated_at": "2026-06-09T04:02:28Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -40,18 +58,9 @@
     "id": "agentlas-ai/Hephaestus",
     "language": "Python",
     "name": "agentlas-ai/Hephaestus",
-    "stars": 18,
+    "stars": 19,
     "updated_at": "2026-06-09T03:52:49Z",
     "url": "https://github.com/agentlas-ai/Hephaestus"
-  },
-  {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 1,
-    "updated_at": "2026-06-09T03:59:13Z",
-    "url": "https://github.com/qmilab/asterism"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
@@ -88,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-06-09T03:44:38Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8333,
-    "updated_at": "2026-06-09T03:44:39Z",
-    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
@@ -445,7 +445,7 @@
     "id": "DemonDamon/AgenticX",
     "language": "Python",
     "name": "DemonDamon/AgenticX",
-    "stars": 140,
+    "stars": 141,
     "updated_at": "2026-06-09T03:24:11Z",
     "url": "https://github.com/DemonDamon/AgenticX"
   }
