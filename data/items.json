@@ -1,5 +1,23 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 19971,
+    "updated_at": "2026-06-09T05:35:15Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T05:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Systematic code and compliance audit skill with Phase G + S1-S5 stages for the OpenClaw framework.",
     "id": "edisonzerolam/auditor",
     "language": "Python",
@@ -27,20 +45,11 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 19960,
-    "updated_at": "2026-06-09T05:25:06Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4135,
+    "stars": 4137,
     "updated_at": "2026-06-09T05:24:33Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -61,15 +70,6 @@
     "stars": 18,
     "updated_at": "2026-06-09T05:24:24Z",
     "url": "https://github.com/ChronoAIProject/Ornn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T05:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -274,7 +274,7 @@
     "id": "agentlas-ai/Hephaestus",
     "language": "Python",
     "name": "agentlas-ai/Hephaestus",
-    "stars": 19,
+    "stars": 20,
     "updated_at": "2026-06-09T03:52:49Z",
     "url": "https://github.com/agentlas-ai/Hephaestus"
   },

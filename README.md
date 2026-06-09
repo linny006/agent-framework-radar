@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-09 05:30 UTC
+> ⏰ Last updated: 2026-06-09 05:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [edisonzerolam/auditor](https://github.com/edisonzerolam/auditor) | 0 | Python | 2026-06-09 | Systematic code and compliance audit skill with Phase G + S1-S5 stages for the OpenClaw framework. |
-| 2 | [edisonzerolam/openclaw-skills](https://github.com/edisonzerolam/openclaw-skills) | 0 | Python | 2026-06-09 | Modular AI agent skills for planning, auditing, debugging, team orchestration, and skill creation. |
-| 3 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 9 | TypeScript | 2026-06-09 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
-| 4 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 19960 | Go | 2026-06-09 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 5 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 4135 | Python | 2026-06-09 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
-| 6 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-06-09 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
-| 7 | [ChronoAIProject/Ornn](https://github.com/ChronoAIProject/Ornn) | 18 | TypeScript | 2026-06-09 | Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple  |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-09 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 19971 | Go | 2026-06-09 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-09 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [edisonzerolam/auditor](https://github.com/edisonzerolam/auditor) | 0 | Python | 2026-06-09 | Systematic code and compliance audit skill with Phase G + S1-S5 stages for the OpenClaw framework. |
+| 4 | [edisonzerolam/openclaw-skills](https://github.com/edisonzerolam/openclaw-skills) | 0 | Python | 2026-06-09 | Modular AI agent skills for planning, auditing, debugging, team orchestration, and skill creation. |
+| 5 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 9 | TypeScript | 2026-06-09 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
+| 6 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 4137 | Python | 2026-06-09 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
+| 7 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-06-09 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
+| 8 | [ChronoAIProject/Ornn](https://github.com/ChronoAIProject/Ornn) | 18 | TypeScript | 2026-06-09 | Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple  |
 | 9 | [hoangtuanhehehehhe/AgentVault](https://github.com/hoangtuanhehehehhe/AgentVault) | 9 | Python | 2026-06-09 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M |
 | 10 | [cortexkit/aft](https://github.com/cortexkit/aft) | 139 | Rust | 2026-06-09 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
 | 11 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 0 | HTML | 2026-06-09 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
@@ -72,7 +72,7 @@ expired items removed — so you can rely on what you see being current.
 | 28 | [simoneventuri/semantic-autoencoder](https://github.com/simoneventuri/semantic-autoencoder) | 1 | Shell | 2026-06-09 | Extract a language-independent Semantic IR from a legacy codebase and regenerate clean implementations from it. |
 | 29 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-09 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
 | 30 | [pablo0713-glitch/OpenPalAI](https://github.com/pablo0713-glitch/OpenPalAI) | 3 | Python | 2026-06-09 | Free, open-source, self-hosted social AI companions with browser chat, memory, personas, and optional Second Life, OpenS |
-| 31 | [agentlas-ai/Hephaestus](https://github.com/agentlas-ai/Hephaestus) | 19 | Python | 2026-06-09 | No-code AI agent builder — turn one sentence into a single agent or a multi-agent team. The engine inside Agentlas. A no |
+| 31 | [agentlas-ai/Hephaestus](https://github.com/agentlas-ai/Hephaestus) | 20 | Python | 2026-06-09 | No-code AI agent builder — turn one sentence into a single agent or a multi-agent team. The engine inside Agentlas. A no |
 | 32 | [sloppy-yeast840/tri-party-framework](https://github.com/sloppy-yeast840/tri-party-framework) | 0 | Shell | 2026-06-09 | Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc |
 | 33 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-06-09 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
 | 34 | [herreravalenz6620/context-compression](https://github.com/herreravalenz6620/context-compression) | 2 | Python | 2026-06-09 | Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents. |
