@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "BryceWDesign/IX",
     "stars": 2,
-    "updated_at": "2026-06-09T01:00:01Z",
+    "updated_at": "2026-06-09T01:12:33Z",
     "url": "https://github.com/BryceWDesign/IX"
+  },
+  {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 9,
+    "updated_at": "2026-06-09T01:09:21Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T01:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "maref-org/maref",
     "stars": 0,
-    "updated_at": "2026-06-09T00:56:41Z",
+    "updated_at": "2026-06-09T01:13:00Z",
     "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17628,
+    "updated_at": "2026-06-09T00:55:22Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
@@ -97,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-09T00:47:01Z",
     "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T00:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T00:28:35Z",
     "url": "https://github.com/Hosk9612/venutian-antfarm"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 1,
-    "updated_at": "2026-06-09T00:27:57Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-06-09T00:27:46Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
   }
 ]
