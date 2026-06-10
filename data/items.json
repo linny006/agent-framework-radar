@@ -1,5 +1,86 @@
 [
   {
+    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 6,
+    "updated_at": "2026-06-10T14:54:23Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17681,
+    "updated_at": "2026-06-10T14:54:11Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
+    "id": "ranxi2001/zero2Agent",
+    "language": "CSS",
+    "name": "ranxi2001/zero2Agent",
+    "stars": 112,
+    "updated_at": "2026-06-10T14:54:07Z",
+    "url": "https://github.com/ranxi2001/zero2Agent"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 238,
+    "updated_at": "2026-06-10T14:50:08Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 9,
+    "updated_at": "2026-06-10T14:49:20Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-10T14:52:57Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T14:45:34Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 8,
+    "updated_at": "2026-06-10T14:50:05Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 101,
+    "updated_at": "2026-06-10T14:49:38Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
     "description": "Multi-agent specification-driven development (SDD) framework for Claude Code",
     "id": "mgallet92i/waterfall",
     "language": "Shell",
@@ -27,24 +108,6 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T14:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-10T14:39:47Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -63,15 +126,6 @@
     "url": "https://github.com/broomva/life"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17680,
-    "updated_at": "2026-06-10T14:42:55Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "No-code AI agent builder \u2014 turn one sentence into a single agent or a multi-agent team. The engine inside Agentlas. A no",
     "id": "agentlas-ai/Hephaestus",
     "language": "Python",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
     "stars": 123,
-    "updated_at": "2026-06-10T14:18:51Z",
+    "updated_at": "2026-06-10T14:55:55Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "mrigankad/Novel-OS",
     "stars": 12,
-    "updated_at": "2026-06-10T14:18:13Z",
+    "updated_at": "2026-06-10T14:58:35Z",
     "url": "https://github.com/mrigankad/Novel-OS"
   },
   {
@@ -122,7 +176,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 9,
-    "updated_at": "2026-06-10T14:16:35Z",
+    "updated_at": "2026-06-10T14:49:01Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -149,7 +203,7 @@
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 1,
-    "updated_at": "2026-06-10T14:14:26Z",
+    "updated_at": "2026-06-10T14:46:40Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
@@ -166,7 +220,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 20740,
+    "stars": 20748,
     "updated_at": "2026-06-10T14:07:44Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -187,15 +241,6 @@
     "stars": 5,
     "updated_at": "2026-06-10T14:03:26Z",
     "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 9,
-    "updated_at": "2026-06-10T13:56:13Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
     "description": "Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability,",
@@ -223,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-06-10T14:44:20Z",
     "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 6,
-    "updated_at": "2026-06-10T14:34:19Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
     "description": "Multi-Agent Reasoning Systems",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-10T12:27:34Z",
     "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:27:19Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins",
-    "id": "Doubleedged-capitaloftennessee462/agentswift",
-    "language": "\u2014",
-    "name": "Doubleedged-capitaloftennessee462/agentswift",
-    "stars": 2,
-    "updated_at": "2026-06-10T12:27:18Z",
-    "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:26:07Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1315,
-    "updated_at": "2026-06-10T12:25:05Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
   }
 ]
