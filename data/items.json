@@ -5,8 +5,80 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 9,
-    "updated_at": "2026-06-10T23:00:12Z",
+    "updated_at": "2026-06-10T23:14:48Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-10T23:12:55Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 0,
+    "updated_at": "2026-06-10T23:11:11Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 101,
+    "updated_at": "2026-06-10T23:09:50Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "Multi-tool AI orchestration that researches its own success criteria before acting, validates them after, and earns auto",
+    "id": "organism-core/organism-core",
+    "language": "Python",
+    "name": "organism-core/organism-core",
+    "stars": 1,
+    "updated_at": "2026-06-10T23:09:05Z",
+    "url": "https://github.com/organism-core/organism-core"
+  },
+  {
+    "description": "Boltrope \u2014 event-sourced AI agent harness in Go + PostgreSQL: durable session log, multi-LLM gateway (Anthropic/Gemini/O",
+    "id": "xd1lab/harness-ai",
+    "language": "Go",
+    "name": "xd1lab/harness-ai",
+    "stars": 0,
+    "updated_at": "2026-06-10T23:07:53Z",
+    "url": "https://github.com/xd1lab/harness-ai"
+  },
+  {
+    "description": "Agents that remember. Open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals bu",
+    "id": "eidentic/eidentic",
+    "language": "TypeScript",
+    "name": "eidentic/eidentic",
+    "stars": 0,
+    "updated_at": "2026-06-10T23:06:45Z",
+    "url": "https://github.com/eidentic/eidentic"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T23:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A personal agent kernel \u2014 memory, safety, and self-maintenance as infrastructure, not prompt text. v1.0 research complet",
+    "id": "5000Stadia/Kernos",
+    "language": "Python",
+    "name": "5000Stadia/Kernos",
+    "stars": 0,
+    "updated_at": "2026-06-10T23:00:05Z",
+    "url": "https://github.com/5000Stadia/Kernos"
   },
   {
     "description": "Define your AI agent team in one YAML file \u2014 get a LangGraph supervisor, a live network UI, an auto-generated MCP server",
@@ -52,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T22:57:54Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T22:57:39Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -117,24 +180,6 @@
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
-    "description": "Boltrope \u2014 event-sourced AI agent harness in Go + PostgreSQL: durable session log, multi-LLM gateway (Anthropic/Gemini/O",
-    "id": "xd1lab/harness-ai",
-    "language": "Go",
-    "name": "xd1lab/harness-ai",
-    "stars": 0,
-    "updated_at": "2026-06-10T22:43:50Z",
-    "url": "https://github.com/xd1lab/harness-ai"
-  },
-  {
-    "description": "Multi-tool AI orchestration that researches its own success criteria before acting, validates them after, and earns auto",
-    "id": "organism-core/organism-core",
-    "language": "Python",
-    "name": "organism-core/organism-core",
-    "stars": 1,
-    "updated_at": "2026-06-10T22:43:17Z",
-    "url": "https://github.com/organism-core/organism-core"
-  },
-  {
     "description": "Local-first Python toolkit for parallel Claude and LLM agent orchestration: consensus voting, stigmergy, boss-worker swa",
     "id": "ellmos-ai/swarm-ai",
     "language": "Python",
@@ -180,15 +225,6 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-10T22:58:46Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
     "id": "inkeep/agents",
     "language": "TypeScript",
@@ -221,7 +257,7 @@
     "language": "Rust",
     "name": "vamsiramakrishnan/gemini-rs",
     "stars": 3,
-    "updated_at": "2026-06-10T22:59:41Z",
+    "updated_at": "2026-06-10T23:05:24Z",
     "url": "https://github.com/vamsiramakrishnan/gemini-rs"
   },
   {
@@ -232,15 +268,6 @@
     "stars": 9,
     "updated_at": "2026-06-10T22:12:16Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 0,
-    "updated_at": "2026-06-10T22:54:13Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 4192,
-    "updated_at": "2026-06-10T20:40:07Z",
+    "updated_at": "2026-06-10T23:10:40Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 20821,
     "updated_at": "2026-06-10T20:36:11Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11228,
-    "updated_at": "2026-06-10T22:37:41Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-10T20:17:01Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
-    "id": "madeinplutofabio/neural-computation-protocol",
-    "language": "Rust",
-    "name": "madeinplutofabio/neural-computation-protocol",
-    "stars": 12,
-    "updated_at": "2026-06-10T20:14:18Z",
-    "url": "https://github.com/madeinplutofabio/neural-computation-protocol"
   }
 ]
