@@ -1,5 +1,86 @@
 [
   {
+    "description": "Cthulhu Mythos-themed agentic harness for Claude Code \u2014 11 Elder God agents, lifecycle hooks, skill system, and multi-ti",
+    "id": "ragingstar2063/oh-my-claudecode",
+    "language": "TypeScript",
+    "name": "ragingstar2063/oh-my-claudecode",
+    "stars": 1,
+    "updated_at": "2026-06-10T15:26:10Z",
+    "url": "https://github.com/ragingstar2063/oh-my-claudecode"
+  },
+  {
+    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
+    "id": "Gald3r-Labs/gald3r",
+    "language": "PowerShell",
+    "name": "Gald3r-Labs/gald3r",
+    "stars": 8,
+    "updated_at": "2026-06-10T15:20:40Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 140,
+    "updated_at": "2026-06-10T15:20:28Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "TypeScript agent orchestration engine built on a Cyclic State Graph. Compound learning across runs, durable execution, M",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 2,
+    "updated_at": "2026-06-10T15:18:40Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 503,
+    "updated_at": "2026-06-10T15:17:22Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T15:15:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 1,
+    "updated_at": "2026-06-10T15:14:50Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 0,
+    "updated_at": "2026-06-10T15:13:33Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-10T15:13:15Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
     "description": "Make AI agent actions authorized, auditable, and replayable not trust-the-prompt. A Rust execution kernel where signed c",
     "id": "gryszzz/open-thymos",
     "language": "Rust",
@@ -9,12 +90,30 @@
     "url": "https://github.com/gryszzz/open-thymos"
   },
   {
+    "description": "Any brain, any agent. Package an AI agent's brain \u2014 persona, MCP stack, skills, memory, config \u2014 into one open, signed b",
+    "id": "RiggdAI/uniqent",
+    "language": "TypeScript",
+    "name": "RiggdAI/uniqent",
+    "stars": 9,
+    "updated_at": "2026-06-10T15:08:59Z",
+    "url": "https://github.com/RiggdAI/uniqent"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 9,
+    "updated_at": "2026-06-10T15:08:04Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
     "id": "JohnnyFiv3r/Core-Memory",
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 18,
-    "updated_at": "2026-06-10T15:07:34Z",
+    "updated_at": "2026-06-10T15:28:50Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -25,6 +124,15 @@
     "stars": 8,
     "updated_at": "2026-06-10T15:06:48Z",
     "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "ShaprAI \u2014 Agent Sharpener by Elyan Labs. Sharpen raw models into principled, self-governing Elyan-class agents. Requires",
+    "id": "Scottcjn/shaprai",
+    "language": "Python",
+    "name": "Scottcjn/shaprai",
+    "stars": 68,
+    "updated_at": "2026-06-10T15:06:40Z",
+    "url": "https://github.com/Scottcjn/shaprai"
   },
   {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
@@ -41,17 +149,8 @@
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
     "stars": 123,
-    "updated_at": "2026-06-10T15:03:54Z",
+    "updated_at": "2026-06-10T15:29:15Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 503,
-    "updated_at": "2026-06-10T15:02:24Z",
-    "url": "https://github.com/aaronjmars/aeon"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -59,26 +158,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-10T15:01:30Z",
+    "updated_at": "2026-06-10T15:21:43Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T15:00:43Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "TypeScript agent orchestration engine built on a Cyclic State Graph. Compound learning across runs, durable execution, M",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 2,
-    "updated_at": "2026-06-10T14:58:50Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
     "description": "Multi-agent AI framework that writes full-length novels with persistent story state, a deterministic continuity engine, ",
@@ -122,7 +203,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 17681,
-    "updated_at": "2026-06-10T15:12:54Z",
+    "updated_at": "2026-06-10T15:18:54Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -130,7 +211,7 @@
     "id": "ranxi2001/zero2Agent",
     "language": "CSS",
     "name": "ranxi2001/zero2Agent",
-    "stars": 112,
+    "stars": 113,
     "updated_at": "2026-06-10T14:54:07Z",
     "url": "https://github.com/ranxi2001/zero2Agent"
   },
@@ -158,7 +239,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 8,
-    "updated_at": "2026-06-10T14:50:05Z",
+    "updated_at": "2026-06-10T15:15:45Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -198,15 +279,6 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 140,
-    "updated_at": "2026-06-10T14:25:15Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
     "id": "broomva/life",
     "language": "Rust",
@@ -220,7 +292,7 @@
     "id": "agentlas-ai/Hephaestus",
     "language": "Python",
     "name": "agentlas-ai/Hephaestus",
-    "stars": 47,
+    "stars": 48,
     "updated_at": "2026-06-10T14:21:05Z",
     "url": "https://github.com/agentlas-ai/Hephaestus"
   },
@@ -230,7 +302,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11221,
-    "updated_at": "2026-06-10T15:09:22Z",
+    "updated_at": "2026-06-10T15:26:39Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -241,15 +313,6 @@
     "stars": 46,
     "updated_at": "2026-06-10T14:16:58Z",
     "url": "https://github.com/MohitGoyal09/AgentForge"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 9,
-    "updated_at": "2026-06-10T15:08:04Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -292,7 +355,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 20752,
+    "stars": 20759,
     "updated_at": "2026-06-10T14:07:44Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -385,68 +448,5 @@
     "stars": 314,
     "updated_at": "2026-06-10T13:08:52Z",
     "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
-  },
-  {
-    "description": "Multi-tool AI orchestration that researches its own success criteria before acting, validates them after, and earns auto",
-    "id": "organism-core/organism-core",
-    "language": "Python",
-    "name": "organism-core/organism-core",
-    "stars": 1,
-    "updated_at": "2026-06-10T13:08:18Z",
-    "url": "https://github.com/organism-core/organism-core"
-  },
-  {
-    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
-    "id": "ChronoAIProject/Ornn",
-    "language": "TypeScript",
-    "name": "ChronoAIProject/Ornn",
-    "stars": 19,
-    "updated_at": "2026-06-10T13:07:03Z",
-    "url": "https://github.com/ChronoAIProject/Ornn"
-  },
-  {
-    "description": "Build Claude Code\u2013style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints",
-    "id": "vstorm-co/pydantic-deepagents",
-    "language": "Python",
-    "name": "vstorm-co/pydantic-deepagents",
-    "stars": 856,
-    "updated_at": "2026-06-10T13:06:24Z",
-    "url": "https://github.com/vstorm-co/pydantic-deepagents"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-10T13:00:04Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "A curated list of 90+ Web3 x AI tools, agent frameworks, protocols, and infrastructure",
-    "id": "edwardtay/awesome-web3-ai",
-    "language": "\u2014",
-    "name": "edwardtay/awesome-web3-ai",
-    "stars": 4,
-    "updated_at": "2026-06-10T12:56:33Z",
-    "url": "https://github.com/edwardtay/awesome-web3-ai"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:51:10Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
-    "id": "BrettMGoughWork/vai-core",
-    "language": "Python",
-    "name": "BrettMGoughWork/vai-core",
-    "stars": 3,
-    "updated_at": "2026-06-10T12:40:42Z",
-    "url": "https://github.com/BrettMGoughWork/vai-core"
   }
 ]
