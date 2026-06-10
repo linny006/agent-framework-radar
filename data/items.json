@@ -1,5 +1,68 @@
 [
   {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 9,
+    "updated_at": "2026-06-10T23:00:12Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Define your AI agent team in one YAML file \u2014 get a LangGraph supervisor, a live network UI, an auto-generated MCP server",
+    "id": "selvaonline/agentpack",
+    "language": "TypeScript",
+    "name": "selvaonline/agentpack",
+    "stars": 0,
+    "updated_at": "2026-06-10T22:59:55Z",
+    "url": "https://github.com/selvaonline/agentpack"
+  },
+  {
+    "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
+    "id": "ebey317/claf",
+    "language": "Python",
+    "name": "ebey317/claf",
+    "stars": 1,
+    "updated_at": "2026-06-10T22:59:53Z",
+    "url": "https://github.com/ebey317/claf"
+  },
+  {
+    "description": "Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cuan",
+    "id": "fxMT-nx/El-Primor",
+    "language": "JavaScript",
+    "name": "fxMT-nx/El-Primor",
+    "stars": 6,
+    "updated_at": "2026-06-10T22:59:40Z",
+    "url": "https://github.com/fxMT-nx/El-Primor"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 1,
+    "updated_at": "2026-06-10T22:59:29Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-10T22:57:54Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T22:57:39Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -9,21 +72,12 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Define your AI agent team in one YAML file \u2014 get a LangGraph supervisor, a live network UI, an auto-generated MCP server",
-    "id": "selvaonline/agentpack",
-    "language": "TypeScript",
-    "name": "selvaonline/agentpack",
-    "stars": 0,
-    "updated_at": "2026-06-10T22:50:57Z",
-    "url": "https://github.com/selvaonline/agentpack"
-  },
-  {
     "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
     "id": "broomva/life",
     "language": "Rust",
     "name": "broomva/life",
     "stars": 1,
-    "updated_at": "2026-06-10T22:46:03Z",
+    "updated_at": "2026-06-10T23:00:11Z",
     "url": "https://github.com/broomva/life"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-06-10T22:45:43Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T22:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -135,21 +180,12 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
-    "id": "ebey317/claf",
-    "language": "Python",
-    "name": "ebey317/claf",
-    "stars": 1,
-    "updated_at": "2026-06-10T22:36:38Z",
-    "url": "https://github.com/ebey317/claf"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-10T22:47:53Z",
+    "updated_at": "2026-06-10T22:58:46Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Rust",
     "name": "vamsiramakrishnan/gemini-rs",
     "stars": 3,
-    "updated_at": "2026-06-10T22:41:49Z",
+    "updated_at": "2026-06-10T22:59:41Z",
     "url": "https://github.com/vamsiramakrishnan/gemini-rs"
   },
   {
@@ -315,15 +351,6 @@
     "url": "https://github.com/jaroslavsoucek-art/Giovanni"
   },
   {
-    "description": "Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cuan",
-    "id": "fxMT-nx/El-Primor",
-    "language": "JavaScript",
-    "name": "fxMT-nx/El-Primor",
-    "stars": 6,
-    "updated_at": "2026-06-10T21:20:42Z",
-    "url": "https://github.com/fxMT-nx/El-Primor"
-  },
-  {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
     "id": "bakw00ds/yakos",
     "language": "Go",
@@ -331,24 +358,6 @@
     "stars": 2,
     "updated_at": "2026-06-10T21:18:00Z",
     "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 1,
-    "updated_at": "2026-06-10T21:15:16Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-10T21:13:02Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
@@ -385,15 +394,6 @@
     "stars": 221,
     "updated_at": "2026-06-10T22:45:37Z",
     "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 9,
-    "updated_at": "2026-06-10T21:45:01Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "Many Agents, one objective... yours ",
