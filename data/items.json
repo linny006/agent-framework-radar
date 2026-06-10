@@ -1,5 +1,59 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-10T22:29:29Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Multi-tool AI orchestration that researches its own success criteria before acting, validates them after, and earns auto",
+    "id": "organism-core/organism-core",
+    "language": "Python",
+    "name": "organism-core/organism-core",
+    "stars": 1,
+    "updated_at": "2026-06-10T22:25:35Z",
+    "url": "https://github.com/organism-core/organism-core"
+  },
+  {
+    "description": "Define your AI agent team in one YAML file \u2014 get a LangGraph supervisor, a live network UI, an auto-generated MCP server",
+    "id": "selvaonline/agentpack",
+    "language": "TypeScript",
+    "name": "selvaonline/agentpack",
+    "stars": 0,
+    "updated_at": "2026-06-10T22:17:47Z",
+    "url": "https://github.com/selvaonline/agentpack"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1193,
+    "updated_at": "2026-06-10T22:20:21Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "Cthulhu Mythos-themed agentic harness for Claude Code \u2014 11 Elder God agents, lifecycle hooks, skill system, and multi-ti",
+    "id": "ragingstar2063/oh-my-claudecode",
+    "language": "TypeScript",
+    "name": "ragingstar2063/oh-my-claudecode",
+    "stars": 1,
+    "updated_at": "2026-06-10T22:16:02Z",
+    "url": "https://github.com/ragingstar2063/oh-my-claudecode"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T22:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Event-sourced persistence for AI agents \u2014 append-only journal, SHA-256 blob store, knowledge graph, memory API. Part of ",
     "id": "broomva/lago",
     "language": "Rust",
@@ -9,22 +63,22 @@
     "url": "https://github.com/broomva/lago"
   },
   {
+    "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
+    "id": "broomva/life",
+    "language": "Rust",
+    "name": "broomva/life",
+    "stars": 1,
+    "updated_at": "2026-06-10T22:19:21Z",
+    "url": "https://github.com/broomva/life"
+  },
+  {
     "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
     "id": "vamsiramakrishnan/gemini-rs",
     "language": "Rust",
     "name": "vamsiramakrishnan/gemini-rs",
     "stars": 3,
-    "updated_at": "2026-06-10T22:12:00Z",
+    "updated_at": "2026-06-10T22:21:59Z",
     "url": "https://github.com/vamsiramakrishnan/gemini-rs"
-  },
-  {
-    "description": "Define your AI agent team in one YAML file \u2014 get a LangGraph supervisor, a live network UI, an auto-generated MCP server",
-    "id": "selvaonline/agentpack",
-    "language": "TypeScript",
-    "name": "selvaonline/agentpack",
-    "stars": 0,
-    "updated_at": "2026-06-10T22:11:46Z",
-    "url": "https://github.com/selvaonline/agentpack"
   },
   {
     "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
@@ -54,15 +108,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Cthulhu Mythos-themed agentic harness for Claude Code \u2014 11 Elder God agents, lifecycle hooks, skill system, and multi-ti",
-    "id": "ragingstar2063/oh-my-claudecode",
-    "language": "TypeScript",
-    "name": "ragingstar2063/oh-my-claudecode",
-    "stars": 1,
-    "updated_at": "2026-06-10T22:04:17Z",
-    "url": "https://github.com/ragingstar2063/oh-my-claudecode"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -70,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T22:01:58Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T22:00:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
-    "id": "broomva/life",
-    "language": "Rust",
-    "name": "broomva/life",
-    "stars": 1,
-    "updated_at": "2026-06-10T22:14:02Z",
-    "url": "https://github.com/broomva/life"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -243,15 +270,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-10T22:03:20Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Agentic LLM Vulnerability Scanner / AI red teaming kit \ud83e\uddea",
     "id": "msoedov/agentic_security",
     "language": "Python",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 221,
-    "updated_at": "2026-06-10T21:58:32Z",
+    "updated_at": "2026-06-10T22:28:45Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -292,7 +310,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4190,
+    "stars": 4191,
     "updated_at": "2026-06-10T20:40:07Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -301,7 +319,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 20817,
+    "stars": 20818,
     "updated_at": "2026-06-10T20:36:11Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -430,23 +448,5 @@
     "stars": 16,
     "updated_at": "2026-06-10T19:44:13Z",
     "url": "https://github.com/gryszzz/open-thymos"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 504,
-    "updated_at": "2026-06-10T19:39:51Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 18,
-    "updated_at": "2026-06-10T19:27:29Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   }
 ]
