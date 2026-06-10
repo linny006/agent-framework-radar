@@ -1,12 +1,66 @@
 [
   {
-    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 6,
-    "updated_at": "2026-06-10T00:15:14Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-10T00:29:40Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Make AI agent actions authorized, auditable, and replayable not trust-the-prompt. A Rust execution kernel where signed c",
+    "id": "gryszzz/open-thymos",
+    "language": "Rust",
+    "name": "gryszzz/open-thymos",
+    "stars": 14,
+    "updated_at": "2026-06-10T00:28:51Z",
+    "url": "https://github.com/gryszzz/open-thymos"
+  },
+  {
+    "description": "A curated list of AI agent platforms, frameworks, protocols, tools, and resources",
+    "id": "Scottcjn/awesome-agents",
+    "language": "\u2014",
+    "name": "Scottcjn/awesome-agents",
+    "stars": 89,
+    "updated_at": "2026-06-10T00:24:19Z",
+    "url": "https://github.com/Scottcjn/awesome-agents"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 20336,
+    "updated_at": "2026-06-10T00:22:02Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83e\udde0 8 KI-Agenten lokal orchestrieren \u2013 ohne Cloud. FastAPI, DeepSeek, SQLite-Message-Queue, FAISS-Embeddings, Gatekeeper-S",
+    "id": "landjunge/gnom-hub",
+    "language": "Python",
+    "name": "landjunge/gnom-hub",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:29:48Z",
+    "url": "https://github.com/landjunge/gnom-hub"
+  },
+  {
+    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
+    "id": "garyqlin/gbase",
+    "language": "Python",
+    "name": "garyqlin/gbase",
+    "stars": 118,
+    "updated_at": "2026-06-10T00:21:12Z",
+    "url": "https://github.com/garyqlin/gbase"
+  },
+  {
+    "description": "Personal Agent OS for coding, creator workflows, mastery learning, memory, and safe automation",
+    "id": "luckyLo99/Cathay-Agent",
+    "language": "Python",
+    "name": "luckyLo99/Cathay-Agent",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:20:56Z",
+    "url": "https://github.com/luckyLo99/Cathay-Agent"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -14,8 +68,44 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-06-10T00:14:54Z",
+    "updated_at": "2026-06-10T00:26:43Z",
     "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:16:34Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:15:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 5,
+    "updated_at": "2026-06-10T00:15:33Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 6,
+    "updated_at": "2026-06-10T00:15:14Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
     "description": "TypeScript agent orchestration engine built on a Cyclic State Graph. Compound learning across runs, durable execution, M",
@@ -50,17 +140,8 @@
     "language": "Python",
     "name": "rllm-org/rllm",
     "stars": 5604,
-    "updated_at": "2026-06-10T00:11:27Z",
+    "updated_at": "2026-06-10T00:27:17Z",
     "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "\ud83e\udde0 8 KI-Agenten lokal orchestrieren \u2013 ohne Cloud. FastAPI, DeepSeek, SQLite-Message-Queue, FAISS-Embeddings, Gatekeeper-S",
-    "id": "landjunge/gnom-hub",
-    "language": "Python",
-    "name": "landjunge/gnom-hub",
-    "stars": 0,
-    "updated_at": "2026-06-10T00:07:42Z",
-    "url": "https://github.com/landjunge/gnom-hub"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -81,33 +162,6 @@
     "url": "https://github.com/aedrondouren/Byte"
   },
   {
-    "description": "Make AI agent actions authorized, auditable, and replayable not trust-the-prompt. A Rust execution kernel where signed c",
-    "id": "gryszzz/open-thymos",
-    "language": "Rust",
-    "name": "gryszzz/open-thymos",
-    "stars": 14,
-    "updated_at": "2026-06-10T00:14:38Z",
-    "url": "https://github.com/gryszzz/open-thymos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T00:06:03Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 20333,
-    "updated_at": "2026-06-10T00:14:59Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -124,15 +178,6 @@
     "stars": 4,
     "updated_at": "2026-06-10T00:00:49Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-09T23:58:39Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "backup of hermes-agent",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 4159,
-    "updated_at": "2026-06-09T23:50:00Z",
+    "updated_at": "2026-06-10T00:28:35Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 9,
-    "updated_at": "2026-06-10T00:03:22Z",
+    "updated_at": "2026-06-10T00:23:55Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-06-09T23:33:26Z",
     "url": "https://github.com/BrettMGoughWork/vai-core"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 5,
-    "updated_at": "2026-06-10T00:15:14Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
     "description": "A knowledge cycle for AI agents \u2014 one that grows with the people who shape it. Centered on the scarcity of human attenti",
@@ -279,6 +315,15 @@
     "url": "https://github.com/erain/glue"
   },
   {
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+    "id": "GammaLabTechnologies/harmonist",
+    "language": "Python",
+    "name": "GammaLabTechnologies/harmonist",
+    "stars": 1741,
+    "updated_at": "2026-06-09T23:15:07Z",
+    "url": "https://github.com/GammaLabTechnologies/harmonist"
+  },
+  {
     "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
     "id": "sipyourdrink-ltd/bernstein",
     "language": "Python",
@@ -286,15 +331,6 @@
     "stars": 566,
     "updated_at": "2026-06-09T23:13:01Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
-  },
-  {
-    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-    "id": "GammaLabTechnologies/harmonist",
-    "language": "Python",
-    "name": "GammaLabTechnologies/harmonist",
-    "stars": 1740,
-    "updated_at": "2026-06-09T23:15:07Z",
-    "url": "https://github.com/GammaLabTechnologies/harmonist"
   },
   {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-09T23:03:40Z",
     "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:01:34Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:00:36Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:00:36Z",
-    "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:00:17Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
   }
 ]
