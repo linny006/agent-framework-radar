@@ -1,12 +1,30 @@
 [
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 65,
-    "updated_at": "2026-06-10T22:29:29Z",
-    "url": "https://github.com/JKHeadley/instar"
+    "name": "footprintjs/agentfootprint",
+    "stars": 9,
+    "updated_at": "2026-06-10T22:43:57Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 107,
+    "updated_at": "2026-06-10T22:43:52Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "Boltrope \u2014 event-sourced AI agent harness in Go + PostgreSQL: durable session log, multi-LLM gateway (Anthropic/Gemini/O",
+    "id": "xd1lab/harness-ai",
+    "language": "Go",
+    "name": "xd1lab/harness-ai",
+    "stars": 0,
+    "updated_at": "2026-06-10T22:43:50Z",
+    "url": "https://github.com/xd1lab/harness-ai"
   },
   {
     "description": "Multi-tool AI orchestration that researches its own success criteria before acting, validates them after, and earns auto",
@@ -14,8 +32,80 @@
     "language": "Python",
     "name": "organism-core/organism-core",
     "stars": 1,
-    "updated_at": "2026-06-10T22:25:35Z",
+    "updated_at": "2026-06-10T22:43:17Z",
     "url": "https://github.com/organism-core/organism-core"
+  },
+  {
+    "description": "Local-first Python toolkit for parallel Claude and LLM agent orchestration: consensus voting, stigmergy, boss-worker swa",
+    "id": "ellmos-ai/swarm-ai",
+    "language": "Python",
+    "name": "ellmos-ai/swarm-ai",
+    "stars": 1,
+    "updated_at": "2026-06-10T22:41:41Z",
+    "url": "https://github.com/ellmos-ai/swarm-ai"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 9,
+    "updated_at": "2026-06-10T22:39:05Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 1,
+    "updated_at": "2026-06-10T22:38:08Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "Build Claude Code\u2013style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints",
+    "id": "vstorm-co/pydantic-deepagents",
+    "language": "Python",
+    "name": "vstorm-co/pydantic-deepagents",
+    "stars": 857,
+    "updated_at": "2026-06-10T22:39:20Z",
+    "url": "https://github.com/vstorm-co/pydantic-deepagents"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-10T22:36:51Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
+    "id": "ebey317/claf",
+    "language": "Python",
+    "name": "ebey317/claf",
+    "stars": 1,
+    "updated_at": "2026-06-10T22:36:38Z",
+    "url": "https://github.com/ebey317/claf"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 65,
+    "updated_at": "2026-06-10T22:32:48Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T22:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Define your AI agent team in one YAML file \u2014 get a LangGraph supervisor, a live network UI, an auto-generated MCP server",
@@ -45,15 +135,6 @@
     "url": "https://github.com/ragingstar2063/oh-my-claudecode"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T22:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Event-sourced persistence for AI agents \u2014 append-only journal, SHA-256 blob store, knowledge graph, memory API. Part of ",
     "id": "broomva/lago",
     "language": "Rust",
@@ -77,7 +158,7 @@
     "language": "Rust",
     "name": "vamsiramakrishnan/gemini-rs",
     "stars": 3,
-    "updated_at": "2026-06-10T22:21:59Z",
+    "updated_at": "2026-06-10T22:41:49Z",
     "url": "https://github.com/vamsiramakrishnan/gemini-rs"
   },
   {
@@ -95,7 +176,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 0,
-    "updated_at": "2026-06-10T22:08:43Z",
+    "updated_at": "2026-06-10T22:34:48Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -252,15 +333,6 @@
     "url": "https://github.com/shyftlabs/continuum"
   },
   {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 9,
-    "updated_at": "2026-06-10T21:08:02Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -319,7 +391,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 20818,
+    "stars": 20820,
     "updated_at": "2026-06-10T20:36:11Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -329,7 +401,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11228,
-    "updated_at": "2026-06-10T20:33:31Z",
+    "updated_at": "2026-06-10T22:37:41Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-10T20:07:11Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Agentic OS done right \u2014 create agents, chat, delegate work, stay safe. Self-hosted control plane with pluggable memory, ",
-    "id": "fpytloun/cognis",
-    "language": "Python",
-    "name": "fpytloun/cognis",
-    "stars": 7,
-    "updated_at": "2026-06-10T20:07:01Z",
-    "url": "https://github.com/fpytloun/cognis"
-  },
-  {
-    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
-    "id": "motojinc25/chatwalaau",
-    "language": "Python",
-    "name": "motojinc25/chatwalaau",
-    "stars": 2,
-    "updated_at": "2026-06-10T19:57:14Z",
-    "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
-    "id": "ellmos-ai/MarbleRun",
-    "language": "Python",
-    "name": "ellmos-ai/MarbleRun",
-    "stars": 1,
-    "updated_at": "2026-06-10T19:55:44Z",
-    "url": "https://github.com/ellmos-ai/MarbleRun"
-  },
-  {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
-    "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 101,
-    "updated_at": "2026-06-10T19:55:08Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
-    "description": "Autonomous AI agent runtime \u2014 TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co",
-    "id": "erayendes/kortext",
-    "language": "TypeScript",
-    "name": "erayendes/kortext",
-    "stars": 2,
-    "updated_at": "2026-06-10T19:53:33Z",
-    "url": "https://github.com/erayendes/kortext"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-10T19:50:12Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Agents that remember. Open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals bu",
-    "id": "eidentic/eidentic",
-    "language": "TypeScript",
-    "name": "eidentic/eidentic",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:48:31Z",
-    "url": "https://github.com/eidentic/eidentic"
-  },
-  {
-    "description": "Make AI agent actions authorized, auditable, and replayable not trust-the-prompt. A Rust execution kernel where signed c",
-    "id": "gryszzz/open-thymos",
-    "language": "Rust",
-    "name": "gryszzz/open-thymos",
-    "stars": 16,
-    "updated_at": "2026-06-10T19:44:13Z",
-    "url": "https://github.com/gryszzz/open-thymos"
   }
 ]
