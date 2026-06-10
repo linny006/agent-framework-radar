@@ -1,5 +1,50 @@
 [
   {
+    "description": "Multi-agent specification-driven development (SDD) framework for Claude Code",
+    "id": "mgallet92i/waterfall",
+    "language": "Shell",
+    "name": "mgallet92i/waterfall",
+    "stars": 2,
+    "updated_at": "2026-06-10T14:40:13Z",
+    "url": "https://github.com/mgallet92i/waterfall"
+  },
+  {
+    "description": "\ud83e\udde0 Self-evolving 10-agent stack for one-person companies. Cron + eval + reflexion + skill library. MIT.",
+    "id": "alex-jb/solo-founder-os",
+    "language": "Python",
+    "name": "alex-jb/solo-founder-os",
+    "stars": 1,
+    "updated_at": "2026-06-10T14:34:15Z",
+    "url": "https://github.com/alex-jb/solo-founder-os"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-10T14:31:57Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T14:30:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-10T14:39:47Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 17680,
-    "updated_at": "2026-06-10T14:22:12Z",
+    "updated_at": "2026-06-10T14:42:55Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -99,15 +144,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T14:15:36Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
     "id": "qmilab/asterism",
     "language": "TypeScript",
@@ -130,7 +166,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 20733,
+    "stars": 20740,
     "updated_at": "2026-06-10T14:07:44Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -185,7 +221,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 2,
-    "updated_at": "2026-06-10T13:50:43Z",
+    "updated_at": "2026-06-10T14:44:20Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Shell",
     "name": "ek33450505/claude-agent-team",
     "stars": 6,
-    "updated_at": "2026-06-10T13:45:10Z",
+    "updated_at": "2026-06-10T14:34:19Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
@@ -283,7 +319,7 @@
     "id": "vstorm-co/pydantic-deepagents",
     "language": "Python",
     "name": "vstorm-co/pydantic-deepagents",
-    "stars": 855,
+    "stars": 856,
     "updated_at": "2026-06-10T13:06:24Z",
     "url": "https://github.com/vstorm-co/pydantic-deepagents"
   },
@@ -304,15 +340,6 @@
     "stars": 4,
     "updated_at": "2026-06-10T12:56:33Z",
     "url": "https://github.com/edwardtay/awesome-web3-ai"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-10T14:25:59Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -421,32 +448,5 @@
     "stars": 1315,
     "updated_at": "2026-06-10T12:25:05Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:24:51Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:24:24Z",
-    "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:24:19Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
   }
 ]
