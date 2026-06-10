@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI Chief of Staff methodology for Claude Code. Memory \u00b7 daily digest \u00b7 predictive layer with anti-self-fulfilling invisi",
+    "id": "jaroslavsoucek-art/Giovanni",
+    "language": "Python",
+    "name": "jaroslavsoucek-art/Giovanni",
+    "stars": 1,
+    "updated_at": "2026-06-10T21:29:36Z",
+    "url": "https://github.com/jaroslavsoucek-art/Giovanni"
+  },
+  {
+    "description": "Define your AI agent team in one YAML file \u2014 get a LangGraph supervisor, a live network UI, an auto-generated MCP server",
+    "id": "selvaonline/agentpack",
+    "language": "TypeScript",
+    "name": "selvaonline/agentpack",
+    "stars": 0,
+    "updated_at": "2026-06-10T21:27:39Z",
+    "url": "https://github.com/selvaonline/agentpack"
+  },
+  {
+    "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
+    "id": "vzwjustin/advisor",
+    "language": "Python",
+    "name": "vzwjustin/advisor",
+    "stars": 7,
+    "updated_at": "2026-06-10T21:24:02Z",
+    "url": "https://github.com/vzwjustin/advisor"
+  },
+  {
+    "description": "Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cuan",
+    "id": "fxMT-nx/El-Primor",
+    "language": "JavaScript",
+    "name": "fxMT-nx/El-Primor",
+    "stars": 6,
+    "updated_at": "2026-06-10T21:20:42Z",
+    "url": "https://github.com/fxMT-nx/El-Primor"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-10T21:18:00Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T21:15:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -18,15 +72,6 @@
     "url": "https://github.com/ragingstar2063/oh-my-claudecode"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T21:13:46Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -41,26 +86,8 @@
     "language": "Python",
     "name": "shyftlabs/continuum",
     "stars": 73,
-    "updated_at": "2026-06-10T21:11:06Z",
+    "updated_at": "2026-06-10T21:29:50Z",
     "url": "https://github.com/shyftlabs/continuum"
-  },
-  {
-    "description": "Define your AI agent team in one YAML file \u2014 get a LangGraph supervisor, a live network UI, an auto-generated MCP server",
-    "id": "selvaonline/agentpack",
-    "language": "TypeScript",
-    "name": "selvaonline/agentpack",
-    "stars": 0,
-    "updated_at": "2026-06-10T21:09:31Z",
-    "url": "https://github.com/selvaonline/agentpack"
-  },
-  {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-10T21:08:57Z",
-    "url": "https://github.com/bakw00ds/yakos"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -70,15 +97,6 @@
     "stars": 9,
     "updated_at": "2026-06-10T21:08:02Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
-    "id": "vzwjustin/advisor",
-    "language": "Python",
-    "name": "vzwjustin/advisor",
-    "stars": 7,
-    "updated_at": "2026-06-10T21:11:03Z",
-    "url": "https://github.com/vzwjustin/advisor"
   },
   {
     "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
@@ -95,7 +113,7 @@
     "language": "Shell",
     "name": "dryvist/ai-assistant-instructions",
     "stars": 9,
-    "updated_at": "2026-06-10T21:05:30Z",
+    "updated_at": "2026-06-10T21:28:20Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 221,
-    "updated_at": "2026-06-10T21:13:23Z",
+    "updated_at": "2026-06-10T21:17:45Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "broomva/life",
     "stars": 1,
-    "updated_at": "2026-06-10T20:54:06Z",
+    "updated_at": "2026-06-10T21:28:27Z",
     "url": "https://github.com/broomva/life"
   },
   {
@@ -167,7 +185,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-06-10T21:14:40Z",
+    "updated_at": "2026-06-10T21:19:15Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -184,7 +202,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 20814,
+    "stars": 20815,
     "updated_at": "2026-06-10T20:36:11Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -373,7 +391,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17679,
+    "stars": 17680,
     "updated_at": "2026-06-10T19:13:33Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T18:45:39Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-10T18:42:35Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:41:08Z",
-    "url": "https://github.com/Smita6756/Hbrain"
   }
 ]
