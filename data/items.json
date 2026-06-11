@@ -1,5 +1,86 @@
 [
   {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-11T02:28:25Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
+    "id": "0bserver07/chimera",
+    "language": "Python",
+    "name": "0bserver07/chimera",
+    "stars": 1,
+    "updated_at": "2026-06-11T02:27:11Z",
+    "url": "https://github.com/0bserver07/chimera"
+  },
+  {
+    "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
+    "id": "ebey317/claf",
+    "language": "Python",
+    "name": "ebey317/claf",
+    "stars": 1,
+    "updated_at": "2026-06-11T02:24:35Z",
+    "url": "https://github.com/ebey317/claf"
+  },
+  {
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
+    "language": "Python",
+    "name": "rllm-org/rllm",
+    "stars": 5606,
+    "updated_at": "2026-06-11T02:22:12Z",
+    "url": "https://github.com/rllm-org/rllm"
+  },
+  {
+    "description": "\u8f7b\u91cf\u7ea7\u6a21\u5757\u5316AI Agent\u5f00\u53d1\u5e73\u53f0\uff0c\u57fa\u4e8eFastAPI\u6784\u5efa\uff0c\u5185\u7f6e\u81ea\u7814\u5de5\u4f5c\u6d41\u5f15\u64ce",
+    "id": "CodeMoss24/Hify",
+    "language": "Python",
+    "name": "CodeMoss24/Hify",
+    "stars": 1,
+    "updated_at": "2026-06-11T02:21:38Z",
+    "url": "https://github.com/CodeMoss24/Hify"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 9,
+    "updated_at": "2026-06-11T02:19:30Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 0,
+    "updated_at": "2026-06-11T02:19:03Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Multi-agent system built with Claude and MCP featuring 7 specialized agents (chatbot, security researcher, business advi",
+    "id": "brooksmcmillin/agents",
+    "language": "Python",
+    "name": "brooksmcmillin/agents",
+    "stars": 2,
+    "updated_at": "2026-06-11T02:16:26Z",
+    "url": "https://github.com/brooksmcmillin/agents"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T02:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Define your AI agent team in one YAML file \u2014 get a LangGraph supervisor, a live network UI, an auto-generated MCP server",
     "id": "selvaonline/agentpack",
     "language": "TypeScript",
@@ -13,18 +94,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 20867,
+    "stars": 20879,
     "updated_at": "2026-06-11T02:12:20Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 9,
-    "updated_at": "2026-06-11T02:14:41Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
   },
   {
     "description": "Search, understand, reproduce, and improve an idea with ease",
@@ -40,7 +112,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8486,
+    "stars": 8488,
     "updated_at": "2026-06-11T02:08:35Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -61,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T02:02:51Z",
     "url": "https://github.com/ungrav/antigravity-ultra"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T02:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "\u8f7b\u91cf\u7ea7\u6a21\u5757\u5316AI Agent\u5f00\u53d1\u5e73\u53f0\uff0c\u57fa\u4e8eFastAPI\u6784\u5efa\uff0c\u5185\u7f6e\u81ea\u7814\u5de5\u4f5c\u6d41\u5f15\u64ce",
-    "id": "CodeMoss24/Hify",
-    "language": "Python",
-    "name": "CodeMoss24/Hify",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:57:43Z",
-    "url": "https://github.com/CodeMoss24/Hify"
   },
   {
     "description": "AI-guided onboarding for human-AI collaboration projects",
@@ -115,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-06-11T01:49:30Z",
     "url": "https://github.com/jkraybill/gordo-roundtable"
-  },
-  {
-    "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
-    "id": "ebey317/claf",
-    "language": "Python",
-    "name": "ebey317/claf",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:48:57Z",
-    "url": "https://github.com/ebey317/claf"
   },
   {
     "description": "Core agent runtime \u2014 event loop, LLM providers (Anthropic, OpenAI), capability system, TUI. Part of the Life Agent OS.",
@@ -176,7 +221,7 @@
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 1,
-    "updated_at": "2026-06-11T02:13:23Z",
+    "updated_at": "2026-06-11T02:28:35Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
@@ -369,15 +414,6 @@
     "url": "https://github.com/brushworkoilpressure365/oh-my-code"
   },
   {
-    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
-    "id": "0bserver07/chimera",
-    "language": "Python",
-    "name": "0bserver07/chimera",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:28:31Z",
-    "url": "https://github.com/0bserver07/chimera"
-  },
-  {
     "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
     "id": "berrettabadger966/genesis-pantheon",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T01:22:31Z",
     "url": "https://github.com/maxmoran23/Claude-Agent-Fleet"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:22:25Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-06-11T02:02:23Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 73,
-    "updated_at": "2026-06-11T01:22:18Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Team AI agent built on Hermes Agent \u2014 Feishu-native, per-user memory isolation, layered skills, embedded RAG knowledge r",
-    "id": "heartenQ/hermes-org",
-    "language": "Python",
-    "name": "heartenQ/hermes-org",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:21:42Z",
-    "url": "https://github.com/heartenQ/hermes-org"
   }
 ]
