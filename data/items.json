@@ -1,12 +1,84 @@
 [
   {
+    "description": "Production-ready Python framework for AI agents with built-in guardrails, audit logging, cost tracking, and hybrid RAG. ",
+    "id": "johnnichev/selectools",
+    "language": "Python",
+    "name": "johnnichev/selectools",
+    "stars": 9,
+    "updated_at": "2026-06-10T23:59:32Z",
+    "url": "https://github.com/johnnichev/selectools"
+  },
+  {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
     "id": "VisionaireLabs/Visionaire",
     "language": "TypeScript",
     "name": "VisionaireLabs/Visionaire",
     "stars": 2,
-    "updated_at": "2026-06-10T23:45:04Z",
+    "updated_at": "2026-06-10T23:59:15Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "TypeScript agent orchestration engine built on a Cyclic State Graph. Compound learning across runs, durable execution, M",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 2,
+    "updated_at": "2026-06-10T23:58:16Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "PROMPT\u2122 is a human-first framework for structuring AI prompts and human-AI interactions.  Beneath its approachable surfa",
+    "id": "Tess600/PROMPT",
+    "language": "HTML",
+    "name": "Tess600/PROMPT",
+    "stars": 5,
+    "updated_at": "2026-06-10T23:56:56Z",
+    "url": "https://github.com/Tess600/PROMPT"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-06-10T23:55:11Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 9,
+    "updated_at": "2026-06-10T23:53:52Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 2,
+    "updated_at": "2026-06-10T23:53:09Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 0,
+    "updated_at": "2026-06-10T23:53:13Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-06-10T23:51:24Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -14,8 +86,35 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-06-10T23:44:10Z",
+    "updated_at": "2026-06-10T23:50:20Z",
     "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 5,
+    "updated_at": "2026-06-10T23:48:33Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
+    "id": "broomva/life",
+    "language": "Rust",
+    "name": "broomva/life",
+    "stars": 1,
+    "updated_at": "2026-06-10T23:45:42Z",
+    "url": "https://github.com/broomva/life"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T23:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -23,7 +122,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-10T23:43:16Z",
+    "updated_at": "2026-06-10T23:57:09Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -90,40 +189,13 @@
     "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
   },
   {
-    "description": "TypeScript agent orchestration engine built on a Cyclic State Graph. Compound learning across runs, durable execution, M",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 2,
-    "updated_at": "2026-06-10T23:39:42Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
-  },
-  {
-    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 0,
-    "updated_at": "2026-06-10T23:34:46Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
     "description": "Multi-agent orchestration system for Claude Code \u2014 intelligent planning, delegation, and governance for complex software",
     "id": "DaveGerson/agent-baton",
     "language": "Python",
     "name": "DaveGerson/agent-baton",
     "stars": 1,
-    "updated_at": "2026-06-10T23:31:29Z",
+    "updated_at": "2026-06-10T23:45:43Z",
     "url": "https://github.com/DaveGerson/agent-baton"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T23:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -158,7 +230,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 65,
-    "updated_at": "2026-06-10T23:38:32Z",
+    "updated_at": "2026-06-10T23:52:21Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -167,7 +239,7 @@
     "language": "Python",
     "name": "luckyLo99/Cathay-Agent",
     "stars": 0,
-    "updated_at": "2026-06-10T23:28:34Z",
+    "updated_at": "2026-06-10T23:50:23Z",
     "url": "https://github.com/luckyLo99/Cathay-Agent"
   },
   {
@@ -196,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T23:21:45Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
-    "id": "broomva/life",
-    "language": "Rust",
-    "name": "broomva/life",
-    "stars": 1,
-    "updated_at": "2026-06-10T23:29:01Z",
-    "url": "https://github.com/broomva/life"
   },
   {
     "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
@@ -329,7 +392,7 @@
     "language": "TypeScript",
     "name": "footprintjs/agentfootprint",
     "stars": 9,
-    "updated_at": "2026-06-10T22:43:57Z",
+    "updated_at": "2026-06-10T23:58:33Z",
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
@@ -360,15 +423,6 @@
     "url": "https://github.com/vstorm-co/pydantic-deepagents"
   },
   {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 9,
-    "updated_at": "2026-06-10T23:36:15Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
-  },
-  {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
     "id": "Sanga1032/fullstack-mcp-playground",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-10T22:36:51Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1194,
-    "updated_at": "2026-06-10T22:20:21Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "Cthulhu Mythos-themed agentic harness for Claude Code \u2014 11 Elder God agents, lifecycle hooks, skill system, and multi-ti",
-    "id": "ragingstar2063/oh-my-claudecode",
-    "language": "TypeScript",
-    "name": "ragingstar2063/oh-my-claudecode",
-    "stars": 1,
-    "updated_at": "2026-06-10T22:16:02Z",
-    "url": "https://github.com/ragingstar2063/oh-my-claudecode"
-  },
-  {
-    "description": "Event-sourced persistence for AI agents \u2014 append-only journal, SHA-256 blob store, knowledge graph, memory API. Part of ",
-    "id": "broomva/lago",
-    "language": "Rust",
-    "name": "broomva/lago",
-    "stars": 2,
-    "updated_at": "2026-06-10T22:14:14Z",
-    "url": "https://github.com/broomva/lago"
-  },
-  {
-    "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
-    "id": "vamsiramakrishnan/gemini-rs",
-    "language": "Rust",
-    "name": "vamsiramakrishnan/gemini-rs",
-    "stars": 3,
-    "updated_at": "2026-06-10T23:18:51Z",
-    "url": "https://github.com/vamsiramakrishnan/gemini-rs"
-  },
-  {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-06-10T22:12:16Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-10T22:07:04Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   }
 ]
