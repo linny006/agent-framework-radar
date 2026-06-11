@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
+    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
+    "id": "firatcand/roster",
+    "language": "TypeScript",
+    "name": "firatcand/roster",
+    "stars": 13,
+    "updated_at": "2026-06-11T16:42:39Z",
+    "url": "https://github.com/firatcand/roster"
+  },
+  {
+    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
+    "id": "0bserver07/chimera",
     "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17698,
-    "updated_at": "2026-06-11T16:29:53Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
+    "name": "0bserver07/chimera",
+    "stars": 1,
+    "updated_at": "2026-06-11T16:36:51Z",
+    "url": "https://github.com/0bserver07/chimera"
   },
   {
     "description": "\ud83c\udfc6 Ranked list of 100+ agent harnesses. Scored and updated weekly.",
@@ -14,8 +23,35 @@
     "language": "Python",
     "name": "RyanAlberts/best-of-Agent-Harnesses",
     "stars": 92,
-    "updated_at": "2026-06-11T16:28:54Z",
+    "updated_at": "2026-06-11T16:45:33Z",
     "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:30:40Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A personal agent that writes its own tools and repairs itself \u2014 Make AI actually work for you.",
+    "id": "pardnchiu/Agenvoy",
+    "language": "Go",
+    "name": "pardnchiu/Agenvoy",
+    "stars": 205,
+    "updated_at": "2026-06-11T16:30:21Z",
+    "url": "https://github.com/pardnchiu/Agenvoy"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17698,
+    "updated_at": "2026-06-11T16:29:53Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -36,20 +72,11 @@
     "url": "https://github.com/codeking-ai/cligate"
   },
   {
-    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
-    "id": "0bserver07/chimera",
-    "language": "Python",
-    "name": "0bserver07/chimera",
-    "stars": 1,
-    "updated_at": "2026-06-11T16:27:39Z",
-    "url": "https://github.com/0bserver07/chimera"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21190,
+    "stars": 21192,
     "updated_at": "2026-06-11T16:25:52Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -99,15 +126,6 @@
     "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:15:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
     "id": "bakw00ds/yakos",
     "language": "Go",
@@ -139,7 +157,7 @@
     "id": "aaronjmars/aeon",
     "language": "TypeScript",
     "name": "aaronjmars/aeon",
-    "stars": 507,
+    "stars": 508,
     "updated_at": "2026-06-11T16:10:20Z",
     "url": "https://github.com/aaronjmars/aeon"
   },
@@ -203,7 +221,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-06-11T16:26:10Z",
+    "updated_at": "2026-06-11T16:41:58Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Rust",
     "name": "broomva/life",
     "stars": 1,
-    "updated_at": "2026-06-11T16:25:02Z",
+    "updated_at": "2026-06-11T16:36:43Z",
     "url": "https://github.com/broomva/life"
   },
   {
@@ -221,17 +239,8 @@
     "language": "Rust",
     "name": "gryszzz/open-thymos",
     "stars": 16,
-    "updated_at": "2026-06-11T15:57:56Z",
+    "updated_at": "2026-06-11T16:38:45Z",
     "url": "https://github.com/gryszzz/open-thymos"
-  },
-  {
-    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
-    "id": "firatcand/roster",
-    "language": "TypeScript",
-    "name": "firatcand/roster",
-    "stars": 13,
-    "updated_at": "2026-06-11T15:53:57Z",
-    "url": "https://github.com/firatcand/roster"
   },
   {
     "description": "Truth-grounded execution protocol for AI agents",
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11256,
-    "updated_at": "2026-06-11T15:44:42Z",
+    "updated_at": "2026-06-11T16:42:11Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "johnnichev/selectools",
     "stars": 9,
-    "updated_at": "2026-06-11T15:41:31Z",
+    "updated_at": "2026-06-11T16:42:21Z",
     "url": "https://github.com/johnnichev/selectools"
   },
   {
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-11T16:13:14Z",
+    "updated_at": "2026-06-11T16:36:22Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 238,
     "updated_at": "2026-06-11T15:00:11Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-06-11T14:59:28Z",
-    "url": "https://github.com/Liny9941/projectsmd"
   }
 ]
