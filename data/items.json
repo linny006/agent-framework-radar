@@ -1,21 +1,129 @@
 [
   {
-    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
-    "id": "mj-deving/omniweb-agents",
-    "language": "TypeScript",
-    "name": "mj-deving/omniweb-agents",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:29:32Z",
-    "url": "https://github.com/mj-deving/omniweb-agents"
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 107,
+    "updated_at": "2026-06-11T08:43:57Z",
+    "url": "https://github.com/Insajin/autopus-adk"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21043,
-    "updated_at": "2026-06-11T08:29:49Z",
+    "stars": 21048,
+    "updated_at": "2026-06-11T08:42:32Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 152,
+    "updated_at": "2026-06-11T08:41:44Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:39:33Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 2,
+    "updated_at": "2026-06-11T08:39:02Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "Agents that remember. Open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals bu",
+    "id": "eidentic/eidentic",
+    "language": "TypeScript",
+    "name": "eidentic/eidentic",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:37:32Z",
+    "url": "https://github.com/eidentic/eidentic"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 15,
+    "updated_at": "2026-06-11T08:36:25Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "ellmos-ai organization profile and complete public repo index for local-first LLM operating systems, agent infrastructur",
+    "id": "ellmos-ai/.github",
+    "language": "\u2014",
+    "name": "ellmos-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:35:56Z",
+    "url": "https://github.com/ellmos-ai/.github"
+  },
+  {
+    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 73,
+    "updated_at": "2026-06-11T08:35:39Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
+    "id": "ChronoAIProject/Ornn",
+    "language": "TypeScript",
+    "name": "ChronoAIProject/Ornn",
+    "stars": 19,
+    "updated_at": "2026-06-11T08:34:03Z",
+    "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 8,
+    "updated_at": "2026-06-11T08:33:20Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Enterprise control plane for ephemeral AI agents via Firecracker MicroVMs",
+    "id": "steve-seungeui/ephemera",
+    "language": "Go",
+    "name": "steve-seungeui/ephemera",
+    "stars": 3,
+    "updated_at": "2026-06-11T08:31:37Z",
+    "url": "https://github.com/steve-seungeui/ephemera"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
+    "id": "mj-deving/omniweb-agents",
+    "language": "TypeScript",
+    "name": "mj-deving/omniweb-agents",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:31:57Z",
+    "url": "https://github.com/mj-deving/omniweb-agents"
   },
   {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
@@ -99,15 +207,6 @@
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
   },
   {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 2,
-    "updated_at": "2026-06-11T08:20:51Z",
-    "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
     "description": "Lightweight model-agnostic cognitive agent engine (TypeScript). Planning, task decomposition, context management & tool-",
     "id": "xQUANTUMTECH/agent-engine",
     "language": "TypeScript",
@@ -151,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-06-11T08:15:40Z",
     "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins",
@@ -315,15 +405,6 @@
     "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
   },
   {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 152,
-    "updated_at": "2026-06-11T08:03:40Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
     "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
     "id": "vmy41/agent-harness",
     "language": "\u2014",
@@ -347,7 +428,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-11T08:28:31Z",
+    "updated_at": "2026-06-11T08:35:39Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T08:02:46Z",
     "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 223,
-    "updated_at": "2026-06-11T08:29:25Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "Boltrope \u2014 event-sourced AI agent harness in Go + PostgreSQL: durable session log, multi-LLM gateway (Anthropic/Gemini/O",
-    "id": "xd1lab/harness-ai",
-    "language": "Go",
-    "name": "xd1lab/harness-ai",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:01:46Z",
-    "url": "https://github.com/xd1lab/harness-ai"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:01:35Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-11T07:59:31Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 74,
-    "updated_at": "2026-06-11T07:59:20Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-11T07:57:42Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:56:48Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 6,
-    "updated_at": "2026-06-11T07:56:40Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-11T07:56:19Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
   }
 ]
