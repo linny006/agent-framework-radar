@@ -1,5 +1,95 @@
 [
   {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 9,
+    "updated_at": "2026-06-11T10:28:55Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 21087,
+    "updated_at": "2026-06-11T10:27:54Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "MiteshSharma/ethos",
+    "language": "TypeScript",
+    "name": "MiteshSharma/ethos",
+    "stars": 5,
+    "updated_at": "2026-06-11T10:28:34Z",
+    "url": "https://github.com/MiteshSharma/ethos"
+  },
+  {
+    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
+    "id": "ChronoAIProject/Ornn",
+    "language": "TypeScript",
+    "name": "ChronoAIProject/Ornn",
+    "stars": 19,
+    "updated_at": "2026-06-11T10:24:35Z",
+    "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-06-11T10:23:10Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
+    "id": "qmilab/asterism",
+    "language": "TypeScript",
+    "name": "qmilab/asterism",
+    "stars": 1,
+    "updated_at": "2026-06-11T10:23:01Z",
+    "url": "https://github.com/qmilab/asterism"
+  },
+  {
+    "description": "Organization profile and public entry surface for Riverbraid.",
+    "id": "Riverbraid/.github",
+    "language": "JavaScript",
+    "name": "Riverbraid/.github",
+    "stars": 1,
+    "updated_at": "2026-06-11T10:22:48Z",
+    "url": "https://github.com/Riverbraid/.github"
+  },
+  {
+    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 14 professi",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 8,
+    "updated_at": "2026-06-11T10:17:51Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Open-source self-hosted AI agent runtime and multi-agent framework for autonomous agent swarms. Agent memory, MCP tools,",
+    "id": "swarmclawai/swarmclaw",
+    "language": "TypeScript",
+    "name": "swarmclawai/swarmclaw",
+    "stars": 572,
+    "updated_at": "2026-06-11T10:16:10Z",
+    "url": "https://github.com/swarmclawai/swarmclaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T10:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
     "id": "lukeskytorep-bot/echo-claw",
     "language": "\u2014",
@@ -16,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-06-11T10:14:40Z",
     "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21081,
-    "updated_at": "2026-06-11T10:09:28Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "An agent runtime that truly has experience.",
@@ -72,30 +153,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "MiteshSharma/ethos",
-    "language": "TypeScript",
-    "name": "MiteshSharma/ethos",
-    "stars": 5,
-    "updated_at": "2026-06-11T09:59:19Z",
-    "url": "https://github.com/MiteshSharma/ethos"
-  },
-  {
     "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
     "id": "jaylfc/taOS",
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 223,
-    "updated_at": "2026-06-11T10:04:46Z",
+    "updated_at": "2026-06-11T10:24:00Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-06-11T09:45:54Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
-    "id": "ChronoAIProject/Ornn",
-    "language": "TypeScript",
-    "name": "ChronoAIProject/Ornn",
-    "stars": 19,
-    "updated_at": "2026-06-11T09:43:41Z",
-    "url": "https://github.com/ChronoAIProject/Ornn"
   },
   {
     "description": "Governed vision input and perception contract surface for Riverbraid.",
@@ -207,15 +261,6 @@
     "url": "https://github.com/Riverbraid/Riverbraid-Cognition"
   },
   {
-    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 14 professi",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 8,
-    "updated_at": "2026-06-11T10:09:36Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
     "description": "Governed audio input and output contract surface for Riverbraid.",
     "id": "Riverbraid/Riverbraid-Audio-Gold",
     "language": "JavaScript",
@@ -234,21 +279,12 @@
     "url": "https://github.com/Riverbraid/Riverbraid-Action-Gold"
   },
   {
-    "description": "Organization profile and public entry surface for Riverbraid.",
-    "id": "Riverbraid/.github",
-    "language": "JavaScript",
-    "name": "Riverbraid/.github",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:37:54Z",
-    "url": "https://github.com/Riverbraid/.github"
-  },
-  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-11T10:02:20Z",
+    "updated_at": "2026-06-11T10:27:30Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -256,7 +292,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11243,
+    "stars": 11244,
     "updated_at": "2026-06-11T09:32:31Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -265,7 +301,7 @@
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
-    "stars": 1335,
+    "stars": 1336,
     "updated_at": "2026-06-11T09:31:04Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
@@ -373,7 +409,7 @@
     "id": "eidentic/eidentic",
     "language": "TypeScript",
     "name": "eidentic/eidentic",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-11T08:50:33Z",
     "url": "https://github.com/eidentic/eidentic"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-11T08:39:02Z",
     "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4660,
-    "updated_at": "2026-06-11T08:38:16Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "ellmos-ai organization profile and complete public repo index for local-first LLM operating systems, agent infrastructur",
-    "id": "ellmos-ai/.github",
-    "language": "\u2014",
-    "name": "ellmos-ai/.github",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:35:56Z",
-    "url": "https://github.com/ellmos-ai/.github"
-  },
-  {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 8,
-    "updated_at": "2026-06-11T09:58:25Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Enterprise control plane for ephemeral AI agents via Firecracker MicroVMs",
-    "id": "steve-seungeui/ephemera",
-    "language": "Go",
-    "name": "steve-seungeui/ephemera",
-    "stars": 3,
-    "updated_at": "2026-06-11T08:31:37Z",
-    "url": "https://github.com/steve-seungeui/ephemera"
   }
 ]
