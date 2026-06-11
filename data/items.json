@@ -1,12 +1,93 @@
 [
   {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 101,
+    "updated_at": "2026-06-11T12:00:09Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1317,
+    "updated_at": "2026-06-11T12:00:05Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-11T11:59:51Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21102,
-    "updated_at": "2026-06-11T11:42:57Z",
+    "stars": 21107,
+    "updated_at": "2026-06-11T11:58:30Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
+    "id": "Dkm0315/muster",
+    "language": "TypeScript",
+    "name": "Dkm0315/muster",
+    "stars": 1,
+    "updated_at": "2026-06-11T12:00:10Z",
+    "url": "https://github.com/Dkm0315/muster"
+  },
+  {
+    "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
+    "id": "Sheep1433/Noesis",
+    "language": "Python",
+    "name": "Sheep1433/Noesis",
+    "stars": 10,
+    "updated_at": "2026-06-11T11:56:26Z",
+    "url": "https://github.com/Sheep1433/Noesis"
+  },
+  {
+    "description": "Composable TypeScript AI agent framework \u2014 Effect-TS type safety, 5 reasoning strategies, persistent gateway, real-time ",
+    "id": "tylerjrbuell/reactive-agents-ts",
+    "language": "TypeScript",
+    "name": "tylerjrbuell/reactive-agents-ts",
+    "stars": 16,
+    "updated_at": "2026-06-11T11:56:24Z",
+    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
+  },
+  {
+    "description": "Eidentic is the open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals built in",
+    "id": "eidentic/eidentic",
+    "language": "TypeScript",
+    "name": "eidentic/eidentic",
+    "stars": 1,
+    "updated_at": "2026-06-11T11:56:09Z",
+    "url": "https://github.com/eidentic/eidentic"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-11T11:56:31Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
@@ -27,24 +108,6 @@
     "url": "https://github.com/kdcube/kdcube-ai-app"
   },
   {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
-    "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 101,
-    "updated_at": "2026-06-11T11:35:33Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
-    "description": "Eidentic is the open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals built in",
-    "id": "eidentic/eidentic",
-    "language": "TypeScript",
-    "name": "eidentic/eidentic",
-    "stars": 1,
-    "updated_at": "2026-06-11T11:32:40Z",
-    "url": "https://github.com/eidentic/eidentic"
-  },
-  {
     "description": "Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony",
     "id": "mj-deving/omniweb-agents",
     "language": "TypeScript",
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T11:31:52Z",
     "url": "https://github.com/mj-deving/omniweb-agents"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T11:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An agent runtime that truly has experience.",
@@ -86,7 +140,7 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 4,
-    "updated_at": "2026-06-11T11:34:56Z",
+    "updated_at": "2026-06-11T11:51:49Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1336,
-    "updated_at": "2026-06-11T11:27:08Z",
+    "updated_at": "2026-06-11T11:53:02Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-11T11:42:36Z",
+    "updated_at": "2026-06-11T11:59:40Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -133,6 +187,15 @@
     "stars": 5,
     "updated_at": "2026-06-11T11:22:20Z",
     "url": "https://github.com/MiteshSharma/ethos"
+  },
+  {
+    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 224,
+    "updated_at": "2026-06-11T11:11:19Z",
+    "url": "https://github.com/jaylfc/taOS"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -167,7 +230,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 3428,
-    "updated_at": "2026-06-11T10:51:19Z",
+    "updated_at": "2026-06-11T11:51:30Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -180,13 +243,13 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
     "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-11T11:36:12Z",
-    "url": "https://github.com/Aureliolo/synthorg"
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 569,
+    "updated_at": "2026-06-11T10:42:48Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
     "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
@@ -212,7 +275,7 @@
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 1,
-    "updated_at": "2026-06-11T11:36:27Z",
+    "updated_at": "2026-06-11T11:55:49Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
@@ -288,15 +351,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 223,
-    "updated_at": "2026-06-11T11:11:19Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -340,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-06-11T09:39:43Z",
     "url": "https://github.com/Riverbraid/Riverbraid-Manifest-Gold"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-11T09:39:35Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "The deterministic UI contract and relational interface substrate for the Riverbraid cluster.",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T09:38:03Z",
     "url": "https://github.com/Riverbraid/Riverbraid-Audio-Gold"
-  },
-  {
-    "description": "Governed action execution surface for Riverbraid.",
-    "id": "Riverbraid/Riverbraid-Action-Gold",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-Action-Gold",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:37:59Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-Action-Gold"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11244,
-    "updated_at": "2026-06-11T09:32:31Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17696,
-    "updated_at": "2026-06-11T11:24:57Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 15,
-    "updated_at": "2026-06-11T09:20:12Z",
-    "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-11T09:18:34Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   }
 ]
