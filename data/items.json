@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud83c\udfc6 Ranked list of 100+ agent harnesses. Scored and updated weekly.",
+    "id": "RyanAlberts/best-of-Agent-Harnesses",
+    "language": "Python",
+    "name": "RyanAlberts/best-of-Agent-Harnesses",
+    "stars": 92,
+    "updated_at": "2026-06-11T18:14:01Z",
+    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 508,
+    "updated_at": "2026-06-11T18:13:43Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-11T18:13:13Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:12:30Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:11:33Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4219,
+    "updated_at": "2026-06-11T18:11:27Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-06-11T18:07:27Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6364,
+    "updated_at": "2026-06-11T18:05:33Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Production-ready Go gateway for agentic AI \u2014 multi-provider routing, DAG orchestration, 44 skills, MCP integration. Self",
+    "id": "TresPies-source/AgenticGatewayByDojoGenesis",
+    "language": "Go",
+    "name": "TresPies-source/AgenticGatewayByDojoGenesis",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:04:07Z",
+    "url": "https://github.com/TresPies-source/AgenticGatewayByDojoGenesis"
+  },
+  {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 9,
+    "updated_at": "2026-06-11T18:04:00Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
+    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
+    "id": "qbtrix/ripple-iui",
+    "language": "Svelte",
+    "name": "qbtrix/ripple-iui",
+    "stars": 2,
+    "updated_at": "2026-06-11T18:01:53Z",
+    "url": "https://github.com/qbtrix/ripple-iui"
+  },
+  {
+    "description": "Public website and documentation for Phronesis - a Python framework for AI agent systems with practical wisdom at their ",
+    "id": "phronesis-framework/phronesis-web",
+    "language": "TypeScript",
+    "name": "phronesis-framework/phronesis-web",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:01:16Z",
+    "url": "https://github.com/phronesis-framework/phronesis-web"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:00:37Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -9,22 +126,22 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-11T17:58:40Z",
-    "url": "https://github.com/bakw00ds/yakos"
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-11T17:59:58Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Public website and documentation for Phronesis - a Python framework for AI agent systems with practical wisdom at their ",
-    "id": "phronesis-framework/phronesis-web",
-    "language": "TypeScript",
-    "name": "phronesis-framework/phronesis-web",
-    "stars": 0,
-    "updated_at": "2026-06-11T17:57:41Z",
-    "url": "https://github.com/phronesis-framework/phronesis-web"
+    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 226,
+    "updated_at": "2026-06-11T17:57:45Z",
+    "url": "https://github.com/jaylfc/taOS"
   },
   {
     "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
@@ -36,13 +153,13 @@
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
-    "description": "\ud83c\udfc6 Ranked list of 100+ agent harnesses. Scored and updated weekly.",
-    "id": "RyanAlberts/best-of-Agent-Harnesses",
-    "language": "Python",
-    "name": "RyanAlberts/best-of-Agent-Harnesses",
-    "stars": 92,
-    "updated_at": "2026-06-11T17:56:58Z",
-    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 21207,
+    "updated_at": "2026-06-11T18:14:35Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -81,33 +198,6 @@
     "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T17:45:35Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-06-11T17:40:05Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 508,
-    "updated_at": "2026-06-11T17:35:59Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -122,7 +212,7 @@
     "language": "Python",
     "name": "johnnichev/selectools",
     "stars": 9,
-    "updated_at": "2026-06-11T17:33:09Z",
+    "updated_at": "2026-06-11T18:06:20Z",
     "url": "https://github.com/johnnichev/selectools"
   },
   {
@@ -144,15 +234,6 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 225,
-    "updated_at": "2026-06-11T17:57:45Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
@@ -171,21 +252,12 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4219,
-    "updated_at": "2026-06-11T17:15:01Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-06-11T17:20:05Z",
+    "updated_at": "2026-06-11T18:02:20Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -194,7 +266,7 @@
     "language": "Python",
     "name": "FancongLiu/onionquant",
     "stars": 0,
-    "updated_at": "2026-06-11T17:00:38Z",
+    "updated_at": "2026-06-11T18:15:26Z",
     "url": "https://github.com/FancongLiu/onionquant"
   },
   {
@@ -306,15 +378,6 @@
     "url": "https://github.com/codeking-ai/cligate"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21205,
-    "updated_at": "2026-06-11T17:56:54Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
     "id": "sauravbhattacharya001/agentlens",
     "language": "Python",
@@ -365,7 +428,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 2,
-    "updated_at": "2026-06-11T17:56:46Z",
+    "updated_at": "2026-06-11T18:04:13Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 7,
     "updated_at": "2026-06-11T16:05:34Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 9,
-    "updated_at": "2026-06-11T16:02:57Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "Governed AI agent runtime with a local-first desktop app + CLI. Chat with any model (Claude, OpenAI, Groq, Ollama, LM St",
-    "id": "gryszzz/open-thymos",
-    "language": "Rust",
-    "name": "gryszzz/open-thymos",
-    "stars": 16,
-    "updated_at": "2026-06-11T16:38:45Z",
-    "url": "https://github.com/gryszzz/open-thymos"
-  },
-  {
-    "description": "Truth-grounded execution protocol for AI agents",
-    "id": "lubenwei-lian/really",
-    "language": "\u2014",
-    "name": "lubenwei-lian/really",
-    "stars": 3,
-    "updated_at": "2026-06-11T15:53:52Z",
-    "url": "https://github.com/lubenwei-lian/really"
-  },
-  {
-    "description": "\ud83e\udde0 8 KI-Agenten lokal orchestrieren \u2013 ohne Cloud. FastAPI, DeepSeek, SQLite-Message-Queue, FAISS-Embeddings, Gatekeeper-S",
-    "id": "landjunge/gnom-hub",
-    "language": "Python",
-    "name": "landjunge/gnom-hub",
-    "stars": 2,
-    "updated_at": "2026-06-11T15:51:31Z",
-    "url": "https://github.com/landjunge/gnom-hub"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 885,
-    "updated_at": "2026-06-11T15:59:35Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 8,
-    "updated_at": "2026-06-11T16:10:36Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the ",
-    "id": "Core-Mate/OpenGUI",
-    "language": "Kotlin",
-    "name": "Core-Mate/OpenGUI",
-    "stars": 149,
-    "updated_at": "2026-06-11T15:34:03Z",
-    "url": "https://github.com/Core-Mate/OpenGUI"
   }
 ]
