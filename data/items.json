@@ -1,21 +1,66 @@
 [
   {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
     "stars": 2,
-    "updated_at": "2026-06-11T17:12:31Z",
-    "url": "https://github.com/bakw00ds/yakos"
+    "updated_at": "2026-06-11T17:28:43Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-06-11T17:12:08Z",
-    "url": "https://github.com/sytone/botnexus"
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-11T17:28:32Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 225,
+    "updated_at": "2026-06-11T17:25:53Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-11T17:23:23Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-06-11T17:20:09Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 9,
+    "updated_at": "2026-06-11T17:17:15Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T17:15:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -27,12 +72,30 @@
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-11T17:23:49Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-06-11T17:20:05Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
     "description": "Production-ready Python framework for AI agents with built-in guardrails, audit logging, cost tracking, and hybrid RAG. ",
     "id": "johnnichev/selectools",
     "language": "Python",
     "name": "johnnichev/selectools",
     "stars": 9,
-    "updated_at": "2026-06-11T17:09:29Z",
+    "updated_at": "2026-06-11T17:29:45Z",
     "url": "https://github.com/johnnichev/selectools"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T17:00:38Z",
     "url": "https://github.com/FancongLiu/onionquant"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T17:00:37Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-tool AI orchestration that researches its own success criteria before acting, validates them after, and earns auto",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11258,
-    "updated_at": "2026-06-11T16:59:08Z",
+    "updated_at": "2026-06-11T17:26:17Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-11T16:49:39Z",
     "url": "https://github.com/ellmos-ai/usmc"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-11T17:08:15Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -194,17 +239,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 17698,
-    "updated_at": "2026-06-11T16:29:53Z",
+    "updated_at": "2026-06-11T17:23:38Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-11T17:14:27Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Skills, MCP, ",
@@ -220,7 +256,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21196,
+    "stars": 21203,
     "updated_at": "2026-06-11T16:25:52Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -250,15 +286,6 @@
     "stars": 9,
     "updated_at": "2026-06-11T16:19:59Z",
     "url": "https://github.com/kdcube/kdcube-ai-app"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 9,
-    "updated_at": "2026-06-11T16:19:33Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
     "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
@@ -396,15 +423,6 @@
     "url": "https://github.com/ebey317/claf"
   },
   {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-06-11T15:18:48Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
     "description": "Multi-model adversarial review for catching shared blind spots",
     "id": "jkraybill/gordo-roundtable",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 15,
     "updated_at": "2026-06-11T15:14:46Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 155,
-    "updated_at": "2026-06-11T15:11:51Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Production-ready multi-user AI agent framework \u2014 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-c",
-    "id": "stephonGAO/milu",
-    "language": "Python",
-    "name": "stephonGAO/milu",
-    "stars": 1,
-    "updated_at": "2026-06-11T15:10:53Z",
-    "url": "https://github.com/stephonGAO/milu"
   }
 ]
