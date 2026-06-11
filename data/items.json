@@ -1,11 +1,200 @@
 [
   {
+    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
+    "id": "ChronoAIProject/Ornn",
+    "language": "TypeScript",
+    "name": "ChronoAIProject/Ornn",
+    "stars": 19,
+    "updated_at": "2026-06-11T09:43:41Z",
+    "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "Governed vision input and perception contract surface for Riverbraid.",
+    "id": "Riverbraid/Riverbraid-Vision-Gold",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-Vision-Gold",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:40:46Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-Vision-Gold"
+  },
+  {
+    "description": "Temporal contracts and governed time based state logic for Riverbraid.",
+    "id": "Riverbraid/Riverbraid-Temporal-Gold",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-Temporal-Gold",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:40:34Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-Temporal-Gold"
+  },
+  {
+    "description": "Meaning scoped persistence and state retention rules for Riverbraid.",
+    "id": "Riverbraid/Riverbraid-Memory-Gold",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-Memory-Gold",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:39:47Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-Memory-Gold"
+  },
+  {
+    "description": "The central directory and Merkle Root mapping for the 17-petal Riverbraid v1.5.0 substrate.",
+    "id": "Riverbraid/Riverbraid-Manifest-Gold",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-Manifest-Gold",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:39:43Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-Manifest-Gold"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-11T09:39:35Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "The deterministic UI contract and relational interface substrate for the Riverbraid cluster.",
+    "id": "Riverbraid/Riverbraid-Interface-Gold",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-Interface-Gold",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:39:25Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-Interface-Gold"
+  },
+  {
+    "description": "Execution bridge from verified state into system action surfaces.",
+    "id": "Riverbraid/Riverbraid-Integration-Gold",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-Integration-Gold",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:39:17Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-Integration-Gold"
+  },
+  {
+    "description": "Cluster wide verification harness for byte floor, seals, and stationary state checks.",
+    "id": "Riverbraid/Riverbraid-Harness-Gold",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-Harness-Gold",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:39:04Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-Harness-Gold"
+  },
+  {
+    "description": "The identity anchor and sovereign GPG verification petal for the Riverbraid organization.",
+    "id": "Riverbraid/Riverbraid-GPG-Gold",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-GPG-Gold",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:39:00Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-GPG-Gold"
+  },
+  {
+    "description": "Cognitive architecture and meaning processing layer adjacent to the Riverbraid core.",
+    "id": "Riverbraid/Riverbraid-Cognition",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-Cognition",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:38:23Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-Cognition"
+  },
+  {
+    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 14 professi",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 8,
+    "updated_at": "2026-06-11T09:38:11Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Governed audio input and output contract surface for Riverbraid.",
+    "id": "Riverbraid/Riverbraid-Audio-Gold",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-Audio-Gold",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:38:03Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-Audio-Gold"
+  },
+  {
+    "description": "Governed action execution surface for Riverbraid.",
+    "id": "Riverbraid/Riverbraid-Action-Gold",
+    "language": "JavaScript",
+    "name": "Riverbraid/Riverbraid-Action-Gold",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:37:59Z",
+    "url": "https://github.com/Riverbraid/Riverbraid-Action-Gold"
+  },
+  {
+    "description": "Organization profile and public entry surface for Riverbraid.",
+    "id": "Riverbraid/.github",
+    "language": "JavaScript",
+    "name": "Riverbraid/.github",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:37:54Z",
+    "url": "https://github.com/Riverbraid/.github"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "MiteshSharma/ethos",
+    "language": "TypeScript",
+    "name": "MiteshSharma/ethos",
+    "stars": 5,
+    "updated_at": "2026-06-11T09:40:01Z",
+    "url": "https://github.com/MiteshSharma/ethos"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-11T09:41:09Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
+    "id": "lukeskytorep-bot/echo-claw",
+    "language": "\u2014",
+    "name": "lukeskytorep-bot/echo-claw",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:35:10Z",
+    "url": "https://github.com/lukeskytorep-bot/echo-claw"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11242,
+    "updated_at": "2026-06-11T09:32:31Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1334,
+    "updated_at": "2026-06-11T09:31:04Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T09:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 17696,
-    "updated_at": "2026-06-11T09:28:15Z",
+    "updated_at": "2026-06-11T09:42:35Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -14,7 +203,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 3429,
-    "updated_at": "2026-06-11T09:27:26Z",
+    "updated_at": "2026-06-11T09:43:40Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -27,29 +216,11 @@
     "url": "https://github.com/shipiit/shipit_agent"
   },
   {
-    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
-    "id": "lukeskytorep-bot/echo-claw",
-    "language": "\u2014",
-    "name": "lukeskytorep-bot/echo-claw",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:24:19Z",
-    "url": "https://github.com/lukeskytorep-bot/echo-claw"
-  },
-  {
-    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 14 professi",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 8,
-    "updated_at": "2026-06-11T09:29:03Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21072,
+    "stars": 21075,
     "updated_at": "2026-06-11T09:20:19Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -61,15 +232,6 @@
     "stars": 15,
     "updated_at": "2026-06-11T09:20:12Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T09:20:05Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -117,15 +279,6 @@
     "url": "https://github.com/inclusionAI/AWorld"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-11T09:08:20Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
     "id": "ucsandman/DashClaw",
     "language": "TypeScript",
@@ -133,15 +286,6 @@
     "stars": 274,
     "updated_at": "2026-06-11T08:55:13Z",
     "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-11T09:26:32Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -225,21 +369,12 @@
     "url": "https://github.com/ellmos-ai/.github"
   },
   {
-    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
-    "id": "ChronoAIProject/Ornn",
-    "language": "TypeScript",
-    "name": "ChronoAIProject/Ornn",
-    "stars": 19,
-    "updated_at": "2026-06-11T08:34:03Z",
-    "url": "https://github.com/ChronoAIProject/Ornn"
-  },
-  {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
     "id": "bbvch-ai/aihub-core",
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 8,
-    "updated_at": "2026-06-11T09:27:51Z",
+    "updated_at": "2026-06-11T09:31:06Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -313,140 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T08:20:40Z",
     "url": "https://github.com/organism-core/organism-core"
-  },
-  {
-    "description": "Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones",
-    "id": "ellmos-ai/clutch",
-    "language": "Python",
-    "name": "ellmos-ai/clutch",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:20:38Z",
-    "url": "https://github.com/ellmos-ai/clutch"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:20:24Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:19:30Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Lightweight model-agnostic cognitive agent engine (TypeScript). Planning, task decomposition, context management & tool-",
-    "id": "xQUANTUMTECH/agent-engine",
-    "language": "TypeScript",
-    "name": "xQUANTUMTECH/agent-engine",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:18:47Z",
-    "url": "https://github.com/xQUANTUMTECH/agent-engine"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 147,
-    "updated_at": "2026-06-11T08:18:14Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Open-source platform layer for AI agents in production",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 186,
-    "updated_at": "2026-06-11T08:17:28Z",
-    "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:16:31Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-06-11T08:15:40Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins",
-    "id": "Doubleedged-capitaloftennessee462/agentswift",
-    "language": "\u2014",
-    "name": "Doubleedged-capitaloftennessee462/agentswift",
-    "stars": 2,
-    "updated_at": "2026-06-11T08:15:23Z",
-    "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:11:48Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:11:07Z",
-    "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:11:04Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:10:30Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:10:26Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
-    "id": "Trickedout-ribier5513/AgentClaw",
-    "language": "TypeScript",
-    "name": "Trickedout-ribier5513/AgentClaw",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:10:14Z",
-    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
   }
 ]
