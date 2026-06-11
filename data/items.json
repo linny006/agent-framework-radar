@@ -1,11 +1,110 @@
 [
   {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 8,
+    "updated_at": "2026-06-11T12:14:36Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 2,
+    "updated_at": "2026-06-11T12:14:01Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-06-11T12:10:54Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-06-11T12:10:53Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 21113,
+    "updated_at": "2026-06-11T12:10:25Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 4,
+    "updated_at": "2026-06-11T12:11:04Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 1,
+    "updated_at": "2026-06-11T12:06:15Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "Multi-agent LLM pipeline for long-form novel continuation \u00b7 \u591a Agent \u957f\u7bc7\u5c0f\u8bf4\u7eed\u5199\u6d41\u6c34\u7ebf\uff0c19 \u8f6e\u8fed\u4ee3 + \u5168\u7a0b mock-first",
+    "id": "ARMANDSnow/make-ur-Agent-writer",
+    "language": "Python",
+    "name": "ARMANDSnow/make-ur-Agent-writer",
+    "stars": 12,
+    "updated_at": "2026-06-11T12:06:00Z",
+    "url": "https://github.com/ARMANDSnow/make-ur-Agent-writer"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-11T12:05:05Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
+    "id": "Dkm0315/muster",
+    "language": "TypeScript",
+    "name": "Dkm0315/muster",
+    "stars": 1,
+    "updated_at": "2026-06-11T12:05:04Z",
+    "url": "https://github.com/Dkm0315/muster"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T12:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
     "id": "openlegion-ai/openlegion",
     "language": "Python",
     "name": "openlegion-ai/openlegion",
     "stars": 101,
-    "updated_at": "2026-06-11T12:00:09Z",
+    "updated_at": "2026-06-11T12:02:23Z",
     "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
@@ -23,26 +122,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-11T11:59:51Z",
+    "updated_at": "2026-06-11T12:10:19Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21107,
-    "updated_at": "2026-06-11T11:58:30Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
-    "id": "Dkm0315/muster",
-    "language": "TypeScript",
-    "name": "Dkm0315/muster",
-    "stars": 1,
-    "updated_at": "2026-06-11T12:00:10Z",
-    "url": "https://github.com/Dkm0315/muster"
   },
   {
     "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
@@ -81,15 +162,6 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T11:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
     "id": "bakw00ds/yakos",
     "language": "Go",
@@ -117,15 +189,6 @@
     "url": "https://github.com/mj-deving/omniweb-agents"
   },
   {
-    "description": "An agent runtime that truly has experience.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 7,
-    "updated_at": "2026-06-11T11:30:22Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -133,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T11:29:20Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 4,
-    "updated_at": "2026-06-11T11:51:49Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-11T11:59:40Z",
+    "updated_at": "2026-06-11T12:00:50Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -275,7 +329,7 @@
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 1,
-    "updated_at": "2026-06-11T11:55:49Z",
+    "updated_at": "2026-06-11T12:13:47Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T09:39:43Z",
     "url": "https://github.com/Riverbraid/Riverbraid-Manifest-Gold"
-  },
-  {
-    "description": "The deterministic UI contract and relational interface substrate for the Riverbraid cluster.",
-    "id": "Riverbraid/Riverbraid-Interface-Gold",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-Interface-Gold",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:39:25Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-Interface-Gold"
-  },
-  {
-    "description": "Execution bridge from verified state into system action surfaces.",
-    "id": "Riverbraid/Riverbraid-Integration-Gold",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-Integration-Gold",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:39:17Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-Integration-Gold"
-  },
-  {
-    "description": "Cluster wide verification harness for byte floor, seals, and stationary state checks.",
-    "id": "Riverbraid/Riverbraid-Harness-Gold",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-Harness-Gold",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:39:04Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-Harness-Gold"
-  },
-  {
-    "description": "The identity anchor and sovereign GPG verification petal for the Riverbraid organization.",
-    "id": "Riverbraid/Riverbraid-GPG-Gold",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-GPG-Gold",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:39:00Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-GPG-Gold"
-  },
-  {
-    "description": "Cognitive architecture and meaning processing layer adjacent to the Riverbraid core.",
-    "id": "Riverbraid/Riverbraid-Cognition",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-Cognition",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:38:23Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-Cognition"
-  },
-  {
-    "description": "Governed audio input and output contract surface for Riverbraid.",
-    "id": "Riverbraid/Riverbraid-Audio-Gold",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-Audio-Gold",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:38:03Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-Audio-Gold"
   }
 ]
