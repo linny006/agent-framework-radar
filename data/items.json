@@ -1,5 +1,104 @@
 [
   {
+    "description": "\u8f7b\u91cf\u7ea7\u6a21\u5757\u5316AI Agent\u5f00\u53d1\u5e73\u53f0\uff0c\u57fa\u4e8eFastAPI\u6784\u5efa\uff0c\u5185\u7f6e\u81ea\u7814\u5de5\u4f5c\u6d41\u5f15\u64ce",
+    "id": "CodeMoss24/Hify",
+    "language": "Python",
+    "name": "CodeMoss24/Hify",
+    "stars": 0,
+    "updated_at": "2026-06-11T01:57:43Z",
+    "url": "https://github.com/CodeMoss24/Hify"
+  },
+  {
+    "description": "AI-guided onboarding for human-AI collaboration projects",
+    "id": "jkraybill/gordo-forge",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-forge",
+    "stars": 2,
+    "updated_at": "2026-06-11T01:56:32Z",
+    "url": "https://github.com/jkraybill/gordo-forge"
+  },
+  {
+    "description": "Define your AI agent team in one YAML file \u2014 get a LangGraph supervisor, a live network UI, an auto-generated MCP server",
+    "id": "selvaonline/agentpack",
+    "language": "TypeScript",
+    "name": "selvaonline/agentpack",
+    "stars": 1,
+    "updated_at": "2026-06-11T01:54:23Z",
+    "url": "https://github.com/selvaonline/agentpack"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 9,
+    "updated_at": "2026-06-11T01:54:20Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
+    "id": "bzcsk2/DeepReef",
+    "language": "TypeScript",
+    "name": "bzcsk2/DeepReef",
+    "stars": 3,
+    "updated_at": "2026-06-11T01:51:45Z",
+    "url": "https://github.com/bzcsk2/DeepReef"
+  },
+  {
+    "description": "Multi-model adversarial review for catching shared blind spots",
+    "id": "jkraybill/gordo-roundtable",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-roundtable",
+    "stars": 1,
+    "updated_at": "2026-06-11T01:49:30Z",
+    "url": "https://github.com/jkraybill/gordo-roundtable"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 20860,
+    "updated_at": "2026-06-11T01:49:28Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
+    "id": "ebey317/claf",
+    "language": "Python",
+    "name": "ebey317/claf",
+    "stars": 1,
+    "updated_at": "2026-06-11T01:48:57Z",
+    "url": "https://github.com/ebey317/claf"
+  },
+  {
+    "description": "Core agent runtime \u2014 event loop, LLM providers (Anthropic, OpenAI), capability system, TUI. Part of the Life Agent OS.",
+    "id": "broomva/arcan",
+    "language": "Rust",
+    "name": "broomva/arcan",
+    "stars": 5,
+    "updated_at": "2026-06-11T01:48:54Z",
+    "url": "https://github.com/broomva/arcan"
+  },
+  {
+    "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
+    "id": "broomva/life",
+    "language": "Rust",
+    "name": "broomva/life",
+    "stars": 1,
+    "updated_at": "2026-06-11T01:48:46Z",
+    "url": "https://github.com/broomva/life"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T01:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
     "id": "ek33450505/claude-agent-team",
     "language": "Shell",
@@ -16,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T01:43:14Z",
     "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 20851,
-    "updated_at": "2026-06-11T01:43:01Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -81,21 +171,12 @@
     "url": "https://github.com/Smita6756/Hbrain"
   },
   {
-    "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
-    "id": "ebey317/claf",
-    "language": "Python",
-    "name": "ebey317/claf",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:36:58Z",
-    "url": "https://github.com/ebey317/claf"
-  },
-  {
     "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 14 professi",
     "id": "KbWen/agentic-os",
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 7,
-    "updated_at": "2026-06-11T01:33:49Z",
+    "updated_at": "2026-06-11T01:55:40Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -133,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-06-11T01:32:20Z",
     "url": "https://github.com/DaveGerson/agent-baton"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
@@ -311,7 +383,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-06-11T01:22:23Z",
+    "updated_at": "2026-06-11T01:45:58Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -322,15 +394,6 @@
     "stars": 73,
     "updated_at": "2026-06-11T01:22:18Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
-    "id": "broomva/life",
-    "language": "Rust",
-    "name": "broomva/life",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:32:04Z",
-    "url": "https://github.com/broomva/life"
   },
   {
     "description": "Team AI agent built on Hermes Agent \u2014 Feishu-native, per-user memory isolation, layered skills, embedded RAG knowledge r",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T01:20:41Z",
     "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:20:40Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:19:18Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Python library for building AI agents",
-    "id": "ethereon/agentron",
-    "language": "Python",
-    "name": "ethereon/agentron",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:18:52Z",
-    "url": "https://github.com/ethereon/agentron"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:16:38Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Core agent runtime \u2014 event loop, LLM providers (Anthropic, OpenAI), capability system, TUI. Part of the Life Agent OS.",
-    "id": "broomva/arcan",
-    "language": "Rust",
-    "name": "broomva/arcan",
-    "stars": 5,
-    "updated_at": "2026-06-11T01:16:31Z",
-    "url": "https://github.com/broomva/arcan"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-11T01:15:34Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:15:05Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
   }
 ]
