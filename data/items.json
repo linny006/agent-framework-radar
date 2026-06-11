@@ -1,5 +1,59 @@
 [
   {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 8,
+    "updated_at": "2026-06-11T15:45:12Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4212,
+    "updated_at": "2026-06-11T15:41:35Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Production-ready Python framework for AI agents with built-in guardrails, audit logging, cost tracking, and hybrid RAG. ",
+    "id": "johnnichev/selectools",
+    "language": "Python",
+    "name": "johnnichev/selectools",
+    "stars": 9,
+    "updated_at": "2026-06-11T15:41:31Z",
+    "url": "https://github.com/johnnichev/selectools"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-11T15:40:40Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 6,
+    "updated_at": "2026-06-11T15:45:16Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T15:30:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governed AI agent runtime with a local-first desktop app + CLI. Chat with any model (Claude, OpenAI, Groq, Ollama, LM St",
     "id": "gryszzz/open-thymos",
     "language": "Rust",
@@ -23,7 +77,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-06-11T15:23:08Z",
+    "updated_at": "2026-06-11T15:44:24Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11253,
-    "updated_at": "2026-06-11T15:21:22Z",
+    "updated_at": "2026-06-11T15:44:42Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Kotlin",
     "name": "Core-Mate/OpenGUI",
     "stars": 149,
-    "updated_at": "2026-06-11T15:18:20Z",
+    "updated_at": "2026-06-11T15:34:03Z",
     "url": "https://github.com/Core-Mate/OpenGUI"
   },
   {
@@ -72,6 +126,15 @@
     "url": "https://github.com/0bserver07/chimera"
   },
   {
+    "description": "Multi-model adversarial review for catching shared blind spots",
+    "id": "jkraybill/gordo-roundtable",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-roundtable",
+    "stars": 1,
+    "updated_at": "2026-06-11T15:17:18Z",
+    "url": "https://github.com/jkraybill/gordo-roundtable"
+  },
+  {
     "description": "A governance kernel for organizations that coordinate persistent human and AI-agent roles.",
     "id": "sparckix/cognitive-firm",
     "language": "Python",
@@ -81,24 +144,6 @@
     "url": "https://github.com/sparckix/cognitive-firm"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T15:15:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-11T15:29:34Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
     "id": "roackb2/heddle",
     "language": "TypeScript",
@@ -106,6 +151,15 @@
     "stars": 15,
     "updated_at": "2026-06-11T15:14:46Z",
     "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Skills, MCP, ",
+    "id": "codeking-ai/cligate",
+    "language": "JavaScript",
+    "name": "codeking-ai/cligate",
+    "stars": 93,
+    "updated_at": "2026-06-11T15:13:31Z",
+    "url": "https://github.com/codeking-ai/cligate"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -212,7 +266,7 @@
     "language": "Rust",
     "name": "broomva/life",
     "stars": 1,
-    "updated_at": "2026-06-11T14:59:48Z",
+    "updated_at": "2026-06-11T15:33:12Z",
     "url": "https://github.com/broomva/life"
   },
   {
@@ -247,7 +301,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21173,
+    "stars": 21178,
     "updated_at": "2026-06-11T14:57:55Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -256,7 +310,7 @@
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
-    "stars": 148,
+    "stars": 149,
     "updated_at": "2026-06-11T14:56:04Z",
     "url": "https://github.com/cortexkit/aft"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T14:48:16Z",
     "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:47:35Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
-  },
-  {
-    "description": "Declarative guardrails and safety controls for .NET AI agents",
-    "id": "filipw/AgentGuard",
-    "language": "C#",
-    "name": "filipw/AgentGuard",
-    "stars": 11,
-    "updated_at": "2026-06-11T14:47:30Z",
-    "url": "https://github.com/filipw/AgentGuard"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:47:07Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:47:06Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:46:35Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:46:22Z",
-    "url": "https://github.com/Thuso030703/open-claude"
   }
 ]
