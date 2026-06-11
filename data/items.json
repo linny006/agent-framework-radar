@@ -1,5 +1,50 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 21097,
+    "updated_at": "2026-06-11T10:57:53Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 101,
+    "updated_at": "2026-06-11T10:59:13Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "Python multi-agent automation: Microsoft AutoGen + Gemini/Claude fallback, AG-UI observability",
+    "id": "Coding-Autopilot-System/autogen",
+    "language": "Python",
+    "name": "Coding-Autopilot-System/autogen",
+    "stars": 0,
+    "updated_at": "2026-06-11T10:51:54Z",
+    "url": "https://github.com/Coding-Autopilot-System/autogen"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 3428,
+    "updated_at": "2026-06-11T10:51:19Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T10:45:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -27,31 +72,13 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21090,
-    "updated_at": "2026-06-11T10:32:25Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
     "id": "Eliyce/paqad-ai",
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 4,
-    "updated_at": "2026-06-11T10:37:12Z",
+    "updated_at": "2026-06-11T10:47:48Z",
     "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
@@ -121,7 +148,7 @@
     "id": "swarmclawai/swarmclaw",
     "language": "TypeScript",
     "name": "swarmclawai/swarmclaw",
-    "stars": 572,
+    "stars": 573,
     "updated_at": "2026-06-11T10:16:10Z",
     "url": "https://github.com/swarmclawai/swarmclaw"
   },
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 223,
-    "updated_at": "2026-06-11T10:24:00Z",
+    "updated_at": "2026-06-11T10:51:38Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -333,15 +360,6 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 3429,
-    "updated_at": "2026-06-11T09:43:40Z",
-    "url": "https://github.com/iflytek/skillhub"
-  },
-  {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
     "id": "roackb2/heddle",
     "language": "TypeScript",
@@ -367,6 +385,15 @@
     "stars": 10,
     "updated_at": "2026-06-11T09:17:30Z",
     "url": "https://github.com/Gald3r-Labs/gald3r"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14260,
+    "updated_at": "2026-06-11T09:08:12Z",
+    "url": "https://github.com/eigent-ai/eigent"
   },
   {
     "description": "Personal Agent OS for coding, creator workflows, mastery learning, memory, and safe automation",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T08:50:43Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 107,
-    "updated_at": "2026-06-11T08:43:57Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 153,
-    "updated_at": "2026-06-11T08:41:44Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:39:33Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
