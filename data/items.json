@@ -1,5 +1,122 @@
 [
   {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 508,
+    "updated_at": "2026-06-11T20:00:03Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-11T20:00:01Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 4,
+    "updated_at": "2026-06-11T19:58:58Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 6,
+    "updated_at": "2026-06-11T19:56:56Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
+    "id": "saajunaid/junai",
+    "language": "Python",
+    "name": "saajunaid/junai",
+    "stars": 0,
+    "updated_at": "2026-06-11T19:55:47Z",
+    "url": "https://github.com/saajunaid/junai"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-11T19:55:17Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "\ud83e\udde0 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool",
+    "id": "Niranjan-008/Agentic-Decision-Cell",
+    "language": "Python",
+    "name": "Niranjan-008/Agentic-Decision-Cell",
+    "stars": 1,
+    "updated_at": "2026-06-11T19:50:35Z",
+    "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4224,
+    "updated_at": "2026-06-11T19:57:16Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 0,
+    "updated_at": "2026-06-11T19:49:30Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-11T19:47:30Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 21217,
+    "updated_at": "2026-06-11T19:59:06Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
+    "id": "motojinc25/chatwalaau",
+    "language": "Python",
+    "name": "motojinc25/chatwalaau",
+    "stars": 2,
+    "updated_at": "2026-06-11T19:46:16Z",
+    "url": "https://github.com/motojinc25/chatwalaau"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T19:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
     "id": "kh0pper/crow",
     "language": "JavaScript",
@@ -34,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T19:35:23Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21216,
-    "updated_at": "2026-06-11T19:34:32Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T19:34:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -99,15 +198,6 @@
     "url": "https://github.com/Maykbiletti/mnemo"
   },
   {
-    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 0,
-    "updated_at": "2026-06-11T19:45:15Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
     "id": "ag2ai/ag2",
     "language": "Python",
@@ -115,15 +205,6 @@
     "stars": 4663,
     "updated_at": "2026-06-11T19:28:17Z",
     "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4223,
-    "updated_at": "2026-06-11T19:10:34Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -216,15 +297,6 @@
     "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
   },
   {
-    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 6,
-    "updated_at": "2026-06-11T19:35:39Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
     "description": "Open-source AI agent operating system: one file-native brain (190+ skills, 180+ specialist agents) run across many seale",
     "id": "CarlosCaPe/octorato",
     "language": "Python",
@@ -243,15 +315,6 @@
     "url": "https://github.com/phronesis-framework/phronesis-web"
   },
   {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 508,
-    "updated_at": "2026-06-11T18:40:24Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -259,15 +322,6 @@
     "stars": 11258,
     "updated_at": "2026-06-11T18:51:30Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 4,
-    "updated_at": "2026-06-11T19:34:05Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -324,15 +378,6 @@
     "url": "https://github.com/gryszzz/open-thymos"
   },
   {
-    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
-    "id": "saajunaid/junai",
-    "language": "Python",
-    "name": "saajunaid/junai",
-    "stars": 0,
-    "updated_at": "2026-06-11T18:14:25Z",
-    "url": "https://github.com/saajunaid/junai"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -340,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T18:12:30Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 0,
-    "updated_at": "2026-06-11T18:11:33Z",
-    "url": "https://github.com/ludex-lab/ludex"
   },
   {
     "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
@@ -412,41 +448,5 @@
     "stars": 226,
     "updated_at": "2026-06-11T19:13:39Z",
     "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1195,
-    "updated_at": "2026-06-11T18:47:47Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "TypeScript agent orchestration engine built on a Cyclic State Graph. Compound learning across runs, durable execution, M",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 2,
-    "updated_at": "2026-06-11T17:47:24Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17701,
-    "updated_at": "2026-06-11T17:35:20Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-06-11T17:28:43Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   }
 ]
