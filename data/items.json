@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:00:19Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-11T17:58:40Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Public website and documentation for Phronesis - a Python framework for AI agent systems with practical wisdom at their ",
+    "id": "phronesis-framework/phronesis-web",
+    "language": "TypeScript",
+    "name": "phronesis-framework/phronesis-web",
+    "stars": 0,
+    "updated_at": "2026-06-11T17:57:41Z",
+    "url": "https://github.com/phronesis-framework/phronesis-web"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 0,
+    "updated_at": "2026-06-11T17:57:18Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "\ud83c\udfc6 Ranked list of 100+ agent harnesses. Scored and updated weekly.",
+    "id": "RyanAlberts/best-of-Agent-Harnesses",
+    "language": "Python",
+    "name": "RyanAlberts/best-of-Agent-Harnesses",
+    "stars": 92,
+    "updated_at": "2026-06-11T17:56:58Z",
+    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11258,
+    "updated_at": "2026-06-11T17:55:33Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1194,
+    "updated_at": "2026-06-11T17:55:35Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 6,
+    "updated_at": "2026-06-11T17:51:48Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "TypeScript agent orchestration engine built on a Cyclic State Graph. Compound learning across runs, durable execution, M",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 2,
+    "updated_at": "2026-06-11T17:47:24Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T17:45:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
     "id": "kh0pper/crow",
     "language": "JavaScript",
@@ -18,20 +108,11 @@
     "url": "https://github.com/aaronjmars/aeon"
   },
   {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-11T17:35:33Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17699,
+    "stars": 17701,
     "updated_at": "2026-06-11T17:35:20Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -43,24 +124,6 @@
     "stars": 9,
     "updated_at": "2026-06-11T17:33:09Z",
     "url": "https://github.com/johnnichev/selectools"
-  },
-  {
-    "description": "\ud83c\udfc6 Ranked list of 100+ agent harnesses. Scored and updated weekly.",
-    "id": "RyanAlberts/best-of-Agent-Harnesses",
-    "language": "Python",
-    "name": "RyanAlberts/best-of-Agent-Harnesses",
-    "stars": 92,
-    "updated_at": "2026-06-11T17:31:14Z",
-    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T17:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -77,17 +140,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-11T17:32:17Z",
+    "updated_at": "2026-06-11T17:49:02Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11258,
-    "updated_at": "2026-06-11T17:36:01Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 225,
-    "updated_at": "2026-06-11T17:25:53Z",
+    "updated_at": "2026-06-11T17:57:45Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -121,7 +175,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4217,
+    "stars": 4219,
     "updated_at": "2026-06-11T17:15:01Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -187,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-06-11T17:05:56Z",
     "url": "https://github.com/broomva/life"
-  },
-  {
-    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 6,
-    "updated_at": "2026-06-11T17:31:18Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
     "description": "Local SQLite memory for LLM agents and cross-agent context sharing",
@@ -266,17 +311,8 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 21205,
-    "updated_at": "2026-06-11T16:25:52Z",
+    "updated_at": "2026-06-11T17:56:54Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:29:10Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
@@ -329,7 +365,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 2,
-    "updated_at": "2026-06-11T16:08:15Z",
+    "updated_at": "2026-06-11T17:56:46Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 149,
     "updated_at": "2026-06-11T15:34:03Z",
     "url": "https://github.com/Core-Mate/OpenGUI"
-  },
-  {
-    "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
-    "id": "ebey317/claf",
-    "language": "Python",
-    "name": "ebey317/claf",
-    "stars": 1,
-    "updated_at": "2026-06-11T15:24:17Z",
-    "url": "https://github.com/ebey317/claf"
-  },
-  {
-    "description": "Multi-model adversarial review for catching shared blind spots",
-    "id": "jkraybill/gordo-roundtable",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-roundtable",
-    "stars": 1,
-    "updated_at": "2026-06-11T15:17:18Z",
-    "url": "https://github.com/jkraybill/gordo-roundtable"
-  },
-  {
-    "description": "A governance kernel for organizations that coordinate persistent human and AI-agent roles.",
-    "id": "sparckix/cognitive-firm",
-    "language": "Python",
-    "name": "sparckix/cognitive-firm",
-    "stars": 4,
-    "updated_at": "2026-06-11T15:16:49Z",
-    "url": "https://github.com/sparckix/cognitive-firm"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 15,
-    "updated_at": "2026-06-11T15:14:46Z",
-    "url": "https://github.com/roackb2/heddle"
   }
 ]
