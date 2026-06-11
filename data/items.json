@@ -1,12 +1,66 @@
 [
   {
+    "description": "\"The Operating System for AI Agents. Build, Test, Deploy, Monitor, Govern.\"",
+    "id": "sukethrp/agentos",
+    "language": "Python",
+    "name": "sukethrp/agentos",
+    "stars": 1,
+    "updated_at": "2026-06-11T22:55:20Z",
+    "url": "https://github.com/sukethrp/agentos"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 238,
+    "updated_at": "2026-06-11T22:52:41Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
+    "id": "ellmos-ai/MarbleRun",
+    "language": "Python",
+    "name": "ellmos-ai/MarbleRun",
+    "stars": 1,
+    "updated_at": "2026-06-11T22:48:54Z",
+    "url": "https://github.com/ellmos-ai/MarbleRun"
+  },
+  {
+    "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
+    "id": "vzwjustin/advisor",
+    "language": "Python",
+    "name": "vzwjustin/advisor",
+    "stars": 7,
+    "updated_at": "2026-06-11T22:46:30Z",
+    "url": "https://github.com/vzwjustin/advisor"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-11T22:45:42Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 66,
-    "updated_at": "2026-06-11T22:42:08Z",
+    "updated_at": "2026-06-11T22:50:00Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -16,15 +70,6 @@
     "stars": 11262,
     "updated_at": "2026-06-11T22:38:41Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "\"The Operating System for AI Agents. Build, Test, Deploy, Monitor, Govern.\"",
-    "id": "sukethrp/agentos",
-    "language": "Python",
-    "name": "sukethrp/agentos",
-    "stars": 1,
-    "updated_at": "2026-06-11T22:36:40Z",
-    "url": "https://github.com/sukethrp/agentos"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -45,15 +90,6 @@
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T22:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A personal agent kernel \u2014 memory, safety, and self-maintenance as infrastructure, not prompt text. v1.0 research complet",
     "id": "5000Stadia/Kernos",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T22:30:10Z",
     "url": "https://github.com/5000Stadia/Kernos"
-  },
-  {
-    "description": "Opus-led Claude Code agent team \u2014 strategist plans, Sonnet runners read and fix. Live two-way review-and-fix pipeline. Z",
-    "id": "vzwjustin/advisor",
-    "language": "Python",
-    "name": "vzwjustin/advisor",
-    "stars": 7,
-    "updated_at": "2026-06-11T22:43:55Z",
-    "url": "https://github.com/vzwjustin/advisor"
   },
   {
     "description": "\ud83e\udde0 Self-evolving 10-agent stack for one-person companies. Cron + eval + reflexion + skill library. MIT.",
@@ -221,7 +248,7 @@
     "language": "Go",
     "name": "bakw00ds/yakos",
     "stars": 2,
-    "updated_at": "2026-06-11T22:39:17Z",
+    "updated_at": "2026-06-11T22:51:13Z",
     "url": "https://github.com/bakw00ds/yakos"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-11T22:16:01Z",
+    "updated_at": "2026-06-11T22:52:05Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T21:20:37Z",
     "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
-    "id": "Trickedout-ribier5513/AgentClaw",
-    "language": "TypeScript",
-    "name": "Trickedout-ribier5513/AgentClaw",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:20:27Z",
-    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:20:24Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:19:49Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
   }
 ]
