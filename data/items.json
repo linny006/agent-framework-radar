@@ -1,5 +1,59 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 20926,
+    "updated_at": "2026-06-11T04:15:19Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Declarative multi-agent AI workflows in HCL. Single Go binary. Native MCP. Plugins in Go and Python.",
+    "id": "mlund01/squadron",
+    "language": "Go",
+    "name": "mlund01/squadron",
+    "stars": 6,
+    "updated_at": "2026-06-11T04:07:03Z",
+    "url": "https://github.com/mlund01/squadron"
+  },
+  {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 2,
+    "updated_at": "2026-06-11T04:05:15Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "MiteshSharma/ethos",
+    "language": "TypeScript",
+    "name": "MiteshSharma/ethos",
+    "stars": 5,
+    "updated_at": "2026-06-11T04:03:42Z",
+    "url": "https://github.com/MiteshSharma/ethos"
+  },
+  {
+    "description": "Multi-agent AI framework that writes full-length novels with persistent story state, a deterministic continuity engine, ",
+    "id": "mrigankad/Novel-OS",
+    "language": "Python",
+    "name": "mrigankad/Novel-OS",
+    "stars": 12,
+    "updated_at": "2026-06-11T04:00:47Z",
+    "url": "https://github.com/mrigankad/Novel-OS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
     "id": "kh0pper/crow",
     "language": "JavaScript",
@@ -7,15 +61,6 @@
     "stars": 20,
     "updated_at": "2026-06-11T04:00:03Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 20919,
-    "updated_at": "2026-06-11T03:57:29Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "An agent runtime that truly has experience.",
@@ -32,7 +77,7 @@
     "language": "Rust",
     "name": "broomva/life",
     "stars": 1,
-    "updated_at": "2026-06-11T03:55:24Z",
+    "updated_at": "2026-06-11T04:09:47Z",
     "url": "https://github.com/broomva/life"
   },
   {
@@ -52,24 +97,6 @@
     "stars": 123,
     "updated_at": "2026-06-11T03:52:27Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T03:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Multi-agent AI framework that writes full-length novels with persistent story state, a deterministic continuity engine, ",
-    "id": "mrigankad/Novel-OS",
-    "language": "Python",
-    "name": "mrigankad/Novel-OS",
-    "stars": 12,
-    "updated_at": "2026-06-11T03:42:01Z",
-    "url": "https://github.com/mrigankad/Novel-OS"
   },
   {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
@@ -113,7 +140,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 0,
-    "updated_at": "2026-06-11T03:31:12Z",
+    "updated_at": "2026-06-11T04:15:14Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 222,
-    "updated_at": "2026-06-11T03:57:44Z",
+    "updated_at": "2026-06-11T04:13:44Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T01:38:04Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 14 professi",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 7,
-    "updated_at": "2026-06-11T01:55:40Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-06-11T01:33:40Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:33:25Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
   }
 ]
