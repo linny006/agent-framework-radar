@@ -1,48 +1,30 @@
 [
   {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 9,
+    "updated_at": "2026-06-11T12:30:16Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Eidentic is the open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals built in",
+    "id": "eidentic/eidentic",
+    "language": "TypeScript",
+    "name": "eidentic/eidentic",
+    "stars": 1,
+    "updated_at": "2026-06-11T12:29:47Z",
+    "url": "https://github.com/eidentic/eidentic"
+  },
+  {
+    "description": "PurrCat Agent",
+    "id": "PurrPod/purrcat",
     "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 8,
-    "updated_at": "2026-06-11T12:14:36Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 2,
-    "updated_at": "2026-06-11T12:14:01Z",
-    "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "An agent runtime that truly has experience.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 7,
-    "updated_at": "2026-06-11T12:10:54Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-06-11T12:10:53Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21113,
-    "updated_at": "2026-06-11T12:10:25Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "name": "PurrPod/purrcat",
+    "stars": 5,
+    "updated_at": "2026-06-11T12:27:17Z",
+    "url": "https://github.com/PurrPod/purrcat"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -50,8 +32,98 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 4,
-    "updated_at": "2026-06-11T12:11:04Z",
+    "updated_at": "2026-06-11T12:25:38Z",
     "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-06-11T12:23:27Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
+    "id": "Dkm0315/muster",
+    "language": "TypeScript",
+    "name": "Dkm0315/muster",
+    "stars": 1,
+    "updated_at": "2026-06-11T12:22:00Z",
+    "url": "https://github.com/Dkm0315/muster"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-06-11T12:18:12Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 8,
+    "updated_at": "2026-06-11T12:17:19Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 148,
+    "updated_at": "2026-06-11T12:16:56Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 21121,
+    "updated_at": "2026-06-11T12:16:53Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 6,
+    "updated_at": "2026-06-11T12:19:56Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 74,
+    "updated_at": "2026-06-11T12:15:39Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T12:15:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 2,
+    "updated_at": "2026-06-11T12:24:50Z",
+    "url": "https://github.com/Kortecx/kortecx"
   },
   {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
@@ -81,24 +153,6 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
-    "id": "Dkm0315/muster",
-    "language": "TypeScript",
-    "name": "Dkm0315/muster",
-    "stars": 1,
-    "updated_at": "2026-06-11T12:05:04Z",
-    "url": "https://github.com/Dkm0315/muster"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T12:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
     "id": "openlegion-ai/openlegion",
     "language": "Python",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
     "stars": 1317,
-    "updated_at": "2026-06-11T12:00:05Z",
+    "updated_at": "2026-06-11T12:29:25Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-11T12:10:19Z",
+    "updated_at": "2026-06-11T12:19:23Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 16,
     "updated_at": "2026-06-11T11:56:24Z",
     "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
-  },
-  {
-    "description": "Eidentic is the open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals built in",
-    "id": "eidentic/eidentic",
-    "language": "TypeScript",
-    "name": "eidentic/eidentic",
-    "stars": 1,
-    "updated_at": "2026-06-11T11:56:09Z",
-    "url": "https://github.com/eidentic/eidentic"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "mj-deving/omniweb-agents",
     "stars": 0,
-    "updated_at": "2026-06-11T11:31:52Z",
+    "updated_at": "2026-06-11T12:24:51Z",
     "url": "https://github.com/mj-deving/omniweb-agents"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 224,
-    "updated_at": "2026-06-11T11:11:19Z",
+    "updated_at": "2026-06-11T12:26:30Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T10:01:15Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-06-11T09:45:54Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Governed vision input and perception contract surface for Riverbraid.",
-    "id": "Riverbraid/Riverbraid-Vision-Gold",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-Vision-Gold",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:40:46Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-Vision-Gold"
-  },
-  {
-    "description": "Temporal contracts and governed time based state logic for Riverbraid.",
-    "id": "Riverbraid/Riverbraid-Temporal-Gold",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-Temporal-Gold",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:40:34Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-Temporal-Gold"
-  },
-  {
-    "description": "Meaning scoped persistence and state retention rules for Riverbraid.",
-    "id": "Riverbraid/Riverbraid-Memory-Gold",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-Memory-Gold",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:39:47Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-Memory-Gold"
-  },
-  {
-    "description": "The central directory and Merkle Root mapping for the 17-petal Riverbraid v1.5.0 substrate.",
-    "id": "Riverbraid/Riverbraid-Manifest-Gold",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-Manifest-Gold",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:39:43Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-Manifest-Gold"
   }
 ]
