@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-11 11:00 UTC
+> ⏰ Last updated: 2026-06-11 11:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 21097 | Go | 2026-06-11 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 2 | [openlegion-ai/openlegion](https://github.com/openlegion-ai/openlegion) | 101 | Python | 2026-06-11 | Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c |
-| 3 | [Coding-Autopilot-System/autogen](https://github.com/Coding-Autopilot-System/autogen) | 0 | Python | 2026-06-11 | Python multi-agent automation: Microsoft AutoGen + Gemini/Claude fallback, AG-UI observability |
-| 4 | [iflytek/skillhub](https://github.com/iflytek/skillhub) | 3428 | Java | 2026-06-11 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au |
-| 5 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-11 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 6 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-11 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
-| 7 | [eidentic/eidentic](https://github.com/eidentic/eidentic) | 1 | TypeScript | 2026-06-11 | Eidentic is the open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals built in |
-| 8 | [Aureliolo/synthorg](https://github.com/Aureliolo/synthorg) | 8 | Python | 2026-06-11 | SynthOrg - Framework for building synthetic organizations with autonomous AI agents |
-| 9 | [Eliyce/paqad-ai](https://github.com/Eliyce/paqad-ai) | 4 | TypeScript | 2026-06-11 | Spec-driven development framework — AI agents that think before they type |
-| 10 | [kdcube/kdcube-ai-app](https://github.com/kdcube/kdcube-ai-app) | 9 | Python | 2026-06-11 | Ship customer-facing AI with isolation, spend controls, and provenance. |
-| 11 | [MiteshSharma/ethos](https://github.com/MiteshSharma/ethos) | 5 | TypeScript | 2026-06-11 | TypeScript AI agent framework where personality is architecture. Specialists, not chatbots. |
-| 12 | [ChronoAIProject/Ornn](https://github.com/ChronoAIProject/Ornn) | 19 | TypeScript | 2026-06-11 | Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple  |
-| 13 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 0 | HTML | 2026-06-11 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
-| 14 | [qmilab/asterism](https://github.com/qmilab/asterism) | 1 | TypeScript | 2026-06-11 | A local-first runtime for running many distinct agents — each with its own memory, secrets, skills, workspace, and auton |
-| 15 | [Riverbraid/.github](https://github.com/Riverbraid/.github) | 1 | JavaScript | 2026-06-11 | Organization profile and public entry surface for Riverbraid. |
-| 16 | [KbWen/agentic-os](https://github.com/KbWen/agentic-os) | 8 | Python | 2026-06-11 | Governance-first OS for AI coding agents — structured workflows, delivery gates, engineering guardrails, and 14 professi |
-| 17 | [swarmclawai/swarmclaw](https://github.com/swarmclawai/swarmclaw) | 573 | TypeScript | 2026-06-11 | Open-source self-hosted AI agent runtime and multi-agent framework for autonomous agent swarms. Agent memory, MCP tools, |
-| 18 | [lukeskytorep-bot/echo-claw](https://github.com/lukeskytorep-bot/echo-claw) | 1 | — | 2026-06-11 | ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor–Viewer architecture, blind-target separation, st |
-| 19 | [shadow3aaa/DaatLocus](https://github.com/shadow3aaa/DaatLocus) | 7 | Rust | 2026-06-11 | An agent runtime that truly has experience. |
-| 20 | [shipiit/shipit_agent](https://github.com/shipiit/shipit_agent) | 2 | Python | 2026-06-11 | Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets. |
-| 21 | [Tanush1912/ouroboros](https://github.com/Tanush1912/ouroboros) | 3 | Python | 2026-06-11 | Ouroboros: Agent first software engineering infrastructure. Autonomous AI agents plan, implement, test, review, and merg |
-| 22 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-06-11 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
-| 23 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-11 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 24 | [jaylfc/taOS](https://github.com/jaylfc/taOS) | 223 | Python | 2026-06-11 | Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry  |
-| 25 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-06-11 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 26 | [Riverbraid/Riverbraid-Vision-Gold](https://github.com/Riverbraid/Riverbraid-Vision-Gold) | 1 | JavaScript | 2026-06-11 | Governed vision input and perception contract surface for Riverbraid. |
-| 27 | [Riverbraid/Riverbraid-Temporal-Gold](https://github.com/Riverbraid/Riverbraid-Temporal-Gold) | 1 | JavaScript | 2026-06-11 | Temporal contracts and governed time based state logic for Riverbraid. |
-| 28 | [Riverbraid/Riverbraid-Memory-Gold](https://github.com/Riverbraid/Riverbraid-Memory-Gold) | 1 | JavaScript | 2026-06-11 | Meaning scoped persistence and state retention rules for Riverbraid. |
-| 29 | [Riverbraid/Riverbraid-Manifest-Gold](https://github.com/Riverbraid/Riverbraid-Manifest-Gold) | 1 | JavaScript | 2026-06-11 | The central directory and Merkle Root mapping for the 17-petal Riverbraid v1.5.0 substrate. |
-| 30 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-06-11 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 31 | [Riverbraid/Riverbraid-Interface-Gold](https://github.com/Riverbraid/Riverbraid-Interface-Gold) | 1 | JavaScript | 2026-06-11 | The deterministic UI contract and relational interface substrate for the Riverbraid cluster. |
-| 32 | [Riverbraid/Riverbraid-Integration-Gold](https://github.com/Riverbraid/Riverbraid-Integration-Gold) | 1 | JavaScript | 2026-06-11 | Execution bridge from verified state into system action surfaces. |
-| 33 | [Riverbraid/Riverbraid-Harness-Gold](https://github.com/Riverbraid/Riverbraid-Harness-Gold) | 1 | JavaScript | 2026-06-11 | Cluster wide verification harness for byte floor, seals, and stationary state checks. |
-| 34 | [Riverbraid/Riverbraid-GPG-Gold](https://github.com/Riverbraid/Riverbraid-GPG-Gold) | 1 | JavaScript | 2026-06-11 | The identity anchor and sovereign GPG verification petal for the Riverbraid organization. |
-| 35 | [Riverbraid/Riverbraid-Cognition](https://github.com/Riverbraid/Riverbraid-Cognition) | 1 | JavaScript | 2026-06-11 | Cognitive architecture and meaning processing layer adjacent to the Riverbraid core. |
-| 36 | [Riverbraid/Riverbraid-Audio-Gold](https://github.com/Riverbraid/Riverbraid-Audio-Gold) | 1 | JavaScript | 2026-06-11 | Governed audio input and output contract surface for Riverbraid. |
-| 37 | [Riverbraid/Riverbraid-Action-Gold](https://github.com/Riverbraid/Riverbraid-Action-Gold) | 1 | JavaScript | 2026-06-11 | Governed action execution surface for Riverbraid. |
-| 38 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 11244 | Python | 2026-06-11 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
-| 39 | [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | 1336 | Go | 2026-06-11 | A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a |
-| 40 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17696 | Python | 2026-06-11 | AI Agent Framework, the Pydantic way |
-| 41 | [roackb2/heddle](https://github.com/roackb2/heddle) | 15 | TypeScript | 2026-06-11 | An open-source terminal coding agent runtime and CLI for real project work. |
-| 42 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-06-11 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 43 | [Gald3r-Labs/gald3r](https://github.com/Gald3r-Labs/gald3r) | 10 | Python | 2026-06-11 | AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude  |
-| 44 | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 14260 | TypeScript | 2026-06-11 | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow |
-| 45 | [luckyLo99/Cathay-Agent](https://github.com/luckyLo99/Cathay-Agent) | 0 | Python | 2026-06-11 | Personal Agent OS for coding, creator workflows, mastery learning, memory, and safe automation |
-| 46 | [opencue/cuecards](https://github.com/opencue/cuecards) | 2 | TypeScript | 2026-06-11 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
-| 47 | [inclusionAI/AWorld](https://github.com/inclusionAI/AWorld) | 1202 | Python | 2026-06-11 | Search, understand, reproduce, and improve an idea with ease |
-| 48 | [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) | 274 | TypeScript | 2026-06-11 | 🛡️The governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit- |
-| 49 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 73 | Python | 2026-06-11 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
-| 50 | [ellmos-ai/skills](https://github.com/ellmos-ai/skills) | 1 | Python | 2026-06-11 | Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows |
+| 1 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 3 | Python | 2026-06-11 | Many Agents, one objective... yours  |
+| 2 | [Eliyce/paqad-ai](https://github.com/Eliyce/paqad-ai) | 4 | TypeScript | 2026-06-11 | Spec-driven development framework — AI agents that think before they type |
+| 3 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 21101 | Go | 2026-06-11 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 4 | [hoangtuanhehehehhe/AgentVault](https://github.com/hoangtuanhehehehhe/AgentVault) | 9 | Python | 2026-06-11 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M |
+| 5 | [shadow3aaa/DaatLocus](https://github.com/shadow3aaa/DaatLocus) | 7 | Rust | 2026-06-11 | An agent runtime that truly has experience. |
+| 6 | [w8123/EnterpriseAgentFramework](https://github.com/w8123/EnterpriseAgentFramework) | 297 | Java | 2026-06-11 | Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen |
+| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 0 | Python | 2026-06-11 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 8 | [openlegion-ai/openlegion](https://github.com/openlegion-ai/openlegion) | 101 | Python | 2026-06-11 | Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c |
+| 9 | [Coding-Autopilot-System/autogen](https://github.com/Coding-Autopilot-System/autogen) | 0 | Python | 2026-06-11 | Python multi-agent automation: Microsoft AutoGen + Gemini/Claude fallback, AG-UI observability |
+| 10 | [iflytek/skillhub](https://github.com/iflytek/skillhub) | 3428 | Java | 2026-06-11 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au |
+| 11 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-11 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
+| 12 | [eidentic/eidentic](https://github.com/eidentic/eidentic) | 1 | TypeScript | 2026-06-11 | Eidentic is the open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals built in |
+| 13 | [Aureliolo/synthorg](https://github.com/Aureliolo/synthorg) | 8 | Python | 2026-06-11 | SynthOrg - Framework for building synthetic organizations with autonomous AI agents |
+| 14 | [kdcube/kdcube-ai-app](https://github.com/kdcube/kdcube-ai-app) | 9 | Python | 2026-06-11 | Ship customer-facing AI with isolation, spend controls, and provenance. |
+| 15 | [MiteshSharma/ethos](https://github.com/MiteshSharma/ethos) | 5 | TypeScript | 2026-06-11 | TypeScript AI agent framework where personality is architecture. Specialists, not chatbots. |
+| 16 | [ChronoAIProject/Ornn](https://github.com/ChronoAIProject/Ornn) | 19 | TypeScript | 2026-06-11 | Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple  |
+| 17 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 0 | HTML | 2026-06-11 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
+| 18 | [qmilab/asterism](https://github.com/qmilab/asterism) | 1 | TypeScript | 2026-06-11 | A local-first runtime for running many distinct agents — each with its own memory, secrets, skills, workspace, and auton |
+| 19 | [Riverbraid/.github](https://github.com/Riverbraid/.github) | 1 | JavaScript | 2026-06-11 | Organization profile and public entry surface for Riverbraid. |
+| 20 | [KbWen/agentic-os](https://github.com/KbWen/agentic-os) | 8 | Python | 2026-06-11 | Governance-first OS for AI coding agents — structured workflows, delivery gates, engineering guardrails, and 14 professi |
+| 21 | [swarmclawai/swarmclaw](https://github.com/swarmclawai/swarmclaw) | 574 | TypeScript | 2026-06-11 | Open-source self-hosted AI agent runtime and multi-agent framework for autonomous agent swarms. Agent memory, MCP tools, |
+| 22 | [lukeskytorep-bot/echo-claw](https://github.com/lukeskytorep-bot/echo-claw) | 1 | — | 2026-06-11 | ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor–Viewer architecture, blind-target separation, st |
+| 23 | [shipiit/shipit_agent](https://github.com/shipiit/shipit_agent) | 2 | Python | 2026-06-11 | Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets. |
+| 24 | [Tanush1912/ouroboros](https://github.com/Tanush1912/ouroboros) | 3 | Python | 2026-06-11 | Ouroboros: Agent first software engineering infrastructure. Autonomous AI agents plan, implement, test, review, and merg |
+| 25 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-06-11 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
+| 26 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-11 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 27 | [jaylfc/taOS](https://github.com/jaylfc/taOS) | 223 | Python | 2026-06-11 | Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry  |
+| 28 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-06-11 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 29 | [Riverbraid/Riverbraid-Vision-Gold](https://github.com/Riverbraid/Riverbraid-Vision-Gold) | 1 | JavaScript | 2026-06-11 | Governed vision input and perception contract surface for Riverbraid. |
+| 30 | [Riverbraid/Riverbraid-Temporal-Gold](https://github.com/Riverbraid/Riverbraid-Temporal-Gold) | 1 | JavaScript | 2026-06-11 | Temporal contracts and governed time based state logic for Riverbraid. |
+| 31 | [Riverbraid/Riverbraid-Memory-Gold](https://github.com/Riverbraid/Riverbraid-Memory-Gold) | 1 | JavaScript | 2026-06-11 | Meaning scoped persistence and state retention rules for Riverbraid. |
+| 32 | [Riverbraid/Riverbraid-Manifest-Gold](https://github.com/Riverbraid/Riverbraid-Manifest-Gold) | 1 | JavaScript | 2026-06-11 | The central directory and Merkle Root mapping for the 17-petal Riverbraid v1.5.0 substrate. |
+| 33 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-06-11 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 34 | [Riverbraid/Riverbraid-Interface-Gold](https://github.com/Riverbraid/Riverbraid-Interface-Gold) | 1 | JavaScript | 2026-06-11 | The deterministic UI contract and relational interface substrate for the Riverbraid cluster. |
+| 35 | [Riverbraid/Riverbraid-Integration-Gold](https://github.com/Riverbraid/Riverbraid-Integration-Gold) | 1 | JavaScript | 2026-06-11 | Execution bridge from verified state into system action surfaces. |
+| 36 | [Riverbraid/Riverbraid-Harness-Gold](https://github.com/Riverbraid/Riverbraid-Harness-Gold) | 1 | JavaScript | 2026-06-11 | Cluster wide verification harness for byte floor, seals, and stationary state checks. |
+| 37 | [Riverbraid/Riverbraid-GPG-Gold](https://github.com/Riverbraid/Riverbraid-GPG-Gold) | 1 | JavaScript | 2026-06-11 | The identity anchor and sovereign GPG verification petal for the Riverbraid organization. |
+| 38 | [Riverbraid/Riverbraid-Cognition](https://github.com/Riverbraid/Riverbraid-Cognition) | 1 | JavaScript | 2026-06-11 | Cognitive architecture and meaning processing layer adjacent to the Riverbraid core. |
+| 39 | [Riverbraid/Riverbraid-Audio-Gold](https://github.com/Riverbraid/Riverbraid-Audio-Gold) | 1 | JavaScript | 2026-06-11 | Governed audio input and output contract surface for Riverbraid. |
+| 40 | [Riverbraid/Riverbraid-Action-Gold](https://github.com/Riverbraid/Riverbraid-Action-Gold) | 1 | JavaScript | 2026-06-11 | Governed action execution surface for Riverbraid. |
+| 41 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 11244 | Python | 2026-06-11 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
+| 42 | [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | 1336 | Go | 2026-06-11 | A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a |
+| 43 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17696 | Python | 2026-06-11 | AI Agent Framework, the Pydantic way |
+| 44 | [roackb2/heddle](https://github.com/roackb2/heddle) | 15 | TypeScript | 2026-06-11 | An open-source terminal coding agent runtime and CLI for real project work. |
+| 45 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-06-11 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 46 | [Gald3r-Labs/gald3r](https://github.com/Gald3r-Labs/gald3r) | 10 | Python | 2026-06-11 | AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude  |
+| 47 | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 14260 | TypeScript | 2026-06-11 | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow |
+| 48 | [luckyLo99/Cathay-Agent](https://github.com/luckyLo99/Cathay-Agent) | 0 | Python | 2026-06-11 | Personal Agent OS for coding, creator workflows, mastery learning, memory, and safe automation |
+| 49 | [opencue/cuecards](https://github.com/opencue/cuecards) | 2 | TypeScript | 2026-06-11 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
+| 50 | [inclusionAI/AWorld](https://github.com/inclusionAI/AWorld) | 1202 | Python | 2026-06-11 | Search, understand, reproduce, and improve an idea with ease |
 <!-- TRACKER_TABLE_END -->
 
 ---
