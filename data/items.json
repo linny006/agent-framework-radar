@@ -4,9 +4,72 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 20926,
-    "updated_at": "2026-06-11T04:15:19Z",
+    "stars": 20930,
+    "updated_at": "2026-06-11T04:29:44Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 9,
+    "updated_at": "2026-06-11T04:26:08Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
+    "description": "Multi-agent AI framework that writes full-length novels with persistent story state, a deterministic continuity engine, ",
+    "id": "mrigankad/Novel-OS",
+    "language": "Python",
+    "name": "mrigankad/Novel-OS",
+    "stars": 12,
+    "updated_at": "2026-06-11T04:24:59Z",
+    "url": "https://github.com/mrigankad/Novel-OS"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:21:29Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
+    "id": "the-long-ride/engram",
+    "language": "TypeScript",
+    "name": "the-long-ride/engram",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:21:00Z",
+    "url": "https://github.com/the-long-ride/engram"
+  },
+  {
+    "description": "AgentBox - Your personal AI agent that lives in Telegram. Web, reminders, image understanding, and more.",
+    "id": "sauravbhattacharya001/getagentbox",
+    "language": "HTML",
+    "name": "sauravbhattacharya001/getagentbox",
+    "stars": 1,
+    "updated_at": "2026-06-11T04:20:19Z",
+    "url": "https://github.com/sauravbhattacharya001/getagentbox"
+  },
+  {
+    "description": "A personal agent kernel \u2014 memory, safety, and self-maintenance as infrastructure, not prompt text. v1.0 research complet",
+    "id": "5000Stadia/Kernos",
+    "language": "Python",
+    "name": "5000Stadia/Kernos",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:17:23Z",
+    "url": "https://github.com/5000Stadia/Kernos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:15:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Declarative multi-agent AI workflows in HCL. Single Go binary. Native MCP. Plugins in Go and Python.",
@@ -23,7 +86,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 2,
-    "updated_at": "2026-06-11T04:05:15Z",
+    "updated_at": "2026-06-11T04:27:24Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -34,24 +97,6 @@
     "stars": 5,
     "updated_at": "2026-06-11T04:03:42Z",
     "url": "https://github.com/MiteshSharma/ethos"
-  },
-  {
-    "description": "Multi-agent AI framework that writes full-length novels with persistent story state, a deterministic continuity engine, ",
-    "id": "mrigankad/Novel-OS",
-    "language": "Python",
-    "name": "mrigankad/Novel-OS",
-    "stars": 12,
-    "updated_at": "2026-06-11T04:00:47Z",
-    "url": "https://github.com/mrigankad/Novel-OS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T04:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
@@ -77,7 +122,7 @@
     "language": "Rust",
     "name": "broomva/life",
     "stars": 1,
-    "updated_at": "2026-06-11T04:09:47Z",
+    "updated_at": "2026-06-11T04:25:31Z",
     "url": "https://github.com/broomva/life"
   },
   {
@@ -135,15 +180,6 @@
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
-    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 0,
-    "updated_at": "2026-06-11T04:15:14Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-11T03:28:29Z",
+    "updated_at": "2026-06-11T04:25:56Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -351,6 +387,15 @@
     "url": "https://github.com/jkraybill/gordo-forge"
   },
   {
+    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 14 professi",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 8,
+    "updated_at": "2026-06-11T01:55:40Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
     "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
     "id": "bzcsk2/DeepReef",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T01:42:52Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 1,
-    "updated_at": "2026-06-11T02:28:35Z",
-    "url": "https://github.com/qmilab/asterism"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-11T01:40:13Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:38:11Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Agents that remember. Open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals bu",
-    "id": "eidentic/eidentic",
-    "language": "TypeScript",
-    "name": "eidentic/eidentic",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:38:11Z",
-    "url": "https://github.com/eidentic/eidentic"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:38:04Z",
-    "url": "https://github.com/Smita6756/Hbrain"
   }
 ]
