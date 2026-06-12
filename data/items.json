@@ -1,11 +1,101 @@
 [
   {
+    "description": "Self-hosted AI agent runtime in Rust: run autonomous LLM agents over Telegram & Discord with durable queues, fail-closed",
+    "id": "phenomenoner/agent-harness-core",
+    "language": "Rust",
+    "name": "phenomenoner/agent-harness-core",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:43:54Z",
+    "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "Production-ready Python framework for AI agents with built-in guardrails, audit logging, cost tracking, and hybrid RAG. ",
+    "id": "johnnichev/selectools",
+    "language": "Python",
+    "name": "johnnichev/selectools",
+    "stars": 9,
+    "updated_at": "2026-06-12T11:43:20Z",
+    "url": "https://github.com/johnnichev/selectools"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:40:12Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
+    "id": "subkoks/agents-md",
+    "language": "Shell",
+    "name": "subkoks/agents-md",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:39:09Z",
+    "url": "https://github.com/subkoks/agents-md"
+  },
+  {
+    "description": "ellmos-ai organization profile and complete public repo index for local-first LLM operating systems, agent infrastructur",
+    "id": "ellmos-ai/.github",
+    "language": "\u2014",
+    "name": "ellmos-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:38:20Z",
+    "url": "https://github.com/ellmos-ai/.github"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:33:02Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-12T11:31:44Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 32,
+    "updated_at": "2026-06-12T11:30:36Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11283,
+    "updated_at": "2026-06-12T11:30:09Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 151,
-    "updated_at": "2026-06-12T11:25:29Z",
+    "updated_at": "2026-06-12T11:34:51Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -27,20 +117,11 @@
     "url": "https://github.com/erayendes/kortext"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21474,
+    "stars": 21476,
     "updated_at": "2026-06-12T11:10:30Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -52,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-06-12T11:08:36Z",
     "url": "https://github.com/Dkm0315/muster"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11282,
-    "updated_at": "2026-06-12T11:30:09Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Eidentic is the open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals built in",
@@ -88,15 +160,6 @@
     "stars": 7,
     "updated_at": "2026-06-12T11:02:08Z",
     "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "Self-hosted AI agent runtime in Rust: run autonomous LLM agents over Telegram & Discord with durable queues, fail-closed",
-    "id": "phenomenoner/agent-harness-core",
-    "language": "Rust",
-    "name": "phenomenoner/agent-harness-core",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:01:53Z",
-    "url": "https://github.com/phenomenoner/agent-harness-core"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-12T10:46:28Z",
     "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Governed AI agent runtime with a local-first desktop app + CLI. Chat with any model (Claude, OpenAI, Groq, Ollama, LM St",
-    "id": "gryszzz/open-thymos",
-    "language": "Rust",
-    "name": "gryszzz/open-thymos",
-    "stars": 16,
-    "updated_at": "2026-06-12T11:01:32Z",
-    "url": "https://github.com/gryszzz/open-thymos"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:44:51Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-12T10:44:07Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:43:36Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-12T10:43:25Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:42:50Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 2,
-    "updated_at": "2026-06-12T10:42:21Z",
-    "url": "https://github.com/cele9529/LingxiFish"
   }
 ]
