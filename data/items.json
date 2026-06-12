@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4251,
+    "updated_at": "2026-06-12T18:14:34Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:14:20Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 275,
+    "updated_at": "2026-06-12T18:12:45Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 508,
+    "updated_at": "2026-06-12T18:11:01Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Open-source platform layer for AI agents in production",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 187,
+    "updated_at": "2026-06-12T18:12:37Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 123,
+    "updated_at": "2026-06-12T18:15:10Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline wo",
+    "id": "CronusL-1141/AI-company",
+    "language": "Python",
+    "name": "CronusL-1141/AI-company",
+    "stars": 187,
+    "updated_at": "2026-06-12T18:05:14Z",
+    "url": "https://github.com/CronusL-1141/AI-company"
+  },
+  {
+    "description": "CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for autoresearch. Works w",
+    "id": "Human-Agent-Society/CORAL",
+    "language": "Python",
+    "name": "Human-Agent-Society/CORAL",
+    "stars": 722,
+    "updated_at": "2026-06-12T18:02:18Z",
+    "url": "https://github.com/Human-Agent-Society/CORAL"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-06-12T18:04:02Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\"The Operating System for AI Agents. Build, Test, Deploy, Monitor, Govern.\"",
     "id": "sukethrp/agentos",
     "language": "Python",
@@ -27,20 +117,11 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Open-source platform layer for AI agents in production",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 187,
-    "updated_at": "2026-06-12T17:58:28Z",
-    "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
     "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
     "id": "vstorm-co/full-stack-ai-agent-template",
     "language": "Python",
     "name": "vstorm-co/full-stack-ai-agent-template",
-    "stars": 1386,
+    "stars": 1387,
     "updated_at": "2026-06-12T17:56:54Z",
     "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
   },
@@ -79,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-06-12T17:52:29Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:52:27Z",
-    "url": "https://github.com/ludex-lab/ludex"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -198,15 +270,6 @@
     "url": "https://github.com/floccose-burner9185/wow-harness"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
     "id": "carlososoriopulgar/agent-kernel",
     "language": "\u2014",
@@ -288,15 +351,6 @@
     "url": "https://github.com/Danielle6426/Qwen-Loop"
   },
   {
-    "description": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline wo",
-    "id": "CronusL-1141/AI-company",
-    "language": "Python",
-    "name": "CronusL-1141/AI-company",
-    "stars": 187,
-    "updated_at": "2026-06-12T17:43:18Z",
-    "url": "https://github.com/CronusL-1141/AI-company"
-  },
-  {
     "description": "",
     "id": "brushworkoilpressure365/oh-my-code",
     "language": "Rust",
@@ -340,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-06-12T17:40:56Z",
     "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 508,
-    "updated_at": "2026-06-12T17:40:45Z",
-    "url": "https://github.com/aaronjmars/aeon"
   },
   {
     "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-12T17:38:57Z",
     "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:37:38Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-12T17:36:22Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:35:40Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:35:13Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8541,
-    "updated_at": "2026-06-12T17:34:34Z",
-    "url": "https://github.com/EvoMap/evolver"
   }
 ]
