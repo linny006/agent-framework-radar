@@ -1,10 +1,127 @@
 [
   {
+    "description": "Eidentic is the open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals built in",
+    "id": "eidentic/eidentic",
+    "language": "TypeScript",
+    "name": "eidentic/eidentic",
+    "stars": 1,
+    "updated_at": "2026-06-12T09:11:13Z",
+    "url": "https://github.com/eidentic/eidentic"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 4,
+    "updated_at": "2026-06-12T09:14:36Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 11,
+    "updated_at": "2026-06-12T09:07:10Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 123,
+    "updated_at": "2026-06-12T09:06:00Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
+    "id": "Sanga1032/fullstack-mcp-playground",
+    "language": "TypeScript",
+    "name": "Sanga1032/fullstack-mcp-playground",
+    "stars": 1,
+    "updated_at": "2026-06-12T09:03:55Z",
+    "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-12T09:03:06Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 107,
+    "updated_at": "2026-06-12T09:03:03Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-12T09:01:49Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "No-code AI agent builder \u2014 turn one sentence into a single agent or a multi-agent team. The engine inside Agentlas. A no",
+    "id": "agentlas-ai/Hephaestus",
+    "language": "Python",
+    "name": "agentlas-ai/Hephaestus",
+    "stars": 51,
+    "updated_at": "2026-06-12T09:01:44Z",
+    "url": "https://github.com/agentlas-ai/Hephaestus"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1342,
+    "updated_at": "2026-06-12T09:01:34Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 274,
+    "updated_at": "2026-06-12T09:01:33Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "MiteshSharma/ethos",
+    "language": "TypeScript",
+    "name": "MiteshSharma/ethos",
+    "stars": 5,
+    "updated_at": "2026-06-12T09:01:01Z",
+    "url": "https://github.com/MiteshSharma/ethos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-12T09:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21437,
+    "stars": 21444,
     "updated_at": "2026-06-12T08:56:54Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -36,38 +153,11 @@
     "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026"
   },
   {
-    "description": "No-code AI agent builder \u2014 turn one sentence into a single agent or a multi-agent team. The engine inside Agentlas. A no",
-    "id": "agentlas-ai/Hephaestus",
-    "language": "Python",
-    "name": "agentlas-ai/Hephaestus",
-    "stars": 51,
-    "updated_at": "2026-06-12T08:50:50Z",
-    "url": "https://github.com/agentlas-ai/Hephaestus"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 107,
-    "updated_at": "2026-06-12T08:55:11Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 123,
-    "updated_at": "2026-06-12T08:50:33Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4242,
+    "stars": 4243,
     "updated_at": "2026-06-12T08:50:32Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -81,15 +171,6 @@
     "url": "https://github.com/the-long-ride/engram"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-12T08:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Enterprise control plane for ephemeral AI agents via Firecracker MicroVMs",
     "id": "steve-seungeui/ephemera",
     "language": "Go",
@@ -97,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-06-12T08:45:21Z",
     "url": "https://github.com/steve-seungeui/ephemera"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 4,
-    "updated_at": "2026-06-12T08:43:48Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -157,7 +229,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11278,
+    "stars": 11279,
     "updated_at": "2026-06-12T08:35:31Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -221,7 +293,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 2,
-    "updated_at": "2026-06-12T08:27:53Z",
+    "updated_at": "2026-06-12T09:11:52Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -230,7 +302,7 @@
     "language": "Python",
     "name": "markl-a/phantom-secops",
     "stars": 0,
-    "updated_at": "2026-06-12T08:27:03Z",
+    "updated_at": "2026-06-12T09:06:26Z",
     "url": "https://github.com/markl-a/phantom-secops"
   },
   {
@@ -239,7 +311,7 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 409,
-    "updated_at": "2026-06-12T08:27:19Z",
+    "updated_at": "2026-06-12T09:11:11Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -286,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T08:11:04Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 274,
-    "updated_at": "2026-06-12T08:09:50Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T08:02:04Z",
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
-    "id": "Trickedout-ribier5513/AgentClaw",
-    "language": "TypeScript",
-    "name": "Trickedout-ribier5513/AgentClaw",
-    "stars": 0,
-    "updated_at": "2026-06-12T08:01:50Z",
-    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-06-12T08:01:42Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-12T08:01:42Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1341,
-    "updated_at": "2026-06-12T08:01:25Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-06-12T08:00:58Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-06-12T08:00:36Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Automate software development with an autonomous multi-agent loop using Qwen Code to self-direct, commit, and improve yo",
-    "id": "Danielle6426/Qwen-Loop",
-    "language": "TypeScript",
-    "name": "Danielle6426/Qwen-Loop",
-    "stars": 0,
-    "updated_at": "2026-06-12T08:00:32Z",
-    "url": "https://github.com/Danielle6426/Qwen-Loop"
   }
 ]
