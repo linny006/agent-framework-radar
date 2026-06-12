@@ -1,21 +1,102 @@
 [
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4251,
-    "updated_at": "2026-06-12T18:14:34Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
     "id": "ludex-lab/ludex",
     "language": "Python",
     "name": "ludex-lab/ludex",
     "stars": 0,
-    "updated_at": "2026-06-12T18:14:20Z",
+    "updated_at": "2026-06-12T18:29:53Z",
     "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-06-12T18:29:49Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:29:34Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Open-source platform layer for AI agents in production",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 187,
+    "updated_at": "2026-06-12T18:28:48Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4251,
+    "updated_at": "2026-06-12T18:28:26Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 15,
+    "updated_at": "2026-06-12T18:21:36Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-06-12T18:19:13Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cuan",
+    "id": "fxMT-nx/El-Primor",
+    "language": "JavaScript",
+    "name": "fxMT-nx/El-Primor",
+    "stars": 6,
+    "updated_at": "2026-06-12T18:18:27Z",
+    "url": "https://github.com/fxMT-nx/El-Primor"
+  },
+  {
+    "description": "Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases",
+    "id": "ellmos-ai/gardener",
+    "language": "Python",
+    "name": "ellmos-ai/gardener",
+    "stars": 1,
+    "updated_at": "2026-06-12T18:18:23Z",
+    "url": "https://github.com/ellmos-ai/gardener"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 508,
+    "updated_at": "2026-06-12T18:16:40Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
@@ -25,24 +106,6 @@
     "stars": 275,
     "updated_at": "2026-06-12T18:12:45Z",
     "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 508,
-    "updated_at": "2026-06-12T18:11:01Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
-    "description": "Open-source platform layer for AI agents in production",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 187,
-    "updated_at": "2026-06-12T18:12:37Z",
-    "url": "https://github.com/zenml-io/kitaru"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -72,24 +135,6 @@
     "url": "https://github.com/Human-Agent-Society/CORAL"
   },
   {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-06-12T18:04:02Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-12T18:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\"The Operating System for AI Agents. Build, Test, Deploy, Monitor, Govern.\"",
     "id": "sukethrp/agentos",
     "language": "Python",
@@ -112,7 +157,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6116,
+    "stars": 6117,
     "updated_at": "2026-06-12T17:59:04Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -149,7 +194,7 @@
     "language": "Shell",
     "name": "ek33450505/claude-agent-team",
     "stars": 6,
-    "updated_at": "2026-06-12T17:54:31Z",
+    "updated_at": "2026-06-12T18:29:39Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "rllm-org/rllm",
     "stars": 5607,
-    "updated_at": "2026-06-12T17:52:12Z",
+    "updated_at": "2026-06-12T18:22:36Z",
     "url": "https://github.com/rllm-org/rllm"
   },
   {
@@ -333,15 +378,6 @@
     "url": "https://github.com/plain-sleepydick853/feros"
   },
   {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-06-12T17:43:32Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
     "description": "Automate software development with an autonomous multi-agent loop using Qwen Code to self-direct, commit, and improve yo",
     "id": "Danielle6426/Qwen-Loop",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-12T17:40:10Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
-    "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "language": "TypeScript",
-    "name": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:40:03Z",
-    "url": "https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:39:44Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Build an open-source Claude Code clone for terminal AI coding with OpenAI-compatible models, file edits, and command exe",
-    "id": "Thuso030703/open-claude",
-    "language": "\u2014",
-    "name": "Thuso030703/open-claude",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:39:28Z",
-    "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:38:57Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
   }
 ]
