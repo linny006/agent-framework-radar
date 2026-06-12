@@ -1,12 +1,102 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 21474,
+    "updated_at": "2026-06-12T11:10:30Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
     "id": "Dkm0315/muster",
     "language": "TypeScript",
     "name": "Dkm0315/muster",
     "stars": 3,
-    "updated_at": "2026-06-12T10:59:46Z",
+    "updated_at": "2026-06-12T11:08:36Z",
     "url": "https://github.com/Dkm0315/muster"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-12T11:08:30Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 151,
+    "updated_at": "2026-06-12T11:08:22Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Eidentic is the open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals built in",
+    "id": "eidentic/eidentic",
+    "language": "TypeScript",
+    "name": "eidentic/eidentic",
+    "stars": 1,
+    "updated_at": "2026-06-12T11:04:23Z",
+    "url": "https://github.com/eidentic/eidentic"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 155,
+    "updated_at": "2026-06-12T11:02:39Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-06-12T11:02:08Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "Self-hosted AI agent runtime in Rust: run autonomous LLM agents over Telegram & Discord with durable queues, fail-closed",
+    "id": "phenomenoner/agent-harness-core",
+    "language": "Rust",
+    "name": "phenomenoner/agent-harness-core",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:01:53Z",
+    "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
+    "id": "sloppy-yeast840/tri-party-framework",
+    "language": "Shell",
+    "name": "sloppy-yeast840/tri-party-framework",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:01:41Z",
+    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:01:24Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -162,15 +252,6 @@
     "url": "https://github.com/Danielle6426/Qwen-Loop"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 151,
-    "updated_at": "2026-06-12T10:50:36Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "",
     "id": "brushworkoilpressure365/oh-my-code",
     "language": "Rust",
@@ -279,15 +360,6 @@
     "url": "https://github.com/Thuso030703/open-claude"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:46:38Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
     "id": "Sammyblear596/open-agent-sdk-go",
     "language": "Go",
@@ -302,7 +374,7 @@
     "language": "Rust",
     "name": "gryszzz/open-thymos",
     "stars": 16,
-    "updated_at": "2026-06-12T10:46:16Z",
+    "updated_at": "2026-06-12T11:01:32Z",
     "url": "https://github.com/gryszzz/open-thymos"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T10:40:35Z",
     "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:40:09Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:39:33Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Build self-spawning AI agents from tasks with distributed memory, guardrails, and a fossil record.",
-    "id": "karunun4659/spawnverse",
-    "language": "\u2014",
-    "name": "karunun4659/spawnverse",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:39:33Z",
-    "url": "https://github.com/karunun4659/spawnverse"
-  },
-  {
-    "description": "Connect WeChat messages to local AI coding agents like Codex, OpenCode, and Claude Code for fast task handling and file ",
-    "id": "arthursou0512/wechat-agent-channel",
-    "language": "Python",
-    "name": "arthursou0512/wechat-agent-channel",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:38:58Z",
-    "url": "https://github.com/arthursou0512/wechat-agent-channel"
-  },
-  {
-    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
-    "id": "ChronoAIProject/Ornn",
-    "language": "TypeScript",
-    "name": "ChronoAIProject/Ornn",
-    "stars": 19,
-    "updated_at": "2026-06-12T10:39:37Z",
-    "url": "https://github.com/ChronoAIProject/Ornn"
-  },
-  {
-    "description": "Build AI agents with memory using three markdown files and a git repo; no framework, no database, works with any coding ",
-    "id": "Nurrachm6921/agent-kernel",
-    "language": "\u2014",
-    "name": "Nurrachm6921/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:38:13Z",
-    "url": "https://github.com/Nurrachm6921/agent-kernel"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-06-12T10:37:37Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 4,
-    "updated_at": "2026-06-12T10:37:45Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
   }
 ]
