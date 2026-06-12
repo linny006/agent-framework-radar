@@ -1,21 +1,93 @@
 [
   {
-    "description": "Composable Python SDK for building single-agent and multi-agent AI systems.",
-    "id": "nanitics/nanitics",
-    "language": "Python",
-    "name": "nanitics/nanitics",
-    "stars": 5,
-    "updated_at": "2026-06-12T12:30:00Z",
-    "url": "https://github.com/nanitics/nanitics"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-12T12:29:19Z",
+    "updated_at": "2026-06-12T12:45:07Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1337,
+    "updated_at": "2026-06-12T12:44:44Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 151,
+    "updated_at": "2026-06-12T12:43:42Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "",
+    "id": "manishiitg/mcp-agent-builder-go",
+    "language": "Go",
+    "name": "manishiitg/mcp-agent-builder-go",
+    "stars": 5,
+    "updated_at": "2026-06-12T12:43:05Z",
+    "url": "https://github.com/manishiitg/mcp-agent-builder-go"
+  },
+  {
+    "description": "Personal Agent OS for coding, creator workflows, mastery learning, memory, and safe automation",
+    "id": "luckyLo99/Cathay-Agent",
+    "language": "Python",
+    "name": "luckyLo99/Cathay-Agent",
+    "stars": 0,
+    "updated_at": "2026-06-12T12:43:40Z",
+    "url": "https://github.com/luckyLo99/Cathay-Agent"
+  },
+  {
+    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
+    "id": "Dkm0315/muster",
+    "language": "TypeScript",
+    "name": "Dkm0315/muster",
+    "stars": 3,
+    "updated_at": "2026-06-12T12:41:47Z",
+    "url": "https://github.com/Dkm0315/muster"
+  },
+  {
+    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
+    "id": "OrlojHQ/orloj",
+    "language": "Go",
+    "name": "OrlojHQ/orloj",
+    "stars": 103,
+    "updated_at": "2026-06-12T12:39:19Z",
+    "url": "https://github.com/OrlojHQ/orloj"
+  },
+  {
+    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
+    "id": "BrettMGoughWork/vai-core",
+    "language": "Python",
+    "name": "BrettMGoughWork/vai-core",
+    "stars": 3,
+    "updated_at": "2026-06-12T12:37:22Z",
+    "url": "https://github.com/BrettMGoughWork/vai-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-12T12:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Composable Python SDK for building single-agent and multi-agent AI systems.",
+    "id": "nanitics/nanitics",
+    "language": "Python",
+    "name": "nanitics/nanitics",
+    "stars": 5,
+    "updated_at": "2026-06-12T12:31:21Z",
+    "url": "https://github.com/nanitics/nanitics"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -25,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T12:28:24Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Personal Agent OS for coding, creator workflows, mastery learning, memory, and safe automation",
-    "id": "luckyLo99/Cathay-Agent",
-    "language": "Python",
-    "name": "luckyLo99/Cathay-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-12T12:27:25Z",
-    "url": "https://github.com/luckyLo99/Cathay-Agent"
-  },
-  {
-    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1337,
-    "updated_at": "2026-06-12T12:27:20Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -81,21 +135,12 @@
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-12T12:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
     "id": "bzcsk2/DeepReef",
     "language": "TypeScript",
     "name": "bzcsk2/DeepReef",
     "stars": 5,
-    "updated_at": "2026-06-12T12:15:11Z",
+    "updated_at": "2026-06-12T12:44:35Z",
     "url": "https://github.com/bzcsk2/DeepReef"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-12T12:14:02Z",
+    "updated_at": "2026-06-12T12:44:57Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -216,21 +261,12 @@
     "url": "https://github.com/MiteshSharma/ethos"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 151,
-    "updated_at": "2026-06-12T11:46:53Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Self-hosted AI agent runtime in Rust: run autonomous LLM agents over Telegram & Discord with durable queues, fail-closed",
     "id": "phenomenoner/agent-harness-core",
     "language": "Rust",
     "name": "phenomenoner/agent-harness-core",
     "stars": 0,
-    "updated_at": "2026-06-12T11:43:54Z",
+    "updated_at": "2026-06-12T12:32:59Z",
     "url": "https://github.com/phenomenoner/agent-harness-core"
   },
   {
@@ -292,18 +328,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21488,
+    "stars": 21491,
     "updated_at": "2026-06-12T11:10:30Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
-    "id": "Dkm0315/muster",
-    "language": "TypeScript",
-    "name": "Dkm0315/muster",
-    "stars": 3,
-    "updated_at": "2026-06-12T11:08:36Z",
-    "url": "https://github.com/Dkm0315/muster"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T10:52:34Z",
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:52:09Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:52:06Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Deploy open-source AI agents into Slack to handle GTM, hiring, finance, and legal tasks for your startup using your own ",
-    "id": "Trickedout-ribier5513/AgentClaw",
-    "language": "TypeScript",
-    "name": "Trickedout-ribier5513/AgentClaw",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:51:57Z",
-    "url": "https://github.com/Trickedout-ribier5513/AgentClaw"
   }
 ]
