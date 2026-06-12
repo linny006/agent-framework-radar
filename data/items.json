@@ -1,5 +1,113 @@
 [
   {
+    "description": "Open-source platform layer for AI agents in production",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 187,
+    "updated_at": "2026-06-12T07:00:03Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-12T07:00:15Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 21384,
+    "updated_at": "2026-06-12T06:59:38Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 0,
+    "updated_at": "2026-06-12T06:58:37Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-06-12T06:55:30Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-06-12T06:53:08Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-06-12T06:52:24Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
+    "id": "markl-a/phantom-secops",
+    "language": "Python",
+    "name": "markl-a/phantom-secops",
+    "stars": 0,
+    "updated_at": "2026-06-12T06:48:21Z",
+    "url": "https://github.com/markl-a/phantom-secops"
+  },
+  {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 11,
+    "updated_at": "2026-06-12T06:47:54Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
+    "description": "Substructure is an engine for building durable, long-running AI agents using only a stateless HTTP endpoint hosted on yo",
+    "id": "substructureai/substructure",
+    "language": "Rust",
+    "name": "substructureai/substructure",
+    "stars": 3,
+    "updated_at": "2026-06-12T06:46:28Z",
+    "url": "https://github.com/substructureai/substructure"
+  },
+  {
+    "description": "",
+    "id": "envergadcr/ai-video-workflow",
+    "language": "Python",
+    "name": "envergadcr/ai-video-workflow",
+    "stars": 2,
+    "updated_at": "2026-06-12T06:45:42Z",
+    "url": "https://github.com/envergadcr/ai-video-workflow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-12T06:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool",
     "id": "Niranjan-008/Agentic-Decision-Cell",
     "language": "Python",
@@ -16,24 +124,6 @@
     "stars": 274,
     "updated_at": "2026-06-12T06:44:28Z",
     "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21377,
-    "updated_at": "2026-06-12T06:44:02Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Substructure is an engine for building durable, long-running AI agents using only a stateless HTTP endpoint hosted on yo",
-    "id": "substructureai/substructure",
-    "language": "Rust",
-    "name": "substructureai/substructure",
-    "stars": 3,
-    "updated_at": "2026-06-12T06:43:32Z",
-    "url": "https://github.com/substructureai/substructure"
   },
   {
     "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
@@ -61,15 +151,6 @@
     "stars": 93,
     "updated_at": "2026-06-12T06:41:53Z",
     "url": "https://github.com/codeking-ai/cligate"
-  },
-  {
-    "description": "Typed Kotlin DSL framework for AI agent systems.",
-    "id": "Deep-CodeAI/Agents.KT",
-    "language": "Kotlin",
-    "name": "Deep-CodeAI/Agents.KT",
-    "stars": 11,
-    "updated_at": "2026-06-12T06:41:46Z",
-    "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
     "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
@@ -103,7 +184,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11272,
+    "stars": 11273,
     "updated_at": "2026-06-12T06:34:08Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -117,24 +198,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-12T06:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
-    "id": "markl-a/phantom-secops",
-    "language": "Python",
-    "name": "markl-a/phantom-secops",
-    "stars": 0,
-    "updated_at": "2026-06-12T06:39:09Z",
-    "url": "https://github.com/markl-a/phantom-secops"
-  },
-  {
     "description": "Portable memory + simulated affect for AI agents \u2014 episodic, semantic & procedural memory, emotion-driven strategy with ",
     "id": "thelonewolf1337-code/smriti",
     "language": "Python",
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T06:26:25Z",
     "url": "https://github.com/thelonewolf1337-code/smriti"
-  },
-  {
-    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 0,
-    "updated_at": "2026-06-12T06:23:12Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -243,6 +297,15 @@
     "url": "https://github.com/ellmos-ai/swarm-ai"
   },
   {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4664,
+    "updated_at": "2026-06-12T05:47:12Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
     "id": "Eliyce/paqad-ai",
     "language": "TypeScript",
@@ -304,15 +367,6 @@
     "stars": 66,
     "updated_at": "2026-06-12T05:26:02Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4663,
-    "updated_at": "2026-06-12T05:47:12Z",
-    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T04:26:26Z",
     "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:26:07Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "\ud83c\udfe8 ReAct Agent Template | LLM as the brain, not a JSON tool | 4-node LangGraph (Guard\u2192RAG\u2192Agent\u21c4Tools) | Swap prompts+too",
-    "id": "JosephHu04/hotel-room-service-agent-v2",
-    "language": "Python",
-    "name": "JosephHu04/hotel-room-service-agent-v2",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:24:58Z",
-    "url": "https://github.com/JosephHu04/hotel-room-service-agent-v2"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-12T04:24:21Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:23:36Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:23:20Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:23:01Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
   }
 ]
