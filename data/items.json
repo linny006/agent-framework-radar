@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-13T18:58:42Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-13T18:57:53Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Multi-Agent AI Quantitative Analysis System - 15+ LLM agents with cost-aware routing, persistent memory, and real-time S",
     "id": "FancongLiu/onionquant",
     "language": "Python",
@@ -52,15 +70,6 @@
     "stars": 9,
     "updated_at": "2026-06-13T18:47:08Z",
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-13T18:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-13T18:24:26Z",
+    "updated_at": "2026-06-13T18:59:16Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-13T18:11:52Z",
     "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 2,
-    "updated_at": "2026-06-13T18:10:46Z",
-    "url": "https://github.com/cele9529/LingxiFish"
   }
 ]
