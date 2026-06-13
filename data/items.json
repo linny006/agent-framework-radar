@@ -1,12 +1,66 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-13T05:42:59Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-13T05:42:50Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 21618,
+    "updated_at": "2026-06-13T05:41:47Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-13T05:36:34Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 0,
+    "updated_at": "2026-06-13T05:33:04Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 66,
-    "updated_at": "2026-06-13T05:26:28Z",
+    "updated_at": "2026-06-13T05:38:47Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-13T05:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
@@ -36,15 +90,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-13T05:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
     "id": "plaited/plaited",
     "language": "TypeScript",
@@ -72,15 +117,6 @@
     "url": "https://github.com/secondorderai/ouroboros"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21615,
-    "updated_at": "2026-06-13T05:10:44Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
     "id": "Sanga1032/fullstack-mcp-playground",
     "language": "TypeScript",
@@ -88,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-13T05:04:34Z",
     "url": "https://github.com/Sanga1032/fullstack-mcp-playground"
-  },
-  {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 0,
-    "updated_at": "2026-06-13T05:04:13Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
   },
   {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
@@ -124,15 +151,6 @@
     "stars": 7,
     "updated_at": "2026-06-13T04:59:29Z",
     "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-13T05:28:16Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-13T03:50:08Z",
     "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 2,
-    "updated_at": "2026-06-13T03:49:31Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Production-ready Python framework for AI agents with built-in guardrails, audit logging, cost tracking, and hybrid RAG. ",
-    "id": "johnnichev/selectools",
-    "language": "Python",
-    "name": "johnnichev/selectools",
-    "stars": 9,
-    "updated_at": "2026-06-13T03:49:28Z",
-    "url": "https://github.com/johnnichev/selectools"
   }
 ]
