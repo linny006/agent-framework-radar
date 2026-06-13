@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-06-13T10:28:44Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-06-13T10:28:07Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-06-13T10:27:59Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
+    "id": "dendrux/dendrux",
+    "language": "Python",
+    "name": "dendrux/dendrux",
+    "stars": 11,
+    "updated_at": "2026-06-13T10:27:24Z",
+    "url": "https://github.com/dendrux/dendrux"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 66,
+    "updated_at": "2026-06-13T10:27:24Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "TerAgent Project - A imaginative and positive project(?)",
+    "id": "TerAgent-Project/TerAgent",
+    "language": "Python",
+    "name": "TerAgent-Project/TerAgent",
+    "stars": 0,
+    "updated_at": "2026-06-13T10:25:24Z",
+    "url": "https://github.com/TerAgent-Project/TerAgent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-13T10:24:22Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "",
+    "id": "envergadcr/ai-video-workflow",
+    "language": "Python",
+    "name": "envergadcr/ai-video-workflow",
+    "stars": 2,
+    "updated_at": "2026-06-13T10:21:18Z",
+    "url": "https://github.com/envergadcr/ai-video-workflow"
+  },
+  {
+    "description": "\ud83e\udde0 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool",
+    "id": "Niranjan-008/Agentic-Decision-Cell",
+    "language": "Python",
+    "name": "Niranjan-008/Agentic-Decision-Cell",
+    "stars": 1,
+    "updated_at": "2026-06-13T10:20:46Z",
+    "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-13T10:18:47Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 21669,
+    "updated_at": "2026-06-13T10:16:03Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-13T10:15:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
     "id": "q-j0k/sprintloop-orchestration",
     "language": "\u2014",
@@ -50,17 +158,8 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 232,
-    "updated_at": "2026-06-13T10:15:01Z",
+    "updated_at": "2026-06-13T10:22:29Z",
     "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "TerAgent Project - A imaginative and positive project(?)",
-    "id": "TerAgent-Project/TerAgent",
-    "language": "Python",
-    "name": "TerAgent-Project/TerAgent",
-    "stars": 0,
-    "updated_at": "2026-06-13T10:03:06Z",
-    "url": "https://github.com/TerAgent-Project/TerAgent"
   },
   {
     "description": "\u4e00\u4e2a\u8f7b\u91cf\u7ea7\u5f00\u6e90AI\u4e2a\u4eba\u52a9\u624b\u6846\u67b6\uff0c\u7528\u4e8e\u5b66\u4e60\u4e0e\u5b9e\u8df5\u4e2a\u4ebaagent\u52a9\u624b\u67b6\u6784\u8bbe\u8ba1\uff0c\u57fa\u4e8eReAct\u67b6\u6784\uff0c\u7531\u4e2d\u95f4\u8def\u7531\u5c42\u8fde\u63a5\u5ba2\u6237\u7aef\u4e0e\u5e95\u5c42\u7ec4\u4ef6\uff0c\u5b9e\u73b0\u4e86\u591a\u6a21\u578b\u9002\u914d\u3001\u591a\u5e73\u53f0\u9002\u914d\u548c\u4f1a\u8bdd\u7ba1\u7406\u3002 \u6bcf\u9636\u6bb5\u7684\u5f00\u53d1\u8def\u7ebf\u3001\u5f00\u53d1\u65e5\u5fd7\u3001\u4ee3\u7801\u5ba1\u67e5\u8bb0\u5f55\u90fd\u5728\u6587\u6863\u4e2d\uff0c\u65b9\u4fbf\u5b66\u4e60\u4e0e\u4e86\u89e3\u6574\u4e2a",
@@ -72,15 +171,6 @@
     "url": "https://github.com/aandbcct/dotClaw"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-13T10:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
     "id": "ranxi2001/zero2Agent",
     "language": "HTML",
@@ -88,15 +178,6 @@
     "stars": 117,
     "updated_at": "2026-06-13T09:52:30Z",
     "url": "https://github.com/ranxi2001/zero2Agent"
-  },
-  {
-    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
-    "id": "dendrux/dendrux",
-    "language": "Python",
-    "name": "dendrux/dendrux",
-    "stars": 11,
-    "updated_at": "2026-06-13T09:51:29Z",
-    "url": "https://github.com/dendrux/dendrux"
   },
   {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
@@ -133,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-06-13T09:49:11Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21667,
-    "updated_at": "2026-06-13T10:15:07Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "LAAP AGI \u8ba4\u77e5\u589e\u5f3a\u5f15\u64ce \u2014 \u4e00\u884c\u4ee3\u7801\u8ba9\u4efb\u4f55\u667a\u80fd\u4f53\u83b7\u5f97\u5143\u8ba4\u77e5\u00b7\u8bae\u4f1a\u00b7\u77e5\u884c\u5408\u4e00\u00b7EWC\u3002\u517c\u5bb9Hermes/Claude Code/OpenClaw\u3002\u7efc\u5408\u80fd\u529b\u63d0\u5347+280%\u3002pip install laap-brain",
@@ -202,7 +274,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8561,
+    "stars": 8562,
     "updated_at": "2026-06-13T09:34:36Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -216,15 +288,6 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-13T10:01:30Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
     "id": "Dkm0315/muster",
     "language": "TypeScript",
@@ -232,15 +295,6 @@
     "stars": 3,
     "updated_at": "2026-06-13T09:28:07Z",
     "url": "https://github.com/Dkm0315/muster"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 66,
-    "updated_at": "2026-06-13T10:10:32Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -284,7 +338,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11302,
-    "updated_at": "2026-06-13T09:13:03Z",
+    "updated_at": "2026-06-13T10:16:10Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-13T07:53:01Z",
     "url": "https://github.com/ludex-lab/ludex"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 0,
-    "updated_at": "2026-06-13T07:46:21Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-06-13T07:44:40Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-06-13T07:44:15Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-13T07:41:28Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-06-13T07:40:09Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-06-13T07:39:48Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
   }
 ]
