@@ -1,11 +1,74 @@
 [
   {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-13T15:45:23Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 123,
+    "updated_at": "2026-06-13T15:44:25Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
+    "id": "streamcoreai/streamcore-server",
+    "language": "Go",
+    "name": "streamcoreai/streamcore-server",
+    "stars": 9,
+    "updated_at": "2026-06-13T15:44:05Z",
+    "url": "https://github.com/streamcoreai/streamcore-server"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 66,
+    "updated_at": "2026-06-13T15:41:47Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Multi-Agent AI Quantitative Analysis System - 15+ LLM agents with cost-aware routing, persistent memory, and real-time S",
+    "id": "FancongLiu/onionquant",
+    "language": "Python",
+    "name": "FancongLiu/onionquant",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:36:12Z",
+    "url": "https://github.com/FancongLiu/onionquant"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-13T15:40:06Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
     "id": "bzcsk2/DeepReef",
     "language": "TypeScript",
     "name": "bzcsk2/DeepReef",
     "stars": 5,
-    "updated_at": "2026-06-13T15:30:03Z",
+    "updated_at": "2026-06-13T15:42:35Z",
     "url": "https://github.com/bzcsk2/DeepReef"
   },
   {
@@ -27,31 +90,13 @@
     "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-13T15:29:04Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21732,
-    "updated_at": "2026-06-13T15:25:59Z",
+    "stars": 21738,
+    "updated_at": "2026-06-13T15:43:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Multi-Agent AI Quantitative Analysis System - 15+ LLM agents with cost-aware routing, persistent memory, and real-time S",
-    "id": "FancongLiu/onionquant",
-    "language": "Python",
-    "name": "FancongLiu/onionquant",
-    "stars": 0,
-    "updated_at": "2026-06-13T15:25:38Z",
-    "url": "https://github.com/FancongLiu/onionquant"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -70,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-13T15:23:53Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-13T15:24:33Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
@@ -113,33 +149,15 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 232,
-    "updated_at": "2026-06-13T15:29:11Z",
+    "updated_at": "2026-06-13T15:30:40Z",
     "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-13T15:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 123,
-    "updated_at": "2026-06-13T15:14:56Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17735,
+    "stars": 17736,
     "updated_at": "2026-06-13T15:13:34Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -207,15 +225,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 66,
-    "updated_at": "2026-06-13T15:25:12Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Your AI coding agents are brilliant but a little too eager to call it 'done'. Agentic OS gives them a five-step workflow",
     "id": "KbWen/agentic-os",
     "language": "Python",
@@ -239,7 +248,7 @@
     "language": "TypeScript",
     "name": "Kuonirad/MCOP-Framework-2.0",
     "stars": 2,
-    "updated_at": "2026-06-13T14:42:24Z",
+    "updated_at": "2026-06-13T15:36:53Z",
     "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
   },
   {
@@ -405,6 +414,15 @@
     "url": "https://github.com/Danielle6426/Qwen-Loop"
   },
   {
+    "description": "Mozaik is a TypeScript framework for building reactive agents.",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 58,
+    "updated_at": "2026-06-13T14:25:14Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
     "description": "",
     "id": "brushworkoilpressure365/oh-my-code",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-13T14:23:42Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-13T14:23:20Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-06-13T14:23:14Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
   }
 ]
