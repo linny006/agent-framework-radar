@@ -1,5 +1,50 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 66,
+    "updated_at": "2026-06-13T05:26:28Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-13T05:25:37Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-13T05:22:27Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-13T05:17:20Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-13T05:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
     "id": "plaited/plaited",
     "language": "TypeScript",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "ucsandman/DashClaw",
     "stars": 275,
-    "updated_at": "2026-06-13T05:13:30Z",
+    "updated_at": "2026-06-13T05:17:22Z",
     "url": "https://github.com/ucsandman/DashClaw"
   },
   {
@@ -31,18 +76,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21610,
+    "stars": 21615,
     "updated_at": "2026-06-13T05:10:44Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 66,
-    "updated_at": "2026-06-13T05:08:01Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
@@ -81,15 +117,6 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-13T05:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An agent runtime that truly has experience.",
     "id": "shadow3aaa/DaatLocus",
     "language": "Rust",
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-13T04:47:16Z",
+    "updated_at": "2026-06-13T05:28:16Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T04:33:07Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-13T04:29:30Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
     "description": "Multi-Agent AI Quantitative Analysis System - 15+ LLM agents with cost-aware routing, persistent memory, and real-time S",
@@ -250,6 +268,15 @@
     "stars": 32,
     "updated_at": "2026-06-13T04:05:13Z",
     "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17732,
+    "updated_at": "2026-06-13T04:02:23Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
@@ -421,32 +448,5 @@
     "stars": 9,
     "updated_at": "2026-06-13T03:49:28Z",
     "url": "https://github.com/johnnichev/selectools"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-06-13T03:48:19Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-06-13T03:48:09Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-13T03:47:52Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
   }
 ]
