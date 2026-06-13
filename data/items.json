@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-13T00:15:05Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
+    "id": "vmy41/agent-harness",
+    "language": "\u2014",
+    "name": "vmy41/agent-harness",
+    "stars": 1,
+    "updated_at": "2026-06-13T00:15:04Z",
+    "url": "https://github.com/vmy41/agent-harness"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6121,
+    "updated_at": "2026-06-13T00:14:58Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Explore leaked Claude Code source code for agent orchestration, tools, API layers, MCP, permissions, and prompt logic",
     "id": "Communionlinefeed832/Anthropic-Leaked-Source-Code",
     "language": "TypeScript",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "prismal-ai/prismal",
     "stars": 0,
-    "updated_at": "2026-06-13T00:13:16Z",
+    "updated_at": "2026-06-13T00:15:13Z",
     "url": "https://github.com/prismal-ai/prismal"
   },
   {
@@ -306,15 +333,6 @@
     "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-13T00:00:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Enable AI agents to send, receive, and manage real email autonomously using 27 email tools via Model Context Protocol wi",
     "id": "dominiks1260/agent-kit",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-12T23:49:55Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide practical AI interview questions focused on production deployment in real-world MENA enterprise environments.",
-    "id": "luwelle/Production_GenAI_interview",
-    "language": "\u2014",
-    "name": "luwelle/Production_GenAI_interview",
-    "stars": 0,
-    "updated_at": "2026-06-12T23:49:36Z",
-    "url": "https://github.com/luwelle/Production_GenAI_interview"
-  },
-  {
-    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
-    "id": "Unknown384-come/agent-runner",
-    "language": "Go",
-    "name": "Unknown384-come/agent-runner",
-    "stars": 0,
-    "updated_at": "2026-06-12T23:49:30Z",
-    "url": "https://github.com/Unknown384-come/agent-runner"
   }
 ]
