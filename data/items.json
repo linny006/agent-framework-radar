@@ -1,5 +1,59 @@
 [
   {
+    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
+    "id": "qmilab/asterism",
+    "language": "TypeScript",
+    "name": "qmilab/asterism",
+    "stars": 1,
+    "updated_at": "2026-06-13T16:45:17Z",
+    "url": "https://github.com/qmilab/asterism"
+  },
+  {
+    "description": "Multi-agent orchestration system for pi-coding-agent \u2014 dispatch, command, and orchestrate specialized AI agents with rea",
+    "id": "GOODDAYDAY/pi-multi-agent",
+    "language": "TypeScript",
+    "name": "GOODDAYDAY/pi-multi-agent",
+    "stars": 0,
+    "updated_at": "2026-06-13T16:40:57Z",
+    "url": "https://github.com/GOODDAYDAY/pi-multi-agent"
+  },
+  {
+    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
+    "id": "the-long-ride/engram",
+    "language": "TypeScript",
+    "name": "the-long-ride/engram",
+    "stars": 0,
+    "updated_at": "2026-06-13T16:38:45Z",
+    "url": "https://github.com/the-long-ride/engram"
+  },
+  {
+    "description": "Agentic AI search engine with ReAct reasoning and multi-source RAG. Routes queries across Wikipedia, ArXiv & the web usi",
+    "id": "ammarmalik17/omnifinder-ai",
+    "language": "Python",
+    "name": "ammarmalik17/omnifinder-ai",
+    "stars": 0,
+    "updated_at": "2026-06-13T16:35:27Z",
+    "url": "https://github.com/ammarmalik17/omnifinder-ai"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 21749,
+    "updated_at": "2026-06-13T16:31:24Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-13T16:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -81,15 +135,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "Multi-agent orchestration system for pi-coding-agent \u2014 dispatch, command, and orchestrate specialized AI agents with rea",
-    "id": "GOODDAYDAY/pi-multi-agent",
-    "language": "TypeScript",
-    "name": "GOODDAYDAY/pi-multi-agent",
-    "stars": 0,
-    "updated_at": "2026-06-13T16:21:31Z",
-    "url": "https://github.com/GOODDAYDAY/pi-multi-agent"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -115,15 +160,6 @@
     "stars": 93,
     "updated_at": "2026-06-13T16:17:06Z",
     "url": "https://github.com/codeking-ai/cligate"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-13T16:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T16:02:56Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21748,
-    "updated_at": "2026-06-13T15:56:30Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -306,21 +333,12 @@
     "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
-    "description": "Agentic AI search engine with ReAct reasoning and multi-source RAG. Routes queries across Wikipedia, ArXiv & the web usi",
-    "id": "ammarmalik17/omnifinder-ai",
-    "language": "Python",
-    "name": "ammarmalik17/omnifinder-ai",
-    "stars": 0,
-    "updated_at": "2026-06-13T15:17:01Z",
-    "url": "https://github.com/ammarmalik17/omnifinder-ai"
-  },
-  {
     "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
     "id": "jaylfc/taOS",
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 232,
-    "updated_at": "2026-06-13T16:21:45Z",
+    "updated_at": "2026-06-13T16:38:01Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-13T14:32:53Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-06-13T14:30:12Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Automate macOS development with an autonomous AI agent that builds, tests, and modifies Xcode projects based on your ins",
-    "id": "Doubleedged-capitaloftennessee462/agentswift",
-    "language": "\u2014",
-    "name": "Doubleedged-capitaloftennessee462/agentswift",
-    "stars": 2,
-    "updated_at": "2026-06-13T14:30:02Z",
-    "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
   }
 ]
