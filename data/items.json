@@ -1,5 +1,50 @@
 [
   {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 4,
+    "updated_at": "2026-06-14T08:10:36Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-14T08:14:04Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
+    "id": "manishiitg/mcp-agent-builder-go",
+    "language": "Go",
+    "name": "manishiitg/mcp-agent-builder-go",
+    "stars": 5,
+    "updated_at": "2026-06-14T08:04:50Z",
+    "url": "https://github.com/manishiitg/mcp-agent-builder-go"
+  },
+  {
+    "description": "Ready-to-run foundation for building vertical AI agents",
+    "id": "ysz7/genesis-agent",
+    "language": "Python",
+    "name": "ysz7/genesis-agent",
+    "stars": 1,
+    "updated_at": "2026-06-14T08:04:36Z",
+    "url": "https://github.com/ysz7/genesis-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-14T08:00:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "a multi-agent workflow orchestration platform",
     "id": "kari-kari1/Fugue",
     "language": "Python",
@@ -68,24 +113,15 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 66,
-    "updated_at": "2026-06-14T07:50:10Z",
+    "updated_at": "2026-06-14T08:10:37Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Ready-to-run foundation for building vertical AI agents",
-    "id": "ysz7/genesis-agent",
-    "language": "Python",
-    "name": "ysz7/genesis-agent",
-    "stars": 1,
-    "updated_at": "2026-06-14T07:46:35Z",
-    "url": "https://github.com/ysz7/genesis-agent"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21863,
+    "stars": 21867,
     "updated_at": "2026-06-14T07:46:13Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -97,15 +133,6 @@
     "stars": 6,
     "updated_at": "2026-06-14T07:45:23Z",
     "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-14T07:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-14T07:27:18Z",
+    "updated_at": "2026-06-14T08:11:40Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -187,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-06-14T07:23:19Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-14T08:00:29Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
     "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T07:10:57Z",
     "url": "https://github.com/Thuso030703/open-claude"
-  },
-  {
-    "description": "Build AI agents in Go with a lightweight in-process SDK, tool execution, MCP support, and multi-provider LLM compatibili",
-    "id": "Sammyblear596/open-agent-sdk-go",
-    "language": "Go",
-    "name": "Sammyblear596/open-agent-sdk-go",
-    "stars": 1,
-    "updated_at": "2026-06-14T07:10:31Z",
-    "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-14T07:08:51Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
   }
 ]
