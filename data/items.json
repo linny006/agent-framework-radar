@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI Agent Operating System in Kotlin",
+    "id": "morning-verlu/KAI",
+    "language": "Kotlin",
+    "name": "morning-verlu/KAI",
+    "stars": 0,
+    "updated_at": "2026-06-14T15:17:20Z",
+    "url": "https://github.com/morning-verlu/KAI"
+  },
+  {
+    "description": "ellmos-ai organization profile and complete public repo index for local-first LLM operating systems, agent infrastructur",
+    "id": "ellmos-ai/.github",
+    "language": "\u2014",
+    "name": "ellmos-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-06-14T15:15:30Z",
+    "url": "https://github.com/ellmos-ai/.github"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-14T15:15:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -58,18 +85,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21971,
+    "stars": 21972,
     "updated_at": "2026-06-14T15:02:44Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-14T15:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T14:46:30Z",
     "url": "https://github.com/HaohanHe/Opedrgent"
-  },
-  {
-    "description": "ellmos-ai organization profile and complete public repo index for local-first LLM operating systems, agent infrastructur",
-    "id": "ellmos-ai/.github",
-    "language": "\u2014",
-    "name": "ellmos-ai/.github",
-    "stars": 0,
-    "updated_at": "2026-06-14T14:44:58Z",
-    "url": "https://github.com/ellmos-ai/.github"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-14T13:53:20Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-06-14T13:53:18Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
   }
 ]
