@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-06-14T19:56:07Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "Personal Ai Agent",
+    "id": "br3eze-code/br3eze-code",
+    "language": "JavaScript",
+    "name": "br3eze-code/br3eze-code",
+    "stars": 1,
+    "updated_at": "2026-06-14T19:55:53Z",
+    "url": "https://github.com/br3eze-code/br3eze-code"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 2,
+    "updated_at": "2026-06-14T19:55:11Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-06-14T19:53:27Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-14T19:48:57Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
+    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
+    "language": "Python",
+    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
+    "stars": 0,
+    "updated_at": "2026-06-14T19:48:18Z",
+    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
+  },
+  {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-06-14T19:48:18Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-06-14T19:45:55Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-14T19:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
     "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
     "language": "Python",
@@ -90,15 +171,6 @@
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-14T19:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
     "id": "kh0pper/crow",
     "language": "JavaScript",
@@ -158,7 +230,7 @@
     "language": "Shell",
     "name": "ek33450505/claude-agent-team",
     "stars": 6,
-    "updated_at": "2026-06-14T19:35:08Z",
+    "updated_at": "2026-06-14T19:47:23Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-14T17:46:30Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-14T19:28:50Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
-    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-14T17:28:56Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 18,
-    "updated_at": "2026-06-14T17:25:14Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:06:31Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:06:19Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 154,
-    "updated_at": "2026-06-14T17:06:00Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-14T17:03:47Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:02:41Z",
-    "url": "https://github.com/Smita6756/Hbrain"
   }
 ]
