@@ -1,12 +1,84 @@
 [
   {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3823,
+    "updated_at": "2026-06-14T22:28:38Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "",
+    "id": "envergadcr/ai-video-workflow",
+    "language": "Python",
+    "name": "envergadcr/ai-video-workflow",
+    "stars": 2,
+    "updated_at": "2026-06-14T22:28:14Z",
+    "url": "https://github.com/envergadcr/ai-video-workflow"
+  },
+  {
+    "description": "\ud83e\udde0 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool",
+    "id": "Niranjan-008/Agentic-Decision-Cell",
+    "language": "Python",
+    "name": "Niranjan-008/Agentic-Decision-Cell",
+    "stars": 1,
+    "updated_at": "2026-06-14T22:27:41Z",
+    "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
+  },
+  {
+    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
+    "id": "the-long-ride/engram",
+    "language": "TypeScript",
+    "name": "the-long-ride/engram",
+    "stars": 5,
+    "updated_at": "2026-06-14T22:27:14Z",
+    "url": "https://github.com/the-long-ride/engram"
+  },
+  {
+    "description": "AI Agent Operating System in Kotlin",
+    "id": "morning-verlu/KAI",
+    "language": "Kotlin",
+    "name": "morning-verlu/KAI",
+    "stars": 0,
+    "updated_at": "2026-06-14T22:27:48Z",
+    "url": "https://github.com/morning-verlu/KAI"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-14T22:25:51Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
     "id": "VisionaireLabs/Visionaire",
     "language": "TypeScript",
     "name": "VisionaireLabs/Visionaire",
     "stars": 2,
-    "updated_at": "2026-06-14T22:20:29Z",
+    "updated_at": "2026-06-14T22:23:31Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-14T22:22:33Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-14T22:21:40Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 0,
-    "updated_at": "2026-06-14T22:15:24Z",
+    "updated_at": "2026-06-14T22:21:24Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-06-14T22:13:38Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "AI Agent Operating System in Kotlin",
-    "id": "morning-verlu/KAI",
-    "language": "Kotlin",
-    "name": "morning-verlu/KAI",
-    "stars": 0,
-    "updated_at": "2026-06-14T22:13:18Z",
-    "url": "https://github.com/morning-verlu/KAI"
   },
   {
     "description": "Production-ready Python framework for AI agents with built-in guardrails, audit logging, cost tracking, and hybrid RAG. ",
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T22:08:57Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-14T22:19:38Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -205,15 +259,6 @@
     "stars": 9,
     "updated_at": "2026-06-14T21:22:48Z",
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
-  },
-  {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3823,
-    "updated_at": "2026-06-14T22:20:56Z",
-    "url": "https://github.com/evalstate/fast-agent"
   },
   {
     "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 236,
-    "updated_at": "2026-06-14T22:20:39Z",
+    "updated_at": "2026-06-14T22:23:14Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T20:55:38Z",
     "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Automate software development with an autonomous multi-agent loop using Qwen Code to self-direct, commit, and improve yo",
-    "id": "Danielle6426/Qwen-Loop",
-    "language": "TypeScript",
-    "name": "Danielle6426/Qwen-Loop",
-    "stars": 0,
-    "updated_at": "2026-06-14T20:55:02Z",
-    "url": "https://github.com/Danielle6426/Qwen-Loop"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-06-14T20:54:57Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 2,
-    "updated_at": "2026-06-14T20:54:19Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-06-14T20:52:54Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-06-14T20:52:46Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
   }
 ]
