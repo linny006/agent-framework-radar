@@ -5,8 +5,44 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 21951,
-    "updated_at": "2026-06-14T13:10:32Z",
+    "updated_at": "2026-06-14T13:14:16Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
+    "id": "Prompthon-IO/agent-systems-handbook",
+    "language": "MDX",
+    "name": "Prompthon-IO/agent-systems-handbook",
+    "stars": 315,
+    "updated_at": "2026-06-14T13:14:08Z",
+    "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
+  },
+  {
+    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
+    "id": "tareksyria/SREAgents",
+    "language": "JavaScript",
+    "name": "tareksyria/SREAgents",
+    "stars": 2,
+    "updated_at": "2026-06-14T13:13:56Z",
+    "url": "https://github.com/tareksyria/SREAgents"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-14T13:12:37Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-14T13:12:00Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
@@ -81,15 +117,6 @@
     "url": "https://github.com/Aikyy99/EduHive"
   },
   {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-14T13:11:54Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
     "description": "An agent runtime that truly has experience.",
     "id": "shadow3aaa/DaatLocus",
     "language": "Rust",
@@ -106,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-06-14T13:00:37Z",
     "url": "https://github.com/cuteecarrot/AgentHub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-14T13:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 Build advanced multi-agent AI systems with this high-performance Rust framework, enabling automation, reasoning, and e",
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 154,
-    "updated_at": "2026-06-14T11:59:28Z",
+    "updated_at": "2026-06-14T13:15:17Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 66,
     "updated_at": "2026-06-14T11:54:58Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-14T11:51:50Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 511,
-    "updated_at": "2026-06-14T11:46:07Z",
-    "url": "https://github.com/aaronjmars/aeon"
   }
 ]
