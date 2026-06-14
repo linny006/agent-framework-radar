@@ -1,21 +1,12 @@
 [
   {
-    "description": "Personal Ai Agent",
-    "id": "br3eze-code/br3eze-code",
+    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
     "language": "JavaScript",
-    "name": "br3eze-code/br3eze-code",
+    "name": "telus-labs/stagecraft",
     "stars": 1,
-    "updated_at": "2026-06-14T04:26:27Z",
-    "url": "https://github.com/br3eze-code/br3eze-code"
-  },
-  {
-    "description": "Production-grade, contracts-first framework for AI agents in Python \u2014 vendor-neutral, audit-ready.",
-    "id": "Scaffoldic/agentforge-py",
-    "language": "Python",
-    "name": "Scaffoldic/agentforge-py",
-    "stars": 1,
-    "updated_at": "2026-06-14T04:24:48Z",
-    "url": "https://github.com/Scaffoldic/agentforge-py"
+    "updated_at": "2026-06-14T04:44:50Z",
+    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "AI Agent Operating System in Kotlin",
@@ -23,8 +14,98 @@
     "language": "Kotlin",
     "name": "morning-verlu/KAI",
     "stars": 0,
-    "updated_at": "2026-06-14T04:25:09Z",
+    "updated_at": "2026-06-14T04:42:58Z",
     "url": "https://github.com/morning-verlu/KAI"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4272,
+    "updated_at": "2026-06-14T04:39:36Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-14T04:38:24Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Personal Ai Agent",
+    "id": "br3eze-code/br3eze-code",
+    "language": "JavaScript",
+    "name": "br3eze-code/br3eze-code",
+    "stars": 1,
+    "updated_at": "2026-06-14T04:36:03Z",
+    "url": "https://github.com/br3eze-code/br3eze-code"
+  },
+  {
+    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
+    "id": "BrettMGoughWork/vai-core",
+    "language": "Python",
+    "name": "BrettMGoughWork/vai-core",
+    "stars": 3,
+    "updated_at": "2026-06-14T04:35:17Z",
+    "url": "https://github.com/BrettMGoughWork/vai-core"
+  },
+  {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 4,
+    "updated_at": "2026-06-14T04:35:12Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "a multi-agent workflow orchestration platform",
+    "id": "kari-kari1/Fugue",
+    "language": "Python",
+    "name": "kari-kari1/Fugue",
+    "stars": 2,
+    "updated_at": "2026-06-14T04:34:43Z",
+    "url": "https://github.com/kari-kari1/Fugue"
+  },
+  {
+    "description": "A self-evolving, AI-native language and platform for intelligent agents and autonomous software.",
+    "id": "AetherraLabs/Aetherra",
+    "language": "Python",
+    "name": "AetherraLabs/Aetherra",
+    "stars": 8,
+    "updated_at": "2026-06-14T04:32:37Z",
+    "url": "https://github.com/AetherraLabs/Aetherra"
+  },
+  {
+    "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
+    "id": "ebey317/claf",
+    "language": "Python",
+    "name": "ebey317/claf",
+    "stars": 1,
+    "updated_at": "2026-06-14T04:32:09Z",
+    "url": "https://github.com/ebey317/claf"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-14T04:30:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Production-grade, contracts-first framework for AI agents in Python \u2014 vendor-neutral, audit-ready.",
+    "id": "Scaffoldic/agentforge-py",
+    "language": "Python",
+    "name": "Scaffoldic/agentforge-py",
+    "stars": 1,
+    "updated_at": "2026-06-14T04:44:56Z",
+    "url": "https://github.com/Scaffoldic/agentforge-py"
   },
   {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
@@ -43,33 +124,6 @@
     "stars": 18,
     "updated_at": "2026-06-14T04:20:26Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
-    "id": "BrettMGoughWork/vai-core",
-    "language": "Python",
-    "name": "BrettMGoughWork/vai-core",
-    "stars": 3,
-    "updated_at": "2026-06-14T04:16:29Z",
-    "url": "https://github.com/BrettMGoughWork/vai-core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-14T04:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-14T04:14:23Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -99,15 +153,6 @@
     "url": "https://github.com/ludex-lab/ludex"
   },
   {
-    "description": "a multi-agent workflow orchestration platform",
-    "id": "kari-kari1/Fugue",
-    "language": "Python",
-    "name": "kari-kari1/Fugue",
-    "stars": 1,
-    "updated_at": "2026-06-14T03:58:01Z",
-    "url": "https://github.com/kari-kari1/Fugue"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -122,7 +167,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-06-14T04:24:16Z",
+    "updated_at": "2026-06-14T04:33:17Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -203,7 +248,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 66,
-    "updated_at": "2026-06-14T03:49:16Z",
+    "updated_at": "2026-06-14T04:45:14Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -396,15 +441,6 @@
     "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
   },
   {
-    "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-14T03:27:17Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
     "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
     "id": "Throaty-chaff551/buildcrew",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-14T03:26:20Z",
     "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-14T03:25:48Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:25:34Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 2,
-    "updated_at": "2026-06-14T03:24:45Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 1,
-    "updated_at": "2026-06-14T03:24:23Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
   }
 ]
