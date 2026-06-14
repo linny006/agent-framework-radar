@@ -1,12 +1,120 @@
 [
   {
+    "description": "a multi-agent workflow orchestration platform",
+    "id": "kari-kari1/Fugue",
+    "language": "Python",
+    "name": "kari-kari1/Fugue",
+    "stars": 2,
+    "updated_at": "2026-06-14T07:59:18Z",
+    "url": "https://github.com/kari-kari1/Fugue"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 126,
+    "updated_at": "2026-06-14T07:58:15Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
-    "stars": 153,
-    "updated_at": "2026-06-14T07:44:08Z",
+    "stars": 154,
+    "updated_at": "2026-06-14T07:53:18Z",
     "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-14T07:52:56Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Next Generation Agent Core / \u6b21\u4e16\u4ee3Agent\u6838\u5fc3",
+    "id": "AmritaBot/AmritaCore",
+    "language": "Python",
+    "name": "AmritaBot/AmritaCore",
+    "stars": 9,
+    "updated_at": "2026-06-14T07:53:08Z",
+    "url": "https://github.com/AmritaBot/AmritaCore"
+  },
+  {
+    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
+    "id": "ulsreall/web3-agent-kit",
+    "language": "Python",
+    "name": "ulsreall/web3-agent-kit",
+    "stars": 9,
+    "updated_at": "2026-06-14T07:51:06Z",
+    "url": "https://github.com/ulsreall/web3-agent-kit"
+  },
+  {
+    "description": "Harness AI & Agent OS for governed multi-agent systems in Python \u2014 Nexus orchestration, policy, tools, skills, RAG & mul",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 4,
+    "updated_at": "2026-06-14T07:50:57Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 66,
+    "updated_at": "2026-06-14T07:50:10Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Ready-to-run foundation for building vertical AI agents",
+    "id": "ysz7/genesis-agent",
+    "language": "Python",
+    "name": "ysz7/genesis-agent",
+    "stars": 1,
+    "updated_at": "2026-06-14T07:46:35Z",
+    "url": "https://github.com/ysz7/genesis-agent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 21863,
+    "updated_at": "2026-06-14T07:46:13Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Portable OpenCode workflow toolkit \u2014 6 plugins, managed agents & skills, a spec-to-code pipeline, security, and the vvoc",
+    "id": "osovv/vv-opencode",
+    "language": "TypeScript",
+    "name": "osovv/vv-opencode",
+    "stars": 6,
+    "updated_at": "2026-06-14T07:45:23Z",
+    "url": "https://github.com/osovv/vv-opencode"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-14T07:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
+    "id": "swarmauri/swarmauri-sdk",
+    "language": "Python",
+    "name": "swarmauri/swarmauri-sdk",
+    "stars": 104,
+    "updated_at": "2026-06-14T07:45:19Z",
+    "url": "https://github.com/swarmauri/swarmauri-sdk"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -18,24 +126,6 @@
     "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
   },
   {
-    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, token sniping, portfolio tracking, bri",
-    "id": "ulsreall/web3-agent-kit",
-    "language": "Python",
-    "name": "ulsreall/web3-agent-kit",
-    "stars": 9,
-    "updated_at": "2026-06-14T07:38:51Z",
-    "url": "https://github.com/ulsreall/web3-agent-kit"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21856,
-    "updated_at": "2026-06-14T07:35:52Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -43,15 +133,6 @@
     "stars": 158,
     "updated_at": "2026-06-14T07:31:21Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-14T07:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -99,15 +180,6 @@
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
-    "description": "Next Generation Agent Core / \u6b21\u4e16\u4ee3Agent\u6838\u5fc3",
-    "id": "AmritaBot/AmritaCore",
-    "language": "Python",
-    "name": "AmritaBot/AmritaCore",
-    "stars": 9,
-    "updated_at": "2026-06-14T07:40:24Z",
-    "url": "https://github.com/AmritaBot/AmritaCore"
-  },
-  {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
     "id": "herreravalenz6620/context-compression",
     "language": "Python",
@@ -122,7 +194,7 @@
     "language": "TypeScript",
     "name": "VisionaireLabs/Visionaire",
     "stars": 2,
-    "updated_at": "2026-06-14T07:23:14Z",
+    "updated_at": "2026-06-14T08:00:29Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T07:08:51Z",
     "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-14T07:07:57Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-14T07:07:23Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-14T07:06:56Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 2,
-    "updated_at": "2026-06-14T07:06:19Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Orchestrate multi-agent AI workflows with LangGraph for planning, research, coding, and critique in one Python framework",
-    "id": "tildiebusy23/agent-forge",
-    "language": "Python",
-    "name": "tildiebusy23/agent-forge",
-    "stars": 1,
-    "updated_at": "2026-06-14T07:05:50Z",
-    "url": "https://github.com/tildiebusy23/agent-forge"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-06-14T07:04:32Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-14T07:04:18Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Build self-spawning AI agents from tasks with distributed memory, guardrails, and a fossil record.",
-    "id": "karunun4659/spawnverse",
-    "language": "\u2014",
-    "name": "karunun4659/spawnverse",
-    "stars": 0,
-    "updated_at": "2026-06-14T07:03:40Z",
-    "url": "https://github.com/karunun4659/spawnverse"
   }
 ]
