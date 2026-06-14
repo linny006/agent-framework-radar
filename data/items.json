@@ -1,5 +1,23 @@
 [
   {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-14T22:20:29Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-14T22:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -41,7 +59,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 1,
-    "updated_at": "2026-06-14T22:08:07Z",
+    "updated_at": "2026-06-14T22:19:38Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-14T22:04:24Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-14T22:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "evalstate/fast-agent",
     "stars": 3823,
-    "updated_at": "2026-06-14T21:55:30Z",
+    "updated_at": "2026-06-14T22:20:56Z",
     "url": "https://github.com/evalstate/fast-agent"
   },
   {
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 236,
-    "updated_at": "2026-06-14T22:00:00Z",
+    "updated_at": "2026-06-14T22:20:39Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-14T20:52:46Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Autonomous AI Company OS \u2014 14 AI agents loop 24/7, ship real software",
-    "id": "NikitaDmitrieff/auto-co-meta",
-    "language": "TypeScript",
-    "name": "NikitaDmitrieff/auto-co-meta",
-    "stars": 36,
-    "updated_at": "2026-06-14T20:52:40Z",
-    "url": "https://github.com/NikitaDmitrieff/auto-co-meta"
   }
 ]
