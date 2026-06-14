@@ -1,5 +1,32 @@
 [
   {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-14T11:24:17Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 234,
+    "updated_at": "2026-06-14T11:24:16Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-14T11:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent SDK, CLI, Claw, Platform in Rust",
     "id": "Wh1isper/starweaver",
     "language": "Rust",
@@ -18,20 +45,11 @@
     "url": "https://github.com/LudicDynamics/WorldLines"
   },
   {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-14T11:12:33Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 21920,
+    "stars": 21925,
     "updated_at": "2026-06-14T11:10:26Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -43,15 +61,6 @@
     "stars": 66,
     "updated_at": "2026-06-14T11:07:50Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-14T11:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-14T09:59:45Z",
     "url": "https://github.com/Sammyblear596/open-agent-sdk-go"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-14T09:57:57Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
   }
 ]
