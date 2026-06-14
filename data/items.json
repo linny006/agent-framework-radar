@@ -1,12 +1,12 @@
 [
   {
-    "description": "a multi-agent workflow orchestration platform",
-    "id": "kari-kari1/Fugue",
-    "language": "Python",
-    "name": "kari-kari1/Fugue",
-    "stars": 1,
-    "updated_at": "2026-06-14T03:58:01Z",
-    "url": "https://github.com/kari-kari1/Fugue"
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-14T04:14:23Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
     "description": "AI Agent Operating System in Kotlin",
@@ -14,8 +14,53 @@
     "language": "Kotlin",
     "name": "morning-verlu/KAI",
     "stars": 0,
-    "updated_at": "2026-06-14T03:58:14Z",
+    "updated_at": "2026-06-14T04:08:03Z",
     "url": "https://github.com/morning-verlu/KAI"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-14T04:04:36Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 125,
+    "updated_at": "2026-06-14T04:01:46Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-14T04:00:52Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-14T04:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "a multi-agent workflow orchestration platform",
+    "id": "kari-kari1/Fugue",
+    "language": "Python",
+    "name": "kari-kari1/Fugue",
+    "stars": 1,
+    "updated_at": "2026-06-14T03:58:01Z",
+    "url": "https://github.com/kari-kari1/Fugue"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -27,40 +72,13 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-14T03:55:11Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 124,
-    "updated_at": "2026-06-14T03:54:01Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
     "id": "sandydasari/openacme",
     "language": "TypeScript",
     "name": "sandydasari/openacme",
     "stars": 66,
-    "updated_at": "2026-06-14T03:53:03Z",
+    "updated_at": "2026-06-14T04:07:59Z",
     "url": "https://github.com/sandydasari/openacme"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -68,7 +86,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-06-14T03:42:56Z",
+    "updated_at": "2026-06-14T04:07:27Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T03:22:16Z",
     "url": "https://github.com/karunun4659/spawnverse"
-  },
-  {
-    "description": "Connect WeChat messages to local AI coding agents like Codex, OpenCode, and Claude Code for fast task handling and file ",
-    "id": "arthursou0512/wechat-agent-channel",
-    "language": "Python",
-    "name": "arthursou0512/wechat-agent-channel",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:21:32Z",
-    "url": "https://github.com/arthursou0512/wechat-agent-channel"
-  },
-  {
-    "description": "Build AI agents with memory using three markdown files and a git repo; no framework, no database, works with any coding ",
-    "id": "Nurrachm6921/agent-kernel",
-    "language": "\u2014",
-    "name": "Nurrachm6921/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:20:50Z",
-    "url": "https://github.com/Nurrachm6921/agent-kernel"
   }
 ]
