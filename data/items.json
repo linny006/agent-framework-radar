@@ -1,12 +1,30 @@
 [
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
+    "description": "a multi-agent workflow orchestration platform",
+    "id": "kari-kari1/Fugue",
     "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 124,
-    "updated_at": "2026-06-14T03:44:47Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
+    "name": "kari-kari1/Fugue",
+    "stars": 1,
+    "updated_at": "2026-06-14T03:58:01Z",
+    "url": "https://github.com/kari-kari1/Fugue"
+  },
+  {
+    "description": "AI Agent Operating System in Kotlin",
+    "id": "morning-verlu/KAI",
+    "language": "Kotlin",
+    "name": "morning-verlu/KAI",
+    "stars": 0,
+    "updated_at": "2026-06-14T03:58:14Z",
+    "url": "https://github.com/morning-verlu/KAI"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 153,
+    "updated_at": "2026-06-14T03:55:33Z",
+    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
@@ -14,8 +32,35 @@
     "language": "TypeScript",
     "name": "VisionaireLabs/Visionaire",
     "stars": 2,
-    "updated_at": "2026-06-14T03:44:25Z",
+    "updated_at": "2026-06-14T03:55:11Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 124,
+    "updated_at": "2026-06-14T03:54:01Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 66,
+    "updated_at": "2026-06-14T03:53:03Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-14T03:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 66,
-    "updated_at": "2026-06-14T03:35:08Z",
+    "updated_at": "2026-06-14T03:49:16Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-06-14T03:30:36Z",
     "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T03:20:50Z",
     "url": "https://github.com/Nurrachm6921/agent-kernel"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-06-14T03:20:16Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Build a governance-first multi-agent framework that turns Markdown controls into enforcement hooks for structured softwa",
-    "id": "Hosk9612/venutian-antfarm",
-    "language": "Shell",
-    "name": "Hosk9612/venutian-antfarm",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:18:58Z",
-    "url": "https://github.com/Hosk9612/venutian-antfarm"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 5,
-    "updated_at": "2026-06-14T03:18:42Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 2,
-    "updated_at": "2026-06-14T03:18:24Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
   }
 ]
