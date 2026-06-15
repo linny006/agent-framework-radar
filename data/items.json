@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
+    "id": "cuteecarrot/AgentHub",
+    "language": "Python",
+    "name": "cuteecarrot/AgentHub",
+    "stars": 4,
+    "updated_at": "2026-06-15T08:59:56Z",
+    "url": "https://github.com/cuteecarrot/AgentHub"
+  },
+  {
+    "description": "\ud83e\udd16 Build advanced multi-agent AI systems with this high-performance Rust framework, enabling automation, reasoning, and e",
+    "id": "Albertossilva-maker/MultiAgent-AI",
+    "language": "HTML",
+    "name": "Albertossilva-maker/MultiAgent-AI",
+    "stars": 0,
+    "updated_at": "2026-06-15T08:59:31Z",
+    "url": "https://github.com/Albertossilva-maker/MultiAgent-AI"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 9,
+    "updated_at": "2026-06-15T08:58:19Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 155,
+    "updated_at": "2026-06-15T08:56:27Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-06-15T08:55:39Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Evaluate agentic AI architectures with the SRAL framework, focusing on state management to enhance reasoning, action,",
+    "id": "kemalefee8/sral-framework",
+    "language": "\u2014",
+    "name": "kemalefee8/sral-framework",
+    "stars": 2,
+    "updated_at": "2026-06-15T08:54:19Z",
+    "url": "https://github.com/kemalefee8/sral-framework"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-06-15T08:53:09Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability,",
+    "id": "linora-u/AgentLoom",
+    "language": "Python",
+    "name": "linora-u/AgentLoom",
+    "stars": 87,
+    "updated_at": "2026-06-15T08:52:33Z",
+    "url": "https://github.com/linora-u/AgentLoom"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 159,
+    "updated_at": "2026-06-15T08:50:20Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-15T08:50:30Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "\ud83e\udd19 Streamline your development with VibeCheck, a fast Zig CLI tool that scans for unfinished tasks and code issues across",
+    "id": "hdhks1229i3/vibecheck",
+    "language": "Zig",
+    "name": "hdhks1229i3/vibecheck",
+    "stars": 0,
+    "updated_at": "2026-06-15T08:47:58Z",
+    "url": "https://github.com/hdhks1229i3/vibecheck"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-06-15T08:45:39Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-15T08:45:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
     "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
     "language": "Python",
@@ -58,7 +175,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22164,
+    "stars": 22168,
     "updated_at": "2026-06-15T08:36:06Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -90,15 +207,6 @@
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-15T08:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
     "id": "Spitfire-Products/nexus-cortex",
     "language": "TypeScript",
@@ -106,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T08:29:08Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 155,
-    "updated_at": "2026-06-15T08:24:55Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "\u57fa\u4e8e DDD \u5206\u5c42\u67b6\u6784\u7684 AI Agent \u5e94\u7528\u811a\u624b\u67b6\uff0c\u96c6\u6210 Spring AI\u3001LangChain4j \u4e0e Google ADK\uff0c\u8986\u76d6 Chat / Tool Calling / Multi-Agent \u7f16\u6392\u80fd\u529b\uff0cJDK 17 + Spr",
@@ -230,7 +329,7 @@
     "language": "TypeScript",
     "name": "ChronoAIProject/Ornn",
     "stars": 18,
-    "updated_at": "2026-06-15T07:56:05Z",
+    "updated_at": "2026-06-15T08:58:01Z",
     "url": "https://github.com/ChronoAIProject/Ornn"
   },
   {
@@ -342,15 +441,6 @@
     "url": "https://github.com/kimsanguine/hplan"
   },
   {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 159,
-    "updated_at": "2026-06-15T07:05:59Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-15T07:02:40Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
-    "id": "agentlas-ai/Hephaestus",
-    "language": "Python",
-    "name": "agentlas-ai/Hephaestus",
-    "stars": 56,
-    "updated_at": "2026-06-15T06:54:25Z",
-    "url": "https://github.com/agentlas-ai/Hephaestus"
-  },
-  {
-    "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 6,
-    "updated_at": "2026-06-15T06:44:20Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:23:14Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:20:18Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:19:45Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:19:28Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-15T06:16:08Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:15:13Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:15:05Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 138,
-    "updated_at": "2026-06-15T06:14:53Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   }
 ]
