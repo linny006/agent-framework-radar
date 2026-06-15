@@ -1,5 +1,113 @@
 [
   {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-06-15T14:28:31Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
+    "id": "broomva/life",
+    "language": "Rust",
+    "name": "broomva/life",
+    "stars": 1,
+    "updated_at": "2026-06-15T14:28:22Z",
+    "url": "https://github.com/broomva/life"
+  },
+  {
+    "description": "Composable TypeScript AI agent framework \u2014 Effect-TS type safety, 5 reasoning strategies, persistent gateway, real-time ",
+    "id": "tylerjrbuell/reactive-agents-ts",
+    "language": "TypeScript",
+    "name": "tylerjrbuell/reactive-agents-ts",
+    "stars": 16,
+    "updated_at": "2026-06-15T14:26:12Z",
+    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
+  },
+  {
+    "description": "\ud83e\udde0 8 KI-Agenten lokal orchestrieren \u2013 ohne Cloud. FastAPI, DeepSeek, SQLite-Message-Queue, FAISS-Embeddings, Gatekeeper-S",
+    "id": "landjunge/gnom-hub",
+    "language": "Python",
+    "name": "landjunge/gnom-hub",
+    "stars": 2,
+    "updated_at": "2026-06-15T14:25:48Z",
+    "url": "https://github.com/landjunge/gnom-hub"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 156,
+    "updated_at": "2026-06-15T14:22:59Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-15T14:22:54Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 512,
+    "updated_at": "2026-06-15T14:20:10Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
+    "id": "bzcsk2/DeepReef",
+    "language": "TypeScript",
+    "name": "bzcsk2/DeepReef",
+    "stars": 5,
+    "updated_at": "2026-06-15T14:19:36Z",
+    "url": "https://github.com/bzcsk2/DeepReef"
+  },
+  {
+    "description": "Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability,",
+    "id": "linora-u/AgentLoom",
+    "language": "Python",
+    "name": "linora-u/AgentLoom",
+    "stars": 87,
+    "updated_at": "2026-06-15T14:17:46Z",
+    "url": "https://github.com/linora-u/AgentLoom"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-15T14:21:31Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-15T14:15:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-15T14:24:14Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
     "description": "Security-first AI agent daemon \u2014 the model proposes actions, the runtime decides what execute",
     "id": "shisa-ai/shisad",
     "language": "Python",
@@ -45,48 +153,12 @@
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 512,
-    "updated_at": "2026-06-15T14:03:28Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-15T14:00:38Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-15T14:12:48Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-15T14:14:40Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
     "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
     "id": "ek33450505/claude-agent-team",
     "language": "Shell",
     "name": "ek33450505/claude-agent-team",
     "stars": 6,
-    "updated_at": "2026-06-15T13:55:28Z",
+    "updated_at": "2026-06-15T14:25:47Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
@@ -112,18 +184,9 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6142,
+    "stars": 6143,
     "updated_at": "2026-06-15T13:43:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\ud83e\udde0 8 KI-Agenten lokal orchestrieren \u2013 ohne Cloud. FastAPI, DeepSeek, SQLite-Message-Queue, FAISS-Embeddings, Gatekeeper-S",
-    "id": "landjunge/gnom-hub",
-    "language": "Python",
-    "name": "landjunge/gnom-hub",
-    "stars": 2,
-    "updated_at": "2026-06-15T13:43:22Z",
-    "url": "https://github.com/landjunge/gnom-hub"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 8,
-    "updated_at": "2026-06-15T13:43:21Z",
+    "updated_at": "2026-06-15T14:27:41Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -140,26 +203,8 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11351,
-    "updated_at": "2026-06-15T13:40:40Z",
+    "updated_at": "2026-06-15T14:22:44Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 156,
-    "updated_at": "2026-06-15T13:43:02Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability,",
-    "id": "linora-u/AgentLoom",
-    "language": "Python",
-    "name": "linora-u/AgentLoom",
-    "stars": 87,
-    "updated_at": "2026-06-15T14:07:25Z",
-    "url": "https://github.com/linora-u/AgentLoom"
   },
   {
     "description": "The infrastructure that makes existing software think. CLI runtime for building AI agents with declarative .bmo blueprin",
@@ -248,8 +293,17 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 8,
-    "updated_at": "2026-06-15T13:15:45Z",
+    "updated_at": "2026-06-15T14:28:04Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Search, understand, reproduce, and improve an idea with ease",
+    "id": "inclusionAI/AWorld",
+    "language": "Python",
+    "name": "inclusionAI/AWorld",
+    "stars": 1203,
+    "updated_at": "2026-06-15T13:13:40Z",
+    "url": "https://github.com/inclusionAI/AWorld"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -286,15 +340,6 @@
     "stars": 4,
     "updated_at": "2026-06-15T13:02:35Z",
     "url": "https://github.com/broomva/aiOS"
-  },
-  {
-    "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
-    "id": "broomva/life",
-    "language": "Rust",
-    "name": "broomva/life",
-    "stars": 1,
-    "updated_at": "2026-06-15T13:16:23Z",
-    "url": "https://github.com/broomva/life"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -340,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T12:54:43Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
-    "id": "bzcsk2/DeepReef",
-    "language": "TypeScript",
-    "name": "bzcsk2/DeepReef",
-    "stars": 5,
-    "updated_at": "2026-06-15T12:54:40Z",
-    "url": "https://github.com/bzcsk2/DeepReef"
   },
   {
     "description": "Cross-platform computer-use agent in Python with semantic UI grounding, safe desktop/browser automation, memory, plannin",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-15T12:48:33Z",
     "url": "https://github.com/Doubleedged-capitaloftennessee462/agentswift"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:46:14Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:45:43Z",
-    "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:45:40Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:45:18Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
   }
 ]
