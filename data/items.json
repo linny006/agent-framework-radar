@@ -1,12 +1,39 @@
 [
   {
+    "description": "\u57fa\u4e8e\u751f\u547d\u5468\u671f\u94a9\u5b50\u7684\u8f7b\u91cf\u7ea7 AI Agent \u6846\u67b6 \u2014 \u63d2\u4ef6\u5373\u6587\u4ef6\uff0c\u5168\u5f02\u6b65\uff0c\u96f6 SDK \u4f9d\u8d56",
+    "id": "zpb911km/fp-agent",
+    "language": "Python",
+    "name": "zpb911km/fp-agent",
+    "stars": 5,
+    "updated_at": "2026-06-15T07:35:24Z",
+    "url": "https://github.com/zpb911km/fp-agent"
+  },
+  {
+    "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
+    "id": "hoangtuanhehehehhe/AgentVault",
+    "language": "Python",
+    "name": "hoangtuanhehehehhe/AgentVault",
+    "stars": 9,
+    "updated_at": "2026-06-15T07:31:14Z",
+    "url": "https://github.com/hoangtuanhehehehhe/AgentVault"
+  },
+  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 155,
-    "updated_at": "2026-06-15T07:29:30Z",
+    "updated_at": "2026-06-15T07:31:12Z",
     "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 0,
+    "updated_at": "2026-06-15T07:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Clarity/\u5fc3\u866b \u2014 AI\u8ba4\u77e5\u4e0e\u81ea\u6108\u5f15\u64ce\u3002\u5b58\u5728\u611f\u77e5\u3001\u771f\u5584\u7f8e\u8bc4\u5206\u3001\u4e09\u5c42\u8bb0\u5fc6\u3001Q-learning\u81ea\u6108\u3001\u68a6\u5883\u6574\u5408\u3001\u53cd\u4e8b\u5b9e\u63a8\u7406",
@@ -23,7 +50,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 22137,
-    "updated_at": "2026-06-15T07:25:53Z",
+    "updated_at": "2026-06-15T07:30:27Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -43,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-06-15T07:23:17Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "\u57fa\u4e8e\u751f\u547d\u5468\u671f\u94a9\u5b50\u7684\u8f7b\u91cf\u7ea7 AI Agent \u6846\u67b6 \u2014 \u63d2\u4ef6\u5373\u6587\u4ef6\uff0c\u5168\u5f02\u6b65\uff0c\u96f6 SDK \u4f9d\u8d56",
-    "id": "zpb911km/fp-agent",
-    "language": "Python",
-    "name": "zpb911km/fp-agent",
-    "stars": 5,
-    "updated_at": "2026-06-15T07:22:39Z",
-    "url": "https://github.com/zpb911km/fp-agent"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -79,15 +97,6 @@
     "stars": 11344,
     "updated_at": "2026-06-15T07:16:44Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 0,
-    "updated_at": "2026-06-15T07:15:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
@@ -176,7 +185,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 3467,
-    "updated_at": "2026-06-15T06:56:48Z",
+    "updated_at": "2026-06-15T07:32:37Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-15T06:05:44Z",
     "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-06-15T06:05:30Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
   }
 ]
