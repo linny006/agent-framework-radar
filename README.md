@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-15 20:30 UTC
+> ⏰ Last updated: 2026-06-15 20:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-15 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
-| 2 | [dsswift/ion](https://github.com/dsswift/ion) | 2 | Go | 2026-06-15 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
-| 3 | [br3eze-code/br3eze-code](https://github.com/br3eze-code/br3eze-code) | 1 | JavaScript | 2026-06-15 | Personal Ai Agent |
-| 4 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 4336 | Python | 2026-06-15 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
-| 5 | [alexverify/assay](https://github.com/alexverify/assay) | 1 | Go | 2026-06-15 | Trust and verification for the skills your AI agent installs. |
-| 6 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 66 | TypeScript | 2026-06-15 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 7 | [bakw00ds/yakos](https://github.com/bakw00ds/yakos) | 2 | Go | 2026-06-15 | Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de |
-| 8 | [ek33450505/cast-agents](https://github.com/ek33450505/cast-agents) | 1 | Shell | 2026-06-15 | CAST specialist agent definitions — 23 production-grade Claude Code agents (commit, debug, review, plan, test, research, |
-| 9 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17768 | Python | 2026-06-15 | AI Agent Framework, the Pydantic way |
-| 10 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-06-15 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
-| 11 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-15 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 12 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 514 | TypeScript | 2026-06-15 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
-| 13 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-15 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 14 | [motojinc25/chatwalaau](https://github.com/motojinc25/chatwalaau) | 2 | Python | 2026-06-15 | The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install |
-| 15 | [the-long-ride/engram](https://github.com/the-long-ride/engram) | 5 | TypeScript | 2026-06-15 | Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje |
-| 16 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 1 | JavaScript | 2026-06-15 | Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac |
-| 17 | [Aureliolo/synthorg](https://github.com/Aureliolo/synthorg) | 8 | Python | 2026-06-15 | SynthOrg - Framework for building synthetic organizations with autonomous AI agents |
+| 1 | [Aureliolo/synthorg](https://github.com/Aureliolo/synthorg) | 8 | Python | 2026-06-15 | SynthOrg - Framework for building synthetic organizations with autonomous AI agents |
+| 2 | [alexverify/assay](https://github.com/alexverify/assay) | 1 | Go | 2026-06-15 | Trust and verification for the skills your AI agent installs. |
+| 3 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-15 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 4 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-15 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
+| 5 | [dsswift/ion](https://github.com/dsswift/ion) | 2 | Go | 2026-06-15 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
+| 6 | [br3eze-code/br3eze-code](https://github.com/br3eze-code/br3eze-code) | 1 | JavaScript | 2026-06-15 | Personal Ai Agent |
+| 7 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 4336 | Python | 2026-06-15 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
+| 8 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 66 | TypeScript | 2026-06-15 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 9 | [bakw00ds/yakos](https://github.com/bakw00ds/yakos) | 2 | Go | 2026-06-15 | Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de |
+| 10 | [ek33450505/cast-agents](https://github.com/ek33450505/cast-agents) | 1 | Shell | 2026-06-15 | CAST specialist agent definitions — 23 production-grade Claude Code agents (commit, debug, review, plan, test, research, |
+| 11 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17768 | Python | 2026-06-15 | AI Agent Framework, the Pydantic way |
+| 12 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-06-15 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
+| 13 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-15 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 14 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 514 | TypeScript | 2026-06-15 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
+| 15 | [motojinc25/chatwalaau](https://github.com/motojinc25/chatwalaau) | 2 | Python | 2026-06-15 | The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install |
+| 16 | [the-long-ride/engram](https://github.com/the-long-ride/engram) | 5 | TypeScript | 2026-06-15 | Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje |
+| 17 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 1 | JavaScript | 2026-06-15 | Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac |
 | 18 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-06-15 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
 | 19 | [jaylfc/taOS](https://github.com/jaylfc/taOS) | 237 | Python | 2026-06-15 | Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry  |
 | 20 | [landjunge/gnom-hub](https://github.com/landjunge/gnom-hub) | 2 | Python | 2026-06-15 | 🧠 8 KI-Agenten lokal orchestrieren – ohne Cloud. FastAPI, DeepSeek, SQLite-Message-Queue, FAISS-Embeddings, Gatekeeper-S |
