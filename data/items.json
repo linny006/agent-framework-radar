@@ -1,5 +1,77 @@
 [
   {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-16T20:29:07Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 22631,
+    "updated_at": "2026-06-16T20:28:47Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
+    "id": "motojinc25/chatwalaau",
+    "language": "Python",
+    "name": "motojinc25/chatwalaau",
+    "stars": 2,
+    "updated_at": "2026-06-16T20:29:25Z",
+    "url": "https://github.com/motojinc25/chatwalaau"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4363,
+    "updated_at": "2026-06-16T20:30:32Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Trust and verification for the skills your AI agent installs.",
+    "id": "alexverify/assay",
+    "language": "Go",
+    "name": "alexverify/assay",
+    "stars": 1,
+    "updated_at": "2026-06-16T20:25:43Z",
+    "url": "https://github.com/alexverify/assay"
+  },
+  {
+    "description": "A Chief of Staff for Claude Code \u2014 WATC architecture + 4Cs methodology. Open-sourced by Azul Digital.",
+    "id": "Azul-Digital-Partners/cos-kit",
+    "language": "\u2014",
+    "name": "Azul-Digital-Partners/cos-kit",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:24:05Z",
+    "url": "https://github.com/Azul-Digital-Partners/cos-kit"
+  },
+  {
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 578,
+    "updated_at": "2026-06-16T20:16:45Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T20:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Official BisQue Ultra Platform",
     "id": "amilworks/ultra",
     "language": "TypeScript",
@@ -9,21 +81,12 @@
     "url": "https://github.com/amilworks/ultra"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4363,
-    "updated_at": "2026-06-16T20:11:42Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
     "id": "JohnnyFiv3r/Core-Memory",
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 18,
-    "updated_at": "2026-06-16T20:09:25Z",
+    "updated_at": "2026-06-16T20:30:22Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -36,15 +99,6 @@
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22630,
-    "updated_at": "2026-06-16T20:05:36Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
     "id": "subkoks/agents-md",
     "language": "Shell",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T20:04:16Z",
     "url": "https://github.com/subkoks/agents-md"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T20:00:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T19:46:07Z",
     "url": "https://github.com/RainAndRiverSky/OpenClaw_Shared_Foundations"
-  },
-  {
-    "description": "A Chief of Staff for Claude Code \u2014 WATC architecture + 4Cs methodology. Open-sourced by Azul Digital.",
-    "id": "Azul-Digital-Partners/cos-kit",
-    "language": "\u2014",
-    "name": "Azul-Digital-Partners/cos-kit",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:40:12Z",
-    "url": "https://github.com/Azul-Digital-Partners/cos-kit"
   },
   {
     "description": "express.js styled agent orchestration Library for typescript community",
@@ -169,15 +205,6 @@
     "stars": 4,
     "updated_at": "2026-06-16T19:15:29Z",
     "url": "https://github.com/agentbreeder/agentbreeder"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-16T19:58:25Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "Official documentation for Agentflow, built with Docusaurus and structured via the Divio system: tutorials, how-to guide",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T16:40:22Z",
     "url": "https://github.com/mrSamDev/agentic-kanban"
-  },
-  {
-    "description": "\u57fa\u4e8e\u751f\u547d\u5468\u671f\u94a9\u5b50\u7684\u8f7b\u91cf\u7ea7 AI Agent \u6846\u67b6 \u2014 \u63d2\u4ef6\u5373\u6587\u4ef6\uff0c\u5168\u5f02\u6b65\uff0c\u96f6 SDK \u4f9d\u8d56",
-    "id": "zpb911km/fp-agent",
-    "language": "Python",
-    "name": "zpb911km/fp-agent",
-    "stars": 5,
-    "updated_at": "2026-06-16T16:49:40Z",
-    "url": "https://github.com/zpb911km/fp-agent"
-  },
-  {
-    "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
-    "id": "ntorga/agent-starter-kit",
-    "language": "Shell",
-    "name": "ntorga/agent-starter-kit",
-    "stars": 112,
-    "updated_at": "2026-06-16T16:32:50Z",
-    "url": "https://github.com/ntorga/agent-starter-kit"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14300,
-    "updated_at": "2026-06-16T16:36:00Z",
-    "url": "https://github.com/eigent-ai/eigent"
   }
 ]
