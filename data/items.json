@@ -1,12 +1,57 @@
 [
   {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
+    "description": "Persistent memory and context management for AI agents. Enable long-term recall, session continuity, and consistent beha",
+    "id": "emsoftanalytics/MARK-SDK",
+    "language": "Python",
+    "name": "emsoftanalytics/MARK-SDK",
     "stars": 0,
-    "updated_at": "2026-06-16T20:59:56Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+    "updated_at": "2026-06-16T21:12:06Z",
+    "url": "https://github.com/emsoftanalytics/MARK-SDK"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-16T21:12:00Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11396,
+    "updated_at": "2026-06-16T21:11:31Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:10:50Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Self-hosted multi-agent AI platform. Persistent labs, 40 sandboxed tools (code, web, RAG, GPU dispatcher, web3), private",
+    "id": "boblabs-eu/boblabs",
+    "language": "Python",
+    "name": "boblabs-eu/boblabs",
+    "stars": 5,
+    "updated_at": "2026-06-16T21:10:41Z",
+    "url": "https://github.com/boblabs-eu/boblabs"
+  },
+  {
+    "description": "Trust and verification for the skills your AI agent installs.",
+    "id": "alexverify/assay",
+    "language": "Go",
+    "name": "alexverify/assay",
+    "stars": 1,
+    "updated_at": "2026-06-16T21:08:40Z",
+    "url": "https://github.com/alexverify/assay"
   },
   {
     "description": "Deploy intelligence. Open-source infrastructure for AI agents in production.",
@@ -14,8 +59,53 @@
     "language": "\u2014",
     "name": "muxi-ai/muxi",
     "stars": 20,
-    "updated_at": "2026-06-16T20:59:53Z",
+    "updated_at": "2026-06-16T21:08:13Z",
     "url": "https://github.com/muxi-ai/muxi"
+  },
+  {
+    "description": "A Chief of Staff for Claude Code \u2014 WATC architecture + 4Cs methodology. Open-sourced by Azul Digital.",
+    "id": "Azul-Digital-Partners/cos-kit",
+    "language": "\u2014",
+    "name": "Azul-Digital-Partners/cos-kit",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:06:58Z",
+    "url": "https://github.com/Azul-Digital-Partners/cos-kit"
+  },
+  {
+    "description": "Dual-track quant platform: a governance-gated agent-execution framework + a systematic crypto alpha-research engine for ",
+    "id": "junsier9/meridian-public",
+    "language": "Python",
+    "name": "junsier9/meridian-public",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:04:07Z",
+    "url": "https://github.com/junsier9/meridian-public"
+  },
+  {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 12,
+    "updated_at": "2026-06-16T21:02:40Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T21:00:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:59:56Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
   },
   {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
@@ -32,35 +122,8 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6170,
-    "updated_at": "2026-06-16T20:59:38Z",
+    "updated_at": "2026-06-16T21:08:43Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A Chief of Staff for Claude Code \u2014 WATC architecture + 4Cs methodology. Open-sourced by Azul Digital.",
-    "id": "Azul-Digital-Partners/cos-kit",
-    "language": "\u2014",
-    "name": "Azul-Digital-Partners/cos-kit",
-    "stars": 0,
-    "updated_at": "2026-06-16T20:55:59Z",
-    "url": "https://github.com/Azul-Digital-Partners/cos-kit"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-16T20:55:29Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Dual-track quant platform: a governance-gated agent-execution framework + a systematic crypto alpha-research engine for ",
-    "id": "junsier9/meridian-public",
-    "language": "Python",
-    "name": "junsier9/meridian-public",
-    "stars": 0,
-    "updated_at": "2026-06-16T20:56:07Z",
-    "url": "https://github.com/junsier9/meridian-public"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
@@ -81,30 +144,12 @@
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
-    "description": "Trust and verification for the skills your AI agent installs.",
-    "id": "alexverify/assay",
-    "language": "Go",
-    "name": "alexverify/assay",
-    "stars": 1,
-    "updated_at": "2026-06-16T20:49:03Z",
-    "url": "https://github.com/alexverify/assay"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T20:45:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
     "id": "JohnnyFiv3r/Core-Memory",
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 18,
-    "updated_at": "2026-06-16T20:58:41Z",
+    "updated_at": "2026-06-16T21:10:04Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -148,7 +193,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22634,
+    "stars": 22638,
     "updated_at": "2026-06-16T20:28:47Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -194,17 +239,8 @@
     "language": "Shell",
     "name": "subkoks/agents-md",
     "stars": 0,
-    "updated_at": "2026-06-16T20:59:48Z",
+    "updated_at": "2026-06-16T21:00:54Z",
     "url": "https://github.com/subkoks/agents-md"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11396,
-    "updated_at": "2026-06-16T20:59:41Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": ".NET CLI tool and framework for orchestrating multi-agent AI  pipelines with strong mechanical enforcement.",
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-16T20:56:03Z",
+    "updated_at": "2026-06-16T21:13:34Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -324,24 +360,6 @@
     "url": "https://github.com/aa-dede/hikmah"
   },
   {
-    "description": "Typed Kotlin DSL framework for AI agent systems.",
-    "id": "Deep-CodeAI/Agents.KT",
-    "language": "Kotlin",
-    "name": "Deep-CodeAI/Agents.KT",
-    "stars": 12,
-    "updated_at": "2026-06-16T20:57:10Z",
-    "url": "https://github.com/Deep-CodeAI/Agents.KT"
-  },
-  {
-    "description": "Self-hosted multi-agent AI platform. Persistent labs, 40 sandboxed tools (code, web, RAG, GPU dispatcher, web3), private",
-    "id": "boblabs-eu/boblabs",
-    "language": "Python",
-    "name": "boblabs-eu/boblabs",
-    "stars": 5,
-    "updated_at": "2026-06-16T18:44:50Z",
-    "url": "https://github.com/boblabs-eu/boblabs"
-  },
-  {
     "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
     "id": "jaylfc/taOS",
     "language": "Python",
@@ -376,15 +394,6 @@
     "stars": 5623,
     "updated_at": "2026-06-16T19:21:24Z",
     "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:59:34Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T17:09:42Z",
     "url": "https://github.com/othmastar/adam-prism"
-  },
-  {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 8,
-    "updated_at": "2026-06-16T20:42:13Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
   }
 ]
