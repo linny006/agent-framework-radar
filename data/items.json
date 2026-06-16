@@ -1,12 +1,30 @@
 [
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4363,
-    "updated_at": "2026-06-16T20:45:19Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:59:56Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "Deploy intelligence. Open-source infrastructure for AI agents in production.",
+    "id": "muxi-ai/muxi",
+    "language": "\u2014",
+    "name": "muxi-ai/muxi",
+    "stars": 20,
+    "updated_at": "2026-06-16T20:59:53Z",
+    "url": "https://github.com/muxi-ai/muxi"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-16T20:59:50Z",
+    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -14,17 +32,17 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6170,
-    "updated_at": "2026-06-16T20:45:18Z",
+    "updated_at": "2026-06-16T20:59:38Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 18,
-    "updated_at": "2026-06-16T20:42:25Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+    "description": "A Chief of Staff for Claude Code \u2014 WATC architecture + 4Cs methodology. Open-sourced by Azul Digital.",
+    "id": "Azul-Digital-Partners/cos-kit",
+    "language": "\u2014",
+    "name": "Azul-Digital-Partners/cos-kit",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:55:59Z",
+    "url": "https://github.com/Azul-Digital-Partners/cos-kit"
   },
   {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
@@ -32,8 +50,62 @@
     "language": "TypeScript",
     "name": "VisionaireLabs/Visionaire",
     "stars": 2,
-    "updated_at": "2026-06-16T20:40:59Z",
+    "updated_at": "2026-06-16T20:55:29Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Dual-track quant platform: a governance-gated agent-execution framework + a systematic crypto alpha-research engine for ",
+    "id": "junsier9/meridian-public",
+    "language": "Python",
+    "name": "junsier9/meridian-public",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:56:07Z",
+    "url": "https://github.com/junsier9/meridian-public"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-06-16T20:51:30Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4363,
+    "updated_at": "2026-06-16T20:49:05Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Trust and verification for the skills your AI agent installs.",
+    "id": "alexverify/assay",
+    "language": "Go",
+    "name": "alexverify/assay",
+    "stars": 1,
+    "updated_at": "2026-06-16T20:49:03Z",
+    "url": "https://github.com/alexverify/assay"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T20:45:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
+    "language": "Python",
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 18,
+    "updated_at": "2026-06-16T20:58:41Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -63,33 +135,6 @@
     "url": "https://github.com/ProtocolWarden/ContextLifecycle"
   },
   {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 0,
-    "updated_at": "2026-06-16T20:34:03Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "Trust and verification for the skills your AI agent installs.",
-    "id": "alexverify/assay",
-    "language": "Go",
-    "name": "alexverify/assay",
-    "stars": 1,
-    "updated_at": "2026-06-16T20:31:49Z",
-    "url": "https://github.com/alexverify/assay"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T20:31:16Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -99,20 +144,11 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-16T20:41:02Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22632,
+    "stars": 22634,
     "updated_at": "2026-06-16T20:28:47Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -124,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-06-16T20:29:25Z",
     "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "A Chief of Staff for Claude Code \u2014 WATC architecture + 4Cs methodology. Open-sourced by Azul Digital.",
-    "id": "Azul-Digital-Partners/cos-kit",
-    "language": "\u2014",
-    "name": "Azul-Digital-Partners/cos-kit",
-    "stars": 0,
-    "updated_at": "2026-06-16T20:24:05Z",
-    "url": "https://github.com/Azul-Digital-Partners/cos-kit"
   },
   {
     "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
@@ -167,7 +194,7 @@
     "language": "Shell",
     "name": "subkoks/agents-md",
     "stars": 0,
-    "updated_at": "2026-06-16T20:40:25Z",
+    "updated_at": "2026-06-16T20:59:48Z",
     "url": "https://github.com/subkoks/agents-md"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11396,
-    "updated_at": "2026-06-16T20:37:04Z",
+    "updated_at": "2026-06-16T20:59:41Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -234,15 +261,6 @@
     "url": "https://github.com/truvaagents/truva-g3"
   },
   {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-06-16T19:30:02Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
     "description": "Agentic runtime system still in progress",
     "id": "StellarRequiem/Forest-Soul-Forge",
     "language": "Python",
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-16T20:42:03Z",
+    "updated_at": "2026-06-16T20:56:03Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Kotlin",
     "name": "Deep-CodeAI/Agents.KT",
     "stars": 12,
-    "updated_at": "2026-06-16T18:48:08Z",
+    "updated_at": "2026-06-16T20:57:10Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 8,
     "updated_at": "2026-06-16T20:42:13Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Agent Discipline Layer (ADL) \u2014 keep a coding agent honest and make it prove its work: layered guardrails + a /goal contr",
-    "id": "frontier-infra/adl",
-    "language": "Shell",
-    "name": "frontier-infra/adl",
-    "stars": 1,
-    "updated_at": "2026-06-16T16:52:30Z",
-    "url": "https://github.com/frontier-infra/adl"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 10,
-    "updated_at": "2026-06-16T16:45:43Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
   }
 ]
