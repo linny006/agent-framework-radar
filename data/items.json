@@ -1,5 +1,50 @@
 [
   {
+    "description": ".NET CLI tool and framework for orchestrating multi-agent AI  pipelines with strong mechanical enforcement.",
+    "id": "fuseraft/fuseraft-cli",
+    "language": "C#",
+    "name": "fuseraft/fuseraft-cli",
+    "stars": 2,
+    "updated_at": "2026-06-16T19:50:31Z",
+    "url": "https://github.com/fuseraft/fuseraft-cli"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:48:31Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4363,
+    "updated_at": "2026-06-16T19:48:16Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Shared governance, memory, identity, recovery, and stewardship foundations for OpenClaw AI systems.",
+    "id": "RainAndRiverSky/OpenClaw_Shared_Foundations",
+    "language": "\u2014",
+    "name": "RainAndRiverSky/OpenClaw_Shared_Foundations",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:46:07Z",
+    "url": "https://github.com/RainAndRiverSky/OpenClaw_Shared_Foundations"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T19:45:44Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A Chief of Staff for Claude Code \u2014 WATC architecture + 4Cs methodology. Open-sourced by Azul Digital.",
     "id": "Azul-Digital-Partners/cos-kit",
     "language": "\u2014",
@@ -36,15 +81,6 @@
     "url": "https://github.com/truvaagents/truva-g3"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T19:30:36Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
     "id": "kh0pper/crow",
     "language": "JavaScript",
@@ -54,6 +90,15 @@
     "url": "https://github.com/kh0pper/crow"
   },
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 22627,
+    "updated_at": "2026-06-16T19:29:29Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "Agentic runtime system still in progress",
     "id": "StellarRequiem/Forest-Soul-Forge",
     "language": "Python",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T19:25:23Z",
     "url": "https://github.com/StellarRequiem/Forest-Soul-Forge"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22625,
-    "updated_at": "2026-06-16T19:29:29Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -104,7 +140,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 1,
-    "updated_at": "2026-06-16T19:07:35Z",
+    "updated_at": "2026-06-16T19:58:25Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11395,
-    "updated_at": "2026-06-16T18:53:09Z",
+    "updated_at": "2026-06-16T19:53:35Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -216,15 +252,6 @@
     "url": "https://github.com/ludex-lab/ludex"
   },
   {
-    "description": "Shared governance, memory, identity, recovery, and stewardship foundations for OpenClaw AI systems.",
-    "id": "RainAndRiverSky/OpenClaw_Shared_Foundations",
-    "language": "\u2014",
-    "name": "RainAndRiverSky/OpenClaw_Shared_Foundations",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:30:58Z",
-    "url": "https://github.com/RainAndRiverSky/OpenClaw_Shared_Foundations"
-  },
-  {
     "description": "Democratizing Reinforcement Learning for LLMs",
     "id": "rllm-org/rllm",
     "language": "Python",
@@ -232,15 +259,6 @@
     "stars": 5623,
     "updated_at": "2026-06-16T19:21:24Z",
     "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4362,
-    "updated_at": "2026-06-16T18:53:11Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-16T16:34:26Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Agents for Role Play. Agents for Game. Agents as a Game. An orchestrator-agents engine for living worlds \u2014 file-backed, ",
-    "id": "LudicDynamics/WorldLines",
-    "language": "\u2014",
-    "name": "LudicDynamics/WorldLines",
-    "stars": 14,
-    "updated_at": "2026-06-16T16:07:29Z",
-    "url": "https://github.com/LudicDynamics/WorldLines"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 516,
-    "updated_at": "2026-06-16T16:06:51Z",
-    "url": "https://github.com/aaronjmars/aeon"
   }
 ]
