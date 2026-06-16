@@ -1,12 +1,48 @@
 [
   {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1356,
+    "updated_at": "2026-06-16T02:40:41Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-06-16T02:39:44Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "Insajin/autopus-adk",
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 107,
-    "updated_at": "2026-06-16T02:26:53Z",
+    "updated_at": "2026-06-16T02:35:25Z",
     "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "AI Agent \u843d\u5730\u54a8\u8be2\u65b9\u6cd5\u8bba\u4e0e Demo \u5e93 \u00b7 \u5e2e\u4f01\u4e1a\u8bc4\u4f30 AI Agent \u771f\u5b9e\u4ef7\u503c",
+    "id": "henry-ai-labs/ai-agent-playbook",
+    "language": "\u2014",
+    "name": "henry-ai-labs/ai-agent-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-16T02:34:26Z",
+    "url": "https://github.com/henry-ai-labs/ai-agent-playbook"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T02:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A lightweight, declarative agent harness \u2014 define multi-agent workflows as YAML, run them from Python or the CLI, and th",
@@ -36,21 +72,12 @@
     "url": "https://github.com/KKenny0/Keel"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T02:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
     "id": "sandydasari/openacme",
     "language": "TypeScript",
     "name": "sandydasari/openacme",
     "stars": 71,
-    "updated_at": "2026-06-16T02:17:52Z",
+    "updated_at": "2026-06-16T02:37:36Z",
     "url": "https://github.com/sandydasari/openacme"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 3478,
-    "updated_at": "2026-06-16T02:23:11Z",
+    "updated_at": "2026-06-16T02:33:32Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 10,
     "updated_at": "2026-06-16T01:53:36Z",
     "url": "https://github.com/kdcube/kdcube-ai-app"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-06-16T01:52:34Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-16T01:52:06Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Build self-spawning AI agents from tasks with distributed memory, guardrails, and a fossil record.",
-    "id": "karunun4659/spawnverse",
-    "language": "\u2014",
-    "name": "karunun4659/spawnverse",
-    "stars": 0,
-    "updated_at": "2026-06-16T01:51:44Z",
-    "url": "https://github.com/karunun4659/spawnverse"
   }
 ]
