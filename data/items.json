@@ -1,21 +1,66 @@
 [
   {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-06-16T00:45:02Z",
-    "url": "https://github.com/kh0pper/crow"
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 2,
+    "updated_at": "2026-06-16T00:59:47Z",
+    "url": "https://github.com/dsswift/ion"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-06-16T00:59:08Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "A lightweight, declarative agent harness \u2014 define multi-agent workflows as YAML, run them from Python or the CLI, and th",
+    "id": "bryansparks/armature",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
+    "name": "bryansparks/armature",
+    "stars": 0,
+    "updated_at": "2026-06-16T00:59:06Z",
+    "url": "https://github.com/bryansparks/armature"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-06-16T00:58:21Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17770,
+    "updated_at": "2026-06-16T00:57:54Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "",
+    "id": "envergadcr/ai-video-workflow",
+    "language": "Python",
+    "name": "envergadcr/ai-video-workflow",
+    "stars": 2,
+    "updated_at": "2026-06-16T00:52:12Z",
+    "url": "https://github.com/envergadcr/ai-video-workflow"
+  },
+  {
+    "description": "\ud83e\udde0 Enable collaborative decision-making with a modular multi-agent framework that promotes transparency and utilizes tool",
+    "id": "Niranjan-008/Agentic-Decision-Cell",
+    "language": "Python",
+    "name": "Niranjan-008/Agentic-Decision-Cell",
     "stars": 1,
-    "updated_at": "2026-06-16T00:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "updated_at": "2026-06-16T00:51:34Z",
+    "url": "https://github.com/Niranjan-008/Agentic-Decision-Cell"
   },
   {
     "description": "oh-my-fable \u2014 Fable 5's way of working a long task (plan first, self-correct, never lose the thread), as a model-agnosti",
@@ -23,8 +68,62 @@
     "language": "TypeScript",
     "name": "didrod205/oh-my-fable",
     "stars": 1,
-    "updated_at": "2026-06-16T00:30:21Z",
+    "updated_at": "2026-06-16T00:51:33Z",
     "url": "https://github.com/didrod205/oh-my-fable"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-16T00:49:51Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-06-16T00:48:48Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4339,
+    "updated_at": "2026-06-16T00:58:17Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-16T00:45:36Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T00:45:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-06-16T00:45:02Z",
+    "url": "https://github.com/kh0pper/crow"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -113,7 +212,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-16T00:08:14Z",
+    "updated_at": "2026-06-16T01:00:20Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -135,15 +234,6 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "A lightweight, declarative agent harness \u2014 define multi-agent workflows as YAML, run them from Python or the CLI, and th",
-    "id": "bryansparks/armature",
-    "language": "Python",
-    "name": "bryansparks/armature",
-    "stars": 0,
-    "updated_at": "2026-06-16T00:00:35Z",
-    "url": "https://github.com/bryansparks/armature"
-  },
-  {
     "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
     "id": "dryvist/ai-assistant-instructions",
     "language": "Shell",
@@ -151,15 +241,6 @@
     "stars": 9,
     "updated_at": "2026-06-15T23:52:35Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-06-16T00:25:50Z",
-    "url": "https://github.com/sytone/botnexus"
   },
   {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
@@ -176,7 +257,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11362,
-    "updated_at": "2026-06-16T00:42:25Z",
+    "updated_at": "2026-06-16T00:48:46Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -196,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T23:44:48Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4339,
-    "updated_at": "2026-06-15T23:41:19Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T23:20:36Z",
     "url": "https://github.com/Danielle6426/Qwen-Loop"
-  },
-  {
-    "description": "Security-first AI agent daemon \u2014 the model proposes actions, the runtime decides what execute",
-    "id": "shisa-ai/shisad",
-    "language": "Python",
-    "name": "shisa-ai/shisad",
-    "stars": 25,
-    "updated_at": "2026-06-15T23:20:11Z",
-    "url": "https://github.com/shisa-ai/shisad"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 2,
-    "updated_at": "2026-06-15T23:20:06Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-06-15T23:18:53Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-06-15T23:18:52Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-15T23:18:20Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Boost Codex with better prompts, workflows, and runtime help for faster, cleaner coding in growing projects",
-    "id": "ItsProGamer974/oh-my-codex",
-    "language": "TypeScript",
-    "name": "ItsProGamer974/oh-my-codex",
-    "stars": 1,
-    "updated_at": "2026-06-15T23:18:18Z",
-    "url": "https://github.com/ItsProGamer974/oh-my-codex"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-06-15T23:18:15Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Automate harness engineering for AI agents with AutoHarness, so models handle reasoning while the system manages the res",
-    "id": "photoconductive-bhaga880/AutoHarness",
-    "language": "\u2014",
-    "name": "photoconductive-bhaga880/AutoHarness",
-    "stars": 0,
-    "updated_at": "2026-06-15T23:17:37Z",
-    "url": "https://github.com/photoconductive-bhaga880/AutoHarness"
   }
 ]
