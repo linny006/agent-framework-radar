@@ -1,12 +1,75 @@
 [
   {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 15,
+    "updated_at": "2026-06-16T23:14:27Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
     "id": "Spitfire-Products/nexus-cortex",
     "language": "TypeScript",
     "name": "Spitfire-Products/nexus-cortex",
     "stars": 0,
-    "updated_at": "2026-06-16T22:52:38Z",
+    "updated_at": "2026-06-16T23:14:06Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-16T23:12:39Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 71,
+    "updated_at": "2026-06-16T23:12:45Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Multi-agent system built with Claude and MCP featuring 7 specialized agents (chatbot, security researcher, business advi",
+    "id": "brooksmcmillin/agents",
+    "language": "Python",
+    "name": "brooksmcmillin/agents",
+    "stars": 2,
+    "updated_at": "2026-06-16T23:10:10Z",
+    "url": "https://github.com/brooksmcmillin/agents"
+  },
+  {
+    "description": "\ud83e\udd16 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 \u2014 the year agents went mainstream",
+    "id": "Zijian-Ni/awesome-ai-agents-2026",
+    "language": "Python",
+    "name": "Zijian-Ni/awesome-ai-agents-2026",
+    "stars": 143,
+    "updated_at": "2026-06-16T23:05:57Z",
+    "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026"
+  },
+  {
+    "description": "\ud83e\udd96 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
+    "id": "yomorun/yomo",
+    "language": "Rust",
+    "name": "yomorun/yomo",
+    "stars": 1907,
+    "updated_at": "2026-06-16T23:00:29Z",
+    "url": "https://github.com/yomorun/yomo"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T23:00:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-16T22:51:48Z",
+    "updated_at": "2026-06-16T23:11:16Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -23,7 +86,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 1,
-    "updated_at": "2026-06-16T22:51:32Z",
+    "updated_at": "2026-06-16T23:09:36Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T22:46:11Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T22:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hosted multi-agent AI platform. Persistent labs, 40 sandboxed tools (code, web, RAG, GPU dispatcher, web3), private",
@@ -122,17 +176,8 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 4363,
-    "updated_at": "2026-06-16T23:00:25Z",
+    "updated_at": "2026-06-16T23:13:07Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 15,
-    "updated_at": "2026-06-16T22:30:48Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
@@ -140,8 +185,17 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 18,
-    "updated_at": "2026-06-16T22:58:11Z",
+    "updated_at": "2026-06-16T23:05:06Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17795,
+    "updated_at": "2026-06-16T22:29:14Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11397,
-    "updated_at": "2026-06-16T22:00:55Z",
+    "updated_at": "2026-06-16T23:03:54Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -232,15 +286,6 @@
     "stars": 6173,
     "updated_at": "2026-06-16T21:55:05Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:45:04Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Autonomous AI agent runtime \u2014 TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co",
@@ -337,7 +382,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22644,
+    "stars": 22645,
     "updated_at": "2026-06-16T20:28:47Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -356,7 +401,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 578,
-    "updated_at": "2026-06-16T20:16:45Z",
+    "updated_at": "2026-06-16T23:13:26Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-16T19:39:02Z",
     "url": "https://github.com/microfox-ai/ai-router"
-  },
-  {
-    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
-    "id": "truvaagents/truva-g3",
-    "language": "Go",
-    "name": "truvaagents/truva-g3",
-    "stars": 13,
-    "updated_at": "2026-06-16T19:31:40Z",
-    "url": "https://github.com/truvaagents/truva-g3"
-  },
-  {
-    "description": "Agentic runtime system still in progress",
-    "id": "StellarRequiem/Forest-Soul-Forge",
-    "language": "Python",
-    "name": "StellarRequiem/Forest-Soul-Forge",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:25:23Z",
-    "url": "https://github.com/StellarRequiem/Forest-Soul-Forge"
-  },
-  {
-    "description": "Official documentation for Agentflow, built with Docusaurus and structured via the Divio system: tutorials, how-to guide",
-    "id": "10xHub/agentflow-docs",
-    "language": "TypeScript",
-    "name": "10xHub/agentflow-docs",
-    "stars": 1,
-    "updated_at": "2026-06-16T19:06:07Z",
-    "url": "https://github.com/10xHub/agentflow-docs"
-  },
-  {
-    "description": "Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones",
-    "id": "ellmos-ai/clutch",
-    "language": "Python",
-    "name": "ellmos-ai/clutch",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:57:13Z",
-    "url": "https://github.com/ellmos-ai/clutch"
-  },
-  {
-    "description": "System Memory untuk AI Berjiwa \u2014 belajar dari proses, bukan kejar akurasi.",
-    "id": "aa-dede/hikmah",
-    "language": "Python",
-    "name": "aa-dede/hikmah",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:54:32Z",
-    "url": "https://github.com/aa-dede/hikmah"
   }
 ]
