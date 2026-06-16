@@ -1,5 +1,77 @@
 [
   {
+    "description": "Official BisQue Ultra Platform",
+    "id": "amilworks/ultra",
+    "language": "TypeScript",
+    "name": "amilworks/ultra",
+    "stars": 4,
+    "updated_at": "2026-06-16T20:14:45Z",
+    "url": "https://github.com/amilworks/ultra"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4363,
+    "updated_at": "2026-06-16T20:11:42Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
+    "language": "Python",
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 18,
+    "updated_at": "2026-06-16T20:09:25Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+  },
+  {
+    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
+    "id": "sheawinkler/ContextLattice",
+    "language": "Go",
+    "name": "sheawinkler/ContextLattice",
+    "stars": 114,
+    "updated_at": "2026-06-16T20:09:16Z",
+    "url": "https://github.com/sheawinkler/ContextLattice"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 22630,
+    "updated_at": "2026-06-16T20:05:36Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
+    "id": "subkoks/agents-md",
+    "language": "Shell",
+    "name": "subkoks/agents-md",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:04:16Z",
+    "url": "https://github.com/subkoks/agents-md"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T20:00:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11396,
+    "updated_at": "2026-06-16T19:53:35Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": ".NET CLI tool and framework for orchestrating multi-agent AI  pipelines with strong mechanical enforcement.",
     "id": "fuseraft/fuseraft-cli",
     "language": "C#",
@@ -18,15 +90,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4363,
-    "updated_at": "2026-06-16T19:48:16Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "Shared governance, memory, identity, recovery, and stewardship foundations for OpenClaw AI systems.",
     "id": "RainAndRiverSky/OpenClaw_Shared_Foundations",
     "language": "\u2014",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T19:46:07Z",
     "url": "https://github.com/RainAndRiverSky/OpenClaw_Shared_Foundations"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T19:45:44Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A Chief of Staff for Claude Code \u2014 WATC architecture + 4Cs methodology. Open-sourced by Azul Digital.",
@@ -90,15 +144,6 @@
     "url": "https://github.com/kh0pper/crow"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22627,
-    "updated_at": "2026-06-16T19:29:29Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Agentic runtime system still in progress",
     "id": "StellarRequiem/Forest-Soul-Forge",
     "language": "Python",
@@ -115,15 +160,6 @@
     "stars": 8,
     "updated_at": "2026-06-16T19:22:33Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 18,
-    "updated_at": "2026-06-16T19:25:42Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
     "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T18:54:24Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11395,
-    "updated_at": "2026-06-16T19:53:35Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -333,15 +360,6 @@
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
-    "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
-    "id": "subkoks/agents-md",
-    "language": "Shell",
-    "name": "subkoks/agents-md",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:20:27Z",
-    "url": "https://github.com/subkoks/agents-md"
-  },
-  {
     "description": "Ops harness for Claude Code \u2014 5 install profiles, 7 shipped skills, full session rituals. Apache 2.0.",
     "id": "cerebrocybersolutions/libro",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 14300,
     "updated_at": "2026-06-16T16:36:00Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 148,
-    "updated_at": "2026-06-16T16:26:26Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 6,
-    "updated_at": "2026-06-16T16:34:26Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
   }
 ]
