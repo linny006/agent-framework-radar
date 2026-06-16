@@ -1,5 +1,95 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 22381,
+    "updated_at": "2026-06-16T06:14:41Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
+    "id": "ChronoAIProject/Ornn",
+    "language": "TypeScript",
+    "name": "ChronoAIProject/Ornn",
+    "stars": 19,
+    "updated_at": "2026-06-16T06:14:15Z",
+    "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "Local-first Evidence OS for AI agents in Kotlin",
+    "id": "morning-verlu/KAI",
+    "language": "Kotlin",
+    "name": "morning-verlu/KAI",
+    "stars": 0,
+    "updated_at": "2026-06-16T06:12:59Z",
+    "url": "https://github.com/morning-verlu/KAI"
+  },
+  {
+    "description": "Personal Ai Agent",
+    "id": "br3eze-code/br3eze-code",
+    "language": "JavaScript",
+    "name": "br3eze-code/br3eze-code",
+    "stars": 1,
+    "updated_at": "2026-06-16T06:10:34Z",
+    "url": "https://github.com/br3eze-code/br3eze-code"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-16T06:09:11Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Clarity/\u5fc3\u866b \u2014 AI\u8ba4\u77e5\u4e0e\u81ea\u6108\u5f15\u64ce\u3002\u5b58\u5728\u611f\u77e5\u3001\u771f\u5584\u7f8e\u8bc4\u5206\u3001\u4e09\u5c42\u8bb0\u5fc6\u3001Q-learning\u81ea\u6108\u3001\u68a6\u5883\u6574\u5408\u3001\u53cd\u4e8b\u5b9e\u63a8\u7406",
+    "id": "yun520-1/claude-clarity",
+    "language": "\u2014",
+    "name": "yun520-1/claude-clarity",
+    "stars": 1,
+    "updated_at": "2026-06-16T06:08:37Z",
+    "url": "https://github.com/yun520-1/claude-clarity"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 66,
+    "updated_at": "2026-06-16T06:05:44Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 0,
+    "updated_at": "2026-06-16T06:04:10Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "ethosagent/ethos",
+    "language": "TypeScript",
+    "name": "ethosagent/ethos",
+    "stars": 7,
+    "updated_at": "2026-06-16T06:01:17Z",
+    "url": "https://github.com/ethosagent/ethos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T06:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/M",
     "id": "hoangtuanhehehehhe/AgentVault",
     "language": "Python",
@@ -14,17 +104,8 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-16T05:55:39Z",
+    "updated_at": "2026-06-16T06:09:33Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Local-first Evidence OS for AI agents in Kotlin",
-    "id": "morning-verlu/KAI",
-    "language": "Kotlin",
-    "name": "morning-verlu/KAI",
-    "stars": 0,
-    "updated_at": "2026-06-16T05:53:41Z",
-    "url": "https://github.com/morning-verlu/KAI"
   },
   {
     "description": "A local-first desktop application for AI agent workflows.",
@@ -34,15 +115,6 @@
     "stars": 7,
     "updated_at": "2026-06-16T05:52:17Z",
     "url": "https://github.com/modelstudioai/openwork"
-  },
-  {
-    "description": "Personal Ai Agent",
-    "id": "br3eze-code/br3eze-code",
-    "language": "JavaScript",
-    "name": "br3eze-code/br3eze-code",
-    "stars": 1,
-    "updated_at": "2026-06-16T05:48:11Z",
-    "url": "https://github.com/br3eze-code/br3eze-code"
   },
   {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
@@ -63,15 +135,6 @@
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 0,
-    "updated_at": "2026-06-16T05:46:37Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
     "description": "AI Agent \u843d\u5730\u54a8\u8be2\u65b9\u6cd5\u8bba\u4e0e Demo \u5e93 \u00b7 \u5e2e\u4f01\u4e1a\u8bc4\u4f30 AI Agent \u771f\u5b9e\u4ef7\u503c",
     "id": "henry-ai-labs/ai-agent-playbook",
     "language": "\u2014",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T05:45:37Z",
     "url": "https://github.com/henry-ai-labs/ai-agent-playbook"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T05:45:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T05:40:48Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22375,
-    "updated_at": "2026-06-16T05:40:27Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -202,7 +247,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 3480,
+    "stars": 3481,
     "updated_at": "2026-06-16T05:34:53Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-16T05:27:27Z",
     "url": "https://github.com/agentbreeder/agentbreeder"
-  },
-  {
-    "description": "Generate GoF design pattern boilerplate from the CLI for Go, C#, and Python templates",
-    "id": "Daiseyvisible752/Design-Pattern-Cli",
-    "language": "Jinja",
-    "name": "Daiseyvisible752/Design-Pattern-Cli",
-    "stars": 0,
-    "updated_at": "2026-06-16T05:24:48Z",
-    "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-16T05:23:59Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
-  },
-  {
-    "description": "Track AI agent token usage and spending in real time with budget alerts, per-task costs, dashboards, and reports for any",
-    "id": "Merovingian-valency417/agent-cost-mcp",
-    "language": "HTML",
-    "name": "Merovingian-valency417/agent-cost-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-16T05:23:27Z",
-    "url": "https://github.com/Merovingian-valency417/agent-cost-mcp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-16T05:22:58Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Production-grade, contracts-first framework for AI agents in Python \u2014 vendor-neutral, audit-ready.",
-    "id": "Scaffoldic/agentforge-py",
-    "language": "Python",
-    "name": "Scaffoldic/agentforge-py",
-    "stars": 2,
-    "updated_at": "2026-06-16T05:42:12Z",
-    "url": "https://github.com/Scaffoldic/agentforge-py"
   }
 ]
