@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-16T09:37:10Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 67,
+    "updated_at": "2026-06-16T09:35:17Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T09:30:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Local-first AI agent runtime with autonomous context awareness. CLI & desktop, MCP integration, Hooks, Skills, multi-age",
     "id": "keiqkeqi321/somnia",
     "language": "Python",
@@ -9,13 +36,13 @@
     "url": "https://github.com/keiqkeqi321/somnia"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 67,
-    "updated_at": "2026-06-16T09:20:35Z",
-    "url": "https://github.com/JKHeadley/instar"
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4350,
+    "updated_at": "2026-06-16T09:19:56Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -23,17 +50,8 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11382,
-    "updated_at": "2026-06-16T09:27:59Z",
+    "updated_at": "2026-06-16T09:36:39Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T09:15:39Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
@@ -77,17 +95,8 @@
     "language": "Go",
     "name": "sheawinkler/ContextLattice",
     "stars": 114,
-    "updated_at": "2026-06-16T08:57:01Z",
+    "updated_at": "2026-06-16T09:41:56Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:52:50Z",
-    "url": "https://github.com/opencue/cuecards"
   },
   {
     "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
@@ -319,7 +328,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22457,
+    "stars": 22463,
     "updated_at": "2026-06-16T08:14:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T08:09:21Z",
     "url": "https://github.com/Daiseyvisible752/Design-Pattern-Cli"
-  },
-  {
-    "description": "Build AI agent teams to run projects, plan work, and execute tasks through a virtual company platform",
-    "id": "Throaty-chaff551/buildcrew",
-    "language": "TypeScript",
-    "name": "Throaty-chaff551/buildcrew",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:08:35Z",
-    "url": "https://github.com/Throaty-chaff551/buildcrew"
   }
 ]
