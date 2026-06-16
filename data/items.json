@@ -1,5 +1,59 @@
 [
   {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-16T22:14:23Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-16T22:14:33Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
+    "id": "agentbreeder/agentbreeder",
+    "language": "Python",
+    "name": "agentbreeder/agentbreeder",
+    "stars": 4,
+    "updated_at": "2026-06-16T22:14:40Z",
+    "url": "https://github.com/agentbreeder/agentbreeder"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-06-16T22:11:17Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Deploy intelligence. Open-source infrastructure for AI agents in production.",
+    "id": "muxi-ai/muxi",
+    "language": "\u2014",
+    "name": "muxi-ai/muxi",
+    "stars": 20,
+    "updated_at": "2026-06-16T22:04:42Z",
+    "url": "https://github.com/muxi-ai/muxi"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T22:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Token-efficient agentic TypeScript runtime, a LangChain alternative",
     "id": "DizzyMii/Flint",
     "language": "TypeScript",
@@ -16,15 +70,6 @@
     "stars": 13,
     "updated_at": "2026-06-16T21:58:52Z",
     "url": "https://github.com/firatcand/roster"
-  },
-  {
-    "description": "Deploy intelligence. Open-source infrastructure for AI agents in production.",
-    "id": "muxi-ai/muxi",
-    "language": "\u2014",
-    "name": "muxi-ai/muxi",
-    "stars": 20,
-    "updated_at": "2026-06-16T21:57:45Z",
-    "url": "https://github.com/muxi-ai/muxi"
   },
   {
     "description": "Self-hosted multi-agent AI platform. Persistent labs, 40 sandboxed tools (code, web, RAG, GPU dispatcher, web3), private",
@@ -59,17 +104,8 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 18,
-    "updated_at": "2026-06-16T21:53:30Z",
+    "updated_at": "2026-06-16T22:13:45Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T21:45:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -126,13 +162,13 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:25:21Z",
-    "url": "https://github.com/ludex-lab/ludex"
+    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14300,
+    "updated_at": "2026-06-16T21:24:06Z",
+    "url": "https://github.com/eigent-ai/eigent"
   },
   {
     "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
@@ -144,21 +180,12 @@
     "url": "https://github.com/qmilab/asterism"
   },
   {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-16T21:21:22Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11396,
-    "updated_at": "2026-06-16T21:18:50Z",
+    "updated_at": "2026-06-16T22:00:55Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -265,7 +292,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22639,
+    "stars": 22640,
     "updated_at": "2026-06-16T20:28:47Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -342,15 +369,6 @@
     "url": "https://github.com/microfox-ai/ai-router"
   },
   {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:35:10Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
     "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
     "id": "truvaagents/truva-g3",
     "language": "Go",
@@ -367,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T19:25:23Z",
     "url": "https://github.com/StellarRequiem/Forest-Soul-Forge"
-  },
-  {
-    "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
-    "id": "agentbreeder/agentbreeder",
-    "language": "Python",
-    "name": "agentbreeder/agentbreeder",
-    "stars": 4,
-    "updated_at": "2026-06-16T19:15:29Z",
-    "url": "https://github.com/agentbreeder/agentbreeder"
   },
   {
     "description": "Official documentation for Agentflow, built with Docusaurus and structured via the Divio system: tutorials, how-to guide",
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 239,
-    "updated_at": "2026-06-16T21:45:24Z",
+    "updated_at": "2026-06-16T22:09:51Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-16T18:44:32Z",
     "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
-    "description": "A local-first desktop application for AI agent workflows.",
-    "id": "modelstudioai/openwork",
-    "language": "TypeScript",
-    "name": "modelstudioai/openwork",
-    "stars": 7,
-    "updated_at": "2026-06-16T17:49:06Z",
-    "url": "https://github.com/modelstudioai/openwork"
   }
 ]
