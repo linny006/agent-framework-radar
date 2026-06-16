@@ -1,5 +1,68 @@
 [
   {
+    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 239,
+    "updated_at": "2026-06-16T17:45:17Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11393,
+    "updated_at": "2026-06-16T17:41:42Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-16T17:41:47Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-16T17:35:44Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "A local-first desktop application for AI agent workflows.",
+    "id": "modelstudioai/openwork",
+    "language": "TypeScript",
+    "name": "modelstudioai/openwork",
+    "stars": 7,
+    "updated_at": "2026-06-16T17:34:21Z",
+    "url": "https://github.com/modelstudioai/openwork"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T17:33:04Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Integrated AI Sales Assistant PoC - Azure AI Foundry Agent Service + React + Terraform",
+    "id": "briandenicola/agentic-trading-desk-demo",
+    "language": "C#",
+    "name": "briandenicola/agentic-trading-desk-demo",
+    "stars": 0,
+    "updated_at": "2026-06-16T17:32:12Z",
+    "url": "https://github.com/briandenicola/agentic-trading-desk-demo"
+  },
+  {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
     "id": "tuanductran/soulmap-ai",
     "language": "Python",
@@ -9,21 +72,12 @@
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T17:30:34Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
     "id": "telus-labs/stagecraft",
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 1,
-    "updated_at": "2026-06-16T17:29:00Z",
+    "updated_at": "2026-06-16T17:41:13Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -34,15 +88,6 @@
     "stars": 18,
     "updated_at": "2026-06-16T17:25:06Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "A local-first desktop application for AI agent workflows.",
-    "id": "modelstudioai/openwork",
-    "language": "TypeScript",
-    "name": "modelstudioai/openwork",
-    "stars": 7,
-    "updated_at": "2026-06-16T17:30:28Z",
-    "url": "https://github.com/modelstudioai/openwork"
   },
   {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
@@ -81,24 +126,6 @@
     "url": "https://github.com/othmastar/adam-prism"
   },
   {
-    "description": "Integrated AI Sales Assistant PoC - Azure AI Foundry Agent Service + React + Terraform",
-    "id": "briandenicola/agentic-trading-desk-demo",
-    "language": "C#",
-    "name": "briandenicola/agentic-trading-desk-demo",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:32:12Z",
-    "url": "https://github.com/briandenicola/agentic-trading-desk-demo"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11393,
-    "updated_at": "2026-06-16T17:27:17Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
     "id": "Deep-CodeAI/Agents.KT",
     "language": "Kotlin",
@@ -108,20 +135,11 @@
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
-    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 239,
-    "updated_at": "2026-06-16T17:22:41Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22609,
+    "stars": 22611,
     "updated_at": "2026-06-16T16:59:50Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -140,7 +158,7 @@
     "language": "TypeScript",
     "name": "Spitfire-Products/nexus-cortex",
     "stars": 0,
-    "updated_at": "2026-06-16T16:56:09Z",
+    "updated_at": "2026-06-16T17:45:30Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
   },
   {
@@ -301,7 +319,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4359,
+    "stars": 4360,
     "updated_at": "2026-06-16T15:57:37Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -430,23 +448,5 @@
     "stars": 9,
     "updated_at": "2026-06-16T15:16:54Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Open-source platform layer for AI agents in production",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 187,
-    "updated_at": "2026-06-16T15:19:05Z",
-    "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
-    "description": "Model-agnostic agent harness for local LLMs \u2014 configure agents in YAML and run them on your own hardware (vLLM, Ollama, ",
-    "id": "ahwurm/localharness",
-    "language": "Python",
-    "name": "ahwurm/localharness",
-    "stars": 6,
-    "updated_at": "2026-06-16T15:14:18Z",
-    "url": "https://github.com/ahwurm/localharness"
   }
 ]
