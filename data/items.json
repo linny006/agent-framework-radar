@@ -1,12 +1,57 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:45:04Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
     "id": "VisionaireLabs/Visionaire",
     "language": "TypeScript",
     "name": "VisionaireLabs/Visionaire",
     "stars": 2,
-    "updated_at": "2026-06-16T21:28:25Z",
+    "updated_at": "2026-06-16T21:42:22Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
+    "id": "subkoks/agents-md",
+    "language": "Shell",
+    "name": "subkoks/agents-md",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:39:58Z",
+    "url": "https://github.com/subkoks/agents-md"
+  },
+  {
+    "description": "Autonomous AI agent runtime \u2014 TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co",
+    "id": "erayendes/kortext",
+    "language": "TypeScript",
+    "name": "erayendes/kortext",
+    "stars": 2,
+    "updated_at": "2026-06-16T21:36:40Z",
+    "url": "https://github.com/erayendes/kortext"
+  },
+  {
+    "description": "Persistent memory and context management for AI agents. Enable long-term recall, session continuity, and consistent beha",
+    "id": "emsoftanalytics/MARK-SDK",
+    "language": "Python",
+    "name": "emsoftanalytics/MARK-SDK",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:35:41Z",
+    "url": "https://github.com/emsoftanalytics/MARK-SDK"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T21:30:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6172,
-    "updated_at": "2026-06-16T21:27:14Z",
+    "updated_at": "2026-06-16T21:31:22Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T21:25:21Z",
     "url": "https://github.com/ludex-lab/ludex"
-  },
-  {
-    "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
-    "id": "subkoks/agents-md",
-    "language": "Shell",
-    "name": "subkoks/agents-md",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:25:08Z",
-    "url": "https://github.com/subkoks/agents-md"
   },
   {
     "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
@@ -70,24 +106,6 @@
     "stars": 8,
     "updated_at": "2026-06-16T21:21:22Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T21:15:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Persistent memory and context management for AI agents. Enable long-term recall, session continuity, and consistent beha",
-    "id": "emsoftanalytics/MARK-SDK",
-    "language": "Python",
-    "name": "emsoftanalytics/MARK-SDK",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:27:50Z",
-    "url": "https://github.com/emsoftanalytics/MARK-SDK"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -351,15 +369,6 @@
     "url": "https://github.com/10xHub/agentflow-docs"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:03:08Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones",
     "id": "ellmos-ai/clutch",
     "language": "Python",
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 239,
-    "updated_at": "2026-06-16T19:28:23Z",
+    "updated_at": "2026-06-16T21:45:24Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-16T17:20:52Z",
     "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "Ops harness for Claude Code \u2014 5 install profiles, 7 shipped skills, full session rituals. Apache 2.0.",
-    "id": "cerebrocybersolutions/libro",
-    "language": "Python",
-    "name": "cerebrocybersolutions/libro",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:14:05Z",
-    "url": "https://github.com/cerebrocybersolutions/libro"
   }
 ]
