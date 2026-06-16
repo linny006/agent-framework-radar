@@ -1,5 +1,23 @@
 [
   {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 1,
+    "updated_at": "2026-06-16T17:31:25Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T17:30:34Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
     "id": "telus-labs/stagecraft",
     "language": "JavaScript",
@@ -7,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T17:29:00Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 1,
-    "updated_at": "2026-06-16T17:29:17Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
@@ -54,15 +63,6 @@
     "url": "https://github.com/subkoks/agents-md"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T17:15:34Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Ops harness for Claude Code \u2014 5 install profiles, 7 shipped skills, full session rituals. Apache 2.0.",
     "id": "cerebrocybersolutions/libro",
     "language": "Python",
@@ -86,7 +86,7 @@
     "language": "C#",
     "name": "briandenicola/agentic-trading-desk-demo",
     "stars": 0,
-    "updated_at": "2026-06-16T17:21:41Z",
+    "updated_at": "2026-06-16T17:32:12Z",
     "url": "https://github.com/briandenicola/agentic-trading-desk-demo"
   },
   {
@@ -121,7 +121,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22608,
+    "stars": 22609,
     "updated_at": "2026-06-16T16:59:50Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },

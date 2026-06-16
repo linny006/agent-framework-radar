@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-16 17:30 UTC
+> ⏰ Last updated: 2026-06-16 17:33 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 1 | JavaScript | 2026-06-16 | Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac |
-| 2 | [tuanductran/soulmap-ai](https://github.com/tuanductran/soulmap-ai) | 1 | Python | 2026-06-16 | SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t |
-| 3 | [JohnnyFiv3r/Core-Memory](https://github.com/JohnnyFiv3r/Core-Memory) | 18 | Python | 2026-06-16 | Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection. |
-| 4 | [modelstudioai/openwork](https://github.com/modelstudioai/openwork) | 7 | TypeScript | 2026-06-16 | A local-first desktop application for AI agent workflows. |
-| 5 | [Kortecx/kortecx](https://github.com/Kortecx/kortecx) | 4 | Rust | 2026-06-16 | kortecx — the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure |
-| 6 | [subkoks/agents-md](https://github.com/subkoks/agents-md) | 0 | Shell | 2026-06-16 | Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk |
-| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-16 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [tuanductran/soulmap-ai](https://github.com/tuanductran/soulmap-ai) | 1 | Python | 2026-06-16 | SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-16 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 1 | JavaScript | 2026-06-16 | Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac |
+| 4 | [JohnnyFiv3r/Core-Memory](https://github.com/JohnnyFiv3r/Core-Memory) | 18 | Python | 2026-06-16 | Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection. |
+| 5 | [modelstudioai/openwork](https://github.com/modelstudioai/openwork) | 7 | TypeScript | 2026-06-16 | A local-first desktop application for AI agent workflows. |
+| 6 | [Kortecx/kortecx](https://github.com/Kortecx/kortecx) | 4 | Rust | 2026-06-16 | kortecx — the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure |
+| 7 | [subkoks/agents-md](https://github.com/subkoks/agents-md) | 0 | Shell | 2026-06-16 | Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk |
 | 8 | [cerebrocybersolutions/libro](https://github.com/cerebrocybersolutions/libro) | 0 | Python | 2026-06-16 | Ops harness for Claude Code — 5 install profiles, 7 shipped skills, full session rituals. Apache 2.0. |
 | 9 | [othmastar/adam-prism](https://github.com/othmastar/adam-prism) | 1 | Python | 2026-06-16 | Adam Prism — أول Digital Twin واعٍ عربي. ملكك بالكامل. يفهمك بلغتك. The first Arabic-conscious Digital Twin. Yours to ow |
 | 10 | [briandenicola/agentic-trading-desk-demo](https://github.com/briandenicola/agentic-trading-desk-demo) | 0 | C# | 2026-06-16 | Integrated AI Sales Assistant PoC - Azure AI Foundry Agent Service + React + Terraform |
 | 11 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 11393 | Python | 2026-06-16 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
 | 12 | [Deep-CodeAI/Agents.KT](https://github.com/Deep-CodeAI/Agents.KT) | 12 | Kotlin | 2026-06-16 | Typed Kotlin DSL framework for AI agent systems. |
 | 13 | [jaylfc/taOS](https://github.com/jaylfc/taOS) | 239 | Python | 2026-06-16 | Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry  |
-| 14 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 22608 | Go | 2026-06-16 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 14 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 22609 | Go | 2026-06-16 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | 15 | [bbvch-ai/aihub-core](https://github.com/bbvch-ai/aihub-core) | 8 | Python | 2026-06-16 | The open-source AI infrastructure stack for Swiss enterprises. |
 | 16 | [Spitfire-Products/nexus-cortex](https://github.com/Spitfire-Products/nexus-cortex) | 0 | TypeScript | 2026-06-16 | A headless, multi-provider AI agent harness — embed it as a library, script it from the CLI, or run it as a stateful age |
 | 17 | [frontier-infra/adl](https://github.com/frontier-infra/adl) | 1 | Shell | 2026-06-16 | Agent Discipline Layer (ADL) — keep a coding agent honest and make it prove its work: layered guardrails + a /goal contr |
