@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-16T10:28:14Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-16T10:27:43Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-16T10:27:55Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
+    "id": "dendrux/dendrux",
+    "language": "Python",
+    "name": "dendrux/dendrux",
+    "stars": 11,
+    "updated_at": "2026-06-16T10:22:22Z",
+    "url": "https://github.com/dendrux/dendrux"
+  },
+  {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 72,
+    "updated_at": "2026-06-16T10:15:46Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T10:15:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udd9e Claws - Local-first, Vercel-native, chat-first agent OS.",
     "id": "houstongolden/claws",
     "language": "TypeScript",
@@ -25,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T10:11:04Z",
     "url": "https://github.com/Jam0731/ParallaxAI"
-  },
-  {
-    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
-    "id": "dendrux/dendrux",
-    "language": "Python",
-    "name": "dendrux/dendrux",
-    "stars": 11,
-    "updated_at": "2026-06-16T10:12:43Z",
-    "url": "https://github.com/dendrux/dendrux"
   },
   {
     "description": "\ud83e\udd16 Build fullstack AI applications using the Model Context Protocol (MCP) with a microservices architecture and Claude as",
@@ -68,17 +113,8 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 67,
-    "updated_at": "2026-06-16T10:12:15Z",
+    "updated_at": "2026-06-16T10:21:38Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T10:00:43Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Generic configurable cognition lifecycle runtime for bounded, resumable agent sessions",
@@ -112,7 +148,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22472,
+    "stars": 22475,
     "updated_at": "2026-06-16T09:52:17Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11383,
-    "updated_at": "2026-06-16T10:04:11Z",
+    "updated_at": "2026-06-16T10:27:22Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T08:15:24Z",
     "url": "https://github.com/Danielle6426/Qwen-Loop"
-  },
-  {
-    "description": "",
-    "id": "brushworkoilpressure365/oh-my-code",
-    "language": "Rust",
-    "name": "brushworkoilpressure365/oh-my-code",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:14:56Z",
-    "url": "https://github.com/brushworkoilpressure365/oh-my-code"
-  },
-  {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 4,
-    "updated_at": "2026-06-16T08:14:50Z",
-    "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-06-16T08:13:34Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:13:32Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
   }
 ]
