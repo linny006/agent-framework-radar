@@ -1,5 +1,95 @@
 [
   {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-06-16T23:30:08Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-16T23:28:33Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
+    "language": "Python",
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 18,
+    "updated_at": "2026-06-16T23:27:42Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-16T23:26:11Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4363,
+    "updated_at": "2026-06-16T23:22:53Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-16T23:19:13Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 68,
+    "updated_at": "2026-06-16T23:19:07Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-16T23:27:29Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 578,
+    "updated_at": "2026-06-16T23:26:52Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T23:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "brooksmcmillin/agents",
     "stars": 2,
-    "updated_at": "2026-06-16T23:10:10Z",
+    "updated_at": "2026-06-16T23:22:56Z",
     "url": "https://github.com/brooksmcmillin/agents"
   },
   {
@@ -63,30 +153,12 @@
     "url": "https://github.com/yomorun/yomo"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T23:00:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-16T23:11:16Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
     "id": "telus-labs/stagecraft",
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 1,
-    "updated_at": "2026-06-16T23:09:36Z",
+    "updated_at": "2026-06-16T23:20:33Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -97,15 +169,6 @@
     "stars": 5,
     "updated_at": "2026-06-16T22:48:23Z",
     "url": "https://github.com/aomi-labs/aomi-sdk"
-  },
-  {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:46:48Z",
-    "url": "https://github.com/ludex-lab/ludex"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -135,15 +198,6 @@
     "url": "https://github.com/boblabs-eu/boblabs"
   },
   {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-16T22:39:41Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
     "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
     "id": "agentbreeder/agentbreeder",
     "language": "Python",
@@ -169,24 +223,6 @@
     "stars": 2,
     "updated_at": "2026-06-16T22:33:07Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4363,
-    "updated_at": "2026-06-16T23:13:07Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 18,
-    "updated_at": "2026-06-16T23:05:06Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11397,
-    "updated_at": "2026-06-16T23:03:54Z",
+    "updated_at": "2026-06-16T23:17:06Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -310,8 +346,8 @@
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 14301,
-    "updated_at": "2026-06-16T21:24:06Z",
+    "stars": 14302,
+    "updated_at": "2026-06-16T23:23:55Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
   {
@@ -322,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T21:20:16Z",
     "url": "https://github.com/qmilab/asterism"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:10:50Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Trust and verification for the skills your AI agent installs.",
@@ -382,7 +409,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22645,
+    "stars": 22646,
     "updated_at": "2026-06-16T20:28:47Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -394,15 +421,6 @@
     "stars": 2,
     "updated_at": "2026-06-16T20:29:25Z",
     "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 578,
-    "updated_at": "2026-06-16T23:13:26Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
     "description": "Official BisQue Ultra Platform",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-16T19:50:31Z",
     "url": "https://github.com/fuseraft/fuseraft-cli"
-  },
-  {
-    "description": "Shared governance, memory, identity, recovery, and stewardship foundations for OpenClaw AI systems.",
-    "id": "RainAndRiverSky/OpenClaw_Shared_Foundations",
-    "language": "\u2014",
-    "name": "RainAndRiverSky/OpenClaw_Shared_Foundations",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:46:07Z",
-    "url": "https://github.com/RainAndRiverSky/OpenClaw_Shared_Foundations"
-  },
-  {
-    "description": "express.js styled agent orchestration Library for typescript community",
-    "id": "microfox-ai/ai-router",
-    "language": "TypeScript",
-    "name": "microfox-ai/ai-router",
-    "stars": 5,
-    "updated_at": "2026-06-16T19:39:02Z",
-    "url": "https://github.com/microfox-ai/ai-router"
   }
 ]
