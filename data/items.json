@@ -1,12 +1,93 @@
 [
   {
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
+    "language": "Python",
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 18,
+    "updated_at": "2026-06-16T18:29:43Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 22621,
+    "updated_at": "2026-06-16T18:28:23Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Shared governance, memory, identity, recovery, and stewardship foundations for OpenClaw AI systems.",
+    "id": "RainAndRiverSky/OpenClaw_Shared_Foundations",
+    "language": "\u2014",
+    "name": "RainAndRiverSky/OpenClaw_Shared_Foundations",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:28:07Z",
+    "url": "https://github.com/RainAndRiverSky/OpenClaw_Shared_Foundations"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:23:15Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
+    "language": "Python",
+    "name": "rllm-org/rllm",
+    "stars": 5623,
+    "updated_at": "2026-06-16T18:22:14Z",
+    "url": "https://github.com/rllm-org/rllm"
+  },
+  {
+    "description": "System Memory untuk AI Berjiwa \u2014 belajar dari proses, bukan kejar akurasi.",
+    "id": "aa-dede/hikmah",
+    "language": "Python",
+    "name": "aa-dede/hikmah",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:22:11Z",
+    "url": "https://github.com/aa-dede/hikmah"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-16T18:21:42Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
     "description": "Integrated AI Sales Assistant PoC - Azure AI Foundry Agent Service + React + Terraform",
     "id": "briandenicola/agentic-trading-desk-demo",
     "language": "C#",
     "name": "briandenicola/agentic-trading-desk-demo",
     "stars": 0,
-    "updated_at": "2026-06-16T18:14:20Z",
+    "updated_at": "2026-06-16T18:21:15Z",
     "url": "https://github.com/briandenicola/agentic-trading-desk-demo"
+  },
+  {
+    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 239,
+    "updated_at": "2026-06-16T18:17:42Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T18:15:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
@@ -18,15 +99,6 @@
     "url": "https://github.com/agentbreeder/agentbreeder"
   },
   {
-    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 239,
-    "updated_at": "2026-06-16T18:06:13Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
@@ -34,24 +106,6 @@
     "stars": 4361,
     "updated_at": "2026-06-16T18:14:49Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:12:22Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:00:34Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -126,15 +180,6 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:45:30Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -142,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-06-16T17:35:44Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 18,
-    "updated_at": "2026-06-16T18:10:04Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
@@ -167,7 +203,7 @@
     "language": "Shell",
     "name": "subkoks/agents-md",
     "stars": 0,
-    "updated_at": "2026-06-16T18:13:47Z",
+    "updated_at": "2026-06-16T18:20:27Z",
     "url": "https://github.com/subkoks/agents-md"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T17:09:42Z",
     "url": "https://github.com/othmastar/adam-prism"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22619,
-    "updated_at": "2026-06-16T16:59:50Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
@@ -392,7 +419,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-16T15:44:43Z",
+    "updated_at": "2026-06-16T18:29:12Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 8,
     "updated_at": "2026-06-16T18:12:05Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
-    "id": "morning-verlu/KAI",
-    "language": "Kotlin",
-    "name": "morning-verlu/KAI",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:33:31Z",
-    "url": "https://github.com/morning-verlu/KAI"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 949,
-    "updated_at": "2026-06-16T15:30:19Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Skills, MCP, ",
-    "id": "codeking-ai/cligate",
-    "language": "JavaScript",
-    "name": "codeking-ai/cligate",
-    "stars": 96,
-    "updated_at": "2026-06-16T15:28:41Z",
-    "url": "https://github.com/codeking-ai/cligate"
   }
 ]
