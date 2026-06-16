@@ -1,12 +1,48 @@
 [
   {
+    "description": "Self-hosted multi-agent AI platform. Persistent labs, 40 sandboxed tools (code, web, RAG, GPU dispatcher, web3), private",
+    "id": "boblabs-eu/boblabs",
+    "language": "Python",
+    "name": "boblabs-eu/boblabs",
+    "stars": 5,
+    "updated_at": "2026-06-16T22:41:02Z",
+    "url": "https://github.com/boblabs-eu/boblabs"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-16T22:39:41Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
     "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
     "id": "agentbreeder/agentbreeder",
     "language": "Python",
     "name": "agentbreeder/agentbreeder",
     "stars": 4,
-    "updated_at": "2026-06-16T22:33:40Z",
+    "updated_at": "2026-06-16T22:39:38Z",
     "url": "https://github.com/agentbreeder/agentbreeder"
+  },
+  {
+    "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
+    "id": "subkoks/agents-md",
+    "language": "Shell",
+    "name": "subkoks/agents-md",
+    "stars": 0,
+    "updated_at": "2026-06-16T22:36:11Z",
+    "url": "https://github.com/subkoks/agents-md"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T22:34:46Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -34,15 +70,6 @@
     "stars": 15,
     "updated_at": "2026-06-16T22:30:48Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T22:30:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
@@ -90,15 +117,6 @@
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
-    "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
-    "id": "subkoks/agents-md",
-    "language": "Shell",
-    "name": "subkoks/agents-md",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:19:28Z",
-    "url": "https://github.com/subkoks/agents-md"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T22:16:39Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-16T22:15:43Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -162,15 +171,6 @@
     "url": "https://github.com/firatcand/roster"
   },
   {
-    "description": "Self-hosted multi-agent AI platform. Persistent labs, 40 sandboxed tools (code, web, RAG, GPU dispatcher, web3), private",
-    "id": "boblabs-eu/boblabs",
-    "language": "Python",
-    "name": "boblabs-eu/boblabs",
-    "stars": 5,
-    "updated_at": "2026-06-16T21:56:32Z",
-    "url": "https://github.com/boblabs-eu/boblabs"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -194,7 +194,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 1,
-    "updated_at": "2026-06-16T21:53:49Z",
+    "updated_at": "2026-06-16T22:44:02Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -229,7 +229,7 @@
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 14300,
+    "stars": 14301,
     "updated_at": "2026-06-16T21:24:06Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
@@ -446,7 +446,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 239,
-    "updated_at": "2026-06-16T22:34:28Z",
+    "updated_at": "2026-06-16T22:39:51Z",
     "url": "https://github.com/jaylfc/taOS"
   }
 ]
