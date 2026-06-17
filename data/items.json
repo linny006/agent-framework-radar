@@ -1,5 +1,50 @@
 [
   {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 73,
+    "updated_at": "2026-06-17T04:45:08Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-17T04:41:07Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Next-Generation BFT Agent Governance Framework for highly fault-tolerant LLM swarm coordination.",
+    "id": "fredm23579/AgentOmega",
+    "language": "PowerShell",
+    "name": "fredm23579/AgentOmega",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:33:38Z",
+    "url": "https://github.com/fredm23579/AgentOmega"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T04:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4372,
+    "updated_at": "2026-06-17T04:35:54Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -9,49 +54,13 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-17T04:28:06Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22732,
+    "stars": 22736,
     "updated_at": "2026-06-17T04:25:24Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Next-Generation BFT Agent Governance Framework for highly fault-tolerant LLM swarm coordination.",
-    "id": "fredm23579/AgentOmega",
-    "language": "PowerShell",
-    "name": "fredm23579/AgentOmega",
-    "stars": 0,
-    "updated_at": "2026-06-17T04:23:19Z",
-    "url": "https://github.com/fredm23579/AgentOmega"
-  },
-  {
-    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
-    "id": "sandydasari/openacme",
-    "language": "TypeScript",
-    "name": "sandydasari/openacme",
-    "stars": 73,
-    "updated_at": "2026-06-17T04:16:28Z",
-    "url": "https://github.com/sandydasari/openacme"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T04:15:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4677,
-    "updated_at": "2026-06-17T04:20:52Z",
+    "updated_at": "2026-06-17T04:32:17Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -220,7 +229,7 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 149,
+    "stars": 150,
     "updated_at": "2026-06-17T03:00:29Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -338,7 +347,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 4,
-    "updated_at": "2026-06-17T04:18:41Z",
+    "updated_at": "2026-06-17T04:39:32Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -376,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T01:12:29Z",
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4370,
-    "updated_at": "2026-06-17T04:29:05Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Official BisQue Ultra Platform",
