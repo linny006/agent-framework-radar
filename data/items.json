@@ -1,10 +1,136 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-17T14:27:40Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 160,
+    "updated_at": "2026-06-17T14:27:09Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
+    "id": "guilingzhouyi-creator/NOMOS",
+    "language": "Python",
+    "name": "guilingzhouyi-creator/NOMOS",
+    "stars": 1,
+    "updated_at": "2026-06-17T14:26:24Z",
+    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
+  },
+  {
+    "description": "A curated list of AI agent infrastructure: memory stores, vector databases, execution sandboxes, MCP servers, tool regis",
+    "id": "backblaze-labs/awesome-agent-infrastructure",
+    "language": "\u2014",
+    "name": "backblaze-labs/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-06-17T14:23:14Z",
+    "url": "https://github.com/backblaze-labs/awesome-agent-infrastructure"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-17T14:22:19Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:22:09Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Open-source Python framework for multi-agent AI orchestration, coding-agent swarms, council voting, provider routing, br",
+    "id": "farhanic017/agent-swarm",
+    "language": "Python",
+    "name": "farhanic017/agent-swarm",
+    "stars": 2,
+    "updated_at": "2026-06-17T14:20:57Z",
+    "url": "https://github.com/farhanic017/agent-swarm"
+  },
+  {
+    "description": "Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Skills, MCP, ",
+    "id": "codeking-ai/cligate",
+    "language": "JavaScript",
+    "name": "codeking-ai/cligate",
+    "stars": 96,
+    "updated_at": "2026-06-17T14:20:29Z",
+    "url": "https://github.com/codeking-ai/cligate"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6182,
+    "updated_at": "2026-06-17T14:20:09Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
+    "id": "dendrux/dendrux",
+    "language": "Python",
+    "name": "dendrux/dendrux",
+    "stars": 11,
+    "updated_at": "2026-06-17T14:29:00Z",
+    "url": "https://github.com/dendrux/dendrux"
+  },
+  {
+    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
+    "id": "salvatoreabient793/cursor-auto-deployment-agent",
+    "language": "\u2014",
+    "name": "salvatoreabient793/cursor-auto-deployment-agent",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:16:46Z",
+    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11420,
+    "updated_at": "2026-06-17T14:16:29Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4379,
+    "updated_at": "2026-06-17T14:28:32Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T14:15:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
     "id": "codeaholicguy/ai-devkit",
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
-    "stars": 1380,
+    "stars": 1381,
     "updated_at": "2026-06-17T14:12:24Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
@@ -45,30 +171,12 @@
     "url": "https://github.com/ayush585/Hyperion-Delta"
   },
   {
-    "description": "Open-source Python framework for multi-agent AI orchestration, coding-agent swarms, council voting, provider routing, br",
-    "id": "farhanic017/agent-swarm",
-    "language": "Python",
-    "name": "farhanic017/agent-swarm",
-    "stars": 2,
-    "updated_at": "2026-06-17T14:03:34Z",
-    "url": "https://github.com/farhanic017/agent-swarm"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T14:00:41Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
     "id": "lightfastai/lightfast",
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-17T13:57:12Z",
+    "updated_at": "2026-06-17T14:21:21Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -99,38 +207,20 @@
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-17T14:12:20Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
     "id": "bakw00ds/yakos",
     "language": "Go",
     "name": "bakw00ds/yakos",
     "stars": 2,
-    "updated_at": "2026-06-17T13:50:51Z",
+    "updated_at": "2026-06-17T14:27:31Z",
     "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6180,
-    "updated_at": "2026-06-17T13:50:21Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22859,
+    "stars": 22861,
     "updated_at": "2026-06-17T13:48:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -142,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T13:48:03Z",
     "url": "https://github.com/itsribbZ/Bionics"
-  },
-  {
-    "description": "A curated list of AI agent infrastructure: memory stores, vector databases, execution sandboxes, MCP servers, tool regis",
-    "id": "backblaze-labs/awesome-agent-infrastructure",
-    "language": "\u2014",
-    "name": "backblaze-labs/awesome-agent-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-06-17T13:43:17Z",
-    "url": "https://github.com/backblaze-labs/awesome-agent-infrastructure"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -187,15 +268,6 @@
     "stars": 4,
     "updated_at": "2026-06-17T13:35:53Z",
     "url": "https://github.com/aandbcct/dotClaw"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11419,
-    "updated_at": "2026-06-17T13:29:35Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Production-ready multi-user AI agent framework \u2014 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-c",
@@ -250,42 +322,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T13:03:36Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
-    "id": "dendrux/dendrux",
-    "language": "Python",
-    "name": "dendrux/dendrux",
-    "stars": 11,
-    "updated_at": "2026-06-17T13:03:14Z",
-    "url": "https://github.com/dendrux/dendrux"
-  },
-  {
-    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
-    "id": "guilingzhouyi-creator/NOMOS",
-    "language": "Python",
-    "name": "guilingzhouyi-creator/NOMOS",
-    "stars": 1,
-    "updated_at": "2026-06-17T12:58:45Z",
-    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
-  },
-  {
-    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
-    "id": "salvatoreabient793/cursor-auto-deployment-agent",
-    "language": "Batchfile",
-    "name": "salvatoreabient793/cursor-auto-deployment-agent",
-    "stars": 0,
-    "updated_at": "2026-06-17T12:58:28Z",
-    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 160,
-    "updated_at": "2026-06-17T12:58:28Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
@@ -412,41 +448,5 @@
     "stars": 20,
     "updated_at": "2026-06-17T12:00:03Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Define AI agent roles in YAML and run them anywhere: CLI, API server, or autonomous daemon",
-    "id": "vladkesler/initrunner",
-    "language": "Python",
-    "name": "vladkesler/initrunner",
-    "stars": 40,
-    "updated_at": "2026-06-17T11:59:40Z",
-    "url": "https://github.com/vladkesler/initrunner"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:52:53Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "ResearchMind is an AI-powered multi-agent platform that automates research by using specialized agents to search, analyz",
-    "id": "rohitpal2003/-ResearchMind-Multi-Agent-AI-Research-Platform",
-    "language": "Python",
-    "name": "rohitpal2003/-ResearchMind-Multi-Agent-AI-Research-Platform",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:49:45Z",
-    "url": "https://github.com/rohitpal2003/-ResearchMind-Multi-Agent-AI-Research-Platform"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:47:25Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   }
 ]
