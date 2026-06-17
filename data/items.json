@@ -1,11 +1,56 @@
 [
   {
+    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
+    "id": "the-long-ride/engram",
+    "language": "TypeScript",
+    "name": "the-long-ride/engram",
+    "stars": 5,
+    "updated_at": "2026-06-17T08:57:25Z",
+    "url": "https://github.com/the-long-ride/engram"
+  },
+  {
+    "description": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline wo",
+    "id": "CronusL-1141/AI-company",
+    "language": "Python",
+    "name": "CronusL-1141/AI-company",
+    "stars": 189,
+    "updated_at": "2026-06-17T08:56:28Z",
+    "url": "https://github.com/CronusL-1141/AI-company"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-17T08:56:16Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-17T08:48:13Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T08:45:36Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 68,
-    "updated_at": "2026-06-17T08:45:24Z",
+    "updated_at": "2026-06-17T08:50:46Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -45,20 +90,11 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T08:30:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22797,
+    "stars": 22804,
     "updated_at": "2026-06-17T08:25:39Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -70,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T08:25:33Z",
     "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-17T08:45:19Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-17T08:23:10Z",
+    "updated_at": "2026-06-17T08:47:20Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-17T07:05:01Z",
     "url": "https://github.com/agentbreeder/agentbreeder"
-  },
-  {
-    "description": "Self-hosted multi-agent AI platform. Persistent labs, 40 sandboxed tools (code, web, RAG, GPU dispatcher, web3), private",
-    "id": "boblabs-eu/boblabs",
-    "language": "Python",
-    "name": "boblabs-eu/boblabs",
-    "stars": 5,
-    "updated_at": "2026-06-17T04:47:38Z",
-    "url": "https://github.com/boblabs-eu/boblabs"
-  },
-  {
-    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
-    "id": "sandydasari/openacme",
-    "language": "TypeScript",
-    "name": "sandydasari/openacme",
-    "stars": 73,
-    "updated_at": "2026-06-17T04:45:08Z",
-    "url": "https://github.com/sandydasari/openacme"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4376,
-    "updated_at": "2026-06-17T04:35:54Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   }
 ]
