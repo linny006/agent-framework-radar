@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-17T03:59:56Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
+    "id": "lml2468/xclaw",
+    "language": "Go",
+    "name": "lml2468/xclaw",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:58:19Z",
+    "url": "https://github.com/lml2468/xclaw"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-17T03:51:42Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Production-grade, contracts-first framework for AI agents in Python \u2014 vendor-neutral, audit-ready.",
+    "id": "Scaffoldic/agentforge-py",
+    "language": "Python",
+    "name": "Scaffoldic/agentforge-py",
+    "stars": 2,
+    "updated_at": "2026-06-17T03:49:41Z",
+    "url": "https://github.com/Scaffoldic/agentforge-py"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T03:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
     "id": "JohnnyFiv3r/Core-Memory",
     "language": "Python",
@@ -13,7 +58,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22724,
+    "stars": 22726,
     "updated_at": "2026-06-17T03:42:33Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -23,7 +68,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 3493,
-    "updated_at": "2026-06-17T03:38:27Z",
+    "updated_at": "2026-06-17T03:53:39Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T03:37:07Z",
     "url": "https://github.com/fredm23579/AgentOmega"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-17T03:35:15Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "\ud83e\udd96 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
@@ -63,15 +99,6 @@
     "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-17T03:31:23Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T03:30:45Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T03:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T03:16:36Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "Production-grade, contracts-first framework for AI agents in Python \u2014 vendor-neutral, audit-ready.",
-    "id": "Scaffoldic/agentforge-py",
-    "language": "Python",
-    "name": "Scaffoldic/agentforge-py",
-    "stars": 2,
-    "updated_at": "2026-06-17T03:37:07Z",
-    "url": "https://github.com/Scaffoldic/agentforge-py"
   },
   {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 240,
-    "updated_at": "2026-06-17T01:52:18Z",
+    "updated_at": "2026-06-17T03:46:33Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -315,15 +324,6 @@
     "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
   },
   {
-    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
-    "id": "lml2468/xclaw",
-    "language": "Go",
-    "name": "lml2468/xclaw",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:43:56Z",
-    "url": "https://github.com/lml2468/xclaw"
-  },
-  {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
     "id": "Dream-Pixels-Forge/memorius",
     "language": "Python",
@@ -365,7 +365,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4677,
-    "updated_at": "2026-06-17T01:34:01Z",
+    "updated_at": "2026-06-17T03:54:16Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
