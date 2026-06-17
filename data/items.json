@@ -1,5 +1,59 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 22738,
+    "updated_at": "2026-06-17T04:59:51Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1367,
+    "updated_at": "2026-06-17T04:56:33Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-17T04:55:13Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
+    "id": "agentbreeder/agentbreeder",
+    "language": "Python",
+    "name": "agentbreeder/agentbreeder",
+    "stars": 4,
+    "updated_at": "2026-06-17T04:47:42Z",
+    "url": "https://github.com/agentbreeder/agentbreeder"
+  },
+  {
+    "description": "Self-hosted multi-agent AI platform. Persistent labs, 40 sandboxed tools (code, web, RAG, GPU dispatcher, web3), private",
+    "id": "boblabs-eu/boblabs",
+    "language": "Python",
+    "name": "boblabs-eu/boblabs",
+    "stars": 5,
+    "updated_at": "2026-06-17T04:47:38Z",
+    "url": "https://github.com/boblabs-eu/boblabs"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T04:45:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
     "id": "sandydasari/openacme",
     "language": "TypeScript",
@@ -9,15 +63,6 @@
     "url": "https://github.com/sandydasari/openacme"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-17T04:41:07Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Next-Generation BFT Agent Governance Framework for highly fault-tolerant LLM swarm coordination.",
     "id": "fredm23579/AgentOmega",
     "language": "PowerShell",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T04:33:38Z",
     "url": "https://github.com/fredm23579/AgentOmega"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T04:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -54,13 +90,13 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22736,
-    "updated_at": "2026-06-17T04:25:24Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11403,
+    "updated_at": "2026-06-17T04:22:13Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -70,15 +106,6 @@
     "stars": 4677,
     "updated_at": "2026-06-17T04:32:17Z",
     "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11402,
-    "updated_at": "2026-06-17T04:22:13Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "System Memory untuk AI Berjiwa \u2014 belajar dari proses, bukan kejar akurasi.",
@@ -421,32 +448,5 @@
     "stars": 6176,
     "updated_at": "2026-06-17T00:34:26Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Eidentic is the open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals built in",
-    "id": "eidentic/eidentic",
-    "language": "TypeScript",
-    "name": "eidentic/eidentic",
-    "stars": 2,
-    "updated_at": "2026-06-17T00:30:33Z",
-    "url": "https://github.com/eidentic/eidentic"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-17T00:21:13Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Create AI experts in 3 minutes \u2014 browser-automated agents for stock research, content creation, data extraction & more. ",
-    "id": "xiaoyaotsyx-dotcom/rigi-auto-experts-ai-agent",
-    "language": "\u2014",
-    "name": "xiaoyaotsyx-dotcom/rigi-auto-experts-ai-agent",
-    "stars": 1,
-    "updated_at": "2026-06-17T00:20:30Z",
-    "url": "https://github.com/xiaoyaotsyx-dotcom/rigi-auto-experts-ai-agent"
   }
 ]
