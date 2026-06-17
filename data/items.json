@@ -4,9 +4,54 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3435,
-    "updated_at": "2026-06-17T19:59:34Z",
+    "stars": 3441,
+    "updated_at": "2026-06-17T20:14:25Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4382,
+    "updated_at": "2026-06-17T20:12:26Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 5,
+    "updated_at": "2026-06-17T20:10:21Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-17T20:09:06Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "",
+    "id": "Jumbalicious79/daedalus-core",
+    "language": "Python",
+    "name": "Jumbalicious79/daedalus-core",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:07:12Z",
+    "url": "https://github.com/Jumbalicious79/daedalus-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T20:00:38Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -81,24 +126,6 @@
     "url": "https://github.com/motojinc25/chatwalaau"
   },
   {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-17T19:47:26Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T19:45:34Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T19:45:10Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 5,
-    "updated_at": "2026-06-17T19:59:44Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4679,
-    "updated_at": "2026-06-17T20:00:27Z",
+    "updated_at": "2026-06-17T20:07:00Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 18,
-    "updated_at": "2026-06-17T19:33:47Z",
+    "updated_at": "2026-06-17T20:00:36Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-17T19:33:25Z",
+    "updated_at": "2026-06-17T20:09:09Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11428,
-    "updated_at": "2026-06-17T19:28:50Z",
+    "updated_at": "2026-06-17T20:02:52Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T18:24:10Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4381,
-    "updated_at": "2026-06-17T19:57:53Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Self-hosted AI agent runtime in Rust: run autonomous LLM agents over Telegram & Discord with durable queues, fail-closed",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T17:07:01Z",
     "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
-  },
-  {
-    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
-    "id": "vstorm-co/full-stack-ai-agent-template",
-    "language": "Python",
-    "name": "vstorm-co/full-stack-ai-agent-template",
-    "stars": 1423,
-    "updated_at": "2026-06-17T17:04:16Z",
-    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
   }
 ]
