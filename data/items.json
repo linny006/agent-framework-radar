@@ -1,12 +1,57 @@
 [
   {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 8,
+    "updated_at": "2026-06-17T05:58:31Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-17T05:57:50Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-17T05:57:39Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "System Memory untuk AI Berjiwa \u2014 belajar dari proses, bukan kejar akurasi.",
+    "id": "aa-dede/hikmah",
+    "language": "Python",
+    "name": "aa-dede/hikmah",
+    "stars": 0,
+    "updated_at": "2026-06-17T05:53:41Z",
+    "url": "https://github.com/aa-dede/hikmah"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22744,
-    "updated_at": "2026-06-17T05:44:32Z",
+    "stars": 22748,
+    "updated_at": "2026-06-17T05:46:18Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T05:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "open1s/bos",
     "stars": 2,
-    "updated_at": "2026-06-17T05:43:46Z",
+    "updated_at": "2026-06-17T05:58:17Z",
     "url": "https://github.com/open1s/bos"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T05:31:17Z",
     "url": "https://github.com/morning-verlu/KAI"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T05:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A minimal, production-shaped ReAct agent framework built from scratch in pure Python think-act loop, typed tools, layere",
@@ -196,15 +232,6 @@
     "stars": 68,
     "updated_at": "2026-06-17T04:28:32Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "System Memory untuk AI Berjiwa \u2014 belajar dari proses, bukan kejar akurasi.",
-    "id": "aa-dede/hikmah",
-    "language": "Python",
-    "name": "aa-dede/hikmah",
-    "stars": 0,
-    "updated_at": "2026-06-17T04:01:22Z",
-    "url": "https://github.com/aa-dede/hikmah"
   },
   {
     "description": "Agent Framework Samples  - showcasing ways in which agent framework can be utilized.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T01:57:19Z",
     "url": "https://github.com/prismal-ai/prismal"
-  },
-  {
-    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 240,
-    "updated_at": "2026-06-17T03:46:33Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:42:09Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "An open-source Digital Worker platform for reliable execution and continuous co-evolution.",
-    "id": "microsoft/Sico",
-    "language": "Python",
-    "name": "microsoft/Sico",
-    "stars": 37,
-    "updated_at": "2026-06-17T01:38:08Z",
-    "url": "https://github.com/microsoft/Sico"
   }
 ]
