@@ -1,21 +1,21 @@
 [
   {
-    "description": "Agent\u901a\u7528\u8ba4\u77e5\u670d\u52a1\u6846\u67b6 | \u4e1c\u65b9\u54f2\u5b66\u9a71\u52a8\u7684\u8ba4\u77e5\u5e73\u6743\u65b9\u6cd5\u8bba | 11\u9879\u4e1c\u65b9\u54f2\u5b66\u21927\u73af\u8282Agent\u8ba4\u77e5\u670d\u52a1\u7cfb\u7edf\u5316\u64cd\u4f5c\u6846\u67b6",
-    "id": "garoter-a11y/agent-service-patch",
-    "language": "\u2014",
-    "name": "garoter-a11y/agent-service-patch",
-    "stars": 0,
-    "updated_at": "2026-06-17T13:13:22Z",
-    "url": "https://github.com/garoter-a11y/agent-service-patch"
-  },
-  {
     "description": "Production-ready multi-user AI agent framework \u2014 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-c",
     "id": "stephonGAO/milu",
     "language": "Python",
     "name": "stephonGAO/milu",
     "stars": 5,
-    "updated_at": "2026-06-17T13:12:56Z",
+    "updated_at": "2026-06-17T13:28:04Z",
     "url": "https://github.com/stephonGAO/milu"
+  },
+  {
+    "description": "Generic configurable cognition lifecycle runtime for bounded, resumable agent sessions",
+    "id": "ProtocolWarden/ContextLifecycle",
+    "language": "Python",
+    "name": "ProtocolWarden/ContextLifecycle",
+    "stars": 0,
+    "updated_at": "2026-06-17T13:23:27Z",
+    "url": "https://github.com/ProtocolWarden/ContextLifecycle"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -23,8 +23,26 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 68,
-    "updated_at": "2026-06-17T13:12:44Z",
+    "updated_at": "2026-06-17T13:26:25Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T13:15:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Agent\u901a\u7528\u8ba4\u77e5\u670d\u52a1\u6846\u67b6 | \u4e1c\u65b9\u54f2\u5b66\u9a71\u52a8\u7684\u8ba4\u77e5\u5e73\u6743\u65b9\u6cd5\u8bba | 11\u9879\u4e1c\u65b9\u54f2\u5b66\u21927\u73af\u8282Agent\u8ba4\u77e5\u670d\u52a1\u7cfb\u7edf\u5316\u64cd\u4f5c\u6846\u67b6",
+    "id": "garoter-a11y/agent-service-patch",
+    "language": "\u2014",
+    "name": "garoter-a11y/agent-service-patch",
+    "stars": 0,
+    "updated_at": "2026-06-17T13:13:22Z",
+    "url": "https://github.com/garoter-a11y/agent-service-patch"
   },
   {
     "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
@@ -50,7 +68,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-17T13:07:10Z",
+    "updated_at": "2026-06-17T13:25:33Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -90,21 +108,12 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T13:00:37Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11417,
-    "updated_at": "2026-06-17T13:15:01Z",
+    "updated_at": "2026-06-17T13:29:35Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -140,7 +149,7 @@
     "language": "Go",
     "name": "bakw00ds/yakos",
     "stars": 2,
-    "updated_at": "2026-06-17T12:56:42Z",
+    "updated_at": "2026-06-17T13:16:45Z",
     "url": "https://github.com/bakw00ds/yakos"
   },
   {
@@ -149,7 +158,7 @@
     "language": "Go",
     "name": "lml2468/xclaw",
     "stars": 0,
-    "updated_at": "2026-06-17T12:52:24Z",
+    "updated_at": "2026-06-17T13:30:32Z",
     "url": "https://github.com/lml2468/xclaw"
   },
   {
@@ -211,8 +220,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22849,
-    "updated_at": "2026-06-17T12:42:41Z",
+    "stars": 22850,
+    "updated_at": "2026-06-17T13:27:23Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Go",
     "name": "pardnchiu/Agenvoy",
     "stars": 213,
-    "updated_at": "2026-06-17T11:37:42Z",
+    "updated_at": "2026-06-17T13:22:28Z",
     "url": "https://github.com/pardnchiu/Agenvoy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T10:46:46Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Multi-agent collaboration gateway for one-person companies. Route messages to specialized AI agents (Munger/Woz/Ogilvy/T",
-    "id": "Jam0731/ParallaxAI",
-    "language": "TypeScript",
-    "name": "Jam0731/ParallaxAI",
-    "stars": 1,
-    "updated_at": "2026-06-17T10:42:07Z",
-    "url": "https://github.com/Jam0731/ParallaxAI"
   }
 ]
