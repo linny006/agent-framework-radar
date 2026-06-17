@@ -1,10 +1,64 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 68,
+    "updated_at": "2026-06-17T08:45:24Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Persistent memory and context management for AI agents. Enable long-term recall, session continuity, and consistent beha",
+    "id": "emsoftanalytics/MARK-SDK",
+    "language": "Python",
+    "name": "emsoftanalytics/MARK-SDK",
+    "stars": 0,
+    "updated_at": "2026-06-17T08:43:21Z",
+    "url": "https://github.com/emsoftanalytics/MARK-SDK"
+  },
+  {
+    "description": "a multi-agent workflow orchestration platform",
+    "id": "kari-kari1/Fugue",
+    "language": "Python",
+    "name": "kari-kari1/Fugue",
+    "stars": 3,
+    "updated_at": "2026-06-17T08:39:44Z",
+    "url": "https://github.com/kari-kari1/Fugue"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-17T08:36:30Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11411,
+    "updated_at": "2026-06-17T08:36:14Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T08:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22793,
+    "stars": 22797,
     "updated_at": "2026-06-17T08:25:39Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-17T08:21:19Z",
+    "updated_at": "2026-06-17T08:45:19Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 12,
     "updated_at": "2026-06-17T08:16:00Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T08:15:36Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -117,15 +162,6 @@
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
-    "description": "a multi-agent workflow orchestration platform",
-    "id": "kari-kari1/Fugue",
-    "language": "Python",
-    "name": "kari-kari1/Fugue",
-    "stars": 3,
-    "updated_at": "2026-06-17T07:51:15Z",
-    "url": "https://github.com/kari-kari1/Fugue"
-  },
-  {
     "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
     "id": "JoakimCarlsson/ai",
     "language": "Go",
@@ -166,7 +202,7 @@
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6388,
+    "stars": 6389,
     "updated_at": "2026-06-17T07:17:55Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
@@ -178,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T07:15:16Z",
     "url": "https://github.com/erayendes/kortext"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11410,
-    "updated_at": "2026-06-17T08:28:32Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
@@ -220,7 +247,7 @@
     "id": "codeaholicguy/ai-devkit",
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
-    "stars": 1368,
+    "stars": 1371,
     "updated_at": "2026-06-17T06:55:35Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 8,
-    "updated_at": "2026-06-17T08:10:58Z",
+    "updated_at": "2026-06-17T08:31:42Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4376,
     "updated_at": "2026-06-17T04:35:54Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Legal ops CLI \u2014 file forensics, document conversion, citation extraction, Outlook/Microsoft Graph mail",
-    "id": "fredm23579/AgentOmega",
-    "language": "PowerShell",
-    "name": "fredm23579/AgentOmega",
-    "stars": 0,
-    "updated_at": "2026-06-17T04:33:38Z",
-    "url": "https://github.com/fredm23579/AgentOmega"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 68,
-    "updated_at": "2026-06-17T08:29:20Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Agent Framework Samples  - showcasing ways in which agent framework can be utilized.",
-    "id": "microsoft/Agent-Framework-Samples",
-    "language": "Jupyter Notebook",
-    "name": "microsoft/Agent-Framework-Samples",
-    "stars": 314,
-    "updated_at": "2026-06-17T04:00:11Z",
-    "url": "https://github.com/microsoft/Agent-Framework-Samples"
   }
 ]
