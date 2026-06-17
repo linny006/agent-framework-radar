@@ -1,21 +1,12 @@
 [
   {
-    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6386,
-    "updated_at": "2026-06-17T06:43:05Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-17T06:41:21Z",
-    "url": "https://github.com/lightfastai/lightfast"
+    "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
+    "id": "JoakimCarlsson/ai",
+    "language": "Go",
+    "name": "JoakimCarlsson/ai",
+    "stars": 31,
+    "updated_at": "2026-06-17T06:59:59Z",
+    "url": "https://github.com/JoakimCarlsson/ai"
   },
   {
     "description": "a multi-agent workflow orchestration platform",
@@ -23,17 +14,71 @@
     "language": "Python",
     "name": "kari-kari1/Fugue",
     "stars": 2,
-    "updated_at": "2026-06-17T06:38:30Z",
+    "updated_at": "2026-06-17T06:57:00Z",
     "url": "https://github.com/kari-kari1/Fugue"
+  },
+  {
+    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1365,
+    "updated_at": "2026-06-17T06:55:35Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22758,
-    "updated_at": "2026-06-17T06:36:49Z",
+    "stars": 22763,
+    "updated_at": "2026-06-17T06:54:48Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6388,
+    "updated_at": "2026-06-17T06:52:55Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-17T06:50:55Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 161,
+    "updated_at": "2026-06-17T06:49:22Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T06:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-17T06:58:56Z",
+    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "System Memory untuk AI Berjiwa \u2014 belajar dari proses, bukan kejar akurasi.",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T06:34:51Z",
     "url": "https://github.com/aa-dede/hikmah"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T06:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An agent runtime that truly has experience.",
@@ -81,21 +117,12 @@
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
-    "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
-    "id": "JoakimCarlsson/ai",
-    "language": "Go",
-    "name": "JoakimCarlsson/ai",
-    "stars": 31,
-    "updated_at": "2026-06-17T06:26:39Z",
-    "url": "https://github.com/JoakimCarlsson/ai"
-  },
-  {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 3495,
-    "updated_at": "2026-06-17T06:19:25Z",
+    "updated_at": "2026-06-17T06:47:15Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -194,7 +221,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 1,
-    "updated_at": "2026-06-17T06:41:54Z",
+    "updated_at": "2026-06-17T06:59:28Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -238,8 +265,8 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11404,
-    "updated_at": "2026-06-17T05:19:01Z",
+    "stars": 11405,
+    "updated_at": "2026-06-17T06:59:54Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -301,7 +328,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4373,
+    "stars": 4374,
     "updated_at": "2026-06-17T04:35:54Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -421,32 +448,5 @@
     "stars": 70,
     "updated_at": "2026-06-17T03:08:37Z",
     "url": "https://github.com/aAAaqwq/AGI-Super-Team"
-  },
-  {
-    "description": "Multi-agent collaboration gateway for one-person companies. Route messages to specialized AI agents (Munger/Woz/Ogilvy/T",
-    "id": "Jam0731/ParallaxAI",
-    "language": "TypeScript",
-    "name": "Jam0731/ParallaxAI",
-    "stars": 1,
-    "updated_at": "2026-06-17T03:01:25Z",
-    "url": "https://github.com/Jam0731/ParallaxAI"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 150,
-    "updated_at": "2026-06-17T03:00:29Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "The composable TypeScript agent harness built for control, not magic \u2014 run one codebase from local 4B Ollama to frontier",
-    "id": "tylerjrbuell/reactive-agents-ts",
-    "language": "TypeScript",
-    "name": "tylerjrbuell/reactive-agents-ts",
-    "stars": 16,
-    "updated_at": "2026-06-17T02:54:53Z",
-    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
   }
 ]
