@@ -1,5 +1,86 @@
 [
   {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3826,
+    "updated_at": "2026-06-17T22:29:21Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-06-17T22:28:12Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-17T22:27:05Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Self-hosted local-first AI research stack with Ollama, n8n, Rinnsal memory, KnowledgeDigest search, and Docker Compose a",
+    "id": "ellmos-ai/ellmos-stack",
+    "language": "Python",
+    "name": "ellmos-ai/ellmos-stack",
+    "stars": 1,
+    "updated_at": "2026-06-17T22:26:36Z",
+    "url": "https://github.com/ellmos-ai/ellmos-stack"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-17T22:29:17Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11428,
+    "updated_at": "2026-06-17T22:25:23Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
+    "language": "Python",
+    "name": "rllm-org/rllm",
+    "stars": 5628,
+    "updated_at": "2026-06-17T22:20:19Z",
+    "url": "https://github.com/rllm-org/rllm"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3468,
+    "updated_at": "2026-06-17T22:18:55Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T22:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Undo agent mistakes in microseconds, not seconds. 55,000x faster rollback than Git - built for AI coding agents.",
     "id": "ayush585/Hyperion-Delta",
     "language": "TypeScript",
@@ -9,15 +90,6 @@
     "url": "https://github.com/ayush585/Hyperion-Delta"
   },
   {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-17T22:06:57Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -25,24 +97,6 @@
     "stars": 68,
     "updated_at": "2026-06-17T22:05:24Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3465,
-    "updated_at": "2026-06-17T22:11:12Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T22:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hosted multi-agent AI platform. Persistent labs, 40 sandboxed tools (code, web, RAG, GPU dispatcher, web3), private",
@@ -88,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T22:13:30Z",
     "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Democratizing Reinforcement Learning for LLMs",
-    "id": "rllm-org/rllm",
-    "language": "Python",
-    "name": "rllm-org/rllm",
-    "stars": 5628,
-    "updated_at": "2026-06-17T21:50:52Z",
-    "url": "https://github.com/rllm-org/rllm"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "AetherraLabs/Aetherra",
     "stars": 8,
-    "updated_at": "2026-06-17T22:04:44Z",
+    "updated_at": "2026-06-17T22:27:22Z",
     "url": "https://github.com/AetherraLabs/Aetherra"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4679,
-    "updated_at": "2026-06-17T22:11:07Z",
+    "updated_at": "2026-06-17T22:23:48Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -241,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T21:05:36Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11428,
-    "updated_at": "2026-06-17T21:57:08Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 242,
-    "updated_at": "2026-06-17T22:11:18Z",
+    "updated_at": "2026-06-17T22:29:08Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6187,
     "updated_at": "2026-06-17T19:40:04Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
-    "id": "agentjido/jidoka",
-    "language": "Elixir",
-    "name": "agentjido/jidoka",
-    "stars": 11,
-    "updated_at": "2026-06-17T19:34:28Z",
-    "url": "https://github.com/agentjido/jidoka"
-  },
-  {
-    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1388,
-    "updated_at": "2026-06-17T19:25:01Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 10,
-    "updated_at": "2026-06-17T19:15:45Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 2,
-    "updated_at": "2026-06-17T19:09:33Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
   }
 ]
