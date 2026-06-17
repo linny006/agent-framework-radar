@@ -1,12 +1,111 @@
 [
   {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 1,
+    "updated_at": "2026-06-17T16:43:10Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 5,
+    "updated_at": "2026-06-17T16:42:43Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3372,
+    "updated_at": "2026-06-17T16:42:13Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 160,
+    "updated_at": "2026-06-17T16:37:54Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1204,
+    "updated_at": "2026-06-17T16:37:52Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:34:36Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-17T16:39:30Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-17T16:34:22Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
     "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
     "id": "Kuonirad/MCOP-Framework-2.0",
     "language": "TypeScript",
     "name": "Kuonirad/MCOP-Framework-2.0",
     "stars": 2,
-    "updated_at": "2026-06-17T16:29:10Z",
+    "updated_at": "2026-06-17T16:33:47Z",
     "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
+  },
+  {
+    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
+    "id": "Krako-Labs/KORA",
+    "language": "Python",
+    "name": "Krako-Labs/KORA",
+    "stars": 21,
+    "updated_at": "2026-06-17T16:32:43Z",
+    "url": "https://github.com/Krako-Labs/KORA"
+  },
+  {
+    "description": "Undo agent mistakes in microseconds, not seconds. 55,000x faster rollback than Git \u2014 built for AI coding agents.",
+    "id": "ayush585/Hyperion-Delta",
+    "language": "TypeScript",
+    "name": "ayush585/Hyperion-Delta",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:31:21Z",
+    "url": "https://github.com/ayush585/Hyperion-Delta"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T16:30:38Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Project-scoped memory for AI agent frameworks \u2014 OpenClaw, Claude Code, Codex.",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "PluteW/memweave",
     "stars": 0,
-    "updated_at": "2026-06-17T16:26:11Z",
+    "updated_at": "2026-06-17T16:35:52Z",
     "url": "https://github.com/PluteW/memweave"
   },
   {
@@ -27,15 +126,6 @@
     "url": "https://github.com/crewhaus/factory"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3362,
-    "updated_at": "2026-06-17T16:28:46Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
@@ -43,15 +133,6 @@
     "stars": 14314,
     "updated_at": "2026-06-17T16:22:44Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Undo agent mistakes in microseconds, not seconds. 55,000x faster rollback than Git \u2014 built for AI coding agents.",
-    "id": "ayush585/Hyperion-Delta",
-    "language": "TypeScript",
-    "name": "ayush585/Hyperion-Delta",
-    "stars": 0,
-    "updated_at": "2026-06-17T16:19:23Z",
-    "url": "https://github.com/ayush585/Hyperion-Delta"
   },
   {
     "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
@@ -81,21 +162,12 @@
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T16:15:38Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11424,
-    "updated_at": "2026-06-17T16:14:54Z",
+    "updated_at": "2026-06-17T16:41:44Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -126,15 +198,6 @@
     "url": "https://github.com/ahwurm/localharness"
   },
   {
-    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
-    "id": "Krako-Labs/KORA",
-    "language": "Python",
-    "name": "Krako-Labs/KORA",
-    "stars": 21,
-    "updated_at": "2026-06-17T16:07:35Z",
-    "url": "https://github.com/Krako-Labs/KORA"
-  },
-  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -158,17 +221,8 @@
     "language": "Go",
     "name": "bakw00ds/yakos",
     "stars": 2,
-    "updated_at": "2026-06-17T16:23:20Z",
+    "updated_at": "2026-06-17T16:38:12Z",
     "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-17T16:19:57Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
@@ -196,6 +250,15 @@
     "stars": 5,
     "updated_at": "2026-06-17T15:56:41Z",
     "url": "https://github.com/boblabs-eu/boblabs"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4379,
+    "updated_at": "2026-06-17T15:49:48Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
@@ -234,31 +297,13 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 160,
-    "updated_at": "2026-06-17T15:43:21Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
     "id": "lml2468/xclaw",
     "language": "Go",
     "name": "lml2468/xclaw",
     "stars": 0,
-    "updated_at": "2026-06-17T16:27:26Z",
+    "updated_at": "2026-06-17T16:42:40Z",
     "url": "https://github.com/lml2468/xclaw"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4378,
-    "updated_at": "2026-06-17T15:49:48Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
@@ -324,15 +369,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1204,
-    "updated_at": "2026-06-17T15:26:53Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
     "description": "GitHub AI-Super-Team for making agent teams with high-quality skills",
     "id": "aAAaqwq/AGI-Super-Team",
     "language": "Python",
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-17T14:49:41Z",
+    "updated_at": "2026-06-17T16:44:17Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T14:35:46Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "A curated list of AI agent infrastructure: memory stores, vector databases, execution sandboxes, MCP servers, tool regis",
-    "id": "backblaze-labs/awesome-agent-infrastructure",
-    "language": "\u2014",
-    "name": "backblaze-labs/awesome-agent-infrastructure",
-    "stars": 2,
-    "updated_at": "2026-06-17T14:23:14Z",
-    "url": "https://github.com/backblaze-labs/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-17T14:22:19Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:22:09Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Open-source Python framework for multi-agent AI orchestration, coding-agent swarms, council voting, provider routing, br",
-    "id": "farhanic017/agent-swarm",
-    "language": "Python",
-    "name": "farhanic017/agent-swarm",
-    "stars": 2,
-    "updated_at": "2026-06-17T14:20:57Z",
-    "url": "https://github.com/farhanic017/agent-swarm"
   }
 ]
