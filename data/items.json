@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T13:59:01Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-17T13:57:12Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-17T13:56:15Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
     "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
     "id": "codeaholicguy/ai-devkit",
     "language": "TypeScript",
@@ -81,15 +108,6 @@
     "url": "https://github.com/farhanic017/agent-swarm"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T13:45:39Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A curated list of AI agent infrastructure: memory stores, vector databases, execution sandboxes, MCP servers, tool regis",
     "id": "backblaze-labs/awesome-agent-infrastructure",
     "language": "\u2014",
@@ -106,15 +124,6 @@
     "stars": 68,
     "updated_at": "2026-06-17T13:42:58Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-17T13:57:12Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
@@ -151,6 +160,15 @@
     "stars": 4,
     "updated_at": "2026-06-17T13:35:53Z",
     "url": "https://github.com/aandbcct/dotClaw"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11418,
+    "updated_at": "2026-06-17T13:29:35Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Production-ready multi-user AI agent framework \u2014 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-c",
@@ -216,15 +234,6 @@
     "url": "https://github.com/dendrux/dendrux"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11417,
-    "updated_at": "2026-06-17T13:29:35Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
     "id": "guilingzhouyi-creator/NOMOS",
     "language": "Python",
@@ -266,7 +275,7 @@
     "language": "TypeScript",
     "name": "aaronjmars/aeon",
     "stars": 517,
-    "updated_at": "2026-06-17T12:50:37Z",
+    "updated_at": "2026-06-17T14:00:26Z",
     "url": "https://github.com/aaronjmars/aeon"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 213,
     "updated_at": "2026-06-17T13:22:28Z",
     "url": "https://github.com/pardnchiu/Agenvoy"
-  },
-  {
-    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4e3aOpenClaw\u5b9e\u4f8b\u63d0\u4f9b\u89c9\u9192\u6846\u67b6\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
-    "id": "yuanchuzi2026/silicon-garden",
-    "language": "Python",
-    "name": "yuanchuzi2026/silicon-garden",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:33:24Z",
-    "url": "https://github.com/yuanchuzi2026/silicon-garden"
   }
 ]
