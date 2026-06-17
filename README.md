@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 23:00 UTC
+> ⏰ Last updated: 2026-06-17 23:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 518 | TypeScript | 2026-06-17 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
-| 2 | [crewhaus/factory](https://github.com/crewhaus/factory) | 0 | TypeScript | 2026-06-17 | Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew,  |
-| 3 | [ayush585/Hyperion-Delta](https://github.com/ayush585/Hyperion-Delta) | 0 | TypeScript | 2026-06-17 | Undo agent mistakes in microseconds, not seconds. 55,000x faster rollback than Git - built for AI coding agents. |
-| 4 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-06-17 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 5 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 3477 | Python | 2026-06-17 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 6 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 1 | JavaScript | 2026-06-17 | Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac |
-| 7 | [evalstate/fast-agent](https://github.com/evalstate/fast-agent) | 3826 | Python | 2026-06-17 | Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support |
-| 8 | [jaylfc/taOS](https://github.com/jaylfc/taOS) | 242 | Python | 2026-06-17 | Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry  |
-| 9 | [bryansparks/armature](https://github.com/bryansparks/armature) | 7 | Python | 2026-06-17 | A lightweight, declarative agent harness — define multi-agent workflows as YAML, run them from Python or the CLI, and th |
-| 10 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-17 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-17 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 518 | TypeScript | 2026-06-17 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
+| 3 | [crewhaus/factory](https://github.com/crewhaus/factory) | 0 | TypeScript | 2026-06-17 | Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew,  |
+| 4 | [ayush585/Hyperion-Delta](https://github.com/ayush585/Hyperion-Delta) | 0 | TypeScript | 2026-06-17 | Undo agent mistakes in microseconds, not seconds. 55,000x faster rollback than Git - built for AI coding agents. |
+| 5 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-06-17 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 6 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 3477 | Python | 2026-06-17 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 7 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 1 | JavaScript | 2026-06-17 | Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac |
+| 8 | [evalstate/fast-agent](https://github.com/evalstate/fast-agent) | 3826 | Python | 2026-06-17 | Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support |
+| 9 | [jaylfc/taOS](https://github.com/jaylfc/taOS) | 242 | Python | 2026-06-17 | Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry  |
+| 10 | [bryansparks/armature](https://github.com/bryansparks/armature) | 7 | Python | 2026-06-17 | A lightweight, declarative agent harness — define multi-agent workflows as YAML, run them from Python or the CLI, and th |
 | 11 | [cortexkit/aft](https://github.com/cortexkit/aft) | 160 | Rust | 2026-06-17 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
 | 12 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 9 | TypeScript | 2026-06-17 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
 | 13 | [inkeep/agents](https://github.com/inkeep/agents) | 1205 | TypeScript | 2026-06-17 | Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult |
