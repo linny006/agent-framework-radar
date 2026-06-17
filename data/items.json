@@ -1,30 +1,39 @@
 [
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
+    "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
+    "id": "morning-verlu/KAI",
+    "language": "Kotlin",
+    "name": "morning-verlu/KAI",
+    "stars": 0,
+    "updated_at": "2026-06-17T05:29:16Z",
+    "url": "https://github.com/morning-verlu/KAI"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
     "stars": 1,
-    "updated_at": "2026-06-17T05:14:42Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "updated_at": "2026-06-17T05:25:44Z",
+    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22741,
-    "updated_at": "2026-06-17T05:15:08Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
+    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
+    "id": "dendrux/dendrux",
     "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4677,
-    "updated_at": "2026-06-17T05:09:32Z",
-    "url": "https://github.com/ag2ai/ag2"
+    "name": "dendrux/dendrux",
+    "stars": 11,
+    "updated_at": "2026-06-17T05:24:16Z",
+    "url": "https://github.com/dendrux/dendrux"
+  },
+  {
+    "description": "A minimal, production-shaped ReAct agent framework built from scratch in pure Python think-act loop, typed tools, layere",
+    "id": "sudhanshu-shivam-dev/agent-harness-from-scratch",
+    "language": "Python",
+    "name": "sudhanshu-shivam-dev/agent-harness-from-scratch",
+    "stars": 2,
+    "updated_at": "2026-06-17T05:23:22Z",
+    "url": "https://github.com/sudhanshu-shivam-dev/agent-harness-from-scratch"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -32,8 +41,53 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-17T05:08:42Z",
+    "updated_at": "2026-06-17T05:28:18Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 22744,
+    "updated_at": "2026-06-17T05:20:57Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-06-17T05:19:41Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11403,
+    "updated_at": "2026-06-17T05:19:01Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T05:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4677,
+    "updated_at": "2026-06-17T05:22:42Z",
+    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -108,22 +162,22 @@
     "url": "https://github.com/sandydasari/openacme"
   },
   {
-    "description": "Next-Generation BFT Agent Governance Framework for highly fault-tolerant LLM swarm coordination.",
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4373,
+    "updated_at": "2026-06-17T04:35:54Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Legal ops CLI \u2014 file forensics, document conversion, citation extraction, Outlook/Microsoft Graph mail",
     "id": "fredm23579/AgentOmega",
     "language": "PowerShell",
     "name": "fredm23579/AgentOmega",
     "stars": 0,
     "updated_at": "2026-06-17T04:33:38Z",
     "url": "https://github.com/fredm23579/AgentOmega"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4372,
-    "updated_at": "2026-06-17T04:35:54Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -133,15 +187,6 @@
     "stars": 68,
     "updated_at": "2026-06-17T04:28:32Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11403,
-    "updated_at": "2026-06-17T04:22:13Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "System Memory untuk AI Berjiwa \u2014 belajar dari proses, bukan kejar akurasi.",
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T03:58:19Z",
     "url": "https://github.com/lml2468/xclaw"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-17T05:09:57Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "Production-grade, contracts-first framework for AI agents in Python \u2014 vendor-neutral, audit-ready.",
@@ -405,24 +441,6 @@
     "url": "https://github.com/microsoft/Sico"
   },
   {
-    "description": "A minimal, production-shaped ReAct agent framework built from scratch in pure Python think-act loop, typed tools, layere",
-    "id": "sudhanshu-shivam-dev/agent-harness-from-scratch",
-    "language": "Python",
-    "name": "sudhanshu-shivam-dev/agent-harness-from-scratch",
-    "stars": 2,
-    "updated_at": "2026-06-17T01:31:25Z",
-    "url": "https://github.com/sudhanshu-shivam-dev/agent-harness-from-scratch"
-  },
-  {
-    "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
-    "id": "morning-verlu/KAI",
-    "language": "Kotlin",
-    "name": "morning-verlu/KAI",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:29:50Z",
-    "url": "https://github.com/morning-verlu/KAI"
-  },
-  {
     "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
     "id": "Kuonirad/MCOP-Framework-2.0",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-17T02:11:09Z",
     "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
-  },
-  {
-    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
-    "id": "Dream-Pixels-Forge/memorius",
-    "language": "Python",
-    "name": "Dream-Pixels-Forge/memorius",
-    "stars": 1,
-    "updated_at": "2026-06-17T01:12:29Z",
-    "url": "https://github.com/Dream-Pixels-Forge/memorius"
-  },
-  {
-    "description": "Official BisQue Ultra Platform",
-    "id": "amilworks/ultra",
-    "language": "TypeScript",
-    "name": "amilworks/ultra",
-    "stars": 4,
-    "updated_at": "2026-06-17T01:01:44Z",
-    "url": "https://github.com/amilworks/ultra"
   }
 ]
