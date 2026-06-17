@@ -1,12 +1,93 @@
 [
   {
+    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1379,
+    "updated_at": "2026-06-17T13:55:13Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-17T13:56:46Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 350,
+    "updated_at": "2026-06-17T13:53:30Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-17T13:51:42Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-17T13:50:51Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6180,
+    "updated_at": "2026-06-17T13:50:21Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22852,
-    "updated_at": "2026-06-17T13:43:32Z",
+    "stars": 22855,
+    "updated_at": "2026-06-17T13:48:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AI agent that drives Unreal Engine 5 end to end \u2014 187 tools across 33 categories, native C++ MCP bridge, full AAA animat",
+    "id": "itsribbZ/Bionics",
+    "language": "Python",
+    "name": "itsribbZ/Bionics",
+    "stars": 0,
+    "updated_at": "2026-06-17T13:48:03Z",
+    "url": "https://github.com/itsribbZ/Bionics"
+  },
+  {
+    "description": "Open-source Python framework for multi-agent AI orchestration, coding-agent swarms, council voting, provider routing, br",
+    "id": "farhanic017/agent-swarm",
+    "language": "Python",
+    "name": "farhanic017/agent-swarm",
+    "stars": 2,
+    "updated_at": "2026-06-17T13:47:03Z",
+    "url": "https://github.com/farhanic017/agent-swarm"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T13:45:39Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A curated list of AI agent infrastructure: memory stores, vector databases, execution sandboxes, MCP servers, tool regis",
@@ -32,7 +113,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-17T13:42:55Z",
+    "updated_at": "2026-06-17T13:57:12Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -72,15 +153,6 @@
     "url": "https://github.com/aandbcct/dotClaw"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T13:30:39Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Production-ready multi-user AI agent framework \u2014 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-c",
     "id": "stephonGAO/milu",
     "language": "Python",
@@ -104,7 +176,7 @@
     "language": "TypeScript",
     "name": "ethosagent/ethos",
     "stars": 9,
-    "updated_at": "2026-06-17T13:43:51Z",
+    "updated_at": "2026-06-17T13:52:52Z",
     "url": "https://github.com/ethosagent/ethos"
   },
   {
@@ -115,15 +187,6 @@
     "stars": 317,
     "updated_at": "2026-06-17T13:10:57Z",
     "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-17T13:44:15Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -151,15 +214,6 @@
     "stars": 11,
     "updated_at": "2026-06-17T13:03:14Z",
     "url": "https://github.com/dendrux/dendrux"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6179,
-    "updated_at": "2026-06-17T13:00:59Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -196,15 +250,6 @@
     "stars": 160,
     "updated_at": "2026-06-17T12:58:28Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-17T13:16:45Z",
-    "url": "https://github.com/bakw00ds/yakos"
   },
   {
     "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
@@ -270,15 +315,6 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "AI agent that drives Unreal Engine 5 end to end \u2014 192 tools across 33 categories, native C++ MCP bridge, full AAA animat",
-    "id": "itsribbZ/Bionics",
-    "language": "Python",
-    "name": "itsribbZ/Bionics",
-    "stars": 0,
-    "updated_at": "2026-06-17T12:36:02Z",
-    "url": "https://github.com/itsribbZ/Bionics"
-  },
-  {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
     "id": "Kortecx/kortecx",
     "language": "Rust",
@@ -304,15 +340,6 @@
     "stars": 6,
     "updated_at": "2026-06-17T12:29:15Z",
     "url": "https://github.com/getsynkora/synkora-ai"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-17T12:33:58Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T11:33:24Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:24:51Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 1,
-    "updated_at": "2026-06-17T13:39:25Z",
-    "url": "https://github.com/qmilab/asterism"
-  },
-  {
-    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
-    "id": "Krako-Labs/KORA",
-    "language": "Python",
-    "name": "Krako-Labs/KORA",
-    "stars": 21,
-    "updated_at": "2026-06-17T11:09:18Z",
-    "url": "https://github.com/Krako-Labs/KORA"
   }
 ]
