@@ -1,12 +1,57 @@
 [
   {
+    "description": "",
+    "id": "romainsantoli-web/setup-vs-agent-firm",
+    "language": "Python",
+    "name": "romainsantoli-web/setup-vs-agent-firm",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:39:01Z",
+    "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
+  },
+  {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
     "id": "telus-labs/stagecraft",
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 1,
-    "updated_at": "2026-06-17T07:29:50Z",
+    "updated_at": "2026-06-17T07:36:27Z",
     "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "a multi-agent workflow orchestration platform",
+    "id": "kari-kari1/Fugue",
+    "language": "Python",
+    "name": "kari-kari1/Fugue",
+    "stars": 3,
+    "updated_at": "2026-06-17T07:35:44Z",
+    "url": "https://github.com/kari-kari1/Fugue"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:31:47Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T07:30:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 22779,
+    "updated_at": "2026-06-17T07:27:30Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
@@ -25,24 +70,6 @@
     "stars": 6388,
     "updated_at": "2026-06-17T07:17:55Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T07:15:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22774,
-    "updated_at": "2026-06-17T07:27:30Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83e\udd96 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
@@ -67,7 +94,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11407,
+    "stars": 11408,
     "updated_at": "2026-06-17T07:07:57Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -90,15 +117,6 @@
     "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-17T07:28:43Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
     "description": "Official BisQue Ultra Platform",
     "id": "amilworks/ultra",
     "language": "TypeScript",
@@ -113,24 +131,15 @@
     "language": "Go",
     "name": "JoakimCarlsson/ai",
     "stars": 31,
-    "updated_at": "2026-06-17T06:59:59Z",
+    "updated_at": "2026-06-17T07:43:55Z",
     "url": "https://github.com/JoakimCarlsson/ai"
-  },
-  {
-    "description": "a multi-agent workflow orchestration platform",
-    "id": "kari-kari1/Fugue",
-    "language": "Python",
-    "name": "kari-kari1/Fugue",
-    "stars": 3,
-    "updated_at": "2026-06-17T06:57:00Z",
-    "url": "https://github.com/kari-kari1/Fugue"
   },
   {
     "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
     "id": "codeaholicguy/ai-devkit",
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
-    "stars": 1366,
+    "stars": 1367,
     "updated_at": "2026-06-17T06:55:35Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
@@ -302,7 +311,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-06-17T05:19:41Z",
+    "updated_at": "2026-06-17T07:34:18Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 4,
-    "updated_at": "2026-06-17T07:12:57Z",
+    "updated_at": "2026-06-17T07:37:01Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -364,7 +373,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4375,
+    "stars": 4376,
     "updated_at": "2026-06-17T04:35:54Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -383,7 +392,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 68,
-    "updated_at": "2026-06-17T07:11:09Z",
+    "updated_at": "2026-06-17T07:45:04Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 314,
     "updated_at": "2026-06-17T03:18:12Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:16:36Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
   }
 ]
