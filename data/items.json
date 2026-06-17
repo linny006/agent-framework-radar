@@ -5,8 +5,44 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 20,
-    "updated_at": "2026-06-17T02:00:02Z",
+    "updated_at": "2026-06-17T02:15:02Z",
     "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-17T02:13:22Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 22683,
+    "updated_at": "2026-06-17T02:08:21Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 15,
+    "updated_at": "2026-06-17T02:00:34Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T02:00:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T01:57:19Z",
     "url": "https://github.com/prismal-ai/prismal"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T01:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11400,
-    "updated_at": "2026-06-17T01:57:57Z",
+    "updated_at": "2026-06-17T02:12:22Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T01:23:47Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 15,
-    "updated_at": "2026-06-17T01:58:39Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "Kuonirad/MCOP-Framework-2.0",
     "stars": 2,
-    "updated_at": "2026-06-17T01:48:10Z",
+    "updated_at": "2026-06-17T02:11:09Z",
     "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
   },
   {
@@ -130,7 +148,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4365,
+    "stars": 4366,
     "updated_at": "2026-06-17T01:10:03Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -151,15 +169,6 @@
     "stars": 18,
     "updated_at": "2026-06-17T01:06:40Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-17T01:52:49Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "Official BisQue Ultra Platform",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T23:19:13Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 71,
-    "updated_at": "2026-06-16T23:12:45Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
   }
 ]
