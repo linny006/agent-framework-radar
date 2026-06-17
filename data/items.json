@@ -1,5 +1,86 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 22770,
+    "updated_at": "2026-06-17T07:15:22Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83e\udd96 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
+    "id": "yomorun/yomo",
+    "language": "Rust",
+    "name": "yomorun/yomo",
+    "stars": 1907,
+    "updated_at": "2026-06-17T07:15:21Z",
+    "url": "https://github.com/yomorun/yomo"
+  },
+  {
+    "description": "Autonomous AI agent runtime \u2014 TypeScript + SQLite + React dashboard + MCP. Run Claude Code, Codex, or Gemini CLI as a co",
+    "id": "erayendes/kortext",
+    "language": "TypeScript",
+    "name": "erayendes/kortext",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:15:16Z",
+    "url": "https://github.com/erayendes/kortext"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11406,
+    "updated_at": "2026-06-17T07:07:57Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:06:19Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:02:20Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:01:51Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T07:00:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Official BisQue Ultra Platform",
+    "id": "amilworks/ultra",
+    "language": "TypeScript",
+    "name": "amilworks/ultra",
+    "stars": 4,
+    "updated_at": "2026-06-17T07:00:27Z",
+    "url": "https://github.com/amilworks/ultra"
+  },
+  {
     "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
     "id": "JoakimCarlsson/ai",
     "language": "Go",
@@ -13,7 +94,7 @@
     "id": "kari-kari1/Fugue",
     "language": "Python",
     "name": "kari-kari1/Fugue",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-06-17T06:57:00Z",
     "url": "https://github.com/kari-kari1/Fugue"
   },
@@ -25,15 +106,6 @@
     "stars": 1365,
     "updated_at": "2026-06-17T06:55:35Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22763,
-    "updated_at": "2026-06-17T06:54:48Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
@@ -61,24 +133,6 @@
     "stars": 161,
     "updated_at": "2026-06-17T06:49:22Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T06:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-17T06:58:56Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "System Memory untuk AI Berjiwa \u2014 belajar dari proses, bukan kejar akurasi.",
@@ -142,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T06:10:50Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-17T06:05:10Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
@@ -221,7 +266,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 1,
-    "updated_at": "2026-06-17T06:59:28Z",
+    "updated_at": "2026-06-17T07:14:44Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -261,15 +306,6 @@
     "url": "https://github.com/sytone/botnexus"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11405,
-    "updated_at": "2026-06-17T06:59:54Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -284,7 +320,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 4,
-    "updated_at": "2026-06-17T05:03:19Z",
+    "updated_at": "2026-06-17T07:12:57Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "agentbreeder/agentbreeder",
     "stars": 4,
-    "updated_at": "2026-06-17T04:47:42Z",
+    "updated_at": "2026-06-17T07:05:01Z",
     "url": "https://github.com/agentbreeder/agentbreeder"
   },
   {
@@ -328,7 +364,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4374,
+    "stars": 4375,
     "updated_at": "2026-06-17T04:35:54Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 68,
-    "updated_at": "2026-06-17T04:28:32Z",
+    "updated_at": "2026-06-17T07:11:09Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
-    "description": "\ud83e\udd96 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
-    "id": "yomorun/yomo",
-    "language": "Rust",
-    "name": "yomorun/yomo",
-    "stars": 1907,
-    "updated_at": "2026-06-17T03:35:00Z",
-    "url": "https://github.com/yomorun/yomo"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T03:16:36Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 10,
-    "updated_at": "2026-06-17T03:13:23Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
-  },
-  {
-    "description": "Production-ready multi-user AI agent framework \u2014 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-c",
-    "id": "stephonGAO/milu",
-    "language": "Python",
-    "name": "stephonGAO/milu",
-    "stars": 4,
-    "updated_at": "2026-06-17T03:13:11Z",
-    "url": "https://github.com/stephonGAO/milu"
-  },
-  {
-    "description": "GitHub AI-Super-Team for making agent teams with high-quality skills",
-    "id": "aAAaqwq/AGI-Super-Team",
-    "language": "Python",
-    "name": "aAAaqwq/AGI-Super-Team",
-    "stars": 70,
-    "updated_at": "2026-06-17T03:08:37Z",
-    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
   }
 ]
