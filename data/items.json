@@ -1,12 +1,66 @@
 [
   {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 161,
+    "updated_at": "2026-06-17T02:43:36Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 22695,
+    "updated_at": "2026-06-17T02:42:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Composable TypeScript AI agent framework \u2014 Effect-TS type safety, 5 reasoning strategies, persistent gateway, real-time ",
+    "id": "tylerjrbuell/reactive-agents-ts",
+    "language": "TypeScript",
+    "name": "tylerjrbuell/reactive-agents-ts",
+    "stars": 16,
+    "updated_at": "2026-06-17T02:40:59Z",
+    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
+  },
+  {
+    "description": "Agent SDK, CLI, Platform in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 5,
+    "updated_at": "2026-06-17T02:40:12Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 10,
+    "updated_at": "2026-06-17T02:38:33Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-17T02:25:06Z",
+    "updated_at": "2026-06-17T02:34:08Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T02:30:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent memory and context management for AI agents. Enable long-term recall, session continuity, and consistent beha",
@@ -36,15 +90,6 @@
     "url": "https://github.com/stephonGAO/milu"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T02:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
     "id": "kh0pper/crow",
     "language": "JavaScript",
@@ -61,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T02:13:22Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22689,
-    "updated_at": "2026-06-17T02:08:21Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -103,7 +139,7 @@
     "id": "microsoft/Sico",
     "language": "Python",
     "name": "microsoft/Sico",
-    "stars": 35,
+    "stars": 36,
     "updated_at": "2026-06-17T01:38:08Z",
     "url": "https://github.com/microsoft/Sico"
   },
@@ -153,15 +189,6 @@
     "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 10,
-    "updated_at": "2026-06-17T01:16:52Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
-  },
-  {
     "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
     "id": "Kuonirad/MCOP-Framework-2.0",
     "language": "TypeScript",
@@ -193,7 +220,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4366,
+    "stars": 4367,
     "updated_at": "2026-06-17T01:10:03Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -247,7 +274,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6174,
+    "stars": 6175,
     "updated_at": "2026-06-17T00:34:26Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -266,7 +293,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 68,
-    "updated_at": "2026-06-17T01:10:22Z",
+    "updated_at": "2026-06-17T02:45:00Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -297,15 +324,6 @@
     "url": "https://github.com/xiaoyaotsyx-dotcom/Rigi-AI-Commons"
   },
   {
-    "description": "Agent SDK, CLI, Platform in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 5,
-    "updated_at": "2026-06-17T00:19:20Z",
-    "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
@@ -331,15 +349,6 @@
     "stars": 8,
     "updated_at": "2026-06-17T00:12:34Z",
     "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 161,
-    "updated_at": "2026-06-17T00:10:04Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -373,7 +382,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17797,
+    "stars": 17799,
     "updated_at": "2026-06-16T23:54:15Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-16T23:33:50Z",
     "url": "https://github.com/RobThePCGuy/markdown-agent-studio"
-  },
-  {
-    "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
-    "id": "ebey317/claf",
-    "language": "Python",
-    "name": "ebey317/claf",
-    "stars": 1,
-    "updated_at": "2026-06-16T23:31:31Z",
-    "url": "https://github.com/ebey317/claf"
   }
 ]
