@@ -1,24 +1,105 @@
 [
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 148,
-    "updated_at": "2026-06-17T03:00:11Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "Production-grade, contracts-first framework for AI agents in Python \u2014 vendor-neutral, audit-ready.",
     "id": "Scaffoldic/agentforge-py",
     "language": "Python",
     "name": "Scaffoldic/agentforge-py",
     "stars": 2,
-    "updated_at": "2026-06-17T02:58:22Z",
+    "updated_at": "2026-06-17T03:15:21Z",
     "url": "https://github.com/Scaffoldic/agentforge-py"
   },
   {
-    "description": "Composable TypeScript AI agent framework \u2014 Effect-TS type safety, 5 reasoning strategies, persistent gateway, real-time ",
+    "description": "Next-Generation BFT Agent Governance Framework for highly fault-tolerant LLM swarm coordination.",
+    "id": "fredm23579/AgentOmega",
+    "language": "PowerShell",
+    "name": "fredm23579/AgentOmega",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:14:23Z",
+    "url": "https://github.com/fredm23579/AgentOmega"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-17T03:13:45Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 10,
+    "updated_at": "2026-06-17T03:13:23Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "Production-ready multi-user AI agent framework \u2014 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-c",
+    "id": "stephonGAO/milu",
+    "language": "Python",
+    "name": "stephonGAO/milu",
+    "stars": 4,
+    "updated_at": "2026-06-17T03:13:11Z",
+    "url": "https://github.com/stephonGAO/milu"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 3491,
+    "updated_at": "2026-06-17T03:15:15Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "GitHub AI-Super-Team for making agent teams with high-quality skills",
+    "id": "aAAaqwq/AGI-Super-Team",
+    "language": "Python",
+    "name": "aAAaqwq/AGI-Super-Team",
+    "stars": 70,
+    "updated_at": "2026-06-17T03:08:37Z",
+    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 22714,
+    "updated_at": "2026-06-17T03:06:01Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Multi-agent collaboration gateway for one-person companies. Route messages to specialized AI agents (Munger/Woz/Ogilvy/T",
+    "id": "Jam0731/ParallaxAI",
+    "language": "TypeScript",
+    "name": "Jam0731/ParallaxAI",
+    "stars": 1,
+    "updated_at": "2026-06-17T03:01:25Z",
+    "url": "https://github.com/Jam0731/ParallaxAI"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 149,
+    "updated_at": "2026-06-17T03:00:29Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T03:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The composable TypeScript agent harness built for control, not magic \u2014 run one codebase from local 4B Ollama to frontier",
     "id": "tylerjrbuell/reactive-agents-ts",
     "language": "TypeScript",
     "name": "tylerjrbuell/reactive-agents-ts",
@@ -41,17 +122,8 @@
     "language": "TypeScript",
     "name": "bzcsk2/DeepReef",
     "stars": 5,
-    "updated_at": "2026-06-17T02:52:14Z",
+    "updated_at": "2026-06-17T03:15:25Z",
     "url": "https://github.com/bzcsk2/DeepReef"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T02:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -63,15 +135,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22703,
-    "updated_at": "2026-06-17T02:42:32Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Agent SDK, CLI, Platform in Rust",
     "id": "Wh1isper/starweaver",
     "language": "Rust",
@@ -79,33 +142,6 @@
     "stars": 5,
     "updated_at": "2026-06-17T02:40:12Z",
     "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 10,
-    "updated_at": "2026-06-17T02:38:33Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-17T02:34:08Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 3491,
-    "updated_at": "2026-06-17T02:25:43Z",
-    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "Persistent memory and context management for AI agents. Enable long-term recall, session continuity, and consistent beha",
@@ -126,13 +162,13 @@
     "url": "https://github.com/BrettMGoughWork/vai-core"
   },
   {
-    "description": "Production-ready multi-user AI agent framework \u2014 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-c",
-    "id": "stephonGAO/milu",
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
     "language": "Python",
-    "name": "stephonGAO/milu",
-    "stars": 4,
-    "updated_at": "2026-06-17T02:16:52Z",
-    "url": "https://github.com/stephonGAO/milu"
+    "name": "microsoft/agent-framework",
+    "stars": 11401,
+    "updated_at": "2026-06-17T02:18:52Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
@@ -225,15 +261,6 @@
     "url": "https://github.com/morning-verlu/KAI"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11400,
-    "updated_at": "2026-06-17T02:18:52Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
     "id": "VisionaireLabs/Visionaire",
     "language": "TypeScript",
@@ -257,7 +284,7 @@
     "language": "Go",
     "name": "lml2468/xclaw",
     "stars": 0,
-    "updated_at": "2026-06-17T01:16:03Z",
+    "updated_at": "2026-06-17T03:13:30Z",
     "url": "https://github.com/lml2468/xclaw"
   },
   {
@@ -319,7 +346,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6175,
+    "stars": 6176,
     "updated_at": "2026-06-17T00:34:26Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-17T00:02:13Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17800,
-    "updated_at": "2026-06-16T23:54:15Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 0,
-    "updated_at": "2026-06-16T23:52:12Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 9,
-    "updated_at": "2026-06-16T23:51:41Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   }
 ]
