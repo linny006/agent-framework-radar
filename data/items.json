@@ -1,5 +1,50 @@
 [
   {
+    "description": "Project-scoped memory for AI agent frameworks \u2014 OpenClaw, Claude Code, Codex.",
+    "id": "PluteW/memweave",
+    "language": "\u2014",
+    "name": "PluteW/memweave",
+    "stars": 0,
+    "updated_at": "2026-06-17T15:11:59Z",
+    "url": "https://github.com/PluteW/memweave"
+  },
+  {
+    "description": "GitHub AI-Super-Team for making agent teams with high-quality skills",
+    "id": "aAAaqwq/AGI-Super-Team",
+    "language": "Python",
+    "name": "aAAaqwq/AGI-Super-Team",
+    "stars": 70,
+    "updated_at": "2026-06-17T15:07:32Z",
+    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
+  },
+  {
+    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
+    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
+    "language": "Python",
+    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
+    "stars": 0,
+    "updated_at": "2026-06-17T15:03:49Z",
+    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3285,
+    "updated_at": "2026-06-17T15:00:49Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T15:00:40Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
     "id": "salvatoreabient793/cursor-auto-deployment-agent",
     "language": "\u2014",
@@ -9,21 +54,39 @@
     "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
+    "id": "guilingzhouyi-creator/NOMOS",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3283,
-    "updated_at": "2026-06-17T14:56:45Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "guilingzhouyi-creator/NOMOS",
+    "stars": 1,
+    "updated_at": "2026-06-17T14:59:53Z",
+    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
+  },
+  {
+    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
+    "id": "dendrux/dendrux",
+    "language": "Python",
+    "name": "dendrux/dendrux",
+    "stars": 11,
+    "updated_at": "2026-06-17T14:58:09Z",
+    "url": "https://github.com/dendrux/dendrux"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-17T15:10:54Z",
+    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11422,
-    "updated_at": "2026-06-17T14:54:44Z",
+    "stars": 11423,
+    "updated_at": "2026-06-17T15:11:37Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -31,7 +94,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22866,
+    "stars": 22869,
     "updated_at": "2026-06-17T14:54:12Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 1,
-    "updated_at": "2026-06-17T14:52:05Z",
+    "updated_at": "2026-06-17T15:12:46Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
@@ -58,7 +121,7 @@
     "id": "codeking-ai/cligate",
     "language": "JavaScript",
     "name": "codeking-ai/cligate",
-    "stars": 96,
+    "stars": 97,
     "updated_at": "2026-06-17T14:50:37Z",
     "url": "https://github.com/codeking-ai/cligate"
   },
@@ -76,18 +139,9 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6182,
+    "stars": 6183,
     "updated_at": "2026-06-17T14:49:29Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T14:45:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 15,
-    "updated_at": "2026-06-17T14:43:42Z",
+    "updated_at": "2026-06-17T15:11:39Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -126,31 +180,13 @@
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
-    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
-    "id": "dendrux/dendrux",
-    "language": "Python",
-    "name": "dendrux/dendrux",
-    "stars": 11,
-    "updated_at": "2026-06-17T14:58:09Z",
-    "url": "https://github.com/dendrux/dendrux"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 160,
-    "updated_at": "2026-06-17T14:27:09Z",
+    "updated_at": "2026-06-17T15:15:30Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
-    "id": "guilingzhouyi-creator/NOMOS",
-    "language": "Python",
-    "name": "guilingzhouyi-creator/NOMOS",
-    "stars": 1,
-    "updated_at": "2026-06-17T14:59:53Z",
-    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
   },
   {
     "description": "A curated list of AI agent infrastructure: memory stores, vector databases, execution sandboxes, MCP servers, tool regis",
@@ -189,22 +225,31 @@
     "url": "https://github.com/farhanic017/agent-swarm"
   },
   {
+    "description": "Open-source platform layer for AI agents in production",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 188,
+    "updated_at": "2026-06-17T14:16:06Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
     "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
     "id": "codeaholicguy/ai-devkit",
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
-    "stars": 1383,
+    "stars": 1384,
     "updated_at": "2026-06-17T14:12:24Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
   {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
+    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
+    "id": "vstorm-co/full-stack-ai-agent-template",
     "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:10:58Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
+    "name": "vstorm-co/full-stack-ai-agent-template",
+    "stars": 1422,
+    "updated_at": "2026-06-17T14:08:56Z",
+    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
   },
   {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
@@ -241,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T14:04:25Z",
     "url": "https://github.com/ayush585/Hyperion-Delta"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-17T14:56:48Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "ethosagent/ethos",
     "stars": 9,
-    "updated_at": "2026-06-17T13:52:52Z",
+    "updated_at": "2026-06-17T15:06:08Z",
     "url": "https://github.com/ethosagent/ethos"
   },
   {
@@ -376,15 +412,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T13:03:36Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
-    "id": "vstorm-co/full-stack-ai-agent-template",
-    "language": "Python",
-    "name": "vstorm-co/full-stack-ai-agent-template",
-    "stars": 1422,
-    "updated_at": "2026-06-17T14:08:56Z",
-    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
   },
   {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-17T12:53:35Z",
     "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "A CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs \u2014 every promotion passes through a human appro",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 4,
-    "updated_at": "2026-06-17T12:41:42Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 4,
-    "updated_at": "2026-06-17T12:33:25Z",
-    "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 2,
-    "updated_at": "2026-06-17T12:29:21Z",
-    "url": "https://github.com/Ecro/harness-maker"
   }
 ]
