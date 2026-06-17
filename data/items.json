@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udd96 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
+    "id": "yomorun/yomo",
+    "language": "Rust",
+    "name": "yomorun/yomo",
+    "stars": 1908,
+    "updated_at": "2026-06-17T10:43:01Z",
+    "url": "https://github.com/yomorun/yomo"
+  },
+  {
+    "description": "Multi-agent collaboration gateway for one-person companies. Route messages to specialized AI agents (Munger/Woz/Ogilvy/T",
+    "id": "Jam0731/ParallaxAI",
+    "language": "TypeScript",
+    "name": "Jam0731/ParallaxAI",
+    "stars": 1,
+    "updated_at": "2026-06-17T10:42:07Z",
+    "url": "https://github.com/Jam0731/ParallaxAI"
+  },
+  {
+    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
+    "id": "dendrux/dendrux",
+    "language": "Python",
+    "name": "dendrux/dendrux",
+    "stars": 11,
+    "updated_at": "2026-06-17T10:41:17Z",
+    "url": "https://github.com/dendrux/dendrux"
+  },
+  {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 4,
+    "updated_at": "2026-06-17T10:40:09Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "A CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs \u2014 every promotion passes through a human appro",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 4,
+    "updated_at": "2026-06-17T10:38:01Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-17T10:41:01Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T10:30:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
     "id": "Krako-Labs/KORA",
     "language": "Python",
@@ -36,24 +99,6 @@
     "url": "https://github.com/guilingzhouyi-creator/NOMOS"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T10:15:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-17T10:30:29Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 8,
-    "updated_at": "2026-06-17T09:58:56Z",
+    "updated_at": "2026-06-17T10:35:53Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -86,7 +131,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 68,
-    "updated_at": "2026-06-17T10:28:08Z",
+    "updated_at": "2026-06-17T10:36:54Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T09:49:00Z",
     "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
-    "id": "dendrux/dendrux",
-    "language": "Python",
-    "name": "dendrux/dendrux",
-    "stars": 11,
-    "updated_at": "2026-06-17T09:48:17Z",
-    "url": "https://github.com/dendrux/dendrux"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -187,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T09:18:39Z",
     "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "\ud83e\udd96 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
-    "id": "yomorun/yomo",
-    "language": "Rust",
-    "name": "yomorun/yomo",
-    "stars": 1908,
-    "updated_at": "2026-06-17T09:16:50Z",
-    "url": "https://github.com/yomorun/yomo"
   },
   {
     "description": "Deploy intelligence. Open-source infrastructure for AI agents in production.",
@@ -274,7 +301,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22822,
+    "stars": 22823,
     "updated_at": "2026-06-17T08:25:39Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -304,15 +331,6 @@
     "stars": 3,
     "updated_at": "2026-06-17T08:07:10Z",
     "url": "https://github.com/BrettMGoughWork/vai-core"
-  },
-  {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 4,
-    "updated_at": "2026-06-17T10:15:53Z",
-    "url": "https://github.com/Kortecx/kortecx"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-17T07:00:27Z",
     "url": "https://github.com/amilworks/ultra"
-  },
-  {
-    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1371,
-    "updated_at": "2026-06-17T06:55:35Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:50:55Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   }
 ]
