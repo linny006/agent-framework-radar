@@ -1,21 +1,30 @@
 [
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 160,
-    "updated_at": "2026-06-17T22:43:38Z",
-    "url": "https://github.com/cortexkit/aft"
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 518,
+    "updated_at": "2026-06-17T22:59:25Z",
+    "url": "https://github.com/aaronjmars/aeon"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3471,
-    "updated_at": "2026-06-17T22:42:19Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:59:58Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Undo agent mistakes in microseconds, not seconds. 55,000x faster rollback than Git - built for AI coding agents.",
+    "id": "ayush585/Hyperion-Delta",
+    "language": "TypeScript",
+    "name": "ayush585/Hyperion-Delta",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:58:25Z",
+    "url": "https://github.com/ayush585/Hyperion-Delta"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -23,8 +32,71 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-17T22:43:50Z",
+    "updated_at": "2026-06-17T22:58:11Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3477,
+    "updated_at": "2026-06-17T22:55:15Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-17T22:59:44Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3826,
+    "updated_at": "2026-06-17T22:52:02Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 242,
+    "updated_at": "2026-06-17T22:58:16Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "A lightweight, declarative agent harness \u2014 define multi-agent workflows as YAML, run them from Python or the CLI, and th",
+    "id": "bryansparks/armature",
+    "language": "Python",
+    "name": "bryansparks/armature",
+    "stars": 7,
+    "updated_at": "2026-06-17T22:49:09Z",
+    "url": "https://github.com/bryansparks/armature"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T22:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 160,
+    "updated_at": "2026-06-17T22:43:38Z",
+    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -36,15 +108,6 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-17T22:39:16Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
     "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
     "id": "inkeep/agents",
     "language": "TypeScript",
@@ -52,24 +115,6 @@
     "stars": 1205,
     "updated_at": "2026-06-17T22:37:14Z",
     "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T22:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3826,
-    "updated_at": "2026-06-17T22:29:21Z",
-    "url": "https://github.com/evalstate/fast-agent"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-17T22:44:04Z",
+    "updated_at": "2026-06-17T22:59:41Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11428,
-    "updated_at": "2026-06-17T22:25:23Z",
+    "updated_at": "2026-06-17T22:56:06Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -124,15 +169,6 @@
     "stars": 5628,
     "updated_at": "2026-06-17T22:20:19Z",
     "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "Undo agent mistakes in microseconds, not seconds. 55,000x faster rollback than Git - built for AI coding agents.",
-    "id": "ayush585/Hyperion-Delta",
-    "language": "TypeScript",
-    "name": "ayush585/Hyperion-Delta",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:09:44Z",
-    "url": "https://github.com/ayush585/Hyperion-Delta"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -185,7 +221,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-17T22:13:30Z",
+    "updated_at": "2026-06-17T22:58:25Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "AetherraLabs/Aetherra",
     "stars": 8,
-    "updated_at": "2026-06-17T22:38:07Z",
+    "updated_at": "2026-06-17T22:56:19Z",
     "url": "https://github.com/AetherraLabs/Aetherra"
   },
   {
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4679,
-    "updated_at": "2026-06-17T22:23:48Z",
+    "updated_at": "2026-06-17T22:45:42Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
-    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 242,
-    "updated_at": "2026-06-17T22:44:38Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
     "id": "ucsandman/DashClaw",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 275,
     "updated_at": "2026-06-17T20:21:26Z",
     "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "",
-    "id": "Jumbalicious79/daedalus-core",
-    "language": "Python",
-    "name": "Jumbalicious79/daedalus-core",
-    "stars": 1,
-    "updated_at": "2026-06-17T20:07:12Z",
-    "url": "https://github.com/Jumbalicious79/daedalus-core"
-  },
-  {
-    "description": "A lightweight, declarative agent harness \u2014 define multi-agent workflows as YAML, run them from Python or the CLI, and th",
-    "id": "bryansparks/armature",
-    "language": "Python",
-    "name": "bryansparks/armature",
-    "stars": 7,
-    "updated_at": "2026-06-17T19:53:39Z",
-    "url": "https://github.com/bryansparks/armature"
-  },
-  {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 1,
-    "updated_at": "2026-06-17T19:47:50Z",
-    "url": "https://github.com/qmilab/asterism"
   }
 ]
