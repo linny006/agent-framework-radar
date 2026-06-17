@@ -1,11 +1,74 @@
 [
   {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:43:06Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-17T17:42:49Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Model-agnostic agent harness for local LLMs \u2014 configure agents in YAML and run them on your own hardware (vLLM, Ollama, ",
+    "id": "ahwurm/localharness",
+    "language": "Python",
+    "name": "ahwurm/localharness",
+    "stars": 6,
+    "updated_at": "2026-06-17T17:35:49Z",
+    "url": "https://github.com/ahwurm/localharness"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:35:20Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 12,
+    "updated_at": "2026-06-17T17:32:43Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-17T17:32:41Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T17:30:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3390,
-    "updated_at": "2026-06-17T17:26:42Z",
+    "stars": 3392,
+    "updated_at": "2026-06-17T17:44:37Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -14,7 +77,7 @@
     "language": "Go",
     "name": "lml2468/xclaw",
     "stars": 0,
-    "updated_at": "2026-06-17T17:26:34Z",
+    "updated_at": "2026-06-17T17:32:06Z",
     "url": "https://github.com/lml2468/xclaw"
   },
   {
@@ -23,7 +86,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-17T17:26:06Z",
+    "updated_at": "2026-06-17T17:41:49Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-17T17:28:01Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
     "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T17:15:38Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T17:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -99,13 +144,13 @@
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
-    "description": "Model-agnostic agent harness for local LLMs \u2014 configure agents in YAML and run them on your own hardware (vLLM, Ollama, ",
-    "id": "ahwurm/localharness",
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
     "language": "Python",
-    "name": "ahwurm/localharness",
-    "stars": 6,
-    "updated_at": "2026-06-17T17:12:19Z",
-    "url": "https://github.com/ahwurm/localharness"
+    "name": "microsoft/agent-framework",
+    "stars": 11426,
+    "updated_at": "2026-06-17T17:10:42Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 18,
-    "updated_at": "2026-06-17T17:28:38Z",
+    "updated_at": "2026-06-17T17:45:22Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -257,7 +302,7 @@
     "language": "TypeScript",
     "name": "Kuonirad/MCOP-Framework-2.0",
     "stars": 2,
-    "updated_at": "2026-06-17T16:33:47Z",
+    "updated_at": "2026-06-17T17:45:15Z",
     "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
   },
   {
@@ -286,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T16:16:11Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11424,
-    "updated_at": "2026-06-17T17:10:42Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "A personal AI Agent that runs on your machine\u2014builds tools, searches files, automates tasks, and learns from its mistake",
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 4379,
-    "updated_at": "2026-06-17T16:56:17Z",
+    "updated_at": "2026-06-17T17:41:25Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T15:38:28Z",
     "url": "https://github.com/ellmos-ai/n8n-manager-mcp"
-  },
-  {
-    "description": "Local filesystem MCP server with 43 tools: safe delete, process management, interactive sessions, async search, OCR, ZIP",
-    "id": "ellmos-ai/ellmos-filecommander-mcp",
-    "language": "JavaScript",
-    "name": "ellmos-ai/ellmos-filecommander-mcp",
-    "stars": 3,
-    "updated_at": "2026-06-17T15:38:28Z",
-    "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
-  },
-  {
-    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
-    "id": "guilingzhouyi-creator/NOMOS",
-    "language": "Python",
-    "name": "guilingzhouyi-creator/NOMOS",
-    "stars": 1,
-    "updated_at": "2026-06-17T15:35:28Z",
-    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
-  },
-  {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 1,
-    "updated_at": "2026-06-17T15:35:23Z",
-    "url": "https://github.com/qmilab/asterism"
-  },
-  {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 4,
-    "updated_at": "2026-06-17T15:31:50Z",
-    "url": "https://github.com/Kortecx/kortecx"
   }
 ]
