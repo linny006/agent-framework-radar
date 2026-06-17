@@ -1,21 +1,75 @@
 [
   {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1368,
-    "updated_at": "2026-06-17T06:26:02Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6386,
+    "updated_at": "2026-06-17T06:43:05Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-17T06:41:21Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "a multi-agent workflow orchestration platform",
+    "id": "kari-kari1/Fugue",
+    "language": "Python",
+    "name": "kari-kari1/Fugue",
+    "stars": 2,
+    "updated_at": "2026-06-17T06:38:30Z",
+    "url": "https://github.com/kari-kari1/Fugue"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22754,
-    "updated_at": "2026-06-17T06:23:31Z",
+    "stars": 22758,
+    "updated_at": "2026-06-17T06:36:49Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "System Memory untuk AI Berjiwa \u2014 belajar dari proses, bukan kejar akurasi.",
+    "id": "aa-dede/hikmah",
+    "language": "Python",
+    "name": "aa-dede/hikmah",
+    "stars": 0,
+    "updated_at": "2026-06-17T06:34:51Z",
+    "url": "https://github.com/aa-dede/hikmah"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T06:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 8,
+    "updated_at": "2026-06-17T06:30:22Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1369,
+    "updated_at": "2026-06-17T06:26:02Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
     "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T06:18:26Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T06:15:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -108,15 +153,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "System Memory untuk AI Berjiwa \u2014 belajar dari proses, bukan kejar akurasi.",
-    "id": "aa-dede/hikmah",
-    "language": "Python",
-    "name": "aa-dede/hikmah",
-    "stars": 0,
-    "updated_at": "2026-06-17T05:53:41Z",
-    "url": "https://github.com/aa-dede/hikmah"
-  },
-  {
     "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
     "id": "open1s/bos",
     "language": "Rust",
@@ -158,7 +194,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 1,
-    "updated_at": "2026-06-17T05:33:32Z",
+    "updated_at": "2026-06-17T06:41:54Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -202,7 +238,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11403,
+    "stars": 11404,
     "updated_at": "2026-06-17T05:19:01Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -412,41 +448,5 @@
     "stars": 16,
     "updated_at": "2026-06-17T02:54:53Z",
     "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
-  },
-  {
-    "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
-    "id": "bzcsk2/DeepReef",
-    "language": "TypeScript",
-    "name": "bzcsk2/DeepReef",
-    "stars": 5,
-    "updated_at": "2026-06-17T03:37:58Z",
-    "url": "https://github.com/bzcsk2/DeepReef"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 161,
-    "updated_at": "2026-06-17T02:43:36Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Agent SDK, CLI, Platform in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 5,
-    "updated_at": "2026-06-17T02:40:12Z",
-    "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Persistent memory and context management for AI agents. Enable long-term recall, session continuity, and consistent beha",
-    "id": "emsoftanalytics/MARK-SDK",
-    "language": "Python",
-    "name": "emsoftanalytics/MARK-SDK",
-    "stars": 0,
-    "updated_at": "2026-06-17T02:21:25Z",
-    "url": "https://github.com/emsoftanalytics/MARK-SDK"
   }
 ]
