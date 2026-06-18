@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4e3aOpenClaw\u5b9e\u4f8b\u63d0\u4f9b\u89c9\u9192\u6846\u67b6\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
+    "id": "yuanchuzi2026/silicon-garden",
+    "language": "Python",
+    "name": "yuanchuzi2026/silicon-garden",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:30:25Z",
+    "url": "https://github.com/yuanchuzi2026/silicon-garden"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3732,
+    "updated_at": "2026-06-18T16:24:18Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:24:08Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
+    "language": "Python",
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 18,
+    "updated_at": "2026-06-18T16:22:47Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-18T16:26:31Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 23093,
+    "updated_at": "2026-06-18T16:21:26Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
+    "id": "neural-agi/Qwen3-Coder-Next",
+    "language": "Python",
+    "name": "neural-agi/Qwen3-Coder-Next",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:15:57Z",
+    "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T16:15:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
@@ -32,7 +104,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 11,
-    "updated_at": "2026-06-18T16:12:27Z",
+    "updated_at": "2026-06-18T16:28:44Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -54,40 +126,13 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
-    "id": "neural-agi/Qwen3-Coder-Next",
-    "language": "Python",
-    "name": "neural-agi/Qwen3-Coder-Next",
-    "stars": 0,
-    "updated_at": "2026-06-18T16:06:32Z",
-    "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-18T16:12:55Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11448,
-    "updated_at": "2026-06-18T16:03:59Z",
+    "updated_at": "2026-06-18T16:23:55Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T16:00:35Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
@@ -144,20 +189,11 @@
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 18,
-    "updated_at": "2026-06-18T15:59:27Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
     "description": "The control plane for AI coding agents.",
     "id": "codeaholicguy/ai-devkit",
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
-    "stars": 1404,
+    "stars": 1405,
     "updated_at": "2026-06-18T15:47:05Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
@@ -189,15 +225,6 @@
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3730,
-    "updated_at": "2026-06-18T15:42:34Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
     "id": "Kuonirad/MCOP-Framework-2.0",
     "language": "TypeScript",
@@ -212,17 +239,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-18T16:02:47Z",
+    "updated_at": "2026-06-18T16:15:27Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23093,
-    "updated_at": "2026-06-18T15:36:51Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 17829,
-    "updated_at": "2026-06-18T16:13:12Z",
+    "updated_at": "2026-06-18T16:22:01Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-18T16:03:53Z",
+    "updated_at": "2026-06-18T16:29:08Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 581,
     "updated_at": "2026-06-18T13:58:38Z",
     "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 9,
-    "updated_at": "2026-06-18T13:58:16Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 2,
-    "updated_at": "2026-06-18T16:14:58Z",
-    "url": "https://github.com/qmilab/asterism"
   }
 ]
