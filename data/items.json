@@ -4,8 +4,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3550,
-    "updated_at": "2026-06-18T03:14:24Z",
+    "stars": 3557,
+    "updated_at": "2026-06-18T03:29:42Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-18T03:14:53Z",
+    "updated_at": "2026-06-18T03:29:41Z",
     "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
+    "id": "markl-a/phantom-secops",
+    "language": "Python",
+    "name": "markl-a/phantom-secops",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:24:02Z",
+    "url": "https://github.com/markl-a/phantom-secops"
   },
   {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
@@ -23,15 +32,33 @@
     "language": "TypeScript",
     "name": "sandydasari/openacme",
     "stars": 73,
-    "updated_at": "2026-06-18T03:09:49Z",
+    "updated_at": "2026-06-18T03:20:38Z",
     "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
+    "id": "Studnicky/Dagonizer",
+    "language": "TypeScript",
+    "name": "Studnicky/Dagonizer",
+    "stars": 3,
+    "updated_at": "2026-06-18T03:27:44Z",
+    "url": "https://github.com/Studnicky/Dagonizer"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T03:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22950,
+    "stars": 22955,
     "updated_at": "2026-06-18T03:06:02Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -59,17 +86,8 @@
     "language": "Python",
     "name": "AetherraLabs/Aetherra",
     "stars": 8,
-    "updated_at": "2026-06-18T03:00:57Z",
+    "updated_at": "2026-06-18T03:27:45Z",
     "url": "https://github.com/AetherraLabs/Aetherra"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T03:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -90,15 +108,6 @@
     "url": "https://github.com/sauravbhattacharya001/agentlens"
   },
   {
-    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
-    "id": "Studnicky/Dagonizer",
-    "language": "TypeScript",
-    "name": "Studnicky/Dagonizer",
-    "stars": 3,
-    "updated_at": "2026-06-18T03:14:30Z",
-    "url": "https://github.com/Studnicky/Dagonizer"
-  },
-  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -113,7 +122,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 8,
-    "updated_at": "2026-06-18T02:44:47Z",
+    "updated_at": "2026-06-18T03:16:14Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -184,7 +193,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11431,
+    "stars": 11432,
     "updated_at": "2026-06-18T02:14:38Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -439,14 +448,5 @@
     "stars": 4388,
     "updated_at": "2026-06-17T23:40:45Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T23:38:34Z",
-    "url": "https://github.com/ellmos-ai/skills"
   }
 ]
