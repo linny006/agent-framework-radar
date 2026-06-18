@@ -1,12 +1,48 @@
 [
   {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-18T01:29:30Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-18T01:13:49Z",
+    "updated_at": "2026-06-18T01:25:41Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-18T01:25:33Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 11,
+    "updated_at": "2026-06-18T01:22:10Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T01:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Undo agent mistakes in microseconds, not seconds. 55,000x faster rollback than Git - built for AI coding agents.",
@@ -31,7 +67,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3509,
+    "stars": 3518,
     "updated_at": "2026-06-18T01:11:06Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -54,15 +90,6 @@
     "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T01:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
     "id": "prismal-ai/prismal",
     "language": "Python",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T00:52:31Z",
     "url": "https://github.com/prismal-ai/prismal"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-18T00:49:48Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "\ud83c\udfdb\ufe0f \u901a\u7528\u578bAI\u8ba4\u77e5\u67b6\u6784 \u00b7 \u8bfa\u4e9a\u4e09\u4ee3\u4e8c\u578b \u2014 \u62bd\u5c49\u7ea7\u8054\u4e0a\u4e0b\u6587\u7ba1\u7406 / \u8bb0\u5fc6\u95ed\u73af(Mnemosyne) / \u81ea\u4e3b\u8fdb\u5316\u3002\u5b9e\u6218\u8403\u53d6\uff0cMIT\u5f00\u6e90",
@@ -162,15 +180,6 @@
     "url": "https://github.com/agentlas-ai/Hephaestus"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-18T00:56:04Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11429,
-    "updated_at": "2026-06-18T00:38:45Z",
+    "updated_at": "2026-06-18T01:29:24Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 243,
-    "updated_at": "2026-06-18T01:12:04Z",
+    "updated_at": "2026-06-18T01:24:33Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 15,
     "updated_at": "2026-06-17T21:50:33Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Local-first Python toolkit for parallel Claude and LLM agent orchestration: consensus voting, stigmergy, boss-worker swa",
-    "id": "ellmos-ai/swarm-ai",
-    "language": "Python",
-    "name": "ellmos-ai/swarm-ai",
-    "stars": 1,
-    "updated_at": "2026-06-17T21:32:53Z",
-    "url": "https://github.com/ellmos-ai/swarm-ai"
   }
 ]
