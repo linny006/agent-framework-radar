@@ -1,12 +1,66 @@
 [
   {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 2,
+    "updated_at": "2026-06-18T04:43:21Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
     "id": "lightfastai/lightfast",
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-18T04:28:54Z",
+    "updated_at": "2026-06-18T04:37:29Z",
     "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 9,
+    "updated_at": "2026-06-18T04:34:37Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
+    "id": "WhitzardAgent/qitos",
+    "language": "Python",
+    "name": "WhitzardAgent/qitos",
+    "stars": 14,
+    "updated_at": "2026-06-18T04:34:43Z",
+    "url": "https://github.com/WhitzardAgent/qitos"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3576,
+    "updated_at": "2026-06-18T04:32:39Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Behavioral guardrails, task routing, and run diagnostics for AI agents across Claude Code, Opencode, OpenClaw, and Codex",
+    "id": "quzhiii/three-body",
+    "language": "Python",
+    "name": "quzhiii/three-body",
+    "stars": 1,
+    "updated_at": "2026-06-18T04:31:34Z",
+    "url": "https://github.com/quzhiii/three-body"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T04:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Production-ready multi-user AI agent framework \u2014 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-c",
@@ -16,15 +70,6 @@
     "stars": 5,
     "updated_at": "2026-06-18T04:28:44Z",
     "url": "https://github.com/stephonGAO/milu"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3575,
-    "updated_at": "2026-06-18T04:25:26Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -59,17 +104,8 @@
     "language": "Rust",
     "name": "open1s/bos",
     "stars": 2,
-    "updated_at": "2026-06-18T04:16:04Z",
+    "updated_at": "2026-06-18T04:30:45Z",
     "url": "https://github.com/open1s/bos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T04:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -139,7 +175,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22970,
+    "stars": 22974,
     "updated_at": "2026-06-18T03:36:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "AetherraLabs/Aetherra",
     "stars": 8,
-    "updated_at": "2026-06-18T04:18:49Z",
+    "updated_at": "2026-06-18T04:42:34Z",
     "url": "https://github.com/AetherraLabs/Aetherra"
   },
   {
@@ -306,20 +342,11 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 9,
-    "updated_at": "2026-06-18T02:05:34Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 3504,
+    "stars": 3505,
     "updated_at": "2026-06-18T01:43:48Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T00:52:31Z",
     "url": "https://github.com/prismal-ai/prismal"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f \u901a\u7528\u578bAI\u8ba4\u77e5\u67b6\u6784 \u00b7 \u8bfa\u4e9a\u4e09\u4ee3\u4e8c\u578b \u2014 \u62bd\u5c49\u7ea7\u8054\u4e0a\u4e0b\u6587\u7ba1\u7406 / \u8bb0\u5fc6\u95ed\u73af(Mnemosyne) / \u81ea\u4e3b\u8fdb\u5316\u3002\u5b9e\u6218\u8403\u53d6\uff0cMIT\u5f00\u6e90",
-    "id": "gymaira1990-jpg/noah-gen3-type2",
-    "language": "Python",
-    "name": "gymaira1990-jpg/noah-gen3-type2",
-    "stars": 5,
-    "updated_at": "2026-06-18T00:44:29Z",
-    "url": "https://github.com/gymaira1990-jpg/noah-gen3-type2"
-  },
-  {
-    "description": "Evidence-based review loop for iterating AI agent skills and subagent role briefs.",
-    "id": "Corrame/skill-refinement",
-    "language": "\u2014",
-    "name": "Corrame/skill-refinement",
-    "stars": 7,
-    "updated_at": "2026-06-18T00:42:08Z",
-    "url": "https://github.com/Corrame/skill-refinement"
-  },
-  {
-    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
-    "id": "Shiyao-Huang/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "Shiyao-Huang/awesome-agent-evolution",
-    "stars": 168,
-    "updated_at": "2026-06-18T00:37:01Z",
-    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
   }
 ]
