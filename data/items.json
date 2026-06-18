@@ -1,12 +1,39 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3667,
+    "updated_at": "2026-06-18T10:10:41Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-18T10:12:48Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11441,
-    "updated_at": "2026-06-18T09:58:47Z",
+    "updated_at": "2026-06-18T10:11:19Z",
     "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Ouroboros: Agent first software engineering infrastructure. Autonomous AI agents plan, implement, test, review, and merg",
+    "id": "Tanush1912/ouroboros",
+    "language": "Python",
+    "name": "Tanush1912/ouroboros",
+    "stars": 3,
+    "updated_at": "2026-06-18T10:02:25Z",
+    "url": "https://github.com/Tanush1912/ouroboros"
   },
   {
     "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
@@ -14,8 +41,17 @@
     "language": "TypeScript",
     "name": "firatcand/roster",
     "stars": 13,
-    "updated_at": "2026-06-18T10:00:04Z",
+    "updated_at": "2026-06-18T10:02:09Z",
     "url": "https://github.com/firatcand/roster"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T10:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
@@ -27,24 +63,6 @@
     "url": "https://github.com/agentlas-ai/Hephaestus"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3665,
-    "updated_at": "2026-06-18T09:57:30Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-18T09:49:55Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
     "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
     "id": "BrettMGoughWork/vai-core",
     "language": "Python",
@@ -52,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-06-18T09:54:25Z",
     "url": "https://github.com/BrettMGoughWork/vai-core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T09:45:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-18T09:57:36Z",
+    "updated_at": "2026-06-18T10:14:25Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-18T09:58:48Z",
+    "updated_at": "2026-06-18T10:04:51Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-18T06:27:42Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Universal AGI Agent Framework \u2014 5-layer cognitive architecture with meta-cognition, 3-tier memory, and knowledge orchest",
-    "id": "tsingxuanhan/agent4science",
-    "language": "Python",
-    "name": "tsingxuanhan/agent4science",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:19:09Z",
-    "url": "https://github.com/tsingxuanhan/agent4science"
   }
 ]
