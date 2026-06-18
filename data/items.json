@@ -1,12 +1,57 @@
 [
   {
+    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1398,
+    "updated_at": "2026-06-18T11:27:56Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-18T11:28:37Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3680,
-    "updated_at": "2026-06-18T11:15:10Z",
+    "stars": 3681,
+    "updated_at": "2026-06-18T11:19:47Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
+    "id": "Krako-Labs/KORA",
+    "language": "Python",
+    "name": "Krako-Labs/KORA",
+    "stars": 21,
+    "updated_at": "2026-06-18T11:18:59Z",
+    "url": "https://github.com/Krako-Labs/KORA"
+  },
+  {
+    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
+    "id": "BrettMGoughWork/vai-core",
+    "language": "Python",
+    "name": "BrettMGoughWork/vai-core",
+    "stars": 3,
+    "updated_at": "2026-06-18T11:16:05Z",
+    "url": "https://github.com/BrettMGoughWork/vai-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T11:15:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Next Generation Agent Core / \u6b21\u4e16\u4ee3Agent\u6838\u5fc3",
@@ -27,15 +72,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1398,
-    "updated_at": "2026-06-18T11:08:52Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -43,15 +79,6 @@
     "stars": 960,
     "updated_at": "2026-06-18T11:07:51Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T11:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -99,15 +126,6 @@
     "url": "https://github.com/JING04-PRODUCER/agent-orchestrator"
   },
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-18T11:13:07Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
     "id": "AgentsKit-io/agentskit",
     "language": "TypeScript",
@@ -115,15 +133,6 @@
     "stars": 11,
     "updated_at": "2026-06-18T10:38:36Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
-    "id": "BrettMGoughWork/vai-core",
-    "language": "Python",
-    "name": "BrettMGoughWork/vai-core",
-    "stars": 3,
-    "updated_at": "2026-06-18T11:12:07Z",
-    "url": "https://github.com/BrettMGoughWork/vai-core"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -175,7 +184,7 @@
     "id": "qmilab/asterism",
     "language": "TypeScript",
     "name": "qmilab/asterism",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-18T09:44:20Z",
     "url": "https://github.com/qmilab/asterism"
   },
@@ -196,6 +205,15 @@
     "stars": 6396,
     "updated_at": "2026-06-18T09:31:52Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "A backward-compatible extension to the Agent Skills format: add a flow (stages) and soft/hard rules to a skill, with sta",
+    "id": "qiankunli/skill-plus",
+    "language": "Python",
+    "name": "qiankunli/skill-plus",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:30:41Z",
+    "url": "https://github.com/qiankunli/skill-plus"
   },
   {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T07:24:13Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-18T07:24:02Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 2,
-    "updated_at": "2026-06-18T07:15:23Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
   }
 ]
