@@ -1,12 +1,39 @@
 [
   {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 3509,
-    "updated_at": "2026-06-18T07:57:19Z",
-    "url": "https://github.com/iflytek/skillhub"
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3638,
+    "updated_at": "2026-06-18T08:14:26Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-18T08:13:24Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Cross-language AI Agent orchestration - Python FastAPI LLM core + Java Spring Boot admin.",
+    "id": "JING04-PRODUCER/agent-orchestrator",
+    "language": "Python",
+    "name": "JING04-PRODUCER/agent-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-06-18T08:11:50Z",
+    "url": "https://github.com/JING04-PRODUCER/agent-orchestrator"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-18T08:11:01Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
@@ -14,8 +41,62 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-18T07:55:24Z",
+    "updated_at": "2026-06-18T08:14:41Z",
     "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 581,
+    "updated_at": "2026-06-18T08:07:04Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 5,
+    "updated_at": "2026-06-18T08:11:34Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "\u4e3b\u52a8\u4fa6\u5bdf\u578b\u4fe1\u606f\u5dee\u6d41\u7a0b\u6846\u67b6 / Active scouting framework for high-information-asymmetry decisions",
+    "id": "lht12345678/expert-lens",
+    "language": "Python",
+    "name": "lht12345678/expert-lens",
+    "stars": 0,
+    "updated_at": "2026-06-18T08:04:27Z",
+    "url": "https://github.com/lht12345678/expert-lens"
+  },
+  {
+    "description": "Harness AI & Agent OS for governed multi-agent systems in Python \u2014 Nexus orchestration, policy, tools, skills, RAG & mul",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 4,
+    "updated_at": "2026-06-18T08:02:33Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T08:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 3510,
+    "updated_at": "2026-06-18T07:57:19Z",
+    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "Code-Grounded Vision (CGV): Deterministic-first visual reasoning rubric & CPU tools for any AI agent, framework, or harn",
@@ -27,15 +108,6 @@
     "url": "https://github.com/roverdude24/agentic-visual-grounding-rubric"
   },
   {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 5,
-    "updated_at": "2026-06-18T07:52:30Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
     "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
     "id": "bzcsk2/deepreef",
     "language": "TypeScript",
@@ -45,38 +117,11 @@
     "url": "https://github.com/bzcsk2/deepreef"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3634,
-    "updated_at": "2026-06-18T07:59:21Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 581,
-    "updated_at": "2026-06-18T07:46:44Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T07:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11435,
+    "stars": 11436,
     "updated_at": "2026-06-18T07:44:28Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T07:41:56Z",
     "url": "https://github.com/markl-a/phantom-secops"
-  },
-  {
-    "description": "Cross-language AI Agent orchestration - Python FastAPI LLM core + Java Spring Boot admin.",
-    "id": "JING04-PRODUCER/agent-orchestrator",
-    "language": "Python",
-    "name": "JING04-PRODUCER/agent-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-06-18T07:40:39Z",
-    "url": "https://github.com/JING04-PRODUCER/agent-orchestrator"
   },
   {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4684,
-    "updated_at": "2026-06-18T07:02:08Z",
+    "updated_at": "2026-06-18T08:12:07Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -392,7 +428,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6396,
-    "updated_at": "2026-06-18T07:59:35Z",
+    "updated_at": "2026-06-18T08:09:47Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-18T04:43:21Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 9,
-    "updated_at": "2026-06-18T04:34:37Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Behavioral guardrails, task routing, and run diagnostics for AI agents across Claude Code, Opencode, OpenClaw, and Codex",
-    "id": "quzhiii/three-body",
-    "language": "Python",
-    "name": "quzhiii/three-body",
-    "stars": 1,
-    "updated_at": "2026-06-18T04:31:34Z",
-    "url": "https://github.com/quzhiii/three-body"
-  },
-  {
-    "description": "Production-ready multi-user AI agent framework \u2014 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-c",
-    "id": "stephonGAO/milu",
-    "language": "Python",
-    "name": "stephonGAO/milu",
-    "stars": 5,
-    "updated_at": "2026-06-18T04:28:44Z",
-    "url": "https://github.com/stephonGAO/milu"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-18T04:23:19Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   }
 ]
