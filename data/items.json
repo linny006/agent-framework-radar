@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T19:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
     "id": "telus-labs/stagecraft",
     "language": "JavaScript",
@@ -13,7 +22,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23100,
+    "stars": 23101,
     "updated_at": "2026-06-18T19:27:31Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -59,24 +68,15 @@
     "language": "Python",
     "name": "Razaib-khan/ForgeWeave",
     "stars": 1,
-    "updated_at": "2026-06-18T19:20:39Z",
+    "updated_at": "2026-06-18T19:30:38Z",
     "url": "https://github.com/Razaib-khan/ForgeWeave"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T19:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3762,
+    "stars": 3765,
     "updated_at": "2026-06-18T19:11:46Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
