@@ -4,9 +4,90 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3720,
-    "updated_at": "2026-06-18T14:42:32Z",
+    "stars": 3723,
+    "updated_at": "2026-06-18T14:57:22Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Build autonomous AI agents in Python.",
+    "id": "Upsonic/Upsonic",
+    "language": "Python",
+    "name": "Upsonic/Upsonic",
+    "stars": 7889,
+    "updated_at": "2026-06-18T14:55:50Z",
+    "url": "https://github.com/Upsonic/Upsonic"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6398,
+    "updated_at": "2026-06-18T14:54:23Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "A Chief of Staff for Claude Code \u2014 WATC architecture + 4Cs methodology. Open-sourced by Azul Digital.",
+    "id": "Azul-Digital-Partners/cos-kit",
+    "language": "HTML",
+    "name": "Azul-Digital-Partners/cos-kit",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:53:24Z",
+    "url": "https://github.com/Azul-Digital-Partners/cos-kit"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11447,
+    "updated_at": "2026-06-18T14:52:51Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 15,
+    "updated_at": "2026-06-18T14:52:50Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "OpenCoordex is a production-grade Rust platform for enterprise multi-agent orchestration, combining multimodal input, Re",
+    "id": "wqswing/OpenCoordex",
+    "language": "Rust",
+    "name": "wqswing/OpenCoordex",
+    "stars": 5,
+    "updated_at": "2026-06-18T14:52:09Z",
+    "url": "https://github.com/wqswing/OpenCoordex"
+  },
+  {
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
+    "language": "Python",
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 18,
+    "updated_at": "2026-06-18T14:51:35Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6197,
+    "updated_at": "2026-06-18T14:56:27Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T14:45:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-18T14:44:07Z",
+    "updated_at": "2026-06-18T14:50:08Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-18T14:36:17Z",
+    "updated_at": "2026-06-18T14:56:01Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -70,24 +151,6 @@
     "stars": 5,
     "updated_at": "2026-06-18T14:31:56Z",
     "url": "https://github.com/bzcsk2/deepreef"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 18,
-    "updated_at": "2026-06-18T14:43:09Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T14:30:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd96 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
@@ -104,7 +167,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-18T14:37:48Z",
+    "updated_at": "2026-06-18T14:58:09Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -140,17 +203,8 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 11,
-    "updated_at": "2026-06-18T14:45:00Z",
+    "updated_at": "2026-06-18T14:57:04Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11446,
-    "updated_at": "2026-06-18T14:13:58Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -211,7 +265,7 @@
     "id": "aaronjmars/aeon",
     "language": "TypeScript",
     "name": "aaronjmars/aeon",
-    "stars": 524,
+    "stars": 525,
     "updated_at": "2026-06-18T13:48:27Z",
     "url": "https://github.com/aaronjmars/aeon"
   },
@@ -221,7 +275,7 @@
     "language": "TypeScript",
     "name": "inkeep/agents",
     "stars": 1206,
-    "updated_at": "2026-06-18T13:39:46Z",
+    "updated_at": "2026-06-18T15:00:31Z",
     "url": "https://github.com/inkeep/agents"
   },
   {
@@ -241,15 +295,6 @@
     "stars": 13,
     "updated_at": "2026-06-18T13:27:28Z",
     "url": "https://github.com/ARMANDSnow/make-ur-Agent-writer"
-  },
-  {
-    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6397,
-    "updated_at": "2026-06-18T14:45:26Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4e3aOpenClaw\u5b9e\u4f8b\u63d0\u4f9b\u89c9\u9192\u6846\u67b6\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
@@ -301,7 +346,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8707,
+    "stars": 8708,
     "updated_at": "2026-06-18T12:35:15Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "openlegion-ai/openlegion",
     "stars": 100,
-    "updated_at": "2026-06-18T11:56:13Z",
+    "updated_at": "2026-06-18T14:50:24Z",
     "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 8,
     "updated_at": "2026-06-18T12:34:15Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 353,
-    "updated_at": "2026-06-18T11:47:18Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "Typed, model-agnostic LLM agents in Swift \u2014 a pydantic-ai port built on Apple FoundationModels. Anthropic Claude, OpenAI",
-    "id": "f3xp/swift-agent-sdk",
-    "language": "Swift",
-    "name": "f3xp/swift-agent-sdk",
-    "stars": 1,
-    "updated_at": "2026-06-18T11:44:27Z",
-    "url": "https://github.com/f3xp/swift-agent-sdk"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 964,
-    "updated_at": "2026-06-18T11:34:17Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "The control plane for AI coding agents.",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1402,
-    "updated_at": "2026-06-18T11:27:56Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 580,
-    "updated_at": "2026-06-18T11:11:54Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
   }
 ]
