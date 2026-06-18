@@ -1,12 +1,30 @@
 [
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3537,
+    "updated_at": "2026-06-18T02:11:08Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11430,
+    "updated_at": "2026-06-18T02:14:38Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-18T01:58:55Z",
-    "url": "https://github.com/lightfastai/lightfast"
+    "name": "footprintjs/agentfootprint",
+    "stars": 9,
+    "updated_at": "2026-06-18T02:05:34Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 15,
-    "updated_at": "2026-06-18T01:59:42Z",
+    "updated_at": "2026-06-18T02:01:29Z",
     "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T02:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-18T01:58:55Z",
+    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "A self-evolving, AI-native language and platform for intelligent agents and autonomous software.",
@@ -45,15 +81,6 @@
     "url": "https://github.com/sandydasari/openacme"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T01:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
     "id": "iflytek/skillhub",
     "language": "Java",
@@ -70,15 +97,6 @@
     "stars": 6,
     "updated_at": "2026-06-18T01:43:43Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3529,
-    "updated_at": "2026-06-18T01:57:51Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 8,
-    "updated_at": "2026-06-18T01:59:15Z",
+    "updated_at": "2026-06-18T02:14:03Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -270,15 +288,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 9,
-    "updated_at": "2026-06-18T00:10:56Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
     "id": "ag2ai/ag2",
     "language": "Python",
@@ -295,15 +304,6 @@
     "stars": 5628,
     "updated_at": "2026-06-18T00:26:43Z",
     "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11429,
-    "updated_at": "2026-06-18T01:57:58Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
