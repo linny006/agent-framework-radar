@@ -1,30 +1,39 @@
 [
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11437,
-    "updated_at": "2026-06-18T09:29:20Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3658,
-    "updated_at": "2026-06-18T09:29:22Z",
+    "stars": 3663,
+    "updated_at": "2026-06-18T09:44:25Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
+    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
+    "id": "qmilab/asterism",
+    "language": "TypeScript",
+    "name": "qmilab/asterism",
+    "stars": 1,
+    "updated_at": "2026-06-18T09:44:20Z",
+    "url": "https://github.com/qmilab/asterism"
+  },
+  {
+    "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
+    "id": "bzcsk2/deepreef",
+    "language": "TypeScript",
+    "name": "bzcsk2/deepreef",
+    "stars": 5,
+    "updated_at": "2026-06-18T09:41:12Z",
+    "url": "https://github.com/bzcsk2/deepreef"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 8,
-    "updated_at": "2026-06-18T09:27:55Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-18T09:41:25Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-18T09:25:29Z",
+    "updated_at": "2026-06-18T09:37:57Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -41,17 +50,53 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-18T09:23:47Z",
+    "updated_at": "2026-06-18T09:44:49Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
+    "id": "agentlas-ai/Hephaestus",
     "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-18T09:29:18Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+    "name": "agentlas-ai/Hephaestus",
+    "stars": 74,
+    "updated_at": "2026-06-18T09:34:34Z",
+    "url": "https://github.com/agentlas-ai/Hephaestus"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6396,
+    "updated_at": "2026-06-18T09:31:52Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T09:30:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11438,
+    "updated_at": "2026-06-18T09:42:46Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 8,
+    "updated_at": "2026-06-18T09:41:33Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
     "description": "An agent runtime that truly has experience.",
@@ -70,33 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T09:18:30Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
-    "id": "agentlas-ai/Hephaestus",
-    "language": "Python",
-    "name": "agentlas-ai/Hephaestus",
-    "stars": 74,
-    "updated_at": "2026-06-18T09:16:36Z",
-    "url": "https://github.com/agentlas-ai/Hephaestus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T09:15:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
-    "id": "bzcsk2/deepreef",
-    "language": "TypeScript",
-    "name": "bzcsk2/deepreef",
-    "stars": 5,
-    "updated_at": "2026-06-18T09:02:46Z",
-    "url": "https://github.com/bzcsk2/deepreef"
   },
   {
     "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
@@ -184,7 +202,7 @@
     "id": "ag2ai/ag2",
     "language": "Python",
     "name": "ag2ai/ag2",
-    "stars": 4684,
+    "stars": 4686,
     "updated_at": "2026-06-18T08:21:56Z",
     "url": "https://github.com/ag2ai/ag2"
   },
@@ -247,7 +265,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 3511,
+    "stars": 3513,
     "updated_at": "2026-06-18T07:57:19Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -378,15 +396,6 @@
     "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
   },
   {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 1,
-    "updated_at": "2026-06-18T09:25:07Z",
-    "url": "https://github.com/qmilab/asterism"
-  },
-  {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
     "id": "sandydasari/openacme",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 68,
     "updated_at": "2026-06-18T06:02:14Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 15,
-    "updated_at": "2026-06-18T06:00:42Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
