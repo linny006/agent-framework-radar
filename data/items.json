@@ -1,11 +1,56 @@
 [
   {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 3507,
+    "updated_at": "2026-06-18T06:29:45Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-18T06:28:31Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
+    "id": "qmilab/asterism",
+    "language": "TypeScript",
+    "name": "qmilab/asterism",
+    "stars": 1,
+    "updated_at": "2026-06-18T06:29:19Z",
+    "url": "https://github.com/qmilab/asterism"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-18T06:27:42Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T06:26:39Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-18T06:25:47Z",
+    "updated_at": "2026-06-18T06:28:36Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -31,7 +76,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3602,
+    "stars": 3603,
     "updated_at": "2026-06-18T06:23:04Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T06:19:09Z",
     "url": "https://github.com/tsingxuanhan/agent4science"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T06:15:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -328,7 +364,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22991,
+    "stars": 22992,
     "updated_at": "2026-06-18T03:36:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T02:31:26Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-18T02:30:57Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
-    "id": "morning-verlu/KAI",
-    "language": "Kotlin",
-    "name": "morning-verlu/KAI",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:30:06Z",
-    "url": "https://github.com/morning-verlu/KAI"
-  },
-  {
-    "description": "Cross-language AI Agent orchestration - Python FastAPI LLM core + Java Spring Boot admin.",
-    "id": "JING04-PRODUCER/agent-orchestrator",
-    "language": "Python",
-    "name": "JING04-PRODUCER/agent-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-06-18T02:29:58Z",
-    "url": "https://github.com/JING04-PRODUCER/agent-orchestrator"
-  },
-  {
-    "description": "Local-first Python toolkit for parallel Claude and LLM agent orchestration: consensus voting, stigmergy, boss-worker swa",
-    "id": "ellmos-ai/swarm-ai",
-    "language": "Python",
-    "name": "ellmos-ai/swarm-ai",
-    "stars": 1,
-    "updated_at": "2026-06-18T02:19:35Z",
-    "url": "https://github.com/ellmos-ai/swarm-ai"
   }
 ]
