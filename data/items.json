@@ -1,12 +1,102 @@
 [
   {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 581,
+    "updated_at": "2026-06-18T07:45:13Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
+    "id": "markl-a/phantom-secops",
+    "language": "Python",
+    "name": "markl-a/phantom-secops",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:41:56Z",
+    "url": "https://github.com/markl-a/phantom-secops"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-18T07:41:46Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Cross-language AI Agent orchestration - Python FastAPI LLM core + Java Spring Boot admin.",
+    "id": "JING04-PRODUCER/agent-orchestrator",
+    "language": "Python",
+    "name": "JING04-PRODUCER/agent-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-06-18T07:40:39Z",
+    "url": "https://github.com/JING04-PRODUCER/agent-orchestrator"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-18T07:39:04Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3625,
+    "updated_at": "2026-06-18T07:37:35Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1206,
+    "updated_at": "2026-06-18T07:33:17Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
     "description": ".NET CLI tool and framework for orchestrating multi-agent AI  pipelines with strong mechanical enforcement.",
     "id": "fuseraft/fuseraft-cli",
     "language": "C#",
     "name": "fuseraft/fuseraft-cli",
     "stars": 2,
-    "updated_at": "2026-06-18T07:28:26Z",
+    "updated_at": "2026-06-18T07:32:43Z",
     "url": "https://github.com/fuseraft/fuseraft-cli"
+  },
+  {
+    "description": "",
+    "id": "romainsantoli-web/setup-vs-agent-firm",
+    "language": "Python",
+    "name": "romainsantoli-web/setup-vs-agent-firm",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:31:03Z",
+    "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T07:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Security-first AI agent orchestration platform with local LLM support, tool approvals, sandboxing, prompt-injection defe",
+    "id": "Threat-Vector-Security/guardian-agent",
+    "language": "TypeScript",
+    "name": "Threat-Vector-Security/guardian-agent",
+    "stars": 11,
+    "updated_at": "2026-06-18T07:30:19Z",
+    "url": "https://github.com/Threat-Vector-Security/guardian-agent"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -27,24 +117,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3621,
-    "updated_at": "2026-06-18T07:29:13Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-18T07:20:02Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -52,15 +124,6 @@
     "stars": 161,
     "updated_at": "2026-06-18T07:16:11Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T07:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11434,
-    "updated_at": "2026-06-18T06:50:28Z",
+    "updated_at": "2026-06-18T07:44:28Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -216,24 +279,6 @@
     "url": "https://github.com/ag2ai/ag2"
   },
   {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-18T07:30:04Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
-    "id": "markl-a/phantom-secops",
-    "language": "Python",
-    "name": "markl-a/phantom-secops",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:06:49Z",
-    "url": "https://github.com/markl-a/phantom-secops"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -250,15 +295,6 @@
     "stars": 15,
     "updated_at": "2026-06-18T06:00:42Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 581,
-    "updated_at": "2026-06-18T05:55:51Z",
-    "url": "https://github.com/framerslab/agentos"
   },
   {
     "description": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442-\u0430\u0433\u0435\u043d\u0442 (\u0415\u0432\u0430) \u043d\u0430 eve + Ollama Cloud (DeepSeek-V4-Pro): \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c, \u0441\u043a\u0438\u043b\u043b\u044b, \u0441\u0443\u0431\u0430\u0433\u0435\u043d\u0442\u044b, Telegram, cron",
@@ -279,15 +315,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "Security-first AI agent orchestration platform with local LLM support, tool approvals, sandboxing, prompt-injection defe",
-    "id": "Threat-Vector-Security/guardian-agent",
-    "language": "TypeScript",
-    "name": "Threat-Vector-Security/guardian-agent",
-    "stars": 11,
-    "updated_at": "2026-06-18T07:30:19Z",
-    "url": "https://github.com/Threat-Vector-Security/guardian-agent"
-  },
-  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
@@ -295,15 +322,6 @@
     "stars": 8,
     "updated_at": "2026-06-18T05:48:29Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1206,
-    "updated_at": "2026-06-18T05:52:32Z",
-    "url": "https://github.com/inkeep/agents"
   },
   {
     "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T03:55:54Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-agent system built with Claude and MCP featuring 7 specialized agents (chatbot, security researcher, business advi",
-    "id": "brooksmcmillin/agents",
-    "language": "Python",
-    "name": "brooksmcmillin/agents",
-    "stars": 2,
-    "updated_at": "2026-06-18T05:58:57Z",
-    "url": "https://github.com/brooksmcmillin/agents"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4391,
-    "updated_at": "2026-06-18T03:46:35Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   }
 ]
