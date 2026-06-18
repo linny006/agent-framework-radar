@@ -1,12 +1,57 @@
 [
   {
-    "description": "The agent framework where every run is durable, replayable, and resumable by default.",
-    "id": "ThousandBirdsInc/chidori",
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
     "language": "Rust",
-    "name": "ThousandBirdsInc/chidori",
-    "stars": 1350,
-    "updated_at": "2026-06-18T08:44:47Z",
-    "url": "https://github.com/ThousandBirdsInc/chidori"
+    "name": "cortexkit/aft",
+    "stars": 161,
+    "updated_at": "2026-06-18T08:59:27Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3649,
+    "updated_at": "2026-06-18T08:59:07Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-18T08:57:08Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Multi-agent collaboration gateway for one-person companies. Route messages to specialized AI agents (Munger/Woz/Ogilvy/T",
+    "id": "Jam0731/ParallaxAI",
+    "language": "TypeScript",
+    "name": "Jam0731/ParallaxAI",
+    "stars": 1,
+    "updated_at": "2026-06-18T08:53:53Z",
+    "url": "https://github.com/Jam0731/ParallaxAI"
+  },
+  {
+    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
+    "id": "firatcand/roster",
+    "language": "TypeScript",
+    "name": "firatcand/roster",
+    "stars": 13,
+    "updated_at": "2026-06-18T08:53:22Z",
+    "url": "https://github.com/firatcand/roster"
+  },
+  {
+    "description": "Code-Grounded Vision (CGV): Deterministic-first visual reasoning rubric & CPU tools for any AI agent, framework, or harn",
+    "id": "roverdude24/agentic-visual-grounding-rubric",
+    "language": "Python",
+    "name": "roverdude24/agentic-visual-grounding-rubric",
+    "stars": 0,
+    "updated_at": "2026-06-18T08:52:15Z",
+    "url": "https://github.com/roverdude24/agentic-visual-grounding-rubric"
   },
   {
     "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
@@ -14,17 +59,44 @@
     "language": "TypeScript",
     "name": "bzcsk2/deepreef",
     "stars": 5,
-    "updated_at": "2026-06-18T08:44:01Z",
+    "updated_at": "2026-06-18T08:49:23Z",
     "url": "https://github.com/bzcsk2/deepreef"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-06-18T08:47:53Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
+    "id": "agentlas-ai/Hephaestus",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3646,
-    "updated_at": "2026-06-18T08:42:48Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "agentlas-ai/Hephaestus",
+    "stars": 74,
+    "updated_at": "2026-06-18T08:46:57Z",
+    "url": "https://github.com/agentlas-ai/Hephaestus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T08:45:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The agent framework where every run is durable, replayable, and resumable by default.",
+    "id": "ThousandBirdsInc/chidori",
+    "language": "Rust",
+    "name": "ThousandBirdsInc/chidori",
+    "stars": 1350,
+    "updated_at": "2026-06-18T08:44:47Z",
+    "url": "https://github.com/ThousandBirdsInc/chidori"
   },
   {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
@@ -45,24 +117,6 @@
     "url": "https://github.com/landjunge/gnom-hub"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 161,
-    "updated_at": "2026-06-18T08:38:05Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T08:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
     "id": "ag2ai/ag2",
     "language": "Python",
@@ -70,15 +124,6 @@
     "stars": 4684,
     "updated_at": "2026-06-18T08:21:56Z",
     "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 2,
-    "updated_at": "2026-06-18T08:13:24Z",
-    "url": "https://github.com/opencue/cuecards"
   },
   {
     "description": "Cross-language AI Agent orchestration - Python FastAPI LLM core + Java Spring Boot admin.",
@@ -142,15 +187,6 @@
     "stars": 3511,
     "updated_at": "2026-06-18T07:57:19Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "Code-Grounded Vision (CGV): Deterministic-first visual reasoning rubric & CPU tools for any AI agent, framework, or harn",
-    "id": "roverdude24/agentic-visual-grounding-rubric",
-    "language": "Python",
-    "name": "roverdude24/agentic-visual-grounding-rubric",
-    "stars": 0,
-    "updated_at": "2026-06-18T07:51:51Z",
-    "url": "https://github.com/roverdude24/agentic-visual-grounding-rubric"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 1,
-    "updated_at": "2026-06-18T08:43:26Z",
+    "updated_at": "2026-06-18T08:54:57Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
-    "id": "agentlas-ai/Hephaestus",
-    "language": "Python",
-    "name": "agentlas-ai/Hephaestus",
-    "stars": 74,
-    "updated_at": "2026-06-18T05:33:54Z",
-    "url": "https://github.com/agentlas-ai/Hephaestus"
-  },
-  {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
     "id": "aomi-labs/aomi",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T05:02:27Z",
     "url": "https://github.com/phenomenoner/agent-harness-core"
-  },
-  {
-    "description": "A 7\u00d76 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified eng",
-    "id": "huangjia2019/agent-design-patterns",
-    "language": "HTML",
-    "name": "huangjia2019/agent-design-patterns",
-    "stars": 86,
-    "updated_at": "2026-06-18T04:56:08Z",
-    "url": "https://github.com/huangjia2019/agent-design-patterns"
-  },
-  {
-    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6396,
-    "updated_at": "2026-06-18T08:09:47Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
-    "id": "WhitzardAgent/qitos",
-    "language": "Python",
-    "name": "WhitzardAgent/qitos",
-    "stars": 14,
-    "updated_at": "2026-06-18T04:45:38Z",
-    "url": "https://github.com/WhitzardAgent/qitos"
   }
 ]
