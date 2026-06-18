@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83c\udfdb\ufe0f \u901a\u7528\u578bAI\u8ba4\u77e5\u67b6\u6784 \u00b7 \u8bfa\u4e9a\u4e09\u4ee3\u4e8c\u578b \u2014 \u62bd\u5c49\u7ea7\u8054\u4e0a\u4e0b\u6587\u7ba1\u7406 / \u8bb0\u5fc6\u95ed\u73af(Mnemosyne) / \u81ea\u4e3b\u8fdb\u5316\u3002\u5b9e\u6218\u8403\u53d6\uff0cMIT\u5f00\u6e90",
+    "id": "gymaira1990-jpg/noah-gen3-type2",
+    "language": "Python",
+    "name": "gymaira1990-jpg/noah-gen3-type2",
+    "stars": 5,
+    "updated_at": "2026-06-18T00:44:29Z",
+    "url": "https://github.com/gymaira1990-jpg/noah-gen3-type2"
+  },
+  {
+    "description": "Evidence-based review loop for iterating AI agent skills and subagent role briefs.",
+    "id": "Corrame/skill-refinement",
+    "language": "\u2014",
+    "name": "Corrame/skill-refinement",
+    "stars": 7,
+    "updated_at": "2026-06-18T00:42:08Z",
+    "url": "https://github.com/Corrame/skill-refinement"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3502,
+    "updated_at": "2026-06-18T00:41:30Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A self-evolving, AI-native language and platform for intelligent agents and autonomous software.",
+    "id": "AetherraLabs/Aetherra",
+    "language": "Python",
+    "name": "AetherraLabs/Aetherra",
+    "stars": 8,
+    "updated_at": "2026-06-18T00:43:15Z",
+    "url": "https://github.com/AetherraLabs/Aetherra"
+  },
+  {
+    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
+    "id": "Shiyao-Huang/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "Shiyao-Huang/awesome-agent-evolution",
+    "stars": 168,
+    "updated_at": "2026-06-18T00:37:01Z",
+    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
+  },
+  {
+    "description": "A personal AI Agent that runs on your machine\u2014builds tools, searches files, automates tasks, and learns from its mistake",
+    "id": "pardnchiu/Agenvoy",
+    "language": "Go",
+    "name": "pardnchiu/Agenvoy",
+    "stars": 213,
+    "updated_at": "2026-06-18T00:35:15Z",
+    "url": "https://github.com/pardnchiu/Agenvoy"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T00:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "backup of hermes-agent",
     "id": "john-data-chen/hermes-agent-backup",
     "language": "Python",
@@ -27,15 +90,6 @@
     "url": "https://github.com/Krako-Labs/KORA"
   },
   {
-    "description": "A personal AI Agent that runs on your machine\u2014builds tools, searches files, automates tasks, and learns from its mistake",
-    "id": "pardnchiu/Agenvoy",
-    "language": "Go",
-    "name": "pardnchiu/Agenvoy",
-    "stars": 213,
-    "updated_at": "2026-06-18T00:26:12Z",
-    "url": "https://github.com/pardnchiu/Agenvoy"
-  },
-  {
     "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
     "id": "zachmeador/shrimpy",
     "language": "TypeScript",
@@ -59,26 +113,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-18T00:26:36Z",
+    "updated_at": "2026-06-18T00:43:56Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3500,
-    "updated_at": "2026-06-18T00:20:15Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T00:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-18T00:19:23Z",
+    "updated_at": "2026-06-18T00:45:02Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11429,
-    "updated_at": "2026-06-17T23:50:15Z",
+    "updated_at": "2026-06-18T00:38:45Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -160,6 +196,15 @@
     "stars": 0,
     "updated_at": "2026-06-17T23:42:05Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4386,
+    "updated_at": "2026-06-17T23:40:45Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 243,
-    "updated_at": "2026-06-18T00:28:45Z",
+    "updated_at": "2026-06-18T00:33:03Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -221,7 +266,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-18T00:07:19Z",
+    "updated_at": "2026-06-18T00:40:40Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -387,30 +432,12 @@
     "url": "https://github.com/ellmos-ai/swarm-ai"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4385,
-    "updated_at": "2026-06-17T23:40:45Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "A self-evolving, AI-native language and platform for intelligent agents and autonomous software.",
-    "id": "AetherraLabs/Aetherra",
-    "language": "Python",
-    "name": "AetherraLabs/Aetherra",
-    "stars": 8,
-    "updated_at": "2026-06-18T00:19:25Z",
-    "url": "https://github.com/AetherraLabs/Aetherra"
-  },
-  {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
     "id": "AgentsKit-io/agentskit",
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 11,
-    "updated_at": "2026-06-17T21:23:56Z",
+    "updated_at": "2026-06-18T00:41:50Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 112,
     "updated_at": "2026-06-17T21:25:52Z",
     "url": "https://github.com/ntorga/agent-starter-kit"
-  },
-  {
-    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
-    "id": "sheawinkler/ContextLattice",
-    "language": "Go",
-    "name": "sheawinkler/ContextLattice",
-    "stars": 114,
-    "updated_at": "2026-06-17T21:11:26Z",
-    "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "\ud83e\udde0 8 KI-Agenten lokal orchestrieren \u2013 ohne Cloud. FastAPI, DeepSeek, SQLite-Message-Queue, FAISS-Embeddings, Gatekeeper-S",
-    "id": "landjunge/gnom-hub",
-    "language": "Python",
-    "name": "landjunge/gnom-hub",
-    "stars": 2,
-    "updated_at": "2026-06-17T21:09:55Z",
-    "url": "https://github.com/landjunge/gnom-hub"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 18,
-    "updated_at": "2026-06-17T20:54:44Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   }
 ]
