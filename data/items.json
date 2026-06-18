@@ -1,5 +1,23 @@
 [
   {
+    "description": "Behavioral execution framework for AI agents \u2014 define deterministic, portable skills & agents across OpenCode, Claude Co",
+    "id": "Razaib-khan/ForgeWeave",
+    "language": "Python",
+    "name": "Razaib-khan/ForgeWeave",
+    "stars": 1,
+    "updated_at": "2026-06-18T17:16:30Z",
+    "url": "https://github.com/Razaib-khan/ForgeWeave"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T17:15:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
     "id": "markl-a/phantom-secops",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 0,
     "updated_at": "2026-06-18T17:15:22Z",
     "url": "https://github.com/markl-a/phantom-secops"
+  },
+  {
+    "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
+    "id": "agentbreeder/agentbreeder",
+    "language": "Python",
+    "name": "agentbreeder/agentbreeder",
+    "stars": 4,
+    "updated_at": "2026-06-18T17:15:41Z",
+    "url": "https://github.com/agentbreeder/agentbreeder"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -63,15 +90,6 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T17:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
     "id": "bakw00ds/yakos",
     "language": "Go",
@@ -106,15 +124,6 @@
     "stars": 581,
     "updated_at": "2026-06-18T16:58:41Z",
     "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Behavioral execution framework for AI agents \u2014 define deterministic, portable skills & agents across OpenCode, Claude Co",
-    "id": "Razaib-khan/ForgeWeave",
-    "language": "Python",
-    "name": "Razaib-khan/ForgeWeave",
-    "stars": 1,
-    "updated_at": "2026-06-18T17:14:12Z",
-    "url": "https://github.com/Razaib-khan/ForgeWeave"
   },
   {
     "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
@@ -202,7 +211,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17832,
+    "stars": 17833,
     "updated_at": "2026-06-18T16:22:01Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -439,14 +448,5 @@
     "stars": 7889,
     "updated_at": "2026-06-18T14:55:50Z",
     "url": "https://github.com/Upsonic/Upsonic"
-  },
-  {
-    "description": "A Chief of Staff for Claude Code \u2014 WATC architecture + 4Cs methodology. Open-sourced by Azul Digital.",
-    "id": "Azul-Digital-Partners/cos-kit",
-    "language": "HTML",
-    "name": "Azul-Digital-Partners/cos-kit",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:53:24Z",
-    "url": "https://github.com/Azul-Digital-Partners/cos-kit"
   }
 ]
