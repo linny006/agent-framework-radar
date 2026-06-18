@@ -4,8 +4,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3557,
-    "updated_at": "2026-06-18T03:29:42Z",
+    "stars": 3562,
+    "updated_at": "2026-06-18T03:44:20Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -14,8 +14,35 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-18T03:29:41Z",
+    "updated_at": "2026-06-18T03:39:59Z",
     "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 22959,
+    "updated_at": "2026-06-18T03:36:37Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability,",
+    "id": "linora-u/AgentLoom",
+    "language": "Python",
+    "name": "linora-u/AgentLoom",
+    "stars": 88,
+    "updated_at": "2026-06-18T03:32:21Z",
+    "url": "https://github.com/linora-u/AgentLoom"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T03:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
@@ -45,24 +72,6 @@
     "url": "https://github.com/Studnicky/Dagonizer"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T03:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22955,
-    "updated_at": "2026-06-18T03:06:02Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "EvE is an open-source framework for co-evolving ensembles of coding agents. Wrap any coding agent \u2014 Codex, Claude Code \u2014",
     "id": "scaling-group/eve",
     "language": "Python",
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "AetherraLabs/Aetherra",
     "stars": 8,
-    "updated_at": "2026-06-18T03:27:45Z",
+    "updated_at": "2026-06-18T03:37:16Z",
     "url": "https://github.com/AetherraLabs/Aetherra"
   },
   {
@@ -122,7 +131,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 8,
-    "updated_at": "2026-06-18T03:16:14Z",
+    "updated_at": "2026-06-18T03:42:25Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -293,7 +302,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 11,
-    "updated_at": "2026-06-18T03:12:23Z",
+    "updated_at": "2026-06-18T03:41:37Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T23:42:05Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4388,
-    "updated_at": "2026-06-17T23:40:45Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   }
 ]
