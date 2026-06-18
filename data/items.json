@@ -1,12 +1,30 @@
 [
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 2,
-    "updated_at": "2026-06-18T04:43:21Z",
-    "url": "https://github.com/dsswift/ion"
+    "description": "A 7\u00d76 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified eng",
+    "id": "huangjia2019/agent-design-patterns",
+    "language": "HTML",
+    "name": "huangjia2019/agent-design-patterns",
+    "stars": 86,
+    "updated_at": "2026-06-18T04:56:08Z",
+    "url": "https://github.com/huangjia2019/agent-design-patterns"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6395,
+    "updated_at": "2026-06-18T04:53:43Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 15,
+    "updated_at": "2026-06-18T04:51:38Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
@@ -14,8 +32,35 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-18T04:37:29Z",
+    "updated_at": "2026-06-18T04:59:27Z",
     "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
+    "id": "WhitzardAgent/qitos",
+    "language": "Python",
+    "name": "WhitzardAgent/qitos",
+    "stars": 14,
+    "updated_at": "2026-06-18T04:45:38Z",
+    "url": "https://github.com/WhitzardAgent/qitos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T04:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 2,
+    "updated_at": "2026-06-18T04:43:21Z",
+    "url": "https://github.com/dsswift/ion"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -27,21 +72,12 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
-    "id": "WhitzardAgent/qitos",
-    "language": "Python",
-    "name": "WhitzardAgent/qitos",
-    "stars": 14,
-    "updated_at": "2026-06-18T04:34:43Z",
-    "url": "https://github.com/WhitzardAgent/qitos"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3576,
-    "updated_at": "2026-06-18T04:32:39Z",
+    "stars": 3580,
+    "updated_at": "2026-06-18T04:58:28Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -54,15 +90,6 @@
     "url": "https://github.com/quzhiii/three-body"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T04:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Production-ready multi-user AI agent framework \u2014 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-c",
     "id": "stephonGAO/milu",
     "language": "Python",
@@ -70,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-06-18T04:28:44Z",
     "url": "https://github.com/stephonGAO/milu"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 15,
-    "updated_at": "2026-06-18T04:24:04Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -171,6 +189,15 @@
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17822,
+    "updated_at": "2026-06-18T03:41:39Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "AetherraLabs/Aetherra",
     "stars": 8,
-    "updated_at": "2026-06-18T04:42:34Z",
+    "updated_at": "2026-06-18T04:57:28Z",
     "url": "https://github.com/AetherraLabs/Aetherra"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 240,
     "updated_at": "2026-06-18T01:11:35Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 107,
-    "updated_at": "2026-06-18T01:07:52Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-18T01:02:23Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
-    "id": "prismal-ai/prismal",
-    "language": "Python",
-    "name": "prismal-ai/prismal",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:52:31Z",
-    "url": "https://github.com/prismal-ai/prismal"
   }
 ]
