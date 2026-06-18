@@ -1,11 +1,92 @@
 [
   {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 11,
+    "updated_at": "2026-06-18T14:14:08Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-18T14:10:15Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11446,
+    "updated_at": "2026-06-18T14:13:58Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:08:47Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Next Generation Agent Core / \u6b21\u4e16\u4ee3Agent\u6838\u5fc3",
+    "id": "AmritaBot/AmritaCore",
+    "language": "Python",
+    "name": "AmritaBot/AmritaCore",
+    "stars": 9,
+    "updated_at": "2026-06-18T14:08:32Z",
+    "url": "https://github.com/AmritaBot/AmritaCore"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-18T14:10:52Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Undo agent mistakes in microseconds, not seconds. 55,000x faster rollback than Git - built for AI coding agents.",
+    "id": "ayush585/Hyperion-Delta",
+    "language": "TypeScript",
+    "name": "ayush585/Hyperion-Delta",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:06:44Z",
+    "url": "https://github.com/ayush585/Hyperion-Delta"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 23081,
+    "updated_at": "2026-06-18T14:01:36Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3710,
+    "updated_at": "2026-06-18T14:13:36Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T13:59:11Z",
+    "updated_at": "2026-06-18T14:00:40Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -25,33 +106,6 @@
     "stars": 9,
     "updated_at": "2026-06-18T13:58:16Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Next Generation Agent Core / \u6b21\u4e16\u4ee3Agent\u6838\u5fc3",
-    "id": "AmritaBot/AmritaCore",
-    "language": "Python",
-    "name": "AmritaBot/AmritaCore",
-    "stars": 9,
-    "updated_at": "2026-06-18T13:58:00Z",
-    "url": "https://github.com/AmritaBot/AmritaCore"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3709,
-    "updated_at": "2026-06-18T13:59:21Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Undo agent mistakes in microseconds, not seconds. 55,000x faster rollback than Git - built for AI coding agents.",
-    "id": "ayush585/Hyperion-Delta",
-    "language": "TypeScript",
-    "name": "ayush585/Hyperion-Delta",
-    "stars": 0,
-    "updated_at": "2026-06-18T13:56:15Z",
-    "url": "https://github.com/ayush585/Hyperion-Delta"
   },
   {
     "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
@@ -86,17 +140,8 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-18T13:42:55Z",
+    "updated_at": "2026-06-18T14:11:47Z",
     "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11444,
-    "updated_at": "2026-06-18T14:00:25Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
@@ -115,15 +160,6 @@
     "stars": 1206,
     "updated_at": "2026-06-18T13:39:46Z",
     "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 11,
-    "updated_at": "2026-06-18T13:46:31Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T13:22:44Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-18T13:58:16Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -396,21 +423,12 @@
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-18T10:55:14Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-18T13:46:56Z",
+    "updated_at": "2026-06-18T14:15:30Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-18T10:02:25Z",
     "url": "https://github.com/Tanush1912/ouroboros"
-  },
-  {
-    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
-    "id": "firatcand/roster",
-    "language": "TypeScript",
-    "name": "firatcand/roster",
-    "stars": 13,
-    "updated_at": "2026-06-18T10:40:57Z",
-    "url": "https://github.com/firatcand/roster"
-  },
-  {
-    "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
-    "id": "agentlas-ai/Hephaestus",
-    "language": "Python",
-    "name": "agentlas-ai/Hephaestus",
-    "stars": 74,
-    "updated_at": "2026-06-18T09:56:38Z",
-    "url": "https://github.com/agentlas-ai/Hephaestus"
   }
 ]
