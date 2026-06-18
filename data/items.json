@@ -1,10 +1,118 @@
 [
   {
+    "description": "OpenCoordex is a production-grade Rust platform for enterprise multi-agent orchestration, combining multimodal input, Re",
+    "id": "wqswing/OpenCoordex",
+    "language": "Rust",
+    "name": "wqswing/OpenCoordex",
+    "stars": 5,
+    "updated_at": "2026-06-18T15:12:31Z",
+    "url": "https://github.com/wqswing/OpenCoordex"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 23086,
+    "updated_at": "2026-06-18T15:11:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 7,
+    "updated_at": "2026-06-18T15:11:03Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17829,
+    "updated_at": "2026-06-18T15:09:58Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 2,
+    "updated_at": "2026-06-18T15:08:12Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
+    "id": "Kuonirad/MCOP-Framework-2.0",
+    "language": "TypeScript",
+    "name": "Kuonirad/MCOP-Framework-2.0",
+    "stars": 2,
+    "updated_at": "2026-06-18T15:06:11Z",
+    "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
+  },
+  {
+    "description": "A personal AI Agent that runs on your machine\u2014builds tools, searches files, automates tasks, and learns from its mistake",
+    "id": "pardnchiu/Agenvoy",
+    "language": "Go",
+    "name": "pardnchiu/Agenvoy",
+    "stars": 215,
+    "updated_at": "2026-06-18T15:05:13Z",
+    "url": "https://github.com/pardnchiu/Agenvoy"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 8,
+    "updated_at": "2026-06-18T15:04:40Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-18T15:10:44Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-18T15:08:46Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T15:00:34Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1206,
+    "updated_at": "2026-06-18T15:00:32Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3723,
+    "stars": 3726,
     "updated_at": "2026-06-18T14:57:22Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -23,7 +131,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6398,
-    "updated_at": "2026-06-18T14:54:23Z",
+    "updated_at": "2026-06-18T15:14:03Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -41,7 +149,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11447,
-    "updated_at": "2026-06-18T14:52:51Z",
+    "updated_at": "2026-06-18T15:13:19Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -50,17 +158,8 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 15,
-    "updated_at": "2026-06-18T14:52:50Z",
+    "updated_at": "2026-06-18T15:15:29Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "OpenCoordex is a production-grade Rust platform for enterprise multi-agent orchestration, combining multimodal input, Re",
-    "id": "wqswing/OpenCoordex",
-    "language": "Rust",
-    "name": "wqswing/OpenCoordex",
-    "stars": 5,
-    "updated_at": "2026-06-18T14:52:09Z",
-    "url": "https://github.com/wqswing/OpenCoordex"
   },
   {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
@@ -68,7 +167,7 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 18,
-    "updated_at": "2026-06-18T14:51:35Z",
+    "updated_at": "2026-06-18T15:15:07Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -81,30 +180,12 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T14:45:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23085,
-    "updated_at": "2026-06-18T14:41:43Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-18T14:50:08Z",
+    "updated_at": "2026-06-18T15:09:13Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -117,15 +198,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-18T14:44:18Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -133,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T14:41:18Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-18T14:56:01Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
@@ -162,15 +225,6 @@
     "url": "https://github.com/yomorun/yomo"
   },
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-18T14:58:09Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
     "id": "Dream-Pixels-Forge/memorius",
     "language": "Python",
@@ -189,21 +243,12 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17829,
-    "updated_at": "2026-06-18T14:29:40Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
     "id": "AgentsKit-io/agentskit",
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 11,
-    "updated_at": "2026-06-18T14:57:04Z",
+    "updated_at": "2026-06-18T15:13:24Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -268,15 +313,6 @@
     "stars": 525,
     "updated_at": "2026-06-18T13:48:27Z",
     "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1206,
-    "updated_at": "2026-06-18T15:00:31Z",
-    "url": "https://github.com/inkeep/agents"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T12:19:37Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 10,
-    "updated_at": "2026-06-18T12:15:45Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
-  },
-  {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 4,
-    "updated_at": "2026-06-18T11:58:12Z",
-    "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
-    "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 100,
-    "updated_at": "2026-06-18T14:50:24Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-18T12:34:15Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   }
 ]
