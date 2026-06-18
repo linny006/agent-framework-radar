@@ -1,12 +1,57 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3680,
+    "updated_at": "2026-06-18T11:15:10Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Next Generation Agent Core / \u6b21\u4e16\u4ee3Agent\u6838\u5fc3",
+    "id": "AmritaBot/AmritaCore",
+    "language": "Python",
+    "name": "AmritaBot/AmritaCore",
+    "stars": 9,
+    "updated_at": "2026-06-18T11:12:56Z",
+    "url": "https://github.com/AmritaBot/AmritaCore"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-18T11:10:57Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1398,
+    "updated_at": "2026-06-18T11:08:52Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 960,
-    "updated_at": "2026-06-18T10:58:41Z",
+    "updated_at": "2026-06-18T11:07:51Z",
     "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T11:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -36,24 +81,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T10:53:11Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3674,
-    "updated_at": "2026-06-18T10:50:47Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-06-18T10:53:55Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. ",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1397,
-    "updated_at": "2026-06-18T10:44:49Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
   },
   {
     "description": "Cross-language AI Agent orchestration - Python FastAPI LLM core + Java Spring Boot admin.",
@@ -86,7 +104,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-18T10:37:37Z",
+    "updated_at": "2026-06-18T11:13:07Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "BrettMGoughWork/vai-core",
     "stars": 3,
-    "updated_at": "2026-06-18T10:33:48Z",
+    "updated_at": "2026-06-18T11:12:07Z",
     "url": "https://github.com/BrettMGoughWork/vai-core"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 5,
     "updated_at": "2026-06-18T09:41:12Z",
     "url": "https://github.com/bzcsk2/deepreef"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-18T10:18:45Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
@@ -342,6 +351,15 @@
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6194,
+    "updated_at": "2026-06-18T08:01:22Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
     "id": "iflytek/skillhub",
     "language": "Java",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-18T07:15:23Z",
     "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-18T07:02:30Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
-    "id": "morning-verlu/KAI",
-    "language": "Kotlin",
-    "name": "morning-verlu/KAI",
-    "stars": 0,
-    "updated_at": "2026-06-18T07:00:35Z",
-    "url": "https://github.com/morning-verlu/KAI"
   }
 ]
