@@ -1,12 +1,66 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3601,
+    "updated_at": "2026-06-18T06:10:50Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-18T06:08:03Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
+    "id": "markl-a/phantom-secops",
+    "language": "Python",
+    "name": "markl-a/phantom-secops",
+    "stars": 0,
+    "updated_at": "2026-06-18T06:06:49Z",
+    "url": "https://github.com/markl-a/phantom-secops"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-18T06:06:30Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 68,
-    "updated_at": "2026-06-18T05:58:29Z",
+    "updated_at": "2026-06-18T06:02:14Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 15,
+    "updated_at": "2026-06-18T06:00:42Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T06:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T05:54:58Z",
     "url": "https://github.com/smixs/eve-assistant"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3599,
-    "updated_at": "2026-06-18T05:59:09Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -67,7 +112,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11435,
+    "stars": 11436,
     "updated_at": "2026-06-18T05:48:00Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -81,15 +126,6 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T05:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
     "id": "inkeep/agents",
     "language": "TypeScript",
@@ -99,24 +135,6 @@
     "url": "https://github.com/inkeep/agents"
   },
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-18T05:59:08Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 15,
-    "updated_at": "2026-06-18T05:36:20Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
     "id": "agentlas-ai/Hephaestus",
     "language": "Python",
@@ -124,15 +142,6 @@
     "stars": 74,
     "updated_at": "2026-06-18T05:33:54Z",
     "url": "https://github.com/agentlas-ai/Hephaestus"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-18T05:20:35Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -158,7 +167,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4684,
-    "updated_at": "2026-06-18T04:58:31Z",
+    "updated_at": "2026-06-18T06:15:28Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -274,7 +283,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4388,
+    "stars": 4389,
     "updated_at": "2026-06-18T03:46:35Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -301,7 +310,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22984,
+    "stars": 22989,
     "updated_at": "2026-06-18T03:36:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -313,15 +322,6 @@
     "stars": 88,
     "updated_at": "2026-06-18T03:32:21Z",
     "url": "https://github.com/linora-u/AgentLoom"
-  },
-  {
-    "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
-    "id": "markl-a/phantom-secops",
-    "language": "Python",
-    "name": "markl-a/phantom-secops",
-    "stars": 0,
-    "updated_at": "2026-06-18T03:24:02Z",
-    "url": "https://github.com/markl-a/phantom-secops"
   },
   {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
@@ -382,7 +382,7 @@
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 14317,
+    "stars": 14318,
     "updated_at": "2026-06-18T02:51:07Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
@@ -445,7 +445,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 3505,
+    "stars": 3506,
     "updated_at": "2026-06-18T01:43:48Z",
     "url": "https://github.com/iflytek/skillhub"
   }
