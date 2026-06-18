@@ -1,12 +1,66 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-18T06:25:47Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 73,
+    "updated_at": "2026-06-18T06:24:31Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-18T06:23:37Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3601,
-    "updated_at": "2026-06-18T06:10:50Z",
+    "stars": 3602,
+    "updated_at": "2026-06-18T06:23:04Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Universal AGI Agent Framework \u2014 5-layer cognitive architecture with meta-cognition, 3-tier memory, and knowledge orchest",
+    "id": "tsingxuanhan/agent4science",
+    "language": "Python",
+    "name": "tsingxuanhan/agent4science",
+    "stars": 0,
+    "updated_at": "2026-06-18T06:19:09Z",
+    "url": "https://github.com/tsingxuanhan/agent4science"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T06:15:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4684,
+    "updated_at": "2026-06-18T06:24:23Z",
+    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
@@ -27,15 +81,6 @@
     "url": "https://github.com/markl-a/phantom-secops"
   },
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-18T06:06:30Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -52,15 +97,6 @@
     "stars": 15,
     "updated_at": "2026-06-18T06:00:42Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T06:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
@@ -97,15 +133,6 @@
     "stars": 11,
     "updated_at": "2026-06-18T05:49:40Z",
     "url": "https://github.com/Threat-Vector-Security/guardian-agent"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-18T05:58:49Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -160,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T05:02:27Z",
     "url": "https://github.com/phenomenoner/agent-harness-core"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4684,
-    "updated_at": "2026-06-18T06:15:28Z",
-    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "A 7\u00d76 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified eng",
@@ -283,7 +301,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4389,
+    "stars": 4390,
     "updated_at": "2026-06-18T03:46:35Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -293,7 +311,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 4,
-    "updated_at": "2026-06-18T05:58:30Z",
+    "updated_at": "2026-06-18T06:20:16Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -310,7 +328,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 22989,
+    "stars": 22991,
     "updated_at": "2026-06-18T03:36:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -322,15 +340,6 @@
     "stars": 88,
     "updated_at": "2026-06-18T03:32:21Z",
     "url": "https://github.com/linora-u/AgentLoom"
-  },
-  {
-    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
-    "id": "sandydasari/openacme",
-    "language": "TypeScript",
-    "name": "sandydasari/openacme",
-    "stars": 73,
-    "updated_at": "2026-06-18T03:20:38Z",
-    "url": "https://github.com/sandydasari/openacme"
   },
   {
     "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "AetherraLabs/Aetherra",
     "stars": 8,
-    "updated_at": "2026-06-18T05:12:44Z",
+    "updated_at": "2026-06-18T06:26:13Z",
     "url": "https://github.com/AetherraLabs/Aetherra"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T02:19:35Z",
     "url": "https://github.com/ellmos-ai/swarm-ai"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 3506,
-    "updated_at": "2026-06-18T01:43:48Z",
-    "url": "https://github.com/iflytek/skillhub"
   }
 ]
