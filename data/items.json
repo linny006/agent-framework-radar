@@ -1,5 +1,32 @@
 [
   {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 8,
+    "updated_at": "2026-06-18T12:13:10Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3688,
+    "updated_at": "2026-06-18T12:09:49Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T12:00:34Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
     "id": "JohnnyFiv3r/Core-Memory",
     "language": "Python",
@@ -16,15 +43,6 @@
     "stars": 4,
     "updated_at": "2026-06-18T11:58:12Z",
     "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3683,
-    "updated_at": "2026-06-18T12:00:04Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
@@ -50,7 +68,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-18T11:51:50Z",
+    "updated_at": "2026-06-18T12:13:37Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -72,15 +90,6 @@
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T11:45:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Typed, model-agnostic LLM agents in Swift \u2014 a pydantic-ai port built on Apple FoundationModels. Anthropic Claude, OpenAI",
     "id": "f3xp/swift-agent-sdk",
     "language": "Swift",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-18T11:44:08Z",
+    "updated_at": "2026-06-18T12:12:50Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -130,7 +139,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11442,
+    "stars": 11443,
     "updated_at": "2026-06-18T11:41:26Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -148,7 +157,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 962,
+    "stars": 963,
     "updated_at": "2026-06-18T11:34:17Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "BrettMGoughWork/vai-core",
     "stars": 3,
-    "updated_at": "2026-06-18T11:59:48Z",
+    "updated_at": "2026-06-18T12:07:39Z",
     "url": "https://github.com/BrettMGoughWork/vai-core"
   },
   {
@@ -295,15 +304,6 @@
     "stars": 8,
     "updated_at": "2026-06-18T11:49:06Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "An agent runtime that truly has experience.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 8,
-    "updated_at": "2026-06-18T09:19:41Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
