@@ -1,30 +1,48 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3878,
+    "updated_at": "2026-06-19T08:30:12Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 971,
+    "updated_at": "2026-06-19T08:27:55Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
+    "id": "w8123/EnterpriseAgentFramework",
+    "language": "Java",
+    "name": "w8123/EnterpriseAgentFramework",
+    "stars": 314,
+    "updated_at": "2026-06-19T08:24:42Z",
+    "url": "https://github.com/w8123/EnterpriseAgentFramework"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-19T08:12:05Z",
+    "updated_at": "2026-06-19T08:21:51Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3877,
-    "updated_at": "2026-06-19T08:14:50Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T08:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 581,
+    "updated_at": "2026-06-19T08:21:45Z",
+    "url": "https://github.com/framerslab/agentos"
   },
   {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
@@ -32,8 +50,17 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-19T08:14:10Z",
+    "updated_at": "2026-06-19T08:16:51Z",
     "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T08:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
@@ -52,15 +79,6 @@
     "stars": 8,
     "updated_at": "2026-06-19T07:52:46Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 970,
-    "updated_at": "2026-06-19T07:45:59Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "",
@@ -202,7 +220,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11469,
+    "stars": 11470,
     "updated_at": "2026-06-19T06:28:33Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-19T03:13:28Z",
     "url": "https://github.com/sparckix/cognitive-firm"
-  },
-  {
-    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
-    "id": "sandydasari/openacme",
-    "language": "TypeScript",
-    "name": "sandydasari/openacme",
-    "stars": 73,
-    "updated_at": "2026-06-19T02:43:45Z",
-    "url": "https://github.com/sandydasari/openacme"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 11,
-    "updated_at": "2026-06-19T03:33:36Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   }
 ]
