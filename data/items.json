@@ -1,12 +1,39 @@
 [
   {
+    "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
+    "id": "thetonymaster/normandy",
+    "language": "Elixir",
+    "name": "thetonymaster/normandy",
+    "stars": 0,
+    "updated_at": "2026-06-19T20:26:07Z",
+    "url": "https://github.com/thetonymaster/normandy"
+  },
+  {
     "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
     "id": "Studnicky/Dagonizer",
     "language": "TypeScript",
     "name": "Studnicky/Dagonizer",
     "stars": 3,
-    "updated_at": "2026-06-19T20:14:41Z",
+    "updated_at": "2026-06-19T20:25:21Z",
     "url": "https://github.com/Studnicky/Dagonizer"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-19T20:30:04Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T20:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 246,
-    "updated_at": "2026-06-19T20:09:10Z",
+    "updated_at": "2026-06-19T20:26:32Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -90,21 +117,12 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T20:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
     "id": "lightfastai/lightfast",
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-19T19:59:31Z",
+    "updated_at": "2026-06-19T20:27:58Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -310,7 +328,7 @@
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6406,
+    "stars": 6407,
     "updated_at": "2026-06-19T18:32:15Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
@@ -340,15 +358,6 @@
     "stars": 14331,
     "updated_at": "2026-06-19T18:07:36Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
-    "id": "thetonymaster/normandy",
-    "language": "Elixir",
-    "name": "thetonymaster/normandy",
-    "stars": 0,
-    "updated_at": "2026-06-19T20:11:35Z",
-    "url": "https://github.com/thetonymaster/normandy"
   },
   {
     "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
@@ -439,14 +448,5 @@
     "stars": 18,
     "updated_at": "2026-06-19T17:14:31Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 534,
-    "updated_at": "2026-06-19T17:04:34Z",
-    "url": "https://github.com/aaronjmars/aeon"
   }
 ]
