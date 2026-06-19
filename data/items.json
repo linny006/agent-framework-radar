@@ -1,5 +1,104 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3834,
+    "updated_at": "2026-06-19T05:29:55Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-19T05:29:28Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "GitHub AI-Super-Team for making agent teams with high-quality skills",
+    "id": "aAAaqwq/AGI-Super-Team",
+    "language": "Python",
+    "name": "aAAaqwq/AGI-Super-Team",
+    "stars": 71,
+    "updated_at": "2026-06-19T05:27:35Z",
+    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-19T05:25:57Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Cross-language AI Agent orchestration - Python FastAPI LLM core + Java Spring Boot admin.",
+    "id": "JING04-PRODUCER/agent-orchestrator",
+    "language": "Python",
+    "name": "JING04-PRODUCER/agent-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-06-19T05:25:53Z",
+    "url": "https://github.com/JING04-PRODUCER/agent-orchestrator"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 16,
+    "updated_at": "2026-06-19T05:25:10Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Testable skill memory for AI agents: SKILL.md, .memory.md, regression tests, and self-refinement.",
+    "id": "Yomiracle/agent-skill-system",
+    "language": "Python",
+    "name": "Yomiracle/agent-skill-system",
+    "stars": 1,
+    "updated_at": "2026-06-19T05:25:07Z",
+    "url": "https://github.com/Yomiracle/agent-skill-system"
+  },
+  {
+    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
+    "id": "akyourowngames/friday",
+    "language": "Python",
+    "name": "akyourowngames/friday",
+    "stars": 0,
+    "updated_at": "2026-06-19T05:22:50Z",
+    "url": "https://github.com/akyourowngames/friday"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-19T05:18:43Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\u2694 One catalog to rule them all \u2014 10,888+ agentic AI skills, agents, and rules compiled from 102+ GitHub repos across 13 ",
+    "id": "Bilal140202/the-lord-of-the-skills",
+    "language": "Python",
+    "name": "Bilal140202/the-lord-of-the-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T05:16:57Z",
+    "url": "https://github.com/Bilal140202/the-lord-of-the-skills"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T05:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
     "id": "lightfastai/lightfast",
     "language": "TypeScript",
@@ -7,24 +106,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T05:13:31Z",
     "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3830,
-    "updated_at": "2026-06-19T05:13:25Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "\u2694 One catalog to rule them all \u2014 10,888+ agentic AI skills, agents, and rules compiled from 102+ GitHub repos across 13 ",
-    "id": "Bilal140202/the-lord-of-the-skills",
-    "language": "\u2014",
-    "name": "Bilal140202/the-lord-of-the-skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:12:52Z",
-    "url": "https://github.com/Bilal140202/the-lord-of-the-skills"
   },
   {
     "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
@@ -41,26 +122,8 @@
     "language": "C#",
     "name": "filipw/AgentGuard",
     "stars": 12,
-    "updated_at": "2026-06-19T05:03:09Z",
+    "updated_at": "2026-06-19T05:25:54Z",
     "url": "https://github.com/filipw/AgentGuard"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T05:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-19T04:52:38Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
@@ -162,15 +225,6 @@
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 16,
-    "updated_at": "2026-06-19T03:29:22Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
     "id": "markl-a/phantom-secops",
     "language": "Python",
@@ -194,7 +248,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 68,
-    "updated_at": "2026-06-19T05:14:08Z",
+    "updated_at": "2026-06-19T05:26:34Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-19T02:45:18Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
-    "id": "w8123/EnterpriseAgentFramework",
-    "language": "Java",
-    "name": "w8123/EnterpriseAgentFramework",
-    "stars": 314,
-    "updated_at": "2026-06-19T00:54:56Z",
-    "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
-    "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
-    "id": "zachmeador/shrimpy",
-    "language": "TypeScript",
-    "name": "zachmeador/shrimpy",
-    "stars": 1,
-    "updated_at": "2026-06-19T00:52:54Z",
-    "url": "https://github.com/zachmeador/shrimpy"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-19T00:51:34Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 7,
-    "updated_at": "2026-06-19T00:45:48Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 968,
-    "updated_at": "2026-06-19T00:35:53Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-19T01:36:51Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   }
 ]
