@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 02:13 UTC
+> ⏰ Last updated: 2026-06-19 02:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-06-19 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 2 | [yun520-1/claude-clarity](https://github.com/yun520-1/claude-clarity) | 1 | — | 2026-06-19 | Clarity/心虫 — AI认知与自愈引擎。存在感知、真善美评分、三层记忆、Q-learning自愈、梦境整合、反事实推理 |
-| 3 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 169 | Python | 2026-06-19 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
-| 4 | [lightfastai/lightfast](https://github.com/lightfastai/lightfast) | 2 | TypeScript | 2026-06-19 | Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation — orchestrated  |
-| 5 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 3811 | Python | 2026-06-19 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 6 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 9 | TypeScript | 2026-06-19 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
-| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-19 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 3811 | Python | 2026-06-19 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-19 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-06-19 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 4 | [yun520-1/claude-clarity](https://github.com/yun520-1/claude-clarity) | 1 | — | 2026-06-19 | Clarity/心虫 — AI认知与自愈引擎。存在感知、真善美评分、三层记忆、Q-learning自愈、梦境整合、反事实推理 |
+| 5 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 169 | Python | 2026-06-19 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
+| 6 | [lightfastai/lightfast](https://github.com/lightfastai/lightfast) | 2 | TypeScript | 2026-06-19 | Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation — orchestrated  |
+| 7 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 9 | TypeScript | 2026-06-19 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
 | 8 | [framerslab/agentos](https://github.com/framerslab/agentos) | 581 | TypeScript | 2026-06-19 | TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers. |
 | 9 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-19 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
 | 10 | [jkraybill/gordo-roundtable](https://github.com/jkraybill/gordo-roundtable) | 1 | TypeScript | 2026-06-19 | Multi-model adversarial review for catching shared blind spots |
