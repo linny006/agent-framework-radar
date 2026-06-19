@@ -1,12 +1,30 @@
 [
   {
-    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
-    "id": "Jovancoding/Network-AI",
+    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
+    "id": "guilingzhouyi-creator/NOMOS",
+    "language": "Python",
+    "name": "guilingzhouyi-creator/NOMOS",
+    "stars": 1,
+    "updated_at": "2026-06-19T16:58:32Z",
+    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
     "language": "TypeScript",
-    "name": "Jovancoding/Network-AI",
-    "stars": 63,
-    "updated_at": "2026-06-19T16:44:01Z",
-    "url": "https://github.com/Jovancoding/Network-AI"
+    "name": "aaronjmars/aeon",
+    "stars": 534,
+    "updated_at": "2026-06-19T16:58:29Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 8,
+    "updated_at": "2026-06-19T16:52:26Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
@@ -14,26 +32,44 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 20,
-    "updated_at": "2026-06-19T16:41:06Z",
+    "updated_at": "2026-06-19T16:51:05Z",
     "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Agent SDK, CLI, Platform in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-06-19T16:48:34Z",
+    "url": "https://github.com/Wh1isper/starweaver"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23204,
-    "updated_at": "2026-06-19T16:40:55Z",
+    "stars": 23205,
+    "updated_at": "2026-06-19T16:46:18Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
-    "id": "guilingzhouyi-creator/NOMOS",
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
     "language": "Python",
-    "name": "guilingzhouyi-creator/NOMOS",
+    "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-19T16:40:48Z",
-    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
+    "updated_at": "2026-06-19T16:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
+    "id": "Jovancoding/Network-AI",
+    "language": "TypeScript",
+    "name": "Jovancoding/Network-AI",
+    "stars": 63,
+    "updated_at": "2026-06-19T16:44:01Z",
+    "url": "https://github.com/Jovancoding/Network-AI"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -50,7 +86,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-19T16:39:33Z",
+    "updated_at": "2026-06-19T16:56:50Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -63,13 +99,13 @@
     "url": "https://github.com/fahadyaqub/agents-workbench"
   },
   {
-    "description": "Agent SDK, CLI, Platform in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 6,
-    "updated_at": "2026-06-19T16:37:58Z",
-    "url": "https://github.com/Wh1isper/starweaver"
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3984,
+    "updated_at": "2026-06-19T16:38:51Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
@@ -79,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T16:37:54Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3981,
-    "updated_at": "2026-06-19T16:38:51Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T16:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Cross-language AI Agent orchestration - Python FastAPI LLM core + Java Spring Boot admin.",
@@ -130,7 +148,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11473,
+    "stars": 11474,
     "updated_at": "2026-06-19T16:19:10Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-19T15:37:33Z",
+    "updated_at": "2026-06-19T16:59:36Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -306,15 +324,6 @@
     "url": "https://github.com/shisa-ai/shisad"
   },
   {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 534,
-    "updated_at": "2026-06-19T14:41:47Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
     "description": "Turn any skill into a standalone, runnable AI Agent",
     "id": "agenthatch/agenthatch",
     "language": "Python",
@@ -349,15 +358,6 @@
     "stars": 44,
     "updated_at": "2026-06-19T14:38:44Z",
     "url": "https://github.com/HCF-STUDIOS/openhermit"
-  },
-  {
-    "description": "An agent runtime that truly has experience.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 8,
-    "updated_at": "2026-06-19T14:35:27Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
