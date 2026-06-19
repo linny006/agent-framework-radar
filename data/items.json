@@ -1,12 +1,66 @@
 [
   {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 581,
+    "updated_at": "2026-06-19T01:43:51Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3805,
-    "updated_at": "2026-06-19T01:28:57Z",
+    "stars": 3808,
+    "updated_at": "2026-06-19T01:43:52Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AI-guided onboarding for human-AI collaboration projects",
+    "id": "jkraybill/gordo-forge",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-forge",
+    "stars": 3,
+    "updated_at": "2026-06-19T01:37:34Z",
+    "url": "https://github.com/jkraybill/gordo-forge"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-19T01:39:59Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-19T01:31:31Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-19T01:31:01Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-model adversarial review for catching shared blind spots",
@@ -27,24 +81,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "AI-guided onboarding for human-AI collaboration projects",
-    "id": "jkraybill/gordo-forge",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-forge",
-    "stars": 3,
-    "updated_at": "2026-06-19T01:17:54Z",
-    "url": "https://github.com/jkraybill/gordo-forge"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T01:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
     "id": "Kortecx/kortecx",
     "language": "Rust",
@@ -52,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-06-19T01:14:25Z",
     "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-19T01:24:31Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
@@ -88,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T01:02:27Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-19T01:28:11Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-19T01:27:08Z",
+    "updated_at": "2026-06-19T01:36:51Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -196,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T00:30:35Z",
     "url": "https://github.com/tripledoublev/v100"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "HTML",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-06-19T00:30:30Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
     "description": "\ud83e\udd16 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
@@ -256,7 +265,7 @@
     "id": "rekursiv-ai/sagent",
     "language": "Python",
     "name": "rekursiv-ai/sagent",
-    "stars": 15,
+    "stars": 16,
     "updated_at": "2026-06-19T00:09:17Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 243,
-    "updated_at": "2026-06-19T01:27:37Z",
+    "updated_at": "2026-06-19T01:40:37Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 4402,
-    "updated_at": "2026-06-19T01:29:24Z",
+    "updated_at": "2026-06-19T01:31:44Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4690,
     "updated_at": "2026-06-18T21:27:20Z",
     "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1206,
-    "updated_at": "2026-06-19T01:13:13Z",
-    "url": "https://github.com/inkeep/agents"
   }
 ]
