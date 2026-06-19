@@ -5,26 +5,17 @@
     "language": "Python",
     "name": "Mavis2103/skill-context-manager",
     "stars": 0,
-    "updated_at": "2026-06-19T03:42:19Z",
+    "updated_at": "2026-06-19T04:00:18Z",
     "url": "https://github.com/Mavis2103/skill-context-manager"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
     "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-19T03:42:16Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3819,
-    "updated_at": "2026-06-19T03:42:11Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "xuiltul/animaworks",
+    "stars": 241,
+    "updated_at": "2026-06-19T04:00:09Z",
+    "url": "https://github.com/xuiltul/animaworks"
   },
   {
     "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
@@ -32,26 +23,8 @@
     "language": "Python",
     "name": "Krako-Labs/KORA",
     "stars": 21,
-    "updated_at": "2026-06-19T03:39:23Z",
+    "updated_at": "2026-06-19T03:58:41Z",
     "url": "https://github.com/Krako-Labs/KORA"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-19T03:44:09Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6200,
-    "updated_at": "2026-06-19T03:40:55Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
@@ -59,8 +32,53 @@
     "language": "Python",
     "name": "neural-agi/Qwen3-Coder-Next",
     "stars": 0,
-    "updated_at": "2026-06-19T03:32:03Z",
+    "updated_at": "2026-06-19T03:58:06Z",
     "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
+  },
+  {
+    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
+    "id": "0bserver07/chimera",
+    "language": "Python",
+    "name": "0bserver07/chimera",
+    "stars": 1,
+    "updated_at": "2026-06-19T03:56:08Z",
+    "url": "https://github.com/0bserver07/chimera"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-19T03:55:42Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
+    "id": "lml2468/xclaw",
+    "language": "Go",
+    "name": "lml2468/xclaw",
+    "stars": 0,
+    "updated_at": "2026-06-19T03:54:39Z",
+    "url": "https://github.com/lml2468/xclaw"
+  },
+  {
+    "description": "Self-hostable AI agent runtime \u2014 single Rust binary, Tailscale cluster, runs across Mac/Linux/Windows/Android/iOS withou",
+    "id": "markl-a/phantom-mesh",
+    "language": "Rust",
+    "name": "markl-a/phantom-mesh",
+    "stars": 4,
+    "updated_at": "2026-06-19T03:53:08Z",
+    "url": "https://github.com/markl-a/phantom-mesh"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-19T03:59:04Z",
+    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -68,8 +86,35 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-19T03:30:24Z",
+    "updated_at": "2026-06-19T03:45:24Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A self-evolving, AI-native language and platform for intelligent agents and autonomous software.",
+    "id": "AetherraLabs/Aetherra",
+    "language": "Python",
+    "name": "AetherraLabs/Aetherra",
+    "stars": 8,
+    "updated_at": "2026-06-19T03:45:23Z",
+    "url": "https://github.com/AetherraLabs/Aetherra"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3819,
+    "updated_at": "2026-06-19T04:00:19Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6200,
+    "updated_at": "2026-06-19T03:56:13Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
@@ -106,24 +151,6 @@
     "stars": 6,
     "updated_at": "2026-06-19T03:13:28Z",
     "url": "https://github.com/sparckix/cognitive-firm"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 241,
-    "updated_at": "2026-06-19T03:12:21Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
-    "id": "lml2468/xclaw",
-    "language": "Go",
-    "name": "lml2468/xclaw",
-    "stars": 0,
-    "updated_at": "2026-06-19T03:05:04Z",
-    "url": "https://github.com/lml2468/xclaw"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T00:18:42Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-19T00:18:39Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 10,
-    "updated_at": "2026-06-19T00:07:47Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
-  },
-  {
-    "description": "AI agent that drives Unreal Engine 5 end to end \u2014 187 tools across 33 categories, native C++ MCP bridge, full AAA animat",
-    "id": "itsribbZ/Bionics",
-    "language": "Python",
-    "name": "itsribbZ/Bionics",
-    "stars": 0,
-    "updated_at": "2026-06-19T00:02:21Z",
-    "url": "https://github.com/itsribbZ/Bionics"
   }
 ]
