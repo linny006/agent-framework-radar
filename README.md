@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 10:45 UTC
+> ⏰ Last updated: 2026-06-19 11:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6403 | TypeScript | 2026-06-19 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration. |
-| 2 | [farhanic017/agent-swarm](https://github.com/farhanic017/agent-swarm) | 2 | Python | 2026-06-19 | Open-source Python framework for multi-agent AI orchestration, coding-agent swarms, council voting, provider routing, br |
-| 3 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 3909 | Python | 2026-06-19 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 4 | [markl-a/phantom-mesh](https://github.com/markl-a/phantom-mesh) | 4 | Rust | 2026-06-19 | Self-hostable AI agent runtime — single Rust binary, Tailscale cluster, runs across Mac/Linux/Windows/Android/iOS withou |
-| 5 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 11473 | Python | 2026-06-19 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
-| 6 | [lightfastai/lightfast](https://github.com/lightfastai/lightfast) | 2 | TypeScript | 2026-06-19 | Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation — orchestrated  |
-| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-19 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 8 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 972 | TypeScript | 2026-06-19 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
-| 9 | [dscope-io/dscope-camel-agent](https://github.com/dscope-io/dscope-camel-agent) | 1 | Java | 2026-06-19 | Enterprise-ready Apache Camel agent framework for blueprint-defined AI workflows, tool orchestration, Spring AI provider |
-| 10 | [guilingzhouyi-creator/NOMOS](https://github.com/guilingzhouyi-creator/NOMOS) | 1 | Python | 2026-06-19 | A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate. |
-| 11 | [KbWen/agentic-os](https://github.com/KbWen/agentic-os) | 20 | Python | 2026-06-19 | Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w |
-| 12 | [Tanush1912/ouroboros](https://github.com/Tanush1912/ouroboros) | 3 | Python | 2026-06-19 | Ouroboros: Agent first software engineering infrastructure. Autonomous AI agents plan, implement, test, review, and merg |
-| 13 | [Mavis2103/skill-context-manager](https://github.com/Mavis2103/skill-context-manager) | 0 | Python | 2026-06-19 | Context-aware skill selection for AI agents — solves the 'too many skills' problem. Reduces skill context tokens by 85-9 |
-| 14 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-06-19 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 15 | [cortexkit/aft](https://github.com/cortexkit/aft) | 163 | Rust | 2026-06-19 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 16 | [akyourowngames/friday](https://github.com/akyourowngames/friday) | 0 | Python | 2026-06-19 | Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/ |
-| 17 | [phariyawitjiap-aeternix/AEGIS-Team](https://github.com/phariyawitjiap-aeternix/AEGIS-Team) | 0 | Shell | 2026-06-19 | 🛡️ AEGIS v15.0 — AI Agent Team Framework for Claude Code \| 11 Marvel Personas • 37 Skills • 16 Commands • 14 Hooks • 60+ |
-| 18 | [ggui-ai/ggui](https://github.com/ggui-ai/ggui) | 33 | TypeScript | 2026-06-19 | The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP. |
-| 19 | [firatcand/roster](https://github.com/firatcand/roster) | 13 | TypeScript | 2026-06-19 | A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops — with plans, pro |
-| 20 | [w8123/EnterpriseAgentFramework](https://github.com/w8123/EnterpriseAgentFramework) | 314 | Java | 2026-06-19 | Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen |
+| 1 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 972 | TypeScript | 2026-06-19 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
+| 2 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 3911 | Python | 2026-06-19 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 3 | [w8123/EnterpriseAgentFramework](https://github.com/w8123/EnterpriseAgentFramework) | 314 | Java | 2026-06-19 | Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen |
+| 4 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-19 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 5 | [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6403 | TypeScript | 2026-06-19 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration. |
+| 6 | [farhanic017/agent-swarm](https://github.com/farhanic017/agent-swarm) | 2 | Python | 2026-06-19 | Open-source Python framework for multi-agent AI orchestration, coding-agent swarms, council voting, provider routing, br |
+| 7 | [markl-a/phantom-mesh](https://github.com/markl-a/phantom-mesh) | 4 | Rust | 2026-06-19 | Self-hostable AI agent runtime — single Rust binary, Tailscale cluster, runs across Mac/Linux/Windows/Android/iOS withou |
+| 8 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 11473 | Python | 2026-06-19 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
+| 9 | [lightfastai/lightfast](https://github.com/lightfastai/lightfast) | 2 | TypeScript | 2026-06-19 | Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation — orchestrated  |
+| 10 | [dscope-io/dscope-camel-agent](https://github.com/dscope-io/dscope-camel-agent) | 1 | Java | 2026-06-19 | Enterprise-ready Apache Camel agent framework for blueprint-defined AI workflows, tool orchestration, Spring AI provider |
+| 11 | [guilingzhouyi-creator/NOMOS](https://github.com/guilingzhouyi-creator/NOMOS) | 1 | Python | 2026-06-19 | A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate. |
+| 12 | [KbWen/agentic-os](https://github.com/KbWen/agentic-os) | 20 | Python | 2026-06-19 | Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w |
+| 13 | [Tanush1912/ouroboros](https://github.com/Tanush1912/ouroboros) | 3 | Python | 2026-06-19 | Ouroboros: Agent first software engineering infrastructure. Autonomous AI agents plan, implement, test, review, and merg |
+| 14 | [Mavis2103/skill-context-manager](https://github.com/Mavis2103/skill-context-manager) | 0 | Python | 2026-06-19 | Context-aware skill selection for AI agents — solves the 'too many skills' problem. Reduces skill context tokens by 85-9 |
+| 15 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-06-19 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 16 | [cortexkit/aft](https://github.com/cortexkit/aft) | 163 | Rust | 2026-06-19 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 17 | [akyourowngames/friday](https://github.com/akyourowngames/friday) | 0 | Python | 2026-06-19 | Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/ |
+| 18 | [phariyawitjiap-aeternix/AEGIS-Team](https://github.com/phariyawitjiap-aeternix/AEGIS-Team) | 0 | Shell | 2026-06-19 | 🛡️ AEGIS v15.0 — AI Agent Team Framework for Claude Code \| 11 Marvel Personas • 37 Skills • 16 Commands • 14 Hooks • 60+ |
+| 19 | [ggui-ai/ggui](https://github.com/ggui-ai/ggui) | 33 | TypeScript | 2026-06-19 | The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP. |
+| 20 | [firatcand/roster](https://github.com/firatcand/roster) | 13 | TypeScript | 2026-06-19 | A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops — with plans, pro |
 | 21 | [AmritaBot/AmritaCore](https://github.com/AmritaBot/AmritaCore) | 9 | Python | 2026-06-19 | Next Generation Agent Core / 次世代Agent核心 |
 | 22 | [lml2468/xclaw](https://github.com/lml2468/xclaw) | 0 | Go | 2026-06-19 | Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs — Claude first — into one normalize |
 | 23 | [agentlas-ai/Hephaestus](https://github.com/agentlas-ai/Hephaestus) | 76 | Python | 2026-06-19 | Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi |
