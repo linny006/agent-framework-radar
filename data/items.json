@@ -1,5 +1,23 @@
 [
   {
+    "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
+    "id": "ebey317/claf",
+    "language": "Python",
+    "name": "ebey317/claf",
+    "stars": 1,
+    "updated_at": "2026-06-19T11:36:36Z",
+    "url": "https://github.com/ebey317/claf"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T11:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
@@ -27,21 +45,12 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T11:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
     "id": "lightfastai/lightfast",
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-19T11:14:00Z",
+    "updated_at": "2026-06-19T11:43:00Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-19T11:23:34Z",
+    "updated_at": "2026-06-19T11:43:44Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T06:59:34Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 68,
-    "updated_at": "2026-06-19T06:14:06Z",
-    "url": "https://github.com/JKHeadley/instar"
   }
 ]
