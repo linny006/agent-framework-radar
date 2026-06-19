@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-19T23:29:02Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Model-agnostic, embeddable agent kit \u2014 verification, adaptive context, effort routing, cache-aware cost model, cross-pla",
+    "id": "Audrey-cn/universal-agent-embedding-kit",
+    "language": "Python",
+    "name": "Audrey-cn/universal-agent-embedding-kit",
+    "stars": 0,
+    "updated_at": "2026-06-19T23:28:28Z",
+    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3831,
+    "updated_at": "2026-06-19T23:25:20Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
+    "id": "amitpatole/verel",
+    "language": "Python",
+    "name": "amitpatole/verel",
+    "stars": 0,
+    "updated_at": "2026-06-19T23:24:35Z",
+    "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 11,
+    "updated_at": "2026-06-19T23:28:49Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-19T23:21:21Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-19T23:20:07Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T23:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent SDK, CLI, Platform in Rust",
     "id": "Wh1isper/starweaver",
     "language": "Rust",
@@ -9,31 +81,13 @@
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-19T23:09:07Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T23:03:11Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
-    "id": "amitpatole/verel",
-    "language": "Python",
-    "name": "amitpatole/verel",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:00:06Z",
-    "url": "https://github.com/amitpatole/verel"
+    "name": "rllm-org/rllm",
+    "stars": 5631,
+    "updated_at": "2026-06-19T23:27:04Z",
+    "url": "https://github.com/rllm-org/rllm"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -63,6 +117,15 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11482,
+    "updated_at": "2026-06-19T22:46:27Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -88,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T22:29:18Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11481,
-    "updated_at": "2026-06-19T22:46:27Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-19T21:51:12Z",
+    "updated_at": "2026-06-19T23:27:38Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -216,15 +270,6 @@
     "url": "https://github.com/osovv/vv-opencode"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-19T22:33:13Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
@@ -232,15 +277,6 @@
     "stars": 4417,
     "updated_at": "2026-06-19T22:32:16Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 11,
-    "updated_at": "2026-06-19T22:52:02Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "The control plane for AI coding agents.",
@@ -259,15 +295,6 @@
     "stars": 13,
     "updated_at": "2026-06-19T20:50:45Z",
     "url": "https://github.com/truvaagents/truva-g3"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-19T22:51:12Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 246,
-    "updated_at": "2026-06-19T23:14:03Z",
+    "updated_at": "2026-06-19T23:30:00Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -378,6 +405,15 @@
     "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
   },
   {
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 577,
+    "updated_at": "2026-06-19T19:40:41Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
     "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
     "id": "BrettMGoughWork/vai-core",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-19T19:07:25Z",
     "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "Python library for building AI agents",
-    "id": "ethereon/agentron",
-    "language": "Python",
-    "name": "ethereon/agentron",
-    "stars": 1,
-    "updated_at": "2026-06-19T18:59:36Z",
-    "url": "https://github.com/ethereon/agentron"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4044,
-    "updated_at": "2026-06-19T18:56:35Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Personal Ai Agent",
-    "id": "br3eze-code/br3eze-code",
-    "language": "JavaScript",
-    "name": "br3eze-code/br3eze-code",
-    "stars": 1,
-    "updated_at": "2026-06-19T18:56:20Z",
-    "url": "https://github.com/br3eze-code/br3eze-code"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1210,
-    "updated_at": "2026-06-19T18:47:29Z",
-    "url": "https://github.com/inkeep/agents"
   }
 ]
