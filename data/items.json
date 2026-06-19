@@ -1,5 +1,95 @@
 [
   {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 4,
+    "updated_at": "2026-06-19T01:14:25Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-19T01:13:40Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "AI-guided onboarding for human-AI collaboration projects",
+    "id": "jkraybill/gordo-forge",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-forge",
+    "stars": 3,
+    "updated_at": "2026-06-19T01:12:00Z",
+    "url": "https://github.com/jkraybill/gordo-forge"
+  },
+  {
+    "description": "Multi-model adversarial review for catching shared blind spots",
+    "id": "jkraybill/gordo-roundtable",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-roundtable",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:11:44Z",
+    "url": "https://github.com/jkraybill/gordo-roundtable"
+  },
+  {
+    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
+    "id": "sheawinkler/ContextLattice",
+    "language": "Go",
+    "name": "sheawinkler/ContextLattice",
+    "stars": 115,
+    "updated_at": "2026-06-19T01:09:17Z",
+    "url": "https://github.com/sheawinkler/ContextLattice"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3805,
+    "updated_at": "2026-06-19T01:14:13Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11459,
+    "updated_at": "2026-06-19T01:06:19Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-19T01:02:27Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-19T01:01:39Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
     "id": "ek33450505/claude-agent-team",
     "language": "Shell",
@@ -16,15 +106,6 @@
     "stars": 314,
     "updated_at": "2026-06-19T00:54:56Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-19T00:54:48Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
@@ -54,15 +135,6 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
-    "id": "sheawinkler/ContextLattice",
-    "language": "Go",
-    "name": "sheawinkler/ContextLattice",
-    "stars": 115,
-    "updated_at": "2026-06-19T00:47:57Z",
-    "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
     "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
     "id": "CarlosCaPe/octorato",
     "language": "Python",
@@ -70,42 +142,6 @@
     "stars": 7,
     "updated_at": "2026-06-19T00:45:48Z",
     "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T00:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-19T00:58:54Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3804,
-    "updated_at": "2026-06-19T01:00:10Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11459,
-    "updated_at": "2026-06-19T00:40:50Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 243,
-    "updated_at": "2026-06-19T00:53:17Z",
+    "updated_at": "2026-06-19T01:11:17Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 4402,
-    "updated_at": "2026-06-19T00:24:31Z",
+    "updated_at": "2026-06-19T01:13:57Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -382,7 +418,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17841,
+    "stars": 17842,
     "updated_at": "2026-06-18T21:32:27Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -410,43 +446,7 @@
     "language": "TypeScript",
     "name": "inkeep/agents",
     "stars": 1206,
-    "updated_at": "2026-06-18T21:26:48Z",
+    "updated_at": "2026-06-19T01:13:13Z",
     "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "Portable OpenCode workflow toolkit \u2014 6 plugins, managed agents & skills, a spec-to-code pipeline, security, and the vvoc",
-    "id": "osovv/vv-opencode",
-    "language": "TypeScript",
-    "name": "osovv/vv-opencode",
-    "stars": 6,
-    "updated_at": "2026-06-18T21:25:18Z",
-    "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6200,
-    "updated_at": "2026-06-18T22:24:44Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "An agent design team you control: 10 agents that run an inclusive design process while you direct.",
-    "id": "Owl-Listener/designpowers",
-    "language": "Shell",
-    "name": "Owl-Listener/designpowers",
-    "stars": 205,
-    "updated_at": "2026-06-18T21:14:25Z",
-    "url": "https://github.com/Owl-Listener/designpowers"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 8,
-    "updated_at": "2026-06-19T00:59:19Z",
-    "url": "https://github.com/aomi-labs/aomi"
   }
 ]
