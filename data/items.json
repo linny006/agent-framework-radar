@@ -1,30 +1,84 @@
 [
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
     "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-19T05:55:42Z",
-    "url": "https://github.com/lightfastai/lightfast"
+    "name": "JKHeadley/instar",
+    "stars": 68,
+    "updated_at": "2026-06-19T06:14:06Z",
+    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3840,
-    "updated_at": "2026-06-19T05:59:17Z",
+    "stars": 3848,
+    "updated_at": "2026-06-19T06:13:39Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
-    "id": "open-multi-agent/open-multi-agent",
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
     "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6401,
-    "updated_at": "2026-06-19T05:52:52Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-19T06:14:06Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:11:29Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
+    "id": "plaited/plaited",
+    "language": "TypeScript",
+    "name": "plaited/plaited",
+    "stars": 9,
+    "updated_at": "2026-06-19T06:07:42Z",
+    "url": "https://github.com/plaited/plaited"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-19T06:07:32Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 8,
+    "updated_at": "2026-06-19T06:06:35Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:05:49Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-19T06:05:46Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -32,8 +86,35 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 969,
-    "updated_at": "2026-06-19T05:49:52Z",
+    "updated_at": "2026-06-19T06:02:20Z",
     "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11466,
+    "updated_at": "2026-06-19T06:01:02Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T06:00:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6402,
+    "updated_at": "2026-06-19T05:52:52Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
@@ -54,15 +135,6 @@
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T05:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "GitHub AI-Super-Team for making agent teams with high-quality skills",
     "id": "aAAaqwq/AGI-Super-Team",
     "language": "Python",
@@ -70,15 +142,6 @@
     "stars": 71,
     "updated_at": "2026-06-19T05:27:35Z",
     "url": "https://github.com/aAAaqwq/AGI-Super-Team"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-19T05:44:44Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Cross-language AI Agent orchestration - Python FastAPI LLM core + Java Spring Boot admin.",
@@ -252,15 +315,6 @@
     "url": "https://github.com/sparckix/cognitive-firm"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 68,
-    "updated_at": "2026-06-19T05:26:34Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
     "id": "sandydasari/openacme",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T01:46:46Z",
     "url": "https://github.com/jkraybill/gordo-roundtable"
-  },
-  {
-    "description": "AI-guided onboarding for human-AI collaboration projects",
-    "id": "jkraybill/gordo-forge",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-forge",
-    "stars": 3,
-    "updated_at": "2026-06-19T01:46:32Z",
-    "url": "https://github.com/jkraybill/gordo-forge"
-  },
-  {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 4,
-    "updated_at": "2026-06-19T01:14:25Z",
-    "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1208,
-    "updated_at": "2026-06-19T01:13:13Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
-    "id": "sheawinkler/ContextLattice",
-    "language": "Go",
-    "name": "sheawinkler/ContextLattice",
-    "stars": 115,
-    "updated_at": "2026-06-19T01:09:17Z",
-    "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11466,
-    "updated_at": "2026-06-19T01:06:19Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-19T01:02:27Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
   }
 ]
