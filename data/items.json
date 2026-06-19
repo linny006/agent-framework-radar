@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
+    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
+    "id": "guilingzhouyi-creator/NOMOS",
     "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-19T13:13:55Z",
-    "url": "https://github.com/tya5/reyn"
+    "name": "guilingzhouyi-creator/NOMOS",
+    "stars": 1,
+    "updated_at": "2026-06-19T13:27:39Z",
+    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6204,
-    "updated_at": "2026-06-19T13:12:57Z",
+    "updated_at": "2026-06-19T13:29:12Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3943,
+    "updated_at": "2026-06-19T13:25:13Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 8,
+    "updated_at": "2026-06-19T13:18:44Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T13:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-19T13:13:55Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -72,15 +108,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3941,
-    "updated_at": "2026-06-19T13:03:04Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
     "id": "lightfastai/lightfast",
     "language": "TypeScript",
@@ -90,6 +117,15 @@
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:02:33Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
     "id": "VisionaireLabs/Visionaire",
     "language": "TypeScript",
@@ -97,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T13:02:28Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T13:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hosted AI agent runtime in Rust: run autonomous LLM agents over Telegram & Discord with durable queues, fail-closed",
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "fireflyframework/fireflyframework-agentic",
     "stars": 4,
-    "updated_at": "2026-06-19T13:15:18Z",
+    "updated_at": "2026-06-19T13:21:37Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
@@ -238,7 +265,7 @@
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6404,
+    "stars": 6405,
     "updated_at": "2026-06-19T11:23:20Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
@@ -333,15 +360,6 @@
     "url": "https://github.com/dscope-io/dscope-camel-agent"
   },
   {
-    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
-    "id": "guilingzhouyi-creator/NOMOS",
-    "language": "Python",
-    "name": "guilingzhouyi-creator/NOMOS",
-    "stars": 1,
-    "updated_at": "2026-06-19T10:18:26Z",
-    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
-  },
-  {
     "description": "Ouroboros: Agent first software engineering infrastructure. Autonomous AI agents plan, implement, test, review, and merg",
     "id": "Tanush1912/ouroboros",
     "language": "Python",
@@ -374,7 +392,7 @@
     "language": "Shell",
     "name": "phariyawitjiap-aeternix/AEGIS-Team",
     "stars": 0,
-    "updated_at": "2026-06-19T11:07:49Z",
+    "updated_at": "2026-06-19T13:25:19Z",
     "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
   },
   {
@@ -401,7 +419,7 @@
     "language": "Go",
     "name": "lml2468/xclaw",
     "stars": 0,
-    "updated_at": "2026-06-19T13:13:53Z",
+    "updated_at": "2026-06-19T13:19:57Z",
     "url": "https://github.com/lml2468/xclaw"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 8,
     "updated_at": "2026-06-19T12:41:01Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 1,
-    "updated_at": "2026-06-19T08:44:16Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Agents should execute whenever possible \u2014 open registry of reusable AI agent skills and capability definitions",
-    "id": "gfernandf/agent-skill-registry",
-    "language": "Python",
-    "name": "gfernandf/agent-skill-registry",
-    "stars": 2,
-    "updated_at": "2026-06-19T08:39:18Z",
-    "url": "https://github.com/gfernandf/agent-skill-registry"
   }
 ]
