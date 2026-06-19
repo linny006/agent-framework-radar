@@ -1,5 +1,86 @@
 [
   {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 353,
+    "updated_at": "2026-06-19T03:29:39Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 16,
+    "updated_at": "2026-06-19T03:29:22Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6200,
+    "updated_at": "2026-06-19T03:28:24Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-19T03:27:41Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Context-aware skill selection for AI agents \u2014 solves the 'too many skills' problem. Reduces skill context tokens by 85-9",
+    "id": "Mavis2103/skill-context-manager",
+    "language": "Python",
+    "name": "Mavis2103/skill-context-manager",
+    "stars": 0,
+    "updated_at": "2026-06-19T03:27:40Z",
+    "url": "https://github.com/Mavis2103/skill-context-manager"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-19T03:27:33Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
+    "id": "markl-a/phantom-secops",
+    "language": "Python",
+    "name": "markl-a/phantom-secops",
+    "stars": 0,
+    "updated_at": "2026-06-19T03:23:59Z",
+    "url": "https://github.com/markl-a/phantom-secops"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3819,
+    "updated_at": "2026-06-19T03:24:54Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T03:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Orchestrate and govern human + AI work loops with auditable receipts",
     "id": "sparckix/cognitive-firm",
     "language": "Python",
@@ -18,33 +99,6 @@
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-19T03:11:42Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-19T03:14:55Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Context-aware skill selection for AI agents \u2014 solves the 'too many skills' problem. Reduces skill context tokens by 85-9",
-    "id": "Mavis2103/skill-context-manager",
-    "language": "Python",
-    "name": "Mavis2103/skill-context-manager",
-    "stars": 0,
-    "updated_at": "2026-06-19T03:07:27Z",
-    "url": "https://github.com/Mavis2103/skill-context-manager"
-  },
-  {
     "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
     "id": "lml2468/xclaw",
     "language": "Go",
@@ -52,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T03:05:04Z",
     "url": "https://github.com/lml2468/xclaw"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3818,
-    "updated_at": "2026-06-19T03:12:48Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T03:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -378,15 +414,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 16,
-    "updated_at": "2026-06-19T00:09:17Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
     "id": "kdcube/kdcube-ai-app",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T23:30:47Z",
     "url": "https://github.com/othmastar/adam-prism"
-  },
-  {
-    "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
-    "id": "ntorga/agent-starter-kit",
-    "language": "Shell",
-    "name": "ntorga/agent-starter-kit",
-    "stars": 112,
-    "updated_at": "2026-06-18T23:26:52Z",
-    "url": "https://github.com/ntorga/agent-starter-kit"
-  },
-  {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 2,
-    "updated_at": "2026-06-18T23:26:16Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 162,
-    "updated_at": "2026-06-18T23:06:48Z",
-    "url": "https://github.com/cortexkit/aft"
   }
 ]
