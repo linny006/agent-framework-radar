@@ -1,12 +1,57 @@
 [
   {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 971,
+    "updated_at": "2026-06-19T10:29:30Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Enterprise-ready Apache Camel agent framework for blueprint-defined AI workflows, tool orchestration, Spring AI provider",
+    "id": "dscope-io/dscope-camel-agent",
+    "language": "Java",
+    "name": "dscope-io/dscope-camel-agent",
+    "stars": 1,
+    "updated_at": "2026-06-19T10:27:31Z",
+    "url": "https://github.com/dscope-io/dscope-camel-agent"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3903,
+    "updated_at": "2026-06-19T10:27:02Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
     "id": "guilingzhouyi-creator/NOMOS",
     "language": "Python",
     "name": "guilingzhouyi-creator/NOMOS",
     "stars": 1,
-    "updated_at": "2026-06-19T10:13:04Z",
+    "updated_at": "2026-06-19T10:18:26Z",
     "url": "https://github.com/guilingzhouyi-creator/NOMOS"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 20,
+    "updated_at": "2026-06-19T10:17:46Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T10:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ouroboros: Agent first software engineering infrastructure. Autonomous AI agents plan, implement, test, review, and merg",
@@ -18,15 +63,6 @@
     "url": "https://github.com/Tanush1912/ouroboros"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 971,
-    "updated_at": "2026-06-19T10:06:10Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "Context-aware skill selection for AI agents \u2014 solves the 'too many skills' problem. Reduces skill context tokens by 85-9",
     "id": "Mavis2103/skill-context-manager",
     "language": "Python",
@@ -36,15 +72,6 @@
     "url": "https://github.com/Mavis2103/skill-context-manager"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T10:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -52,6 +79,15 @@
     "stars": 2,
     "updated_at": "2026-06-19T09:56:12Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6403,
+    "updated_at": "2026-06-19T09:53:47Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -67,7 +103,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11471,
+    "stars": 11472,
     "updated_at": "2026-06-19T09:47:26Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -99,21 +135,12 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3901,
-    "updated_at": "2026-06-19T10:13:23Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
     "id": "lightfastai/lightfast",
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-19T09:39:20Z",
+    "updated_at": "2026-06-19T10:29:59Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -196,15 +223,6 @@
     "stars": 7,
     "updated_at": "2026-06-19T08:48:38Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6402,
-    "updated_at": "2026-06-19T09:53:47Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T05:25:53Z",
     "url": "https://github.com/JING04-PRODUCER/agent-orchestrator"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 16,
-    "updated_at": "2026-06-19T05:25:10Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Testable skill memory for AI agents: SKILL.md, .memory.md, regression tests, and self-refinement.",
-    "id": "Yomiracle/agent-skill-system",
-    "language": "Python",
-    "name": "Yomiracle/agent-skill-system",
-    "stars": 1,
-    "updated_at": "2026-06-19T05:25:07Z",
-    "url": "https://github.com/Yomiracle/agent-skill-system"
   }
 ]
