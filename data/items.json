@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-19T22:29:18Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11481,
+    "updated_at": "2026-06-19T22:27:58Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 16,
+    "updated_at": "2026-06-19T22:27:31Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
+    "id": "motojinc25/chatwalaau",
+    "language": "Python",
+    "name": "motojinc25/chatwalaau",
+    "stars": 2,
+    "updated_at": "2026-06-19T22:29:46Z",
+    "url": "https://github.com/motojinc25/chatwalaau"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T22:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -45,21 +90,12 @@
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T22:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
     "id": "lightfastai/lightfast",
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-19T22:00:07Z",
+    "updated_at": "2026-06-19T22:30:09Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -158,17 +194,8 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 4417,
-    "updated_at": "2026-06-19T21:38:55Z",
+    "updated_at": "2026-06-19T22:26:48Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-06-19T21:20:45Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -221,7 +248,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 68,
-    "updated_at": "2026-06-19T22:09:40Z",
+    "updated_at": "2026-06-19T22:26:13Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-19T22:00:29Z",
+    "updated_at": "2026-06-19T22:27:42Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T20:32:26Z",
     "url": "https://github.com/thetonymaster/normandy"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11479,
-    "updated_at": "2026-06-19T20:25:20Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 246,
-    "updated_at": "2026-06-19T22:14:13Z",
+    "updated_at": "2026-06-19T22:25:04Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-06-19T20:08:12Z",
     "url": "https://github.com/alex-jb/solo-founder-os"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 16,
-    "updated_at": "2026-06-19T20:05:33Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases",
@@ -328,7 +337,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6210,
+    "stars": 6211,
     "updated_at": "2026-06-19T20:01:08Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -409,7 +418,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4038,
+    "stars": 4040,
     "updated_at": "2026-06-19T18:56:35Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-19T18:34:50Z",
     "url": "https://github.com/calisweetleaf/Marketplace-for-AI-Agentic-Operators"
-  },
-  {
-    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6407,
-    "updated_at": "2026-06-19T18:32:15Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
   }
 ]
