@@ -1,5 +1,68 @@
 [
   {
+    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
+    "id": "Jovancoding/Network-AI",
+    "language": "TypeScript",
+    "name": "Jovancoding/Network-AI",
+    "stars": 64,
+    "updated_at": "2026-06-19T19:44:59Z",
+    "url": "https://github.com/Jovancoding/Network-AI"
+  },
+  {
+    "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
+    "id": "Prompthon-IO/agent-systems-handbook",
+    "language": "MDX",
+    "name": "Prompthon-IO/agent-systems-handbook",
+    "stars": 317,
+    "updated_at": "2026-06-19T19:44:42Z",
+    "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:41:32Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4416,
+    "updated_at": "2026-06-19T19:36:59Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 10,
+    "updated_at": "2026-06-19T19:35:53Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-19T19:31:19Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T19:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 188,
-    "updated_at": "2026-06-19T19:24:33Z",
+    "updated_at": "2026-06-19T19:32:15Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 144,
     "updated_at": "2026-06-19T19:18:48Z",
     "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T19:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Deploy intelligence. Open-source infrastructure for AI agents in production.",
@@ -121,7 +175,7 @@
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
-    "stars": 163,
+    "stars": 164,
     "updated_at": "2026-06-19T18:59:55Z",
     "url": "https://github.com/cortexkit/aft"
   },
@@ -148,7 +202,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4013,
+    "stars": 4015,
     "updated_at": "2026-06-19T18:56:35Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T18:56:20Z",
     "url": "https://github.com/br3eze-code/br3eze-code"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-06-19T18:47:42Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
     "description": "      Aeriadne is the first-of-its-kind marketplace for agentic operability. It delivers high-fidelity skills, plugins, ",
@@ -333,15 +378,6 @@
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:13:40Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
     "id": "aaronjmars/aeon",
     "language": "TypeScript",
@@ -367,15 +403,6 @@
     "stars": 6,
     "updated_at": "2026-06-19T16:48:34Z",
     "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
-    "id": "Jovancoding/Network-AI",
-    "language": "TypeScript",
-    "name": "Jovancoding/Network-AI",
-    "stars": 63,
-    "updated_at": "2026-06-19T16:44:01Z",
-    "url": "https://github.com/Jovancoding/Network-AI"
   },
   {
     "description": "Shared instructions, workflows, conventions, and memory for AI agents \u2014 across teams,  projects, and functions.",
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 2,
-    "updated_at": "2026-06-19T19:21:17Z",
+    "updated_at": "2026-06-19T19:38:27Z",
     "url": "https://github.com/qmilab/asterism"
-  },
-  {
-    "description": "Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo",
-    "id": "getsynkora/synkora-ai",
-    "language": "Python",
-    "name": "getsynkora/synkora-ai",
-    "stars": 6,
-    "updated_at": "2026-06-19T16:09:46Z",
-    "url": "https://github.com/getsynkora/synkora-ai"
-  },
-  {
-    "description": "Learn to build AI agents in .NET the Microsoft way. A 20-chapter, runnable tour of Microsoft Agent Framework & Microsoft",
-    "id": "yanziyang/learn-Microsoft-Agent-Framework",
-    "language": "TypeScript",
-    "name": "yanziyang/learn-Microsoft-Agent-Framework",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:08:03Z",
-    "url": "https://github.com/yanziyang/learn-Microsoft-Agent-Framework"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 176,
-    "updated_at": "2026-06-19T16:00:39Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   }
 ]
