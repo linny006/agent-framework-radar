@@ -1,12 +1,93 @@
 [
   {
+    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
+    "id": "amitpatole/verel",
+    "language": "Python",
+    "name": "amitpatole/verel",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:45:02Z",
+    "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 11,
+    "updated_at": "2026-06-19T13:44:55Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:44:56Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-19T13:42:26Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
     "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
     "id": "guilingzhouyi-creator/NOMOS",
     "language": "Python",
     "name": "guilingzhouyi-creator/NOMOS",
     "stars": 1,
-    "updated_at": "2026-06-19T13:27:39Z",
+    "updated_at": "2026-06-19T13:41:02Z",
     "url": "https://github.com/guilingzhouyi-creator/NOMOS"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-19T13:38:49Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Cross-language AI Agent orchestration - Python FastAPI LLM core + Java Spring Boot admin.",
+    "id": "JING04-PRODUCER/agent-orchestrator",
+    "language": "Python",
+    "name": "JING04-PRODUCER/agent-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-06-19T13:36:37Z",
+    "url": "https://github.com/JING04-PRODUCER/agent-orchestrator"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3945,
+    "updated_at": "2026-06-19T13:36:13Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Open-source platform layer for AI agents in production",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 188,
+    "updated_at": "2026-06-19T13:32:24Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T13:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -18,15 +99,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3943,
-    "updated_at": "2026-06-19T13:25:13Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "An agent runtime that truly has experience.",
     "id": "shadow3aaa/DaatLocus",
     "language": "Rust",
@@ -36,31 +108,13 @@
     "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T13:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-19T13:13:55Z",
+    "updated_at": "2026-06-19T13:36:58Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 11,
-    "updated_at": "2026-06-19T13:14:58Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
@@ -108,24 +162,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-19T13:02:36Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:02:33Z",
-    "url": "https://github.com/denisotree/veles"
-  },
-  {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
     "id": "VisionaireLabs/Visionaire",
     "language": "TypeScript",
@@ -162,13 +198,13 @@
     "url": "https://github.com/agentlas-ai/Hephaestus"
   },
   {
-    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
-    "id": "amitpatole/verel",
-    "language": "Python",
-    "name": "amitpatole/verel",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:38:15Z",
-    "url": "https://github.com/amitpatole/verel"
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 534,
+    "updated_at": "2026-06-19T13:44:43Z",
+    "url": "https://github.com/aaronjmars/aeon"
   },
   {
     "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11472,
-    "updated_at": "2026-06-19T10:34:13Z",
+    "updated_at": "2026-06-19T13:33:43Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -378,21 +414,12 @@
     "url": "https://github.com/Mavis2103/skill-context-manager"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-06-19T09:56:12Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f AEGIS v15.0 \u2014 AI Agent Team Framework for Claude Code | 11 Marvel Personas \u2022 37 Skills \u2022 16 Commands \u2022 14 Hooks \u2022 60+",
     "id": "phariyawitjiap-aeternix/AEGIS-Team",
     "language": "Shell",
     "name": "phariyawitjiap-aeternix/AEGIS-Team",
     "stars": 0,
-    "updated_at": "2026-06-19T13:25:19Z",
+    "updated_at": "2026-06-19T13:39:43Z",
     "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T13:19:57Z",
     "url": "https://github.com/lml2468/xclaw"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 2,
-    "updated_at": "2026-06-19T10:57:42Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "Turn any skill into a standalone, runnable AI Agent",
-    "id": "agenthatch/agenthatch",
-    "language": "Python",
-    "name": "agenthatch/agenthatch",
-    "stars": 13,
-    "updated_at": "2026-06-19T09:09:05Z",
-    "url": "https://github.com/agenthatch/agenthatch"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-19T12:41:01Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   }
 ]
