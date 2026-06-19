@@ -1,5 +1,41 @@
 [
   {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 33,
+    "updated_at": "2026-06-19T14:26:14Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 534,
+    "updated_at": "2026-06-19T14:25:48Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3953,
+    "updated_at": "2026-06-19T14:27:33Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T14:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Turn any skill into a standalone, runnable AI Agent",
     "id": "agenthatch/agenthatch",
     "language": "Python",
@@ -9,31 +45,13 @@
     "url": "https://github.com/agenthatch/agenthatch"
   },
   {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 534,
-    "updated_at": "2026-06-19T14:11:54Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 33,
-    "updated_at": "2026-06-19T14:11:36Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "Agent IA + Workflow SDK en Python pur. Z\u00e9ro d\u00e9pendance externe. CLI ReAct avec tool calling, streaming, et chat. \ud83e\udda6",
+    "id": "Tahsine/zeroagent",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3951,
-    "updated_at": "2026-06-19T14:15:20Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "Tahsine/zeroagent",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:10:55Z",
+    "url": "https://github.com/Tahsine/zeroagent"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -61,15 +79,6 @@
     "stars": 6,
     "updated_at": "2026-06-19T14:01:37Z",
     "url": "https://github.com/marcominerva/AgentBasicService"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T14:00:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source Python framework for multi-agent AI orchestration, coding-agent swarms, council voting, provider routing, br",
@@ -140,7 +149,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 11,
-    "updated_at": "2026-06-19T13:44:55Z",
+    "updated_at": "2026-06-19T14:30:08Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -185,7 +194,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 188,
-    "updated_at": "2026-06-19T14:14:08Z",
+    "updated_at": "2026-06-19T14:30:24Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 20,
-    "updated_at": "2026-06-19T12:04:23Z",
+    "updated_at": "2026-06-19T14:19:24Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -409,7 +418,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 973,
+    "stars": 974,
     "updated_at": "2026-06-19T10:56:27Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T10:27:31Z",
     "url": "https://github.com/dscope-io/dscope-camel-agent"
-  },
-  {
-    "description": "Ouroboros: Agent first software engineering infrastructure. Autonomous AI agents plan, implement, test, review, and merg",
-    "id": "Tanush1912/ouroboros",
-    "language": "Python",
-    "name": "Tanush1912/ouroboros",
-    "stars": 3,
-    "updated_at": "2026-06-19T10:09:14Z",
-    "url": "https://github.com/Tanush1912/ouroboros"
   }
 ]
