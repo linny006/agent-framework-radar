@@ -1,12 +1,12 @@
 [
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 33,
-    "updated_at": "2026-06-19T14:26:14Z",
-    "url": "https://github.com/ggui-ai/ggui"
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 20,
+    "updated_at": "2026-06-19T14:43:23Z",
+    "url": "https://github.com/KbWen/agentic-os"
   },
   {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
@@ -14,26 +14,89 @@
     "language": "TypeScript",
     "name": "aaronjmars/aeon",
     "stars": 534,
-    "updated_at": "2026-06-19T14:25:48Z",
+    "updated_at": "2026-06-19T14:41:47Z",
     "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Agent SDK, CLI, Platform in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-06-19T14:41:37Z",
+    "url": "https://github.com/Wh1isper/starweaver"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3953,
-    "updated_at": "2026-06-19T14:27:33Z",
+    "stars": 3957,
+    "updated_at": "2026-06-19T14:43:54Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-19T14:39:05Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 163,
+    "updated_at": "2026-06-19T14:38:24Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:38:19Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 1,
-    "updated_at": "2026-06-19T14:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "updated_at": "2026-06-19T14:37:46Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "OpenHermit is the open-source platform for deploying fleets of AI agents as production services \u2014 durable state, sandbox",
+    "id": "HCF-STUDIOS/openhermit",
+    "language": "TypeScript",
+    "name": "HCF-STUDIOS/openhermit",
+    "stars": 44,
+    "updated_at": "2026-06-19T14:38:44Z",
+    "url": "https://github.com/HCF-STUDIOS/openhermit"
+  },
+  {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 8,
+    "updated_at": "2026-06-19T14:35:27Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:32:14Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Turn any skill into a standalone, runnable AI Agent",
@@ -41,8 +104,26 @@
     "language": "Python",
     "name": "agenthatch/agenthatch",
     "stars": 13,
-    "updated_at": "2026-06-19T14:12:08Z",
+    "updated_at": "2026-06-19T14:41:00Z",
     "url": "https://github.com/agenthatch/agenthatch"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T14:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 33,
+    "updated_at": "2026-06-19T14:26:14Z",
+    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "Agent IA + Workflow SDK en Python pur. Z\u00e9ro d\u00e9pendance externe. CLI ReAct avec tool calling, streaming, et chat. \ud83e\udda6",
@@ -68,7 +149,7 @@
     "language": "Shell",
     "name": "ek33450505/claude-agent-team",
     "stars": 5,
-    "updated_at": "2026-06-19T14:11:43Z",
+    "updated_at": "2026-06-19T14:38:50Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
@@ -153,15 +234,6 @@
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-19T13:42:26Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
     "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
     "id": "guilingzhouyi-creator/NOMOS",
     "language": "Python",
@@ -207,15 +279,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "An agent runtime that truly has experience.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 8,
-    "updated_at": "2026-06-19T13:18:44Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
     "id": "evalstate/fast-agent",
     "language": "Python",
@@ -232,15 +295,6 @@
     "stars": 5,
     "updated_at": "2026-06-19T13:09:07Z",
     "url": "https://github.com/PurrPod/purrcat"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 163,
-    "updated_at": "2026-06-19T13:04:40Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -306,15 +360,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 20,
-    "updated_at": "2026-06-19T14:19:24Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
     "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
     "id": "akyourowngames/friday",
     "language": "Python",
@@ -331,15 +376,6 @@
     "stars": 4,
     "updated_at": "2026-06-19T13:21:37Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:50:06Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
@@ -396,24 +432,6 @@
     "url": "https://github.com/roackb2/heddle"
   },
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:11:38Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-19T11:11:29Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 314,
     "updated_at": "2026-06-19T10:51:34Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
-    "description": "Self-hostable AI agent runtime \u2014 single Rust binary, Tailscale cluster, runs across Mac/Linux/Windows/Android/iOS withou",
-    "id": "markl-a/phantom-mesh",
-    "language": "Rust",
-    "name": "markl-a/phantom-mesh",
-    "stars": 4,
-    "updated_at": "2026-06-19T10:37:20Z",
-    "url": "https://github.com/markl-a/phantom-mesh"
-  },
-  {
-    "description": "Enterprise-ready Apache Camel agent framework for blueprint-defined AI workflows, tool orchestration, Spring AI provider",
-    "id": "dscope-io/dscope-camel-agent",
-    "language": "Java",
-    "name": "dscope-io/dscope-camel-agent",
-    "stars": 1,
-    "updated_at": "2026-06-19T10:27:31Z",
-    "url": "https://github.com/dscope-io/dscope-camel-agent"
   }
 ]
