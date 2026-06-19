@@ -1,21 +1,12 @@
 [
   {
-    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
-    "id": "guilingzhouyi-creator/NOMOS",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "guilingzhouyi-creator/NOMOS",
-    "stars": 1,
-    "updated_at": "2026-06-19T08:58:34Z",
-    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
-  },
-  {
-    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
-    "id": "lml2468/xclaw",
-    "language": "Go",
-    "name": "lml2468/xclaw",
-    "stars": 0,
-    "updated_at": "2026-06-19T08:57:04Z",
-    "url": "https://github.com/lml2468/xclaw"
+    "name": "omnigent-ai/omnigent",
+    "stars": 3890,
+    "updated_at": "2026-06-19T09:13:18Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Context-aware skill selection for AI agents \u2014 solves the 'too many skills' problem. Reduces skill context tokens by 85-9",
@@ -23,17 +14,71 @@
     "language": "Python",
     "name": "Mavis2103/skill-context-manager",
     "stars": 0,
-    "updated_at": "2026-06-19T08:55:13Z",
+    "updated_at": "2026-06-19T09:12:20Z",
     "url": "https://github.com/Mavis2103/skill-context-manager"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
+    "id": "guilingzhouyi-creator/NOMOS",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3885,
-    "updated_at": "2026-06-19T08:56:10Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "guilingzhouyi-creator/NOMOS",
+    "stars": 1,
+    "updated_at": "2026-06-19T09:09:39Z",
+    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
+  },
+  {
+    "description": "Turn any skill into a standalone, runnable AI Agent",
+    "id": "agenthatch/agenthatch",
+    "language": "Python",
+    "name": "agenthatch/agenthatch",
+    "stars": 11,
+    "updated_at": "2026-06-19T09:09:05Z",
+    "url": "https://github.com/agenthatch/agenthatch"
+  },
+  {
+    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
+    "id": "Krako-Labs/KORA",
+    "language": "Python",
+    "name": "Krako-Labs/KORA",
+    "stars": 21,
+    "updated_at": "2026-06-19T09:08:42Z",
+    "url": "https://github.com/Krako-Labs/KORA"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11471,
+    "updated_at": "2026-06-19T09:03:22Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-19T09:01:51Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
+    "id": "lml2468/xclaw",
+    "language": "Go",
+    "name": "lml2468/xclaw",
+    "stars": 0,
+    "updated_at": "2026-06-19T09:09:40Z",
+    "url": "https://github.com/lml2468/xclaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T09:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
@@ -54,15 +99,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11470,
-    "updated_at": "2026-06-19T08:55:29Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -81,15 +117,6 @@
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T08:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
     "id": "ellmos-ai/skills",
     "language": "Python",
@@ -104,7 +131,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-19T08:43:02Z",
+    "updated_at": "2026-06-19T09:12:56Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -130,7 +157,7 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 171,
+    "stars": 172,
     "updated_at": "2026-06-19T08:39:01Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -153,15 +180,6 @@
     "url": "https://github.com/opencue/cuecards"
   },
   {
-    "description": "Turn any skill into a standalone, runnable AI Agent",
-    "id": "agenthatch/agenthatch",
-    "language": "Python",
-    "name": "agenthatch/agenthatch",
-    "stars": 11,
-    "updated_at": "2026-06-19T08:58:55Z",
-    "url": "https://github.com/agenthatch/agenthatch"
-  },
-  {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
     "id": "framerslab/agentos",
     "language": "TypeScript",
@@ -178,15 +196,6 @@
     "stars": 8,
     "updated_at": "2026-06-19T08:10:19Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-19T08:33:12Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "",
@@ -223,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T07:30:28Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
-    "id": "Krako-Labs/KORA",
-    "language": "Python",
-    "name": "Krako-Labs/KORA",
-    "stars": 21,
-    "updated_at": "2026-06-19T08:54:32Z",
-    "url": "https://github.com/Krako-Labs/KORA"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
