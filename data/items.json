@@ -1,5 +1,50 @@
 [
   {
+    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
+    "id": "guilingzhouyi-creator/NOMOS",
+    "language": "Python",
+    "name": "guilingzhouyi-creator/NOMOS",
+    "stars": 1,
+    "updated_at": "2026-06-19T10:13:04Z",
+    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
+  },
+  {
+    "description": "Ouroboros: Agent first software engineering infrastructure. Autonomous AI agents plan, implement, test, review, and merg",
+    "id": "Tanush1912/ouroboros",
+    "language": "Python",
+    "name": "Tanush1912/ouroboros",
+    "stars": 3,
+    "updated_at": "2026-06-19T10:09:14Z",
+    "url": "https://github.com/Tanush1912/ouroboros"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 971,
+    "updated_at": "2026-06-19T10:06:10Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Context-aware skill selection for AI agents \u2014 solves the 'too many skills' problem. Reduces skill context tokens by 85-9",
+    "id": "Mavis2103/skill-context-manager",
+    "language": "Python",
+    "name": "Mavis2103/skill-context-manager",
+    "stars": 0,
+    "updated_at": "2026-06-19T10:05:15Z",
+    "url": "https://github.com/Mavis2103/skill-context-manager"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T10:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -16,15 +61,6 @@
     "stars": 163,
     "updated_at": "2026-06-19T09:52:51Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T09:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -67,8 +103,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3900,
-    "updated_at": "2026-06-19T09:40:31Z",
+    "stars": 3901,
+    "updated_at": "2026-06-19T10:13:23Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 314,
     "updated_at": "2026-06-19T09:34:13Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
-    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
-    "id": "guilingzhouyi-creator/NOMOS",
-    "language": "Python",
-    "name": "guilingzhouyi-creator/NOMOS",
-    "stars": 1,
-    "updated_at": "2026-06-19T09:33:01Z",
-    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
   },
   {
     "description": "Next Generation Agent Core / \u6b21\u4e16\u4ee3Agent\u6838\u5fc3",
@@ -144,15 +171,6 @@
     "url": "https://github.com/opencue/cuecards"
   },
   {
-    "description": "Context-aware skill selection for AI agents \u2014 solves the 'too many skills' problem. Reduces skill context tokens by 85-9",
-    "id": "Mavis2103/skill-context-manager",
-    "language": "Python",
-    "name": "Mavis2103/skill-context-manager",
-    "stars": 0,
-    "updated_at": "2026-06-19T09:12:20Z",
-    "url": "https://github.com/Mavis2103/skill-context-manager"
-  },
-  {
     "description": "Turn any skill into a standalone, runnable AI Agent",
     "id": "agenthatch/agenthatch",
     "language": "Python",
@@ -178,15 +196,6 @@
     "stars": 7,
     "updated_at": "2026-06-19T08:48:38Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 971,
-    "updated_at": "2026-06-19T08:47:30Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-19T09:32:50Z",
+    "updated_at": "2026-06-19T10:13:34Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T05:25:07Z",
     "url": "https://github.com/Yomiracle/agent-skill-system"
-  },
-  {
-    "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
-    "id": "thetonymaster/normandy",
-    "language": "Elixir",
-    "name": "thetonymaster/normandy",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:13:36Z",
-    "url": "https://github.com/thetonymaster/normandy"
   }
 ]
