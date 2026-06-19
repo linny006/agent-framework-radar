@@ -1,12 +1,39 @@
 [
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-18T23:59:54Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 966,
+    "updated_at": "2026-06-18T23:58:47Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-18T23:57:09Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3799,
-    "updated_at": "2026-06-18T23:43:28Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 10,
+    "updated_at": "2026-06-18T23:56:48Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
   },
   {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
@@ -14,7 +41,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-18T23:40:15Z",
+    "updated_at": "2026-06-18T23:54:58Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -23,8 +50,26 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-18T23:41:04Z",
+    "updated_at": "2026-06-18T23:54:57Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3801,
+    "updated_at": "2026-06-18T23:57:40Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T23:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -32,17 +77,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-18T23:42:40Z",
+    "updated_at": "2026-06-18T23:54:27Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 966,
-    "updated_at": "2026-06-18T23:37:17Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Experimental harness for studying LLM-based agents through trace-based observability and evaluation.",
@@ -63,21 +99,12 @@
     "url": "https://github.com/othmastar/adam-prism"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T23:30:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
     "id": "AgentsKit-io/agentskit",
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 11,
-    "updated_at": "2026-06-18T23:43:07Z",
+    "updated_at": "2026-06-18T23:49:20Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -135,15 +162,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-18T23:02:25Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 243,
-    "updated_at": "2026-06-18T23:39:38Z",
+    "updated_at": "2026-06-18T23:55:33Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -184,7 +202,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4401,
+    "stars": 4402,
     "updated_at": "2026-06-18T22:41:30Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -234,15 +252,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-06-18T22:07:10Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
     "id": "ellmos-ai/.github",
     "language": "\u2014",
@@ -284,7 +293,7 @@
     "language": "HTML",
     "name": "DYAI2025/Plumbline",
     "stars": 6,
-    "updated_at": "2026-06-18T22:06:20Z",
+    "updated_at": "2026-06-18T23:46:57Z",
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
@@ -430,15 +439,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T20:04:59Z",
     "url": "https://github.com/ayush585/Hyperion-Delta"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 10,
-    "updated_at": "2026-06-18T20:04:11Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
   },
   {
     "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
