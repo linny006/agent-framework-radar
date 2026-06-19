@@ -1,12 +1,21 @@
 [
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "Orchestrate and govern human + AI work loops with auditable receipts",
+    "id": "sparckix/cognitive-firm",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3817,
-    "updated_at": "2026-06-19T02:59:53Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "sparckix/cognitive-firm",
+    "stars": 6,
+    "updated_at": "2026-06-19T03:13:28Z",
+    "url": "https://github.com/sparckix/cognitive-firm"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 241,
+    "updated_at": "2026-06-19T03:12:21Z",
+    "url": "https://github.com/xuiltul/animaworks"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-19T02:58:55Z",
+    "updated_at": "2026-06-19T03:11:42Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -23,8 +32,44 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-19T02:56:10Z",
+    "updated_at": "2026-06-19T03:14:55Z",
     "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Context-aware skill selection for AI agents \u2014 solves the 'too many skills' problem. Reduces skill context tokens by 85-9",
+    "id": "Mavis2103/skill-context-manager",
+    "language": "Python",
+    "name": "Mavis2103/skill-context-manager",
+    "stars": 0,
+    "updated_at": "2026-06-19T03:07:27Z",
+    "url": "https://github.com/Mavis2103/skill-context-manager"
+  },
+  {
+    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
+    "id": "lml2468/xclaw",
+    "language": "Go",
+    "name": "lml2468/xclaw",
+    "stars": 0,
+    "updated_at": "2026-06-19T03:05:04Z",
+    "url": "https://github.com/lml2468/xclaw"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3818,
+    "updated_at": "2026-06-19T03:12:48Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T03:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -34,15 +79,6 @@
     "stars": 68,
     "updated_at": "2026-06-19T02:54:48Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T02:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
@@ -61,15 +97,6 @@
     "stars": 11,
     "updated_at": "2026-06-19T02:49:21Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "Context-aware skill selection for AI agents \u2014 solves the 'too many skills' problem. Reduces skill context tokens by 85-9",
-    "id": "Mavis2103/skill-context-manager",
-    "language": "Python",
-    "name": "Mavis2103/skill-context-manager",
-    "stars": 0,
-    "updated_at": "2026-06-19T02:39:03Z",
-    "url": "https://github.com/Mavis2103/skill-context-manager"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -421,32 +448,5 @@
     "stars": 162,
     "updated_at": "2026-06-18T23:06:48Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry ",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 243,
-    "updated_at": "2026-06-19T02:53:13Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "Build Claude Code\u2013style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints",
-    "id": "vstorm-co/pydantic-deepagents",
-    "language": "Python",
-    "name": "vstorm-co/pydantic-deepagents",
-    "stars": 876,
-    "updated_at": "2026-06-18T22:19:44Z",
-    "url": "https://github.com/vstorm-co/pydantic-deepagents"
-  },
-  {
-    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
-    "id": "ellmos-ai/.github",
-    "language": "\u2014",
-    "name": "ellmos-ai/.github",
-    "stars": 0,
-    "updated_at": "2026-06-18T22:04:07Z",
-    "url": "https://github.com/ellmos-ai/.github"
   }
 ]
