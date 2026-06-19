@@ -1,5 +1,50 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3805,
+    "updated_at": "2026-06-19T01:28:57Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Multi-model adversarial review for catching shared blind spots",
+    "id": "jkraybill/gordo-roundtable",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-roundtable",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:23:27Z",
+    "url": "https://github.com/jkraybill/gordo-roundtable"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 169,
+    "updated_at": "2026-06-19T01:22:16Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "AI-guided onboarding for human-AI collaboration projects",
+    "id": "jkraybill/gordo-forge",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-forge",
+    "stars": 3,
+    "updated_at": "2026-06-19T01:17:54Z",
+    "url": "https://github.com/jkraybill/gordo-forge"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
     "id": "Kortecx/kortecx",
     "language": "Rust",
@@ -14,26 +59,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-19T01:13:40Z",
+    "updated_at": "2026-06-19T01:24:31Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "AI-guided onboarding for human-AI collaboration projects",
-    "id": "jkraybill/gordo-forge",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-forge",
-    "stars": 3,
-    "updated_at": "2026-06-19T01:12:00Z",
-    "url": "https://github.com/jkraybill/gordo-forge"
-  },
-  {
-    "description": "Multi-model adversarial review for catching shared blind spots",
-    "id": "jkraybill/gordo-roundtable",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-roundtable",
-    "stars": 1,
-    "updated_at": "2026-06-19T01:11:44Z",
-    "url": "https://github.com/jkraybill/gordo-roundtable"
   },
   {
     "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
@@ -43,15 +70,6 @@
     "stars": 115,
     "updated_at": "2026-06-19T01:09:17Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3805,
-    "updated_at": "2026-06-19T01:14:13Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -77,17 +95,8 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-19T01:01:39Z",
+    "updated_at": "2026-06-19T01:28:11Z",
     "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T01:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-19T00:36:24Z",
+    "updated_at": "2026-06-19T01:27:08Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 243,
-    "updated_at": "2026-06-19T01:11:17Z",
+    "updated_at": "2026-06-19T01:27:37Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -347,17 +356,8 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 4402,
-    "updated_at": "2026-06-19T01:13:57Z",
+    "updated_at": "2026-06-19T01:29:24Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 169,
-    "updated_at": "2026-06-18T22:31:50Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "Build Claude Code\u2013style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints",
