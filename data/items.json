@@ -1,12 +1,21 @@
 [
   {
-    "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
-    "id": "ebey317/claf",
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
     "language": "Python",
-    "name": "ebey317/claf",
-    "stars": 1,
-    "updated_at": "2026-06-19T11:36:36Z",
-    "url": "https://github.com/ebey317/claf"
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-19T11:48:07Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 162,
+    "updated_at": "2026-06-19T11:47:48Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-19T11:30:26Z",
+    "updated_at": "2026-06-19T11:45:23Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
+    "id": "ebey317/claf",
+    "language": "Python",
+    "name": "ebey317/claf",
+    "stars": 1,
+    "updated_at": "2026-06-19T11:36:36Z",
+    "url": "https://github.com/ebey317/claf"
   },
   {
     "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
@@ -50,7 +68,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-19T11:43:00Z",
+    "updated_at": "2026-06-19T11:46:57Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 3921,
-    "updated_at": "2026-06-19T11:06:18Z",
+    "updated_at": "2026-06-19T11:45:24Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "AmritaBot/AmritaCore",
     "stars": 9,
-    "updated_at": "2026-06-19T09:30:56Z",
+    "updated_at": "2026-06-19T11:46:57Z",
     "url": "https://github.com/AmritaBot/AmritaCore"
   },
   {
@@ -286,15 +304,6 @@
     "stars": 8,
     "updated_at": "2026-06-19T09:01:51Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-19T11:43:44Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-19T07:02:29Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-19T06:59:34Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   }
 ]
