@@ -1,12 +1,39 @@
 [
   {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-19T05:41:59Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 3834,
-    "updated_at": "2026-06-19T05:29:55Z",
+    "updated_at": "2026-06-19T05:42:16Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 969,
+    "updated_at": "2026-06-19T05:35:01Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T05:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
@@ -14,7 +41,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 1,
-    "updated_at": "2026-06-19T05:29:28Z",
+    "updated_at": "2026-06-19T05:41:27Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-19T05:25:57Z",
+    "updated_at": "2026-06-19T05:44:44Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -90,24 +117,6 @@
     "url": "https://github.com/Bilal140202/the-lord-of-the-skills"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T05:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-19T05:13:31Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
     "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
     "id": "thetonymaster/normandy",
     "language": "Elixir",
@@ -140,7 +149,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6401,
-    "updated_at": "2026-06-19T04:31:11Z",
+    "updated_at": "2026-06-19T05:44:22Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -220,7 +229,7 @@
     "id": "mnemon-dev/mnemon",
     "language": "Go",
     "name": "mnemon-dev/mnemon",
-    "stars": 353,
+    "stars": 354,
     "updated_at": "2026-06-19T03:29:39Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
@@ -427,7 +436,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11464,
+    "stars": 11466,
     "updated_at": "2026-06-19T01:06:19Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-19T01:02:27Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 5,
-    "updated_at": "2026-06-19T02:45:18Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
   }
 ]
