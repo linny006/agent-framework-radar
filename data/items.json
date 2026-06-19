@@ -1,5 +1,86 @@
 [
   {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 163,
+    "updated_at": "2026-06-19T16:12:27Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3978,
+    "updated_at": "2026-06-19T16:11:30Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-19T16:08:56Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:08:40Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo",
+    "id": "getsynkora/synkora-ai",
+    "language": "Python",
+    "name": "getsynkora/synkora-ai",
+    "stars": 6,
+    "updated_at": "2026-06-19T16:09:46Z",
+    "url": "https://github.com/getsynkora/synkora-ai"
+  },
+  {
+    "description": "Learn to build AI agents in .NET the Microsoft way. A 20-chapter, runnable tour of Microsoft Agent Framework & Microsoft",
+    "id": "yanziyang/learn-Microsoft-Agent-Framework",
+    "language": "TypeScript",
+    "name": "yanziyang/learn-Microsoft-Agent-Framework",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:08:03Z",
+    "url": "https://github.com/yanziyang/learn-Microsoft-Agent-Framework"
+  },
+  {
+    "description": "Agent SDK, CLI, Platform in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-06-19T16:07:41Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 175,
+    "updated_at": "2026-06-19T16:00:39Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T16:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
@@ -9,49 +90,13 @@
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3972,
-    "updated_at": "2026-06-19T15:55:24Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 163,
-    "updated_at": "2026-06-19T15:49:33Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
     "id": "telus-labs/stagecraft",
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 1,
-    "updated_at": "2026-06-19T15:50:39Z",
+    "updated_at": "2026-06-19T16:15:18Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Agent SDK, CLI, Platform in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 6,
-    "updated_at": "2026-06-19T15:46:09Z",
-    "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T15:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-Agent AI Quantitative Analysis System - 15+ LLM agents with cost-aware routing, persistent memory, and real-time S",
@@ -85,7 +130,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6205,
+    "stars": 6206,
     "updated_at": "2026-06-19T15:37:28Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -97,15 +142,6 @@
     "stars": 23202,
     "updated_at": "2026-06-19T15:37:16Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 175,
-    "updated_at": "2026-06-19T15:37:06Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -142,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T15:24:52Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Learn to build AI agents in .NET the Microsoft way. A 20-chapter, runnable tour of Microsoft Agent Framework & Microsoft",
-    "id": "yanziyang/learn-Microsoft-Agent-Framework",
-    "language": "TypeScript",
-    "name": "yanziyang/learn-Microsoft-Agent-Framework",
-    "stars": 0,
-    "updated_at": "2026-06-19T15:23:14Z",
-    "url": "https://github.com/yanziyang/learn-Microsoft-Agent-Framework"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 20,
-    "updated_at": "2026-06-19T15:51:30Z",
+    "updated_at": "2026-06-19T16:15:09Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -238,18 +265,9 @@
     "id": "agenthatch/agenthatch",
     "language": "Python",
     "name": "agenthatch/agenthatch",
-    "stars": 15,
+    "stars": 16,
     "updated_at": "2026-06-19T14:41:00Z",
     "url": "https://github.com/agenthatch/agenthatch"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-19T14:39:05Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -383,7 +401,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 11,
-    "updated_at": "2026-06-19T15:06:22Z",
+    "updated_at": "2026-06-19T16:04:31Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 188,
-    "updated_at": "2026-06-19T15:56:51Z",
+    "updated_at": "2026-06-19T16:12:28Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-19T13:09:07Z",
     "url": "https://github.com/PurrPod/purrcat"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-19T13:02:28Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Self-hosted AI agent runtime in Rust: run autonomous LLM agents over Telegram & Discord with durable queues, fail-closed",
-    "id": "phenomenoner/agent-harness-core",
-    "language": "Rust",
-    "name": "phenomenoner/agent-harness-core",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:52:58Z",
-    "url": "https://github.com/phenomenoner/agent-harness-core"
   }
 ]
