@@ -1,11 +1,29 @@
 [
   {
+    "description": "Agent SDK, CLI, Platform in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-06-19T23:11:31Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-19T23:09:07Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-19T23:00:23Z",
+    "updated_at": "2026-06-19T23:03:11Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T22:57:03Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-19T22:54:58Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 246,
-    "updated_at": "2026-06-19T22:57:42Z",
+    "updated_at": "2026-06-19T23:14:03Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -337,7 +346,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6212,
+    "stars": 6213,
     "updated_at": "2026-06-19T20:01:08Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -418,7 +427,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4042,
+    "stars": 4044,
     "updated_at": "2026-06-19T18:56:35Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -439,14 +448,5 @@
     "stars": 1210,
     "updated_at": "2026-06-19T18:47:29Z",
     "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "      Aeriadne is the first-of-its-kind marketplace for agentic operability. It delivers high-fidelity skills, plugins, ",
-    "id": "calisweetleaf/Marketplace-for-AI-Agentic-Operators",
-    "language": "Python",
-    "name": "calisweetleaf/Marketplace-for-AI-Agentic-Operators",
-    "stars": 3,
-    "updated_at": "2026-06-19T18:34:50Z",
-    "url": "https://github.com/calisweetleaf/Marketplace-for-AI-Agentic-Operators"
   }
 ]
