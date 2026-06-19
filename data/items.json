@@ -1,11 +1,65 @@
 [
   {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 163,
+    "updated_at": "2026-06-19T12:56:14Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3938,
+    "updated_at": "2026-06-19T12:55:43Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Self-hosted AI agent runtime in Rust: run autonomous LLM agents over Telegram & Discord with durable queues, fail-closed",
+    "id": "phenomenoner/agent-harness-core",
+    "language": "Rust",
+    "name": "phenomenoner/agent-harness-core",
+    "stars": 0,
+    "updated_at": "2026-06-19T12:52:58Z",
+    "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-19T12:51:27Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
+    "id": "agentlas-ai/Hephaestus",
+    "language": "Python",
+    "name": "agentlas-ai/Hephaestus",
+    "stars": 76,
+    "updated_at": "2026-06-19T12:50:59Z",
+    "url": "https://github.com/agentlas-ai/Hephaestus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T12:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-19T12:44:25Z",
+    "updated_at": "2026-06-19T12:57:39Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 11,
-    "updated_at": "2026-06-19T12:44:53Z",
+    "updated_at": "2026-06-19T12:55:59Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -45,31 +99,13 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T12:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
     "id": "ek33450505/claude-agent-team",
     "language": "Shell",
     "name": "ek33450505/claude-agent-team",
     "stars": 5,
-    "updated_at": "2026-06-19T12:25:13Z",
+    "updated_at": "2026-06-19T12:52:38Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3931,
-    "updated_at": "2026-06-19T12:42:45Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-19T12:15:24Z",
+    "updated_at": "2026-06-19T12:59:35Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T12:11:21Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:05:50Z",
-    "url": "https://github.com/ludex-lab/ludex"
   },
   {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "fireflyframework/fireflyframework-agentic",
     "stars": 4,
-    "updated_at": "2026-06-19T11:53:29Z",
+    "updated_at": "2026-06-19T12:59:06Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 245,
-    "updated_at": "2026-06-19T12:38:28Z",
+    "updated_at": "2026-06-19T12:48:49Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -225,20 +252,11 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 163,
-    "updated_at": "2026-06-19T11:10:32Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 972,
+    "stars": 973,
     "updated_at": "2026-06-19T10:56:27Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -265,7 +283,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11473,
+    "stars": 11472,
     "updated_at": "2026-06-19T10:34:13Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -351,15 +369,6 @@
     "url": "https://github.com/lml2468/xclaw"
   },
   {
-    "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
-    "id": "agentlas-ai/Hephaestus",
-    "language": "Python",
-    "name": "agentlas-ai/Hephaestus",
-    "stars": 76,
-    "updated_at": "2026-06-19T09:23:49Z",
-    "url": "https://github.com/agentlas-ai/Hephaestus"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -409,7 +418,7 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 172,
+    "stars": 174,
     "updated_at": "2026-06-19T08:39:01Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -437,16 +446,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 8,
-    "updated_at": "2026-06-19T09:27:44Z",
+    "updated_at": "2026-06-19T12:52:25Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6202,
-    "updated_at": "2026-06-19T07:54:38Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
