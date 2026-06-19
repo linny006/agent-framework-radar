@@ -1,12 +1,84 @@
 [
   {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-19T21:29:15Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Portable OpenCode workflow toolkit \u2014 6 plugins, managed agents & skills, a spec-to-code pipeline, security, and the vvoc",
+    "id": "osovv/vv-opencode",
+    "language": "TypeScript",
+    "name": "osovv/vv-opencode",
+    "stars": 6,
+    "updated_at": "2026-06-19T21:24:42Z",
+    "url": "https://github.com/osovv/vv-opencode"
+  },
+  {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
     "id": "amitpatole/verel",
     "language": "Python",
     "name": "amitpatole/verel",
     "stars": 0,
-    "updated_at": "2026-06-19T21:14:24Z",
+    "updated_at": "2026-06-19T21:24:34Z",
     "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-19T21:21:41Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-19T21:20:45Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
+    "id": "Jovancoding/Network-AI",
+    "language": "TypeScript",
+    "name": "Jovancoding/Network-AI",
+    "stars": 64,
+    "updated_at": "2026-06-19T21:20:07Z",
+    "url": "https://github.com/Jovancoding/Network-AI"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 165,
+    "updated_at": "2026-06-19T21:18:11Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-19T21:29:36Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T21:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -16,15 +88,6 @@
     "stars": 11,
     "updated_at": "2026-06-19T21:13:59Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-19T21:13:05Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -54,15 +117,6 @@
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T21:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -79,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T20:59:11Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-19T20:59:55Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
@@ -144,15 +189,6 @@
     "url": "https://github.com/Studnicky/Dagonizer"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 165,
-    "updated_at": "2026-06-19T20:35:23Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
     "id": "thetonymaster/normandy",
     "language": "Elixir",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-19T20:34:18Z",
+    "updated_at": "2026-06-19T21:26:10Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 246,
-    "updated_at": "2026-06-19T21:14:42Z",
+    "updated_at": "2026-06-19T21:21:37Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-06-19T20:08:12Z",
     "url": "https://github.com/alex-jb/solo-founder-os"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-06-19T20:06:05Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -256,7 +283,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6208,
+    "stars": 6209,
     "updated_at": "2026-06-19T20:01:08Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -279,15 +306,6 @@
     "url": "https://github.com/muxi-ai/muxi"
   },
   {
-    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
-    "id": "Jovancoding/Network-AI",
-    "language": "TypeScript",
-    "name": "Jovancoding/Network-AI",
-    "stars": 64,
-    "updated_at": "2026-06-19T19:44:59Z",
-    "url": "https://github.com/Jovancoding/Network-AI"
-  },
-  {
     "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
     "id": "Prompthon-IO/agent-systems-handbook",
     "language": "MDX",
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 4416,
-    "updated_at": "2026-06-19T19:36:59Z",
+    "updated_at": "2026-06-19T21:21:25Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -364,7 +382,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4027,
+    "stars": 4029,
     "updated_at": "2026-06-19T18:56:35Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -376,6 +394,15 @@
     "stars": 1,
     "updated_at": "2026-06-19T18:56:20Z",
     "url": "https://github.com/br3eze-code/br3eze-code"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1210,
+    "updated_at": "2026-06-19T18:47:29Z",
+    "url": "https://github.com/inkeep/agents"
   },
   {
     "description": "      Aeriadne is the first-of-its-kind marketplace for agentic operability. It delivers high-fidelity skills, plugins, ",
@@ -391,7 +418,7 @@
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6407,
+    "stars": 6408,
     "updated_at": "2026-06-19T18:32:15Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
@@ -421,32 +448,5 @@
     "stars": 14332,
     "updated_at": "2026-06-19T18:07:36Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
-    "id": "PiloTracer/.ai",
-    "language": "Shell",
-    "name": "PiloTracer/.ai",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:48:34Z",
-    "url": "https://github.com/PiloTracer/.ai"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23217,
-    "updated_at": "2026-06-19T17:47:09Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "A modular agentic system for orchestrating and coordinating complex human support systems using agentic workflows.",
-    "id": "stevenjones-bot/springwell-keel",
-    "language": "\u2014",
-    "name": "stevenjones-bot/springwell-keel",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:44:06Z",
-    "url": "https://github.com/stevenjones-bot/springwell-keel"
   }
 ]
