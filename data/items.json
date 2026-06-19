@@ -1,12 +1,84 @@
 [
   {
+    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
+    "id": "lml2468/xclaw",
+    "language": "Go",
+    "name": "lml2468/xclaw",
+    "stars": 0,
+    "updated_at": "2026-06-19T09:29:32Z",
+    "url": "https://github.com/lml2468/xclaw"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f AEGIS v15.0 \u2014 AI Agent Team Framework for Claude Code | 11 Marvel Personas \u2022 37 Skills \u2022 16 Commands \u2022 14 Hooks \u2022 60+",
+    "id": "phariyawitjiap-aeternix/AEGIS-Team",
+    "language": "Shell",
+    "name": "phariyawitjiap-aeternix/AEGIS-Team",
+    "stars": 0,
+    "updated_at": "2026-06-19T09:26:57Z",
+    "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11471,
+    "updated_at": "2026-06-19T09:30:14Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
+    "id": "agentlas-ai/Hephaestus",
+    "language": "Python",
+    "name": "agentlas-ai/Hephaestus",
+    "stars": 76,
+    "updated_at": "2026-06-19T09:23:49Z",
+    "url": "https://github.com/agentlas-ai/Hephaestus"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 163,
+    "updated_at": "2026-06-19T09:22:13Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 3890,
-    "updated_at": "2026-06-19T09:13:18Z",
+    "stars": 3893,
+    "updated_at": "2026-06-19T09:25:15Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-19T09:16:09Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-19T09:15:49Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T09:15:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Context-aware skill selection for AI agents \u2014 solves the 'too many skills' problem. Reduces skill context tokens by 85-9",
@@ -36,24 +108,6 @@
     "url": "https://github.com/agenthatch/agenthatch"
   },
   {
-    "description": "An Inference Operating System that reduces unnecessary LLM calls by structuring intelligence before scaling it.",
-    "id": "Krako-Labs/KORA",
-    "language": "Python",
-    "name": "Krako-Labs/KORA",
-    "stars": 21,
-    "updated_at": "2026-06-19T09:08:42Z",
-    "url": "https://github.com/Krako-Labs/KORA"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11471,
-    "updated_at": "2026-06-19T09:03:22Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
@@ -61,24 +115,6 @@
     "stars": 8,
     "updated_at": "2026-06-19T09:01:51Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
-    "id": "lml2468/xclaw",
-    "language": "Go",
-    "name": "lml2468/xclaw",
-    "stars": 0,
-    "updated_at": "2026-06-19T09:09:40Z",
-    "url": "https://github.com/lml2468/xclaw"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T09:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
@@ -126,24 +162,6 @@
     "url": "https://github.com/ellmos-ai/skills"
   },
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-19T09:12:56Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 162,
-    "updated_at": "2026-06-19T08:40:49Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Agents should execute whenever possible \u2014 open registry of reusable AI agent skills and capability definitions",
     "id": "gfernandf/agent-skill-registry",
     "language": "Python",
@@ -171,15 +189,6 @@
     "url": "https://github.com/BrettMGoughWork/vai-core"
   },
   {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 2,
-    "updated_at": "2026-06-19T08:37:06Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
     "id": "framerslab/agentos",
     "language": "TypeScript",
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 8,
-    "updated_at": "2026-06-19T08:10:19Z",
+    "updated_at": "2026-06-19T09:27:44Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-19T08:59:29Z",
+    "updated_at": "2026-06-19T09:17:51Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T04:31:03Z",
     "url": "https://github.com/0bserver07/chimera"
-  },
-  {
-    "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
-    "id": "neural-agi/Qwen3-Coder-Next",
-    "language": "Python",
-    "name": "neural-agi/Qwen3-Coder-Next",
-    "stars": 0,
-    "updated_at": "2026-06-19T03:58:06Z",
-    "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
   }
 ]
