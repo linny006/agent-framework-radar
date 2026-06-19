@@ -1,5 +1,59 @@
 [
   {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6405,
+    "updated_at": "2026-06-19T15:59:26Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 3972,
+    "updated_at": "2026-06-19T15:55:24Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 163,
+    "updated_at": "2026-06-19T15:49:33Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-19T15:50:39Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Agent SDK, CLI, Platform in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-06-19T15:46:09Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T15:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Multi-Agent AI Quantitative Analysis System - 15+ LLM agents with cost-aware routing, persistent memory, and real-time S",
     "id": "FancongLiu/onionquant",
     "language": "Python",
@@ -7,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T15:44:09Z",
     "url": "https://github.com/FancongLiu/onionquant"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 3969,
-    "updated_at": "2026-06-19T15:43:25Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
@@ -40,7 +85,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6204,
+    "stars": 6205,
     "updated_at": "2026-06-19T15:37:28Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -49,7 +94,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23201,
+    "stars": 23202,
     "updated_at": "2026-06-19T15:37:16Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -63,15 +108,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "Agent SDK, CLI, Platform in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 6,
-    "updated_at": "2026-06-19T15:34:09Z",
-    "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -79,15 +115,6 @@
     "stars": 162,
     "updated_at": "2026-06-19T15:31:16Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T15:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 20,
-    "updated_at": "2026-06-19T14:43:23Z",
+    "updated_at": "2026-06-19T15:51:30Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T14:39:05Z",
     "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 163,
-    "updated_at": "2026-06-19T14:38:24Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 188,
-    "updated_at": "2026-06-19T15:34:09Z",
+    "updated_at": "2026-06-19T15:56:51Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T12:52:58Z",
     "url": "https://github.com/phenomenoner/agent-harness-core"
-  },
-  {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:51:27Z",
-    "url": "https://github.com/ludex-lab/ludex"
-  },
-  {
-    "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
-    "id": "agentlas-ai/Hephaestus",
-    "language": "Python",
-    "name": "agentlas-ai/Hephaestus",
-    "stars": 77,
-    "updated_at": "2026-06-19T12:50:59Z",
-    "url": "https://github.com/agentlas-ai/Hephaestus"
   }
 ]
