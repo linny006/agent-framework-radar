@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "neural-agi/Qwen3-Coder-Next",
     "stars": 0,
-    "updated_at": "2026-06-20T10:42:48Z",
+    "updated_at": "2026-06-20T10:51:27Z",
     "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
+  },
+  {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 247,
+    "updated_at": "2026-06-20T10:53:25Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
+    "id": "akyourowngames/friday",
+    "language": "Python",
+    "name": "akyourowngames/friday",
+    "stars": 0,
+    "updated_at": "2026-06-20T10:50:00Z",
+    "url": "https://github.com/akyourowngames/friday"
+  },
+  {
+    "description": "Security-first AI agent orchestration platform with local LLM support, tool approvals, sandboxing, prompt-injection defe",
+    "id": "Threat-Vector-Security/guardian-agent",
+    "language": "TypeScript",
+    "name": "Threat-Vector-Security/guardian-agent",
+    "stars": 11,
+    "updated_at": "2026-06-20T10:48:17Z",
+    "url": "https://github.com/Threat-Vector-Security/guardian-agent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-20T10:48:57Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T10:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Trust and verification for the skills your AI agent installs.",
@@ -16,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T10:36:27Z",
     "url": "https://github.com/alexverify/assay"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-20T10:37:22Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
@@ -54,21 +90,12 @@
     "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T10:30:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
     "id": "qmilab/asterism",
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 2,
-    "updated_at": "2026-06-20T10:45:01Z",
+    "updated_at": "2026-06-20T10:52:43Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
@@ -88,15 +115,6 @@
     "stars": 9,
     "updated_at": "2026-06-20T10:39:35Z",
     "url": "https://github.com/AmritaBot/AmritaCore"
-  },
-  {
-    "description": "Security-first AI agent orchestration platform with local LLM support, tool approvals, sandboxing, prompt-injection defe",
-    "id": "Threat-Vector-Security/guardian-agent",
-    "language": "TypeScript",
-    "name": "Threat-Vector-Security/guardian-agent",
-    "stars": 11,
-    "updated_at": "2026-06-20T10:07:14Z",
-    "url": "https://github.com/Threat-Vector-Security/guardian-agent"
   },
   {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
@@ -193,7 +211,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11496,
+    "stars": 11497,
     "updated_at": "2026-06-20T09:43:47Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T06:30:07Z",
     "url": "https://github.com/br3eze-code/br3eze-code"
-  },
-  {
-    "description": "EvE is an open-source framework for co-evolving ensembles of coding agents. Wrap any coding agent \u2014 Codex, Claude Code \u2014",
-    "id": "scaling-group/eve",
-    "language": "Python",
-    "name": "scaling-group/eve",
-    "stars": 27,
-    "updated_at": "2026-06-20T06:21:32Z",
-    "url": "https://github.com/scaling-group/eve"
-  },
-  {
-    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 73,
-    "updated_at": "2026-06-20T06:18:46Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
