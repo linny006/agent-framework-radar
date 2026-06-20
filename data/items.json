@@ -1,12 +1,39 @@
 [
   {
+    "description": "An open-source framework for guardian agents \u2014 morality signed into the floor, verified before acting, enforced fail-clo",
+    "id": "nidamen/theangels",
+    "language": "JavaScript",
+    "name": "nidamen/theangels",
+    "stars": 0,
+    "updated_at": "2026-06-20T22:39:48Z",
+    "url": "https://github.com/nidamen/theangels"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 68,
-    "updated_at": "2026-06-20T22:28:55Z",
+    "updated_at": "2026-06-20T22:35:49Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-20T22:34:02Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T22:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T22:23:38Z",
+    "updated_at": "2026-06-20T22:43:22Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Elixir",
     "name": "showjihyun/ElGraph",
     "stars": 0,
-    "updated_at": "2026-06-20T22:16:52Z",
+    "updated_at": "2026-06-20T22:41:08Z",
     "url": "https://github.com/showjihyun/ElGraph"
   },
   {
@@ -45,21 +72,12 @@
     "url": "https://github.com/yakeworld/Synthos"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T22:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
     "id": "DYAI2025/Plumbline",
     "language": "Shell",
     "name": "DYAI2025/Plumbline",
     "stars": 6,
-    "updated_at": "2026-06-20T22:15:07Z",
+    "updated_at": "2026-06-20T22:41:15Z",
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
@@ -95,17 +113,17 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-20T22:18:11Z",
+    "updated_at": "2026-06-20T22:41:46Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "An open-source framework for guardian agents \u2014 morality signed into the floor, verified before acting, enforced fail-clo",
-    "id": "nidamen/theangels",
-    "language": "JavaScript",
-    "name": "nidamen/theangels",
+    "description": "BountyOps Claim Guardian: AI agent demo for GitHub bounty monitoring, payout-risk triage, CI checks, and no-spam claim p",
+    "id": "taherdhanera/bountyops-claim-guardian-demo",
+    "language": "HTML",
+    "name": "taherdhanera/bountyops-claim-guardian-demo",
     "stars": 0,
-    "updated_at": "2026-06-20T21:46:38Z",
-    "url": "https://github.com/nidamen/theangels"
+    "updated_at": "2026-06-20T21:51:36Z",
+    "url": "https://github.com/taherdhanera/bountyops-claim-guardian-demo"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -151,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T21:10:13Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-20T21:09:30Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "The agent framework where every run is durable, replayable, and resumable by default.",
@@ -302,7 +311,7 @@
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-06-20T21:58:37Z",
+    "updated_at": "2026-06-20T22:32:32Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T17:12:44Z",
     "url": "https://github.com/vanamayaswanth/tvastar"
-  },
-  {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:12:05Z",
-    "url": "https://github.com/denisotree/veles"
   }
 ]
