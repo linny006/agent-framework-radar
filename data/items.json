@@ -1,12 +1,84 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-20T11:45:10Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
+    "id": "guilingzhouyi-creator/NOMOS",
+    "language": "Python",
+    "name": "guilingzhouyi-creator/NOMOS",
+    "stars": 1,
+    "updated_at": "2026-06-20T11:43:43Z",
+    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 5,
+    "updated_at": "2026-06-20T11:44:43Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 2,
+    "updated_at": "2026-06-20T11:37:29Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-20T11:29:35Z",
+    "updated_at": "2026-06-20T11:36:46Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6407,
+    "updated_at": "2026-06-20T11:31:46Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 581,
+    "updated_at": "2026-06-20T11:31:47Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Security-first AI agent orchestration platform with local LLM support, tool approvals, sandboxing, prompt-injection defe",
+    "id": "Threat-Vector-Security/guardian-agent",
+    "language": "TypeScript",
+    "name": "Threat-Vector-Security/guardian-agent",
+    "stars": 11,
+    "updated_at": "2026-06-20T11:30:46Z",
+    "url": "https://github.com/Threat-Vector-Security/guardian-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T11:30:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Turn any skill into a standalone, runnable AI Agent",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T11:22:21Z",
+    "updated_at": "2026-06-20T11:45:13Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -54,24 +126,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
-    "id": "guilingzhouyi-creator/NOMOS",
-    "language": "Python",
-    "name": "guilingzhouyi-creator/NOMOS",
-    "stars": 1,
-    "updated_at": "2026-06-20T11:18:22Z",
-    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 2,
-    "updated_at": "2026-06-20T11:17:52Z",
-    "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -79,24 +133,6 @@
     "stars": 73,
     "updated_at": "2026-06-20T11:15:24Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T11:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 5,
-    "updated_at": "2026-06-20T11:13:58Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -108,21 +144,12 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Security-first AI agent orchestration platform with local LLM support, tool approvals, sandboxing, prompt-injection defe",
-    "id": "Threat-Vector-Security/guardian-agent",
-    "language": "TypeScript",
-    "name": "Threat-Vector-Security/guardian-agent",
-    "stars": 11,
-    "updated_at": "2026-06-20T11:09:06Z",
-    "url": "https://github.com/Threat-Vector-Security/guardian-agent"
-  },
-  {
     "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
     "id": "qmilab/asterism",
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 2,
-    "updated_at": "2026-06-20T10:58:54Z",
+    "updated_at": "2026-06-20T11:36:40Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
@@ -259,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T09:47:27Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:45:53Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T07:11:34Z",
     "url": "https://github.com/tsingxuanhan/agent4science"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 2,
-    "updated_at": "2026-06-20T07:09:15Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "\ud83c\udfc6 Ranked list of 100+ agent harnesses. Scored and updated weekly.",
-    "id": "RyanAlberts/best-of-Agent-Harnesses",
-    "language": "Python",
-    "name": "RyanAlberts/best-of-Agent-Harnesses",
-    "stars": 135,
-    "updated_at": "2026-06-20T06:52:11Z",
-    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
   }
 ]
