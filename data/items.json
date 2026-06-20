@@ -1,5 +1,32 @@
 [
   {
+    "description": "PurrCat Agent",
+    "id": "PurrPod/purrcat",
+    "language": "Python",
+    "name": "PurrPod/purrcat",
+    "stars": 5,
+    "updated_at": "2026-06-20T16:02:25Z",
+    "url": "https://github.com/PurrPod/purrcat"
+  },
+  {
+    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
+    "id": "akyourowngames/friday",
+    "language": "Python",
+    "name": "akyourowngames/friday",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:02:19Z",
+    "url": "https://github.com/akyourowngames/friday"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T16:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
     "id": "amitpatole/verel",
     "language": "Python",
@@ -18,11 +45,20 @@
     "url": "https://github.com/Ecro/harness-maker"
   },
   {
+    "description": "Loop quality layer for production AI agents. Detects silent failures, runs agents on a schedule with verify + handoff, a",
+    "id": "vanamayaswanth/tvastar",
+    "language": "Python",
+    "name": "vanamayaswanth/tvastar",
+    "stars": 1,
+    "updated_at": "2026-06-20T16:04:35Z",
+    "url": "https://github.com/vanamayaswanth/tvastar"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23321,
+    "stars": 23322,
     "updated_at": "2026-06-20T15:57:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -31,7 +67,7 @@
     "id": "agenthatch/agenthatch",
     "language": "Python",
     "name": "agenthatch/agenthatch",
-    "stars": 23,
+    "stars": 24,
     "updated_at": "2026-06-20T15:57:10Z",
     "url": "https://github.com/agenthatch/agenthatch"
   },
@@ -52,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T15:49:58Z",
     "url": "https://github.com/HaohanHe/Opedrgent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T15:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -148,7 +175,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4153,
+    "stars": 4154,
     "updated_at": "2026-06-20T15:21:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T13:43:49Z",
     "url": "https://github.com/dgenio/intentflow"
-  },
-  {
-    "description": "Security-first AI agent orchestration platform with local LLM support, tool approvals, sandboxing, prompt-injection defe",
-    "id": "Threat-Vector-Security/guardian-agent",
-    "language": "TypeScript",
-    "name": "Threat-Vector-Security/guardian-agent",
-    "stars": 11,
-    "updated_at": "2026-06-20T13:07:30Z",
-    "url": "https://github.com/Threat-Vector-Security/guardian-agent"
-  },
-  {
-    "description": "Project-scoped memory routing and isolation for AI agent frameworks (OpenClaw / Claude Code / Codex).",
-    "id": "PluteW/isola",
-    "language": "Python",
-    "name": "PluteW/isola",
-    "stars": 0,
-    "updated_at": "2026-06-20T13:05:01Z",
-    "url": "https://github.com/PluteW/isola"
-  },
-  {
-    "description": "Markdown Agent Studio is a workspace where agents develop specialization through their own experience.",
-    "id": "RobThePCGuy/markdown-agent-studio",
-    "language": "TypeScript",
-    "name": "RobThePCGuy/markdown-agent-studio",
-    "stars": 2,
-    "updated_at": "2026-06-20T12:42:42Z",
-    "url": "https://github.com/RobThePCGuy/markdown-agent-studio"
   }
 ]
