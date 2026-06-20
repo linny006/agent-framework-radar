@@ -1,21 +1,12 @@
 [
   {
-    "description": "An open-source framework for guardian agents \u2014 morality signed into the floor, verified before acting, enforced fail-clo",
-    "id": "nidamen/theangels",
-    "language": "JavaScript",
-    "name": "nidamen/theangels",
-    "stars": 0,
-    "updated_at": "2026-06-20T21:46:38Z",
-    "url": "https://github.com/nidamen/theangels"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T21:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
+    "id": "the-long-ride/engram",
+    "language": "TypeScript",
+    "name": "the-long-ride/engram",
+    "stars": 5,
+    "updated_at": "2026-06-20T21:55:18Z",
+    "url": "https://github.com/the-long-ride/engram"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -23,17 +14,26 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-20T21:47:21Z",
+    "updated_at": "2026-06-20T21:53:12Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
-    "id": "the-long-ride/engram",
-    "language": "TypeScript",
-    "name": "the-long-ride/engram",
-    "stars": 5,
-    "updated_at": "2026-06-20T21:40:09Z",
-    "url": "https://github.com/the-long-ride/engram"
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T21:52:41Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An open-source framework for guardian agents \u2014 morality signed into the floor, verified before acting, enforced fail-clo",
+    "id": "nidamen/theangels",
+    "language": "JavaScript",
+    "name": "nidamen/theangels",
+    "stars": 0,
+    "updated_at": "2026-06-20T21:46:38Z",
+    "url": "https://github.com/nidamen/theangels"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -221,7 +221,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T21:43:07Z",
+    "updated_at": "2026-06-20T21:58:20Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -266,7 +266,7 @@
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-06-20T20:25:54Z",
+    "updated_at": "2026-06-20T21:58:37Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
