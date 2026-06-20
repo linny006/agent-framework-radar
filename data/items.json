@@ -1,5 +1,77 @@
 [
   {
+    "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
+    "id": "AmritaBot/AmritaCore",
+    "language": "Python",
+    "name": "AmritaBot/AmritaCore",
+    "stars": 9,
+    "updated_at": "2026-06-20T10:14:35Z",
+    "url": "https://github.com/AmritaBot/AmritaCore"
+  },
+  {
+    "description": "Trust and verification for the skills your AI agent installs.",
+    "id": "alexverify/assay",
+    "language": "Go",
+    "name": "alexverify/assay",
+    "stars": 1,
+    "updated_at": "2026-06-20T10:13:51Z",
+    "url": "https://github.com/alexverify/assay"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-20T10:13:29Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Build LLM agent graphs declaratively \u2014 a tiny DSL over LangGraph with automatic tool loops, structured-output routing, a",
+    "id": "TeeratP/agentic-framework",
+    "language": "Python",
+    "name": "TeeratP/agentic-framework",
+    "stars": 0,
+    "updated_at": "2026-06-20T10:08:30Z",
+    "url": "https://github.com/TeeratP/agentic-framework"
+  },
+  {
+    "description": "Security-first AI agent orchestration platform with local LLM support, tool approvals, sandboxing, prompt-injection defe",
+    "id": "Threat-Vector-Security/guardian-agent",
+    "language": "TypeScript",
+    "name": "Threat-Vector-Security/guardian-agent",
+    "stars": 11,
+    "updated_at": "2026-06-20T10:07:14Z",
+    "url": "https://github.com/Threat-Vector-Security/guardian-agent"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 2,
+    "updated_at": "2026-06-20T10:05:13Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
+    "id": "firatcand/roster",
+    "language": "TypeScript",
+    "name": "firatcand/roster",
+    "stars": 13,
+    "updated_at": "2026-06-20T10:02:28Z",
+    "url": "https://github.com/firatcand/roster"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T10:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-20T09:58:56Z",
+    "updated_at": "2026-06-20T10:08:06Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -63,15 +135,6 @@
     "url": "https://github.com/sandydasari/openacme"
   },
   {
-    "description": "Trust and verification for the skills your AI agent installs.",
-    "id": "alexverify/assay",
-    "language": "Go",
-    "name": "alexverify/assay",
-    "stars": 1,
-    "updated_at": "2026-06-20T09:50:48Z",
-    "url": "https://github.com/alexverify/assay"
-  },
-  {
     "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
     "id": "ludex-lab/ludex",
     "language": "Python",
@@ -90,15 +153,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
-    "id": "AmritaBot/AmritaCore",
-    "language": "Python",
-    "name": "AmritaBot/AmritaCore",
-    "stars": 9,
-    "updated_at": "2026-06-20T09:52:13Z",
-    "url": "https://github.com/AmritaBot/AmritaCore"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -108,29 +162,11 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T09:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-20T09:58:30Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11494,
+    "stars": 11495,
     "updated_at": "2026-06-20T09:43:47Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -198,15 +234,6 @@
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
-    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
-    "id": "firatcand/roster",
-    "language": "TypeScript",
-    "name": "firatcand/roster",
-    "stars": 13,
-    "updated_at": "2026-06-20T10:00:10Z",
-    "url": "https://github.com/firatcand/roster"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -256,7 +283,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4113,
+    "stars": 4115,
     "updated_at": "2026-06-20T08:19:24Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -286,15 +313,6 @@
     "stars": 217,
     "updated_at": "2026-06-20T07:44:15Z",
     "url": "https://github.com/pardnchiu/Agenvoy"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 2,
-    "updated_at": "2026-06-20T07:37:13Z",
-    "url": "https://github.com/Ecro/harness-maker"
   },
   {
     "description": "Single-kernel Codex runtime that distills skills, agents, plugins, and workflows into atomic capabilities and routes the",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-20T05:59:58Z",
     "url": "https://github.com/shimo4228/agent-knowledge-cycle"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23274,
-    "updated_at": "2026-06-20T05:45:19Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 16,
-    "updated_at": "2026-06-20T05:31:58Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
