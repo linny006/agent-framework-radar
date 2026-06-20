@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-20 20:45 UTC
+> ⏰ Last updated: 2026-06-20 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-20 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 2 | [motojinc25/chatwalaau](https://github.com/motojinc25/chatwalaau) | 2 | Python | 2026-06-20 | The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install |
-| 3 | [osovv/vv-opencode](https://github.com/osovv/vv-opencode) | 6 | TypeScript | 2026-06-20 | Portable OpenCode workflow toolkit — 6 plugins, managed agents & skills, a spec-to-code pipeline, security, and the vvoc |
-| 4 | [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) | 1350 | Rust | 2026-06-20 | The agent framework where every run is durable, replayable, and resumable by default. |
-| 5 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 6 | Shell | 2026-06-20 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
-| 6 | [theshovonsaha/shovsOS](https://github.com/theshovonsaha/shovsOS) | 3 | Python | 2026-06-20 | Shovs LLM OS is a local-first, open-source control center for autonomous agents. |
-| 7 | [ellmos-ai/skills](https://github.com/ellmos-ai/skills) | 1 | Python | 2026-06-20 | Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows |
-| 8 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-20 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
-| 9 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 0 | HTML | 2026-06-20 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
-| 10 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-06-20 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 11 | [br3eze-code/br3eze-code](https://github.com/br3eze-code/br3eze-code) | 1 | JavaScript | 2026-06-20 | Personal Ai Agent |
-| 12 | [qmilab/asterism](https://github.com/qmilab/asterism) | 2 | TypeScript | 2026-06-20 | A local-first runtime for running many distinct agents — each with its own memory, secrets, skills, workspace, and auton |
+| 1 | [qmilab/asterism](https://github.com/qmilab/asterism) | 2 | TypeScript | 2026-06-20 | A local-first runtime for running many distinct agents — each with its own memory, secrets, skills, workspace, and auton |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-20 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [ellmos-ai/skills](https://github.com/ellmos-ai/skills) | 1 | Python | 2026-06-20 | Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows |
+| 4 | [motojinc25/chatwalaau](https://github.com/motojinc25/chatwalaau) | 2 | Python | 2026-06-20 | The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install |
+| 5 | [osovv/vv-opencode](https://github.com/osovv/vv-opencode) | 6 | TypeScript | 2026-06-20 | Portable OpenCode workflow toolkit — 6 plugins, managed agents & skills, a spec-to-code pipeline, security, and the vvoc |
+| 6 | [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) | 1350 | Rust | 2026-06-20 | The agent framework where every run is durable, replayable, and resumable by default. |
+| 7 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 6 | Shell | 2026-06-20 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
+| 8 | [theshovonsaha/shovsOS](https://github.com/theshovonsaha/shovsOS) | 3 | Python | 2026-06-20 | Shovs LLM OS is a local-first, open-source control center for autonomous agents. |
+| 9 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-20 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
+| 10 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 0 | HTML | 2026-06-20 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
+| 11 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-06-20 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 12 | [br3eze-code/br3eze-code](https://github.com/br3eze-code/br3eze-code) | 1 | JavaScript | 2026-06-20 | Personal Ai Agent |
 | 13 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-06-20 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
 | 14 | [the-long-ride/engram](https://github.com/the-long-ride/engram) | 5 | TypeScript | 2026-06-20 | Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje |
 | 15 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17869 | Python | 2026-06-20 | AI Agent Framework, the Pydantic way |
@@ -82,7 +82,7 @@ expired items removed — so you can rely on what you see being current.
 | 38 | [akyourowngames/friday](https://github.com/akyourowngames/friday) | 0 | Python | 2026-06-20 | Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/ |
 | 39 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 357 | Go | 2026-06-20 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
 | 40 | [jakbuczarnecki/intergrax](https://github.com/jakbuczarnecki/intergrax) | 4 | Python | 2026-06-20 | Harness AI & Agent OS for governed multi-agent systems in Python — Nexus orchestration, policy, tools, skills, RAG & mul |
-| 41 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 23339 | Go | 2026-06-20 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 41 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 23341 | Go | 2026-06-20 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | 42 | [vanamayaswanth/tvastar](https://github.com/vanamayaswanth/tvastar) | 1 | Python | 2026-06-20 | Loop quality layer for production AI agents. Detects silent failures, runs agents on a schedule with verify + handoff, a |
 | 43 | [denisotree/veles](https://github.com/denisotree/veles) | 0 | Python | 2026-06-20 | Minimal CLI agent framework with compounding project memory — gets smarter with every session. Clean, modular, any LLM p |
 | 44 | [framerslab/agentos](https://github.com/framerslab/agentos) | 582 | TypeScript | 2026-06-20 | TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers. |
