@@ -1,12 +1,39 @@
 [
   {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-20T00:28:47Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
     "id": "amitpatole/verel",
     "language": "Python",
     "name": "amitpatole/verel",
     "stars": 0,
-    "updated_at": "2026-06-20T00:16:25Z",
+    "updated_at": "2026-06-20T00:25:40Z",
     "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "Model-agnostic, embeddable agent kit \u2014 verification, adaptive context, effort routing, cache-aware cost model, cross-pla",
+    "id": "Audrey-cn/universal-agent-embedding-kit",
+    "language": "Python",
+    "name": "Audrey-cn/universal-agent-embedding-kit",
+    "stars": 0,
+    "updated_at": "2026-06-20T00:24:22Z",
+    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
+  },
+  {
+    "description": "Agent SDK, CLI, Platform in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-06-20T00:21:17Z",
+    "url": "https://github.com/Wh1isper/starweaver"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T00:15:22Z",
+    "updated_at": "2026-06-20T00:18:39Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -45,15 +72,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Agent SDK, CLI, Platform in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 6,
-    "updated_at": "2026-06-20T00:12:54Z",
-    "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
     "id": "fireflyframework/fireflyframework-agentic",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 4,
     "updated_at": "2026-06-20T00:16:46Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-20T00:09:15Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -189,15 +198,6 @@
     "url": "https://github.com/hidemi-k/maf-netconf-rag-gui"
   },
   {
-    "description": "Model-agnostic, embeddable agent kit \u2014 verification, adaptive context, effort routing, cache-aware cost model, cross-pla",
-    "id": "Audrey-cn/universal-agent-embedding-kit",
-    "language": "Python",
-    "name": "Audrey-cn/universal-agent-embedding-kit",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:28:28Z",
-    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
-  },
-  {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
     "id": "evalstate/fast-agent",
     "language": "Python",
@@ -252,6 +252,15 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4418,
+    "updated_at": "2026-06-19T22:32:16Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
     "id": "motojinc25/chatwalaau",
     "language": "Python",
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-19T23:27:38Z",
+    "updated_at": "2026-06-20T00:21:40Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -331,15 +340,6 @@
     "stars": 6,
     "updated_at": "2026-06-19T21:24:42Z",
     "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4417,
-    "updated_at": "2026-06-19T22:32:16Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "The control plane for AI coding agents.",
@@ -401,7 +401,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 246,
-    "updated_at": "2026-06-20T00:18:25Z",
+    "updated_at": "2026-06-20T00:30:12Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
