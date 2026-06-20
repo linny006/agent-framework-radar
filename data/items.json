@@ -1,12 +1,48 @@
 [
   {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 76,
+    "updated_at": "2026-06-20T18:41:31Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 166,
+    "updated_at": "2026-06-20T18:40:08Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
     "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
     "id": "guilingzhouyi-creator/NOMOS",
     "language": "Python",
     "name": "guilingzhouyi-creator/NOMOS",
     "stars": 1,
-    "updated_at": "2026-06-20T18:30:08Z",
+    "updated_at": "2026-06-20T18:37:52Z",
     "url": "https://github.com/guilingzhouyi-creator/NOMOS"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-06-20T18:42:17Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T18:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -16,15 +52,6 @@
     "stars": 68,
     "updated_at": "2026-06-20T18:26:33Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
-    "id": "sandydasari/openacme",
-    "language": "TypeScript",
-    "name": "sandydasari/openacme",
-    "stars": 76,
-    "updated_at": "2026-06-20T18:23:36Z",
-    "url": "https://github.com/sandydasari/openacme"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T18:15:58Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T18:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T18:24:55Z",
+    "updated_at": "2026-06-20T18:40:50Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-20T18:20:28Z",
+    "updated_at": "2026-06-20T18:42:05Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -373,7 +391,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11502,
+    "stars": 11501,
     "updated_at": "2026-06-20T15:49:46Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -409,18 +427,9 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4169,
+    "stars": 4171,
     "updated_at": "2026-06-20T15:21:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 166,
-    "updated_at": "2026-06-20T15:13:26Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Personal Ai Agent",
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-06-20T14:56:26Z",
     "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "Clarity/\u5fc3\u866b \u2014 AI\u8ba4\u77e5\u4e0e\u81ea\u6108\u5f15\u64ce\u3002\u5b58\u5728\u611f\u77e5\u3001\u771f\u5584\u7f8e\u8bc4\u5206\u3001\u4e09\u5c42\u8bb0\u5fc6\u3001Q-learning\u81ea\u6108\u3001\u68a6\u5883\u6574\u5408\u3001\u53cd\u4e8b\u5b9e\u63a8\u7406",
-    "id": "yun520-1/claude-clarity",
-    "language": "\u2014",
-    "name": "yun520-1/claude-clarity",
-    "stars": 1,
-    "updated_at": "2026-06-20T14:56:09Z",
-    "url": "https://github.com/yun520-1/claude-clarity"
   }
 ]
