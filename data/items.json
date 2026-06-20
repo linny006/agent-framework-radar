@@ -1,5 +1,59 @@
 [
   {
+    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
+    "id": "qmilab/asterism",
+    "language": "TypeScript",
+    "name": "qmilab/asterism",
+    "stars": 2,
+    "updated_at": "2026-06-20T18:58:58Z",
+    "url": "https://github.com/qmilab/asterism"
+  },
+  {
+    "description": "Ready-to-run foundation for building vertical AI agents",
+    "id": "ysz7/genesis-agent",
+    "language": "Python",
+    "name": "ysz7/genesis-agent",
+    "stars": 1,
+    "updated_at": "2026-06-20T18:58:25Z",
+    "url": "https://github.com/ysz7/genesis-agent"
+  },
+  {
+    "description": "Shovs LLM OS is a local-first, open-source control center for autonomous agents.",
+    "id": "theshovonsaha/shovsOS",
+    "language": "Python",
+    "name": "theshovonsaha/shovsOS",
+    "stars": 3,
+    "updated_at": "2026-06-20T18:54:53Z",
+    "url": "https://github.com/theshovonsaha/shovsOS"
+  },
+  {
+    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
+    "id": "amitpatole/verel",
+    "language": "Python",
+    "name": "amitpatole/verel",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:53:54Z",
+    "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-06-20T18:49:12Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T18:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
     "id": "sandydasari/openacme",
     "language": "TypeScript",
@@ -25,24 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T18:37:52Z",
     "url": "https://github.com/guilingzhouyi-creator/NOMOS"
-  },
-  {
-    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
-    "id": "bugsyhewitt/AlienClaw",
-    "language": "TypeScript",
-    "name": "bugsyhewitt/AlienClaw",
-    "stars": 7,
-    "updated_at": "2026-06-20T18:42:17Z",
-    "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T18:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -189,15 +225,6 @@
     "url": "https://github.com/akyourowngames/friday"
   },
   {
-    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
-    "id": "amitpatole/verel",
-    "language": "Python",
-    "name": "amitpatole/verel",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:24:43Z",
-    "url": "https://github.com/amitpatole/verel"
-  },
-  {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
     "id": "mnemon-dev/mnemon",
     "language": "Go",
@@ -229,7 +256,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23333,
+    "stars": 23334,
     "updated_at": "2026-06-20T17:19:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -288,6 +315,15 @@
     "url": "https://github.com/ludex-lab/ludex"
   },
   {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 22,
+    "updated_at": "2026-06-20T16:55:38Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
     "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
     "id": "CarlosCaPe/octorato",
     "language": "Python",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T18:40:50Z",
+    "updated_at": "2026-06-20T18:52:59Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-20T18:42:05Z",
+    "updated_at": "2026-06-20T18:52:19Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 21,
-    "updated_at": "2026-06-20T16:55:38Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
     "description": "\u57fa\u4e8e\u751f\u547d\u5468\u671f\u94a9\u5b50\u7684\u8f7b\u91cf\u7ea7 AI Agent \u6846\u67b6 \u2014 \u63d2\u4ef6\u5373\u6587\u4ef6\uff0c\u5168\u5f02\u6b65\uff0c\u96f6 SDK \u4f9d\u8d56",
     "id": "zpb911km/fp-agent",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-06-20T15:43:03Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4171,
-    "updated_at": "2026-06-20T15:21:49Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Personal Ai Agent",
-    "id": "br3eze-code/br3eze-code",
-    "language": "JavaScript",
-    "name": "br3eze-code/br3eze-code",
-    "stars": 1,
-    "updated_at": "2026-06-20T14:59:37Z",
-    "url": "https://github.com/br3eze-code/br3eze-code"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 9,
-    "updated_at": "2026-06-20T14:56:26Z",
-    "url": "https://github.com/ethosagent/ethos"
   }
 ]
