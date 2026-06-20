@@ -1,5 +1,50 @@
 [
   {
+    "description": "The autonomous agent platform \u2014 describe the goal; design, run, and fine-tune your own agents. AGPL-3.0.",
+    "id": "sagewai/platform",
+    "language": "Python",
+    "name": "sagewai/platform",
+    "stars": 0,
+    "updated_at": "2026-06-20T21:25:25Z",
+    "url": "https://github.com/sagewai/platform"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 8,
+    "updated_at": "2026-06-20T21:23:49Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
+    "id": "the-long-ride/engram",
+    "language": "TypeScript",
+    "name": "the-long-ride/engram",
+    "stars": 5,
+    "updated_at": "2026-06-20T21:22:54Z",
+    "url": "https://github.com/the-long-ride/engram"
+  },
+  {
+    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
+    "id": "qmilab/asterism",
+    "language": "TypeScript",
+    "name": "qmilab/asterism",
+    "stars": 2,
+    "updated_at": "2026-06-20T21:18:38Z",
+    "url": "https://github.com/qmilab/asterism"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T21:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Production-ready Python framework for AI agents with built-in guardrails, audit logging, cost tracking, and hybrid RAG. ",
     "id": "johnnichev/selectools",
     "language": "Python",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T21:09:30Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
-    "id": "the-long-ride/engram",
-    "language": "TypeScript",
-    "name": "the-long-ride/engram",
-    "stars": 5,
-    "updated_at": "2026-06-20T21:08:22Z",
-    "url": "https://github.com/the-long-ride/engram"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -79,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T21:02:11Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T21:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 2,
-    "updated_at": "2026-06-20T20:45:32Z",
-    "url": "https://github.com/qmilab/asterism"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T21:14:05Z",
+    "updated_at": "2026-06-20T21:26:32Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 8,
     "updated_at": "2026-06-20T16:50:46Z",
     "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 162,
-    "updated_at": "2026-06-20T16:49:58Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
-    "id": "firatcand/roster",
-    "language": "TypeScript",
-    "name": "firatcand/roster",
-    "stars": 13,
-    "updated_at": "2026-06-20T16:46:52Z",
-    "url": "https://github.com/firatcand/roster"
   }
 ]
