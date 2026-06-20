@@ -1,12 +1,75 @@
 [
   {
+    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
+    "id": "garyqlin/gbase",
+    "language": "Python",
+    "name": "garyqlin/gbase",
+    "stars": 168,
+    "updated_at": "2026-06-20T01:43:21Z",
+    "url": "https://github.com/garyqlin/gbase"
+  },
+  {
+    "description": "Model-agnostic, embeddable agent kit \u2014 verification, adaptive context, effort routing, cache-aware cost model, cross-pla",
+    "id": "Audrey-cn/universal-agent-embedding-kit",
+    "language": "Python",
+    "name": "Audrey-cn/universal-agent-embedding-kit",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:42:59Z",
+    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
+  },
+  {
+    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
+    "id": "Studnicky/Dagonizer",
+    "language": "TypeScript",
+    "name": "Studnicky/Dagonizer",
+    "stars": 3,
+    "updated_at": "2026-06-20T01:44:45Z",
+    "url": "https://github.com/Studnicky/Dagonizer"
+  },
+  {
+    "description": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442-\u0430\u0433\u0435\u043d\u0442 (\u0415\u0432\u0430) \u043d\u0430 eve + Ollama Cloud (DeepSeek-V4-Pro): \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c, \u0441\u043a\u0438\u043b\u043b\u044b, \u0441\u0443\u0431\u0430\u0433\u0435\u043d\u0442\u044b, Telegram, cron",
+    "id": "smixs/eve-assistant",
+    "language": "Python",
+    "name": "smixs/eve-assistant",
+    "stars": 1,
+    "updated_at": "2026-06-20T01:39:27Z",
+    "url": "https://github.com/smixs/eve-assistant"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4056,
+    "updated_at": "2026-06-20T01:37:14Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
     "id": "lightfastai/lightfast",
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-20T01:21:17Z",
+    "updated_at": "2026-06-20T01:43:06Z",
     "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Agent SDK, CLI, Platform in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-06-20T01:32:44Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T01:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
@@ -32,17 +95,8 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T01:29:25Z",
+    "updated_at": "2026-06-20T01:44:56Z",
     "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442-\u0430\u0433\u0435\u043d\u0442 (\u0415\u0432\u0430) \u043d\u0430 eve + Ollama Cloud (DeepSeek-V4-Pro): \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c, \u0441\u043a\u0438\u043b\u043b\u044b, \u0441\u0443\u0431\u0430\u0433\u0435\u043d\u0442\u044b, Telegram, cron",
-    "id": "smixs/eve-assistant",
-    "language": "Python",
-    "name": "smixs/eve-assistant",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:16:47Z",
-    "url": "https://github.com/smixs/eve-assistant"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
@@ -52,15 +106,6 @@
     "stars": 20,
     "updated_at": "2026-06-20T01:15:52Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -99,6 +144,15 @@
     "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
+    "description": "Graph-first agent framework on the BEAM (Elixir/OTP) \u2014 durable execution, HITL, time-travel, checkpoints, MCP. A LangGra",
+    "id": "showjihyun/ElGraph",
+    "language": "Elixir",
+    "name": "showjihyun/ElGraph",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:40:28Z",
+    "url": "https://github.com/showjihyun/ElGraph"
+  },
+  {
     "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
     "id": "thetonymaster/normandy",
     "language": "Elixir",
@@ -106,33 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T01:28:00Z",
     "url": "https://github.com/thetonymaster/normandy"
-  },
-  {
-    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
-    "id": "garyqlin/gbase",
-    "language": "Python",
-    "name": "garyqlin/gbase",
-    "stars": 168,
-    "updated_at": "2026-06-20T00:53:48Z",
-    "url": "https://github.com/garyqlin/gbase"
-  },
-  {
-    "description": "Agent SDK, CLI, Platform in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 6,
-    "updated_at": "2026-06-20T00:51:56Z",
-    "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Model-agnostic, embeddable agent kit \u2014 verification, adaptive context, effort routing, cache-aware cost model, cross-pla",
-    "id": "Audrey-cn/universal-agent-embedding-kit",
-    "language": "Python",
-    "name": "Audrey-cn/universal-agent-embedding-kit",
-    "stars": 0,
-    "updated_at": "2026-06-20T00:42:26Z",
-    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
   },
   {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
@@ -160,15 +187,6 @@
     "stars": 5631,
     "updated_at": "2026-06-20T01:24:38Z",
     "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4055,
-    "updated_at": "2026-06-20T00:14:35Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -430,23 +448,5 @@
     "stars": 1427,
     "updated_at": "2026-06-19T21:01:08Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
-    "id": "truvaagents/truva-g3",
-    "language": "Go",
-    "name": "truvaagents/truva-g3",
-    "stars": 13,
-    "updated_at": "2026-06-19T20:50:45Z",
-    "url": "https://github.com/truvaagents/truva-g3"
-  },
-  {
-    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
-    "id": "Studnicky/Dagonizer",
-    "language": "TypeScript",
-    "name": "Studnicky/Dagonizer",
-    "stars": 3,
-    "updated_at": "2026-06-19T20:49:23Z",
-    "url": "https://github.com/Studnicky/Dagonizer"
   }
 ]
