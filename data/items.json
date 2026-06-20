@@ -1,5 +1,77 @@
 [
   {
+    "description": "Clarity/\u5fc3\u866b \u2014 AI\u8ba4\u77e5\u4e0e\u81ea\u6108\u5f15\u64ce\u3002\u5b58\u5728\u611f\u77e5\u3001\u771f\u5584\u7f8e\u8bc4\u5206\u3001\u4e09\u5c42\u8bb0\u5fc6\u3001Q-learning\u81ea\u6108\u3001\u68a6\u5883\u6574\u5408\u3001\u53cd\u4e8b\u5b9e\u63a8\u7406",
+    "id": "yun520-1/claude-clarity",
+    "language": "\u2014",
+    "name": "yun520-1/claude-clarity",
+    "stars": 1,
+    "updated_at": "2026-06-20T13:00:09Z",
+    "url": "https://github.com/yun520-1/claude-clarity"
+  },
+  {
+    "description": "Trust and verification for the skills your AI agent installs.",
+    "id": "alexverify/assay",
+    "language": "Go",
+    "name": "alexverify/assay",
+    "stars": 1,
+    "updated_at": "2026-06-20T12:59:57Z",
+    "url": "https://github.com/alexverify/assay"
+  },
+  {
+    "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
+    "id": "ellmos-ai/n8n-manager-mcp",
+    "language": "TypeScript",
+    "name": "ellmos-ai/n8n-manager-mcp",
+    "stars": 1,
+    "updated_at": "2026-06-20T12:59:47Z",
+    "url": "https://github.com/ellmos-ai/n8n-manager-mcp"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-20T12:53:59Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Graph-first agent framework on the BEAM (Elixir/OTP) \u2014 durable execution, HITL, time-travel, checkpoints, MCP. A LangGra",
+    "id": "showjihyun/ElGraph",
+    "language": "Elixir",
+    "name": "showjihyun/ElGraph",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:46:16Z",
+    "url": "https://github.com/showjihyun/ElGraph"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 1,
+    "updated_at": "2026-06-20T12:46:01Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
+    "id": "guilingzhouyi-creator/NOMOS",
+    "language": "Python",
+    "name": "guilingzhouyi-creator/NOMOS",
+    "stars": 1,
+    "updated_at": "2026-06-20T12:45:38Z",
+    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T12:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Markdown Agent Studio is a workspace where agents develop specialization through their own experience.",
     "id": "RobThePCGuy/markdown-agent-studio",
     "language": "TypeScript",
@@ -18,15 +90,6 @@
     "url": "https://github.com/ellmos-ai/rinnsal"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-20T12:42:49Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
@@ -36,38 +99,11 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Clarity/\u5fc3\u866b \u2014 AI\u8ba4\u77e5\u4e0e\u81ea\u6108\u5f15\u64ce\u3002\u5b58\u5728\u611f\u77e5\u3001\u771f\u5584\u7f8e\u8bc4\u5206\u3001\u4e09\u5c42\u8bb0\u5fc6\u3001Q-learning\u81ea\u6108\u3001\u68a6\u5883\u6574\u5408\u3001\u53cd\u4e8b\u5b9e\u63a8\u7406",
-    "id": "yun520-1/claude-clarity",
-    "language": "\u2014",
-    "name": "yun520-1/claude-clarity",
-    "stars": 1,
-    "updated_at": "2026-06-20T12:32:23Z",
-    "url": "https://github.com/yun520-1/claude-clarity"
-  },
-  {
-    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
-    "id": "guilingzhouyi-creator/NOMOS",
-    "language": "Python",
-    "name": "guilingzhouyi-creator/NOMOS",
-    "stars": 1,
-    "updated_at": "2026-06-20T12:31:32Z",
-    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T12:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4133,
+    "stars": 4132,
     "updated_at": "2026-06-20T12:25:39Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -76,7 +112,7 @@
     "id": "sandydasari/openacme",
     "language": "TypeScript",
     "name": "sandydasari/openacme",
-    "stars": 73,
+    "stars": 74,
     "updated_at": "2026-06-20T12:24:27Z",
     "url": "https://github.com/sandydasari/openacme"
   },
@@ -117,15 +153,6 @@
     "url": "https://github.com/pardnchiu/Agenvoy"
   },
   {
-    "description": "Trust and verification for the skills your AI agent installs.",
-    "id": "alexverify/assay",
-    "language": "Go",
-    "name": "alexverify/assay",
-    "stars": 1,
-    "updated_at": "2026-06-20T12:10:07Z",
-    "url": "https://github.com/alexverify/assay"
-  },
-  {
     "description": " SQLite-backed task coordination for AI agents. No server. No daemon. No queues. Just a shared database file agents use ",
     "id": "mrSamDev/agentic-kanban",
     "language": "Go",
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-06-20T12:33:51Z",
+    "updated_at": "2026-06-20T12:45:34Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
@@ -252,21 +279,12 @@
     "url": "https://github.com/agenthatch/agenthatch"
   },
   {
-    "description": "Graph-first agent framework on the BEAM (Elixir/OTP) \u2014 durable execution, HITL, time-travel, checkpoints, MCP. A LangGra",
-    "id": "showjihyun/ElGraph",
-    "language": "Elixir",
-    "name": "showjihyun/ElGraph",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:43:05Z",
-    "url": "https://github.com/showjihyun/ElGraph"
-  },
-  {
     "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
     "id": "jaylfc/taOS",
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T12:27:54Z",
+    "updated_at": "2026-06-20T12:55:55Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -400,7 +418,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11498,
+    "stars": 11499,
     "updated_at": "2026-06-20T09:43:47Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T09:35:19Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 67,
-    "updated_at": "2026-06-20T09:25:17Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 579,
-    "updated_at": "2026-06-20T09:22:19Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
   }
 ]
