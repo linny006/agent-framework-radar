@@ -1,12 +1,48 @@
 [
   {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-20T22:15:07Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-20T22:13:26Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
     "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
     "id": "the-long-ride/engram",
     "language": "TypeScript",
     "name": "the-long-ride/engram",
     "stars": 5,
-    "updated_at": "2026-06-20T21:55:18Z",
+    "updated_at": "2026-06-20T22:14:34Z",
     "url": "https://github.com/the-long-ride/engram"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-06-20T22:05:51Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution",
+    "id": "yakeworld/Synthos",
+    "language": "Python",
+    "name": "yakeworld/Synthos",
+    "stars": 4,
+    "updated_at": "2026-06-20T22:05:29Z",
+    "url": "https://github.com/yakeworld/Synthos"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-20T21:53:12Z",
+    "updated_at": "2026-06-20T22:03:23Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T21:52:41Z",
+    "updated_at": "2026-06-20T22:00:23Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T21:09:30Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-06-20T21:08:11Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
     "description": "The agent framework where every run is durable, replayable, and resumable by default.",
@@ -171,24 +198,6 @@
     "url": "https://github.com/theshovonsaha/shovsOS"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-20T20:18:14Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 0,
-    "updated_at": "2026-06-20T20:13:59Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
     "description": "Personal Ai Agent",
     "id": "br3eze-code/br3eze-code",
     "language": "JavaScript",
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T21:58:20Z",
+    "updated_at": "2026-06-20T22:01:41Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -302,7 +311,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 68,
-    "updated_at": "2026-06-20T21:41:24Z",
+    "updated_at": "2026-06-20T22:09:44Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -355,7 +364,7 @@
     "id": "zedarvates/ultra-pipeline-framework",
     "language": "Python",
     "name": "zedarvates/ultra-pipeline-framework",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-06-20T17:37:16Z",
     "url": "https://github.com/zedarvates/ultra-pipeline-framework"
   },
@@ -400,7 +409,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23341,
+    "stars": 23342,
     "updated_at": "2026-06-20T17:19:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T17:03:14Z",
     "url": "https://github.com/ludex-lab/ludex"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 22,
-    "updated_at": "2026-06-20T16:55:38Z",
-    "url": "https://github.com/KbWen/agentic-os"
   }
 ]
