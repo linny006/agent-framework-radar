@@ -1,12 +1,39 @@
 [
   {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 4,
+    "updated_at": "2026-06-20T04:54:33Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-20T04:58:34Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
     "description": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442-\u0430\u0433\u0435\u043d\u0442 (\u0415\u0432\u0430) \u043d\u0430 eve + Ollama Cloud (DeepSeek-V4-Pro): \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c, \u0441\u043a\u0438\u043b\u043b\u044b, \u0441\u0443\u0431\u0430\u0433\u0435\u043d\u0442\u044b, Telegram, cron",
     "id": "smixs/iva",
     "language": "Python",
     "name": "smixs/iva",
     "stars": 1,
-    "updated_at": "2026-06-20T04:46:50Z",
+    "updated_at": "2026-06-20T04:50:01Z",
     "url": "https://github.com/smixs/iva"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T04:49:00Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -16,15 +43,6 @@
     "stars": 23243,
     "updated_at": "2026-06-20T04:45:46Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T04:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
@@ -50,7 +68,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-20T04:33:33Z",
+    "updated_at": "2026-06-20T04:53:42Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -59,17 +77,8 @@
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-06-20T04:33:15Z",
+    "updated_at": "2026-06-20T04:50:46Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-20T04:46:42Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -144,15 +153,6 @@
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 4,
-    "updated_at": "2026-06-20T04:43:29Z",
-    "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
     "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
     "id": "ek33450505/claude-agent-team",
     "language": "Shell",
@@ -184,7 +184,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4074,
+    "stars": 4075,
     "updated_at": "2026-06-20T03:24:55Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -239,7 +239,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 21,
-    "updated_at": "2026-06-20T02:26:32Z",
+    "updated_at": "2026-06-20T04:51:17Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
