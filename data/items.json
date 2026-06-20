@@ -1,5 +1,32 @@
 [
   {
+    "description": "Production-grade AI agent orchestration \u2014 DAG context, self-evaluating pipelines, skill bundles with memory. Inspired by",
+    "id": "zedarvates/ultra-pipeline-framework",
+    "language": "Python",
+    "name": "zedarvates/ultra-pipeline-framework",
+    "stars": 2,
+    "updated_at": "2026-06-20T17:37:16Z",
+    "url": "https://github.com/zedarvates/ultra-pipeline-framework"
+  },
+  {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 4,
+    "updated_at": "2026-06-20T17:31:40Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T17:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
     "id": "the-long-ride/engram",
     "language": "TypeScript",
@@ -58,18 +85,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23332,
+    "stars": 23333,
     "updated_at": "2026-06-20T17:19:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T17:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -310,7 +328,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4163,
+    "stars": 4166,
     "updated_at": "2026-06-20T15:21:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-20T14:06:56Z",
     "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
-  },
-  {
-    "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 6,
-    "updated_at": "2026-06-20T14:06:39Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 186,
-    "updated_at": "2026-06-20T14:04:16Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   }
 ]
