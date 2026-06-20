@@ -1,5 +1,68 @@
 [
   {
+    "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
+    "id": "morning-verlu/KAI",
+    "language": "Kotlin",
+    "name": "morning-verlu/KAI",
+    "stars": 0,
+    "updated_at": "2026-06-20T07:13:40Z",
+    "url": "https://github.com/morning-verlu/KAI"
+  },
+  {
+    "description": "",
+    "id": "romainsantoli-web/setup-vs-agent-firm",
+    "language": "Python",
+    "name": "romainsantoli-web/setup-vs-agent-firm",
+    "stars": 0,
+    "updated_at": "2026-06-20T07:13:14Z",
+    "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
+  },
+  {
+    "description": "Universal AGI Agent Framework \u2014 5-layer cognitive architecture with meta-cognition, 3-tier memory, and knowledge orchest",
+    "id": "tsingxuanhan/agent4science",
+    "language": "Python",
+    "name": "tsingxuanhan/agent4science",
+    "stars": 0,
+    "updated_at": "2026-06-20T07:11:34Z",
+    "url": "https://github.com/tsingxuanhan/agent4science"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-06-20T07:09:15Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-20T07:08:21Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-20T07:02:45Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T07:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Graph-first agent framework on the BEAM (Elixir/OTP) \u2014 durable execution, HITL, time-travel, checkpoints, MCP. A LangGra",
     "id": "showjihyun/ElGraph",
     "language": "Elixir",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-06-20T06:57:46Z",
+    "updated_at": "2026-06-20T07:08:33Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T06:48:15Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T06:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
@@ -117,15 +171,6 @@
     "url": "https://github.com/br3eze-code/br3eze-code"
   },
   {
-    "description": "Personal always-on AI agent with long-term memory \u2014 one-command install, minimal setup, just works.",
-    "id": "smixs/iva",
-    "language": "Python",
-    "name": "smixs/iva",
-    "stars": 1,
-    "updated_at": "2026-06-20T06:28:46Z",
-    "url": "https://github.com/smixs/iva"
-  },
-  {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
     "id": "Ecro/harness-maker",
     "language": "Python",
@@ -133,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T06:25:39Z",
     "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-20T06:59:57Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "EvE is an open-source framework for co-evolving ensembles of coding agents. Wrap any coding agent \u2014 Codex, Claude Code \u2014",
@@ -211,7 +247,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23254,
+    "stars": 23255,
     "updated_at": "2026-06-20T05:45:19Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -284,7 +320,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 4,
-    "updated_at": "2026-06-20T04:54:33Z",
+    "updated_at": "2026-06-20T07:01:34Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -382,7 +418,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4080,
+    "stars": 4082,
     "updated_at": "2026-06-20T03:24:55Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -412,41 +448,5 @@
     "stars": 5631,
     "updated_at": "2026-06-20T05:22:20Z",
     "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "The operating system for human-AI teams. Turn a shared folder into a governed multi-agent system. No code, no server, no",
-    "id": "tropo-ai/tropo",
-    "language": "Python",
-    "name": "tropo-ai/tropo",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:04:42Z",
-    "url": "https://github.com/tropo-ai/tropo"
-  },
-  {
-    "description": "Shared instructions, workflows, conventions, and memory for AI agents \u2014 across teams,  projects, and functions.",
-    "id": "fahadyaqub/agents-workbench",
-    "language": "JavaScript",
-    "name": "fahadyaqub/agents-workbench",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:03:40Z",
-    "url": "https://github.com/fahadyaqub/agents-workbench"
-  },
-  {
-    "description": "Multi-agent system built with Claude and MCP featuring 7 specialized agents (chatbot, security researcher, business advi",
-    "id": "brooksmcmillin/agents",
-    "language": "Python",
-    "name": "brooksmcmillin/agents",
-    "stars": 2,
-    "updated_at": "2026-06-20T02:47:07Z",
-    "url": "https://github.com/brooksmcmillin/agents"
-  },
-  {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-06-20T01:57:11Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
   }
 ]
