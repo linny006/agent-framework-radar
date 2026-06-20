@@ -1,5 +1,77 @@
 [
   {
+    "description": "Graph-first agent framework on the BEAM (Elixir/OTP) \u2014 durable execution, HITL, time-travel, checkpoints, MCP. A LangGra",
+    "id": "showjihyun/ElGraph",
+    "language": "Elixir",
+    "name": "showjihyun/ElGraph",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:57:48Z",
+    "url": "https://github.com/showjihyun/ElGraph"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:54:57Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-20T06:53:06Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 73,
+    "updated_at": "2026-06-20T06:52:26Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "\ud83c\udfc6 Ranked list of 100+ agent harnesses. Scored and updated weekly.",
+    "id": "RyanAlberts/best-of-Agent-Harnesses",
+    "language": "Python",
+    "name": "RyanAlberts/best-of-Agent-Harnesses",
+    "stars": 135,
+    "updated_at": "2026-06-20T06:52:11Z",
+    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
+  },
+  {
+    "description": "Harness AI & Agent OS for governed multi-agent systems in Python \u2014 Nexus orchestration, policy, tools, skills, RAG & mul",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 4,
+    "updated_at": "2026-06-20T06:57:46Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-20T06:48:15Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T06:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
     "id": "KbWen/agentic-os",
     "language": "Python",
@@ -36,15 +108,6 @@
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T06:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Personal Ai Agent",
     "id": "br3eze-code/br3eze-code",
     "language": "JavaScript",
@@ -77,7 +140,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-20T06:22:45Z",
+    "updated_at": "2026-06-20T06:59:57Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -160,15 +223,6 @@
     "stars": 16,
     "updated_at": "2026-06-20T05:31:58Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Graph-first agent framework on the BEAM (Elixir/OTP) \u2014 durable execution, HITL, time-travel, checkpoints, MCP. A LangGra",
-    "id": "showjihyun/ElGraph",
-    "language": "Elixir",
-    "name": "showjihyun/ElGraph",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:14:18Z",
-    "url": "https://github.com/showjihyun/ElGraph"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -297,15 +351,6 @@
     "url": "https://github.com/Studnicky/Dagonizer"
   },
   {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-20T06:44:11Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
     "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
     "id": "ek33450505/claude-agent-team",
     "language": "Shell",
@@ -349,33 +394,6 @@
     "stars": 6,
     "updated_at": "2026-06-20T03:13:41Z",
     "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:55:53Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-20T02:54:35Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83c\udfc6 Ranked list of 100+ agent harnesses. Scored and updated weekly.",
-    "id": "RyanAlberts/best-of-Agent-Harnesses",
-    "language": "Python",
-    "name": "RyanAlberts/best-of-Agent-Harnesses",
-    "stars": 134,
-    "updated_at": "2026-06-20T02:46:25Z",
-    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
   },
   {
     "description": "Agent framework with trait-based architecture and learning capabilities",
@@ -430,23 +448,5 @@
     "stars": 9,
     "updated_at": "2026-06-20T01:57:11Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
-    "id": "thetonymaster/normandy",
-    "language": "Elixir",
-    "name": "thetonymaster/normandy",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:55:47Z",
-    "url": "https://github.com/thetonymaster/normandy"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 10,
-    "updated_at": "2026-06-20T01:54:23Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
   }
 ]
