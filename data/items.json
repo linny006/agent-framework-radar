@@ -1,11 +1,38 @@
 [
   {
+    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
+    "id": "firatcand/roster",
+    "language": "TypeScript",
+    "name": "firatcand/roster",
+    "stars": 13,
+    "updated_at": "2026-06-20T09:13:33Z",
+    "url": "https://github.com/firatcand/roster"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-06-20T09:15:13Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T09:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-20T08:58:07Z",
+    "updated_at": "2026-06-20T09:14:13Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -27,15 +54,6 @@
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
-    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
-    "id": "firatcand/roster",
-    "language": "TypeScript",
-    "name": "firatcand/roster",
-    "stars": 13,
-    "updated_at": "2026-06-20T08:49:24Z",
-    "url": "https://github.com/firatcand/roster"
-  },
-  {
     "description": "Autonomous network security and operations framework. Provides eBPF/XDP enforcement and multi-layer fault diagnosis \u2014 ea",
     "id": "hidemi-k/maf-ebpf-sase",
     "language": "Jupyter Notebook",
@@ -54,15 +72,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T08:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Ouroboros: Agent first software engineering infrastructure. Autonomous AI agents plan, implement, test, review, and merg",
     "id": "Tanush1912/ouroboros",
     "language": "Python",
@@ -70,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-06-20T08:38:18Z",
     "url": "https://github.com/Tanush1912/ouroboros"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-06-20T08:35:42Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
     "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
@@ -94,7 +94,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4103,
+    "stars": 4107,
     "updated_at": "2026-06-20T08:19:24Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -131,7 +131,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 4,
-    "updated_at": "2026-06-20T07:46:16Z",
+    "updated_at": "2026-06-20T09:00:58Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -346,7 +346,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23269,
+    "stars": 23271,
     "updated_at": "2026-06-20T05:45:19Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -410,7 +410,7 @@
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-06-20T08:19:36Z",
+    "updated_at": "2026-06-20T09:10:25Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
