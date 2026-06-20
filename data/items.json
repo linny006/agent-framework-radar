@@ -5,8 +5,17 @@
     "language": "Kotlin",
     "name": "morning-verlu/KAI",
     "stars": 0,
-    "updated_at": "2026-06-20T07:13:40Z",
+    "updated_at": "2026-06-20T07:24:58Z",
     "url": "https://github.com/morning-verlu/KAI"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T07:15:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -52,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T07:02:45Z",
     "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T07:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Graph-first agent framework on the BEAM (Elixir/OTP) \u2014 durable execution, HITL, time-travel, checkpoints, MCP. A LangGra",
@@ -247,7 +247,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23255,
+    "stars": 23257,
     "updated_at": "2026-06-20T05:45:19Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -320,7 +320,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 4,
-    "updated_at": "2026-06-20T07:01:34Z",
+    "updated_at": "2026-06-20T07:23:05Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -338,7 +338,7 @@
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-06-20T06:34:20Z",
+    "updated_at": "2026-06-20T07:22:40Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
@@ -418,7 +418,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4082,
+    "stars": 4084,
     "updated_at": "2026-06-20T03:24:55Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -446,7 +446,7 @@
     "language": "Python",
     "name": "rllm-org/rllm",
     "stars": 5631,
-    "updated_at": "2026-06-20T05:22:20Z",
+    "updated_at": "2026-06-20T07:28:59Z",
     "url": "https://github.com/rllm-org/rllm"
   }
 ]
