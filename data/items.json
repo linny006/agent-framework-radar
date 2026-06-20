@@ -1,12 +1,57 @@
 [
   {
-    "description": "Clarity/\u5fc3\u866b \u2014 AI\u8ba4\u77e5\u4e0e\u81ea\u6108\u5f15\u64ce\u3002\u5b58\u5728\u611f\u77e5\u3001\u771f\u5584\u7f8e\u8bc4\u5206\u3001\u4e09\u5c42\u8bb0\u5fc6\u3001Q-learning\u81ea\u6108\u3001\u68a6\u5883\u6574\u5408\u3001\u53cd\u4e8b\u5b9e\u63a8\u7406",
-    "id": "yun520-1/claude-clarity",
-    "language": "\u2014",
-    "name": "yun520-1/claude-clarity",
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-20T13:14:26Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
+    "id": "guilingzhouyi-creator/NOMOS",
+    "language": "Python",
+    "name": "guilingzhouyi-creator/NOMOS",
     "stars": 1,
-    "updated_at": "2026-06-20T13:00:09Z",
-    "url": "https://github.com/yun520-1/claude-clarity"
+    "updated_at": "2026-06-20T13:11:56Z",
+    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 23299,
+    "updated_at": "2026-06-20T13:10:35Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 68,
+    "updated_at": "2026-06-20T13:07:35Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Security-first AI agent orchestration platform with local LLM support, tool approvals, sandboxing, prompt-injection defe",
+    "id": "Threat-Vector-Security/guardian-agent",
+    "language": "TypeScript",
+    "name": "Threat-Vector-Security/guardian-agent",
+    "stars": 11,
+    "updated_at": "2026-06-20T13:07:30Z",
+    "url": "https://github.com/Threat-Vector-Security/guardian-agent"
+  },
+  {
+    "description": "Project-scoped memory routing and isolation for AI agent frameworks (OpenClaw / Claude Code / Codex).",
+    "id": "PluteW/isola",
+    "language": "Python",
+    "name": "PluteW/isola",
+    "stars": 0,
+    "updated_at": "2026-06-20T13:05:01Z",
+    "url": "https://github.com/PluteW/isola"
   },
   {
     "description": "Trust and verification for the skills your AI agent installs.",
@@ -14,8 +59,26 @@
     "language": "Go",
     "name": "alexverify/assay",
     "stars": 1,
-    "updated_at": "2026-06-20T12:59:57Z",
+    "updated_at": "2026-06-20T13:03:51Z",
     "url": "https://github.com/alexverify/assay"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T13:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Clarity/\u5fc3\u866b \u2014 AI\u8ba4\u77e5\u4e0e\u81ea\u6108\u5f15\u64ce\u3002\u5b58\u5728\u611f\u77e5\u3001\u771f\u5584\u7f8e\u8bc4\u5206\u3001\u4e09\u5c42\u8bb0\u5fc6\u3001Q-learning\u81ea\u6108\u3001\u68a6\u5883\u6574\u5408\u3001\u53cd\u4e8b\u5b9e\u63a8\u7406",
+    "id": "yun520-1/claude-clarity",
+    "language": "\u2014",
+    "name": "yun520-1/claude-clarity",
+    "stars": 1,
+    "updated_at": "2026-06-20T13:00:09Z",
+    "url": "https://github.com/yun520-1/claude-clarity"
   },
   {
     "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
@@ -54,24 +117,6 @@
     "url": "https://github.com/ellmos-ai/skills"
   },
   {
-    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
-    "id": "guilingzhouyi-creator/NOMOS",
-    "language": "Python",
-    "name": "guilingzhouyi-creator/NOMOS",
-    "stars": 1,
-    "updated_at": "2026-06-20T12:45:38Z",
-    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T12:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Markdown Agent Studio is a workspace where agents develop specialization through their own experience.",
     "id": "RobThePCGuy/markdown-agent-studio",
     "language": "TypeScript",
@@ -103,7 +148,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4132,
+    "stars": 4135,
     "updated_at": "2026-06-20T12:25:39Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -124,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T12:21:36Z",
     "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "Security-first AI agent orchestration platform with local LLM support, tool approvals, sandboxing, prompt-injection defe",
-    "id": "Threat-Vector-Security/guardian-agent",
-    "language": "TypeScript",
-    "name": "Threat-Vector-Security/guardian-agent",
-    "stars": 11,
-    "updated_at": "2026-06-20T12:18:39Z",
-    "url": "https://github.com/Threat-Vector-Security/guardian-agent"
   },
   {
     "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
@@ -176,7 +212,7 @@
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-06-20T12:45:34Z",
+    "updated_at": "2026-06-20T13:04:58Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T11:46:31Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-20T11:45:10Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T12:55:55Z",
+    "updated_at": "2026-06-20T13:12:36Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 11499,
     "updated_at": "2026-06-20T09:43:47Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Enterprise-ready Apache Camel agent framework for blueprint-defined AI workflows, tool orchestration, Spring AI provider",
-    "id": "dscope-io/dscope-camel-agent",
-    "language": "Java",
-    "name": "dscope-io/dscope-camel-agent",
-    "stars": 1,
-    "updated_at": "2026-06-20T09:43:05Z",
-    "url": "https://github.com/dscope-io/dscope-camel-agent"
-  },
-  {
-    "description": "Harness AI & Agent OS for governed multi-agent systems in Python \u2014 Nexus orchestration, policy, tools, skills, RAG & mul",
-    "id": "jakbuczarnecki/intergrax",
-    "language": "Python",
-    "name": "jakbuczarnecki/intergrax",
-    "stars": 4,
-    "updated_at": "2026-06-20T09:35:55Z",
-    "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 1,
-    "updated_at": "2026-06-20T09:35:19Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
   }
 ]
