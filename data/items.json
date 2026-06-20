@@ -1,5 +1,68 @@
 [
   {
+    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
+    "id": "amitpatole/verel",
+    "language": "Python",
+    "name": "amitpatole/verel",
+    "stars": 0,
+    "updated_at": "2026-06-20T15:59:57Z",
+    "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 2,
+    "updated_at": "2026-06-20T15:58:26Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 23321,
+    "updated_at": "2026-06-20T15:57:35Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Turn any skill into a standalone, runnable AI Agent",
+    "id": "agenthatch/agenthatch",
+    "language": "Python",
+    "name": "agenthatch/agenthatch",
+    "stars": 23,
+    "updated_at": "2026-06-20T15:57:10Z",
+    "url": "https://github.com/agenthatch/agenthatch"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 357,
+    "updated_at": "2026-06-20T15:53:14Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Phone local agent",
+    "id": "HaohanHe/Opedrgent",
+    "language": "Kotlin",
+    "name": "HaohanHe/Opedrgent",
+    "stars": 1,
+    "updated_at": "2026-06-20T15:49:58Z",
+    "url": "https://github.com/HaohanHe/Opedrgent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T15:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -18,24 +81,6 @@
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
-    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
-    "id": "amitpatole/verel",
-    "language": "Python",
-    "name": "amitpatole/verel",
-    "stars": 0,
-    "updated_at": "2026-06-20T15:38:31Z",
-    "url": "https://github.com/amitpatole/verel"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23319,
-    "updated_at": "2026-06-20T15:38:10Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "\u57fa\u4e8e\u751f\u547d\u5468\u671f\u94a9\u5b50\u7684\u8f7b\u91cf\u7ea7 AI Agent \u6846\u67b6 \u2014 \u63d2\u4ef6\u5373\u6587\u4ef6\uff0c\u5168\u5f02\u6b65\uff0c\u96f6 SDK \u4f9d\u8d56",
     "id": "zpb911km/fp-agent",
     "language": "Python",
@@ -52,15 +97,6 @@
     "stars": 7,
     "updated_at": "2026-06-20T15:43:03Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T15:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T15:42:04Z",
+    "updated_at": "2026-06-20T15:50:23Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -112,18 +148,9 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4151,
+    "stars": 4153,
     "updated_at": "2026-06-20T15:21:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Phone local agent",
-    "id": "HaohanHe/Opedrgent",
-    "language": "Kotlin",
-    "name": "HaohanHe/Opedrgent",
-    "stars": 1,
-    "updated_at": "2026-06-20T15:20:41Z",
-    "url": "https://github.com/HaohanHe/Opedrgent"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -234,15 +261,6 @@
     "url": "https://github.com/Gald3r-Labs/gald3r"
   },
   {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 2,
-    "updated_at": "2026-06-20T14:39:38Z",
-    "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
     "description": "Open-source managed-agent control plane: sessions, sandboxes, runtime pools, vaults, SDK, CLI, and provider adapters.",
     "id": "dragonforce2010/openmaple",
     "language": "TypeScript",
@@ -250,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T14:40:47Z",
     "url": "https://github.com/dragonforce2010/openmaple"
-  },
-  {
-    "description": "Turn any skill into a standalone, runnable AI Agent",
-    "id": "agenthatch/agenthatch",
-    "language": "Python",
-    "name": "agenthatch/agenthatch",
-    "stars": 23,
-    "updated_at": "2026-06-20T14:32:43Z",
-    "url": "https://github.com/agenthatch/agenthatch"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -288,21 +297,12 @@
     "url": "https://github.com/ellmos-ai/skills"
   },
   {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 357,
-    "updated_at": "2026-06-20T15:45:13Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
     "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
     "id": "qmilab/asterism",
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 2,
-    "updated_at": "2026-06-20T15:43:07Z",
+    "updated_at": "2026-06-20T15:56:35Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
