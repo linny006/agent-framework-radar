@@ -1,5 +1,68 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 23232,
+    "updated_at": "2026-06-20T02:57:39Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-20T02:55:53Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-20T02:54:35Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Graph-first agent framework on the BEAM (Elixir/OTP) \u2014 durable execution, HITL, time-travel, checkpoints, MCP. A LangGra",
+    "id": "showjihyun/ElGraph",
+    "language": "Elixir",
+    "name": "showjihyun/ElGraph",
+    "stars": 0,
+    "updated_at": "2026-06-20T02:58:18Z",
+    "url": "https://github.com/showjihyun/ElGraph"
+  },
+  {
+    "description": "\ud83c\udfc6 Ranked list of 100+ agent harnesses. Scored and updated weekly.",
+    "id": "RyanAlberts/best-of-Agent-Harnesses",
+    "language": "Python",
+    "name": "RyanAlberts/best-of-Agent-Harnesses",
+    "stars": 134,
+    "updated_at": "2026-06-20T02:46:25Z",
+    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-20T02:46:05Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T02:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
     "id": "garyqlin/gbase",
     "language": "Python",
@@ -23,26 +86,8 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 18,
-    "updated_at": "2026-06-20T02:32:32Z",
+    "updated_at": "2026-06-20T02:46:42Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-20T02:43:27Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T02:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
@@ -58,7 +103,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4063,
+    "stars": 4065,
     "updated_at": "2026-06-20T02:28:04Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "brooksmcmillin/agents",
     "stars": 2,
-    "updated_at": "2026-06-20T02:01:59Z",
+    "updated_at": "2026-06-20T02:47:07Z",
     "url": "https://github.com/brooksmcmillin/agents"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T02:43:01Z",
+    "updated_at": "2026-06-20T02:53:26Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -259,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T01:04:29Z",
     "url": "https://github.com/api-evangelist/autogen-studio"
-  },
-  {
-    "description": "Graph-first agent framework on the BEAM (Elixir/OTP) \u2014 durable execution, HITL, time-travel, checkpoints, MCP. A LangGra",
-    "id": "showjihyun/ElGraph",
-    "language": "Elixir",
-    "name": "showjihyun/ElGraph",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:40:28Z",
-    "url": "https://github.com/showjihyun/ElGraph"
   },
   {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
@@ -342,24 +378,6 @@
     "url": "https://github.com/ellmos-ai/skills"
   },
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:57:47Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-19T23:57:46Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Personal Ai Agent",
     "id": "br3eze-code/br3eze-code",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 4418,
     "updated_at": "2026-06-19T22:32:16Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
-    "id": "motojinc25/chatwalaau",
-    "language": "Python",
-    "name": "motojinc25/chatwalaau",
-    "stars": 2,
-    "updated_at": "2026-06-19T22:29:46Z",
-    "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "AI agent runtime for Rust \u2014 type-safe state, multi-protocol serving, plugin extensibility.",
-    "id": "awakenworks/awaken",
-    "language": "Rust",
-    "name": "awakenworks/awaken",
-    "stars": 82,
-    "updated_at": "2026-06-19T22:04:16Z",
-    "url": "https://github.com/awakenworks/awaken"
   }
 ]
