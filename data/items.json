@@ -1,5 +1,104 @@
 [
   {
+    "description": "Multi-agent system built with Claude and MCP featuring 7 specialized agents (chatbot, security researcher, business advi",
+    "id": "brooksmcmillin/agents",
+    "language": "Python",
+    "name": "brooksmcmillin/agents",
+    "stars": 2,
+    "updated_at": "2026-06-20T02:00:02Z",
+    "url": "https://github.com/brooksmcmillin/agents"
+  },
+  {
+    "description": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442-\u0430\u0433\u0435\u043d\u0442 (\u0415\u0432\u0430) \u043d\u0430 eve + Ollama Cloud (DeepSeek-V4-Pro): \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c, \u0441\u043a\u0438\u043b\u043b\u044b, \u0441\u0443\u0431\u0430\u0433\u0435\u043d\u0442\u044b, Telegram, cron",
+    "id": "smixs/eve-assistant",
+    "language": "Python",
+    "name": "smixs/eve-assistant",
+    "stars": 1,
+    "updated_at": "2026-06-20T01:58:02Z",
+    "url": "https://github.com/smixs/eve-assistant"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-06-20T01:57:11Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
+    "id": "thetonymaster/normandy",
+    "language": "Elixir",
+    "name": "thetonymaster/normandy",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:55:47Z",
+    "url": "https://github.com/thetonymaster/normandy"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:54:59Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 10,
+    "updated_at": "2026-06-20T01:54:23Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-20T01:53:37Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
+    "id": "Studnicky/Dagonizer",
+    "language": "TypeScript",
+    "name": "Studnicky/Dagonizer",
+    "stars": 3,
+    "updated_at": "2026-06-20T01:57:47Z",
+    "url": "https://github.com/Studnicky/Dagonizer"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-20T01:57:56Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "A curated collection of reusable AI skills, prompts, and agent configurations. Portable across AI coding assistants and ",
+    "id": "johnoconnor0/official-claude-plugins",
+    "language": "Python",
+    "name": "johnoconnor0/official-claude-plugins",
+    "stars": 3,
+    "updated_at": "2026-06-20T01:49:11Z",
+    "url": "https://github.com/johnoconnor0/official-claude-plugins"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T01:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
     "id": "garyqlin/gbase",
     "language": "Python",
@@ -18,40 +117,13 @@
     "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
   },
   {
-    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
-    "id": "Studnicky/Dagonizer",
-    "language": "TypeScript",
-    "name": "Studnicky/Dagonizer",
-    "stars": 3,
-    "updated_at": "2026-06-20T01:44:45Z",
-    "url": "https://github.com/Studnicky/Dagonizer"
-  },
-  {
-    "description": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442-\u0430\u0433\u0435\u043d\u0442 (\u0415\u0432\u0430) \u043d\u0430 eve + Ollama Cloud (DeepSeek-V4-Pro): \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c, \u0441\u043a\u0438\u043b\u043b\u044b, \u0441\u0443\u0431\u0430\u0433\u0435\u043d\u0442\u044b, Telegram, cron",
-    "id": "smixs/eve-assistant",
-    "language": "Python",
-    "name": "smixs/eve-assistant",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:39:27Z",
-    "url": "https://github.com/smixs/eve-assistant"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4056,
+    "stars": 4057,
     "updated_at": "2026-06-20T01:37:14Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-20T01:43:06Z",
-    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "Agent SDK, CLI, Platform in Rust",
@@ -61,15 +133,6 @@
     "stars": 6,
     "updated_at": "2026-06-20T01:32:44Z",
     "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T01:44:56Z",
+    "updated_at": "2026-06-20T01:55:54Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -112,7 +175,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6214,
+    "stars": 6215,
     "updated_at": "2026-06-20T01:11:00Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -135,15 +198,6 @@
     "url": "https://github.com/api-evangelist/autogen-studio"
   },
   {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-06-20T01:04:18Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
     "description": "Graph-first agent framework on the BEAM (Elixir/OTP) \u2014 durable execution, HITL, time-travel, checkpoints, MCP. A LangGra",
     "id": "showjihyun/ElGraph",
     "language": "Elixir",
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T01:40:28Z",
     "url": "https://github.com/showjihyun/ElGraph"
-  },
-  {
-    "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
-    "id": "thetonymaster/normandy",
-    "language": "Elixir",
-    "name": "thetonymaster/normandy",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:28:00Z",
-    "url": "https://github.com/thetonymaster/normandy"
   },
   {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
@@ -270,15 +315,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:47:51Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Personal Ai Agent",
     "id": "br3eze-code/br3eze-code",
     "language": "JavaScript",
@@ -295,15 +331,6 @@
     "stars": 11,
     "updated_at": "2026-06-19T23:54:26Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-06-19T23:42:07Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
@@ -401,7 +428,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 1,
-    "updated_at": "2026-06-20T01:13:34Z",
+    "updated_at": "2026-06-20T01:57:02Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 165,
     "updated_at": "2026-06-19T21:39:55Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
-    "id": "Jovancoding/Network-AI",
-    "language": "TypeScript",
-    "name": "Jovancoding/Network-AI",
-    "stars": 64,
-    "updated_at": "2026-06-19T21:33:02Z",
-    "url": "https://github.com/Jovancoding/Network-AI"
-  },
-  {
-    "description": "Portable OpenCode workflow toolkit \u2014 6 plugins, managed agents & skills, a spec-to-code pipeline, security, and the vvoc",
-    "id": "osovv/vv-opencode",
-    "language": "TypeScript",
-    "name": "osovv/vv-opencode",
-    "stars": 6,
-    "updated_at": "2026-06-19T21:24:42Z",
-    "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "The control plane for AI coding agents.",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1427,
-    "updated_at": "2026-06-19T21:01:08Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
   }
 ]
