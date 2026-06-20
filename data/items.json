@@ -1,12 +1,120 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4051,
+    "updated_at": "2026-06-20T00:14:35Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-06-20T00:13:30Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-20T00:13:22Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Agent SDK, CLI, Platform in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-06-20T00:12:54Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-06-20T00:11:11Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
     "id": "amitpatole/verel",
     "language": "Python",
     "name": "amitpatole/verel",
     "stars": 0,
-    "updated_at": "2026-06-20T00:00:04Z",
+    "updated_at": "2026-06-20T00:09:18Z",
     "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-20T00:09:15Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-20T00:04:07Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-20T00:03:14Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "The operating system for human-AI teams. Turn a shared folder into a governed multi-agent system. No code, no server, no",
+    "id": "tropo-ai/tropo",
+    "language": "Python",
+    "name": "tropo-ai/tropo",
+    "stars": 0,
+    "updated_at": "2026-06-20T00:02:28Z",
+    "url": "https://github.com/tropo-ai/tropo"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 162,
+    "updated_at": "2026-06-20T00:01:46Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 1,
+    "updated_at": "2026-06-20T00:01:46Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T00:00:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -25,24 +133,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T23:57:46Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-19T23:56:19Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Agent SDK, CLI, Platform in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 6,
-    "updated_at": "2026-06-19T23:56:47Z",
-    "url": "https://github.com/Wh1isper/starweaver"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
@@ -81,15 +171,6 @@
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T23:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -106,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T23:45:52Z",
     "url": "https://github.com/hidemi-k/maf-netconf-rag-gui"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-19T23:29:02Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Model-agnostic, embeddable agent kit \u2014 verification, adaptive context, effort routing, cache-aware cost model, cross-pla",
@@ -153,15 +225,6 @@
     "url": "https://github.com/rllm-org/rllm"
   },
   {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 0,
-    "updated_at": "2026-06-19T22:57:03Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -169,15 +232,6 @@
     "stars": 16,
     "updated_at": "2026-06-19T22:54:44Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-19T22:50:24Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -207,15 +261,6 @@
     "url": "https://github.com/motojinc25/chatwalaau"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-19T22:07:54Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
     "id": "DYAI2025/Plumbline",
     "language": "Shell",
@@ -232,15 +277,6 @@
     "stars": 18,
     "updated_at": "2026-06-19T22:02:14Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "The operating system for human-AI teams. Turn a shared folder into a governed multi-agent system. No code, no server, no",
-    "id": "tropo-ai/tropo",
-    "language": "Python",
-    "name": "tropo-ai/tropo",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:57:30Z",
-    "url": "https://github.com/tropo-ai/tropo"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 246,
-    "updated_at": "2026-06-19T23:59:44Z",
+    "updated_at": "2026-06-20T00:04:34Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-19T19:51:38Z",
     "url": "https://github.com/zpb911km/fp-agent"
-  },
-  {
-    "description": "Deploy intelligence. Open-source infrastructure for AI agents in production.",
-    "id": "muxi-ai/muxi",
-    "language": "\u2014",
-    "name": "muxi-ai/muxi",
-    "stars": 21,
-    "updated_at": "2026-06-19T19:49:09Z",
-    "url": "https://github.com/muxi-ai/muxi"
-  },
-  {
-    "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
-    "id": "Prompthon-IO/agent-systems-handbook",
-    "language": "MDX",
-    "name": "Prompthon-IO/agent-systems-handbook",
-    "stars": 317,
-    "updated_at": "2026-06-19T19:44:42Z",
-    "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 577,
-    "updated_at": "2026-06-19T23:58:57Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
-  },
-  {
-    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
-    "id": "BrettMGoughWork/vai-core",
-    "language": "Python",
-    "name": "BrettMGoughWork/vai-core",
-    "stars": 3,
-    "updated_at": "2026-06-19T20:00:09Z",
-    "url": "https://github.com/BrettMGoughWork/vai-core"
   }
 ]
