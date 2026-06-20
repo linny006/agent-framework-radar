@@ -1,12 +1,66 @@
 [
   {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-20T16:56:59Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:54:51Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
+    "id": "guilingzhouyi-creator/NOMOS",
+    "language": "Python",
+    "name": "guilingzhouyi-creator/NOMOS",
+    "stars": 1,
+    "updated_at": "2026-06-20T16:53:54Z",
+    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
+  },
+  {
     "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
     "id": "CarlosCaPe/octorato",
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 8,
-    "updated_at": "2026-06-20T16:44:37Z",
+    "updated_at": "2026-06-20T16:50:46Z",
     "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 162,
+    "updated_at": "2026-06-20T16:49:58Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
+    "id": "firatcand/roster",
+    "language": "TypeScript",
+    "name": "firatcand/roster",
+    "stars": 13,
+    "updated_at": "2026-06-20T16:46:52Z",
+    "url": "https://github.com/firatcand/roster"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T16:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "denisotree/veles",
     "stars": 0,
-    "updated_at": "2026-06-20T16:37:43Z",
+    "updated_at": "2026-06-20T16:57:42Z",
     "url": "https://github.com/denisotree/veles"
   },
   {
@@ -36,15 +90,6 @@
     "url": "https://github.com/sandydasari/openacme"
   },
   {
-    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
-    "id": "guilingzhouyi-creator/NOMOS",
-    "language": "Python",
-    "name": "guilingzhouyi-creator/NOMOS",
-    "stars": 1,
-    "updated_at": "2026-06-20T16:33:13Z",
-    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
-  },
-  {
     "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
     "id": "the-long-ride/engram",
     "language": "TypeScript",
@@ -52,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-06-20T16:32:54Z",
     "url": "https://github.com/the-long-ride/engram"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T16:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Loop quality layer for production AI agents. Detects silent failures, runs agents on a schedule with verify + handoff, a",
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T16:30:24Z",
+    "updated_at": "2026-06-20T17:00:09Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -175,7 +211,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23329,
+    "stars": 23331,
     "updated_at": "2026-06-20T15:57:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 21,
-    "updated_at": "2026-06-20T15:41:30Z",
+    "updated_at": "2026-06-20T16:55:38Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -256,27 +292,9 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4157,
+    "stars": 4159,
     "updated_at": "2026-06-20T15:21:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-06-20T15:18:30Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-20T15:16:12Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -286,15 +304,6 @@
     "stars": 166,
     "updated_at": "2026-06-20T15:13:26Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 162,
-    "updated_at": "2026-06-20T15:07:24Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "Personal Ai Agent",
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-06-20T16:35:46Z",
+    "updated_at": "2026-06-20T16:47:53Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-20T14:03:08Z",
     "url": "https://github.com/boblabs-eu/boblabs"
-  },
-  {
-    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
-    "id": "ellmos-ai/.github",
-    "language": "\u2014",
-    "name": "ellmos-ai/.github",
-    "stars": 0,
-    "updated_at": "2026-06-20T14:00:20Z",
-    "url": "https://github.com/ellmos-ai/.github"
   }
 ]
