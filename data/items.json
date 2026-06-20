@@ -1,12 +1,57 @@
 [
   {
-    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
-    "id": "firatcand/roster",
-    "language": "TypeScript",
-    "name": "firatcand/roster",
-    "stars": 13,
-    "updated_at": "2026-06-20T09:13:33Z",
-    "url": "https://github.com/firatcand/roster"
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-20T09:29:35Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 1,
+    "updated_at": "2026-06-20T09:28:20Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 8,
+    "updated_at": "2026-06-20T09:26:20Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 67,
+    "updated_at": "2026-06-20T09:25:17Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Trust and verification for the skills your AI agent installs.",
+    "id": "alexverify/assay",
+    "language": "Go",
+    "name": "alexverify/assay",
+    "stars": 1,
+    "updated_at": "2026-06-20T09:24:39Z",
+    "url": "https://github.com/alexverify/assay"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:24:08Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "fireflyframework/fireflyframework-agentic",
     "stars": 4,
-    "updated_at": "2026-06-20T09:15:13Z",
+    "updated_at": "2026-06-20T09:18:51Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
@@ -23,17 +68,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T09:00:21Z",
+    "updated_at": "2026-06-20T09:15:21Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-20T09:14:13Z",
-    "url": "https://github.com/tya5/reyn"
+    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
+    "id": "firatcand/roster",
+    "language": "TypeScript",
+    "name": "firatcand/roster",
+    "stars": 13,
+    "updated_at": "2026-06-20T09:13:33Z",
+    "url": "https://github.com/firatcand/roster"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -94,7 +139,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4107,
+    "stars": 4109,
     "updated_at": "2026-06-20T08:19:24Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 4,
-    "updated_at": "2026-06-20T09:00:58Z",
+    "updated_at": "2026-06-20T09:22:53Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Elixir",
     "name": "showjihyun/ElGraph",
     "stars": 0,
-    "updated_at": "2026-06-20T08:51:27Z",
+    "updated_at": "2026-06-20T09:17:48Z",
     "url": "https://github.com/showjihyun/ElGraph"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T06:48:15Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 67,
-    "updated_at": "2026-06-20T06:43:23Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
@@ -346,7 +382,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23271,
+    "stars": 23272,
     "updated_at": "2026-06-20T05:45:19Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -367,15 +403,6 @@
     "stars": 68,
     "updated_at": "2026-06-20T05:26:26Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:18:56Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "A 7\u00d76 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified eng",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T04:15:30Z",
     "url": "https://github.com/guilingzhouyi-creator/NOMOS"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 18,
-    "updated_at": "2026-06-20T04:09:23Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
-    "id": "ebey317/claf",
-    "language": "Python",
-    "name": "ebey317/claf",
-    "stars": 1,
-    "updated_at": "2026-06-20T04:05:22Z",
-    "url": "https://github.com/ebey317/claf"
-  },
-  {
-    "description": "Model-agnostic, embeddable agent kit \u2014 verification, adaptive context, effort routing, cache-aware cost model, cross-pla",
-    "id": "Audrey-cn/universal-agent-embedding-kit",
-    "language": "Python",
-    "name": "Audrey-cn/universal-agent-embedding-kit",
-    "stars": 0,
-    "updated_at": "2026-06-20T08:44:47Z",
-    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
   }
 ]
