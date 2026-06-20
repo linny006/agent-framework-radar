@@ -1,5 +1,68 @@
 [
   {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 1,
+    "updated_at": "2026-06-20T02:28:39Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4063,
+    "updated_at": "2026-06-20T02:28:04Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 21,
+    "updated_at": "2026-06-20T02:26:32Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442-\u0430\u0433\u0435\u043d\u0442 (\u0415\u0432\u0430) \u043d\u0430 eve + Ollama Cloud (DeepSeek-V4-Pro): \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c, \u0441\u043a\u0438\u043b\u043b\u044b, \u0441\u0443\u0431\u0430\u0433\u0435\u043d\u0442\u044b, Telegram, cron",
+    "id": "smixs/eve-assistant",
+    "language": "Python",
+    "name": "smixs/eve-assistant",
+    "stars": 1,
+    "updated_at": "2026-06-20T02:23:57Z",
+    "url": "https://github.com/smixs/eve-assistant"
+  },
+  {
+    "description": "Agent framework with trait-based architecture and learning capabilities",
+    "id": "llm-works/llm-gent",
+    "language": "Python",
+    "name": "llm-works/llm-gent",
+    "stars": 0,
+    "updated_at": "2026-06-20T02:23:49Z",
+    "url": "https://github.com/llm-works/llm-gent"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-20T02:29:20Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T02:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Democratizing Reinforcement Learning for LLMs",
     "id": "rllm-org/rllm",
     "language": "Python",
@@ -7,15 +70,6 @@
     "stars": 5631,
     "updated_at": "2026-06-20T02:13:34Z",
     "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 1,
-    "updated_at": "2026-06-20T02:06:06Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "The operating system for human-AI teams. Turn a shared folder into a governed multi-agent system. No code, no server, no",
@@ -36,24 +90,6 @@
     "url": "https://github.com/fahadyaqub/agents-workbench"
   },
   {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-20T02:14:24Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T02:00:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Multi-agent system built with Claude and MCP featuring 7 specialized agents (chatbot, security researcher, business advi",
     "id": "brooksmcmillin/agents",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T02:01:59Z",
     "url": "https://github.com/brooksmcmillin/agents"
-  },
-  {
-    "description": "\u041b\u0438\u0447\u043d\u044b\u0439 \u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442-\u0430\u0433\u0435\u043d\u0442 (\u0415\u0432\u0430) \u043d\u0430 eve + Ollama Cloud (DeepSeek-V4-Pro): \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c, \u0441\u043a\u0438\u043b\u043b\u044b, \u0441\u0443\u0431\u0430\u0433\u0435\u043d\u0442\u044b, Telegram, cron",
-    "id": "smixs/eve-assistant",
-    "language": "Python",
-    "name": "smixs/eve-assistant",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:58:02Z",
-    "url": "https://github.com/smixs/eve-assistant"
   },
   {
     "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
@@ -153,15 +180,6 @@
     "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4058,
-    "updated_at": "2026-06-20T01:37:14Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Agent SDK, CLI, Platform in Rust",
     "id": "Wh1isper/starweaver",
     "language": "Rust",
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T02:13:14Z",
+    "updated_at": "2026-06-20T02:29:31Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 18,
     "updated_at": "2026-06-20T02:05:22Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-20T01:07:24Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
-    "id": "sheawinkler/ContextLattice",
-    "language": "Go",
-    "name": "sheawinkler/ContextLattice",
-    "stars": 115,
-    "updated_at": "2026-06-19T21:43:59Z",
-    "url": "https://github.com/sheawinkler/ContextLattice"
   }
 ]
