@@ -1,12 +1,12 @@
 [
   {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 2,
-    "updated_at": "2026-06-20T10:29:57Z",
-    "url": "https://github.com/qmilab/asterism"
+    "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
+    "id": "neural-agi/Qwen3-Coder-Next",
+    "language": "Python",
+    "name": "neural-agi/Qwen3-Coder-Next",
+    "stars": 0,
+    "updated_at": "2026-06-20T10:42:48Z",
+    "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
   },
   {
     "description": "Trust and verification for the skills your AI agent installs.",
@@ -14,7 +14,7 @@
     "language": "Go",
     "name": "alexverify/assay",
     "stars": 1,
-    "updated_at": "2026-06-20T10:29:08Z",
+    "updated_at": "2026-06-20T10:36:27Z",
     "url": "https://github.com/alexverify/assay"
   },
   {
@@ -23,8 +23,17 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-20T10:29:46Z",
+    "updated_at": "2026-06-20T10:37:22Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-20T10:35:25Z",
+    "url": "https://github.com/ludex-lab/ludex"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -32,8 +41,35 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 5,
-    "updated_at": "2026-06-20T10:22:13Z",
+    "updated_at": "2026-06-20T10:39:40Z",
     "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "An agent runtime that truly has experience.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 8,
+    "updated_at": "2026-06-20T10:31:54Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T10:30:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
+    "id": "qmilab/asterism",
+    "language": "TypeScript",
+    "name": "qmilab/asterism",
+    "stars": 2,
+    "updated_at": "2026-06-20T10:45:01Z",
+    "url": "https://github.com/qmilab/asterism"
   },
   {
     "description": "Build LLM agent graphs declaratively \u2014 a tiny DSL over LangGraph with automatic tool loops, structured-output routing, a",
@@ -45,21 +81,12 @@
     "url": "https://github.com/TeeratP/agentic-framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T10:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
     "id": "AmritaBot/AmritaCore",
     "language": "Python",
     "name": "AmritaBot/AmritaCore",
     "stars": 9,
-    "updated_at": "2026-06-20T10:17:10Z",
+    "updated_at": "2026-06-20T10:39:35Z",
     "url": "https://github.com/AmritaBot/AmritaCore"
   },
   {
@@ -108,15 +135,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "An agent runtime that truly has experience.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 8,
-    "updated_at": "2026-06-20T09:55:22Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
@@ -153,15 +171,6 @@
     "url": "https://github.com/sandydasari/openacme"
   },
   {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:47:45Z",
-    "url": "https://github.com/ludex-lab/ludex"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -184,7 +193,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11495,
+    "stars": 11496,
     "updated_at": "2026-06-20T09:43:47Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -301,7 +310,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4116,
+    "stars": 4118,
     "updated_at": "2026-06-20T08:19:24Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -439,14 +448,5 @@
     "stars": 73,
     "updated_at": "2026-06-20T06:18:46Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Manusclaw: Unleash self-reasoning CLI beasts to execute code, browse the web, and dominate tasks \u2014 across 12+ messaging ",
-    "id": "ManusAgents/ManusClaw",
-    "language": "Python",
-    "name": "ManusAgents/ManusClaw",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:01:35Z",
-    "url": "https://github.com/ManusAgents/ManusClaw"
   }
 ]
