@@ -5,17 +5,35 @@
     "language": "Python",
     "name": "smixs/iva",
     "stars": 1,
-    "updated_at": "2026-06-20T04:26:16Z",
+    "updated_at": "2026-06-20T04:42:57Z",
     "url": "https://github.com/smixs/iva"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
     "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-20T04:25:10Z",
-    "url": "https://github.com/tya5/reyn"
+    "name": "Ecro/harness-maker",
+    "stars": 2,
+    "updated_at": "2026-06-20T04:40:49Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "A governed multi-agent framework built on git",
+    "id": "cordfuse/politik",
+    "language": "\u2014",
+    "name": "cordfuse/politik",
+    "stars": 0,
+    "updated_at": "2026-06-20T04:35:16Z",
+    "url": "https://github.com/cordfuse/politik"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-20T04:33:33Z",
+    "url": "https://github.com/lightfastai/lightfast"
   },
   {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
@@ -23,8 +41,26 @@
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-06-20T04:22:20Z",
+    "updated_at": "2026-06-20T04:33:15Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-20T04:37:44Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T04:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -45,24 +81,6 @@
     "url": "https://github.com/guilingzhouyi-creator/NOMOS"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T04:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-20T04:27:22Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
     "id": "JohnnyFiv3r/Core-Memory",
     "language": "Python",
@@ -76,8 +94,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23242,
-    "updated_at": "2026-06-20T04:09:22Z",
+    "stars": 23243,
+    "updated_at": "2026-06-20T04:40:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -131,7 +149,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 4,
-    "updated_at": "2026-06-20T04:13:24Z",
+    "updated_at": "2026-06-20T04:43:29Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -166,7 +184,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4072,
+    "stars": 4074,
     "updated_at": "2026-06-20T03:24:55Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T04:28:55Z",
+    "updated_at": "2026-06-20T04:45:18Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T00:04:07Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 162,
-    "updated_at": "2026-06-20T00:01:46Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 1,
-    "updated_at": "2026-06-20T00:01:46Z",
-    "url": "https://github.com/ellmos-ai/skills"
   }
 ]
