@@ -1,12 +1,39 @@
 [
   {
-    "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
-    "id": "morning-verlu/KAI",
-    "language": "Kotlin",
-    "name": "morning-verlu/KAI",
-    "stars": 0,
-    "updated_at": "2026-06-20T07:24:58Z",
-    "url": "https://github.com/morning-verlu/KAI"
+    "description": " A personal AI Agent that runs on your machine. Build tools, test it, and call it. Give the Agent you already use the po",
+    "id": "pardnchiu/Agenvoy",
+    "language": "Go",
+    "name": "pardnchiu/Agenvoy",
+    "stars": 217,
+    "updated_at": "2026-06-20T07:44:15Z",
+    "url": "https://github.com/pardnchiu/Agenvoy"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4086,
+    "updated_at": "2026-06-20T07:39:58Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 2,
+    "updated_at": "2026-06-20T07:37:13Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "Single-kernel Codex runtime that distills skills, agents, plugins, and workflows into atomic capabilities and routes the",
+    "id": "AI-wuji/wuji-legion-codex",
+    "language": "Go",
+    "name": "AI-wuji/wuji-legion-codex",
+    "stars": 1,
+    "updated_at": "2026-06-20T07:30:39Z",
+    "url": "https://github.com/AI-wuji/wuji-legion-codex"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T07:15:19Z",
+    "updated_at": "2026-06-20T07:30:25Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
+    "id": "morning-verlu/KAI",
+    "language": "Kotlin",
+    "name": "morning-verlu/KAI",
+    "stars": 0,
+    "updated_at": "2026-06-20T07:24:58Z",
+    "url": "https://github.com/morning-verlu/KAI"
   },
   {
     "description": "",
@@ -59,7 +95,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-20T07:02:45Z",
+    "updated_at": "2026-06-20T07:37:41Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -171,15 +207,6 @@
     "url": "https://github.com/br3eze-code/br3eze-code"
   },
   {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 2,
-    "updated_at": "2026-06-20T06:25:39Z",
-    "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
     "description": "EvE is an open-source framework for co-evolving ensembles of coding agents. Wrap any coding agent \u2014 Codex, Claude Code \u2014",
     "id": "scaling-group/eve",
     "language": "Python",
@@ -247,7 +274,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23257,
+    "stars": 23258,
     "updated_at": "2026-06-20T05:45:19Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -414,15 +441,6 @@
     "url": "https://github.com/3rdAI-admin/th3rdai-harness"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4084,
-    "updated_at": "2026-06-20T03:24:55Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
     "id": "DYAI2025/Plumbline",
     "language": "Shell",
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-20T03:13:41Z",
     "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "Agent framework with trait-based architecture and learning capabilities",
-    "id": "llm-works/llm-gent",
-    "language": "Python",
-    "name": "llm-works/llm-gent",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:23:49Z",
-    "url": "https://github.com/llm-works/llm-gent"
-  },
-  {
-    "description": "Democratizing Reinforcement Learning for LLMs",
-    "id": "rllm-org/rllm",
-    "language": "Python",
-    "name": "rllm-org/rllm",
-    "stars": 5631,
-    "updated_at": "2026-06-20T07:28:59Z",
-    "url": "https://github.com/rllm-org/rllm"
   }
 ]
