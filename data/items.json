@@ -1,11 +1,38 @@
 [
   {
+    "description": "Multi-agent system built with Claude and MCP featuring 7 specialized agents (chatbot, security researcher, business advi",
+    "id": "brooksmcmillin/agents",
+    "language": "Python",
+    "name": "brooksmcmillin/agents",
+    "stars": 2,
+    "updated_at": "2026-06-20T17:56:03Z",
+    "url": "https://github.com/brooksmcmillin/agents"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-06-20T17:56:05Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
+    "id": "achappey/aihappey-chat",
+    "language": "TypeScript",
+    "name": "achappey/aihappey-chat",
+    "stars": 3,
+    "updated_at": "2026-06-20T17:47:50Z",
+    "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T17:45:22Z",
+    "updated_at": "2026-06-20T17:45:48Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Go",
     "name": "mnemon-dev/mnemon",
     "stars": 357,
-    "updated_at": "2026-06-20T17:24:41Z",
+    "updated_at": "2026-06-20T17:47:07Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T17:00:09Z",
+    "updated_at": "2026-06-20T18:00:07Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-20T16:43:32Z",
+    "updated_at": "2026-06-20T17:58:42Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -328,7 +355,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4166,
+    "stars": 4165,
     "updated_at": "2026-06-20T15:21:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-20T15:56:35Z",
     "url": "https://github.com/qmilab/asterism"
-  },
-  {
-    "description": "Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones",
-    "id": "ellmos-ai/clutch",
-    "language": "Python",
-    "name": "ellmos-ai/clutch",
-    "stars": 1,
-    "updated_at": "2026-06-20T14:07:40Z",
-    "url": "https://github.com/ellmos-ai/clutch"
-  },
-  {
-    "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
-    "id": "ellmos-ai/n8n-manager-mcp",
-    "language": "TypeScript",
-    "name": "ellmos-ai/n8n-manager-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-20T14:07:38Z",
-    "url": "https://github.com/ellmos-ai/n8n-manager-mcp"
-  },
-  {
-    "description": "Local filesystem MCP server with 43 tools: safe delete, process management, interactive sessions, async search, OCR, ZIP",
-    "id": "ellmos-ai/ellmos-filecommander-mcp",
-    "language": "JavaScript",
-    "name": "ellmos-ai/ellmos-filecommander-mcp",
-    "stars": 3,
-    "updated_at": "2026-06-20T14:06:56Z",
-    "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
   }
 ]
