@@ -1,11 +1,29 @@
 [
   {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 16,
+    "updated_at": "2026-06-20T19:17:35Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-20T19:16:22Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T19:14:28Z",
+    "updated_at": "2026-06-20T19:15:22Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T19:14:13Z",
+    "updated_at": "2026-06-20T19:19:44Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -148,7 +166,7 @@
     "id": "codeaholicguy/ai-devkit",
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
-    "stars": 1429,
+    "stars": 1430,
     "updated_at": "2026-06-20T18:18:08Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T18:07:55Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 16,
-    "updated_at": "2026-06-20T18:04:26Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
@@ -288,20 +297,11 @@
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:20:13Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23335,
+    "stars": 23337,
     "updated_at": "2026-06-20T17:19:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
