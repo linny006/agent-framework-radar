@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T20:41:41Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
     "id": "motojinc25/chatwalaau",
     "language": "Python",
@@ -27,15 +36,6 @@
     "url": "https://github.com/ThousandBirdsInc/chidori"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T20:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
     "id": "DYAI2025/Plumbline",
     "language": "Shell",
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "ellmos-ai/skills",
     "stars": 1,
-    "updated_at": "2026-06-20T20:22:19Z",
+    "updated_at": "2026-06-20T20:45:21Z",
     "url": "https://github.com/ellmos-ai/skills"
   },
   {
@@ -104,7 +104,7 @@
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 2,
-    "updated_at": "2026-06-20T20:00:13Z",
+    "updated_at": "2026-06-20T20:45:08Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
