@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-20T09:29:35Z",
+    "updated_at": "2026-06-20T09:44:31Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Next Generation Agent Core / \u6b21\u4e16\u4ee3Agent\u6838\u5fc3",
+    "id": "AmritaBot/AmritaCore",
+    "language": "Python",
+    "name": "AmritaBot/AmritaCore",
+    "stars": 9,
+    "updated_at": "2026-06-20T09:45:20Z",
+    "url": "https://github.com/AmritaBot/AmritaCore"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11493,
+    "updated_at": "2026-06-20T09:43:47Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Enterprise-ready Apache Camel agent framework for blueprint-defined AI workflows, tool orchestration, Spring AI provider",
+    "id": "dscope-io/dscope-camel-agent",
+    "language": "Java",
+    "name": "dscope-io/dscope-camel-agent",
+    "stars": 1,
+    "updated_at": "2026-06-20T09:43:05Z",
+    "url": "https://github.com/dscope-io/dscope-camel-agent"
+  },
+  {
+    "description": "Self-hosted AI agent runtime in Rust: run autonomous LLM agents over Telegram & Discord with durable queues, fail-closed",
+    "id": "phenomenoner/agent-harness-core",
+    "language": "Rust",
+    "name": "phenomenoner/agent-harness-core",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:40:27Z",
+    "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "Harness AI & Agent OS for governed multi-agent systems in Python \u2014 Nexus orchestration, policy, tools, skills, RAG & mul",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 4,
+    "updated_at": "2026-06-20T09:35:55Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T09:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 1,
-    "updated_at": "2026-06-20T09:28:20Z",
+    "updated_at": "2026-06-20T09:35:19Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-06-20T09:18:51Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T09:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-20T08:30:12Z",
+    "updated_at": "2026-06-20T09:34:11Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -139,7 +184,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4109,
+    "stars": 4111,
     "updated_at": "2026-06-20T08:19:24Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -279,15 +324,6 @@
     "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
   },
   {
-    "description": "Harness AI & Agent OS for governed multi-agent systems in Python \u2014 Nexus orchestration, policy, tools, skills, RAG & mul",
-    "id": "jakbuczarnecki/intergrax",
-    "language": "Python",
-    "name": "jakbuczarnecki/intergrax",
-    "stars": 4,
-    "updated_at": "2026-06-20T08:40:27Z",
-    "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
     "id": "telus-labs/stagecraft",
     "language": "JavaScript",
@@ -382,7 +418,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23272,
+    "stars": 23271,
     "updated_at": "2026-06-20T05:45:19Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -412,41 +448,5 @@
     "stars": 88,
     "updated_at": "2026-06-20T05:18:40Z",
     "url": "https://github.com/huangjia2019/agent-design-patterns"
-  },
-  {
-    "description": "Multi-agent LLM pipeline for long-form novel continuation \u00b7 \u591a Agent \u957f\u7bc7\u5c0f\u8bf4\u7eed\u5199\u6d41\u6c34\u7ebf\uff0c19 \u8f6e\u8fed\u4ee3 + \u5168\u7a0b mock-first",
-    "id": "ARMANDSnow/make-ur-Agent-writer",
-    "language": "Python",
-    "name": "ARMANDSnow/make-ur-Agent-writer",
-    "stars": 13,
-    "updated_at": "2026-06-20T05:15:02Z",
-    "url": "https://github.com/ARMANDSnow/make-ur-Agent-writer"
-  },
-  {
-    "description": "A governed multi-agent framework built on git",
-    "id": "cordfuse/politik",
-    "language": "\u2014",
-    "name": "cordfuse/politik",
-    "stars": 0,
-    "updated_at": "2026-06-20T04:35:16Z",
-    "url": "https://github.com/cordfuse/politik"
-  },
-  {
-    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
-    "id": "bugsyhewitt/AlienClaw",
-    "language": "TypeScript",
-    "name": "bugsyhewitt/AlienClaw",
-    "stars": 7,
-    "updated_at": "2026-06-20T09:10:25Z",
-    "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
-    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
-    "id": "guilingzhouyi-creator/NOMOS",
-    "language": "Python",
-    "name": "guilingzhouyi-creator/NOMOS",
-    "stars": 1,
-    "updated_at": "2026-06-20T04:15:30Z",
-    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
   }
 ]
