@@ -1,11 +1,29 @@
 [
   {
+    "description": "An open-source framework for guardian agents \u2014 morality signed into the floor, verified before acting, enforced fail-clo",
+    "id": "nidamen/theangels",
+    "language": "JavaScript",
+    "name": "nidamen/theangels",
+    "stars": 0,
+    "updated_at": "2026-06-20T21:46:38Z",
+    "url": "https://github.com/nidamen/theangels"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T21:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-20T21:42:02Z",
+    "updated_at": "2026-06-20T21:47:21Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -25,15 +43,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T21:36:55Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T21:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -439,14 +448,5 @@
     "stars": 22,
     "updated_at": "2026-06-20T16:55:38Z",
     "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 8,
-    "updated_at": "2026-06-20T16:50:46Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
   }
 ]
