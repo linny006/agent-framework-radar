@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 73,
-    "updated_at": "2026-06-21T07:59:16Z",
+    "updated_at": "2026-06-21T08:12:03Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-21T08:05:32Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T08:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-21T07:55:23Z",
+    "updated_at": "2026-06-21T08:15:19Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T07:45:50Z",
     "url": "https://github.com/amitpatole/verel"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T07:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-21T07:59:06Z",
+    "updated_at": "2026-06-21T08:13:51Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -157,7 +166,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23411,
+    "stars": 23414,
     "updated_at": "2026-06-21T07:00:34Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-06-21T07:47:16Z",
+    "updated_at": "2026-06-21T08:13:35Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T03:46:18Z",
     "url": "https://github.com/The-Tech-Idea/Beep.AI.Code"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-06-21T07:04:59Z",
-    "url": "https://github.com/sytone/botnexus"
   }
 ]
