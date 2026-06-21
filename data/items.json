@@ -1,21 +1,57 @@
 [
   {
-    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
-    "id": "amitpatole/verel",
-    "language": "Python",
-    "name": "amitpatole/verel",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:29:12Z",
-    "url": "https://github.com/amitpatole/verel"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-21T03:22:35Z",
+    "updated_at": "2026-06-21T03:43:09Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
+    "id": "amitpatole/verel",
+    "language": "Python",
+    "name": "amitpatole/verel",
+    "stars": 0,
+    "updated_at": "2026-06-21T03:43:03Z",
+    "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-06-21T03:42:18Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
+    "language": "Python",
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 18,
+    "updated_at": "2026-06-21T03:32:50Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-21T03:32:10Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T03:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
@@ -34,15 +70,6 @@
     "stars": 73,
     "updated_at": "2026-06-21T03:21:14Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T03:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 4209,
-    "updated_at": "2026-06-21T03:07:59Z",
+    "updated_at": "2026-06-21T03:32:43Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -351,6 +378,15 @@
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
+    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
+    "id": "vstorm-co/full-stack-ai-agent-template",
+    "language": "Python",
+    "name": "vstorm-co/full-stack-ai-agent-template",
+    "stars": 1439,
+    "updated_at": "2026-06-20T23:32:31Z",
+    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
+  },
+  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
@@ -367,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T23:05:21Z",
     "url": "https://github.com/showjihyun/ElGraph"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:01:59Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -401,7 +428,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-21T03:26:37Z",
+    "updated_at": "2026-06-21T03:45:07Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-20T22:14:34Z",
     "url": "https://github.com/the-long-ride/engram"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 8,
-    "updated_at": "2026-06-20T23:19:40Z",
-    "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 2,
-    "updated_at": "2026-06-20T21:18:38Z",
-    "url": "https://github.com/qmilab/asterism"
-  },
-  {
-    "description": "Production-ready Python framework for AI agents with built-in guardrails, audit logging, cost tracking, and hybrid RAG. ",
-    "id": "johnnichev/selectools",
-    "language": "Python",
-    "name": "johnnichev/selectools",
-    "stars": 9,
-    "updated_at": "2026-06-20T21:12:52Z",
-    "url": "https://github.com/johnnichev/selectools"
   }
 ]
