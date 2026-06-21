@@ -1,5 +1,59 @@
 [
   {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 2,
+    "updated_at": "2026-06-21T04:59:24Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "\ud83c\udfe5 Medical AI Agent Orchestration Framework. 5-step harness pipeline + MCP tools + multi-agent coordination.",
+    "id": "MoKangMedical/openclaw-medical-harness",
+    "language": "Python",
+    "name": "MoKangMedical/openclaw-medical-harness",
+    "stars": 2,
+    "updated_at": "2026-06-21T04:59:13Z",
+    "url": "https://github.com/MoKangMedical/openclaw-medical-harness"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 23,
+    "updated_at": "2026-06-21T04:52:49Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-21T04:52:41Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6412,
+    "updated_at": "2026-06-21T04:48:12Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T04:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
     "id": "tuanductran/soulmap-ai",
     "language": "Python",
@@ -27,24 +81,6 @@
     "url": "https://github.com/nidamen/theangels"
   },
   {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 23,
-    "updated_at": "2026-06-21T04:36:33Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T04:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
     "id": "plaited/plaited",
     "language": "TypeScript",
@@ -54,31 +90,13 @@
     "url": "https://github.com/plaited/plaited"
   },
   {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 0,
-    "updated_at": "2026-06-21T04:26:25Z",
-    "url": "https://github.com/ludex-lab/ludex"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23383,
+    "stars": 23384,
     "updated_at": "2026-06-21T04:25:40Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6412,
-    "updated_at": "2026-06-21T04:44:28Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "\ud83e\udde0 8 KI-Agenten lokal orchestrieren \u2013 ohne Cloud. FastAPI, DeepSeek, SQLite-Message-Queue, FAISS-Embeddings, Gatekeeper-S",
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "melaya-labs/melaya",
     "stars": 4,
-    "updated_at": "2026-06-21T04:10:09Z",
+    "updated_at": "2026-06-21T05:00:20Z",
     "url": "https://github.com/melaya-labs/melaya"
   },
   {
@@ -166,7 +184,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4216,
+    "stars": 4218,
     "updated_at": "2026-06-21T03:54:21Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -250,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T02:48:48Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 2,
-    "updated_at": "2026-06-21T02:46:05Z",
-    "url": "https://github.com/Ecro/harness-maker"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T00:00:26Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-21T00:00:20Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
