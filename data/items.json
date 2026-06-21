@@ -1,12 +1,48 @@
 [
   {
+    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 73,
+    "updated_at": "2026-06-21T07:59:16Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-21T07:55:23Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\u53ef\u89c6\u5316\u8d1d\u53f6\u65af\u5f0f\u4eba\u673a\u534f\u540c\u6846\u67b6 \u00b7 \u4eba\u7c7b\u4f5c\u4e3a\u6982\u7387\u7a7a\u95f4\u7684\u9ad8\u7ef4\u89c2\u6d4b\u8005\uff0c\u901a\u8fc7 UI \u5c42\u7cbe\u51c6\u5e72\u9884\u5f15\u5bfc LLM \u63a8\u7406\u6536\u655b \u00b7 A Bayesian-inspired human-AI collaboration framework with dynami",
+    "id": "yaoxinyaoxinyaoxin/CB-Chat",
+    "language": "\u2014",
+    "name": "yaoxinyaoxinyaoxin/CB-Chat",
+    "stars": 0,
+    "updated_at": "2026-06-21T07:45:55Z",
+    "url": "https://github.com/yaoxinyaoxinyaoxin/CB-Chat"
+  },
+  {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
     "id": "amitpatole/verel",
     "language": "Python",
     "name": "amitpatole/verel",
     "stars": 0,
-    "updated_at": "2026-06-21T07:44:44Z",
+    "updated_at": "2026-06-21T07:45:50Z",
     "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T07:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
@@ -45,15 +81,6 @@
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T07:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "",
     "id": "romainsantoli-web/setup-vs-agent-firm",
     "language": "Python",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-21T07:33:11Z",
+    "updated_at": "2026-06-21T07:59:06Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 67,
     "updated_at": "2026-06-21T07:22:27Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-21T07:21:28Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
@@ -139,7 +157,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23405,
+    "stars": 23411,
     "updated_at": "2026-06-21T07:00:34Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -160,15 +178,6 @@
     "stars": 4,
     "updated_at": "2026-06-21T06:57:33Z",
     "url": "https://github.com/amilworks/ultra"
-  },
-  {
-    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 73,
-    "updated_at": "2026-06-21T06:54:21Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-06-21T07:42:55Z",
+    "updated_at": "2026-06-21T07:47:16Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -347,7 +356,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6412,
-    "updated_at": "2026-06-21T04:48:12Z",
+    "updated_at": "2026-06-21T07:54:26Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-21T07:04:59Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 18,
-    "updated_at": "2026-06-21T03:32:50Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   }
 ]
