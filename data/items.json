@@ -1,12 +1,93 @@
 [
   {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-06-21T09:44:40Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
+    "description": "Production-ready multi-user AI agent framework \u2014 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-c",
+    "id": "stephonGAO/milu",
+    "language": "Python",
+    "name": "stephonGAO/milu",
+    "stars": 5,
+    "updated_at": "2026-06-21T09:59:22Z",
+    "url": "https://github.com/stephonGAO/milu"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-06-21T09:58:35Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "Encre \u2014 A Python agent framework, a Rust native core, and an Electron desktop app, all developed together in one reposit",
+    "id": "mf2023/Encre",
+    "language": "Python",
+    "name": "mf2023/Encre",
+    "stars": 1,
+    "updated_at": "2026-06-21T09:58:31Z",
+    "url": "https://github.com/mf2023/Encre"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-06-21T09:58:03Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-06-21T09:52:58Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "\u53ef\u89c6\u5316\u8d1d\u53f6\u65af\u5f0f\u4eba\u673a\u534f\u540c\u6846\u67b6 \u00b7 \u4eba\u7c7b\u4f5c\u4e3a\u6982\u7387\u7a7a\u95f4\u7684\u9ad8\u7ef4\u89c2\u6d4b\u8005\uff0c\u901a\u8fc7 UI \u5c42\u7cbe\u51c6\u5e72\u9884\u5f15\u5bfc LLM \u63a8\u7406\u6536\u655b \u00b7 A Bayesian-inspired human-AI collaboration framework with dynami",
+    "id": "yaoxinyaoxinyaoxin/CB-Chat",
+    "language": "\u2014",
+    "name": "yaoxinyaoxinyaoxin/CB-Chat",
+    "stars": 0,
+    "updated_at": "2026-06-21T09:52:34Z",
+    "url": "https://github.com/yaoxinyaoxinyaoxin/CB-Chat"
+  },
+  {
+    "description": "Memory-backed autonomous AI agent on the Claude Agent SDK / kagura-brain \u2014 Docker security membrane, per-task credential",
+    "id": "kagura-ai/kagura-agent",
+    "language": "Python",
+    "name": "kagura-ai/kagura-agent",
+    "stars": 0,
+    "updated_at": "2026-06-21T09:55:43Z",
+    "url": "https://github.com/kagura-ai/kagura-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-21T09:51:23Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 2,
+    "updated_at": "2026-06-21T09:50:49Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-21T09:48:10Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,8 +95,26 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-21T09:42:56Z",
+    "updated_at": "2026-06-21T09:57:43Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T09:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-21T09:44:40Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -54,40 +153,13 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T09:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6412,
-    "updated_at": "2026-06-21T09:29:28Z",
+    "updated_at": "2026-06-21T09:58:25Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Memory-backed autonomous AI agent on the Claude Agent SDK / kagura-brain \u2014 Docker security membrane, per-task credential",
-    "id": "kagura-ai/kagura-agent",
-    "language": "Python",
-    "name": "kagura-ai/kagura-agent",
-    "stars": 0,
-    "updated_at": "2026-06-21T09:25:20Z",
-    "url": "https://github.com/kagura-ai/kagura-agent"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-06-21T09:23:43Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
     "description": "The agent framework where every run is durable, replayable, and resumable by default.",
@@ -121,7 +193,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23440,
+    "stars": 23443,
     "updated_at": "2026-06-21T09:18:04Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -151,15 +223,6 @@
     "stars": 171,
     "updated_at": "2026-06-21T09:11:50Z",
     "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
-  },
-  {
-    "description": "\u53ef\u89c6\u5316\u8d1d\u53f6\u65af\u5f0f\u4eba\u673a\u534f\u540c\u6846\u67b6 \u00b7 \u4eba\u7c7b\u4f5c\u4e3a\u6982\u7387\u7a7a\u95f4\u7684\u9ad8\u7ef4\u89c2\u6d4b\u8005\uff0c\u901a\u8fc7 UI \u5c42\u7cbe\u51c6\u5e72\u9884\u5f15\u5bfc LLM \u63a8\u7406\u6536\u655b \u00b7 A Bayesian-inspired human-AI collaboration framework with dynami",
-    "id": "yaoxinyaoxinyaoxin/CB-Chat",
-    "language": "\u2014",
-    "name": "yaoxinyaoxinyaoxin/CB-Chat",
-    "stars": 0,
-    "updated_at": "2026-06-21T09:07:16Z",
-    "url": "https://github.com/yaoxinyaoxinyaoxin/CB-Chat"
   },
   {
     "description": "An agent runtime that truly has experience.",
@@ -270,15 +333,6 @@
     "url": "https://github.com/plaited/plaited"
   },
   {
-    "description": "Production-ready multi-user AI agent framework \u2014 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-c",
-    "id": "stephonGAO/milu",
-    "language": "Python",
-    "name": "stephonGAO/milu",
-    "stars": 5,
-    "updated_at": "2026-06-21T07:40:31Z",
-    "url": "https://github.com/stephonGAO/milu"
-  },
-  {
     "description": "Graph-first agent framework on the BEAM (Elixir/OTP) \u2014 durable execution, HITL, time-travel, checkpoints, MCP. A LangGra",
     "id": "showjihyun/ElGraph",
     "language": "Elixir",
@@ -331,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-06-21T07:09:53Z",
     "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 2,
-    "updated_at": "2026-06-21T07:08:30Z",
-    "url": "https://github.com/Ecro/harness-maker"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -403,50 +448,5 @@
     "stars": 8,
     "updated_at": "2026-06-21T06:27:26Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "Personal Ai Agent",
-    "id": "br3eze-code/br3eze-code",
-    "language": "JavaScript",
-    "name": "br3eze-code/br3eze-code",
-    "stars": 1,
-    "updated_at": "2026-06-21T06:27:21Z",
-    "url": "https://github.com/br3eze-code/br3eze-code"
-  },
-  {
-    "description": "Local multi-agent roundtable with configurable expert personas, RAG knowledge bases, Streamlit UI, and Markdown report g",
-    "id": "Random-Walk2026/agent_roundtable",
-    "language": "Python",
-    "name": "Random-Walk2026/agent_roundtable",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:19:22Z",
-    "url": "https://github.com/Random-Walk2026/agent_roundtable"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:07:05Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "A curated list of AI agent frameworks, tools, platforms, research papers, and resources",
-    "id": "aloth/awesome-ai-agents",
-    "language": "\u2014",
-    "name": "aloth/awesome-ai-agents",
-    "stars": 4,
-    "updated_at": "2026-06-21T06:02:58Z",
-    "url": "https://github.com/aloth/awesome-ai-agents"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:00:23Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   }
 ]
