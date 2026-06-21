@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 05:15 UTC
+> ⏰ Last updated: 2026-06-21 05:24 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 23388 | Go | 2026-06-21 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 2 | [Ecro/harness-maker](https://github.com/Ecro/harness-maker) | 2 | Python | 2026-06-21 | Per-project AI coding harness for Claude Code · Cursor · Codex. Profiler + 10-dim interview build a different harness fo |
-| 3 | [taherdhanera/bountyops-claim-guardian-demo](https://github.com/taherdhanera/bountyops-claim-guardian-demo) | 0 | HTML | 2026-06-21 | Public-safe reasoning-agent demo for GitHub bounty monitoring, CI checks, payout-risk triage, and no-spam claim protecti |
-| 4 | [RikyZ90/ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | 67 | Python | 2026-06-21 | 🐕 Self-hosted security-first AI agent · 22 providers · 11 chat channels · WebUI · 3-level memory · task-schedule · autom |
-| 5 | [agenthatch/agenthatch](https://github.com/agenthatch/agenthatch) | 26 | Python | 2026-06-21 | Turn any skill into a standalone, runnable AI Agent |
-| 6 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-21 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 7 | [melaya-labs/melaya](https://github.com/melaya-labs/melaya) | 4 | Python | 2026-06-21 | AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust |
-| 8 | [MoKangMedical/openclaw-medical-harness](https://github.com/MoKangMedical/openclaw-medical-harness) | 2 | Python | 2026-06-21 | 🏥 Medical AI Agent Orchestration Framework. 5-step harness pipeline + MCP tools + multi-agent coordination. |
-| 9 | [KbWen/agentic-os](https://github.com/KbWen/agentic-os) | 23 | Python | 2026-06-21 | Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w |
-| 10 | [ludex-lab/ludex](https://github.com/ludex-lab/ludex) | 0 | Python | 2026-06-21 | Assemble living AI creatures from biological organ blocks — an AI ethology research platform. Code MIT · sample creature |
+| 1 | [ludex-lab/ludex](https://github.com/ludex-lab/ludex) | 0 | Python | 2026-06-21 | Assemble living AI creatures from biological organ blocks — an AI ethology research platform. Code MIT · sample creature |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-21 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 23389 | Go | 2026-06-21 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 4 | [Ecro/harness-maker](https://github.com/Ecro/harness-maker) | 2 | Python | 2026-06-21 | Per-project AI coding harness for Claude Code · Cursor · Codex. Profiler + 10-dim interview build a different harness fo |
+| 5 | [taherdhanera/bountyops-claim-guardian-demo](https://github.com/taherdhanera/bountyops-claim-guardian-demo) | 0 | HTML | 2026-06-21 | Public-safe reasoning-agent demo for GitHub bounty monitoring, CI checks, payout-risk triage, and no-spam claim protecti |
+| 6 | [RikyZ90/ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | 67 | Python | 2026-06-21 | 🐕 Self-hosted security-first AI agent · 22 providers · 11 chat channels · WebUI · 3-level memory · task-schedule · autom |
+| 7 | [agenthatch/agenthatch](https://github.com/agenthatch/agenthatch) | 26 | Python | 2026-06-21 | Turn any skill into a standalone, runnable AI Agent |
+| 8 | [melaya-labs/melaya](https://github.com/melaya-labs/melaya) | 4 | Python | 2026-06-21 | AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust |
+| 9 | [MoKangMedical/openclaw-medical-harness](https://github.com/MoKangMedical/openclaw-medical-harness) | 2 | Python | 2026-06-21 | 🏥 Medical AI Agent Orchestration Framework. 5-step harness pipeline + MCP tools + multi-agent coordination. |
+| 10 | [KbWen/agentic-os](https://github.com/KbWen/agentic-os) | 23 | Python | 2026-06-21 | Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w |
 | 11 | [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6412 | TypeScript | 2026-06-21 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration. |
 | 12 | [tuanductran/soulmap-ai](https://github.com/tuanductran/soulmap-ai) | 1 | Python | 2026-06-21 | SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t |
 | 13 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-06-21 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |

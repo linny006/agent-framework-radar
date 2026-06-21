@@ -1,10 +1,28 @@
 [
   {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-21T05:18:25Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T05:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23388,
+    "stars": 23389,
     "updated_at": "2026-06-21T05:14:21Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -45,15 +63,6 @@
     "url": "https://github.com/agenthatch/agenthatch"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T05:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust",
     "id": "melaya-labs/melaya",
     "language": "Python",
@@ -77,17 +86,8 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 23,
-    "updated_at": "2026-06-21T04:52:49Z",
+    "updated_at": "2026-06-21T05:17:50Z",
     "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 0,
-    "updated_at": "2026-06-21T04:52:41Z",
-    "url": "https://github.com/ludex-lab/ludex"
   },
   {
     "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
