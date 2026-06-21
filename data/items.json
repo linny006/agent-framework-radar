@@ -1,11 +1,38 @@
 [
   {
+    "description": "A portable, instance-agnostic framework for building, coordinating, and running AI agents.",
+    "id": "apexradius/agentic-os",
+    "language": "TypeScript",
+    "name": "apexradius/agentic-os",
+    "stars": 0,
+    "updated_at": "2026-06-21T00:33:25Z",
+    "url": "https://github.com/apexradius/agentic-os"
+  },
+  {
+    "description": "The control plane for AI coding agents.",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1430,
+    "updated_at": "2026-06-21T00:31:05Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T00:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-21T00:28:45Z",
+    "updated_at": "2026-06-21T00:44:18Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -34,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-06-21T00:23:47Z",
     "url": "https://github.com/shimo4228/agent-knowledge-cycle"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T00:20:44Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-21T00:20:39Z",
+    "updated_at": "2026-06-21T00:43:58Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/guilingzhouyi-creator/NOMOS"
   },
   {
-    "description": "The control plane for AI coding agents.",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1430,
-    "updated_at": "2026-06-20T18:18:08Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
     "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
     "id": "ellmos-ai/ellmos-homebase-mcp",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-20T17:56:03Z",
     "url": "https://github.com/brooksmcmillin/agents"
-  },
-  {
-    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
-    "id": "ourostack/ouroboros",
-    "language": "TypeScript",
-    "name": "ourostack/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-06-20T17:56:05Z",
-    "url": "https://github.com/ourostack/ouroboros"
   }
 ]
