@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
+    "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
+    "id": "agentlas-ai/Hephaestus",
     "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-21T03:43:09Z",
-    "url": "https://github.com/tya5/reyn"
+    "name": "agentlas-ai/Hephaestus",
+    "stars": 79,
+    "updated_at": "2026-06-21T03:57:20Z",
+    "url": "https://github.com/agentlas-ai/Hephaestus"
   },
   {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "amitpatole/verel",
     "stars": 0,
-    "updated_at": "2026-06-21T03:43:03Z",
+    "updated_at": "2026-06-21T03:51:42Z",
     "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "BountyOps Claim Guardian: public-safe reasoning-agent demo for GitHub bounty monitoring, CI checks, payout-risk triage, ",
+    "id": "taherdhanera/bountyops-claim-guardian-demo",
+    "language": "HTML",
+    "name": "taherdhanera/bountyops-claim-guardian-demo",
+    "stars": 0,
+    "updated_at": "2026-06-21T03:48:39Z",
+    "url": "https://github.com/taherdhanera/bountyops-claim-guardian-demo"
+  },
+  {
+    "description": "",
+    "id": "The-Tech-Idea/Beep.AI.Code",
+    "language": "Python",
+    "name": "The-Tech-Idea/Beep.AI.Code",
+    "stars": 0,
+    "updated_at": "2026-06-21T03:46:18Z",
+    "url": "https://github.com/The-Tech-Idea/Beep.AI.Code"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T03:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-21T04:00:09Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -36,6 +72,15 @@
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4210,
+    "updated_at": "2026-06-21T03:54:21Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -45,21 +90,12 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T03:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
     "id": "markl-a/phantom-secops",
     "language": "Python",
     "name": "markl-a/phantom-secops",
     "stars": 0,
-    "updated_at": "2026-06-21T03:24:19Z",
+    "updated_at": "2026-06-21T03:48:30Z",
     "url": "https://github.com/markl-a/phantom-secops"
   },
   {
@@ -90,40 +126,13 @@
     "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
   },
   {
-    "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
-    "id": "agentlas-ai/Hephaestus",
-    "language": "Python",
-    "name": "agentlas-ai/Hephaestus",
-    "stars": 79,
-    "updated_at": "2026-06-21T03:12:06Z",
-    "url": "https://github.com/agentlas-ai/Hephaestus"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4209,
-    "updated_at": "2026-06-21T03:32:43Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
     "id": "ourostack/ouroboros",
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-06-21T03:06:17Z",
+    "updated_at": "2026-06-21T03:52:20Z",
     "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "BountyOps Claim Guardian: public-safe reasoning-agent demo for GitHub bounty monitoring, CI checks, payout-risk triage, ",
-    "id": "taherdhanera/bountyops-claim-guardian-demo",
-    "language": "HTML",
-    "name": "taherdhanera/bountyops-claim-guardian-demo",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:04:26Z",
-    "url": "https://github.com/taherdhanera/bountyops-claim-guardian-demo"
   },
   {
     "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-21T03:45:07Z",
+    "updated_at": "2026-06-21T03:56:19Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-20T22:15:29Z",
     "url": "https://github.com/yakeworld/Synthos"
-  },
-  {
-    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
-    "id": "the-long-ride/engram",
-    "language": "TypeScript",
-    "name": "the-long-ride/engram",
-    "stars": 5,
-    "updated_at": "2026-06-20T22:14:34Z",
-    "url": "https://github.com/the-long-ride/engram"
   }
 ]
