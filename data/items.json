@@ -1,5 +1,59 @@
 [
   {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-21T00:12:24Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
+    "id": "markl-a/phantom-secops",
+    "language": "Python",
+    "name": "markl-a/phantom-secops",
+    "stars": 0,
+    "updated_at": "2026-06-21T00:09:28Z",
+    "url": "https://github.com/markl-a/phantom-secops"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 0,
+    "updated_at": "2026-06-21T00:05:22Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-21T00:00:26Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T00:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-21T00:00:20Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -36,15 +90,6 @@
     "url": "https://github.com/nidamen/theangels"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T23:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
     "id": "fireflyframework/fireflyframework-agentic",
     "language": "Python",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-20T23:56:22Z",
+    "updated_at": "2026-06-21T00:12:12Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-20T23:55:05Z",
+    "updated_at": "2026-06-21T00:14:51Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -135,24 +180,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-20T22:56:28Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-21T00:00:20Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-20T23:58:39Z",
+    "updated_at": "2026-06-21T00:13:01Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -193,18 +220,9 @@
     "id": "yakeworld/Synthos",
     "language": "Python",
     "name": "yakeworld/Synthos",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-06-20T22:15:29Z",
     "url": "https://github.com/yakeworld/Synthos"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-20T22:13:26Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
@@ -214,15 +232,6 @@
     "stars": 5,
     "updated_at": "2026-06-20T22:14:34Z",
     "url": "https://github.com/the-long-ride/engram"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 0,
-    "updated_at": "2026-06-20T22:05:51Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-20T17:47:50Z",
     "url": "https://github.com/achappey/aihappey-chat"
-  },
-  {
-    "description": "Production-grade AI agent orchestration \u2014 DAG context, self-evaluating pipelines, skill bundles with memory. Inspired by",
-    "id": "zedarvates/ultra-pipeline-framework",
-    "language": "Python",
-    "name": "zedarvates/ultra-pipeline-framework",
-    "stars": 3,
-    "updated_at": "2026-06-20T17:37:16Z",
-    "url": "https://github.com/zedarvates/ultra-pipeline-framework"
   }
 ]
