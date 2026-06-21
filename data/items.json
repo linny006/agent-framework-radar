@@ -1,12 +1,75 @@
 [
   {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-21T06:30:04Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
     "description": "The execution-control layer between AI agent decisions and real-world actions.",
     "id": "Letterblack0306/LetterBlack-Sentinel",
     "language": "\u2014",
     "name": "Letterblack0306/LetterBlack-Sentinel",
     "stars": 0,
-    "updated_at": "2026-06-21T06:08:36Z",
+    "updated_at": "2026-06-21T06:30:03Z",
     "url": "https://github.com/Letterblack0306/LetterBlack-Sentinel"
+  },
+  {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 77,
+    "updated_at": "2026-06-21T06:28:21Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 67,
+    "updated_at": "2026-06-21T06:27:39Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 8,
+    "updated_at": "2026-06-21T06:27:26Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "Personal Ai Agent",
+    "id": "br3eze-code/br3eze-code",
+    "language": "JavaScript",
+    "name": "br3eze-code/br3eze-code",
+    "stars": 1,
+    "updated_at": "2026-06-21T06:27:21Z",
+    "url": "https://github.com/br3eze-code/br3eze-code"
+  },
+  {
+    "description": "Local multi-agent roundtable with configurable expert personas, RAG knowledge bases, Streamlit UI, and Markdown report g",
+    "id": "Random-Walk2026/agent_roundtable",
+    "language": "Python",
+    "name": "Random-Walk2026/agent_roundtable",
+    "stars": 0,
+    "updated_at": "2026-06-21T06:19:22Z",
+    "url": "https://github.com/Random-Walk2026/agent_roundtable"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T06:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -27,15 +90,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:04:28Z",
-    "url": "https://github.com/ludex-lab/ludex"
-  },
-  {
     "description": "A curated list of AI agent frameworks, tools, platforms, research papers, and resources",
     "id": "aloth/awesome-ai-agents",
     "language": "\u2014",
@@ -43,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-06-21T06:02:58Z",
     "url": "https://github.com/aloth/awesome-ai-agents"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T06:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -97,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-06-21T05:49:44Z",
     "url": "https://github.com/melaya-labs/melaya"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 67,
-    "updated_at": "2026-06-21T05:51:52Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
     "description": "Harness AI & Agent OS for governed multi-agent systems in Python \u2014 Nexus orchestration, policy, tools, skills, RAG & mul",
@@ -283,7 +319,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4223,
+    "stars": 4224,
     "updated_at": "2026-06-21T03:54:21Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -412,41 +448,5 @@
     "stars": 8,
     "updated_at": "2026-06-21T01:30:25Z",
     "url": "https://github.com/AetherraLabs/Aetherra"
-  },
-  {
-    "description": "Local-first multi-agent orchestrator for AMD APU. Multi-agent pipeline, GBNF constrained decoding, asymmetric KV quantiz",
-    "id": "KakashiTech/AnvilAgent",
-    "language": "Python",
-    "name": "KakashiTech/AnvilAgent",
-    "stars": 0,
-    "updated_at": "2026-06-21T01:30:10Z",
-    "url": "https://github.com/KakashiTech/AnvilAgent"
-  },
-  {
-    "description": "Personal Ai Agent",
-    "id": "br3eze-code/br3eze-code",
-    "language": "JavaScript",
-    "name": "br3eze-code/br3eze-code",
-    "stars": 1,
-    "updated_at": "2026-06-21T01:19:18Z",
-    "url": "https://github.com/br3eze-code/br3eze-code"
-  },
-  {
-    "description": "A portable, instance-agnostic framework for building, coordinating, and running AI agents.",
-    "id": "apexradius/agentic-os",
-    "language": "TypeScript",
-    "name": "apexradius/agentic-os",
-    "stars": 0,
-    "updated_at": "2026-06-21T01:18:01Z",
-    "url": "https://github.com/apexradius/agentic-os"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 10,
-    "updated_at": "2026-06-21T01:04:54Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
   }
 ]
