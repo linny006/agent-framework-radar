@@ -13,7 +13,7 @@ try:
 except Exception as e:
     pass
 
-payload = {"title": "Fix for issue #3", "body": "Closes #3\n\nImplemented automated fix.", "head": "KartavyaDikshit:fix-issue-3", "base": "main"}
+payload = {"title": "Fix for issue #3", "body": "Closes #3\n\nImplemented automated fix.", "head": "KartavyaDikshit:fix-issue-3", "base": "master"}
 req = urllib.request.Request("https://api.github.com/repos/linny006/agent-framework-radar/pulls", data=json.dumps(payload).encode(), headers={'Authorization': f'token {token}', 'Accept': 'application/vnd.github.v3+json', 'Content-Type': 'application/json'}, method='POST')
 try:
     with urllib.request.urlopen(req, context=ctx) as r: 
