@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-21T09:30:02Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6412,
+    "updated_at": "2026-06-21T09:29:28Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Memory-backed autonomous AI agent on the Claude Agent SDK / kagura-brain \u2014 Docker security membrane, per-task credential",
+    "id": "kagura-ai/kagura-agent",
+    "language": "Python",
+    "name": "kagura-ai/kagura-agent",
+    "stars": 0,
+    "updated_at": "2026-06-21T09:25:20Z",
+    "url": "https://github.com/kagura-ai/kagura-agent"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-06-21T09:23:43Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "The agent framework where every run is durable, replayable, and resumable by default.",
+    "id": "ThousandBirdsInc/chidori",
+    "language": "Rust",
+    "name": "ThousandBirdsInc/chidori",
+    "stars": 1350,
+    "updated_at": "2026-06-21T09:20:51Z",
+    "url": "https://github.com/ThousandBirdsInc/chidori"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 163,
+    "updated_at": "2026-06-21T09:19:35Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Public-safe reasoning-agent demo for GitHub bounty monitoring, CI checks, payout-risk triage, and no-spam claim protecti",
+    "id": "taherdhanera/bountyops-claim-guardian-demo",
+    "language": "HTML",
+    "name": "taherdhanera/bountyops-claim-guardian-demo",
+    "stars": 0,
+    "updated_at": "2026-06-21T09:18:15Z",
+    "url": "https://github.com/taherdhanera/bountyops-claim-guardian-demo"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 23437,
+    "updated_at": "2026-06-21T09:18:04Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T09:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -18,15 +99,6 @@
     "url": "https://github.com/dragonforce2010/openmaple"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-21T09:12:23Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
     "id": "Shiyao-Huang/awesome-agent-evolution",
     "language": "JavaScript",
@@ -34,15 +106,6 @@
     "stars": 171,
     "updated_at": "2026-06-21T09:11:50Z",
     "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
-  },
-  {
-    "description": "Memory-backed autonomous AI agent over the Claude Agent SDK / kagura-brain \u2014 Docker security membrane, per-task credenti",
-    "id": "kagura-ai/kagura-agent",
-    "language": "Python",
-    "name": "kagura-ai/kagura-agent",
-    "stars": 0,
-    "updated_at": "2026-06-21T09:14:34Z",
-    "url": "https://github.com/kagura-ai/kagura-agent"
   },
   {
     "description": "\u53ef\u89c6\u5316\u8d1d\u53f6\u65af\u5f0f\u4eba\u673a\u534f\u540c\u6846\u67b6 \u00b7 \u4eba\u7c7b\u4f5c\u4e3a\u6982\u7387\u7a7a\u95f4\u7684\u9ad8\u7ef4\u89c2\u6d4b\u8005\uff0c\u901a\u8fc7 UI \u5c42\u7cbe\u51c6\u5e72\u9884\u5f15\u5bfc LLM \u63a8\u7406\u6536\u655b \u00b7 A Bayesian-inspired human-AI collaboration framework with dynami",
@@ -54,15 +117,6 @@
     "url": "https://github.com/yaoxinyaoxinyaoxin/CB-Chat"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T09:06:40Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An agent runtime that truly has experience.",
     "id": "shadow3aaa/DaatLocus",
     "language": "Rust",
@@ -70,15 +124,6 @@
     "stars": 8,
     "updated_at": "2026-06-21T09:02:02Z",
     "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23433,
-    "updated_at": "2026-06-21T09:01:13Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "ContextLattice is the local-first control plane for long-horizon agent memory and coordination. ",
@@ -135,15 +180,6 @@
     "url": "https://github.com/opencue/cuecards"
   },
   {
-    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6412,
-    "updated_at": "2026-06-21T08:32:14Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -160,15 +196,6 @@
     "stars": 166,
     "updated_at": "2026-06-21T08:22:14Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Public-safe reasoning-agent demo for GitHub bounty monitoring, CI checks, payout-risk triage, and no-spam claim protecti",
-    "id": "taherdhanera/bountyops-claim-guardian-demo",
-    "language": "HTML",
-    "name": "taherdhanera/bountyops-claim-guardian-demo",
-    "stars": 0,
-    "updated_at": "2026-06-21T08:20:38Z",
-    "url": "https://github.com/taherdhanera/bountyops-claim-guardian-demo"
   },
   {
     "description": "Turn any skill into a standalone, runnable AI Agent",
@@ -351,15 +378,6 @@
     "url": "https://github.com/Random-Walk2026/agent_roundtable"
   },
   {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 163,
-    "updated_at": "2026-06-21T06:07:05Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 23,
     "updated_at": "2026-06-21T05:29:43Z",
     "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "AI engineering workspace infrastructure \u2014 18 agents, 46 skills, 28 quality gates. One-command bootstrap for large-scale ",
-    "id": "ninedeerhing/agent-workspace-infrastructure",
-    "language": "Python",
-    "name": "ninedeerhing/agent-workspace-infrastructure",
-    "stars": 0,
-    "updated_at": "2026-06-21T05:26:02Z",
-    "url": "https://github.com/ninedeerhing/agent-workspace-infrastructure"
-  },
-  {
-    "description": "\ud83c\udfe5 Medical AI Agent Orchestration Framework. 5-step harness pipeline + MCP tools + multi-agent coordination.",
-    "id": "MoKangMedical/openclaw-medical-harness",
-    "language": "Python",
-    "name": "MoKangMedical/openclaw-medical-harness",
-    "stars": 2,
-    "updated_at": "2026-06-21T04:59:13Z",
-    "url": "https://github.com/MoKangMedical/openclaw-medical-harness"
   }
 ]
