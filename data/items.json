@@ -1,12 +1,57 @@
 [
   {
+    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4e3aOpenClaw\u5b9e\u4f8b\u63d0\u4f9b\u89c9\u9192\u6846\u67b6\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
+    "id": "yuanchuzi2026/silicon-garden",
+    "language": "HTML",
+    "name": "yuanchuzi2026/silicon-garden",
+    "stars": 1,
+    "updated_at": "2026-06-21T11:44:04Z",
+    "url": "https://github.com/yuanchuzi2026/silicon-garden"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-21T11:41:09Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-21T11:40:22Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-21T11:36:11Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
     "id": "RikyZ90/ShibaClaw",
     "language": "Python",
     "name": "RikyZ90/ShibaClaw",
     "stars": 67,
-    "updated_at": "2026-06-21T11:28:36Z",
+    "updated_at": "2026-06-21T11:34:07Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6412,
+    "updated_at": "2026-06-21T11:31:49Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-21T11:15:22Z",
+    "updated_at": "2026-06-21T11:30:24Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-21T11:30:20Z",
+    "url": "https://github.com/raineislam/mcp-framework"
   },
   {
     "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
@@ -351,15 +405,6 @@
     "url": "https://github.com/Jssu8541/ouro-loop"
   },
   {
-    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6412,
-    "updated_at": "2026-06-21T11:29:16Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
     "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
     "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-21T10:33:46Z",
     "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
-  },
-  {
-    "description": "Provide a lightweight, cross-platform AI agent with TUI and GUI support, optimized for performance and flexible tool int",
-    "id": "duduard/saneagent",
-    "language": "\u2014",
-    "name": "duduard/saneagent",
-    "stars": 0,
-    "updated_at": "2026-06-21T10:32:11Z",
-    "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
-    "id": "BrettMGoughWork/vai-core",
-    "language": "Python",
-    "name": "BrettMGoughWork/vai-core",
-    "stars": 3,
-    "updated_at": "2026-06-21T10:31:48Z",
-    "url": "https://github.com/BrettMGoughWork/vai-core"
-  },
-  {
-    "description": "Build and manage AI agents within git repositories using a Rust-based, dependency-free framework that version-controls a",
-    "id": "yeab405/rusty-gitclaw",
-    "language": "Rust",
-    "name": "yeab405/rusty-gitclaw",
-    "stars": 2,
-    "updated_at": "2026-06-21T10:31:27Z",
-    "url": "https://github.com/yeab405/rusty-gitclaw"
-  },
-  {
-    "description": "\u672c\u4e66\u56f4\u7ed5 DeerFlow 2.0\uff0c\u4ece\u7406\u8bba\u5230\u6e90\u7801\uff0c\u7cfb\u7edf\u8bb2\u89e3\u5982\u4f55\u8fdb\u884c\u4e8c\u6b21\u5f00\u53d1\u3002(\u7cbe\u6821)",
-    "id": "hawkli-1994/deerflow-book",
-    "language": "JavaScript",
-    "name": "hawkli-1994/deerflow-book",
-    "stars": 294,
-    "updated_at": "2026-06-21T10:30:41Z",
-    "url": "https://github.com/hawkli-1994/deerflow-book"
-  },
-  {
-    "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
-    "id": "kokorubbong/agenticqa-scan-action",
-    "language": "Python",
-    "name": "kokorubbong/agenticqa-scan-action",
-    "stars": 0,
-    "updated_at": "2026-06-21T10:29:59Z",
-    "url": "https://github.com/kokorubbong/agenticqa-scan-action"
   }
 ]
