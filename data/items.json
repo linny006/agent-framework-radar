@@ -1,5 +1,59 @@
 [
   {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 4,
+    "updated_at": "2026-06-21T04:10:28Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
+    "id": "markl-a/phantom-secops",
+    "language": "Python",
+    "name": "markl-a/phantom-secops",
+    "stars": 0,
+    "updated_at": "2026-06-21T04:07:12Z",
+    "url": "https://github.com/markl-a/phantom-secops"
+  },
+  {
+    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
+    "id": "amitpatole/verel",
+    "language": "Python",
+    "name": "amitpatole/verel",
+    "stars": 0,
+    "updated_at": "2026-06-21T04:04:59Z",
+    "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-21T04:10:19Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-06-21T04:02:51Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T04:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
     "id": "agentlas-ai/Hephaestus",
     "language": "Python",
@@ -9,13 +63,13 @@
     "url": "https://github.com/agentlas-ai/Hephaestus"
   },
   {
-    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
-    "id": "amitpatole/verel",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "amitpatole/verel",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:51:42Z",
-    "url": "https://github.com/amitpatole/verel"
+    "name": "omnigent-ai/omnigent",
+    "stars": 4212,
+    "updated_at": "2026-06-21T03:54:21Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "BountyOps Claim Guardian: public-safe reasoning-agent demo for GitHub bounty monitoring, CI checks, payout-risk triage, ",
@@ -36,24 +90,6 @@
     "url": "https://github.com/The-Tech-Idea/Beep.AI.Code"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T03:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-21T04:00:09Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
@@ -72,15 +108,6 @@
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4210,
-    "updated_at": "2026-06-21T03:54:21Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -90,15 +117,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
-    "id": "markl-a/phantom-secops",
-    "language": "Python",
-    "name": "markl-a/phantom-secops",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:48:30Z",
-    "url": "https://github.com/markl-a/phantom-secops"
-  },
-  {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -106,6 +124,15 @@
     "stars": 73,
     "updated_at": "2026-06-21T03:21:14Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 23,
+    "updated_at": "2026-06-21T03:15:33Z",
+    "url": "https://github.com/KbWen/agentic-os"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -124,15 +151,6 @@
     "stars": 171,
     "updated_at": "2026-06-21T03:14:51Z",
     "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
-  },
-  {
-    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
-    "id": "ourostack/ouroboros",
-    "language": "TypeScript",
-    "name": "ourostack/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-06-21T03:52:20Z",
-    "url": "https://github.com/ourostack/ouroboros"
   },
   {
     "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
@@ -430,23 +448,5 @@
     "stars": 68,
     "updated_at": "2026-06-20T22:35:49Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 247,
-    "updated_at": "2026-06-21T03:56:19Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution",
-    "id": "yakeworld/Synthos",
-    "language": "Python",
-    "name": "yakeworld/Synthos",
-    "stars": 5,
-    "updated_at": "2026-06-20T22:15:29Z",
-    "url": "https://github.com/yakeworld/Synthos"
   }
 ]
