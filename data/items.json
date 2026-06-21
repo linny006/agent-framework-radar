@@ -1,48 +1,21 @@
 [
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4206,
-    "updated_at": "2026-06-21T02:28:07Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-21T02:27:42Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 1,
-    "updated_at": "2026-06-21T02:25:39Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
     "name": "DemonDamon/AgenticX",
     "stars": 162,
-    "updated_at": "2026-06-21T02:19:05Z",
+    "updated_at": "2026-06-21T02:45:08Z",
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 2,
-    "updated_at": "2026-06-21T02:17:45Z",
-    "url": "https://github.com/Ecro/harness-maker"
+    "name": "omnigent-ai/omnigent",
+    "stars": 4207,
+    "updated_at": "2026-06-21T02:42:10Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "BountyOps Claim Guardian: public-safe reasoning-agent demo for GitHub bounty monitoring, CI checks, payout-risk triage, ",
@@ -50,8 +23,35 @@
     "language": "HTML",
     "name": "taherdhanera/bountyops-claim-guardian-demo",
     "stars": 0,
-    "updated_at": "2026-06-21T02:15:39Z",
+    "updated_at": "2026-06-21T02:39:06Z",
     "url": "https://github.com/taherdhanera/bountyops-claim-guardian-demo"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 2,
+    "updated_at": "2026-06-21T02:33:57Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 1,
+    "updated_at": "2026-06-21T02:32:15Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Turn any skill into a standalone, runnable AI Agent",
+    "id": "agenthatch/agenthatch",
+    "language": "Python",
+    "name": "agenthatch/agenthatch",
+    "stars": 26,
+    "updated_at": "2026-06-21T02:30:49Z",
+    "url": "https://github.com/agenthatch/agenthatch"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -59,8 +59,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-21T02:15:23Z",
+    "updated_at": "2026-06-21T02:30:21Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-21T02:42:22Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -185,7 +194,7 @@
     "language": "Python",
     "name": "markl-a/phantom-secops",
     "stars": 0,
-    "updated_at": "2026-06-21T00:28:15Z",
+    "updated_at": "2026-06-21T02:33:39Z",
     "url": "https://github.com/markl-a/phantom-secops"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-21T02:28:22Z",
+    "updated_at": "2026-06-21T02:45:10Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -427,7 +436,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17872,
+    "stars": 17873,
     "updated_at": "2026-06-20T19:44:00Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-06-20T19:07:36Z",
     "url": "https://github.com/Manavarya09/bullpen"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 2,
-    "updated_at": "2026-06-20T19:07:24Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
   }
 ]
