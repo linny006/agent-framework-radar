@@ -1,12 +1,12 @@
 [
   {
-    "description": "TOON v4 \u00b7 99.97% compression \u00b7 3/3 tool bridge \u00b7 5 MCP graph tools \u00b7 Auto-sync pipeline \u00b7 Single-command install",
-    "id": "OfficialNovizio/ToonGine",
-    "language": "TypeScript",
-    "name": "OfficialNovizio/ToonGine",
-    "stars": 0,
-    "updated_at": "2026-06-21T20:24:53Z",
-    "url": "https://github.com/OfficialNovizio/ToonGine"
+    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
+    "id": "tareksyria/SREAgents",
+    "language": "JavaScript",
+    "name": "tareksyria/SREAgents",
+    "stars": 2,
+    "updated_at": "2026-06-21T20:30:09Z",
+    "url": "https://github.com/tareksyria/SREAgents"
   },
   {
     "description": "Autonomous self-learning agent plugin for Claude Code \u2014 36 specialized subagents in a 4-tier architecture (analysis, pla",
@@ -14,8 +14,62 @@
     "language": "Python",
     "name": "bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude",
     "stars": 23,
-    "updated_at": "2026-06-21T20:23:31Z",
+    "updated_at": "2026-06-21T20:29:55Z",
     "url": "https://github.com/bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude"
+  },
+  {
+    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
+    "id": "RONIN511/alphora",
+    "language": "Python",
+    "name": "RONIN511/alphora",
+    "stars": 2,
+    "updated_at": "2026-06-21T20:27:23Z",
+    "url": "https://github.com/RONIN511/alphora"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-06-21T20:29:01Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "\ud83d\udcc4 Generate static question banks easily with Python and JSON for fast, SEO-friendly websites hosted on GitHub Pages.",
+    "id": "punkxuxu/bank_soal",
+    "language": "Python",
+    "name": "punkxuxu/bank_soal",
+    "stars": 0,
+    "updated_at": "2026-06-21T20:26:23Z",
+    "url": "https://github.com/punkxuxu/bank_soal"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-21T20:26:46Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T20:25:13Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "TOON v4 \u00b7 99.97% compression \u00b7 3/3 tool bridge \u00b7 5 MCP graph tools \u00b7 Auto-sync pipeline \u00b7 Single-command install",
+    "id": "OfficialNovizio/ToonGine",
+    "language": "TypeScript",
+    "name": "OfficialNovizio/ToonGine",
+    "stars": 0,
+    "updated_at": "2026-06-21T20:24:53Z",
+    "url": "https://github.com/OfficialNovizio/ToonGine"
   },
   {
     "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
@@ -61,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T20:15:35Z",
     "url": "https://github.com/TonCerqueira/MiroThinker"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T20:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -166,7 +211,7 @@
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
-    "stars": 165,
+    "stars": 166,
     "updated_at": "2026-06-21T19:50:45Z",
     "url": "https://github.com/cortexkit/aft"
   },
@@ -232,15 +277,6 @@
     "stars": 7,
     "updated_at": "2026-06-21T19:39:39Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-21T20:16:30Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -338,7 +374,7 @@
     "language": "Go",
     "name": "pardnchiu/Agenvoy",
     "stars": 219,
-    "updated_at": "2026-06-21T19:52:37Z",
+    "updated_at": "2026-06-21T20:30:13Z",
     "url": "https://github.com/pardnchiu/Agenvoy"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T18:28:37Z",
     "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-06-21T18:26:44Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-06-21T18:26:17Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-06-21T18:26:11Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-21T18:24:35Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
   }
 ]
