@@ -1,5 +1,50 @@
 [
   {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 10,
+    "updated_at": "2026-06-21T01:04:54Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-06-21T01:04:39Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-21T01:08:31Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "A2A-based network automation platform for Arista cEOS. Operates NETCONF / eAPI / eAPI Config / ANTA / XDP from a single ",
+    "id": "hidemi-k/a2a-ceos-core",
+    "language": "Python",
+    "name": "hidemi-k/a2a-ceos-core",
+    "stars": 0,
+    "updated_at": "2026-06-21T01:01:07Z",
+    "url": "https://github.com/hidemi-k/a2a-ceos-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T01:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Local-first multi-agent orchestrator for AMD APU. Multi-agent pipeline, GBNF constrained decoding, asymmetric KV quantiz",
     "id": "KakashiTech/AnvilAgent",
     "language": "Python",
@@ -18,24 +63,6 @@
     "url": "https://github.com/apexradius/agentic-os"
   },
   {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 0,
-    "updated_at": "2026-06-21T00:54:24Z",
-    "url": "https://github.com/ludex-lab/ludex"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-21T01:00:10Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "BountyOps Claim Guardian: AI agent demo for GitHub bounty monitoring, payout-risk triage, CI checks, and no-spam claim p",
     "id": "taherdhanera/bountyops-claim-guardian-demo",
     "language": "HTML",
@@ -43,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T00:47:48Z",
     "url": "https://github.com/taherdhanera/bountyops-claim-guardian-demo"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T00:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The control plane for AI coding agents.",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-21T00:14:51Z",
+    "updated_at": "2026-06-21T01:13:00Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-21T00:47:17Z",
+    "updated_at": "2026-06-21T01:14:43Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -333,7 +351,7 @@
     "url": "https://github.com/osovv/vv-opencode"
   },
   {
-    "description": "Shovs LLM OS is a local-first, open-source control center for autonomous agents.",
+    "description": "Shovs LLM OS is a local-first research runtime for studying agents that plan, use tools, remember, verify, and explain w",
     "id": "theshovonsaha/shovsOS",
     "language": "Python",
     "name": "theshovonsaha/shovsOS",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T18:37:52Z",
     "url": "https://github.com/guilingzhouyi-creator/NOMOS"
-  },
-  {
-    "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
-    "id": "ellmos-ai/ellmos-homebase-mcp",
-    "language": "Python",
-    "name": "ellmos-ai/ellmos-homebase-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-20T18:03:47Z",
-    "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
-  },
-  {
-    "description": "Multi-agent system built with Claude and MCP featuring 7 specialized agents (chatbot, security researcher, business advi",
-    "id": "brooksmcmillin/agents",
-    "language": "Python",
-    "name": "brooksmcmillin/agents",
-    "stars": 2,
-    "updated_at": "2026-06-20T17:56:03Z",
-    "url": "https://github.com/brooksmcmillin/agents"
   }
 ]
