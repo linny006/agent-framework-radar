@@ -1,12 +1,21 @@
 [
   {
-    "description": "Local-first multi-agent orchestrator for AMD APU. Multi-agent pipeline, GBNF constrained decoding, asymmetric KV quantiz",
-    "id": "KakashiTech/AnvilAgent",
+    "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
+    "id": "AmritaBot/AmritaCore",
     "language": "Python",
-    "name": "KakashiTech/AnvilAgent",
-    "stars": 0,
-    "updated_at": "2026-06-21T01:30:10Z",
-    "url": "https://github.com/KakashiTech/AnvilAgent"
+    "name": "AmritaBot/AmritaCore",
+    "stars": 10,
+    "updated_at": "2026-06-21T01:44:24Z",
+    "url": "https://github.com/AmritaBot/AmritaCore"
+  },
+  {
+    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 5,
+    "updated_at": "2026-06-21T01:43:31Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,8 +23,35 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-21T01:26:28Z",
+    "updated_at": "2026-06-21T01:45:17Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "A self-evolving, AI-native language and platform for intelligent agents and autonomous software.",
+    "id": "AetherraLabs/Aetherra",
+    "language": "Python",
+    "name": "AetherraLabs/Aetherra",
+    "stars": 8,
+    "updated_at": "2026-06-21T01:30:25Z",
+    "url": "https://github.com/AetherraLabs/Aetherra"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T01:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Local-first multi-agent orchestrator for AMD APU. Multi-agent pipeline, GBNF constrained decoding, asymmetric KV quantiz",
+    "id": "KakashiTech/AnvilAgent",
+    "language": "Python",
+    "name": "KakashiTech/AnvilAgent",
+    "stars": 0,
+    "updated_at": "2026-06-21T01:30:10Z",
+    "url": "https://github.com/KakashiTech/AnvilAgent"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T01:18:01Z",
     "url": "https://github.com/apexradius/agentic-os"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T01:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-21T01:29:27Z",
+    "updated_at": "2026-06-21T01:45:16Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -373,7 +400,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17871,
+    "stars": 17872,
     "updated_at": "2026-06-20T19:44:00Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-06-21T01:23:05Z",
+    "updated_at": "2026-06-21T01:31:26Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
-    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
-    "id": "sandydasari/openacme",
-    "language": "TypeScript",
-    "name": "sandydasari/openacme",
-    "stars": 77,
-    "updated_at": "2026-06-20T18:41:31Z",
-    "url": "https://github.com/sandydasari/openacme"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 166,
-    "updated_at": "2026-06-20T18:40:08Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "A 7-layer self-evolving multi-agent operating system. Agents remember. Agents compete. You legislate.",
-    "id": "guilingzhouyi-creator/NOMOS",
-    "language": "Python",
-    "name": "guilingzhouyi-creator/NOMOS",
-    "stars": 1,
-    "updated_at": "2026-06-20T18:37:52Z",
-    "url": "https://github.com/guilingzhouyi-creator/NOMOS"
   }
 ]
