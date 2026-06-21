@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-21T08:29:08Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-21T08:30:06Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 23415,
+    "updated_at": "2026-06-21T08:25:16Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-21T08:23:46Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 166,
+    "updated_at": "2026-06-21T08:22:14Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Public-safe reasoning-agent demo for GitHub bounty monitoring, CI checks, payout-risk triage, and no-spam claim protecti",
+    "id": "taherdhanera/bountyops-claim-guardian-demo",
+    "language": "HTML",
+    "name": "taherdhanera/bountyops-claim-guardian-demo",
+    "stars": 0,
+    "updated_at": "2026-06-21T08:20:38Z",
+    "url": "https://github.com/taherdhanera/bountyops-claim-guardian-demo"
+  },
+  {
+    "description": "Turn any skill into a standalone, runnable AI Agent",
+    "id": "agenthatch/agenthatch",
+    "language": "Python",
+    "name": "agenthatch/agenthatch",
+    "stars": 27,
+    "updated_at": "2026-06-21T08:19:05Z",
+    "url": "https://github.com/agenthatch/agenthatch"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T08:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -16,24 +88,6 @@
     "stars": 2,
     "updated_at": "2026-06-21T08:05:32Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T08:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-21T08:15:19Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "\u53ef\u89c6\u5316\u8d1d\u53f6\u65af\u5f0f\u4eba\u673a\u534f\u540c\u6846\u67b6 \u00b7 \u4eba\u7c7b\u4f5c\u4e3a\u6982\u7387\u7a7a\u95f4\u7684\u9ad8\u7ef4\u89c2\u6d4b\u8005\uff0c\u901a\u8fc7 UI \u5c42\u7cbe\u51c6\u5e72\u9884\u5f15\u5bfc LLM \u63a8\u7406\u6536\u655b \u00b7 A Bayesian-inspired human-AI collaboration framework with dynami",
@@ -99,15 +153,6 @@
     "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
   },
   {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-21T08:13:51Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
     "id": "RikyZ90/ShibaClaw",
     "language": "Python",
@@ -160,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T07:04:19Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23414,
-    "updated_at": "2026-06-21T07:00:34Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Public-safe reasoning-agent demo for GitHub bounty monitoring, CI checks, payout-risk triage, and no-spam claim protecti",
-    "id": "taherdhanera/bountyops-claim-guardian-demo",
-    "language": "HTML",
-    "name": "taherdhanera/bountyops-claim-guardian-demo",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:00:29Z",
-    "url": "https://github.com/taherdhanera/bountyops-claim-guardian-demo"
   },
   {
     "description": "Official BisQue Ultra Platform",
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-06-21T08:13:35Z",
+    "updated_at": "2026-06-21T08:29:45Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -340,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T05:26:02Z",
     "url": "https://github.com/ninedeerhing/agent-workspace-infrastructure"
-  },
-  {
-    "description": "Turn any skill into a standalone, runnable AI Agent",
-    "id": "agenthatch/agenthatch",
-    "language": "Python",
-    "name": "agenthatch/agenthatch",
-    "stars": 27,
-    "updated_at": "2026-06-21T05:06:07Z",
-    "url": "https://github.com/agenthatch/agenthatch"
   },
   {
     "description": "\ud83c\udfe5 Medical AI Agent Orchestration Framework. 5-step harness pipeline + MCP tools + multi-agent coordination.",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-21T04:02:51Z",
     "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4232,
-    "updated_at": "2026-06-21T03:54:21Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "",
-    "id": "The-Tech-Idea/Beep.AI.Code",
-    "language": "Python",
-    "name": "The-Tech-Idea/Beep.AI.Code",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:46:18Z",
-    "url": "https://github.com/The-Tech-Idea/Beep.AI.Code"
   }
 ]
