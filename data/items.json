@@ -1,5 +1,68 @@
 [
   {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 539,
+    "updated_at": "2026-06-21T13:45:18Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 5,
+    "updated_at": "2026-06-21T13:41:03Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 67,
+    "updated_at": "2026-06-21T13:38:56Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Self-hosted AI agent runtime in Rust: run autonomous LLM agents over Telegram & Discord with durable queues, fail-closed",
+    "id": "phenomenoner/agent-harness-core",
+    "language": "Rust",
+    "name": "phenomenoner/agent-harness-core",
+    "stars": 0,
+    "updated_at": "2026-06-21T13:38:49Z",
+    "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
+    "id": "lml2468/xclaw",
+    "language": "Go",
+    "name": "lml2468/xclaw",
+    "stars": 0,
+    "updated_at": "2026-06-21T13:38:08Z",
+    "url": "https://github.com/lml2468/xclaw"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-21T13:44:57Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T13:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
     "id": "Jovancoding/Network-AI",
     "language": "TypeScript",
@@ -27,15 +90,6 @@
     "url": "https://github.com/shisa-ai/shisad"
   },
   {
-    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
-    "id": "lml2468/xclaw",
-    "language": "Go",
-    "name": "lml2468/xclaw",
-    "stars": 0,
-    "updated_at": "2026-06-21T13:21:40Z",
-    "url": "https://github.com/lml2468/xclaw"
-  },
-  {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
     "id": "salvatoreabient793/cursor-auto-deployment-agent",
     "language": "\u2014",
@@ -54,15 +108,6 @@
     "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
   },
   {
-    "description": "Self-hosted AI agent runtime in Rust: run autonomous LLM agents over Telegram & Discord with durable queues, fail-closed",
-    "id": "phenomenoner/agent-harness-core",
-    "language": "Rust",
-    "name": "phenomenoner/agent-harness-core",
-    "stars": 0,
-    "updated_at": "2026-06-21T13:17:10Z",
-    "url": "https://github.com/phenomenoner/agent-harness-core"
-  },
-  {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
     "id": "sloppy-yeast840/tri-party-framework",
     "language": "Shell",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T13:16:43Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T13:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 247,
-    "updated_at": "2026-06-21T13:22:13Z",
+    "updated_at": "2026-06-21T13:40:41Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T13:02:03Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 5,
-    "updated_at": "2026-06-21T13:19:17Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
     "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-21T12:53:35Z",
     "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
-    "id": "Ibisselfgovernment28/v1-multiagent-articles",
-    "language": "\u2014",
-    "name": "Ibisselfgovernment28/v1-multiagent-articles",
-    "stars": 1,
-    "updated_at": "2026-06-21T12:50:46Z",
-    "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
-  },
-  {
-    "description": "Personal Ai Agent",
-    "id": "br3eze-code/br3eze-code",
-    "language": "JavaScript",
-    "name": "br3eze-code/br3eze-code",
-    "stars": 1,
-    "updated_at": "2026-06-21T12:50:03Z",
-    "url": "https://github.com/br3eze-code/br3eze-code"
-  },
-  {
-    "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
-    "id": "gatherfigtree740/ai-agent-landscape",
-    "language": "\u2014",
-    "name": "gatherfigtree740/ai-agent-landscape",
-    "stars": 1,
-    "updated_at": "2026-06-21T12:49:17Z",
-    "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
   }
 ]
