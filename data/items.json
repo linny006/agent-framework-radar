@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open-source managed-agent platform with Docker Compose local runtime/sandbox pools, sessions, vaults, SDK, CLI, and prov",
+    "id": "dragonforce2010/openmaple",
+    "language": "TypeScript",
+    "name": "dragonforce2010/openmaple",
+    "stars": 0,
+    "updated_at": "2026-06-21T19:58:42Z",
+    "url": "https://github.com/dragonforce2010/openmaple"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-21T19:51:40Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 165,
+    "updated_at": "2026-06-21T19:50:45Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-21T19:49:33Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 540,
+    "updated_at": "2026-06-21T19:47:30Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T19:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
     "id": "s2mgtvodois2/postgresql-mcp-js",
     "language": "TypeScript",
@@ -59,17 +113,8 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 483,
-    "updated_at": "2026-06-21T19:37:58Z",
+    "updated_at": "2026-06-21T19:56:32Z",
     "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T19:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-21T19:29:57Z",
+    "updated_at": "2026-06-21T19:54:32Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T19:25:17Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 540,
-    "updated_at": "2026-06-21T19:22:50Z",
-    "url": "https://github.com/aaronjmars/aeon"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -153,15 +189,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-06-21T19:42:44Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
     "description": "Local-first Python toolkit for parallel Claude and LLM agent orchestration: consensus voting, stigmergy, boss-worker swa",
     "id": "ellmos-ai/swarm-ai",
     "language": "Python",
@@ -194,7 +221,7 @@
     "language": "Go",
     "name": "pardnchiu/Agenvoy",
     "stars": 219,
-    "updated_at": "2026-06-21T19:06:28Z",
+    "updated_at": "2026-06-21T19:52:37Z",
     "url": "https://github.com/pardnchiu/Agenvoy"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 17886,
-    "updated_at": "2026-06-21T18:50:20Z",
+    "updated_at": "2026-06-21T19:56:37Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-21T18:16:19Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-06-21T18:16:17Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-21T18:15:58Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-21T18:15:27Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
