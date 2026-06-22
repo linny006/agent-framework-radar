@@ -1,5 +1,68 @@
 [
   {
+    "description": "TOON v4 \u00b7 99.97% compression \u00b7 3/3 tool bridge \u00b7 5 MCP graph tools \u00b7 Auto-sync pipeline \u00b7 Single-command install",
+    "id": "OfficialNovizio/ToonGine",
+    "language": "JavaScript",
+    "name": "OfficialNovizio/ToonGine",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:54:08Z",
+    "url": "https://github.com/OfficialNovizio/ToonGine"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 10,
+    "updated_at": "2026-06-22T13:51:43Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-06-22T13:48:32Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 543,
+    "updated_at": "2026-06-22T13:47:56Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 5,
+    "updated_at": "2026-06-22T13:52:25Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-22T13:45:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Multi-Agent Decision Framework for deterministic AI decision making.",
+    "id": "HeHouF/consensus-engine",
+    "language": "Python",
+    "name": "HeHouF/consensus-engine",
+    "stars": 1,
+    "updated_at": "2026-06-22T13:43:58Z",
+    "url": "https://github.com/HeHouF/consensus-engine"
+  },
+  {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
     "id": "amitpatole/verel",
     "language": "Python",
@@ -13,9 +76,18 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4421,
+    "stars": 4424,
     "updated_at": "2026-06-22T13:34:32Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11554,
+    "updated_at": "2026-06-22T13:34:03Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
@@ -36,15 +108,6 @@
     "url": "https://github.com/agenthatch/agenthatch"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-22T13:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
     "id": "agentlas-ai/Hephaestus",
     "language": "Python",
@@ -52,15 +115,6 @@
     "stars": 81,
     "updated_at": "2026-06-22T13:27:17Z",
     "url": "https://github.com/agentlas-ai/Hephaestus"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11553,
-    "updated_at": "2026-06-22T13:34:03Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Production-tested workflow system for Claude Code: 17 skills, 13 specialized agents, two-tier task tracking, and enforce",
@@ -77,7 +131,7 @@
     "language": "Elixir",
     "name": "showjihyun/ElGraph",
     "stars": 0,
-    "updated_at": "2026-06-22T13:22:41Z",
+    "updated_at": "2026-06-22T13:57:20Z",
     "url": "https://github.com/showjihyun/ElGraph"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 6230,
     "updated_at": "2026-06-22T13:27:23Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 10,
-    "updated_at": "2026-06-22T13:18:48Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
   },
   {
     "description": "Harness AI & Agent OS for governed multi-agent systems in Python \u2014 Nexus orchestration, policy, tools, skills, RAG & mul",
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-22T13:28:46Z",
+    "updated_at": "2026-06-22T13:51:49Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T12:42:57Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 543,
-    "updated_at": "2026-06-22T12:42:53Z",
-    "url": "https://github.com/aaronjmars/aeon"
   },
   {
     "description": "AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust",
@@ -412,41 +448,5 @@
     "stars": 582,
     "updated_at": "2026-06-22T12:29:43Z",
     "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:29:22Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:28:54Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Production-grade, contracts-first framework for AI agents in Python \u2014 vendor-neutral, audit-ready.",
-    "id": "Scaffoldic/agentforge-py",
-    "language": "Python",
-    "name": "Scaffoldic/agentforge-py",
-    "stars": 2,
-    "updated_at": "2026-06-22T12:28:12Z",
-    "url": "https://github.com/Scaffoldic/agentforge-py"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 5,
-    "updated_at": "2026-06-22T12:25:33Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
   }
 ]
