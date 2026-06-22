@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-22T20:40:42Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6235,
+    "updated_at": "2026-06-22T20:38:56Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4452,
+    "updated_at": "2026-06-22T20:40:45Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-22T20:30:43Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 9,
+    "updated_at": "2026-06-22T20:30:39Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-22T20:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "inkeep/agents",
     "stars": 1212,
-    "updated_at": "2026-06-22T20:26:55Z",
+    "updated_at": "2026-06-22T20:45:21Z",
     "url": "https://github.com/inkeep/agents"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11559,
-    "updated_at": "2026-06-22T20:24:31Z",
+    "updated_at": "2026-06-22T20:34:48Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -59,26 +113,8 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 4449,
-    "updated_at": "2026-06-22T20:19:36Z",
+    "updated_at": "2026-06-22T20:32:57Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6235,
-    "updated_at": "2026-06-22T20:18:43Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4452,
-    "updated_at": "2026-06-22T20:18:38Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Composable multi-agent framework for GitHub Copilot \u2014 persona grafting, cognitive identity caching, and agent fusion for",
@@ -88,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T20:16:15Z",
     "url": "https://github.com/CTOUT/Symdicate"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-22T20:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 9,
-    "updated_at": "2026-06-22T20:14:21Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
     "description": "\ud83c\udfc6 Curated, ranked list of AI agent harnesses (100+) \u2014 plus an MCP server, llms.txt & JSON so agents can recommend them t",
@@ -428,25 +446,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 68,
-    "updated_at": "2026-06-22T19:06:43Z",
+    "updated_at": "2026-06-22T20:33:37Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 2,
-    "updated_at": "2026-06-22T19:06:00Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-06-22T19:05:32Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
