@@ -1,10 +1,73 @@
 [
   {
+    "description": "Testable skill memory for AI agents: SKILL.md, .memory.md, regression tests, and self-refinement.",
+    "id": "Yomiracle/agent-skill-system",
+    "language": "Python",
+    "name": "Yomiracle/agent-skill-system",
+    "stars": 1,
+    "updated_at": "2026-06-22T15:27:21Z",
+    "url": "https://github.com/Yomiracle/agent-skill-system"
+  },
+  {
+    "description": "\ud83e\udde0 Self-evolving 10-agent stack for one-person companies. Cron + eval + reflexion + skill library. MIT.",
+    "id": "alex-jb/solo-founder-os",
+    "language": "Python",
+    "name": "alex-jb/solo-founder-os",
+    "stars": 3,
+    "updated_at": "2026-06-22T15:24:19Z",
+    "url": "https://github.com/alex-jb/solo-founder-os"
+  },
+  {
+    "description": "CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for autoresearch. Works w",
+    "id": "Human-Agent-Society/CORAL",
+    "language": "Python",
+    "name": "Human-Agent-Society/CORAL",
+    "stars": 747,
+    "updated_at": "2026-06-22T15:22:40Z",
+    "url": "https://github.com/Human-Agent-Society/CORAL"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4432,
+    "updated_at": "2026-06-22T15:28:00Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:18:54Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Production-grade, contracts-first framework for AI agents in Python \u2014 vendor-neutral, audit-ready.",
+    "id": "Scaffoldic/agentforge-py",
+    "language": "Python",
+    "name": "Scaffoldic/agentforge-py",
+    "stars": 2,
+    "updated_at": "2026-06-22T15:17:16Z",
+    "url": "https://github.com/Scaffoldic/agentforge-py"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-22T15:15:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Turn any skill into a standalone, runnable AI Agent",
     "id": "agenthatch/agenthatch",
     "language": "Python",
     "name": "agenthatch/agenthatch",
-    "stars": 32,
+    "stars": 33,
     "updated_at": "2026-06-22T15:14:59Z",
     "url": "https://github.com/agenthatch/agenthatch"
   },
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-22T15:06:15Z",
+    "updated_at": "2026-06-22T15:21:32Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -45,21 +108,12 @@
     "url": "https://github.com/memex-lab/dart_agent_core"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-22T15:00:40Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
     "id": "vstorm-co/full-stack-ai-agent-template",
     "language": "Python",
     "name": "vstorm-co/full-stack-ai-agent-template",
     "stars": 1444,
-    "updated_at": "2026-06-22T15:02:31Z",
+    "updated_at": "2026-06-22T15:16:39Z",
     "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
   },
   {
@@ -81,15 +135,6 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4431,
-    "updated_at": "2026-06-22T15:06:37Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Multi-Agent AI Quantitative Analysis System - 15+ LLM agents with cost-aware routing, persistent memory, and real-time S",
     "id": "FancongLiu/onionquant",
     "language": "Python",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11556,
-    "updated_at": "2026-06-22T14:51:42Z",
+    "updated_at": "2026-06-22T15:18:38Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T12:41:14Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-06-22T12:39:29Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:39:14Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "AI engineering workspace infrastructure \u2014 18 agents, 46 skills, 28 quality gates. One-command bootstrap for large-scale ",
-    "id": "ninedeerhing/agent-workspace-infrastructure",
-    "language": "Python",
-    "name": "ninedeerhing/agent-workspace-infrastructure",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:38:58Z",
-    "url": "https://github.com/ninedeerhing/agent-workspace-infrastructure"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:36:18Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:35:45Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
   }
 ]
