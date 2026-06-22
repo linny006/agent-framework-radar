@@ -1,5 +1,95 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6232,
+    "updated_at": "2026-06-22T16:14:05Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Build and manage AI-driven workflows with private data control, multi-provider LLM support, and local-first architecture",
+    "id": "Hundred-praisworthiness384/DomainOS",
+    "language": "TypeScript",
+    "name": "Hundred-praisworthiness384/DomainOS",
+    "stars": 0,
+    "updated_at": "2026-06-22T16:13:41Z",
+    "url": "https://github.com/Hundred-praisworthiness384/DomainOS"
+  },
+  {
+    "description": "Manage autonomous AI agents at scale with persistent sessions, tool access, and safe human oversight in an efficient, sc",
+    "id": "Bohra-Nitin/AgentManager",
+    "language": "\u2014",
+    "name": "Bohra-Nitin/AgentManager",
+    "stars": 0,
+    "updated_at": "2026-06-22T16:13:09Z",
+    "url": "https://github.com/Bohra-Nitin/AgentManager"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 203,
+    "updated_at": "2026-06-22T16:13:08Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "\ud83e\udd16 Build AI agents with Go featuring multi-agent orchestration, planning, tool use, and support for Gemini, OpenAI, Anthr",
+    "id": "Luiz184/gokin-sdk",
+    "language": "Go",
+    "name": "Luiz184/gokin-sdk",
+    "stars": 2,
+    "updated_at": "2026-06-22T16:10:52Z",
+    "url": "https://github.com/Luiz184/gokin-sdk"
+  },
+  {
+    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
+    "id": "lml2468/xclaw",
+    "language": "Go",
+    "name": "lml2468/xclaw",
+    "stars": 0,
+    "updated_at": "2026-06-22T16:10:04Z",
+    "url": "https://github.com/lml2468/xclaw"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4435,
+    "updated_at": "2026-06-22T16:10:02Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-22T16:09:15Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
+    "id": "tareksyria/SREAgents",
+    "language": "JavaScript",
+    "name": "tareksyria/SREAgents",
+    "stars": 2,
+    "updated_at": "2026-06-22T16:08:37Z",
+    "url": "https://github.com/tareksyria/SREAgents"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 23803,
+    "updated_at": "2026-06-22T16:08:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -7,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-06-22T16:08:05Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23802,
-    "updated_at": "2026-06-22T16:08:32Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
@@ -45,15 +126,6 @@
     "url": "https://github.com/punkxuxu/bank_soal"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-22T16:00:39Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -81,15 +153,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
-    "id": "lml2468/xclaw",
-    "language": "Go",
-    "name": "lml2468/xclaw",
-    "stars": 0,
-    "updated_at": "2026-06-22T16:06:32Z",
-    "url": "https://github.com/lml2468/xclaw"
-  },
-  {
     "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
     "id": "Jovancoding/Network-AI",
     "language": "TypeScript",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T15:54:41Z",
     "url": "https://github.com/kaydenplayZ/agent-skills-guide"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6232,
-    "updated_at": "2026-06-22T15:56:06Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -225,15 +279,6 @@
     "url": "https://github.com/kdcube/kdcube-ai-app"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4435,
-    "updated_at": "2026-06-22T16:02:04Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "\ud83e\udde0 Self-evolving 10-agent stack for one-person companies. Cron + eval + reflexion + skill library. MIT.",
     "id": "alex-jb/solo-founder-os",
     "language": "Python",
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 25,
-    "updated_at": "2026-06-22T16:03:05Z",
+    "updated_at": "2026-06-22T16:14:56Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 142,
     "updated_at": "2026-06-22T14:27:30Z",
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "\ud83e\udea2 Multi-Agent framework family for AI-powered product development \u2014 PM \u00b7 Design \u00b7 Engineering \u00b7 Growth \u00b7 Ops",
-    "id": "LuckyOneTwoThree/harness-all",
-    "language": "Shell",
-    "name": "LuckyOneTwoThree/harness-all",
-    "stars": 1,
-    "updated_at": "2026-06-22T14:26:54Z",
-    "url": "https://github.com/LuckyOneTwoThree/harness-all"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 543,
-    "updated_at": "2026-06-22T14:06:25Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 358,
-    "updated_at": "2026-06-22T14:06:05Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "TOON v4 \u00b7 99.97% compression \u00b7 3/3 tool bridge \u00b7 5 MCP graph tools \u00b7 Auto-sync pipeline \u00b7 Single-command install",
-    "id": "OfficialNovizio/ToonGine",
-    "language": "JavaScript",
-    "name": "OfficialNovizio/ToonGine",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:54:08Z",
-    "url": "https://github.com/OfficialNovizio/ToonGine"
-  },
-  {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-06-22T13:48:32Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
   }
 ]
