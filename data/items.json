@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
+    "id": "cuteecarrot/AgentHub",
+    "language": "Python",
+    "name": "cuteecarrot/AgentHub",
+    "stars": 4,
+    "updated_at": "2026-06-22T11:14:55Z",
+    "url": "https://github.com/cuteecarrot/AgentHub"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-06-22T11:08:18Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-22T11:07:19Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 5,
+    "updated_at": "2026-06-22T11:07:01Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
+    "id": "achappey/aihappey-chat",
+    "language": "TypeScript",
+    "name": "achappey/aihappey-chat",
+    "stars": 3,
+    "updated_at": "2026-06-22T11:06:20Z",
+    "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11546,
+    "updated_at": "2026-06-22T11:06:02Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 0,
+    "updated_at": "2026-06-22T11:05:42Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-06-22T11:04:05Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "AI Chief of Staff methodology for Claude Code. Memory \u00b7 daily digest \u00b7 predictive layer with anti-self-fulfilling invisi",
+    "id": "jaroslavsoucek-art/Giovanni",
+    "language": "Python",
+    "name": "jaroslavsoucek-art/Giovanni",
+    "stars": 1,
+    "updated_at": "2026-06-22T11:11:24Z",
+    "url": "https://github.com/jaroslavsoucek-art/Giovanni"
+  },
+  {
+    "description": "Forging a minimalist universal language for AI, unconditionally eradicating hallucinations and automating Agent Swarm in",
+    "id": "caihongfairys/QMP-Dynamic-Anchors",
+    "language": "JavaScript",
+    "name": "caihongfairys/QMP-Dynamic-Anchors",
+    "stars": 2,
+    "updated_at": "2026-06-22T11:01:05Z",
+    "url": "https://github.com/caihongfairys/QMP-Dynamic-Anchors"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-22T11:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -13,7 +112,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4405,
+    "stars": 4408,
     "updated_at": "2026-06-22T10:55:35Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "Scaffoldic/agentforge-py",
     "stars": 2,
-    "updated_at": "2026-06-22T10:50:49Z",
+    "updated_at": "2026-06-22T11:12:34Z",
     "url": "https://github.com/Scaffoldic/agentforge-py"
   },
   {
@@ -61,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T10:49:23Z",
     "url": "https://github.com/lml2468/xclaw"
-  },
-  {
-    "description": "AI Chief of Staff methodology for Claude Code. Memory \u00b7 daily digest \u00b7 predictive layer with anti-self-fulfilling invisi",
-    "id": "jaroslavsoucek-art/Giovanni",
-    "language": "Python",
-    "name": "jaroslavsoucek-art/Giovanni",
-    "stars": 1,
-    "updated_at": "2026-06-22T10:47:46Z",
-    "url": "https://github.com/jaroslavsoucek-art/Giovanni"
   },
   {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
@@ -88,15 +178,6 @@
     "stars": 44,
     "updated_at": "2026-06-22T10:46:46Z",
     "url": "https://github.com/HCF-STUDIOS/openhermit"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-22T10:45:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -157,18 +238,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23736,
+    "stars": 23740,
     "updated_at": "2026-06-22T10:29:57Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11545,
-    "updated_at": "2026-06-22T10:27:29Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -196,15 +268,6 @@
     "stars": 10,
     "updated_at": "2026-06-22T10:15:07Z",
     "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 5,
-    "updated_at": "2026-06-22T10:17:31Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
@@ -274,7 +337,7 @@
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
-    "stars": 1389,
+    "stars": 1390,
     "updated_at": "2026-06-22T09:47:49Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
@@ -295,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T09:43:27Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
-    "id": "achappey/aihappey-chat",
-    "language": "TypeScript",
-    "name": "achappey/aihappey-chat",
-    "stars": 3,
-    "updated_at": "2026-06-22T09:36:56Z",
-    "url": "https://github.com/achappey/aihappey-chat"
   },
   {
     "description": "A self-evolving, AI-native language and platform for intelligent agents and autonomous software.",
@@ -373,7 +427,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17904,
+    "stars": 17905,
     "updated_at": "2026-06-22T09:01:58Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T08:54:25Z",
     "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:53:58Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:53:46Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Adam Prism \u2014 \u0623\u0648\u0644 Digital Twin \u0648\u0627\u0639\u064d \u0639\u0631\u0628\u064a. \u0645\u0644\u0643\u0643 \u0628\u0627\u0644\u0643\u0627\u0645\u0644. \u064a\u0641\u0647\u0645\u0643 \u0628\u0644\u063a\u062a\u0643. The first Arabic-conscious Digital Twin. Yours to ow",
-    "id": "othmastar/adam-prism",
-    "language": "Python",
-    "name": "othmastar/adam-prism",
-    "stars": 1,
-    "updated_at": "2026-06-22T08:53:05Z",
-    "url": "https://github.com/othmastar/adam-prism"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-22T08:52:19Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:51:29Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-06-22T08:49:19Z",
-    "url": "https://github.com/Liny9941/projectsmd"
   }
 ]
