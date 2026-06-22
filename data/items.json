@@ -1,11 +1,65 @@
 [
   {
+    "description": "Turn any skill into a standalone, runnable AI Agent",
+    "id": "agenthatch/agenthatch",
+    "language": "Python",
+    "name": "agenthatch/agenthatch",
+    "stars": 32,
+    "updated_at": "2026-06-22T15:14:59Z",
+    "url": "https://github.com/agenthatch/agenthatch"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-22T15:13:20Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
+    "id": "lml2468/xclaw",
+    "language": "Go",
+    "name": "lml2468/xclaw",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:06:46Z",
+    "url": "https://github.com/lml2468/xclaw"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-22T15:06:15Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Dart framework for stateful AI agents: tool use, skills, sub-agent delegation, planning, streaming, evals, and multi-pro",
+    "id": "memex-lab/dart_agent_core",
+    "language": "Dart",
+    "name": "memex-lab/dart_agent_core",
+    "stars": 28,
+    "updated_at": "2026-06-22T15:01:53Z",
+    "url": "https://github.com/memex-lab/dart_agent_core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-22T15:00:40Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
     "id": "vstorm-co/full-stack-ai-agent-template",
     "language": "Python",
     "name": "vstorm-co/full-stack-ai-agent-template",
     "stars": 1444,
-    "updated_at": "2026-06-22T14:59:09Z",
+    "updated_at": "2026-06-22T15:02:31Z",
     "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
   },
   {
@@ -31,8 +85,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4430,
-    "updated_at": "2026-06-22T14:54:39Z",
+    "stars": 4431,
+    "updated_at": "2026-06-22T15:06:37Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -43,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-06-22T14:52:44Z",
     "url": "https://github.com/FancongLiu/onionquant"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11556,
+    "updated_at": "2026-06-22T14:51:42Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Harness AI & Agent OS for governed multi-agent systems in Python \u2014 Nexus orchestration, policy, tools, skills, RAG & mul",
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T14:46:11Z",
     "url": "https://github.com/Razaib-khan/ForgeWeave"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-22T14:45:40Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source platform layer for AI agents in production",
@@ -108,15 +162,6 @@
     "url": "https://github.com/showjihyun/ElGraph"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11555,
-    "updated_at": "2026-06-22T14:51:42Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
     "id": "EvoMap/awesome-agent-evolution",
     "language": "JavaScript",
@@ -133,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T14:26:54Z",
     "url": "https://github.com/LuckyOneTwoThree/harness-all"
-  },
-  {
-    "description": "Dart framework for stateful AI agents: tool use, skills, sub-agent delegation, planning, streaming, evals, and multi-pro",
-    "id": "memex-lab/dart_agent_core",
-    "language": "Dart",
-    "name": "memex-lab/dart_agent_core",
-    "stars": 28,
-    "updated_at": "2026-06-22T14:12:41Z",
-    "url": "https://github.com/memex-lab/dart_agent_core"
   },
   {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
@@ -225,15 +261,6 @@
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
-    "description": "Turn any skill into a standalone, runnable AI Agent",
-    "id": "agenthatch/agenthatch",
-    "language": "Python",
-    "name": "agenthatch/agenthatch",
-    "stars": 32,
-    "updated_at": "2026-06-22T13:33:06Z",
-    "url": "https://github.com/agenthatch/agenthatch"
-  },
-  {
     "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
     "id": "agentlas-ai/Hephaestus",
     "language": "Python",
@@ -259,15 +286,6 @@
     "stars": 44,
     "updated_at": "2026-06-22T13:09:17Z",
     "url": "https://github.com/HCF-STUDIOS/openhermit"
-  },
-  {
-    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
-    "id": "lml2468/xclaw",
-    "language": "Go",
-    "name": "lml2468/xclaw",
-    "stars": 0,
-    "updated_at": "2026-06-22T14:06:13Z",
-    "url": "https://github.com/lml2468/xclaw"
   },
   {
     "description": "Agent SDK, CLI, Platform in Rust",
@@ -304,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T12:50:22Z",
     "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-22T14:36:16Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T12:35:45Z",
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:35:06Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
   }
 ]
