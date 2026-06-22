@@ -1,12 +1,84 @@
 [
   {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "ethosagent/ethos",
+    "language": "TypeScript",
+    "name": "ethosagent/ethos",
+    "stars": 10,
+    "updated_at": "2026-06-22T10:15:07Z",
+    "url": "https://github.com/ethosagent/ethos"
+  },
+  {
+    "description": "OpenHermit is the open-source platform for deploying fleets of AI agents as production services \u2014 durable state, sandbox",
+    "id": "HCF-STUDIOS/openhermit",
+    "language": "TypeScript",
+    "name": "HCF-STUDIOS/openhermit",
+    "stars": 44,
+    "updated_at": "2026-06-22T10:14:23Z",
+    "url": "https://github.com/HCF-STUDIOS/openhermit"
+  },
+  {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
     "id": "Eliyce/paqad-ai",
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 5,
-    "updated_at": "2026-06-22T10:00:05Z",
+    "updated_at": "2026-06-22T10:14:27Z",
     "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-22T10:11:22Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
+    "id": "lml2468/xclaw",
+    "language": "Go",
+    "name": "lml2468/xclaw",
+    "stars": 0,
+    "updated_at": "2026-06-22T10:10:40Z",
+    "url": "https://github.com/lml2468/xclaw"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-06-22T10:12:07Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 4,
+    "updated_at": "2026-06-22T10:07:16Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "The execution-control layer between AI agent decisions and real-world actions.",
+    "id": "Letterblack0306/LetterBlack-Sentinel",
+    "language": "\u2014",
+    "name": "Letterblack0306/LetterBlack-Sentinel",
+    "stars": 4,
+    "updated_at": "2026-06-22T10:02:07Z",
+    "url": "https://github.com/Letterblack0306/LetterBlack-Sentinel"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-22T10:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
@@ -16,24 +88,6 @@
     "stars": 107,
     "updated_at": "2026-06-22T09:59:29Z",
     "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
-    "id": "lml2468/xclaw",
-    "language": "Go",
-    "name": "lml2468/xclaw",
-    "stars": 0,
-    "updated_at": "2026-06-22T10:00:18Z",
-    "url": "https://github.com/lml2468/xclaw"
-  },
-  {
-    "description": "OpenHermit is the open-source platform for deploying fleets of AI agents as production services \u2014 durable state, sandbox",
-    "id": "HCF-STUDIOS/openhermit",
-    "language": "TypeScript",
-    "name": "HCF-STUDIOS/openhermit",
-    "stars": 44,
-    "updated_at": "2026-06-22T09:58:08Z",
-    "url": "https://github.com/HCF-STUDIOS/openhermit"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -58,7 +112,7 @@
     "id": "didilili/ai-agents-from-zero",
     "language": "Python",
     "name": "didilili/ai-agents-from-zero",
-    "stars": 2103,
+    "stars": 2105,
     "updated_at": "2026-06-22T09:51:35Z",
     "url": "https://github.com/didilili/ai-agents-from-zero"
   },
@@ -86,17 +140,8 @@
     "language": "Python",
     "name": "xynehq/jaf-py",
     "stars": 9,
-    "updated_at": "2026-06-22T09:46:26Z",
+    "updated_at": "2026-06-22T10:02:20Z",
     "url": "https://github.com/xynehq/jaf-py"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-22T09:45:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -121,7 +166,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4394,
+    "stars": 4395,
     "updated_at": "2026-06-22T09:35:40Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -139,7 +184,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23733,
+    "stars": 23734,
     "updated_at": "2026-06-22T09:32:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11544,
-    "updated_at": "2026-06-22T09:29:41Z",
+    "updated_at": "2026-06-22T10:14:05Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -166,7 +211,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 3533,
+    "stars": 3534,
     "updated_at": "2026-06-22T09:22:30Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -205,15 +250,6 @@
     "stars": 7,
     "updated_at": "2026-06-22T09:10:04Z",
     "url": "https://github.com/GopherSecurity/gopher-mcp-js"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-06-22T09:08:13Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T08:43:06Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-06-22T08:42:46Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:39:21Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:37:23Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:37:04Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
   }
 ]
