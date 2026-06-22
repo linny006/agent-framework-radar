@@ -1,12 +1,84 @@
 [
   {
+    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
+    "id": "amitpatole/verel",
+    "language": "Python",
+    "name": "amitpatole/verel",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:29:46Z",
+    "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and securi",
+    "id": "agentlas-ai/Hephaestus",
+    "language": "Python",
+    "name": "agentlas-ai/Hephaestus",
+    "stars": 81,
+    "updated_at": "2026-06-22T13:27:17Z",
+    "url": "https://github.com/agentlas-ai/Hephaestus"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11553,
+    "updated_at": "2026-06-22T13:26:22Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Production-tested workflow system for Claude Code: 17 skills, 13 specialized agents, two-tier task tracking, and enforce",
+    "id": "ingimar-eyfjord/claude-code-agent-workflows",
+    "language": "Python",
+    "name": "ingimar-eyfjord/claude-code-agent-workflows",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:25:23Z",
+    "url": "https://github.com/ingimar-eyfjord/claude-code-agent-workflows"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4417,
-    "updated_at": "2026-06-22T13:11:53Z",
+    "stars": 4419,
+    "updated_at": "2026-06-22T13:29:45Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Graph-first agent framework on the BEAM (Elixir/OTP) \u2014 durable execution, HITL, time-travel, checkpoints, MCP. A LangGra",
+    "id": "showjihyun/ElGraph",
+    "language": "Elixir",
+    "name": "showjihyun/ElGraph",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:22:41Z",
+    "url": "https://github.com/showjihyun/ElGraph"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6230,
+    "updated_at": "2026-06-22T13:27:23Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 10,
+    "updated_at": "2026-06-22T13:18:48Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-22T13:15:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Harness AI & Agent OS for governed multi-agent systems in Python \u2014 Nexus orchestration, policy, tools, skills, RAG & mul",
@@ -45,33 +117,6 @@
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
-    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
-    "id": "amitpatole/verel",
-    "language": "Python",
-    "name": "amitpatole/verel",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:01:53Z",
-    "url": "https://github.com/amitpatole/verel"
-  },
-  {
-    "description": "Graph-first agent framework on the BEAM (Elixir/OTP) \u2014 durable execution, HITL, time-travel, checkpoints, MCP. A LangGra",
-    "id": "showjihyun/ElGraph",
-    "language": "Elixir",
-    "name": "showjihyun/ElGraph",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:12:59Z",
-    "url": "https://github.com/showjihyun/ElGraph"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-22T13:00:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
     "id": "BrettMGoughWork/vai-core",
     "language": "Python",
@@ -79,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-06-22T13:00:09Z",
     "url": "https://github.com/BrettMGoughWork/vai-core"
-  },
-  {
-    "description": "Production-tested workflow system for Claude Code: 17 skills, 12 specialized agents, two-tier task tracking, and enforce",
-    "id": "ingimar-eyfjord/claude-code-agent-workflows",
-    "language": "\u2014",
-    "name": "ingimar-eyfjord/claude-code-agent-workflows",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:55:41Z",
-    "url": "https://github.com/ingimar-eyfjord/claude-code-agent-workflows"
   },
   {
     "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-22T13:15:15Z",
+    "updated_at": "2026-06-22T13:28:46Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "denisotree/veles",
     "stars": 0,
-    "updated_at": "2026-06-22T12:36:06Z",
+    "updated_at": "2026-06-22T13:27:32Z",
     "url": "https://github.com/denisotree/veles"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-22T12:22:45Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:20:04Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:19:36Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:18:48Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Open-source managed-agent platform with Docker Compose local runtime/sandbox pools, sessions, vaults, SDK, CLI, and prov",
-    "id": "dragonforce2010/openmaple",
-    "language": "TypeScript",
-    "name": "dragonforce2010/openmaple",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:17:05Z",
-    "url": "https://github.com/dragonforce2010/openmaple"
   }
 ]
