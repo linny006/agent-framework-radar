@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6234 | Python | 2026-06-22 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 2 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 4446 | Python | 2026-06-22 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 3 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 17 | Python | 2026-06-22 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
-| 4 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-22 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
-| 5 | [alexverify/eyebrow](https://github.com/alexverify/eyebrow) | 1 | Go | 2026-06-22 | Trust and verification for the skills your AI agent installs. |
-| 6 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17908 | Python | 2026-06-22 | AI Agent Framework, the Pydantic way |
-| 7 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 543 | TypeScript | 2026-06-22 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-22 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-22 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6234 | Python | 2026-06-22 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 3 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 4446 | Python | 2026-06-22 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 4 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 17 | Python | 2026-06-22 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
+| 5 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-06-22 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
+| 6 | [alexverify/eyebrow](https://github.com/alexverify/eyebrow) | 1 | Go | 2026-06-22 | Trust and verification for the skills your AI agent installs. |
+| 7 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17908 | Python | 2026-06-22 | AI Agent Framework, the Pydantic way |
+| 8 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 543 | TypeScript | 2026-06-22 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
 | 9 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 8737 | JavaScript | 2026-06-22 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
 | 10 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 1 | HTML | 2026-06-22 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
 | 11 | [salvatoreabient793/cursor-auto-deployment-agent](https://github.com/salvatoreabient793/cursor-auto-deployment-agent) | 0 | — | 2026-06-22 | Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal. |
