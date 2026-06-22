@@ -1,5 +1,32 @@
 [
   {
+    "description": "Clarity/\u5fc3\u866b \u2014 AI\u8ba4\u77e5\u4e0e\u81ea\u6108\u5f15\u64ce\u3002\u5b58\u5728\u611f\u77e5\u3001\u771f\u5584\u7f8e\u8bc4\u5206\u3001\u4e09\u5c42\u8bb0\u5fc6\u3001Q-learning\u81ea\u6108\u3001\u68a6\u5883\u6574\u5408\u3001\u53cd\u4e8b\u5b9e\u63a8\u7406",
+    "id": "yun520-1/claude-clarity",
+    "language": "\u2014",
+    "name": "yun520-1/claude-clarity",
+    "stars": 1,
+    "updated_at": "2026-06-22T00:30:07Z",
+    "url": "https://github.com/yun520-1/claude-clarity"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-22T00:24:23Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-22T00:21:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 4694,
     "updated_at": "2026-06-22T00:21:14Z",
     "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-22T00:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T00:08:49Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-22T00:18:17Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-21T22:59:08Z",
     "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-06-21T22:58:48Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
   }
 ]
