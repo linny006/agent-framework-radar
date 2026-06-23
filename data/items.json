@@ -1,12 +1,21 @@
 [
   {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 9,
-    "updated_at": "2026-06-23T13:14:49Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-23T13:28:42Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17929,
+    "updated_at": "2026-06-23T13:24:19Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "TOON v4 \u00b7 99.97% compression \u00b7 3/3 tool bridge \u00b7 5 MCP graph tools \u00b7 Auto-sync pipeline \u00b7 Single-command install",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "OfficialNovizio/ToonGine",
     "stars": 0,
-    "updated_at": "2026-06-23T13:15:07Z",
+    "updated_at": "2026-06-23T13:23:59Z",
     "url": "https://github.com/OfficialNovizio/ToonGine"
   },
   {
@@ -22,9 +31,27 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4514,
-    "updated_at": "2026-06-23T13:11:02Z",
+    "stars": 4515,
+    "updated_at": "2026-06-23T13:21:58Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-23T13:15:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 9,
+    "updated_at": "2026-06-23T13:21:06Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T13:01:45Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-23T13:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-23T12:30:12Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide practical AI interview questions focused on production deployment in real-world MENA enterprise environments.",
-    "id": "luwelle/Production_GenAI_interview",
-    "language": "\u2014",
-    "name": "luwelle/Production_GenAI_interview",
-    "stars": 0,
-    "updated_at": "2026-06-23T12:30:11Z",
-    "url": "https://github.com/luwelle/Production_GenAI_interview"
-  },
-  {
-    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
-    "id": "Unknown384-come/agent-runner",
-    "language": "Go",
-    "name": "Unknown384-come/agent-runner",
-    "stars": 0,
-    "updated_at": "2026-06-23T12:29:59Z",
-    "url": "https://github.com/Unknown384-come/agent-runner"
   }
 ]
