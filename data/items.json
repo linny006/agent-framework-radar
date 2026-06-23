@@ -1,5 +1,41 @@
 [
   {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 167,
+    "updated_at": "2026-06-23T10:59:29Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (octobuddy-daemon) drives coding-agent CLIs \u2014 Claude first \u2014 into one",
+    "id": "lml2468/octobuddy",
+    "language": "Go",
+    "name": "lml2468/octobuddy",
+    "stars": 0,
+    "updated_at": "2026-06-23T10:57:50Z",
+    "url": "https://github.com/lml2468/octobuddy"
+  },
+  {
+    "description": "AgentBridge helps existing products add an AI assistant quickly.",
+    "id": "jastfkjg/AgentBridge",
+    "language": "Python",
+    "name": "jastfkjg/AgentBridge",
+    "stars": 0,
+    "updated_at": "2026-06-23T10:49:16Z",
+    "url": "https://github.com/jastfkjg/AgentBridge"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-23T10:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -40,18 +76,9 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11583,
+    "stars": 11585,
     "updated_at": "2026-06-23T10:31:22Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-23T10:30:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
@@ -79,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-23T10:26:32Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (octobuddy-daemon) drives coding-agent CLIs \u2014 Claude first \u2014 into one",
-    "id": "lml2468/octobuddy",
-    "language": "Go",
-    "name": "lml2468/octobuddy",
-    "stars": 0,
-    "updated_at": "2026-06-23T10:24:00Z",
-    "url": "https://github.com/lml2468/octobuddy"
   },
   {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-23T10:38:25Z",
+    "updated_at": "2026-06-23T10:54:57Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-23T09:48:57Z",
     "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1393,
-    "updated_at": "2026-06-23T09:48:03Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
-    "id": "Ibisselfgovernment28/v1-multiagent-articles",
-    "language": "\u2014",
-    "name": "Ibisselfgovernment28/v1-multiagent-articles",
-    "stars": 1,
-    "updated_at": "2026-06-23T09:46:14Z",
-    "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
   }
 ]
