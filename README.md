@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-23 08:45 UTC
+> ⏰ Last updated: 2026-06-23 08:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [cortexkit/aft](https://github.com/cortexkit/aft) | 167 | Rust | 2026-06-23 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 2 | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 14357 | TypeScript | 2026-06-23 | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow |
-| 3 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-06-23 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
-| 4 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 24000 | Go | 2026-06-23 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 5 | [the-long-ride/engram](https://github.com/the-long-ride/engram) | 5 | TypeScript | 2026-06-23 | Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje |
-| 6 | [Wh1isper/starweaver](https://github.com/Wh1isper/starweaver) | 6 | Rust | 2026-06-23 | Agent SDK, CLI, Platform in Rust |
-| 7 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 1 | HTML | 2026-06-23 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
-| 8 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 4505 | Python | 2026-06-23 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 9 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17925 | Python | 2026-06-23 | AI Agent Framework, the Pydantic way |
-| 10 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-23 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-23 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [cortexkit/aft](https://github.com/cortexkit/aft) | 167 | Rust | 2026-06-23 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 3 | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 14357 | TypeScript | 2026-06-23 | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow |
+| 4 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-06-23 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
+| 5 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 24000 | Go | 2026-06-23 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 6 | [the-long-ride/engram](https://github.com/the-long-ride/engram) | 5 | TypeScript | 2026-06-23 | Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje |
+| 7 | [Wh1isper/starweaver](https://github.com/Wh1isper/starweaver) | 6 | Rust | 2026-06-23 | Agent SDK, CLI, Platform in Rust |
+| 8 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 1 | HTML | 2026-06-23 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
+| 9 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 4505 | Python | 2026-06-23 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 10 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17925 | Python | 2026-06-23 | AI Agent Framework, the Pydantic way |
 | 11 | [kodustech/awesome-agent-skills](https://github.com/kodustech/awesome-agent-skills) | 83 | — | 2026-06-23 | Curated list of Agent Skills for AI coding agents like Claude Code, Codex and Cursor. |
 | 12 | [agentailor/fullstack-langgraph-nextjs-agent](https://github.com/agentailor/fullstack-langgraph-nextjs-agent) | 118 | TypeScript | 2026-06-23 |   Production-ready Next.js template for building AI agents with LangGraph.js. Features MCP integration for dynamic tool  |
 | 13 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-06-23 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
