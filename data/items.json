@@ -1,12 +1,30 @@
 [
   {
-    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
-    "id": "s2mgtvodois2/postgresql-mcp-js",
-    "language": "TypeScript",
-    "name": "s2mgtvodois2/postgresql-mcp-js",
-    "stars": 1,
-    "updated_at": "2026-06-23T03:43:47Z",
-    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 23914,
+    "updated_at": "2026-06-23T04:00:14Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-23T04:00:05Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4479,
+    "updated_at": "2026-06-23T03:59:56Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "TOON v4 \u00b7 99.97% compression \u00b7 3/3 tool bridge \u00b7 5 MCP graph tools \u00b7 Auto-sync pipeline \u00b7 Single-command install",
@@ -14,17 +32,35 @@
     "language": "JavaScript",
     "name": "OfficialNovizio/ToonGine",
     "stars": 0,
-    "updated_at": "2026-06-23T03:42:29Z",
+    "updated_at": "2026-06-23T03:56:55Z",
     "url": "https://github.com/OfficialNovizio/ToonGine"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 0,
+    "updated_at": "2026-06-23T03:59:08Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4478,
-    "updated_at": "2026-06-23T03:43:35Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-23T03:45:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-23T03:43:47Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
     "description": "Multi-agent SecOps research playground \u2014 red/blue team simulation built on phantom-mesh. MCP server exposing recon/explo",
@@ -63,24 +99,6 @@
     "url": "https://github.com/LuckyOneTwoThree/harness-all"
   },
   {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 0,
-    "updated_at": "2026-06-23T03:41:31Z",
-    "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-23T03:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 253,
-    "updated_at": "2026-06-23T03:36:20Z",
+    "updated_at": "2026-06-23T03:59:55Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T03:15:46Z",
     "url": "https://github.com/amitpatole/verel"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23912,
-    "updated_at": "2026-06-23T03:44:39Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
@@ -346,7 +355,7 @@
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6423,
+    "stars": 6422,
     "updated_at": "2026-06-23T02:49:50Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T02:42:39Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 2,
-    "updated_at": "2026-06-23T02:41:20Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
   }
 ]
