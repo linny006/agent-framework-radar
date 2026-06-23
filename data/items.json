@@ -1,12 +1,21 @@
 [
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23934,
-    "updated_at": "2026-06-23T05:30:19Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "description": "A generic, batteries-included, async-first agent toolkit \u2014 configurable loop, tools, security guards, streaming, persist",
+    "id": "skwijeratne/agentix-toolkit",
+    "language": "Python",
+    "name": "skwijeratne/agentix-toolkit",
+    "stars": 1,
+    "updated_at": "2026-06-23T05:34:01Z",
+    "url": "https://github.com/skwijeratne/agentix-toolkit"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 103,
+    "updated_at": "2026-06-23T05:32:39Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
     "description": "TOON v4 \u00b7 99.97% compression \u00b7 3/3 tool bridge \u00b7 5 MCP graph tools \u00b7 Auto-sync pipeline \u00b7 Single-command install",
@@ -14,8 +23,26 @@
     "language": "JavaScript",
     "name": "OfficialNovizio/ToonGine",
     "stars": 0,
-    "updated_at": "2026-06-23T05:30:03Z",
+    "updated_at": "2026-06-23T05:31:21Z",
     "url": "https://github.com/OfficialNovizio/ToonGine"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-23T05:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 23935,
+    "updated_at": "2026-06-23T05:30:19Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Production-ready FastAPI + Agno gateway for serving AI agents \u2014 agents, teams, supervisor execution, skills, knowledge b",
@@ -23,24 +50,15 @@
     "language": "Python",
     "name": "liberzon/agents-gateway",
     "stars": 1,
-    "updated_at": "2026-06-23T05:29:50Z",
+    "updated_at": "2026-06-23T05:31:58Z",
     "url": "https://github.com/liberzon/agents-gateway"
-  },
-  {
-    "description": "A generic, batteries-included, async-first agent toolkit \u2014 configurable loop, tools, security guards, streaming, persist",
-    "id": "skwijeratne/agentix-toolkit",
-    "language": "Python",
-    "name": "skwijeratne/agentix-toolkit",
-    "stars": 1,
-    "updated_at": "2026-06-23T05:29:27Z",
-    "url": "https://github.com/skwijeratne/agentix-toolkit"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4485,
+    "stars": 4486,
     "updated_at": "2026-06-23T05:23:58Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T05:20:35Z",
     "url": "https://github.com/lml2468/xclaw"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-23T05:15:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-23T04:49:22Z",
     "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-06-23T04:49:04Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
   }
 ]
