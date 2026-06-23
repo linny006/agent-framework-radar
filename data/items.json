@@ -1,11 +1,56 @@
 [
   {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-23T03:28:31Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "The tool-calling loop for LLM agents; iterator-first, protocol-hooked, one dependency.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 6,
+    "updated_at": "2026-06-23T03:27:19Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 253,
+    "updated_at": "2026-06-23T03:25:48Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
+    "id": "amitpatole/verel",
+    "language": "Python",
+    "name": "amitpatole/verel",
+    "stars": 0,
+    "updated_at": "2026-06-23T03:15:46Z",
+    "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-23T03:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
     "id": "dshakes/lantern",
     "language": "TypeScript",
     "name": "dshakes/lantern",
     "stars": 0,
-    "updated_at": "2026-06-23T03:13:41Z",
+    "updated_at": "2026-06-23T03:22:26Z",
     "url": "https://github.com/dshakes/lantern"
   },
   {
@@ -13,7 +58,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4474,
+    "stars": 4476,
     "updated_at": "2026-06-23T03:12:09Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -22,7 +67,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23907,
+    "stars": 23912,
     "updated_at": "2026-06-23T03:12:04Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T03:01:10Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-23T03:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-23T02:39:44Z",
     "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-06-23T02:39:23Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-06-23T02:38:50Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
-    "id": "Ibisselfgovernment28/v1-multiagent-articles",
-    "language": "\u2014",
-    "name": "Ibisselfgovernment28/v1-multiagent-articles",
-    "stars": 1,
-    "updated_at": "2026-06-23T02:36:13Z",
-    "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
-  },
-  {
-    "description": "265 autonomous AI agents across 15 business domains. Full-stack SaaS framework with real model routing, RAG pipeline, gu",
-    "id": "Citadel-Cloud-Management/citadel-saas-factory",
-    "language": "Python",
-    "name": "Citadel-Cloud-Management/citadel-saas-factory",
-    "stars": 1,
-    "updated_at": "2026-06-23T02:35:46Z",
-    "url": "https://github.com/Citadel-Cloud-Management/citadel-saas-factory"
   }
 ]
