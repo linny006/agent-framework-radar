@@ -1,12 +1,66 @@
 [
   {
+    "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
+    "id": "swarmauri/swarmauri-sdk",
+    "language": "Python",
+    "name": "swarmauri/swarmauri-sdk",
+    "stars": 104,
+    "updated_at": "2026-06-23T05:58:27Z",
+    "url": "https://github.com/swarmauri/swarmauri-sdk"
+  },
+  {
+    "description": "A generic, batteries-included, async-first agent toolkit \u2014 configurable loop, tools, security guards, streaming, persist",
+    "id": "skwijeratne/agentix-toolkit",
+    "language": "Python",
+    "name": "skwijeratne/agentix-toolkit",
+    "stars": 1,
+    "updated_at": "2026-06-23T05:54:13Z",
+    "url": "https://github.com/skwijeratne/agentix-toolkit"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 71,
+    "updated_at": "2026-06-23T05:56:59Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
     "description": "Forging a minimalist universal language for AI, unconditionally eradicating hallucinations and automating Agent Swarm in",
     "id": "caihongfairys/QMP-Dynamic-Anchors",
     "language": "JavaScript",
     "name": "caihongfairys/QMP-Dynamic-Anchors",
     "stars": 2,
-    "updated_at": "2026-06-23T05:44:17Z",
+    "updated_at": "2026-06-23T05:52:12Z",
     "url": "https://github.com/caihongfairys/QMP-Dynamic-Anchors"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4488,
+    "updated_at": "2026-06-23T05:50:44Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 23942,
+    "updated_at": "2026-06-23T05:46:20Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-23T05:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -16,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-06-23T05:44:08Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23938,
-    "updated_at": "2026-06-23T05:41:11Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -45,24 +90,6 @@
     "url": "https://github.com/leolilley/ryeos"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4486,
-    "updated_at": "2026-06-23T05:38:29Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "A generic, batteries-included, async-first agent toolkit \u2014 configurable loop, tools, security guards, streaming, persist",
-    "id": "skwijeratne/agentix-toolkit",
-    "language": "Python",
-    "name": "skwijeratne/agentix-toolkit",
-    "stars": 1,
-    "updated_at": "2026-06-23T05:43:13Z",
-    "url": "https://github.com/skwijeratne/agentix-toolkit"
-  },
-  {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
     "id": "dshakes/lantern",
     "language": "TypeScript",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T05:36:24Z",
     "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-23T05:36:10Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T04:50:49Z",
     "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-06-23T04:50:26Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-06-23T04:50:05Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
   }
 ]
