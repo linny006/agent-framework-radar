@@ -1,5 +1,86 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 23934,
+    "updated_at": "2026-06-23T05:30:19Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "TOON v4 \u00b7 99.97% compression \u00b7 3/3 tool bridge \u00b7 5 MCP graph tools \u00b7 Auto-sync pipeline \u00b7 Single-command install",
+    "id": "OfficialNovizio/ToonGine",
+    "language": "JavaScript",
+    "name": "OfficialNovizio/ToonGine",
+    "stars": 0,
+    "updated_at": "2026-06-23T05:30:03Z",
+    "url": "https://github.com/OfficialNovizio/ToonGine"
+  },
+  {
+    "description": "Production-ready FastAPI + Agno gateway for serving AI agents \u2014 agents, teams, supervisor execution, skills, knowledge b",
+    "id": "liberzon/agents-gateway",
+    "language": "Python",
+    "name": "liberzon/agents-gateway",
+    "stars": 1,
+    "updated_at": "2026-06-23T05:29:50Z",
+    "url": "https://github.com/liberzon/agents-gateway"
+  },
+  {
+    "description": "A generic, batteries-included, async-first agent toolkit \u2014 configurable loop, tools, security guards, streaming, persist",
+    "id": "skwijeratne/agentix-toolkit",
+    "language": "Python",
+    "name": "skwijeratne/agentix-toolkit",
+    "stars": 1,
+    "updated_at": "2026-06-23T05:29:27Z",
+    "url": "https://github.com/skwijeratne/agentix-toolkit"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4485,
+    "updated_at": "2026-06-23T05:23:58Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-23T05:21:12Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 0,
+    "updated_at": "2026-06-23T05:27:46Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
+    "id": "lml2468/xclaw",
+    "language": "Go",
+    "name": "lml2468/xclaw",
+    "stars": 0,
+    "updated_at": "2026-06-23T05:20:35Z",
+    "url": "https://github.com/lml2468/xclaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-23T05:15:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
     "id": "salvatoreabient793/cursor-auto-deployment-agent",
     "language": "\u2014",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4704,
-    "updated_at": "2026-06-23T05:14:53Z",
+    "updated_at": "2026-06-23T05:27:36Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -135,15 +216,6 @@
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-23T05:15:07Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
     "id": "peruzzo3265/ClawTrap",
     "language": "JavaScript",
@@ -151,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T05:04:01Z",
     "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "A generic, batteries-included, async-first agent toolkit \u2014 configurable loop, tools, security guards, streaming, persist",
-    "id": "skwijeratne/agentix-toolkit",
-    "language": "Python",
-    "name": "skwijeratne/agentix-toolkit",
-    "stars": 1,
-    "updated_at": "2026-06-23T05:03:56Z",
-    "url": "https://github.com/skwijeratne/agentix-toolkit"
   },
   {
     "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
@@ -187,24 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T05:03:12Z",
     "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (xclawd) drives coding-agent CLIs \u2014 Claude first \u2014 into one normalize",
-    "id": "lml2468/xclaw",
-    "language": "Go",
-    "name": "lml2468/xclaw",
-    "stars": 0,
-    "updated_at": "2026-06-23T05:02:55Z",
-    "url": "https://github.com/lml2468/xclaw"
-  },
-  {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 0,
-    "updated_at": "2026-06-23T05:12:01Z",
-    "url": "https://github.com/dshakes/lantern"
   },
   {
     "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
@@ -241,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-06-23T05:00:26Z",
     "url": "https://github.com/caihongfairys/QMP-Dynamic-Anchors"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-23T05:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "Human-Agent-Society/CORAL",
     "stars": 750,
-    "updated_at": "2026-06-23T04:56:09Z",
+    "updated_at": "2026-06-23T05:18:01Z",
     "url": "https://github.com/Human-Agent-Society/CORAL"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/Internationaleundset619/OpenDsStar"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4484,
-    "updated_at": "2026-06-23T05:04:06Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
     "id": "smooth-snarl702/AE-agent",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T04:49:04Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-06-23T04:48:28Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
-    "id": "Ibisselfgovernment28/v1-multiagent-articles",
-    "language": "\u2014",
-    "name": "Ibisselfgovernment28/v1-multiagent-articles",
-    "stars": 1,
-    "updated_at": "2026-06-23T04:45:49Z",
-    "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
-  },
-  {
-    "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
-    "id": "gatherfigtree740/ai-agent-landscape",
-    "language": "\u2014",
-    "name": "gatherfigtree740/ai-agent-landscape",
-    "stars": 1,
-    "updated_at": "2026-06-23T04:44:20Z",
-    "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
   }
 ]
