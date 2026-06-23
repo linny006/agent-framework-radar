@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-23T17:03:17Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-23T17:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
     "id": "ebey317/claf",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 4540,
-    "updated_at": "2026-06-23T16:55:26Z",
+    "updated_at": "2026-06-23T17:01:10Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-23T16:51:59Z",
     "url": "https://github.com/lml2468/octobuddy"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-23T16:45:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Declarative guardrails and safety controls for .NET AI agents",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T15:15:29Z",
     "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-23T15:15:00Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
   }
 ]
