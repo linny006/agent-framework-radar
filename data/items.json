@@ -1,5 +1,23 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4560,
+    "updated_at": "2026-06-23T18:45:03Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-23T18:30:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
     "id": "salvatoreabient793/cursor-auto-deployment-agent",
     "language": "\u2014",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "wanxingai/LightAgent",
     "stars": 1154,
-    "updated_at": "2026-06-23T18:28:51Z",
+    "updated_at": "2026-06-23T18:42:11Z",
     "url": "https://github.com/wanxingai/LightAgent"
   },
   {
@@ -162,15 +180,6 @@
     "url": "https://github.com/plain-sleepydick853/feros"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4559,
-    "updated_at": "2026-06-23T18:17:47Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
     "id": "berrettabadger966/genesis-pantheon",
     "language": "Python",
@@ -207,15 +216,6 @@
     "url": "https://github.com/vmy41/agent-harness"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-23T18:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
     "id": "monahright467/harness-books",
     "language": "Python",
@@ -239,7 +239,7 @@
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 2,
-    "updated_at": "2026-06-23T18:12:56Z",
+    "updated_at": "2026-06-23T18:33:45Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
@@ -324,6 +324,15 @@
     "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
   },
   {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17935,
+    "updated_at": "2026-06-23T18:04:03Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
     "id": "Internationaleundset619/OpenDsStar",
     "language": "Python",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 190,
-    "updated_at": "2026-06-23T18:03:14Z",
+    "updated_at": "2026-06-23T18:33:33Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T17:55:29Z",
     "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4480,
-    "updated_at": "2026-06-23T17:55:20Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   }
 ]
