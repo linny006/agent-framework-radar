@@ -1,12 +1,57 @@
 [
   {
+    "description": "Curated list of Agent Skills for AI coding agents like Claude Code, Codex and Cursor.",
+    "id": "kodustech/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "kodustech/awesome-agent-skills",
+    "stars": 83,
+    "updated_at": "2026-06-23T08:28:39Z",
+    "url": "https://github.com/kodustech/awesome-agent-skills"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 23995,
+    "updated_at": "2026-06-23T08:27:56Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "  Production-ready Next.js template for building AI agents with LangGraph.js. Features MCP integration for dynamic tool ",
+    "id": "agentailor/fullstack-langgraph-nextjs-agent",
+    "language": "TypeScript",
+    "name": "agentailor/fullstack-langgraph-nextjs-agent",
+    "stars": 118,
+    "updated_at": "2026-06-23T08:27:10Z",
+    "url": "https://github.com/agentailor/fullstack-langgraph-nextjs-agent"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-23T08:25:49Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4500,
-    "updated_at": "2026-06-23T08:14:41Z",
+    "stars": 4504,
+    "updated_at": "2026-06-23T08:25:33Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-23T08:15:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -63,15 +108,6 @@
     "url": "https://github.com/valory-xyz/mech-interact"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-23T08:00:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
     "id": "salvatoreabient793/cursor-auto-deployment-agent",
     "language": "\u2014",
@@ -103,7 +139,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 17924,
+    "stars": 17925,
     "updated_at": "2026-06-23T07:57:35Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T07:34:36Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-06-23T07:34:00Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "  Production-ready Next.js template for building AI agents with LangGraph.js. Features MCP integration for dynamic tool ",
-    "id": "agentailor/fullstack-langgraph-nextjs-agent",
-    "language": "TypeScript",
-    "name": "agentailor/fullstack-langgraph-nextjs-agent",
-    "stars": 118,
-    "updated_at": "2026-06-23T07:31:55Z",
-    "url": "https://github.com/agentailor/fullstack-langgraph-nextjs-agent"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 23990,
-    "updated_at": "2026-06-23T07:31:19Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "TOON v4 \u00b7 99.97% compression \u00b7 3/3 tool bridge \u00b7 5 MCP graph tools \u00b7 Auto-sync pipeline \u00b7 Single-command install",
-    "id": "OfficialNovizio/ToonGine",
-    "language": "Python",
-    "name": "OfficialNovizio/ToonGine",
-    "stars": 0,
-    "updated_at": "2026-06-23T07:31:14Z",
-    "url": "https://github.com/OfficialNovizio/ToonGine"
   }
 ]
