@@ -1,21 +1,102 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4719,
+    "updated_at": "2026-06-24T23:14:22Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
+    "id": "amitpatole/verel",
+    "language": "Python",
+    "name": "amitpatole/verel",
+    "stars": 0,
+    "updated_at": "2026-06-24T23:14:17Z",
+    "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "A research skill for discovering invariants hidden inside complex systems.",
+    "id": "zbbsdsb/Tension-Mining",
+    "language": "TeX",
+    "name": "zbbsdsb/Tension-Mining",
+    "stars": 2,
+    "updated_at": "2026-06-24T23:14:16Z",
+    "url": "https://github.com/zbbsdsb/Tension-Mining"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-24T23:13:06Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Local filesystem MCP server with 44 tools: safe delete, process management, interactive sessions, async search, OCR, ZIP",
+    "id": "ellmos-ai/ellmos-filecommander-mcp",
+    "language": "JavaScript",
+    "name": "ellmos-ai/ellmos-filecommander-mcp",
+    "stars": 3,
+    "updated_at": "2026-06-24T23:13:05Z",
+    "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
+  },
+  {
+    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 5,
+    "updated_at": "2026-06-24T23:12:39Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "A knowledge cycle for AI agents \u2014 one that grows with the people who shape it. Centered on the scarcity of human attenti",
+    "id": "shimo4228/agent-knowledge-cycle",
+    "language": "\u2014",
+    "name": "shimo4228/agent-knowledge-cycle",
+    "stars": 3,
+    "updated_at": "2026-06-24T23:12:19Z",
+    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
+  },
+  {
+    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
+    "id": "Studnicky/Dagonizer",
+    "language": "TypeScript",
+    "name": "Studnicky/Dagonizer",
+    "stars": 3,
+    "updated_at": "2026-06-24T23:05:47Z",
+    "url": "https://github.com/Studnicky/Dagonizer"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-24T23:01:54Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
     "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
     "id": "SmooAI/smooth-operator",
     "language": "Rust",
     "name": "SmooAI/smooth-operator",
     "stars": 0,
-    "updated_at": "2026-06-24T23:00:01Z",
+    "updated_at": "2026-06-24T23:03:31Z",
     "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4717,
-    "updated_at": "2026-06-24T22:59:55Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-24T23:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -45,15 +126,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-24T22:52:35Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Stateful agent-graph framework with deterministic governance \u2014 rules route transitions, not the LLM. Auditable, replayab",
     "id": "KrakenNet/stargraph",
     "language": "Python",
@@ -63,31 +135,13 @@
     "url": "https://github.com/KrakenNet/stargraph"
   },
   {
-    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
-    "id": "Studnicky/Dagonizer",
-    "language": "TypeScript",
-    "name": "Studnicky/Dagonizer",
-    "stars": 3,
-    "updated_at": "2026-06-24T22:48:14Z",
-    "url": "https://github.com/Studnicky/Dagonizer"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 68,
-    "updated_at": "2026-06-24T22:37:49Z",
+    "updated_at": "2026-06-24T23:13:29Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 5,
-    "updated_at": "2026-06-24T22:52:51Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -121,7 +175,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11630,
+    "stars": 11631,
     "updated_at": "2026-06-24T22:18:59Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T21:52:49Z",
     "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-06-24T21:52:19Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f \u901a\u7528\u578bAI\u8ba4\u77e5\u67b6\u6784 \u00b7 \u8bfa\u4e9a\u4e09\u4ee3\u4e8c\u578b \u2014 \u62bd\u5c49\u7ea7\u8054\u4e0a\u4e0b\u6587\u7ba1\u7406 / \u8bb0\u5fc6\u95ed\u73af(Mnemosyne) / \u81ea\u4e3b\u8fdb\u5316\u3002\u5b9e\u6218\u8403\u53d6\uff0cMIT\u5f00\u6e90",
-    "id": "gymaira1990-jpg/noah-gen3-type2",
-    "language": "Python",
-    "name": "gymaira1990-jpg/noah-gen3-type2",
-    "stars": 6,
-    "updated_at": "2026-06-24T21:50:55Z",
-    "url": "https://github.com/gymaira1990-jpg/noah-gen3-type2"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-06-24T21:50:42Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-06-24T21:49:05Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 1,
-    "updated_at": "2026-06-24T21:49:05Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-24T21:48:52Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
   }
 ]
