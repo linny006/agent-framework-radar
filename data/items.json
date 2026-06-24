@@ -1,21 +1,84 @@
 [
   {
-    "description": "A generic, batteries-included, async-first agent toolkit \u2014 configurable loop, tools, security guards, streaming, persist",
-    "id": "skwijeratne/agentix-toolkit",
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-24T00:12:49Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
     "language": "Python",
-    "name": "skwijeratne/agentix-toolkit",
-    "stars": 3,
-    "updated_at": "2026-06-23T23:59:02Z",
-    "url": "https://github.com/skwijeratne/agentix-toolkit"
+    "name": "microsoft/agent-framework",
+    "stars": 11594,
+    "updated_at": "2026-06-24T00:11:40Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 10,
+    "updated_at": "2026-06-24T00:08:05Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "Turn any Python function into an LLM-callable tool - single file, zero runtime deps. Auto-derives JSON-Schema from your ",
+    "id": "monstabravo/portable-agent-orchestrator",
+    "language": "Python",
+    "name": "monstabravo/portable-agent-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-24T00:05:00Z",
+    "url": "https://github.com/monstabravo/portable-agent-orchestrator"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-24T00:01:16Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
+    "id": "BrettMGoughWork/vai-core",
+    "language": "Python",
+    "name": "BrettMGoughWork/vai-core",
+    "stars": 4,
+    "updated_at": "2026-06-24T00:01:38Z",
+    "url": "https://github.com/BrettMGoughWork/vai-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-24T00:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4578,
-    "updated_at": "2026-06-24T00:00:07Z",
+    "stars": 4579,
+    "updated_at": "2026-06-24T00:15:12Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A generic, batteries-included, async-first agent toolkit \u2014 configurable loop, tools, security guards, streaming, persist",
+    "id": "skwijeratne/agentix-toolkit",
+    "language": "Python",
+    "name": "skwijeratne/agentix-toolkit",
+    "stars": 3,
+    "updated_at": "2026-06-24T00:10:31Z",
+    "url": "https://github.com/skwijeratne/agentix-toolkit"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -72,24 +135,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Turn any Python function into an LLM-callable tool - single file, zero runtime deps. Auto-derives JSON-Schema from your ",
-    "id": "monstabravo/portable-agent-orchestrator",
-    "language": "Python",
-    "name": "monstabravo/portable-agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-23T23:46:13Z",
-    "url": "https://github.com/monstabravo/portable-agent-orchestrator"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-23T23:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -97,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-06-23T23:40:51Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
-    "id": "BrettMGoughWork/vai-core",
-    "language": "Python",
-    "name": "BrettMGoughWork/vai-core",
-    "stars": 4,
-    "updated_at": "2026-06-23T23:57:37Z",
-    "url": "https://github.com/BrettMGoughWork/vai-core"
   },
   {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T23:30:52Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11593,
-    "updated_at": "2026-06-23T23:29:14Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "KrakenNet/stargraph",
     "stars": 2,
-    "updated_at": "2026-06-23T23:18:53Z",
+    "updated_at": "2026-06-24T00:12:40Z",
     "url": "https://github.com/KrakenNet/stargraph"
   },
   {
@@ -349,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-06-23T23:15:08Z",
     "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-23T23:14:50Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T23:11:51Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-06-23T23:11:15Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-23T23:11:03Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   }
 ]
