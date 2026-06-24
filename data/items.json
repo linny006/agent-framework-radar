@@ -1,12 +1,84 @@
 [
   {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-24T18:43:48Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-24T18:43:28Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4684,
-    "updated_at": "2026-06-24T18:29:54Z",
+    "stars": 4686,
+    "updated_at": "2026-06-24T18:42:41Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 24386,
+    "updated_at": "2026-06-24T18:41:04Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-24T18:40:07Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Stateful agent-graph framework with deterministic governance \u2014 rules route transitions, not the LLM. Auditable, replayab",
+    "id": "KrakenNet/stargraph",
+    "language": "Python",
+    "name": "KrakenNet/stargraph",
+    "stars": 2,
+    "updated_at": "2026-06-24T18:39:26Z",
+    "url": "https://github.com/KrakenNet/stargraph"
+  },
+  {
+    "description": "Define AI agent roles in YAML and run them anywhere: CLI, API server, or autonomous daemon",
+    "id": "vladkesler/initrunner",
+    "language": "Python",
+    "name": "vladkesler/initrunner",
+    "stars": 39,
+    "updated_at": "2026-06-24T18:34:46Z",
+    "url": "https://github.com/vladkesler/initrunner"
+  },
+  {
+    "description": "Production-ready Python framework for AI agents with built-in guardrails, audit logging, cost tracking, and hybrid RAG. ",
+    "id": "johnnichev/selectools",
+    "language": "Python",
+    "name": "johnnichev/selectools",
+    "stars": 9,
+    "updated_at": "2026-06-24T18:30:36Z",
+    "url": "https://github.com/johnnichev/selectools"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-24T18:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Cross-platform agent gateway: a zero-cgo Go daemon (octobuddy-daemon) drives coding-agent CLIs \u2014 Claude first \u2014 into one",
@@ -18,7 +90,7 @@
     "url": "https://github.com/lml2468/octobuddy"
   },
   {
-    "description": "Self-Improving Agents with Procedural Memory for LangChain \u2014 agents that learn across task executions by extracting, sto",
+    "description": "Self-Improving Agents with Procedural Memory for LangChain. Agents that learn across task executions by extracting, stor",
     "id": "NullLabTests/langchain-meta-reflect",
     "language": "Python",
     "name": "NullLabTests/langchain-meta-reflect",
@@ -68,7 +140,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 1038,
-    "updated_at": "2026-06-24T18:19:32Z",
+    "updated_at": "2026-06-24T18:38:30Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -79,51 +151,6 @@
     "stars": 9,
     "updated_at": "2026-06-24T18:17:43Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Production-ready Python framework for AI agents with built-in guardrails, audit logging, cost tracking, and hybrid RAG. ",
-    "id": "johnnichev/selectools",
-    "language": "Python",
-    "name": "johnnichev/selectools",
-    "stars": 9,
-    "updated_at": "2026-06-24T18:26:31Z",
-    "url": "https://github.com/johnnichev/selectools"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-24T18:30:07Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-24T18:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Define AI agent roles in YAML and run them anywhere: CLI, API server, or autonomous daemon",
-    "id": "vladkesler/initrunner",
-    "language": "Python",
-    "name": "vladkesler/initrunner",
-    "stars": 39,
-    "updated_at": "2026-06-24T18:17:10Z",
-    "url": "https://github.com/vladkesler/initrunner"
-  },
-  {
-    "description": "Stateful agent-graph framework with deterministic governance \u2014 rules route transitions, not the LLM. Auditable, replayab",
-    "id": "KrakenNet/stargraph",
-    "language": "Python",
-    "name": "KrakenNet/stargraph",
-    "stars": 2,
-    "updated_at": "2026-06-24T18:17:20Z",
-    "url": "https://github.com/KrakenNet/stargraph"
   },
   {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
@@ -169,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-06-24T18:01:57Z",
     "url": "https://github.com/Frank-Pu/commando"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 24385,
-    "updated_at": "2026-06-24T18:30:20Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
@@ -230,7 +248,7 @@
     "language": "TypeScript",
     "name": "inkeep/agents",
     "stars": 1213,
-    "updated_at": "2026-06-24T17:46:52Z",
+    "updated_at": "2026-06-24T18:45:13Z",
     "url": "https://github.com/inkeep/agents"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11626,
-    "updated_at": "2026-06-24T18:07:19Z",
+    "updated_at": "2026-06-24T18:33:55Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-24T18:16:34Z",
+    "updated_at": "2026-06-24T18:43:58Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "PurrPod/purrcat",
     "stars": 5,
-    "updated_at": "2026-06-24T17:22:31Z",
+    "updated_at": "2026-06-24T18:45:17Z",
     "url": "https://github.com/PurrPod/purrcat"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Go",
     "name": "manishiitg/mcp-agent-builder-go",
     "stars": 5,
-    "updated_at": "2026-06-24T17:45:59Z",
+    "updated_at": "2026-06-24T18:37:48Z",
     "url": "https://github.com/manishiitg/mcp-agent-builder-go"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T16:49:09Z",
     "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:49:06Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:48:27Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
   }
 ]
