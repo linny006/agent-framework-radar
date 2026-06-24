@@ -1,5 +1,68 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 24285,
+    "updated_at": "2026-06-24T09:44:40Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 168,
+    "updated_at": "2026-06-24T09:43:18Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4643,
+    "updated_at": "2026-06-24T09:38:37Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
+    "id": "manishiitg/mcp-agent-builder-go",
+    "language": "Go",
+    "name": "manishiitg/mcp-agent-builder-go",
+    "stars": 5,
+    "updated_at": "2026-06-24T09:39:32Z",
+    "url": "https://github.com/manishiitg/mcp-agent-builder-go"
+  },
+  {
+    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (octobuddy-daemon) drives coding-agent CLIs \u2014 Claude first \u2014 into one",
+    "id": "lml2468/octobuddy",
+    "language": "Go",
+    "name": "lml2468/octobuddy",
+    "stars": 1,
+    "updated_at": "2026-06-24T09:37:58Z",
+    "url": "https://github.com/lml2468/octobuddy"
+  },
+  {
+    "description": "Agent SDK, CLI, Platform in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-06-24T09:31:00Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-24T09:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
     "id": "salvatoreabient793/cursor-auto-deployment-agent",
     "language": "\u2014",
@@ -63,24 +126,6 @@
     "url": "https://github.com/Smita6756/Hbrain"
   },
   {
-    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (octobuddy-daemon) drives coding-agent CLIs \u2014 Claude first \u2014 into one",
-    "id": "lml2468/octobuddy",
-    "language": "Go",
-    "name": "lml2468/octobuddy",
-    "stars": 1,
-    "updated_at": "2026-06-24T09:25:11Z",
-    "url": "https://github.com/lml2468/octobuddy"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 168,
-    "updated_at": "2026-06-24T09:24:12Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "\u57fa\u4e8e DDD \u5206\u5c42\u67b6\u6784\u7684 AI Agent \u5e94\u7528\u811a\u624b\u67b6\uff0c\u96c6\u6210 Spring AI\u3001LangChain4j \u4e0e Google ADK\uff0c\u8986\u76d6 Chat / Tool Calling / Multi-Agent \u7f16\u6392\u80fd\u529b\uff0cJDK 17 + Spr",
     "id": "ZQIUSU/Ai-agent-scaffold-zqiusu",
     "language": "Java",
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T09:22:52Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 24281,
-    "updated_at": "2026-06-24T09:21:33Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
@@ -234,15 +270,6 @@
     "url": "https://github.com/monahright467/harness-books"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-24T09:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs o",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
@@ -265,7 +292,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11617,
+    "stars": 11618,
     "updated_at": "2026-06-24T09:11:04Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -295,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T09:10:08Z",
     "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4642,
-    "updated_at": "2026-06-24T09:27:28Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-24T09:00:05Z",
     "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
-  },
-  {
-    "description": "Provide a lightweight, cross-platform AI agent with TUI and GUI support, optimized for performance and flexible tool int",
-    "id": "duduard/saneagent",
-    "language": "\u2014",
-    "name": "duduard/saneagent",
-    "stars": 0,
-    "updated_at": "2026-06-24T08:58:43Z",
-    "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "Build and manage AI agents within git repositories using a Rust-based, dependency-free framework that version-controls a",
-    "id": "yeab405/rusty-gitclaw",
-    "language": "Rust",
-    "name": "yeab405/rusty-gitclaw",
-    "stars": 2,
-    "updated_at": "2026-06-24T08:57:58Z",
-    "url": "https://github.com/yeab405/rusty-gitclaw"
   }
 ]
