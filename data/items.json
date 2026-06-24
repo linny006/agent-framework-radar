@@ -1,11 +1,20 @@
 [
   {
+    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
+    "id": "qmilab/asterism",
+    "language": "TypeScript",
+    "name": "qmilab/asterism",
+    "stars": 2,
+    "updated_at": "2026-06-24T20:13:38Z",
+    "url": "https://github.com/qmilab/asterism"
+  },
+  {
     "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
     "id": "SmooAI/smooth-operator",
     "language": "Rust",
     "name": "SmooAI/smooth-operator",
     "stars": 0,
-    "updated_at": "2026-06-24T20:02:54Z",
+    "updated_at": "2026-06-24T20:12:59Z",
     "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
@@ -14,8 +23,62 @@
     "language": "\u2014",
     "name": "Letterblack0306/LetterBlack-Sentinel",
     "stars": 4,
-    "updated_at": "2026-06-24T20:02:43Z",
+    "updated_at": "2026-06-24T20:10:48Z",
     "url": "https://github.com/Letterblack0306/LetterBlack-Sentinel"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 17973,
+    "updated_at": "2026-06-24T20:09:04Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4503,
+    "updated_at": "2026-06-24T20:07:57Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 168,
+    "updated_at": "2026-06-24T20:07:37Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-24T20:07:24Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 24393,
+    "updated_at": "2026-06-24T20:06:42Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-24T20:08:38Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-24T20:00:31Z",
+    "updated_at": "2026-06-24T20:04:41Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 4,
-    "updated_at": "2026-06-24T19:58:43Z",
+    "updated_at": "2026-06-24T20:10:58Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -85,8 +148,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4696,
-    "updated_at": "2026-06-24T19:53:33Z",
+    "stars": 4698,
+    "updated_at": "2026-06-24T20:14:03Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/Smita6756/Hbrain"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-24T20:01:11Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
     "id": "Liny9941/projectsmd",
     "language": "Rust",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "KrakenNet/stargraph",
     "stars": 2,
-    "updated_at": "2026-06-24T19:50:18Z",
+    "updated_at": "2026-06-24T20:15:10Z",
     "url": "https://github.com/KrakenNet/stargraph"
   },
   {
@@ -142,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T19:50:02Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4503,
-    "updated_at": "2026-06-24T19:48:36Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 168,
-    "updated_at": "2026-06-24T19:48:20Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
@@ -333,15 +369,6 @@
     "url": "https://github.com/ethosagent/ethos"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 24391,
-    "updated_at": "2026-06-24T20:02:11Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
     "id": "Markusnigerian562/Project-A-MOS-Framework",
     "language": "Shell",
@@ -367,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T19:33:39Z",
     "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 17973,
-    "updated_at": "2026-06-24T19:53:37Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-24T19:31:22Z",
     "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 8,
-    "updated_at": "2026-06-24T19:30:58Z",
-    "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
-    "id": "clawboo/clawboo",
-    "language": "TypeScript",
-    "name": "clawboo/clawboo",
-    "stars": 15,
-    "updated_at": "2026-06-24T19:29:19Z",
-    "url": "https://github.com/clawboo/clawboo"
   }
 ]
