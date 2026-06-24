@@ -1,12 +1,93 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 24385,
+    "updated_at": "2026-06-24T17:57:37Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
     "id": "amitpatole/verel",
     "language": "Python",
     "name": "amitpatole/verel",
     "stars": 0,
-    "updated_at": "2026-06-24T17:44:35Z",
+    "updated_at": "2026-06-24T17:56:52Z",
     "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
+    "id": "lukeskytorep-bot/echo-claw",
+    "language": "\u2014",
+    "name": "lukeskytorep-bot/echo-claw",
+    "stars": 1,
+    "updated_at": "2026-06-24T17:56:01Z",
+    "url": "https://github.com/lukeskytorep-bot/echo-claw"
+  },
+  {
+    "description": "The execution-control layer between AI agent decisions and real-world actions.",
+    "id": "Letterblack0306/LetterBlack-Sentinel",
+    "language": "\u2014",
+    "name": "Letterblack0306/LetterBlack-Sentinel",
+    "stars": 4,
+    "updated_at": "2026-06-24T17:53:10Z",
+    "url": "https://github.com/Letterblack0306/LetterBlack-Sentinel"
+  },
+  {
+    "description": "A generic, batteries-included, async-first agent toolkit \u2014 configurable loop, tools, security guards, streaming, persist",
+    "id": "skwijeratne/agentix-toolkit",
+    "language": "Python",
+    "name": "skwijeratne/agentix-toolkit",
+    "stars": 3,
+    "updated_at": "2026-06-24T17:52:39Z",
+    "url": "https://github.com/skwijeratne/agentix-toolkit"
+  },
+  {
+    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
+    "id": "qmilab/asterism",
+    "language": "TypeScript",
+    "name": "qmilab/asterism",
+    "stars": 2,
+    "updated_at": "2026-06-24T17:48:18Z",
+    "url": "https://github.com/qmilab/asterism"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-24T17:47:55Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1213,
+    "updated_at": "2026-06-24T17:46:52Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "Stateful agent-graph framework with deterministic governance \u2014 rules route transitions, not the LLM. Auditable, replayab",
+    "id": "KrakenNet/stargraph",
+    "language": "Python",
+    "name": "KrakenNet/stargraph",
+    "stars": 2,
+    "updated_at": "2026-06-24T17:57:21Z",
+    "url": "https://github.com/KrakenNet/stargraph"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-24T17:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -36,6 +117,15 @@
     "url": "https://github.com/sauravbhattacharya001/agentlens"
   },
   {
+    "description": "Turn any Flutter app into an AI-operable interface \u2014 no screenshots, no OCR, no overlay chatbot.",
+    "id": "anasfik/flutter_copilot",
+    "language": "Dart",
+    "name": "anasfik/flutter_copilot",
+    "stars": 2,
+    "updated_at": "2026-06-24T17:33:58Z",
+    "url": "https://github.com/anasfik/flutter_copilot"
+  },
+  {
     "description": "Cross-platform agent gateway: a zero-cgo Go daemon (octobuddy-daemon) drives coding-agent CLIs \u2014 Claude first \u2014 into one",
     "id": "lml2468/octobuddy",
     "language": "Go",
@@ -43,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-06-24T17:33:24Z",
     "url": "https://github.com/lml2468/octobuddy"
-  },
-  {
-    "description": "A generic, batteries-included, async-first agent toolkit \u2014 configurable loop, tools, security guards, streaming, persist",
-    "id": "skwijeratne/agentix-toolkit",
-    "language": "Python",
-    "name": "skwijeratne/agentix-toolkit",
-    "stars": 3,
-    "updated_at": "2026-06-24T17:32:52Z",
-    "url": "https://github.com/skwijeratne/agentix-toolkit"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -81,24 +162,6 @@
     "url": "https://github.com/nirmantaterh/orchid"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-24T17:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
-    "id": "lukeskytorep-bot/echo-claw",
-    "language": "\u2014",
-    "name": "lukeskytorep-bot/echo-claw",
-    "stars": 1,
-    "updated_at": "2026-06-24T17:29:23Z",
-    "url": "https://github.com/lukeskytorep-bot/echo-claw"
-  },
-  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
@@ -126,39 +189,12 @@
     "url": "https://github.com/evalstate/fast-agent"
   },
   {
-    "description": "Stateful agent-graph framework with deterministic governance \u2014 rules route transitions, not the LLM. Auditable, replayab",
-    "id": "KrakenNet/stargraph",
-    "language": "Python",
-    "name": "KrakenNet/stargraph",
-    "stars": 2,
-    "updated_at": "2026-06-24T17:23:34Z",
-    "url": "https://github.com/KrakenNet/stargraph"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 24385,
-    "updated_at": "2026-06-24T17:16:37Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1213,
-    "updated_at": "2026-06-24T17:14:54Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
     "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
     "id": "manishiitg/mcp-agent-builder-go",
     "language": "Go",
     "name": "manishiitg/mcp-agent-builder-go",
     "stars": 5,
-    "updated_at": "2026-06-24T17:40:07Z",
+    "updated_at": "2026-06-24T17:45:59Z",
     "url": "https://github.com/manishiitg/mcp-agent-builder-go"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T16:38:43Z",
     "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:38:10Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 5,
-    "updated_at": "2026-06-24T17:42:26Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-06-24T16:36:31Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 1,
-    "updated_at": "2026-06-24T16:34:39Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
   }
 ]
