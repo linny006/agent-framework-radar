@@ -1,12 +1,66 @@
 [
   {
-    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
-    "id": "q-j0k/sprintloop-orchestration",
-    "language": "\u2014",
-    "name": "q-j0k/sprintloop-orchestration",
-    "stars": 1,
-    "updated_at": "2026-06-24T08:13:59Z",
-    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 68,
+    "updated_at": "2026-06-24T08:26:55Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-24T08:26:52Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 24261,
+    "updated_at": "2026-06-24T08:26:34Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "TOON v4 \u00b7 99.97% compression \u00b7 3/3 tool bridge \u00b7 5 MCP graph tools \u00b7 Auto-sync pipeline \u00b7 Single-command install",
+    "id": "OfficialNovizio/ToonGine",
+    "language": "Python",
+    "name": "OfficialNovizio/ToonGine",
+    "stars": 0,
+    "updated_at": "2026-06-24T08:26:26Z",
+    "url": "https://github.com/OfficialNovizio/ToonGine"
+  },
+  {
+    "description": "\u57fa\u4e8e DDD \u5206\u5c42\u67b6\u6784\u7684 AI Agent \u5e94\u7528\u811a\u624b\u67b6\uff0c\u96c6\u6210 Spring AI\u3001LangChain4j \u4e0e Google ADK\uff0c\u8986\u76d6 Chat / Tool Calling / Multi-Agent \u7f16\u6392\u80fd\u529b\uff0cJDK 17 + Spr",
+    "id": "ZQIUSU/Ai-agent-scaffold-zqiusu",
+    "language": "Java",
+    "name": "ZQIUSU/Ai-agent-scaffold-zqiusu",
+    "stars": 0,
+    "updated_at": "2026-06-24T08:25:56Z",
+    "url": "https://github.com/ZQIUSU/Ai-agent-scaffold-zqiusu"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-06-24T08:25:19Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-06-24T08:24:42Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
   },
   {
     "description": "Cross-platform agent gateway: a zero-cgo Go daemon (octobuddy-daemon) drives coding-agent CLIs \u2014 Claude first \u2014 into one",
@@ -14,8 +68,98 @@
     "language": "Go",
     "name": "lml2468/octobuddy",
     "stars": 1,
-    "updated_at": "2026-06-24T08:10:31Z",
+    "updated_at": "2026-06-24T08:24:01Z",
     "url": "https://github.com/lml2468/octobuddy"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 29,
+    "updated_at": "2026-06-24T08:23:35Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 8,
+    "updated_at": "2026-06-24T08:22:59Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for autoresearch. Works w",
+    "id": "Human-Agent-Society/CORAL",
+    "language": "Python",
+    "name": "Human-Agent-Society/CORAL",
+    "stars": 751,
+    "updated_at": "2026-06-24T08:20:54Z",
+    "url": "https://github.com/Human-Agent-Society/CORAL"
+  },
+  {
+    "description": "BAW (Black And White) \u2014 100% from-scratch AI agent platform with Angel/Devil adversarial court. Self-evolution, multi-mo",
+    "id": "cornreform/baw-agent-platform",
+    "language": "Python",
+    "name": "cornreform/baw-agent-platform",
+    "stars": 1,
+    "updated_at": "2026-06-24T08:20:01Z",
+    "url": "https://github.com/cornreform/baw-agent-platform"
+  },
+  {
+    "description": "\ud83e\udea2 Multi-Agent framework family for AI-powered product development \u2014 PM \u00b7 Design \u00b7 Engineering \u00b7 Growth \u00b7 Ops",
+    "id": "LuckyOneTwoThree/harness-all",
+    "language": "Shell",
+    "name": "LuckyOneTwoThree/harness-all",
+    "stars": 4,
+    "updated_at": "2026-06-24T08:19:07Z",
+    "url": "https://github.com/LuckyOneTwoThree/harness-all"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4633,
+    "updated_at": "2026-06-24T08:17:48Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-06-24T08:17:18Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-24T08:17:11Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-24T08:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-24T08:13:59Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
@@ -27,15 +171,6 @@
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
-    "description": "\u57fa\u4e8e DDD \u5206\u5c42\u67b6\u6784\u7684 AI Agent \u5e94\u7528\u811a\u624b\u67b6\uff0c\u96c6\u6210 Spring AI\u3001LangChain4j \u4e0e Google ADK\uff0c\u8986\u76d6 Chat / Tool Calling / Multi-Agent \u7f16\u6392\u80fd\u529b\uff0cJDK 17 + Spr",
-    "id": "ZQIUSU/Ai-agent-scaffold-zqiusu",
-    "language": "Java",
-    "name": "ZQIUSU/Ai-agent-scaffold-zqiusu",
-    "stars": 0,
-    "updated_at": "2026-06-24T08:13:06Z",
-    "url": "https://github.com/ZQIUSU/Ai-agent-scaffold-zqiusu"
-  },
-  {
     "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
     "id": "openlegion-ai/openlegion",
     "language": "Python",
@@ -43,15 +178,6 @@
     "stars": 103,
     "updated_at": "2026-06-24T08:05:50Z",
     "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
-    "description": "BAW (Black And White) \u2014 100% from-scratch AI agent platform with Angel/Devil adversarial court. Self-evolution, multi-mo",
-    "id": "cornreform/baw-agent-platform",
-    "language": "Python",
-    "name": "cornreform/baw-agent-platform",
-    "stars": 1,
-    "updated_at": "2026-06-24T08:05:00Z",
-    "url": "https://github.com/cornreform/baw-agent-platform"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -72,13 +198,13 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-24T08:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "strands-agents/harness-sdk",
+    "stars": 6258,
+    "updated_at": "2026-06-24T08:00:42Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
@@ -90,15 +216,6 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "\ud83e\udea2 Multi-Agent framework family for AI-powered product development \u2014 PM \u00b7 Design \u00b7 Engineering \u00b7 Growth \u00b7 Ops",
-    "id": "LuckyOneTwoThree/harness-all",
-    "language": "Shell",
-    "name": "LuckyOneTwoThree/harness-all",
-    "stars": 4,
-    "updated_at": "2026-06-24T07:56:27Z",
-    "url": "https://github.com/LuckyOneTwoThree/harness-all"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -106,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-06-24T07:54:38Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4631,
-    "updated_at": "2026-06-24T08:12:42Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
@@ -126,15 +234,6 @@
     "url": "https://github.com/achappey/aihappey-chat"
   },
   {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-06-24T07:58:38Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -142,15 +241,6 @@
     "stars": 17959,
     "updated_at": "2026-06-24T07:51:25Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 24256,
-    "updated_at": "2026-06-24T07:51:25Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -162,21 +252,12 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-24T08:08:22Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-24T08:10:26Z",
+    "updated_at": "2026-06-24T08:16:47Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -288,15 +369,6 @@
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
-    "description": "CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for autoresearch. Works w",
-    "id": "Human-Agent-Society/CORAL",
-    "language": "Python",
-    "name": "Human-Agent-Society/CORAL",
-    "stars": 751,
-    "updated_at": "2026-06-24T08:14:59Z",
-    "url": "https://github.com/Human-Agent-Society/CORAL"
-  },
-  {
     "description": "",
     "id": "romainsantoli-web/setup-vs-agent-firm",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T06:41:03Z",
     "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-06-24T06:39:16Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-06-24T06:38:51Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-06-24T06:38:39Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-24T06:37:20Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-24T06:37:06Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-06-24T06:36:16Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-24T06:34:29Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-24T06:34:25Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
