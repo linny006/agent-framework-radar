@@ -1,12 +1,75 @@
 [
   {
+    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
+    "id": "lukeskytorep-bot/echo-claw",
+    "language": "\u2014",
+    "name": "lukeskytorep-bot/echo-claw",
+    "stars": 1,
+    "updated_at": "2026-06-24T17:29:23Z",
+    "url": "https://github.com/lukeskytorep-bot/echo-claw"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 9,
+    "updated_at": "2026-06-24T17:28:27Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "PurrCat Agent",
+    "id": "PurrPod/purrcat",
+    "language": "Python",
+    "name": "PurrPod/purrcat",
+    "stars": 5,
+    "updated_at": "2026-06-24T17:22:31Z",
+    "url": "https://github.com/PurrPod/purrcat"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11626,
+    "updated_at": "2026-06-24T17:27:10Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3838,
+    "updated_at": "2026-06-24T17:19:52Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
     "description": "Stateful agent-graph framework with deterministic governance \u2014 rules route transitions, not the LLM. Auditable, replayab",
     "id": "KrakenNet/stargraph",
     "language": "Python",
     "name": "KrakenNet/stargraph",
     "stars": 2,
-    "updated_at": "2026-06-24T17:15:10Z",
+    "updated_at": "2026-06-24T17:23:34Z",
     "url": "https://github.com/KrakenNet/stargraph"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 24384,
+    "updated_at": "2026-06-24T17:16:37Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-24T17:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
@@ -18,15 +81,6 @@
     "url": "https://github.com/inkeep/agents"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 24381,
-    "updated_at": "2026-06-24T17:12:59Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -36,21 +90,12 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 9,
-    "updated_at": "2026-06-24T17:07:20Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
     "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
     "id": "manishiitg/mcp-agent-builder-go",
     "language": "Go",
     "name": "manishiitg/mcp-agent-builder-go",
     "stars": 5,
-    "updated_at": "2026-06-24T17:07:09Z",
+    "updated_at": "2026-06-24T17:27:48Z",
     "url": "https://github.com/manishiitg/mcp-agent-builder-go"
   },
   {
@@ -61,15 +106,6 @@
     "stars": 168,
     "updated_at": "2026-06-24T17:01:08Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-24T17:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
@@ -216,6 +252,15 @@
     "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
   },
   {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4501,
+    "updated_at": "2026-06-24T16:46:34Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
     "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
     "id": "Tamang4607/rustyhand",
     "language": "Rust",
@@ -265,7 +310,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6262,
+    "stars": 6263,
     "updated_at": "2026-06-24T16:44:22Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -338,7 +383,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-24T17:12:26Z",
+    "updated_at": "2026-06-24T17:26:50Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-24T16:32:56Z",
     "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4682,
-    "updated_at": "2026-06-24T16:32:48Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:32:40Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11626,
-    "updated_at": "2026-06-24T17:09:50Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-06-24T16:32:01Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 4,
-    "updated_at": "2026-06-24T16:29:06Z",
-    "url": "https://github.com/Kortecx/kortecx"
   }
 ]
