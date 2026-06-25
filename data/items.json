@@ -1,21 +1,12 @@
 [
   {
-    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
-    "id": "SmooAI/smooth-operator",
-    "language": "Rust",
-    "name": "SmooAI/smooth-operator",
-    "stars": 0,
-    "updated_at": "2026-06-25T19:26:07Z",
-    "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4888,
-    "updated_at": "2026-06-25T19:22:54Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 551,
+    "updated_at": "2026-06-25T19:44:27Z",
+    "url": "https://github.com/aaronjmars/aeon"
   },
   {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
@@ -23,8 +14,44 @@
     "language": "Python",
     "name": "amitpatole/verel",
     "stars": 0,
-    "updated_at": "2026-06-25T19:20:31Z",
+    "updated_at": "2026-06-25T19:42:43Z",
     "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
+    "id": "SmooAI/smooth-operator",
+    "language": "Rust",
+    "name": "SmooAI/smooth-operator",
+    "stars": 0,
+    "updated_at": "2026-06-25T19:34:55Z",
+    "url": "https://github.com/SmooAI/smooth-operator"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6281,
+    "updated_at": "2026-06-25T19:33:54Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-25T19:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4888,
+    "updated_at": "2026-06-25T19:39:32Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
@@ -54,24 +81,6 @@
     "url": "https://github.com/apexradius/agentic-os"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-25T19:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 551,
-    "updated_at": "2026-06-25T19:07:35Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
     "description": "A curated list of AI agent platforms, frameworks, protocols, tools, and resources",
     "id": "Scottcjn/awesome-agents",
     "language": "\u2014",
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11664,
-    "updated_at": "2026-06-25T19:05:44Z",
+    "updated_at": "2026-06-25T19:32:21Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -106,15 +115,6 @@
     "stars": 169,
     "updated_at": "2026-06-25T19:03:15Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6281,
-    "updated_at": "2026-06-25T19:02:54Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
@@ -151,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-06-25T19:00:28Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4516,
+    "updated_at": "2026-06-25T19:00:27Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T18:38:23Z",
     "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-06-25T18:38:03Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
   }
 ]
