@@ -1,11 +1,38 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4756,
+    "updated_at": "2026-06-25T04:45:06Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-25T04:37:22Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
+    "id": "the-long-ride/engram",
+    "language": "TypeScript",
+    "name": "the-long-ride/engram",
+    "stars": 5,
+    "updated_at": "2026-06-25T04:37:17Z",
+    "url": "https://github.com/the-long-ride/engram"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-25T04:30:20Z",
+    "updated_at": "2026-06-25T04:32:12Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -94,18 +121,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 24468,
+    "stars": 24469,
     "updated_at": "2026-06-25T03:55:17Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4756,
-    "updated_at": "2026-06-25T03:50:10Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Security-first AI agent daemon \u2014 the model proposes actions, the runtime decides what execute",
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "Human-Agent-Society/CORAL",
     "stars": 752,
-    "updated_at": "2026-06-25T04:26:47Z",
+    "updated_at": "2026-06-25T04:43:38Z",
     "url": "https://github.com/Human-Agent-Society/CORAL"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-25T02:51:53Z",
     "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "The agent framework where every run is durable, replayable, and resumable by default.",
-    "id": "ThousandBirdsInc/chidori",
-    "language": "Rust",
-    "name": "ThousandBirdsInc/chidori",
-    "stars": 1351,
-    "updated_at": "2026-06-25T02:51:49Z",
-    "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
-    "description": "Universal AGI Agent Framework \u2014 5-layer cognitive architecture with meta-cognition, 3-tier memory, and knowledge orchest",
-    "id": "tsingxuanhan/agent4science",
-    "language": "Python",
-    "name": "tsingxuanhan/agent4science",
-    "stars": 0,
-    "updated_at": "2026-06-25T02:51:24Z",
-    "url": "https://github.com/tsingxuanhan/agent4science"
   }
 ]
