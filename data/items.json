@@ -1,12 +1,48 @@
 [
   {
+    "description": "Production-grade AI agent orchestration \u2014 DAG context, self-evaluating pipelines, skill bundles with memory. Inspired by",
+    "id": "zedarvates/ultra-pipeline-framework",
+    "language": "Python",
+    "name": "zedarvates/ultra-pipeline-framework",
+    "stars": 3,
+    "updated_at": "2026-06-25T11:58:33Z",
+    "url": "https://github.com/zedarvates/ultra-pipeline-framework"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-25T11:52:43Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4820,
+    "updated_at": "2026-06-25T11:54:04Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11656,
-    "updated_at": "2026-06-25T11:43:37Z",
+    "stars": 11657,
+    "updated_at": "2026-06-25T11:47:02Z",
     "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-25T11:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An agent runtime.",
@@ -36,15 +72,6 @@
     "url": "https://github.com/tianhbd/Mnemonic-Kernel"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4820,
-    "updated_at": "2026-06-25T11:37:26Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 589,
-    "updated_at": "2026-06-25T11:36:29Z",
+    "updated_at": "2026-06-25T11:45:52Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 3837,
     "updated_at": "2026-06-25T11:32:01Z",
     "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-25T11:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "BAW (Black And White) \u2014 100% from-scratch AI agent platform with Angel/Devil adversarial court. Self-evolution, multi-mo",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-25T10:49:31Z",
     "url": "https://github.com/qmilab/asterism"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-25T10:49:28Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-06-25T10:49:01Z",
-    "url": "https://github.com/Messa8301/quickbench"
   }
 ]
