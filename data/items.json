@@ -1,5 +1,95 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4849,
+    "updated_at": "2026-06-25T15:14:45Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-06-25T15:15:15Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Security-first AI agent daemon \u2014 the model proposes actions, the runtime decides what execute",
+    "id": "shisa-ai/shisad",
+    "language": "Python",
+    "name": "shisa-ai/shisad",
+    "stars": 26,
+    "updated_at": "2026-06-25T15:14:10Z",
+    "url": "https://github.com/shisa-ai/shisad"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-25T15:11:58Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Configure an AI digital employee in 25 minutes. Runs on YOUR Claude Code / Codex / Kimi / GLM CLI. Auto-installs into la",
+    "id": "Frank-Pu/commando",
+    "language": "Python",
+    "name": "Frank-Pu/commando",
+    "stars": 1,
+    "updated_at": "2026-06-25T15:11:44Z",
+    "url": "https://github.com/Frank-Pu/commando"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-25T15:10:21Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 169,
+    "updated_at": "2026-06-25T15:08:47Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\ud83e\udea2 Multi-Agent framework family for AI-powered product development \u2014 PM \u00b7 Design \u00b7 Engineering \u00b7 Growth \u00b7 Ops | \u9762\u5411 AI \u539f\u751f\u4ea7",
+    "id": "LuckyOneTwoThree/harness-all",
+    "language": "Shell",
+    "name": "LuckyOneTwoThree/harness-all",
+    "stars": 10,
+    "updated_at": "2026-06-25T15:06:30Z",
+    "url": "https://github.com/LuckyOneTwoThree/harness-all"
+  },
+  {
+    "description": "BAW (Black And White) \u2014 100% from-scratch AI agent platform with Angel/Devil adversarial court. Self-evolution, multi-mo",
+    "id": "cornreform/baw-agent-platform",
+    "language": "Python",
+    "name": "cornreform/baw-agent-platform",
+    "stars": 1,
+    "updated_at": "2026-06-25T15:02:03Z",
+    "url": "https://github.com/cornreform/baw-agent-platform"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-25T15:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
     "id": "s2mgtvodois2/postgresql-mcp-js",
     "language": "TypeScript",
@@ -14,26 +104,8 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 5,
-    "updated_at": "2026-06-25T14:52:23Z",
+    "updated_at": "2026-06-25T15:14:03Z",
     "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "BAW (Black And White) \u2014 100% from-scratch AI agent platform with Angel/Devil adversarial court. Self-evolution, multi-mo",
-    "id": "cornreform/baw-agent-platform",
-    "language": "Python",
-    "name": "cornreform/baw-agent-platform",
-    "stars": 1,
-    "updated_at": "2026-06-25T14:46:06Z",
-    "url": "https://github.com/cornreform/baw-agent-platform"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-25T14:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -49,18 +121,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 24607,
+    "stars": 24610,
     "updated_at": "2026-06-25T14:44:41Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-25T15:00:08Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -81,15 +144,6 @@
     "url": "https://github.com/lml2468/octobuddy"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4848,
-    "updated_at": "2026-06-25T14:53:27Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "",
     "id": "hara-cli/hara",
     "language": "TypeScript",
@@ -106,15 +160,6 @@
     "stars": 363,
     "updated_at": "2026-06-25T14:22:06Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-25T14:45:34Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -175,18 +220,9 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6277,
+    "stars": 6278,
     "updated_at": "2026-06-25T13:58:43Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Security-first AI agent daemon \u2014 the model proposes actions, the runtime decides what execute",
-    "id": "shisa-ai/shisad",
-    "language": "Python",
-    "name": "shisa-ai/shisad",
-    "stars": 26,
-    "updated_at": "2026-06-25T13:56:44Z",
-    "url": "https://github.com/shisa-ai/shisad"
   },
   {
     "description": "Phone local agent",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-25T13:16:26Z",
     "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-25T13:15:07Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-06-25T13:14:51Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-06-25T13:12:43Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-25T13:10:59Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
   }
 ]
