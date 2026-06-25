@@ -1,5 +1,50 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 24465,
+    "updated_at": "2026-06-25T03:55:17Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4753,
+    "updated_at": "2026-06-25T03:50:10Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Security-first AI agent daemon \u2014 the model proposes actions, the runtime decides what execute",
+    "id": "shisa-ai/shisad",
+    "language": "Python",
+    "name": "shisa-ai/shisad",
+    "stars": 26,
+    "updated_at": "2026-06-25T03:48:59Z",
+    "url": "https://github.com/shisa-ai/shisad"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4709,
+    "updated_at": "2026-06-25T03:48:38Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-25T03:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
     "id": "plaited/plaited",
     "language": "TypeScript",
@@ -7,15 +52,6 @@
     "stars": 9,
     "updated_at": "2026-06-25T03:43:13Z",
     "url": "https://github.com/plaited/plaited"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4748,
-    "updated_at": "2026-06-25T03:40:39Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "BAW (Black And White) \u2014 100% from-scratch AI agent platform with Angel/Devil adversarial court. Self-evolution, multi-mo",
@@ -43,33 +79,6 @@
     "stars": 2,
     "updated_at": "2026-06-25T03:31:10Z",
     "url": "https://github.com/zbbsdsb/Tension-Mining"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-25T03:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Security-first AI agent daemon \u2014 the model proposes actions, the runtime decides what execute",
-    "id": "shisa-ai/shisad",
-    "language": "Python",
-    "name": "shisa-ai/shisad",
-    "stars": 26,
-    "updated_at": "2026-06-25T03:22:40Z",
-    "url": "https://github.com/shisa-ai/shisad"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 24460,
-    "updated_at": "2026-06-25T03:19:28Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
@@ -158,7 +167,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-06-25T03:33:39Z",
+    "updated_at": "2026-06-25T03:59:58Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -367,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T02:51:24Z",
     "url": "https://github.com/tsingxuanhan/agent4science"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4709,
-    "updated_at": "2026-06-25T03:01:09Z",
-    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
