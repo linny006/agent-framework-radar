@@ -1,12 +1,48 @@
 [
   {
-    "description": "BAW (Black And White) \u2014 100% from-scratch AI agent platform with Angel/Devil adversarial court. Self-evolution, multi-mo",
-    "id": "cornreform/baw-agent-platform",
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-25T09:29:59Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "**AI-Perceivable Distributed Orchestration**  apflow is a distributed task orchestration engine where every capability i",
+    "id": "aiperceivable/apflow",
     "language": "Python",
-    "name": "cornreform/baw-agent-platform",
-    "stars": 1,
-    "updated_at": "2026-06-25T09:08:07Z",
-    "url": "https://github.com/cornreform/baw-agent-platform"
+    "name": "aiperceivable/apflow",
+    "stars": 8,
+    "updated_at": "2026-06-25T09:29:22Z",
+    "url": "https://github.com/aiperceivable/apflow"
+  },
+  {
+    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
+    "id": "lightfastai/lightfast",
+    "language": "TypeScript",
+    "name": "lightfastai/lightfast",
+    "stars": 2,
+    "updated_at": "2026-06-25T09:28:52Z",
+    "url": "https://github.com/lightfastai/lightfast"
+  },
+  {
+    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
+    "id": "WhitzardAgent/qitos",
+    "language": "Python",
+    "name": "WhitzardAgent/qitos",
+    "stars": 15,
+    "updated_at": "2026-06-25T09:27:02Z",
+    "url": "https://github.com/WhitzardAgent/qitos"
+  },
+  {
+    "description": "Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability,",
+    "id": "linora-u/AgentLoom",
+    "language": "Python",
+    "name": "linora-u/AgentLoom",
+    "stars": 88,
+    "updated_at": "2026-06-25T09:26:54Z",
+    "url": "https://github.com/linora-u/AgentLoom"
   },
   {
     "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 589,
-    "updated_at": "2026-06-25T09:07:59Z",
+    "updated_at": "2026-06-25T09:28:34Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
@@ -22,9 +58,63 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4798,
-    "updated_at": "2026-06-25T09:13:10Z",
+    "stars": 4800,
+    "updated_at": "2026-06-25T09:30:11Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "BAW (Black And White) \u2014 100% from-scratch AI agent platform with Angel/Devil adversarial court. Self-evolution, multi-mo",
+    "id": "cornreform/baw-agent-platform",
+    "language": "Python",
+    "name": "cornreform/baw-agent-platform",
+    "stars": 1,
+    "updated_at": "2026-06-25T09:21:54Z",
+    "url": "https://github.com/cornreform/baw-agent-platform"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-25T09:23:57Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 583,
+    "updated_at": "2026-06-25T09:21:02Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-06-25T09:20:21Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-25T09:19:57Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-25T09:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
@@ -43,15 +133,6 @@
     "stars": 9,
     "updated_at": "2026-06-25T09:02:38Z",
     "url": "https://github.com/LuckyOneTwoThree/harness-all"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-25T09:00:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -81,15 +162,6 @@
     "url": "https://github.com/bzcsk2/deepreef"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-25T09:13:36Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Tess \u2014 a multi-agent AI chief-of-staff & orchestration framework for Claude Code. Doctrine, agent roster, orchestrator l",
     "id": "XavierJ21/tess-starter",
     "language": "Python",
@@ -115,6 +187,15 @@
     "stars": 6,
     "updated_at": "2026-06-25T08:51:38Z",
     "url": "https://github.com/marcominerva/AgentBasicService"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11651,
+    "updated_at": "2026-06-25T08:51:19Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Agent IA + Workflow SDK en Python pur. Z\u00e9ro d\u00e9pendance externe. CLI ReAct avec tool calling, streaming, et chat. \ud83e\udda6",
@@ -160,24 +241,6 @@
     "stars": 5,
     "updated_at": "2026-06-25T08:47:46Z",
     "url": "https://github.com/the-long-ride/engram"
-  },
-  {
-    "description": "Lightfast is the operating system that runs your startup. Your tools, your agents, your entire operation \u2014 orchestrated ",
-    "id": "lightfastai/lightfast",
-    "language": "TypeScript",
-    "name": "lightfastai/lightfast",
-    "stars": 2,
-    "updated_at": "2026-06-25T08:41:02Z",
-    "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 583,
-    "updated_at": "2026-06-25T08:34:44Z",
-    "url": "https://github.com/framerslab/agentos"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -229,7 +292,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 24539,
+    "stars": 24544,
     "updated_at": "2026-06-25T08:18:39Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-25T08:06:11Z",
     "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-06-25T08:05:58Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-25T08:05:45Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-25T08:05:04Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-06-25T08:04:43Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-06-25T08:03:14Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4511,
-    "updated_at": "2026-06-25T08:02:12Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
-    "id": "Dkm0315/muster",
-    "language": "TypeScript",
-    "name": "Dkm0315/muster",
-    "stars": 3,
-    "updated_at": "2026-06-25T08:01:23Z",
-    "url": "https://github.com/Dkm0315/muster"
   }
 ]
