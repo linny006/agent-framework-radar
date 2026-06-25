@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-25T12:15:16Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-25T12:13:59Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4821,
+    "updated_at": "2026-06-25T12:15:16Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-25T12:10:23Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "AI engineering workspace infrastructure \u2014 18 agents, 46 skills, 28 quality gates. One-command bootstrap for large-scale ",
+    "id": "ninedeerhing/agent-workspace-infrastructure",
+    "language": "Python",
+    "name": "ninedeerhing/agent-workspace-infrastructure",
+    "stars": 0,
+    "updated_at": "2026-06-25T12:01:46Z",
+    "url": "https://github.com/ninedeerhing/agent-workspace-infrastructure"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-25T12:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 255,
+    "updated_at": "2026-06-25T12:07:56Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
     "description": "Production-grade AI agent orchestration \u2014 DAG context, self-evaluating pipelines, skill bundles with memory. Inspired by",
     "id": "zedarvates/ultra-pipeline-framework",
     "language": "Python",
@@ -18,15 +81,6 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4820,
-    "updated_at": "2026-06-25T11:54:04Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 11657,
     "updated_at": "2026-06-25T11:47:02Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-25T11:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An agent runtime.",
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-25T11:16:33Z",
+    "updated_at": "2026-06-25T12:08:26Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T10:51:41Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-06-25T10:51:27Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 10,
-    "updated_at": "2026-06-25T10:51:19Z",
-    "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "Turn any skill into a standalone, runnable AI Agent",
-    "id": "agenthatch/agenthatch",
-    "language": "Python",
-    "name": "agenthatch/agenthatch",
-    "stars": 46,
-    "updated_at": "2026-06-25T10:50:34Z",
-    "url": "https://github.com/agenthatch/agenthatch"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-06-25T10:49:46Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 2,
-    "updated_at": "2026-06-25T10:49:31Z",
-    "url": "https://github.com/qmilab/asterism"
   }
 ]
