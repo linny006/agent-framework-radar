@@ -1,21 +1,12 @@
 [
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4844,
-    "updated_at": "2026-06-25T14:27:19Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (octobuddy-daemon) drives coding-agent CLIs \u2014 Claude first \u2014 into one",
-    "id": "lml2468/octobuddy",
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
-    "name": "lml2468/octobuddy",
-    "stars": 2,
-    "updated_at": "2026-06-25T14:23:37Z",
-    "url": "https://github.com/lml2468/octobuddy"
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 24606,
+    "updated_at": "2026-06-25T14:44:41Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -23,8 +14,53 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-25T14:23:08Z",
+    "updated_at": "2026-06-25T14:42:25Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-25T14:35:39Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (octobuddy-daemon) drives coding-agent CLIs \u2014 Claude first \u2014 into one",
+    "id": "lml2468/octobuddy",
+    "language": "Go",
+    "name": "lml2468/octobuddy",
+    "stars": 2,
+    "updated_at": "2026-06-25T14:36:04Z",
+    "url": "https://github.com/lml2468/octobuddy"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4848,
+    "updated_at": "2026-06-25T14:41:45Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 0,
+    "updated_at": "2026-06-25T14:34:17Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-25T14:30:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
@@ -50,17 +86,8 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-25T14:21:04Z",
+    "updated_at": "2026-06-25T14:36:06Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-25T14:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11661,
-    "updated_at": "2026-06-25T14:06:16Z",
+    "updated_at": "2026-06-25T14:45:05Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -104,7 +131,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 34,
-    "updated_at": "2026-06-25T14:29:01Z",
+    "updated_at": "2026-06-25T14:36:43Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 257,
-    "updated_at": "2026-06-25T14:01:32Z",
+    "updated_at": "2026-06-25T14:32:27Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -153,15 +180,6 @@
     "url": "https://github.com/HaohanHe/Opedrgent"
   },
   {
-    "description": "",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 0,
-    "updated_at": "2026-06-25T13:46:31Z",
-    "url": "https://github.com/hara-cli/hara"
-  },
-  {
     "description": "Open-source terminal AI coding-agent harness for studying agent loops, tools, MCP, skills, safety, and persistence.",
     "id": "MohitGoyal09/AgentForge",
     "language": "Python",
@@ -178,15 +196,6 @@
     "stars": 550,
     "updated_at": "2026-06-25T13:42:24Z",
     "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 24602,
-    "updated_at": "2026-06-25T13:42:18Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-25T13:08:57Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-06-25T13:08:49Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
