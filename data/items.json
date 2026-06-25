@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
+    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
+    "id": "cuteecarrot/AgentHub",
     "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-25T09:57:46Z",
-    "url": "https://github.com/tya5/reyn"
+    "name": "cuteecarrot/AgentHub",
+    "stars": 4,
+    "updated_at": "2026-06-25T10:13:54Z",
+    "url": "https://github.com/cuteecarrot/AgentHub"
   },
   {
     "description": "BAW (Black And White) \u2014 100% from-scratch AI agent platform with Angel/Devil adversarial court. Self-evolution, multi-mo",
@@ -14,17 +14,71 @@
     "language": "Python",
     "name": "cornreform/baw-agent-platform",
     "stars": 1,
-    "updated_at": "2026-06-25T10:00:14Z",
+    "updated_at": "2026-06-25T10:12:19Z",
     "url": "https://github.com/cornreform/baw-agent-platform"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-06-25T10:10:36Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 4806,
-    "updated_at": "2026-06-25T09:57:20Z",
+    "stars": 4810,
+    "updated_at": "2026-06-25T10:09:23Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-06-25T10:08:46Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 24557,
+    "updated_at": "2026-06-25T10:05:11Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-06-25T10:03:35Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-06-25T10:03:06Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-25T10:00:51Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
     "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
@@ -32,8 +86,35 @@
     "language": "TypeScript",
     "name": "Dkm0315/muster",
     "stars": 3,
-    "updated_at": "2026-06-25T09:57:14Z",
+    "updated_at": "2026-06-25T10:00:46Z",
     "url": "https://github.com/Dkm0315/muster"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-25T10:00:44Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-25T10:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-25T10:13:39Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 589,
-    "updated_at": "2026-06-25T09:50:41Z",
+    "updated_at": "2026-06-25T10:09:45Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
@@ -67,27 +148,9 @@
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
-    "stars": 30,
+    "stars": 31,
     "updated_at": "2026-06-25T09:46:01Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 24553,
-    "updated_at": "2026-06-25T09:45:54Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-25T09:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -97,6 +160,15 @@
     "stars": 1059,
     "updated_at": "2026-06-25T09:45:05Z",
     "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11652,
+    "updated_at": "2026-06-25T09:40:07Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "A portable, instance-agnostic framework for building, coordinating, and running AI agents.",
@@ -193,7 +265,7 @@
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
-    "stars": 1401,
+    "stars": 1402,
     "updated_at": "2026-06-25T09:05:11Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
@@ -261,15 +333,6 @@
     "url": "https://github.com/marcominerva/AgentBasicService"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11651,
-    "updated_at": "2026-06-25T09:40:07Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Agent IA + Workflow SDK en Python pur. Z\u00e9ro d\u00e9pendance externe. CLI ReAct avec tool calling, streaming, et chat. \ud83e\udda6",
     "id": "Tahsine/zeroagent",
     "language": "Python",
@@ -320,7 +383,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 68,
-    "updated_at": "2026-06-25T09:40:29Z",
+    "updated_at": "2026-06-25T10:03:17Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -329,7 +392,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 190,
-    "updated_at": "2026-06-25T08:32:30Z",
+    "updated_at": "2026-06-25T10:07:11Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T08:16:10Z",
     "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-06-25T08:15:57Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-25T08:14:24Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-06-25T08:13:44Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Open-source Agent Operating System",
-    "id": "RightNow-AI/openfang",
-    "language": "Rust",
-    "name": "RightNow-AI/openfang",
-    "stars": 17910,
-    "updated_at": "2026-06-25T08:13:28Z",
-    "url": "https://github.com/RightNow-AI/openfang"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-06-25T08:11:24Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-25T08:11:12Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 169,
-    "updated_at": "2026-06-25T08:11:01Z",
-    "url": "https://github.com/cortexkit/aft"
   }
 ]
