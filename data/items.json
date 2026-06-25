@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-25T20:43:34Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "CAST: Local-first orchestration framework for Claude Code. Implements hook-driven dispatch, isolated agent memory, and d",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 5,
+    "updated_at": "2026-06-25T20:43:14Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 9,
+    "updated_at": "2026-06-25T20:42:27Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 169,
+    "updated_at": "2026-06-25T20:42:26Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4517,
+    "updated_at": "2026-06-25T20:43:24Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "The local-first Agentic Knowledge OS - CLI-first, self-improving, measured. Turn intentions into traceable, auditable, r",
+    "id": "GeekFamilyCorp/TricorderKit",
+    "language": "Python",
+    "name": "GeekFamilyCorp/TricorderKit",
+    "stars": 4,
+    "updated_at": "2026-06-25T20:40:28Z",
+    "url": "https://github.com/GeekFamilyCorp/TricorderKit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-25T20:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones",
     "id": "ellmos-ai/clutch",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6281,
-    "updated_at": "2026-06-25T20:29:36Z",
+    "updated_at": "2026-06-25T20:34:21Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -25,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T20:28:47Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-25T20:28:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 9,
-    "updated_at": "2026-06-25T20:27:36Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11664,
-    "updated_at": "2026-06-25T20:26:49Z",
+    "updated_at": "2026-06-25T20:44:28Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 5,
-    "updated_at": "2026-06-25T20:25:37Z",
+    "updated_at": "2026-06-25T20:31:55Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -90,21 +135,12 @@
     "url": "https://github.com/amitpatole/verel"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 169,
-    "updated_at": "2026-06-25T20:19:59Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 4893,
-    "updated_at": "2026-06-25T20:27:23Z",
+    "updated_at": "2026-06-25T20:43:15Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-06-25T20:17:11Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "The local-first Agentic Knowledge OS - CLI-first, self-improving, measured. Turn intentions into traceable, auditable, r",
-    "id": "GeekFamilyCorp/TricorderKit",
-    "language": "Python",
-    "name": "GeekFamilyCorp/TricorderKit",
-    "stars": 4,
-    "updated_at": "2026-06-25T20:13:00Z",
-    "url": "https://github.com/GeekFamilyCorp/TricorderKit"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -139,7 +166,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18001,
+    "stars": 18002,
     "updated_at": "2026-06-25T20:09:34Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -193,7 +220,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 24656,
+    "stars": 24657,
     "updated_at": "2026-06-25T19:47:19Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -268,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T19:00:28Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4517,
-    "updated_at": "2026-06-25T20:27:58Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-25T18:50:03Z",
     "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-06-25T18:50:02Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-25T18:49:47Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
   }
 ]
