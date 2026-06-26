@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open-source, self-hosted AI agent runtime and TUI in a single Go binary (Linux/macOS/Windows). Run interactive sessions ",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 0,
+    "updated_at": "2026-06-26T22:30:13Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-26T22:29:51Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 68,
+    "updated_at": "2026-06-26T22:26:55Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
+    "id": "amitpatole/verel",
+    "language": "Python",
+    "name": "amitpatole/verel",
+    "stars": 0,
+    "updated_at": "2026-06-26T22:22:51Z",
+    "url": "https://github.com/amitpatole/verel"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-26T22:15:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
     "id": "motojinc25/chatwalaau",
     "language": "Python",
@@ -32,17 +77,8 @@
     "language": "TypeScript",
     "name": "CorvidLabs/agent-3md",
     "stars": 1,
-    "updated_at": "2026-06-26T22:01:39Z",
+    "updated_at": "2026-06-26T22:30:00Z",
     "url": "https://github.com/CorvidLabs/agent-3md"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-26T22:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 5002,
-    "updated_at": "2026-06-26T21:59:06Z",
+    "updated_at": "2026-06-26T22:18:51Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11694,
-    "updated_at": "2026-06-26T21:45:22Z",
+    "updated_at": "2026-06-26T22:29:52Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -171,15 +207,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
-    "id": "raineislam/mcp-framework",
-    "language": "Python",
-    "name": "raineislam/mcp-framework",
-    "stars": 0,
-    "updated_at": "2026-06-26T21:25:35Z",
-    "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -216,24 +243,6 @@
     "url": "https://github.com/ishoplus/xitto-kernel"
   },
   {
-    "description": "Open-source, self-hosted AI agent runtime and TUI in a single Go binary (Linux/macOS/Windows). Run interactive sessions ",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 0,
-    "updated_at": "2026-06-26T22:12:22Z",
-    "url": "https://github.com/ionalpha/flynn"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 68,
-    "updated_at": "2026-06-26T22:10:26Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Turn any LLM into a local PC-controlling agent",
     "id": "agustinvillegas/AgentFrame",
     "language": "Python",
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 8,
-    "updated_at": "2026-06-26T22:04:25Z",
+    "updated_at": "2026-06-26T22:19:17Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -319,7 +328,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 24935,
+    "stars": 24937,
     "updated_at": "2026-06-26T19:58:38Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-26T19:15:16Z",
     "url": "https://github.com/InitialDBklyn/consolidation-memory"
-  },
-  {
-    "description": "Define a clear methodology to build, test, and deploy AI agent software with rigorous engineering standards.",
-    "id": "Maroo1121/Agent-Driven-Development",
-    "language": "Shell",
-    "name": "Maroo1121/Agent-Driven-Development",
-    "stars": 1,
-    "updated_at": "2026-06-26T19:13:15Z",
-    "url": "https://github.com/Maroo1121/Agent-Driven-Development"
   }
 ]
