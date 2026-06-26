@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 9,
+    "updated_at": "2026-06-26T01:14:47Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "Security-first AI agent daemon \u2014 the model proposes actions, the runtime decides what execute",
+    "id": "shisa-ai/shisad",
+    "language": "Python",
+    "name": "shisa-ai/shisad",
+    "stars": 26,
+    "updated_at": "2026-06-26T01:14:23Z",
+    "url": "https://github.com/shisa-ai/shisad"
+  },
+  {
+    "description": "Standardized AI Looping Language",
+    "id": "HorizonBrute/Standardized_AI_Looping_Language-SAILL",
+    "language": "Python",
+    "name": "HorizonBrute/Standardized_AI_Looping_Language-SAILL",
+    "stars": 1,
+    "updated_at": "2026-06-26T01:12:38Z",
+    "url": "https://github.com/HorizonBrute/Standardized_AI_Looping_Language-SAILL"
+  },
+  {
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
+    "language": "Python",
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 19,
+    "updated_at": "2026-06-26T01:11:49Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-06-26T01:04:52Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-26T01:00:33Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-26T01:00:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
     "id": "lucasmailland/orchester",
     "language": "TypeScript",
@@ -36,15 +99,6 @@
     "url": "https://github.com/Morgan-C-CV/Morgo"
   },
   {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 9,
-    "updated_at": "2026-06-26T00:52:32Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
     "description": "A portable, instance-agnostic framework for building, coordinating, and running AI agents.",
     "id": "apexradius/agentic-os",
     "language": "TypeScript",
@@ -54,40 +108,13 @@
     "url": "https://github.com/apexradius/agentic-os"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-26T00:45:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 4907,
-    "updated_at": "2026-06-26T00:51:54Z",
+    "updated_at": "2026-06-26T01:12:01Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 19,
-    "updated_at": "2026-06-26T00:51:01Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "Standardized AI Looping Language",
-    "id": "HorizonBrute/Standardized_AI_Looping_Language-SAILL",
-    "language": "Python",
-    "name": "HorizonBrute/Standardized_AI_Looping_Language-SAILL",
-    "stars": 0,
-    "updated_at": "2026-06-26T00:48:36Z",
-    "url": "https://github.com/HorizonBrute/Standardized_AI_Looping_Language-SAILL"
   },
   {
     "description": "A CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs \u2014 every promotion passes through a human appro",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11667,
-    "updated_at": "2026-06-26T00:55:32Z",
+    "updated_at": "2026-06-26T01:11:52Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 6437,
     "updated_at": "2026-06-26T00:11:31Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-26T00:55:32Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-25T23:55:17Z",
     "url": "https://github.com/lightfastai/lightfast"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-06-25T23:54:45Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 1,
-    "updated_at": "2026-06-25T23:53:04Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
   }
 ]
