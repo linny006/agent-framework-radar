@@ -1,5 +1,32 @@
 [
   {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 103,
+    "updated_at": "2026-06-26T07:30:16Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4937,
+    "updated_at": "2026-06-26T07:29:54Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-26T07:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
     "id": "manishiitg/mcp-agent-builder-go",
     "language": "Go",
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T07:09:50Z",
     "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4936,
-    "updated_at": "2026-06-26T07:14:40Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
@@ -52,15 +70,6 @@
     "stars": 8,
     "updated_at": "2026-06-26T07:03:06Z",
     "url": "https://github.com/aiperceivable/apflow"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-26T07:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "rllm-org/rllm",
     "stars": 5651,
-    "updated_at": "2026-06-26T06:17:14Z",
+    "updated_at": "2026-06-26T07:28:00Z",
     "url": "https://github.com/rllm-org/rllm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-26T05:13:19Z",
     "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "A high-performance, developer-centric agentic runtime built in Rust.",
-    "id": "Morgan-C-CV/Morgo",
-    "language": "Rust",
-    "name": "Morgan-C-CV/Morgo",
-    "stars": 1,
-    "updated_at": "2026-06-26T05:12:48Z",
-    "url": "https://github.com/Morgan-C-CV/Morgo"
   }
 ]
