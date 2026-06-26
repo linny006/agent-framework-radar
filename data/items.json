@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agent SDK, CLI, RPC in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-06-26T07:59:57Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4942,
+    "updated_at": "2026-06-26T08:00:13Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-26T07:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udea2 Multi-Agent framework family for AI-powered product development \u2014 PM \u00b7 Design \u00b7 Engineering \u00b7 Growth \u00b7 Ops | \u9762\u5411 AI \u539f\u751f\u4ea7",
     "id": "LuckyOneTwoThree/harness-all",
     "language": "Shell",
@@ -36,15 +63,6 @@
     "url": "https://github.com/akyourowngames/friday"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4941,
-    "updated_at": "2026-06-26T07:43:18Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
     "id": "ag2ai/ag2",
     "language": "Python",
@@ -70,15 +88,6 @@
     "stars": 24,
     "updated_at": "2026-06-26T07:37:01Z",
     "url": "https://github.com/lua-ai-global/governance"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-26T07:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
@@ -151,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T06:59:02Z",
     "url": "https://github.com/jkraybill/gordo-roundtable"
-  },
-  {
-    "description": "Agent SDK, CLI, RPC in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 6,
-    "updated_at": "2026-06-26T06:58:30Z",
-    "url": "https://github.com/Wh1isper/starweaver"
   },
   {
     "description": "Agentic AI Security & Multi Agent Management: Agent Agnostic Platform. Offers Protection against Prompt Injection via Gr",
@@ -247,7 +247,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18008,
+    "stars": 18009,
     "updated_at": "2026-06-26T06:29:09Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -346,7 +346,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 3602,
+    "stars": 3603,
     "updated_at": "2026-06-26T06:00:18Z",
     "url": "https://github.com/iflytek/skillhub"
   },
