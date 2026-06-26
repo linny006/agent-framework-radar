@@ -1,5 +1,113 @@
 [
   {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1233,
+    "updated_at": "2026-06-26T18:59:27Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 24926,
+    "updated_at": "2026-06-26T18:59:22Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-26T18:59:20Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Lemmings clone demonstrating F# message-passing MailboxProcessors",
+    "id": "Thorium/FsLemming",
+    "language": "F#",
+    "name": "Thorium/FsLemming",
+    "stars": 0,
+    "updated_at": "2026-06-26T18:57:23Z",
+    "url": "https://github.com/Thorium/FsLemming"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
+    "id": "cuteecarrot/AgentHub",
+    "language": "Python",
+    "name": "cuteecarrot/AgentHub",
+    "stars": 4,
+    "updated_at": "2026-06-26T18:57:17Z",
+    "url": "https://github.com/cuteecarrot/AgentHub"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-06-26T18:54:06Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
+    "id": "ahwurm/localharness",
+    "language": "Python",
+    "name": "ahwurm/localharness",
+    "stars": 6,
+    "updated_at": "2026-06-26T18:53:51Z",
+    "url": "https://github.com/ahwurm/localharness"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4988,
+    "updated_at": "2026-06-26T18:52:12Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-06-26T18:52:08Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "\u9818\u57df\u7121\u95dc\u7684 agent \u5e95\u5ea7\uff08kernel + \u53ef\u63d2\u62d4 DomainPack\uff09\uff1a\u540c\u4e00 kernel \u8dd1\u4e0d\u540c\u9818\u57df agent\uff0c\u542b\u771f\u5be6 LLM \u591a\u6b65\u5faa\u74b0\u8207 macOS Seatbelt \u6c99\u7bb1",
+    "id": "ishoplus/xitto-kernel",
+    "language": "JavaScript",
+    "name": "ishoplus/xitto-kernel",
+    "stars": 0,
+    "updated_at": "2026-06-26T18:50:03Z",
+    "url": "https://github.com/ishoplus/xitto-kernel"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 0,
+    "updated_at": "2026-06-26T18:58:19Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-26T18:49:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -34,24 +142,6 @@
     "stars": 12,
     "updated_at": "2026-06-26T18:46:08Z",
     "url": "https://github.com/LuckyOneTwoThree/harness-all"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-26T18:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 24926,
-    "updated_at": "2026-06-26T18:42:52Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
@@ -90,21 +180,12 @@
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
-    "description": "\u9818\u57df\u7121\u95dc\u7684 agent \u5e95\u5ea7\uff08kernel + \u53ef\u63d2\u62d4 DomainPack\uff09\uff1a\u540c\u4e00 kernel \u8dd1\u4e0d\u540c\u9818\u57df agent\uff0c\u542b\u771f\u5be6 LLM \u591a\u6b65\u5faa\u74b0\u8207 macOS Seatbelt \u6c99\u7bb1",
-    "id": "ishoplus/xitto-kernel",
-    "language": "JavaScript",
-    "name": "ishoplus/xitto-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-26T18:36:12Z",
-    "url": "https://github.com/ishoplus/xitto-kernel"
-  },
-  {
     "description": "Open-source, self-hosted AI agent runtime and TUI in a single Go binary (Linux/macOS/Windows). Run interactive sessions ",
     "id": "ionalpha/flynn",
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 0,
-    "updated_at": "2026-06-26T18:34:44Z",
+    "updated_at": "2026-06-26T18:56:29Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -117,22 +198,13 @@
     "url": "https://github.com/kdcube/kdcube-ai-app"
   },
   {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 0,
-    "updated_at": "2026-06-26T18:32:43Z",
-    "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1233,
-    "updated_at": "2026-06-26T18:45:50Z",
-    "url": "https://github.com/inkeep/agents"
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11694,
+    "updated_at": "2026-06-26T19:00:07Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
@@ -169,15 +241,6 @@
     "stars": 4,
     "updated_at": "2026-06-26T18:28:46Z",
     "url": "https://github.com/EngineerProjects/seshat"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4987,
-    "updated_at": "2026-06-26T18:39:12Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -369,15 +432,6 @@
     "url": "https://github.com/A1m1ng777888/super-brain"
   },
   {
-    "description": "Lemmings clone demonstrating F# message-passing MailboxProcessors",
-    "id": "Thorium/FsLemming",
-    "language": "F#",
-    "name": "Thorium/FsLemming",
-    "stars": 0,
-    "updated_at": "2026-06-26T17:43:23Z",
-    "url": "https://github.com/Thorium/FsLemming"
-  },
-  {
     "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
     "id": "Jovancoding/Network-AI",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-26T17:40:55Z",
     "url": "https://github.com/3rdAI-admin/th3rdai-harness"
-  },
-  {
-    "description": "An open-source AI Agent platform for creating, managing, running, and integrating AI agents into external systems.",
-    "id": "hueidou/x-agent",
-    "language": "TypeScript",
-    "name": "hueidou/x-agent",
-    "stars": 0,
-    "updated_at": "2026-06-26T17:35:17Z",
-    "url": "https://github.com/hueidou/x-agent"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-06-26T17:34:57Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "White-box, task-centric multi-agent AI platform for business ops, sysadmin, research & office automation \u2014 every reasoni",
-    "id": "sievepub-2000/octoagent",
-    "language": "Python",
-    "name": "sievepub-2000/octoagent",
-    "stars": 0,
-    "updated_at": "2026-06-26T17:33:44Z",
-    "url": "https://github.com/sievepub-2000/octoagent"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11693,
-    "updated_at": "2026-06-26T18:31:03Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
-    "id": "firatcand/roster",
-    "language": "TypeScript",
-    "name": "firatcand/roster",
-    "stars": 13,
-    "updated_at": "2026-06-26T17:32:54Z",
-    "url": "https://github.com/firatcand/roster"
-  },
-  {
-    "description": "Tess \u2014 a multi-agent AI chief-of-staff & orchestration framework for Claude Code. Doctrine, agent roster, orchestrator l",
-    "id": "twiss-io/tess-starter",
-    "language": "Python",
-    "name": "twiss-io/tess-starter",
-    "stars": 0,
-    "updated_at": "2026-06-26T17:32:28Z",
-    "url": "https://github.com/twiss-io/tess-starter"
   }
 ]
