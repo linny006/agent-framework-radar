@@ -1,5 +1,86 @@
 [
   {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 9,
+    "updated_at": "2026-06-26T06:43:21Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-26T06:41:52Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for autoresearch. Works w",
+    "id": "Human-Agent-Society/CORAL",
+    "language": "Python",
+    "name": "Human-Agent-Society/CORAL",
+    "stars": 754,
+    "updated_at": "2026-06-26T06:40:13Z",
+    "url": "https://github.com/Human-Agent-Society/CORAL"
+  },
+  {
+    "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
+    "id": "w8123/EnterpriseAgentFramework",
+    "language": "Java",
+    "name": "w8123/EnterpriseAgentFramework",
+    "stars": 337,
+    "updated_at": "2026-06-26T06:40:05Z",
+    "url": "https://github.com/w8123/EnterpriseAgentFramework"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4935,
+    "updated_at": "2026-06-26T06:44:04Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
+    "id": "plaited/plaited",
+    "language": "TypeScript",
+    "name": "plaited/plaited",
+    "stars": 9,
+    "updated_at": "2026-06-26T06:36:09Z",
+    "url": "https://github.com/plaited/plaited"
+  },
+  {
+    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
+    "id": "rapidaai/voice-ai",
+    "language": "Go",
+    "name": "rapidaai/voice-ai",
+    "stars": 679,
+    "updated_at": "2026-06-26T06:34:09Z",
+    "url": "https://github.com/rapidaai/voice-ai"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 170,
+    "updated_at": "2026-06-26T06:32:00Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-26T06:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -18,15 +99,6 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 4935,
-    "updated_at": "2026-06-26T06:30:02Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
     "id": "motojinc25/chatwalaau",
     "language": "Python",
@@ -43,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-06-26T06:26:03Z",
     "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 9,
-    "updated_at": "2026-06-26T06:21:20Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
     "description": "Boltrope \u2014 event-sourced AI agent harness in Go + PostgreSQL: durable session log, multi-LLM gateway (Anthropic/Gemini/O",
@@ -76,7 +139,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1079,
+    "stars": 1080,
     "updated_at": "2026-06-26T06:17:21Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -88,15 +151,6 @@
     "stars": 5650,
     "updated_at": "2026-06-26T06:17:14Z",
     "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-26T06:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible;",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "agentlas-ai/Hephaestus",
     "stars": 89,
-    "updated_at": "2026-06-26T06:06:29Z",
+    "updated_at": "2026-06-26T06:34:42Z",
     "url": "https://github.com/agentlas-ai/Hephaestus"
   },
   {
@@ -130,7 +184,7 @@
     "id": "LuckyOneTwoThree/harness-all",
     "language": "Shell",
     "name": "LuckyOneTwoThree/harness-all",
-    "stars": 11,
+    "stars": 12,
     "updated_at": "2026-06-26T06:02:09Z",
     "url": "https://github.com/LuckyOneTwoThree/harness-all"
   },
@@ -151,15 +205,6 @@
     "stars": 3602,
     "updated_at": "2026-06-26T06:00:18Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
-    "id": "w8123/EnterpriseAgentFramework",
-    "language": "Java",
-    "name": "w8123/EnterpriseAgentFramework",
-    "stars": 337,
-    "updated_at": "2026-06-26T06:00:12Z",
-    "url": "https://github.com/w8123/EnterpriseAgentFramework"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -232,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T05:19:16Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for autoresearch. Works w",
-    "id": "Human-Agent-Society/CORAL",
-    "language": "Python",
-    "name": "Human-Agent-Society/CORAL",
-    "stars": 754,
-    "updated_at": "2026-06-26T06:19:32Z",
-    "url": "https://github.com/Human-Agent-Society/CORAL"
   },
   {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
@@ -401,7 +437,7 @@
     "language": "TypeScript",
     "name": "clawboo/clawboo",
     "stars": 16,
-    "updated_at": "2026-06-26T05:06:58Z",
+    "updated_at": "2026-06-26T06:45:12Z",
     "url": "https://github.com/clawboo/clawboo"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-26T05:06:33Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 68,
-    "updated_at": "2026-06-26T05:05:32Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-06-26T05:04:29Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-26T05:04:14Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-06-26T05:03:36Z",
-    "url": "https://github.com/Messa8301/quickbench"
   }
 ]
