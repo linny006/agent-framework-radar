@@ -1,5 +1,95 @@
 [
   {
+    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14405,
+    "updated_at": "2026-06-27T10:14:29Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-06-27T10:14:08Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Production-grade AI agent orchestration \u2014 DAG context, self-evaluating pipelines, skill bundles with memory. Inspired by",
+    "id": "zedarvates/ultra-pipeline-framework",
+    "language": "Python",
+    "name": "zedarvates/ultra-pipeline-framework",
+    "stars": 3,
+    "updated_at": "2026-06-27T10:12:29Z",
+    "url": "https://github.com/zedarvates/ultra-pipeline-framework"
+  },
+  {
+    "description": "A lightweight foundation for shipping specialized AI agents fast.",
+    "id": "ysz7/genesis-agent",
+    "language": "Python",
+    "name": "ysz7/genesis-agent",
+    "stars": 1,
+    "updated_at": "2026-06-27T10:12:03Z",
+    "url": "https://github.com/ysz7/genesis-agent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-27T10:10:47Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-27T10:09:20Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
+    "id": "neural-agi/Qwen3-Coder-Next",
+    "language": "Python",
+    "name": "neural-agi/Qwen3-Coder-Next",
+    "stars": 0,
+    "updated_at": "2026-06-27T10:04:26Z",
+    "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1099,
+    "updated_at": "2026-06-27T10:02:01Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Open-source terminal AI coding-agent harness for studying agent loops, tools, MCP, skills, safety, and persistence.",
+    "id": "MohitGoyal09/AgentForge",
+    "language": "Python",
+    "name": "MohitGoyal09/AgentForge",
+    "stars": 52,
+    "updated_at": "2026-06-27T10:01:46Z",
+    "url": "https://github.com/MohitGoyal09/AgentForge"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-27T10:00:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -27,33 +117,6 @@
     "url": "https://github.com/Dkm0315/muster"
   },
   {
-    "description": "Open-source terminal AI coding-agent harness for studying agent loops, tools, MCP, skills, safety, and persistence.",
-    "id": "MohitGoyal09/AgentForge",
-    "language": "Python",
-    "name": "MohitGoyal09/AgentForge",
-    "stars": 52,
-    "updated_at": "2026-06-27T10:00:12Z",
-    "url": "https://github.com/MohitGoyal09/AgentForge"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-27T09:49:44Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-27T10:00:12Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "An open Pal Pack standard for building lightweight Pal teams \u2014 portable companions that package persona, knowledge, skil",
     "id": "AgentPal/AgentPal",
     "language": "\u2014",
@@ -70,15 +133,6 @@
     "stars": 73,
     "updated_at": "2026-06-27T09:48:30Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-06-27T09:49:38Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
@@ -106,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-06-27T09:38:34Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1099,
-    "updated_at": "2026-06-27T09:38:20Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
@@ -207,20 +252,20 @@
     "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
-    "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
-    "id": "neural-agi/Qwen3-Coder-Next",
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
     "language": "Python",
-    "name": "neural-agi/Qwen3-Coder-Next",
-    "stars": 0,
-    "updated_at": "2026-06-27T08:59:23Z",
-    "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 598,
+    "updated_at": "2026-06-27T09:00:09Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25046,
+    "stars": 25051,
     "updated_at": "2026-06-27T08:58:38Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -241,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-06-27T08:48:07Z",
     "url": "https://github.com/rogerchappel/crewcmd"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14405,
-    "updated_at": "2026-06-27T09:21:17Z",
-    "url": "https://github.com/eigent-ai/eigent"
   },
   {
     "description": "\u4e00\u4e2a\u8f7b\u91cf\u7ea7\u4e2a\u4eba\u52a9\u624bagent\u6846\u67b6\uff0c\u7528\u4e8e\u5b66\u4e60\u4e0e\u5b9e\u8df5\u4e2a\u4ebaagent\u52a9\u624b\u67b6\u6784\u8bbe\u8ba1\uff0c\u57fa\u4e8eReAct\u67b6\u6784\uff0c\u7531\u4e2d\u95f4\u8def\u7531\u5c42\u8fde\u63a5\u5ba2\u6237\u7aef\u4e0e\u5e95\u5c42\u7ec4\u4ef6\uff0c\u5b9e\u73b0\u4e86\u591a\u6a21\u578b\u9002\u914d\u3001\u591a\u5e73\u53f0\u9002\u914d\u548c\u4f1a\u8bdd\u7ba1\u7406\u3002 \u6bcf\u9636\u6bb5\u7684\u5f00\u53d1\u8def\u7ebf\u3001\u5f00\u53d1\u65e5\u5fd7\u3001\u4ee3\u7801\u5ba1\u67e5\u8bb0\u5f55\u90fd\u5728\u6587\u6863\u4e2d\uff0c\u65b9\u4fbf\u5b66\u4e60\u4e0e\u4e86\u89e3\u6574",
@@ -355,7 +391,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18022,
+    "stars": 18023,
     "updated_at": "2026-06-27T07:49:48Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -367,15 +403,6 @@
     "stars": 48,
     "updated_at": "2026-06-27T07:44:35Z",
     "url": "https://github.com/agenthatch/agenthatch"
-  },
-  {
-    "description": "A lightweight foundation for shipping specialized AI agents fast.",
-    "id": "ysz7/genesis-agent",
-    "language": "Python",
-    "name": "ysz7/genesis-agent",
-    "stars": 1,
-    "updated_at": "2026-06-27T07:42:22Z",
-    "url": "https://github.com/ysz7/genesis-agent"
   },
   {
     "description": "Security-first AI agent orchestration platform with local LLM support, tool approvals, sandboxing, prompt-injection defe",
@@ -421,32 +448,5 @@
     "stars": 13,
     "updated_at": "2026-06-27T07:22:32Z",
     "url": "https://github.com/firatcand/roster"
-  },
-  {
-    "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
-    "id": "Asceticrefractoryperiod28/Foundry",
-    "language": "TypeScript",
-    "name": "Asceticrefractoryperiod28/Foundry",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:20:41Z",
-    "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-06-27T07:31:06Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
-    "id": "achappey/aihappey-agents",
-    "language": "C#",
-    "name": "achappey/aihappey-agents",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:18:58Z",
-    "url": "https://github.com/achappey/aihappey-agents"
   }
 ]
