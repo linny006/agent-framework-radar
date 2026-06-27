@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udd16 Build AI agents with Go featuring multi-agent orchestration, planning, tool use, and support for Gemini, OpenAI, Anthr",
+    "id": "Luiz184/gokin-sdk",
+    "language": "Go",
+    "name": "Luiz184/gokin-sdk",
+    "stars": 2,
+    "updated_at": "2026-06-27T11:29:38Z",
+    "url": "https://github.com/Luiz184/gokin-sdk"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1099,
+    "updated_at": "2026-06-27T11:29:34Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
+    "id": "tareksyria/SREAgents",
+    "language": "JavaScript",
+    "name": "tareksyria/SREAgents",
+    "stars": 2,
+    "updated_at": "2026-06-27T11:26:47Z",
+    "url": "https://github.com/tareksyria/SREAgents"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-06-27T11:26:36Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
+    "id": "neural-agi/Qwen3-Coder-Next",
+    "language": "Python",
+    "name": "neural-agi/Qwen3-Coder-Next",
+    "stars": 0,
+    "updated_at": "2026-06-27T11:25:56Z",
+    "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
+  },
+  {
+    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
+    "id": "RONIN511/alphora",
+    "language": "Python",
+    "name": "RONIN511/alphora",
+    "stars": 2,
+    "updated_at": "2026-06-27T11:23:53Z",
+    "url": "https://github.com/RONIN511/alphora"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-27T11:23:16Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udcc4 Generate static question banks easily with Python and JSON for fast, SEO-friendly websites hosted on GitHub Pages.",
     "id": "punkxuxu/bank_soal",
     "language": "Python",
@@ -36,15 +99,6 @@
     "url": "https://github.com/cuteecarrot/AgentHub"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-27T11:15:35Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T11:13:29Z",
     "url": "https://github.com/kaydenplayZ/agent-skills-guide"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1099,
-    "updated_at": "2026-06-27T11:12:17Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-27T11:13:15Z",
+    "updated_at": "2026-06-27T11:29:07Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-06-27T11:18:18Z",
+    "updated_at": "2026-06-27T11:29:10Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -270,6 +315,15 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
+    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14404,
+    "updated_at": "2026-06-27T10:16:01Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
     "description": "Production-grade AI agent orchestration \u2014 DAG context, self-evaluating pipelines, skill bundles with memory. Inspired by",
     "id": "zedarvates/ultra-pipeline-framework",
     "language": "Python",
@@ -279,15 +333,6 @@
     "url": "https://github.com/zedarvates/ultra-pipeline-framework"
   },
   {
-    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14405,
-    "updated_at": "2026-06-27T10:16:01Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
     "description": "A lightweight foundation for shipping specialized AI agents fast.",
     "id": "ysz7/genesis-agent",
     "language": "Python",
@@ -295,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-06-27T10:12:03Z",
     "url": "https://github.com/ysz7/genesis-agent"
-  },
-  {
-    "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
-    "id": "neural-agi/Qwen3-Coder-Next",
-    "language": "Python",
-    "name": "neural-agi/Qwen3-Coder-Next",
-    "stars": 0,
-    "updated_at": "2026-06-27T10:04:26Z",
-    "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -349,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T09:31:53Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-06-27T09:27:59Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-27T09:58:07Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
-    "id": "rogerchappel/crewcmd",
-    "language": "TypeScript",
-    "name": "rogerchappel/crewcmd",
-    "stars": 2,
-    "updated_at": "2026-06-27T08:48:07Z",
-    "url": "https://github.com/rogerchappel/crewcmd"
-  },
-  {
-    "description": "\u4e00\u4e2a\u8f7b\u91cf\u7ea7\u4e2a\u4eba\u52a9\u624bagent\u6846\u67b6\uff0c\u7528\u4e8e\u5b66\u4e60\u4e0e\u5b9e\u8df5\u4e2a\u4ebaagent\u52a9\u624b\u67b6\u6784\u8bbe\u8ba1\uff0c\u57fa\u4e8eReAct\u67b6\u6784\uff0c\u7531\u4e2d\u95f4\u8def\u7531\u5c42\u8fde\u63a5\u5ba2\u6237\u7aef\u4e0e\u5e95\u5c42\u7ec4\u4ef6\uff0c\u5b9e\u73b0\u4e86\u591a\u6a21\u578b\u9002\u914d\u3001\u591a\u5e73\u53f0\u9002\u914d\u548c\u4f1a\u8bdd\u7ba1\u7406\u3002 \u6bcf\u9636\u6bb5\u7684\u5f00\u53d1\u8def\u7ebf\u3001\u5f00\u53d1\u65e5\u5fd7\u3001\u4ee3\u7801\u5ba1\u67e5\u8bb0\u5f55\u90fd\u5728\u6587\u6863\u4e2d\uff0c\u65b9\u4fbf\u5b66\u4e60\u4e0e\u4e86\u89e3\u6574",
-    "id": "aandbcct/dotClaw",
-    "language": "Python",
-    "name": "aandbcct/dotClaw",
-    "stars": 5,
-    "updated_at": "2026-06-27T08:42:05Z",
-    "url": "https://github.com/aandbcct/dotClaw"
-  },
-  {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 4,
-    "updated_at": "2026-06-27T08:39:22Z",
-    "url": "https://github.com/Kortecx/kortecx"
   }
 ]
