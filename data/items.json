@@ -1,5 +1,104 @@
 [
   {
+    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (octobuddy-daemon) drives coding-agent CLIs \u2014 Claude first \u2014 into one",
+    "id": "lml2468/octobuddy",
+    "language": "Go",
+    "name": "lml2468/octobuddy",
+    "stars": 2,
+    "updated_at": "2026-06-27T10:43:54Z",
+    "url": "https://github.com/lml2468/octobuddy"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-27T10:44:54Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Trust and verification for the skills your AI agent installs.",
+    "id": "alexverify/eyebrow",
+    "language": "Go",
+    "name": "alexverify/eyebrow",
+    "stars": 1,
+    "updated_at": "2026-06-27T10:42:44Z",
+    "url": "https://github.com/alexverify/eyebrow"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-27T10:45:03Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-27T10:38:51Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-06-27T10:39:11Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "An open Pal Pack standard for building lightweight Pal teams \u2014 portable companions that package persona, knowledge, skil",
+    "id": "AgentPal/AgentPal",
+    "language": "\u2014",
+    "name": "AgentPal/AgentPal",
+    "stars": 2,
+    "updated_at": "2026-06-27T10:38:50Z",
+    "url": "https://github.com/AgentPal/AgentPal"
+  },
+  {
+    "description": "\u9818\u57df\u7121\u95dc\u7684 agent \u5e95\u5ea7\uff08kernel + \u53ef\u63d2\u62d4 DomainPack\uff09\uff1a\u540c\u4e00 kernel \u8dd1\u4e0d\u540c\u9818\u57df agent\uff0c\u542b\u771f\u5be6 LLM \u591a\u6b65\u5faa\u74b0\u8207 macOS Seatbelt \u6c99\u7bb1",
+    "id": "ishoplus/xitto-kernel",
+    "language": "JavaScript",
+    "name": "ishoplus/xitto-kernel",
+    "stars": 0,
+    "updated_at": "2026-06-27T10:35:34Z",
+    "url": "https://github.com/ishoplus/xitto-kernel"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 171,
+    "updated_at": "2026-06-27T10:33:24Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1099,
+    "updated_at": "2026-06-27T10:32:28Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-27T10:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -27,15 +126,6 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 171,
-    "updated_at": "2026-06-27T10:22:00Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
     "id": "achappey/aihappey-chat",
     "language": "TypeScript",
@@ -54,15 +144,6 @@
     "url": "https://github.com/zedarvates/ultra-pipeline-framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-27T10:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
@@ -70,15 +151,6 @@
     "stars": 14405,
     "updated_at": "2026-06-27T10:16:01Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-06-27T10:15:56Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "A lightweight foundation for shipping specialized AI agents fast.",
@@ -90,24 +162,6 @@
     "url": "https://github.com/ysz7/genesis-agent"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-06-27T10:29:24Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-06-27T10:30:06Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
     "id": "neural-agi/Qwen3-Coder-Next",
     "language": "Python",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T10:04:26Z",
     "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1099,
-    "updated_at": "2026-06-27T10:02:01Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Open-source terminal AI coding-agent harness for studying agent loops, tools, MCP, skills, safety, and persistence.",
@@ -142,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T09:59:33Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u9818\u57df\u7121\u95dc\u7684 agent \u5e95\u5ea7\uff08kernel + \u53ef\u63d2\u62d4 DomainPack\uff09\uff1a\u540c\u4e00 kernel \u8dd1\u4e0d\u540c\u9818\u57df agent\uff0c\u542b\u771f\u5be6 LLM \u591a\u6b65\u5faa\u74b0\u8207 macOS Seatbelt \u6c99\u7bb1",
-    "id": "ishoplus/xitto-kernel",
-    "language": "JavaScript",
-    "name": "ishoplus/xitto-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:58:31Z",
-    "url": "https://github.com/ishoplus/xitto-kernel"
-  },
-  {
-    "description": "An open Pal Pack standard for building lightweight Pal teams \u2014 portable companions that package persona, knowledge, skil",
-    "id": "AgentPal/AgentPal",
-    "language": "\u2014",
-    "name": "AgentPal/AgentPal",
-    "stars": 2,
-    "updated_at": "2026-06-27T09:48:24Z",
-    "url": "https://github.com/AgentPal/AgentPal"
   },
   {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
@@ -283,7 +310,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25054,
+    "stars": 25056,
     "updated_at": "2026-06-27T08:58:38Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -333,15 +360,6 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
-    "id": "s2mgtvodois2/postgresql-mcp-js",
-    "language": "TypeScript",
-    "name": "s2mgtvodois2/postgresql-mcp-js",
-    "stars": 1,
-    "updated_at": "2026-06-27T08:36:02Z",
-    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
     "description": "Forging a minimalist universal language for AI, unconditionally eradicating hallucinations and automating Agent Swarm in",
     "id": "caihongfairys/QMP-Dynamic-Anchors",
     "language": "JavaScript",
@@ -387,15 +405,6 @@
     "url": "https://github.com/zetryn-ai/ai-agent"
   },
   {
-    "description": "Cross-platform agent gateway: a zero-cgo Go daemon (octobuddy-daemon) drives coding-agent CLIs \u2014 Claude first \u2014 into one",
-    "id": "lml2468/octobuddy",
-    "language": "Go",
-    "name": "lml2468/octobuddy",
-    "stars": 2,
-    "updated_at": "2026-06-27T08:09:13Z",
-    "url": "https://github.com/lml2468/octobuddy"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -409,7 +418,7 @@
     "id": "agenthatch/agenthatch",
     "language": "Python",
     "name": "agenthatch/agenthatch",
-    "stars": 48,
+    "stars": 49,
     "updated_at": "2026-06-27T07:44:35Z",
     "url": "https://github.com/agenthatch/agenthatch"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-27T07:27:40Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
-    "id": "firatcand/roster",
-    "language": "TypeScript",
-    "name": "firatcand/roster",
-    "stars": 13,
-    "updated_at": "2026-06-27T07:22:32Z",
-    "url": "https://github.com/firatcand/roster"
   }
 ]
