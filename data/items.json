@@ -1,5 +1,32 @@
 [
   {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1099,
+    "updated_at": "2026-06-27T12:49:47Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-27T12:46:13Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-27T12:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
     "id": "manishiitg/mcp-agent-builder-go",
     "language": "Go",
@@ -50,7 +77,7 @@
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 0,
-    "updated_at": "2026-06-27T12:41:36Z",
+    "updated_at": "2026-06-27T12:49:19Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -72,15 +99,6 @@
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-27T12:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
     "id": "firatcand/roster",
     "language": "TypeScript",
@@ -97,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-06-27T12:18:12Z",
     "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
+  },
+  {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 278,
+    "updated_at": "2026-06-27T12:17:32Z",
+    "url": "https://github.com/jaylfc/taOS"
   },
   {
     "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
@@ -387,15 +414,6 @@
     "url": "https://github.com/Gald3r-Labs/gald3r"
   },
   {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 277,
-    "updated_at": "2026-06-27T12:17:32Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
     "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
     "id": "breastless-andcircuit638/lean-loop",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-27T11:47:47Z",
     "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-06-27T11:47:34Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-06-27T11:47:07Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
   }
 ]
