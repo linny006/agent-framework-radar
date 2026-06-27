@@ -1,5 +1,50 @@
 [
   {
+    "description": "An open Pal Pack standard for building lightweight Pal teams \u2014 portable companions that package persona, knowledge, skil",
+    "id": "AgentPal/AgentPal",
+    "language": "\u2014",
+    "name": "AgentPal/AgentPal",
+    "stars": 2,
+    "updated_at": "2026-06-27T09:48:24Z",
+    "url": "https://github.com/AgentPal/AgentPal"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 73,
+    "updated_at": "2026-06-27T09:48:30Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-06-27T09:49:38Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 10,
+    "updated_at": "2026-06-27T09:46:29Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-27T09:45:18Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
     "id": "Dkm0315/muster",
     "language": "TypeScript",
@@ -16,15 +61,6 @@
     "stars": 171,
     "updated_at": "2026-06-27T09:44:02Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 73,
-    "updated_at": "2026-06-27T09:41:26Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
     "description": "\u9818\u57df\u7121\u95dc\u7684 agent \u5e95\u5ea7\uff08kernel + \u53ef\u63d2\u62d4 DomainPack\uff09\uff1a\u540c\u4e00 kernel \u8dd1\u4e0d\u540c\u9818\u57df agent\uff0c\u542b\u771f\u5be6 LLM \u591a\u6b65\u5faa\u74b0\u8207 macOS Seatbelt \u6c99\u7bb1",
@@ -49,7 +85,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1097,
+    "stars": 1098,
     "updated_at": "2026-06-27T09:38:20Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-27T09:35:38Z",
+    "updated_at": "2026-06-27T09:49:42Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T09:31:53Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-27T09:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -175,7 +202,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25041,
+    "stars": 25042,
     "updated_at": "2026-06-27T08:58:38Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-27T07:18:53Z",
     "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:17:10Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Claude Code 2.1.88 \u6e90\u7801\u7ea7\u67b6\u6784\u5206\u6790 \u00b7 88 \u7ae0\u4e2d\u6587\u767d\u76ae\u4e66 \u00b7 41 \u5f20\u4ea4\u4e92\u56fe\u8868 \u00b7 \u4e2d\u82f1\u53cc\u8bed",
-    "id": "HERO-1900/insideCC",
-    "language": "HTML",
-    "name": "HERO-1900/insideCC",
-    "stars": 1,
-    "updated_at": "2026-06-27T07:17:01Z",
-    "url": "https://github.com/HERO-1900/insideCC"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:16:47Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
   }
 ]
