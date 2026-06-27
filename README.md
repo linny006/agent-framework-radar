@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-27 18:15 UTC
+> ⏰ Last updated: 2026-06-27 18:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Aureliolo/synthorg](https://github.com/Aureliolo/synthorg) | 9 | Python | 2026-06-27 | SynthOrg - Framework for building synthetic organizations with autonomous AI agents |
-| 2 | [ionalpha/flynn](https://github.com/ionalpha/flynn) | 0 | Go | 2026-06-27 | Open-source, self-hosted AI agent runtime and TUI in a single Go binary (Linux/macOS/Windows). Run interactive sessions  |
-| 3 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-06-27 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
-| 4 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 25096 | Go | 2026-06-27 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 5 | [sps014/Adk-cs](https://github.com/sps014/Adk-cs) | 24 | C# | 2026-06-27 | An open-source, code-first C# (Dotnet) toolkit for building, evaluating, and deploying sophisticated AI agents with flex |
-| 6 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [Aureliolo/synthorg](https://github.com/Aureliolo/synthorg) | 9 | Python | 2026-06-27 | SynthOrg - Framework for building synthetic organizations with autonomous AI agents |
+| 3 | [ionalpha/flynn](https://github.com/ionalpha/flynn) | 0 | Go | 2026-06-27 | Open-source, self-hosted AI agent runtime and TUI in a single Go binary (Linux/macOS/Windows). Run interactive sessions  |
+| 4 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-06-27 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
+| 5 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 25095 | Go | 2026-06-27 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 6 | [sps014/Adk-cs](https://github.com/sps014/Adk-cs) | 24 | C# | 2026-06-27 | An open-source, code-first C# (Dotnet) toolkit for building, evaluating, and deploying sophisticated AI agents with flex |
 | 7 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 5099 | Python | 2026-06-27 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
 | 8 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-06-27 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
 | 9 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-06-27 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
