@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83d\udcc4 Generate static question banks easily with Python and JSON for fast, SEO-friendly websites hosted on GitHub Pages.",
+    "id": "punkxuxu/bank_soal",
+    "language": "Python",
+    "name": "punkxuxu/bank_soal",
+    "stars": 0,
+    "updated_at": "2026-06-27T11:22:56Z",
+    "url": "https://github.com/punkxuxu/bank_soal"
+  },
+  {
+    "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
+    "id": "manishiitg/mcp-agent-builder-go",
+    "language": "Go",
+    "name": "manishiitg/mcp-agent-builder-go",
+    "stars": 5,
+    "updated_at": "2026-06-27T11:20:53Z",
+    "url": "https://github.com/manishiitg/mcp-agent-builder-go"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-27T11:18:10Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
+    "id": "cuteecarrot/AgentHub",
+    "language": "Python",
+    "name": "cuteecarrot/AgentHub",
+    "stars": 4,
+    "updated_at": "2026-06-27T11:16:41Z",
+    "url": "https://github.com/cuteecarrot/AgentHub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-27T11:15:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -99,15 +144,6 @@
     "url": "https://github.com/markl-a/phantom-secops"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-27T11:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source terminal AI coding-agent harness for studying agent loops, tools, MCP, skills, safety, and persistence.",
     "id": "MohitGoyal09/AgentForge",
     "language": "Python",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-06-27T11:08:31Z",
+    "updated_at": "2026-06-27T11:18:18Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -297,15 +333,6 @@
     "url": "https://github.com/kdcube/kdcube-ai-app"
   },
   {
-    "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
-    "id": "manishiitg/mcp-agent-builder-go",
-    "language": "Go",
-    "name": "manishiitg/mcp-agent-builder-go",
-    "stars": 5,
-    "updated_at": "2026-06-27T09:33:05Z",
-    "url": "https://github.com/manishiitg/mcp-agent-builder-go"
-  },
-  {
     "description": "Self-hosted AI agent runtime in Rust: run autonomous LLM agents over Telegram & Discord with durable queues, fail-closed",
     "id": "phenomenoner/agent-harness-core",
     "language": "Rust",
@@ -331,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-06-27T09:27:59Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:20:39Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -391,7 +409,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25058,
+    "stars": 25061,
     "updated_at": "2026-06-27T08:58:38Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-27T08:39:22Z",
     "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "A CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs \u2014 every promotion passes through a human appro",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 5,
-    "updated_at": "2026-06-27T08:38:37Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Forging a minimalist universal language for AI, unconditionally eradicating hallucinations and automating Agent Swarm in",
-    "id": "caihongfairys/QMP-Dynamic-Anchors",
-    "language": "JavaScript",
-    "name": "caihongfairys/QMP-Dynamic-Anchors",
-    "stars": 2,
-    "updated_at": "2026-06-27T08:40:31Z",
-    "url": "https://github.com/caihongfairys/QMP-Dynamic-Anchors"
   }
 ]
