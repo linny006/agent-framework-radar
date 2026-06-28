@@ -1,10 +1,109 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-28T14:44:56Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Open-source, self-hosted AI agent OS in a single Go binary (Linux/macOS/Windows). Run interactive sessions or 24/7 on a ",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 0,
+    "updated_at": "2026-06-28T14:44:02Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-28T14:41:22Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 172,
+    "updated_at": "2026-06-28T14:40:34Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-28T14:38:03Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
+    "id": "Justin0504/Sovereign-OS",
+    "language": "Python",
+    "name": "Justin0504/Sovereign-OS",
+    "stars": 98,
+    "updated_at": "2026-06-28T14:34:45Z",
+    "url": "https://github.com/Justin0504/Sovereign-OS"
+  },
+  {
+    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
+    "id": "Dkm0315/muster",
+    "language": "TypeScript",
+    "name": "Dkm0315/muster",
+    "stars": 3,
+    "updated_at": "2026-06-28T14:34:41Z",
+    "url": "https://github.com/Dkm0315/muster"
+  },
+  {
+    "description": "Agent SDK, CLI, RPC in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-06-28T14:36:02Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1113,
+    "updated_at": "2026-06-28T14:34:06Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
+    "id": "Kuonirad/MCOP-Framework-2.0",
+    "language": "TypeScript",
+    "name": "Kuonirad/MCOP-Framework-2.0",
+    "stars": 2,
+    "updated_at": "2026-06-28T14:31:08Z",
+    "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-28T14:30:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25195,
+    "stars": 25201,
     "updated_at": "2026-06-28T14:29:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -16,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T14:28:43Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Open-source, self-hosted AI agent OS in a single Go binary (Linux/macOS/Windows). Run interactive sessions or 24/7 on a ",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 0,
-    "updated_at": "2026-06-28T14:27:41Z",
-    "url": "https://github.com/ionalpha/flynn"
-  },
-  {
-    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
-    "id": "Dkm0315/muster",
-    "language": "TypeScript",
-    "name": "Dkm0315/muster",
-    "stars": 3,
-    "updated_at": "2026-06-28T14:24:02Z",
-    "url": "https://github.com/Dkm0315/muster"
   },
   {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
@@ -54,21 +135,12 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-28T14:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
     "id": "jaylfc/taOS",
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 315,
-    "updated_at": "2026-06-28T14:23:35Z",
+    "updated_at": "2026-06-28T14:44:33Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -86,7 +158,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-06-28T14:11:19Z",
+    "updated_at": "2026-06-28T14:32:21Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -117,15 +189,6 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
-    "id": "Justin0504/Sovereign-OS",
-    "language": "Python",
-    "name": "Justin0504/Sovereign-OS",
-    "stars": 98,
-    "updated_at": "2026-06-28T14:00:45Z",
-    "url": "https://github.com/Justin0504/Sovereign-OS"
-  },
-  {
     "description": "Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo",
     "id": "getsynkora/synkora-ai",
     "language": "Python",
@@ -140,7 +203,7 @@
     "language": "TypeScript",
     "name": "dshakes/lantern",
     "stars": 0,
-    "updated_at": "2026-06-28T14:19:56Z",
+    "updated_at": "2026-06-28T14:30:51Z",
     "url": "https://github.com/dshakes/lantern"
   },
   {
@@ -178,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T13:50:42Z",
     "url": "https://github.com/keiqkeqi321/somnia"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 172,
-    "updated_at": "2026-06-28T13:41:38Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -241,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T13:33:36Z",
     "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1113,
-    "updated_at": "2026-06-28T13:33:26Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-28T13:22:07Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-06-28T13:21:51Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-28T13:18:22Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 73,
-    "updated_at": "2026-06-28T13:26:05Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-06-28T13:16:28Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-28T13:16:12Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
   }
 ]
