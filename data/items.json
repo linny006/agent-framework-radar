@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open-source, self-hosted AI agent runtime and TUI in a single Go binary (Linux/macOS/Windows). Run interactive sessions ",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 0,
+    "updated_at": "2026-06-28T01:14:00Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 25111,
+    "updated_at": "2026-06-28T01:10:38Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-06-28T01:09:54Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "Self-improving multi-agent ecosystem: teams of agents that plan, use tools, run autonomously, share memory, self-evolve,",
+    "id": "arjunkshah/cohort",
+    "language": "Python",
+    "name": "arjunkshah/cohort",
+    "stars": 0,
+    "updated_at": "2026-06-28T01:08:17Z",
+    "url": "https://github.com/arjunkshah/cohort"
+  },
+  {
+    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
+    "id": "the-long-ride/engram",
+    "language": "TypeScript",
+    "name": "the-long-ride/engram",
+    "stars": 5,
+    "updated_at": "2026-06-28T01:00:22Z",
+    "url": "https://github.com/the-long-ride/engram"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-28T01:00:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
     "id": "VisionaireLabs/Visionaire",
     "language": "TypeScript",
@@ -7,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-06-28T00:59:15Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25110,
-    "updated_at": "2026-06-28T00:57:43Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
@@ -36,15 +81,6 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "Open-source, self-hosted AI agent runtime and TUI in a single Go binary (Linux/macOS/Windows). Run interactive sessions ",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 0,
-    "updated_at": "2026-06-28T01:00:08Z",
-    "url": "https://github.com/ionalpha/flynn"
-  },
-  {
     "description": "\u9818\u57df\u7121\u95dc\u7684 agent \u5e95\u5ea7\uff08kernel + \u53ef\u63d2\u62d4 DomainPack\uff09\uff1a\u540c\u4e00 kernel \u8dd1\u4e0d\u540c\u9818\u57df agent\uff0c\u542b\u771f\u5be6 LLM \u591a\u6b65\u5faa\u74b0\u8207 macOS Seatbelt \u6c99\u7bb1",
     "id": "ishoplus/xitto-kernel",
     "language": "JavaScript",
@@ -61,15 +97,6 @@
     "stars": 7,
     "updated_at": "2026-06-28T00:48:09Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-28T00:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -229,7 +256,7 @@
     "id": "codeaholicguy/ai-devkit",
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
-    "stars": 1449,
+    "stars": 1450,
     "updated_at": "2026-06-28T00:27:28Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-28T00:27:04Z",
+    "updated_at": "2026-06-28T01:09:25Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-28T00:10:19Z",
     "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
-  },
-  {
-    "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
-    "id": "gatherfigtree740/ai-agent-landscape",
-    "language": "\u2014",
-    "name": "gatherfigtree740/ai-agent-landscape",
-    "stars": 1,
-    "updated_at": "2026-06-28T00:08:57Z",
-    "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
-  },
-  {
-    "description": "Provide a lightweight, cross-platform AI agent with TUI and GUI support, optimized for performance and flexible tool int",
-    "id": "duduard/saneagent",
-    "language": "\u2014",
-    "name": "duduard/saneagent",
-    "stars": 0,
-    "updated_at": "2026-06-28T00:07:31Z",
-    "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "Build and manage AI agents within git repositories using a Rust-based, dependency-free framework that version-controls a",
-    "id": "yeab405/rusty-gitclaw",
-    "language": "Rust",
-    "name": "yeab405/rusty-gitclaw",
-    "stars": 2,
-    "updated_at": "2026-06-28T00:06:43Z",
-    "url": "https://github.com/yeab405/rusty-gitclaw"
   }
 ]
