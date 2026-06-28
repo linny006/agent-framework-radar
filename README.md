@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [JohnnyFiv3r/Core-Memory](https://github.com/JohnnyFiv3r/Core-Memory) | 19 | Python | 2026-06-28 | Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection. |
-| 2 | [jaylfc/taOS](https://github.com/jaylfc/taOS) | 429 | Python | 2026-06-28 | Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho |
-| 3 | [Eliyce/paqad-ai](https://github.com/Eliyce/paqad-ai) | 5 | TypeScript | 2026-06-28 | Spec-driven development framework — AI agents that think before they type |
-| 4 | [kodustech/awesome-agent-skills](https://github.com/kodustech/awesome-agent-skills) | 84 | — | 2026-06-28 | Curated list of Agent Skills for AI coding agents like Claude Code, Codex and Cursor. |
-| 5 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-28 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-28 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [JohnnyFiv3r/Core-Memory](https://github.com/JohnnyFiv3r/Core-Memory) | 19 | Python | 2026-06-28 | Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection. |
+| 3 | [jaylfc/taOS](https://github.com/jaylfc/taOS) | 429 | Python | 2026-06-28 | Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho |
+| 4 | [Eliyce/paqad-ai](https://github.com/Eliyce/paqad-ai) | 5 | TypeScript | 2026-06-28 | Spec-driven development framework — AI agents that think before they type |
+| 5 | [kodustech/awesome-agent-skills](https://github.com/kodustech/awesome-agent-skills) | 84 | — | 2026-06-28 | Curated list of Agent Skills for AI coding agents like Claude Code, Codex and Cursor. |
 | 6 | [achappey/aihappey-chat](https://github.com/achappey/aihappey-chat) | 3 | TypeScript | 2026-06-28 | Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans |
 | 7 | [jamjet-labs/jamjet-runtime-java](https://github.com/jamjet-labs/jamjet-runtime-java) | 0 | Java | 2026-06-28 | JVM runtime adapter for JamJet — durable execution, audit, replay, controlled tool calls for Spring AI and LangChain4j. |
 | 8 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 5285 | Python | 2026-06-28 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
