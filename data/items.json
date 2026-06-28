@@ -1,5 +1,59 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-28T12:13:55Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Phone local agent",
+    "id": "HaohanHe/Opedrgent",
+    "language": "Kotlin",
+    "name": "HaohanHe/Opedrgent",
+    "stars": 1,
+    "updated_at": "2026-06-28T12:13:12Z",
+    "url": "https://github.com/HaohanHe/Opedrgent"
+  },
+  {
+    "description": "Multi-Agent orchestration system with LLM intent routing, DAG scheduling & 7 collaboration strategies. \u591a Agent \u4e2d\u592e\u8c03\u5ea6\u7cfb\u7edf \u2014 ",
+    "id": "xianyu-sheng/Agent-hub",
+    "language": "Python",
+    "name": "xianyu-sheng/Agent-hub",
+    "stars": 0,
+    "updated_at": "2026-06-28T12:10:40Z",
+    "url": "https://github.com/xianyu-sheng/Agent-hub"
+  },
+  {
+    "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
+    "id": "BrettMGoughWork/vai-core",
+    "language": "Python",
+    "name": "BrettMGoughWork/vai-core",
+    "stars": 4,
+    "updated_at": "2026-06-28T12:08:34Z",
+    "url": "https://github.com/BrettMGoughWork/vai-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-28T12:08:06Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 307,
+    "updated_at": "2026-06-28T12:05:55Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
     "id": "s2mgtvodois2/postgresql-mcp-js",
     "language": "TypeScript",
@@ -18,15 +72,6 @@
     "url": "https://github.com/ninedeerhing/agent-workspace-infrastructure"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-28T12:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -36,30 +81,12 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 306,
-    "updated_at": "2026-06-28T12:05:55Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "Multi-Agent orchestration system with LLM intent routing, DAG scheduling & 7 collaboration strategies. \u591a Agent \u4e2d\u592e\u8c03\u5ea6\u7cfb\u7edf \u2014 ",
-    "id": "xianyu-sheng/Agent-hub",
-    "language": "Python",
-    "name": "xianyu-sheng/Agent-hub",
-    "stars": 0,
-    "updated_at": "2026-06-28T11:57:54Z",
-    "url": "https://github.com/xianyu-sheng/Agent-hub"
-  },
-  {
     "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
     "id": "Dkm0315/muster",
     "language": "TypeScript",
     "name": "Dkm0315/muster",
     "stars": 3,
-    "updated_at": "2026-06-28T11:55:43Z",
+    "updated_at": "2026-06-28T12:11:03Z",
     "url": "https://github.com/Dkm0315/muster"
   },
   {
@@ -67,7 +94,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25180,
+    "stars": 25181,
     "updated_at": "2026-06-28T11:53:15Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-28T12:07:43Z",
+    "updated_at": "2026-06-28T12:09:19Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-28T10:29:39Z",
     "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-06-28T10:29:33Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-28T10:29:23Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-28T10:28:34Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
