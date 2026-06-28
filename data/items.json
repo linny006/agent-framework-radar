@@ -1,5 +1,86 @@
 [
   {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 172,
+    "updated_at": "2026-06-28T11:58:43Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 306,
+    "updated_at": "2026-06-28T11:58:28Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "Multi-Agent orchestration system with LLM intent routing, DAG scheduling & 7 collaboration strategies. \u591a Agent \u4e2d\u592e\u8c03\u5ea6\u7cfb\u7edf \u2014 ",
+    "id": "xianyu-sheng/Agent-hub",
+    "language": "Python",
+    "name": "xianyu-sheng/Agent-hub",
+    "stars": 0,
+    "updated_at": "2026-06-28T11:57:54Z",
+    "url": "https://github.com/xianyu-sheng/Agent-hub"
+  },
+  {
+    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
+    "id": "Dkm0315/muster",
+    "language": "TypeScript",
+    "name": "Dkm0315/muster",
+    "stars": 3,
+    "updated_at": "2026-06-28T11:55:43Z",
+    "url": "https://github.com/Dkm0315/muster"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1113,
+    "updated_at": "2026-06-28T11:49:02Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 69,
+    "updated_at": "2026-06-28T11:48:53Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-28T11:47:35Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
+    "id": "Justin0504/Sovereign-OS",
+    "language": "Python",
+    "name": "Justin0504/Sovereign-OS",
+    "stars": 98,
+    "updated_at": "2026-06-28T11:46:48Z",
+    "url": "https://github.com/Justin0504/Sovereign-OS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-28T11:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
     "id": "lukeskytorep-bot/echo-claw",
     "language": "\u2014",
@@ -27,33 +108,6 @@
     "url": "https://github.com/hidemi-k/maf-ebpf-sase"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1113,
-    "updated_at": "2026-06-28T11:35:43Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 305,
-    "updated_at": "2026-06-28T11:36:06Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-28T11:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -77,17 +131,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-28T11:43:41Z",
+    "updated_at": "2026-06-28T11:57:20Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "\u4e00\u4e2a\u7edf\u4e00\u8c03\u5ea6omniagent\u3001resume-syncy\u3001SmartBench\u4ee5\u53ca\u66f4\u591a\u6211\u4e2a\u4ebaAgent\u7684\u8c03\u5ea6Agent\u7cfb\u7edf",
-    "id": "xianyu-sheng/Agent-hub",
-    "language": "Python",
-    "name": "xianyu-sheng/Agent-hub",
-    "stars": 0,
-    "updated_at": "2026-06-28T11:23:20Z",
-    "url": "https://github.com/xianyu-sheng/Agent-hub"
   },
   {
     "description": "Trust and verification for the skills your AI agent installs.",
@@ -142,15 +187,6 @@
     "stars": 42,
     "updated_at": "2026-06-28T11:10:32Z",
     "url": "https://github.com/crystal-autobot/autobot"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 69,
-    "updated_at": "2026-06-28T11:17:36Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Forging a minimalist universal language for AI, unconditionally eradicating hallucinations and automating Agent Swarm in",
@@ -324,15 +360,6 @@
     "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
   },
   {
-    "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
-    "id": "Justin0504/Sovereign-OS",
-    "language": "Python",
-    "name": "Justin0504/Sovereign-OS",
-    "stars": 98,
-    "updated_at": "2026-06-28T10:31:35Z",
-    "url": "https://github.com/Justin0504/Sovereign-OS"
-  },
-  {
     "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
     "id": "Fast-newengland468/CyberClaw",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-28T10:24:52Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 0,
-    "updated_at": "2026-06-28T10:23:08Z",
-    "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-06-28T10:22:55Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-28T10:22:35Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
   }
 ]
