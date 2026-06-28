@@ -1,5 +1,77 @@
 [
   {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-28T00:59:15Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 25110,
+    "updated_at": "2026-06-28T00:57:43Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
+    "id": "firatcand/roster",
+    "language": "TypeScript",
+    "name": "firatcand/roster",
+    "stars": 13,
+    "updated_at": "2026-06-28T00:56:22Z",
+    "url": "https://github.com/firatcand/roster"
+  },
+  {
+    "description": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 959,
+    "updated_at": "2026-06-28T00:51:48Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Open-source, self-hosted AI agent runtime and TUI in a single Go binary (Linux/macOS/Windows). Run interactive sessions ",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 0,
+    "updated_at": "2026-06-28T01:00:08Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "\u9818\u57df\u7121\u95dc\u7684 agent \u5e95\u5ea7\uff08kernel + \u53ef\u63d2\u62d4 DomainPack\uff09\uff1a\u540c\u4e00 kernel \u8dd1\u4e0d\u540c\u9818\u57df agent\uff0c\u542b\u771f\u5be6 LLM \u591a\u6b65\u5faa\u74b0\u8207 macOS Seatbelt \u6c99\u7bb1",
+    "id": "ishoplus/xitto-kernel",
+    "language": "JavaScript",
+    "name": "ishoplus/xitto-kernel",
+    "stars": 0,
+    "updated_at": "2026-06-28T00:49:56Z",
+    "url": "https://github.com/ishoplus/xitto-kernel"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-06-28T00:48:09Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-28T00:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
     "id": "aomi-labs/aomi",
     "language": "TypeScript",
@@ -76,7 +148,7 @@
     "id": "fruterito101/for3s",
     "language": "Python",
     "name": "fruterito101/for3s",
-    "stars": 0,
+    "stars": 3,
     "updated_at": "2026-06-28T00:32:41Z",
     "url": "https://github.com/fruterito101/for3s"
   },
@@ -99,15 +171,6 @@
     "url": "https://github.com/muhamedali7713/agent-audit"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-28T00:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
     "id": "floccose-burner9185/wow-harness",
     "language": "Python",
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T00:28:43Z",
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "\u9818\u57df\u7121\u95dc\u7684 agent \u5e95\u5ea7\uff08kernel + \u53ef\u63d2\u62d4 DomainPack\uff09\uff1a\u540c\u4e00 kernel \u8dd1\u4e0d\u540c\u9818\u57df agent\uff0c\u542b\u771f\u5be6 LLM \u591a\u6b65\u5faa\u74b0\u8207 macOS Seatbelt \u6c99\u7bb1",
-    "id": "ishoplus/xitto-kernel",
-    "language": "JavaScript",
-    "name": "ishoplus/xitto-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-28T00:28:33Z",
-    "url": "https://github.com/ishoplus/xitto-kernel"
   },
   {
     "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
@@ -169,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T00:27:47Z",
     "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Open-source, self-hosted AI agent runtime and TUI in a single Go binary (Linux/macOS/Windows). Run interactive sessions ",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 0,
-    "updated_at": "2026-06-28T00:40:30Z",
-    "url": "https://github.com/ionalpha/flynn"
   },
   {
     "description": "The control plane for AI coding agents.",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-28T00:06:43Z",
     "url": "https://github.com/yeab405/rusty-gitclaw"
-  },
-  {
-    "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
-    "id": "kokorubbong/agenticqa-scan-action",
-    "language": "Python",
-    "name": "kokorubbong/agenticqa-scan-action",
-    "stars": 0,
-    "updated_at": "2026-06-28T00:05:16Z",
-    "url": "https://github.com/kokorubbong/agenticqa-scan-action"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-28T00:03:00Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide practical AI interview questions focused on production deployment in real-world MENA enterprise environments.",
-    "id": "luwelle/Production_GenAI_interview",
-    "language": "\u2014",
-    "name": "luwelle/Production_GenAI_interview",
-    "stars": 0,
-    "updated_at": "2026-06-28T00:02:59Z",
-    "url": "https://github.com/luwelle/Production_GenAI_interview"
-  },
-  {
-    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
-    "id": "Unknown384-come/agent-runner",
-    "language": "Go",
-    "name": "Unknown384-come/agent-runner",
-    "stars": 0,
-    "updated_at": "2026-06-28T00:02:54Z",
-    "url": "https://github.com/Unknown384-come/agent-runner"
-  },
-  {
-    "description": "Provide a customizable AI assistant on Telegram with multiple tools, skills, and monitors that runs locally using hybrid",
-    "id": "Rayan55050/progressive-agent",
-    "language": "Python",
-    "name": "Rayan55050/progressive-agent",
-    "stars": 2,
-    "updated_at": "2026-06-28T00:02:13Z",
-    "url": "https://github.com/Rayan55050/progressive-agent"
   }
 ]
