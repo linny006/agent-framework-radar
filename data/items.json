@@ -1,5 +1,104 @@
 [
   {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1113,
+    "updated_at": "2026-06-28T12:29:25Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Multi-Agent orchestration system with LLM intent routing, DAG scheduling & 7 collaboration strategies. \u591a Agent \u4e2d\u592e\u8c03\u5ea6\u7cfb\u7edf \u2014 ",
+    "id": "xianyu-sheng/Agent-hub",
+    "language": "Python",
+    "name": "xianyu-sheng/Agent-hub",
+    "stars": 0,
+    "updated_at": "2026-06-28T12:29:36Z",
+    "url": "https://github.com/xianyu-sheng/Agent-hub"
+  },
+  {
+    "description": "AI Agent Development Engineer Learning Roadmap - 8-week systematic learning path with 3 progressive projects (Basic Agen",
+    "id": "ArtLjn/AgentDesk",
+    "language": "Python",
+    "name": "ArtLjn/AgentDesk",
+    "stars": 0,
+    "updated_at": "2026-06-28T12:24:47Z",
+    "url": "https://github.com/ArtLjn/AgentDesk"
+  },
+  {
+    "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 6,
+    "updated_at": "2026-06-28T12:24:34Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-06-28T12:23:29Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
+    "id": "Dkm0315/muster",
+    "language": "TypeScript",
+    "name": "Dkm0315/muster",
+    "stars": 3,
+    "updated_at": "2026-06-28T12:21:03Z",
+    "url": "https://github.com/Dkm0315/muster"
+  },
+  {
+    "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
+    "id": "Justin0504/Sovereign-OS",
+    "language": "Python",
+    "name": "Justin0504/Sovereign-OS",
+    "stars": 98,
+    "updated_at": "2026-06-28T12:20:58Z",
+    "url": "https://github.com/Justin0504/Sovereign-OS"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-28T12:20:10Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-06-28T12:16:02Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Open-source, self-hosted AI agent OS in a single Go binary (Linux/macOS/Windows). Run interactive sessions or 24/7 on a ",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 0,
+    "updated_at": "2026-06-28T12:16:01Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-28T12:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -18,15 +117,6 @@
     "url": "https://github.com/HaohanHe/Opedrgent"
   },
   {
-    "description": "Multi-Agent orchestration system with LLM intent routing, DAG scheduling & 7 collaboration strategies. \u591a Agent \u4e2d\u592e\u8c03\u5ea6\u7cfb\u7edf \u2014 ",
-    "id": "xianyu-sheng/Agent-hub",
-    "language": "Python",
-    "name": "xianyu-sheng/Agent-hub",
-    "stars": 0,
-    "updated_at": "2026-06-28T12:10:40Z",
-    "url": "https://github.com/xianyu-sheng/Agent-hub"
-  },
-  {
     "description": "An skills-based LLM runtime, using lessons learned from previous attempts",
     "id": "BrettMGoughWork/vai-core",
     "language": "Python",
@@ -36,21 +126,12 @@
     "url": "https://github.com/BrettMGoughWork/vai-core"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-28T12:08:06Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
     "id": "jaylfc/taOS",
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 307,
-    "updated_at": "2026-06-28T12:05:55Z",
+    "updated_at": "2026-06-28T12:27:35Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -81,15 +162,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
-    "id": "Dkm0315/muster",
-    "language": "TypeScript",
-    "name": "Dkm0315/muster",
-    "stars": 3,
-    "updated_at": "2026-06-28T12:11:03Z",
-    "url": "https://github.com/Dkm0315/muster"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
@@ -97,15 +169,6 @@
     "stars": 25181,
     "updated_at": "2026-06-28T11:53:15Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1113,
-    "updated_at": "2026-06-28T11:49:02Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T11:47:35Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
-    "id": "Justin0504/Sovereign-OS",
-    "language": "Python",
-    "name": "Justin0504/Sovereign-OS",
-    "stars": 98,
-    "updated_at": "2026-06-28T11:46:48Z",
-    "url": "https://github.com/Justin0504/Sovereign-OS"
   },
   {
     "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
@@ -185,7 +239,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-06-28T12:09:19Z",
+    "updated_at": "2026-06-28T12:24:10Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -266,7 +320,7 @@
     "language": "Rust",
     "name": "Wh1isper/starweaver",
     "stars": 6,
-    "updated_at": "2026-06-28T10:51:06Z",
+    "updated_at": "2026-06-28T12:25:52Z",
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-28T10:32:35Z",
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-06-28T10:32:06Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-28T10:32:01Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-06-28T10:31:29Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-06-28T10:31:09Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
-    "id": "qbtrix/ripple-iui",
-    "language": "Svelte",
-    "name": "qbtrix/ripple-iui",
-    "stars": 3,
-    "updated_at": "2026-06-28T10:29:44Z",
-    "url": "https://github.com/qbtrix/ripple-iui"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-06-28T10:29:39Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
   }
 ]
