@@ -1,11 +1,65 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 25195,
+    "updated_at": "2026-06-28T14:29:37Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-28T14:28:43Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Open-source, self-hosted AI agent OS in a single Go binary (Linux/macOS/Windows). Run interactive sessions or 24/7 on a ",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 0,
+    "updated_at": "2026-06-28T14:27:41Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
+    "id": "Dkm0315/muster",
+    "language": "TypeScript",
+    "name": "Dkm0315/muster",
+    "stars": 3,
+    "updated_at": "2026-06-28T14:24:02Z",
+    "url": "https://github.com/Dkm0315/muster"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-06-28T14:20:48Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "A CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs \u2014 every promotion passes through a human appro",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 5,
+    "updated_at": "2026-06-28T14:16:57Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-28T14:14:18Z",
+    "updated_at": "2026-06-28T14:15:21Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 315,
-    "updated_at": "2026-06-28T14:14:01Z",
+    "updated_at": "2026-06-28T14:23:35Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -40,7 +94,7 @@
     "id": "RyanAlberts/best-of-Agent-Harnesses",
     "language": "Python",
     "name": "RyanAlberts/best-of-Agent-Harnesses",
-    "stars": 194,
+    "stars": 195,
     "updated_at": "2026-06-28T14:09:21Z",
     "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
   },
@@ -54,15 +108,6 @@
     "url": "https://github.com/alexverify/eyebrow"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25194,
-    "updated_at": "2026-06-28T14:07:16Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T14:05:00Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
-    "id": "Dkm0315/muster",
-    "language": "TypeScript",
-    "name": "Dkm0315/muster",
-    "stars": 3,
-    "updated_at": "2026-06-28T14:11:10Z",
-    "url": "https://github.com/Dkm0315/muster"
   },
   {
     "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
@@ -104,7 +140,7 @@
     "language": "TypeScript",
     "name": "dshakes/lantern",
     "stars": 0,
-    "updated_at": "2026-06-28T13:58:17Z",
+    "updated_at": "2026-06-28T14:19:56Z",
     "url": "https://github.com/dshakes/lantern"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T13:56:46Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Open-source, self-hosted AI agent OS in a single Go binary (Linux/macOS/Windows). Run interactive sessions or 24/7 on a ",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 0,
-    "updated_at": "2026-06-28T14:01:13Z",
-    "url": "https://github.com/ionalpha/flynn"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -166,18 +193,9 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 5223,
+    "stars": 5225,
     "updated_at": "2026-06-28T13:41:26Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "A CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs \u2014 every promotion passes through a human appro",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 5,
-    "updated_at": "2026-06-28T13:39:54Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-28T13:16:12Z",
     "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-06-28T13:15:42Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-06-28T13:14:05Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
   }
 ]
