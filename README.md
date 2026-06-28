@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-28 16:45 UTC
+> ⏰ Last updated: 2026-06-28 16:47 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 25211 | Go | 2026-06-28 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 2 | [Leartin-Lab/aigineering](https://github.com/Leartin-Lab/aigineering) | 2 | Python | 2026-06-28 | Zero Trust agent runtime for auditable AI-assisted engineering and research. |
-| 3 | [agoradynamics/wick](https://github.com/agoradynamics/wick) | 3 | JavaScript | 2026-06-28 | Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext.  |
-| 4 | [ionalpha/flynn](https://github.com/ionalpha/flynn) | 0 | Go | 2026-06-28 | Open-source, self-hosted AI agent OS in a single Go binary (Linux/macOS/Windows). Run interactive sessions or 24/7 on a  |
-| 5 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-28 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [ionalpha/flynn](https://github.com/ionalpha/flynn) | 0 | Go | 2026-06-28 | Open-source, self-hosted AI agent OS in a single Go binary (Linux/macOS/Windows). Run interactive sessions or 24/7 on a  |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-28 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 25211 | Go | 2026-06-28 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 4 | [Leartin-Lab/aigineering](https://github.com/Leartin-Lab/aigineering) | 2 | Python | 2026-06-28 | Zero Trust agent runtime for auditable AI-assisted engineering and research. |
+| 5 | [agoradynamics/wick](https://github.com/agoradynamics/wick) | 3 | JavaScript | 2026-06-28 | Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext.  |
 | 6 | [hara-cli/hara](https://github.com/hara-cli/hara) | 0 | TypeScript | 2026-06-28 |  |
 | 7 | [xianyu-sheng/Agent-hub](https://github.com/xianyu-sheng/Agent-hub) | 0 | Python | 2026-06-28 | Multi-Agent orchestration system with LLM intent routing, DAG scheduling & 7 collaboration strategies. 多 Agent 中央调度系统 —  |
 | 8 | [br3eze-code/br3eze-code](https://github.com/br3eze-code/br3eze-code) | 1 | JavaScript | 2026-06-28 | Personal Ai Agent |
