@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-29 04:57 UTC
+> ⏰ Last updated: 2026-06-29 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [shadow3aaa/DaatLocus](https://github.com/shadow3aaa/DaatLocus) | 9 | Rust | 2026-06-29 | An agent runtime. |
-| 2 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 5332 | Python | 2026-06-29 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 3 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 38 | TypeScript | 2026-06-29 | Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo |
-| 4 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 165 | Python | 2026-06-29 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
-| 5 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 212 | Python | 2026-06-29 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
-| 6 | [alex-jb/solo-founder-os](https://github.com/alex-jb/solo-founder-os) | 4 | Python | 2026-06-29 | 🧠 Self-evolving 10-agent stack for one-person companies. Cron + eval + reflexion + skill library. MIT. |
-| 7 | [zlatko-lakisic/agentic-orchestration](https://github.com/zlatko-lakisic/agentic-orchestration) | 1 | Python | 2026-06-29 | Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-29 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 9 | [ag2ai/ag2](https://github.com/ag2ai/ag2) | 4716 | Python | 2026-06-29 | AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x |
+| 1 | [ag2ai/ag2](https://github.com/ag2ai/ag2) | 4716 | Python | 2026-06-29 | AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-29 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [shadow3aaa/DaatLocus](https://github.com/shadow3aaa/DaatLocus) | 9 | Rust | 2026-06-29 | An agent runtime. |
+| 4 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 5332 | Python | 2026-06-29 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 5 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 38 | TypeScript | 2026-06-29 | Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo |
+| 6 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 165 | Python | 2026-06-29 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
+| 7 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 212 | Python | 2026-06-29 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
+| 8 | [alex-jb/solo-founder-os](https://github.com/alex-jb/solo-founder-os) | 4 | Python | 2026-06-29 | 🧠 Self-evolving 10-agent stack for one-person companies. Cron + eval + reflexion + skill library. MIT. |
+| 9 | [zlatko-lakisic/agentic-orchestration](https://github.com/zlatko-lakisic/agentic-orchestration) | 1 | Python | 2026-06-29 | Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess |
 | 10 | [Asceticrefractoryperiod28/Foundry](https://github.com/Asceticrefractoryperiod28/Foundry) | 0 | TypeScript | 2026-06-29 | Build collaborative AI agent teams on an open-source platform designed for complex digital workflows. |
 | 11 | [salvatoreabient793/cursor-auto-deployment-agent](https://github.com/salvatoreabient793/cursor-auto-deployment-agent) | 0 | — | 2026-06-29 | Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal. |
 | 12 | [clawboo/clawboo](https://github.com/clawboo/clawboo) | 17 | TypeScript | 2026-06-29 | An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then  |
