@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-29T18:59:59Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
     "id": "zlatko-lakisic/agentic-orchestration",
     "language": "Python",
@@ -140,7 +149,7 @@
     "language": "TypeScript",
     "name": "jigjoy-ai/mozaik",
     "stars": 76,
-    "updated_at": "2026-06-29T18:51:08Z",
+    "updated_at": "2026-06-29T19:00:14Z",
     "url": "https://github.com/jigjoy-ai/mozaik"
   },
   {
@@ -205,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-06-29T18:45:25Z",
     "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-29T18:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
