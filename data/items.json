@@ -1,21 +1,39 @@
 [
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 4,
+    "updated_at": "2026-06-29T02:24:25Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
     "stars": 0,
-    "updated_at": "2026-06-29T02:13:38Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+    "updated_at": "2026-06-29T02:24:01Z",
+    "url": "https://github.com/dshakes/lantern"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 5307,
-    "updated_at": "2026-06-29T02:14:08Z",
+    "stars": 5311,
+    "updated_at": "2026-06-29T02:23:56Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
+    "language": "Python",
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 19,
+    "updated_at": "2026-06-29T02:28:25Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
@@ -23,8 +41,26 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 20,
-    "updated_at": "2026-06-29T02:12:53Z",
+    "updated_at": "2026-06-29T02:30:00Z",
     "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-29T02:15:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-29T02:13:38Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
@@ -36,15 +72,6 @@
     "url": "https://github.com/amitpatole/verel"
   },
   {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 19,
-    "updated_at": "2026-06-29T02:12:06Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
     "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
     "id": "Justin0504/Sovereign-OS",
     "language": "Python",
@@ -52,15 +79,6 @@
     "stars": 98,
     "updated_at": "2026-06-29T02:02:46Z",
     "url": "https://github.com/Justin0504/Sovereign-OS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-29T02:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
@@ -88,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T01:58:37Z",
     "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 0,
-    "updated_at": "2026-06-29T02:15:15Z",
-    "url": "https://github.com/dshakes/lantern"
   },
   {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
@@ -202,7 +211,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 3612,
+    "stars": 3613,
     "updated_at": "2026-06-29T01:49:35Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -301,7 +310,7 @@
     "id": "jaylfc/taOS",
     "language": "Python",
     "name": "jaylfc/taOS",
-    "stars": 463,
+    "stars": 468,
     "updated_at": "2026-06-29T01:42:50Z",
     "url": "https://github.com/jaylfc/taOS"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-29T01:31:58Z",
     "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
-  },
-  {
-    "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
-    "id": "gatherfigtree740/ai-agent-landscape",
-    "language": "\u2014",
-    "name": "gatherfigtree740/ai-agent-landscape",
-    "stars": 1,
-    "updated_at": "2026-06-29T01:30:30Z",
-    "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
   }
 ]
