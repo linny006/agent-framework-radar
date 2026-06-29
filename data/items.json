@@ -1,12 +1,30 @@
 [
   {
-    "description": "A self-evolving, AI-native language and platform for intelligent agents and autonomous software.",
-    "id": "AetherraLabs/Aetherra",
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
     "language": "Python",
-    "name": "AetherraLabs/Aetherra",
-    "stars": 9,
-    "updated_at": "2026-06-29T09:29:32Z",
-    "url": "https://github.com/AetherraLabs/Aetherra"
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-29T09:44:06Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Production-grade AgentOps control plane for safe AI agent execution. Dual-plane architecture: Rust governance engine + P",
+    "id": "sattyamjjain/ferrumdeck",
+    "language": "TypeScript",
+    "name": "sattyamjjain/ferrumdeck",
+    "stars": 5,
+    "updated_at": "2026-06-29T09:43:20Z",
+    "url": "https://github.com/sattyamjjain/ferrumdeck"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 3,
+    "updated_at": "2026-06-29T09:44:11Z",
+    "url": "https://github.com/opencue/cuecards"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 5376,
-    "updated_at": "2026-06-29T09:30:21Z",
+    "updated_at": "2026-06-29T09:45:16Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18062,
+    "updated_at": "2026-06-29T09:39:33Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Agent SDK, CLI, RPC in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-06-29T09:41:01Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11745,
+    "updated_at": "2026-06-29T09:40:41Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "A self-evolving, AI-native language and platform for intelligent agents and autonomous software.",
+    "id": "AetherraLabs/Aetherra",
+    "language": "Python",
+    "name": "AetherraLabs/Aetherra",
+    "stars": 9,
+    "updated_at": "2026-06-29T09:34:03Z",
+    "url": "https://github.com/AetherraLabs/Aetherra"
+  },
+  {
+    "description": "CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for autoresearch. Works w",
+    "id": "Human-Agent-Society/CORAL",
+    "language": "Python",
+    "name": "Human-Agent-Society/CORAL",
+    "stars": 763,
+    "updated_at": "2026-06-29T09:30:46Z",
+    "url": "https://github.com/Human-Agent-Society/CORAL"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -23,15 +86,24 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-06-29T09:26:05Z",
+    "updated_at": "2026-06-29T09:30:25Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-06-29T09:33:51Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25302,
+    "stars": 25304,
     "updated_at": "2026-06-29T09:19:31Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -81,15 +153,6 @@
     "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
   },
   {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 3,
-    "updated_at": "2026-06-29T09:08:02Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
     "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
     "id": "rameswaran-mohan/project-systemu",
     "language": "Python",
@@ -135,21 +198,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11744,
-    "updated_at": "2026-06-29T09:27:26Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-06-29T09:04:49Z",
+    "updated_at": "2026-06-29T09:40:18Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-29T08:14:31Z",
     "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-06-29T08:14:19Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-29T08:14:15Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-06-29T08:13:59Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-06-29T08:13:37Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-06-29T08:13:32Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Deploy autonomous AI streamers on Kick with one command, automating chat, voice, avatar, and OBS streaming setup in unde",
-    "id": "yhlyblys66-art/moltstream",
-    "language": "TypeScript",
-    "name": "yhlyblys66-art/moltstream",
-    "stars": 3,
-    "updated_at": "2026-06-29T08:12:59Z",
-    "url": "https://github.com/yhlyblys66-art/moltstream"
   }
 ]
