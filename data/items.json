@@ -1,5 +1,77 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 5570,
+    "updated_at": "2026-06-30T10:00:16Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
+    "id": "ChronoAIProject/Ornn",
+    "language": "TypeScript",
+    "name": "ChronoAIProject/Ornn",
+    "stars": 19,
+    "updated_at": "2026-06-30T09:56:13Z",
+    "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-30T09:54:33Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
+    "id": "qbtrix/ripple-iui",
+    "language": "Svelte",
+    "name": "qbtrix/ripple-iui",
+    "stars": 3,
+    "updated_at": "2026-06-30T09:48:01Z",
+    "url": "https://github.com/qbtrix/ripple-iui"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-30T09:46:41Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "An agent runtime.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 9,
+    "updated_at": "2026-06-30T09:46:37Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "Mobile-native local AI Agent framework for iPhone with a fully offline local path, on-device models, native iOS Skills, ",
+    "id": "kellyvv/PhoneClaw",
+    "language": "Swift",
+    "name": "kellyvv/PhoneClaw",
+    "stars": 1114,
+    "updated_at": "2026-06-30T09:45:40Z",
+    "url": "https://github.com/kellyvv/PhoneClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-30T09:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
@@ -7,15 +79,6 @@
     "stars": 988,
     "updated_at": "2026-06-30T09:44:31Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 5566,
-    "updated_at": "2026-06-30T09:42:54Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T09:36:34Z",
     "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "An agent runtime.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 9,
-    "updated_at": "2026-06-30T09:34:58Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
@@ -85,7 +139,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25431,
+    "stars": 25435,
     "updated_at": "2026-06-30T09:34:01Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -112,18 +166,9 @@
     "id": "skerry699/agent-symphony",
     "language": "HTML",
     "name": "skerry699/agent-symphony",
-    "stars": 6,
+    "stars": 10,
     "updated_at": "2026-06-30T09:32:24Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
-    "id": "ChronoAIProject/Ornn",
-    "language": "TypeScript",
-    "name": "ChronoAIProject/Ornn",
-    "stars": 19,
-    "updated_at": "2026-06-30T09:42:42Z",
-    "url": "https://github.com/ChronoAIProject/Ornn"
   },
   {
     "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T09:31:32Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-30T09:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
@@ -157,7 +193,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 3633,
+    "stars": 3634,
     "updated_at": "2026-06-30T09:29:08Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -221,7 +257,7 @@
     "language": "TypeScript",
     "name": "opencue/cuecards",
     "stars": 3,
-    "updated_at": "2026-06-30T09:25:57Z",
+    "updated_at": "2026-06-30T09:57:03Z",
     "url": "https://github.com/opencue/cuecards"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-06-30T09:22:06Z",
     "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
-    "id": "qbtrix/ripple-iui",
-    "language": "Svelte",
-    "name": "qbtrix/ripple-iui",
-    "stars": 3,
-    "updated_at": "2026-06-30T09:20:12Z",
-    "url": "https://github.com/qbtrix/ripple-iui"
   },
   {
     "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
@@ -421,32 +448,5 @@
     "stars": 18094,
     "updated_at": "2026-06-30T09:10:27Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Deploy autonomous AI streamers on Kick with one command, automating chat, voice, avatar, and OBS streaming setup in unde",
-    "id": "yhlyblys66-art/moltstream",
-    "language": "TypeScript",
-    "name": "yhlyblys66-art/moltstream",
-    "stars": 3,
-    "updated_at": "2026-06-30T09:10:22Z",
-    "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-06-30T09:09:47Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-06-30T09:09:13Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
   }
 ]
