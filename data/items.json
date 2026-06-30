@@ -1,5 +1,86 @@
 [
   {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-30T16:44:27Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-06-30T16:43:45Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "The control plane for AI coding agents.",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1535,
+    "updated_at": "2026-06-30T16:40:57Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
+    "id": "ishoplus/xitto-kernel",
+    "language": "JavaScript",
+    "name": "ishoplus/xitto-kernel",
+    "stars": 0,
+    "updated_at": "2026-06-30T16:40:46Z",
+    "url": "https://github.com/ishoplus/xitto-kernel"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-06-30T16:38:09Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-06-30T16:37:36Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 212,
+    "updated_at": "2026-06-30T16:37:51Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 5,
+    "updated_at": "2026-06-30T16:35:24Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-30T16:34:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Dual-track quant platform: a governance-gated agent-execution framework + a systematic crypto alpha-research engine for ",
     "id": "junsier9/meridian-public",
     "language": "Python",
@@ -18,15 +99,6 @@
     "url": "https://github.com/swarmauri/swarmauri-sdk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-30T16:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
     "id": "yassineelfakiri/agentpg",
     "language": "Go",
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T16:30:16Z",
     "url": "https://github.com/yassineelfakiri/agentpg"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 212,
-    "updated_at": "2026-06-30T16:31:37Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -68,7 +131,7 @@
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 2,
-    "updated_at": "2026-06-30T16:29:28Z",
+    "updated_at": "2026-06-30T16:44:48Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
@@ -130,18 +193,9 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 5703,
+    "stars": 5707,
     "updated_at": "2026-06-30T16:14:02Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
-    "id": "ishoplus/xitto-kernel",
-    "language": "JavaScript",
-    "name": "ishoplus/xitto-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-30T16:10:51Z",
-    "url": "https://github.com/ishoplus/xitto-kernel"
   },
   {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 22 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
@@ -198,15 +252,6 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 1,
-    "updated_at": "2026-06-30T16:00:54Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
     "description": "Agent-agnostic base image for putting any terminal AI coding agent (claude-code, pi, opencode...) on the network. Bolt o",
     "id": "psyb0t/docker-aicodebox",
     "language": "Python",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-06-30T16:29:22Z",
+    "updated_at": "2026-06-30T16:36:07Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -239,7 +284,7 @@
     "language": "TypeScript",
     "name": "sweatco/archie-hq",
     "stars": 14,
-    "updated_at": "2026-06-30T15:54:47Z",
+    "updated_at": "2026-06-30T16:42:34Z",
     "url": "https://github.com/sweatco/archie-hq"
   },
   {
@@ -293,7 +338,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18097,
-    "updated_at": "2026-06-30T15:37:59Z",
+    "updated_at": "2026-06-30T16:40:33Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -328,7 +373,7 @@
     "id": "skerry699/agent-symphony",
     "language": "HTML",
     "name": "skerry699/agent-symphony",
-    "stars": 110,
+    "stars": 113,
     "updated_at": "2026-06-30T15:26:06Z",
     "url": "https://github.com/skerry699/agent-symphony"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T15:15:44Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Embeddable agent kernel for durable, provider-neutral LLM agents with permissions, pluggable tools, observability, and s",
-    "id": "hoonseokyoon/monoid-agent-kernel",
-    "language": "Python",
-    "name": "hoonseokyoon/monoid-agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-06-30T15:15:40Z",
-    "url": "https://github.com/hoonseokyoon/monoid-agent-kernel"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-30T15:14:03Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-06-30T15:13:05Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
-    "id": "Shiyao-Huang/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "Shiyao-Huang/awesome-agent-evolution",
-    "stars": 169,
-    "updated_at": "2026-06-30T15:13:03Z",
-    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
-  },
-  {
-    "description": ".NET 10 console app showcasing a RAG agent with query reformulation, contextual search, streaming responses, and source ",
-    "id": "marcominerva/AgentRag",
-    "language": "C#",
-    "name": "marcominerva/AgentRag",
-    "stars": 5,
-    "updated_at": "2026-06-30T15:11:48Z",
-    "url": "https://github.com/marcominerva/AgentRag"
   }
 ]
