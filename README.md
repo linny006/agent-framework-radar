@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-30 01:29 UTC
+> ⏰ Last updated: 2026-06-30 01:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [opencue/cuecards](https://github.com/opencue/cuecards) | 3 | TypeScript | 2026-06-30 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
-| 2 | [aAAaqwq/AGI-Super-Team](https://github.com/aAAaqwq/AGI-Super-Team) | 73 | Python | 2026-06-30 | GitHub AI-Super-Team for making agent teams with high-quality skills |
-| 3 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 11758 | Python | 2026-06-30 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
-| 4 | [bigbraingoldfish/lullabeast](https://github.com/bigbraingoldfish/lullabeast) | 2 | Python | 2026-06-30 | Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo |
-| 5 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-30 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-06-30 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [opencue/cuecards](https://github.com/opencue/cuecards) | 3 | TypeScript | 2026-06-30 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
+| 3 | [aAAaqwq/AGI-Super-Team](https://github.com/aAAaqwq/AGI-Super-Team) | 73 | Python | 2026-06-30 | GitHub AI-Super-Team for making agent teams with high-quality skills |
+| 4 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 11758 | Python | 2026-06-30 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
+| 5 | [bigbraingoldfish/lullabeast](https://github.com/bigbraingoldfish/lullabeast) | 2 | Python | 2026-06-30 | Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo |
 | 6 | [scaling-group/eve](https://github.com/scaling-group/eve) | 36 | Python | 2026-06-30 | EvE is an open-source framework for co-evolving ensembles of coding agents. Wrap any coding agent — Codex, Claude Code — |
 | 7 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 367 | Go | 2026-06-30 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
 | 8 | [jkraybill/gordo-forge](https://github.com/jkraybill/gordo-forge) | 3 | TypeScript | 2026-06-30 | AI-guided onboarding for human-AI collaboration projects |

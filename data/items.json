@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-30T01:29:16Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "aAAaqwq/AGI-Super-Team",
     "stars": 73,
-    "updated_at": "2026-06-30T01:25:51Z",
+    "updated_at": "2026-06-30T01:30:14Z",
     "url": "https://github.com/aAAaqwq/AGI-Super-Team"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 2,
     "updated_at": "2026-06-30T01:23:04Z",
     "url": "https://github.com/bigbraingoldfish/lullabeast"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-30T01:15:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "EvE is an open-source framework for co-evolving ensembles of coding agents. Wrap any coding agent \u2014 Codex, Claude Code \u2014",
