@@ -1,5 +1,95 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 5540,
+    "updated_at": "2026-06-30T08:15:04Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Agent SDK, CLI, RPC in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-06-30T08:13:51Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "Kotlin-first framework for building Model Agnostic AI applications, RAG systems, and agentic workflows on Android and Ko",
+    "id": "MobileGraph/mobilegraph",
+    "language": "Kotlin",
+    "name": "MobileGraph/mobilegraph",
+    "stars": 0,
+    "updated_at": "2026-06-30T08:13:44Z",
+    "url": "https://github.com/MobileGraph/mobilegraph"
+  },
+  {
+    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
+    "id": "ulsreall/web3-agent-kit",
+    "language": "Python",
+    "name": "ulsreall/web3-agent-kit",
+    "stars": 14,
+    "updated_at": "2026-06-30T08:13:12Z",
+    "url": "https://github.com/ulsreall/web3-agent-kit"
+  },
+  {
+    "description": "White-box, task-centric multi-agent AI platform for business ops, sysadmin, research & office automation \u2014 every reasoni",
+    "id": "sievepub-2000/octoagent",
+    "language": "Python",
+    "name": "sievepub-2000/octoagent",
+    "stars": 0,
+    "updated_at": "2026-06-30T08:12:41Z",
+    "url": "https://github.com/sievepub-2000/octoagent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 25422,
+    "updated_at": "2026-06-30T08:11:24Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
+    "id": "manishiitg/mcp-agent-builder-go",
+    "language": "Go",
+    "name": "manishiitg/mcp-agent-builder-go",
+    "stars": 5,
+    "updated_at": "2026-06-30T08:05:35Z",
+    "url": "https://github.com/manishiitg/mcp-agent-builder-go"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 3,
+    "updated_at": "2026-06-30T08:05:44Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
+    "id": "qbtrix/ripple-iui",
+    "language": "Svelte",
+    "name": "qbtrix/ripple-iui",
+    "stars": 3,
+    "updated_at": "2026-06-30T08:02:53Z",
+    "url": "https://github.com/qbtrix/ripple-iui"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-30T08:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
     "id": "s2mgtvodois2/postgresql-mcp-js",
     "language": "TypeScript",
@@ -18,24 +108,6 @@
     "url": "https://github.com/ChronoAIProject/Ornn"
   },
   {
-    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
-    "id": "ulsreall/web3-agent-kit",
-    "language": "Python",
-    "name": "ulsreall/web3-agent-kit",
-    "stars": 14,
-    "updated_at": "2026-06-30T07:56:32Z",
-    "url": "https://github.com/ulsreall/web3-agent-kit"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 5536,
-    "updated_at": "2026-06-30T07:54:46Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T07:54:39Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
-    "id": "manishiitg/mcp-agent-builder-go",
-    "language": "Go",
-    "name": "manishiitg/mcp-agent-builder-go",
-    "stars": 5,
-    "updated_at": "2026-06-30T07:54:26Z",
-    "url": "https://github.com/manishiitg/mcp-agent-builder-go"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -70,15 +133,6 @@
     "stars": 11764,
     "updated_at": "2026-06-30T07:51:43Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-30T07:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-Agent OS Pixel World 2026: Autonomous LLM NPCs with MCP Skills",
@@ -108,15 +162,6 @@
     "url": "https://github.com/bzcsk2/looprig"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25421,
-    "updated_at": "2026-06-30T07:36:01Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
     "id": "iflytek/skillhub",
     "language": "Java",
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 69,
-    "updated_at": "2026-06-30T07:15:37Z",
+    "updated_at": "2026-06-30T08:10:17Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 193,
-    "updated_at": "2026-06-30T07:35:09Z",
+    "updated_at": "2026-06-30T08:02:58Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -151,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T07:09:21Z",
     "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
-  },
-  {
-    "description": "Agent SDK, CLI, RPC in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 6,
-    "updated_at": "2026-06-30T07:47:07Z",
-    "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 3,
-    "updated_at": "2026-06-30T07:01:50Z",
-    "url": "https://github.com/opencue/cuecards"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -196,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T07:00:14Z",
     "url": "https://github.com/AjnasNB/maqam"
-  },
-  {
-    "description": "Kotlin-first framework for building Model Agnostic AI applications, RAG systems, and agentic workflows on Android and Ko",
-    "id": "MobileGraph/mobilegraph",
-    "language": "Kotlin",
-    "name": "MobileGraph/mobilegraph",
-    "stars": 0,
-    "updated_at": "2026-06-30T07:50:56Z",
-    "url": "https://github.com/MobileGraph/mobilegraph"
   },
   {
     "description": "Event-Driven Cognitive Execution Engine for AI Agents \u2014 612 lines of pure Python, zero dependencies. BM25 retrieval + 5-",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-30T06:19:14Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-30T06:18:54Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-30T06:18:06Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
