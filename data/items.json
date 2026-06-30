@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-30T14:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -7,6 +16,15 @@
     "stars": 5652,
     "updated_at": "2026-06-30T14:14:11Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-06-30T14:13:49Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
   },
   {
     "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
@@ -77,7 +95,7 @@
     "language": "Go",
     "name": "JoakimCarlsson/ai",
     "stars": 31,
-    "updated_at": "2026-06-30T14:05:11Z",
+    "updated_at": "2026-06-30T14:15:48Z",
     "url": "https://github.com/JoakimCarlsson/ai"
   },
   {
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T14:00:30Z",
     "url": "https://github.com/yassineelfakiri/agentpg"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-30T14:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
@@ -409,7 +418,7 @@
     "id": "skerry699/agent-symphony",
     "language": "HTML",
     "name": "skerry699/agent-symphony",
-    "stars": 75,
+    "stars": 76,
     "updated_at": "2026-06-30T12:07:23Z",
     "url": "https://github.com/skerry699/agent-symphony"
   },
@@ -439,14 +448,5 @@
     "stars": 610,
     "updated_at": "2026-06-30T12:04:11Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
-  },
-  {
-    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
-    "id": "salvatoreabient793/cursor-auto-deployment-agent",
-    "language": "\u2014",
-    "name": "salvatoreabient793/cursor-auto-deployment-agent",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:03:49Z",
-    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
   }
 ]
