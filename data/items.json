@@ -1,5 +1,59 @@
 [
   {
+    "description": "Record, replay, and improve AI agents in production, built on ZenML",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 193,
+    "updated_at": "2026-06-30T12:57:25Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6352,
+    "updated_at": "2026-06-30T12:56:52Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 25449,
+    "updated_at": "2026-06-30T12:54:30Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 5631,
+    "updated_at": "2026-06-30T12:59:59Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 0,
+    "updated_at": "2026-06-30T12:50:37Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-30T12:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
     "id": "ishoplus/xitto-kernel",
     "language": "JavaScript",
@@ -9,15 +63,6 @@
     "url": "https://github.com/ishoplus/xitto-kernel"
   },
   {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:44:06Z",
-    "url": "https://github.com/dshakes/lantern"
-  },
-  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -25,15 +70,6 @@
     "stars": 212,
     "updated_at": "2026-06-30T12:44:14Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 5629,
-    "updated_at": "2026-06-30T12:42:20Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
@@ -54,21 +90,12 @@
     "url": "https://github.com/ethosagent/ethos"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-30T12:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
     "id": "sweatco/archie-hq",
     "language": "TypeScript",
     "name": "sweatco/archie-hq",
     "stars": 14,
-    "updated_at": "2026-06-30T12:29:24Z",
+    "updated_at": "2026-06-30T12:49:56Z",
     "url": "https://github.com/sweatco/archie-hq"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 9,
     "updated_at": "2026-06-30T12:27:15Z",
     "url": "https://github.com/modelstudioai/openwork"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25448,
-    "updated_at": "2026-06-30T12:25:31Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A knowledge cycle for AI agents \u2014 one that grows with the people who shape it. Centered on the scarcity of human attenti",
@@ -157,7 +175,7 @@
     "id": "skerry699/agent-symphony",
     "language": "HTML",
     "name": "skerry699/agent-symphony",
-    "stars": 53,
+    "stars": 56,
     "updated_at": "2026-06-30T12:07:23Z",
     "url": "https://github.com/skerry699/agent-symphony"
   },
@@ -220,7 +238,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11773,
+    "stars": 11774,
     "updated_at": "2026-06-30T12:01:51Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -250,15 +268,6 @@
     "stars": 18097,
     "updated_at": "2026-06-30T11:59:48Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Record, replay, and improve AI agents in production, built on ZenML",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 193,
-    "updated_at": "2026-06-30T12:45:17Z",
-    "url": "https://github.com/zenml-io/kitaru"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -436,17 +445,8 @@
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
     "name": "israriqbal/agent-ecologies",
-    "stars": 53,
+    "stars": 55,
     "updated_at": "2026-06-30T11:43:10Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-30T11:43:02Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
   }
 ]
