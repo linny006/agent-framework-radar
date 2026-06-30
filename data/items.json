@@ -1,12 +1,57 @@
 [
   {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 517,
+    "updated_at": "2026-06-30T19:13:12Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "PurrCat Agent",
+    "id": "PurrPod/purrcat",
+    "language": "Python",
+    "name": "PurrPod/purrcat",
+    "stars": 5,
+    "updated_at": "2026-06-30T19:12:16Z",
+    "url": "https://github.com/PurrPod/purrcat"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-06-30T19:11:07Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-30T19:07:58Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
     "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
     "id": "swarmauri/swarmauri-sdk",
     "language": "Python",
     "name": "swarmauri/swarmauri-sdk",
     "stars": 104,
-    "updated_at": "2026-06-30T18:59:54Z",
+    "updated_at": "2026-06-30T19:00:47Z",
     "url": "https://github.com/swarmauri/swarmauri-sdk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-30T19:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "For3s OS - The self-hosted AI second brain that remembers, learns, and works in a team \u2014 your data, your server.",
@@ -77,7 +122,7 @@
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 2,
-    "updated_at": "2026-06-30T18:46:52Z",
+    "updated_at": "2026-06-30T19:06:08Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T18:46:06Z",
     "url": "https://github.com/PiloTracer/.ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-30T18:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Composable Python SDK for building single-agent and multi-agent AI systems.",
@@ -112,7 +148,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18099,
+    "stars": 18100,
     "updated_at": "2026-06-30T18:28:43Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -176,7 +212,7 @@
     "language": "Go",
     "name": "sheawinkler/ContextLattice",
     "stars": 122,
-    "updated_at": "2026-06-30T18:17:07Z",
+    "updated_at": "2026-06-30T19:15:11Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
@@ -229,7 +265,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 5719,
+    "stars": 5723,
     "updated_at": "2026-06-30T17:55:51Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -256,7 +292,7 @@
     "id": "skerry699/agent-symphony",
     "language": "HTML",
     "name": "skerry699/agent-symphony",
-    "stars": 149,
+    "stars": 150,
     "updated_at": "2026-06-30T17:52:04Z",
     "url": "https://github.com/skerry699/agent-symphony"
   },
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11784,
-    "updated_at": "2026-06-30T17:47:00Z",
+    "updated_at": "2026-06-30T19:09:50Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6357,
     "updated_at": "2026-06-30T17:37:14Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-06-30T17:36:50Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-06-30T17:36:46Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-30T17:36:28Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-30T17:35:38Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
