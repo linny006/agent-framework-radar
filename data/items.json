@@ -1,5 +1,32 @@
 [
   {
+    "description": "Run a full AI agent on any laptop \u2014 local 7B model, 6 tools, routing, memory, observability. No GPU, no cloud API key, n",
+    "id": "ahmedhabibo/hermes-lite",
+    "language": "Python",
+    "name": "ahmedhabibo/hermes-lite",
+    "stars": 0,
+    "updated_at": "2026-06-30T18:43:23Z",
+    "url": "https://github.com/ahmedhabibo/hermes-lite"
+  },
+  {
+    "description": "Composable Python SDK for building single-agent and multi-agent AI systems.",
+    "id": "nanitics/nanitics",
+    "language": "Python",
+    "name": "nanitics/nanitics",
+    "stars": 5,
+    "updated_at": "2026-06-30T18:43:10Z",
+    "url": "https://github.com/nanitics/nanitics"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-06-30T18:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
     "id": "swarmauri/swarmauri-sdk",
     "language": "Python",
@@ -13,7 +40,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18097,
+    "stars": 18098,
     "updated_at": "2026-06-30T18:28:43Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -59,17 +86,8 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 5,
-    "updated_at": "2026-06-30T18:25:33Z",
+    "updated_at": "2026-06-30T18:44:05Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-06-30T18:23:08Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Democratizing Reinforcement Learning for LLMs",
@@ -126,15 +144,6 @@
     "url": "https://github.com/Mavis2103/skill-context-manager"
   },
   {
-    "description": "Composable Python SDK for building single-agent and multi-agent AI systems.",
-    "id": "nanitics/nanitics",
-    "language": "Python",
-    "name": "nanitics/nanitics",
-    "stars": 5,
-    "updated_at": "2026-06-30T18:23:25Z",
-    "url": "https://github.com/nanitics/nanitics"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -148,7 +157,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 5718,
+    "stars": 5719,
     "updated_at": "2026-06-30T17:55:51Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -175,7 +184,7 @@
     "id": "skerry699/agent-symphony",
     "language": "HTML",
     "name": "skerry699/agent-symphony",
-    "stars": 143,
+    "stars": 145,
     "updated_at": "2026-06-30T17:52:04Z",
     "url": "https://github.com/skerry699/agent-symphony"
   },
@@ -337,7 +346,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6356,
+    "stars": 6357,
     "updated_at": "2026-06-30T17:37:14Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -437,16 +446,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-06-30T18:25:55Z",
+    "updated_at": "2026-06-30T18:45:01Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 1,
-    "updated_at": "2026-06-30T17:24:42Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
   }
 ]
