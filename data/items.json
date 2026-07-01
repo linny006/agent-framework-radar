@@ -1,5 +1,41 @@
 [
   {
+    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
+    "id": "saajunaid/junai",
+    "language": "Python",
+    "name": "saajunaid/junai",
+    "stars": 0,
+    "updated_at": "2026-07-01T01:11:57Z",
+    "url": "https://github.com/saajunaid/junai"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 0,
+    "updated_at": "2026-07-01T01:09:28Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-07-01T01:09:04Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-01T01:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
     "id": "s2mgtvodois2/postgresql-mcp-js",
     "language": "TypeScript",
@@ -45,15 +81,6 @@
     "url": "https://github.com/Scottcjn/shaprai"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-01T00:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
     "id": "agenvoy/Agenvoy",
     "language": "Go",
@@ -72,31 +99,13 @@
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
-    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
-    "id": "saajunaid/junai",
-    "language": "Python",
-    "name": "saajunaid/junai",
-    "stars": 0,
-    "updated_at": "2026-07-01T00:44:41Z",
-    "url": "https://github.com/saajunaid/junai"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-01T00:44:30Z",
+    "updated_at": "2026-07-01T01:12:55Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 0,
-    "updated_at": "2026-07-01T00:44:03Z",
-    "url": "https://github.com/dshakes/lantern"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -139,7 +148,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 5766,
+    "stars": 5770,
     "updated_at": "2026-07-01T00:31:23Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -194,7 +203,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 39,
-    "updated_at": "2026-07-01T00:55:11Z",
+    "updated_at": "2026-07-01T01:12:41Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18104,
-    "updated_at": "2026-07-01T00:51:06Z",
+    "updated_at": "2026-07-01T01:08:35Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T23:22:56Z",
     "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-06-30T23:22:24Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
   }
 ]
