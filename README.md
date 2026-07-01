@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-01 20:28 UTC
+> ⏰ Last updated: 2026-07-01 20:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [setup-os-labs/setup-os](https://github.com/setup-os-labs/setup-os) | 0 | Python | 2026-07-01 | Open-core AI systems architect that turns planning conversations into local self-hosted operating systems |
-| 2 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 6 | JavaScript | 2026-07-01 | Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API |
-| 3 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 39 | TypeScript | 2026-07-01 | Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo |
-| 4 | [gymaira1990-jpg/noah-gen3-type2](https://github.com/gymaira1990-jpg/noah-gen3-type2) | 6 | Python | 2026-07-01 | 🏛️ 通用型AI认知架构 · 诺亚三代二型 — 抽屉级联上下文管理 / 记忆闭环(Mnemosyne) / 自主进化。实战萃取，MIT开源 |
-| 5 | [zizetu/existential-identity-test-engine](https://github.com/zizetu/existential-identity-test-engine) | 0 | Python | 2026-07-01 | Existential Identity Test Engine — EITE Agent Framework |
-| 6 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 4569 | Python | 2026-07-01 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
-| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-01 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-01 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [setup-os-labs/setup-os](https://github.com/setup-os-labs/setup-os) | 0 | Python | 2026-07-01 | Open-core AI systems architect that turns planning conversations into local self-hosted operating systems |
+| 3 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 6 | JavaScript | 2026-07-01 | Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API |
+| 4 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 39 | TypeScript | 2026-07-01 | Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo |
+| 5 | [gymaira1990-jpg/noah-gen3-type2](https://github.com/gymaira1990-jpg/noah-gen3-type2) | 6 | Python | 2026-07-01 | 🏛️ 通用型AI认知架构 · 诺亚三代二型 — 抽屉级联上下文管理 / 记忆闭环(Mnemosyne) / 自主进化。实战萃取，MIT开源 |
+| 6 | [zizetu/existential-identity-test-engine](https://github.com/zizetu/existential-identity-test-engine) | 0 | Python | 2026-07-01 | Existential Identity Test Engine — EITE Agent Framework |
+| 7 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 4569 | Python | 2026-07-01 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
 | 8 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-07-01 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
 | 9 | [Coding-Autopilot-System/autogen](https://github.com/Coding-Autopilot-System/autogen) | 0 | Python | 2026-07-01 | Local-first multi-agent engineering workbench with operator-visible execution |
 | 10 | [br3eze-code/br3eze-code](https://github.com/br3eze-code/br3eze-code) | 1 | JavaScript | 2026-07-01 | Personal Ai Agent |
