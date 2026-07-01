@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
+    "id": "manishiitg/mcp-agent-builder-go",
+    "language": "Go",
+    "name": "manishiitg/mcp-agent-builder-go",
+    "stars": 5,
+    "updated_at": "2026-07-01T15:00:00Z",
+    "url": "https://github.com/manishiitg/mcp-agent-builder-go"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-01T14:52:55Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
+    "id": "fathirn6263/harness-engineering",
+    "language": "\u2014",
+    "name": "fathirn6263/harness-engineering",
+    "stars": 0,
+    "updated_at": "2026-07-01T14:48:59Z",
+    "url": "https://github.com/fathirn6263/harness-engineering"
+  },
+  {
+    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
+    "id": "Messa8301/quickbench",
+    "language": "\u2014",
+    "name": "Messa8301/quickbench",
+    "stars": 0,
+    "updated_at": "2026-07-01T14:48:21Z",
+    "url": "https://github.com/Messa8301/quickbench"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 5896,
+    "updated_at": "2026-07-01T14:47:35Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
+    "id": "breastless-andcircuit638/lean-loop",
+    "language": "\u2014",
+    "name": "breastless-andcircuit638/lean-loop",
+    "stars": 1,
+    "updated_at": "2026-07-01T14:46:31Z",
+    "url": "https://github.com/breastless-andcircuit638/lean-loop"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 153,
+    "updated_at": "2026-07-01T14:46:28Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 25587,
+    "updated_at": "2026-07-01T14:46:02Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-01T14:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
     "id": "Markusnigerian562/Project-A-MOS-Framework",
     "language": "Shell",
@@ -68,7 +149,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 17,
-    "updated_at": "2026-07-01T14:42:51Z",
+    "updated_at": "2026-07-01T14:53:14Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -106,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-01T14:42:02Z",
     "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 5892,
-    "updated_at": "2026-07-01T14:45:11Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
@@ -167,7 +239,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6476,
-    "updated_at": "2026-07-01T14:33:06Z",
+    "updated_at": "2026-07-01T14:49:18Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -196,15 +268,6 @@
     "stars": 3,
     "updated_at": "2026-07-01T14:30:25Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-01T14:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
@@ -261,15 +324,6 @@
     "url": "https://github.com/Maroo1121/Agent-Driven-Development"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-01T14:29:40Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "An agent runtime.",
     "id": "shadow3aaa/DaatLocus",
     "language": "Rust",
@@ -304,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-07-01T14:24:36Z",
     "url": "https://github.com/0bserver07/chimera"
-  },
-  {
-    "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
-    "id": "manishiitg/mcp-agent-builder-go",
-    "language": "Go",
-    "name": "manishiitg/mcp-agent-builder-go",
-    "stars": 5,
-    "updated_at": "2026-07-01T14:24:14Z",
-    "url": "https://github.com/manishiitg/mcp-agent-builder-go"
   },
   {
     "description": "Local-first AI agent runtime with autonomous context awareness. CLI & desktop, MCP integration, Hooks, Skills, multi-age",
@@ -403,50 +448,5 @@
     "stars": 769,
     "updated_at": "2026-07-01T14:08:20Z",
     "url": "https://github.com/Human-Agent-Society/CORAL"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25585,
-    "updated_at": "2026-07-01T14:29:05Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
-    "id": "kaydenplayZ/agent-skills-guide",
-    "language": "\u2014",
-    "name": "kaydenplayZ/agent-skills-guide",
-    "stars": 0,
-    "updated_at": "2026-07-01T14:05:51Z",
-    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
-  },
-  {
-    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
-    "id": "TonCerqueira/MiroThinker",
-    "language": "Python",
-    "name": "TonCerqueira/MiroThinker",
-    "stars": 1,
-    "updated_at": "2026-07-01T14:03:50Z",
-    "url": "https://github.com/TonCerqueira/MiroThinker"
-  },
-  {
-    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
-    "id": "Studnicky/Dagonizer",
-    "language": "TypeScript",
-    "name": "Studnicky/Dagonizer",
-    "stars": 3,
-    "updated_at": "2026-07-01T14:00:40Z",
-    "url": "https://github.com/Studnicky/Dagonizer"
-  },
-  {
-    "description": "White-box, task-centric multi-agent AI platform for business ops, sysadmin, research & office automation \u2014 every reasoni",
-    "id": "sievepub-2000/octoagent",
-    "language": "Python",
-    "name": "sievepub-2000/octoagent",
-    "stars": 0,
-    "updated_at": "2026-07-01T14:00:36Z",
-    "url": "https://github.com/sievepub-2000/octoagent"
   }
 ]
