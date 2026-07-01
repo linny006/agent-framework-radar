@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TokonoMix/agents-never-sleep](https://github.com/TokonoMix/agents-never-sleep) | 0 | Python | 2026-07-01 | agents-never-sleep |
-| 2 | [alexverify/eyebrow](https://github.com/alexverify/eyebrow) | 1 | Go | 2026-07-01 | Trust and verification for the skills your AI agent installs. |
-| 3 | [q-j0k/sprintloop-orchestration](https://github.com/q-j0k/sprintloop-orchestration) | 1 | — | 2026-07-01 | 🚀 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents  |
-| 4 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-01 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-01 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [TokonoMix/agents-never-sleep](https://github.com/TokonoMix/agents-never-sleep) | 0 | Python | 2026-07-01 | agents-never-sleep |
+| 3 | [alexverify/eyebrow](https://github.com/alexverify/eyebrow) | 1 | Go | 2026-07-01 | Trust and verification for the skills your AI agent installs. |
+| 4 | [q-j0k/sprintloop-orchestration](https://github.com/q-j0k/sprintloop-orchestration) | 1 | — | 2026-07-01 | 🚀 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents  |
 | 5 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-07-01 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
 | 6 | [amitpatole/verel](https://github.com/amitpatole/verel) | 3 | Python | 2026-07-01 | Verified agents — nothing is "done" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem |
 | 7 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-07-01 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
@@ -60,7 +60,7 @@ expired items removed — so you can rely on what you see being current.
 | 16 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-07-01 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
 | 17 | [111nathanlar/Agent-Worlds](https://github.com/111nathanlar/Agent-Worlds) | 0 | HTML | 2026-07-01 |  |
 | 18 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-01 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 19 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 11807 | Python | 2026-07-01 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
+| 19 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 11808 | Python | 2026-07-01 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
 | 20 | [LuckyOneTwoThree/harness-all](https://github.com/LuckyOneTwoThree/harness-all) | 15 | PowerShell | 2026-07-01 | 🪢 Multi-Agent framework family for AI-powered product development — PM · Design · Engineering · Growth · Ops \| 面向 AI 原生产 |
 | 21 | [Eliyce/paqad-ai](https://github.com/Eliyce/paqad-ai) | 5 | TypeScript | 2026-07-01 | Spec-driven development framework — AI agents that think before they type |
 | 22 | [sievepub-2000/octoagent](https://github.com/sievepub-2000/octoagent) | 0 | Python | 2026-07-01 | White-box, task-centric multi-agent AI platform for business ops, sysadmin, research & office automation — every reasoni |
