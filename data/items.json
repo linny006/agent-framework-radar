@@ -1,5 +1,23 @@
 [
   {
+    "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
+    "id": "Asceticrefractoryperiod28/Foundry",
+    "language": "TypeScript",
+    "name": "Asceticrefractoryperiod28/Foundry",
+    "stars": 0,
+    "updated_at": "2026-07-01T05:00:47Z",
+    "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-01T05:00:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
     "id": "salvatoreabient793/cursor-auto-deployment-agent",
     "language": "\u2014",
@@ -205,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-01T04:45:26Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-01T04:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-01T04:25:48Z",
     "url": "https://github.com/yeab405/rusty-gitclaw"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-07-01T04:25:59Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   }
 ]
