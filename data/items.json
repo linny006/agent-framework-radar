@@ -1,12 +1,30 @@
 [
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-01T02:42:46Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 10,
+    "updated_at": "2026-07-01T02:55:59Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 9,
+    "updated_at": "2026-07-01T02:52:43Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "\u7ec7\u673a \u00b7 \u4e94\u4e2a\u539f\u8bed\uff0c\u7f16\u7ec7\u4efb\u610f Agent \u6a21\u5f0f | Go Agent \u5185\u6838\uff0c600 LOC",
+    "id": "jinyitao123/loom",
+    "language": "Go",
+    "name": "jinyitao123/loom",
+    "stars": 1,
+    "updated_at": "2026-07-01T02:51:16Z",
+    "url": "https://github.com/jinyitao123/loom"
   },
   {
     "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "0bserver07/chimera",
     "stars": 1,
-    "updated_at": "2026-07-01T02:42:44Z",
+    "updated_at": "2026-07-01T02:45:51Z",
     "url": "https://github.com/0bserver07/chimera"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-01T02:45:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-01T02:42:46Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
@@ -27,11 +63,20 @@
     "url": "https://github.com/Ecro/harness-maker"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 5791,
+    "updated_at": "2026-07-01T02:58:14Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25503,
+    "stars": 25505,
     "updated_at": "2026-07-01T02:40:47Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -43,15 +88,6 @@
     "stars": 8829,
     "updated_at": "2026-07-01T02:40:06Z",
     "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 5789,
-    "updated_at": "2026-07-01T02:41:11Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "COMA is an LLM agent harness written entirely in Zig.",
@@ -169,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-01T02:30:26Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-01T02:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-01T02:09:19Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-07-01T02:08:41Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4559,
-    "updated_at": "2026-07-01T02:06:15Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
-    "id": "Ibisselfgovernment28/v1-multiagent-articles",
-    "language": "\u2014",
-    "name": "Ibisselfgovernment28/v1-multiagent-articles",
-    "stars": 1,
-    "updated_at": "2026-07-01T02:05:51Z",
-    "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
   }
 ]
