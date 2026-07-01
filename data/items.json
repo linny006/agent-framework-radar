@@ -1,12 +1,120 @@
 [
   {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-01T16:14:28Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-01T16:14:21Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Open-core AI systems architect that turns planning conversations into local self-hosted operating systems",
+    "id": "setup-os-labs/setup-os",
+    "language": "Python",
+    "name": "setup-os-labs/setup-os",
+    "stars": 0,
+    "updated_at": "2026-07-01T16:13:47Z",
+    "url": "https://github.com/setup-os-labs/setup-os"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-07-01T16:13:36Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11804,
+    "updated_at": "2026-07-01T16:12:27Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-07-01T16:11:03Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 561,
+    "updated_at": "2026-07-01T16:10:17Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
     "description": "Local-first, loop-native AI agent runtime: build a team of LLM agents that run your work, verify themselves, and compoun",
     "id": "Caprista/KarvyLoop",
     "language": "Python",
     "name": "Caprista/KarvyLoop",
     "stars": 8,
-    "updated_at": "2026-07-01T16:00:03Z",
+    "updated_at": "2026-07-01T16:06:26Z",
     "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-07-01T16:05:13Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-07-01T16:04:46Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "Loop quality layer for production AI agents. Detects silent failures, runs agents on a schedule with verify + handoff, a",
+    "id": "vanamayaswanth/tvastar",
+    "language": "Python",
+    "name": "vanamayaswanth/tvastar",
+    "stars": 2,
+    "updated_at": "2026-07-01T16:03:13Z",
+    "url": "https://github.com/vanamayaswanth/tvastar"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-01T16:02:53Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-01T16:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 8 KI-Agenten lokal orchestrieren \u2013 ohne Cloud. FastAPI, DeepSeek, SQLite-Message-Queue, FAISS-Embeddings, Gatekeeper-S",
@@ -54,15 +162,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11804,
-    "updated_at": "2026-07-01T15:47:53Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
     "id": "10xHub/Agentflow",
     "language": "Python",
@@ -70,15 +169,6 @@
     "stars": 15,
     "updated_at": "2026-07-01T15:46:49Z",
     "url": "https://github.com/10xHub/Agentflow"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-01T15:45:34Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -106,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-01T15:41:15Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Loop quality layer for production AI agents. Detects silent failures, runs agents on a schedule with verify + handoff, a",
-    "id": "vanamayaswanth/tvastar",
-    "language": "Python",
-    "name": "vanamayaswanth/tvastar",
-    "stars": 2,
-    "updated_at": "2026-07-01T15:40:19Z",
-    "url": "https://github.com/vanamayaswanth/tvastar"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -193,7 +274,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25590,
+    "stars": 25591,
     "updated_at": "2026-07-01T15:27:44Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -214,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-01T15:26:16Z",
     "url": "https://github.com/achappey/aihappey-agents"
-  },
-  {
-    "description": "Open-core AI systems architect that turns planning conversations into local self-hosted operating systems",
-    "id": "setup-os-labs/setup-os",
-    "language": "Python",
-    "name": "setup-os-labs/setup-os",
-    "stars": 0,
-    "updated_at": "2026-07-01T15:26:11Z",
-    "url": "https://github.com/setup-os-labs/setup-os"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -270,20 +342,11 @@
     "url": "https://github.com/dhangerkapil/fsi-agentic-reporting-copilot"
   },
   {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 561,
-    "updated_at": "2026-07-01T15:57:43Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 5905,
+    "stars": 5907,
     "updated_at": "2026-07-01T15:16:32Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -329,7 +392,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 17,
-    "updated_at": "2026-07-01T15:01:58Z",
+    "updated_at": "2026-07-01T16:08:47Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 153,
     "updated_at": "2026-07-01T14:46:28Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 1,
-    "updated_at": "2026-07-01T14:44:53Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-07-01T14:44:40Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-01T14:44:36Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-07-01T14:44:12Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-07-01T14:43:44Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-07-01T14:43:30Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Deploy autonomous AI streamers on Kick with one command, automating chat, voice, avatar, and OBS streaming setup in unde",
-    "id": "yhlyblys66-art/moltstream",
-    "language": "TypeScript",
-    "name": "yhlyblys66-art/moltstream",
-    "stars": 3,
-    "updated_at": "2026-07-01T14:43:01Z",
-    "url": "https://github.com/yhlyblys66-art/moltstream"
   }
 ]
