@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-01T00:59:34Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 0,
+    "updated_at": "2026-07-01T00:51:50Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 4,
+    "updated_at": "2026-07-01T00:51:08Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "A curated list of AI agent platforms, frameworks, protocols, tools, and resources",
+    "id": "Scottcjn/awesome-agents",
+    "language": "\u2014",
+    "name": "Scottcjn/awesome-agents",
+    "stars": 94,
+    "updated_at": "2026-07-01T00:50:55Z",
+    "url": "https://github.com/Scottcjn/awesome-agents"
+  },
+  {
+    "description": "ShaprAI \u2014 Agent Sharpener by Elyan Labs. Sharpen raw models into principled, self-governing Elyan-class agents. Requires",
+    "id": "Scottcjn/shaprai",
+    "language": "Python",
+    "name": "Scottcjn/shaprai",
+    "stars": 71,
+    "updated_at": "2026-07-01T00:50:09Z",
+    "url": "https://github.com/Scottcjn/shaprai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-01T00:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
     "id": "agenvoy/Agenvoy",
     "language": "Go",
@@ -14,7 +68,7 @@
     "language": "Go",
     "name": "sheawinkler/ContextLattice",
     "stars": 122,
-    "updated_at": "2026-07-01T00:44:57Z",
+    "updated_at": "2026-07-01T00:46:45Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
@@ -85,18 +139,9 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 5760,
+    "stars": 5766,
     "updated_at": "2026-07-01T00:31:23Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-01T00:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
@@ -149,7 +194,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 39,
-    "updated_at": "2026-07-01T00:06:08Z",
+    "updated_at": "2026-07-01T00:55:11Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18104,
-    "updated_at": "2026-07-01T00:04:38Z",
+    "updated_at": "2026-07-01T00:51:06Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 4556,
-    "updated_at": "2026-06-30T23:50:54Z",
+    "updated_at": "2026-07-01T00:53:00Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T23:22:24Z",
     "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-06-30T23:22:00Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-06-30T23:20:17Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-06-30T23:20:10Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-06-30T23:19:52Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-06-30T23:19:02Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
