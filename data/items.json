@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-02T10:44:57Z",
+    "updated_at": "2026-07-02T10:59:00Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
+    "id": "ishoplus/xitto-kernel",
+    "language": "JavaScript",
+    "name": "ishoplus/xitto-kernel",
+    "stars": 0,
+    "updated_at": "2026-07-02T10:58:44Z",
+    "url": "https://github.com/ishoplus/xitto-kernel"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 5993,
+    "updated_at": "2026-07-02T10:58:21Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-02T10:50:19Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-02T10:46:01Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T10:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
@@ -16,15 +61,6 @@
     "stars": 385,
     "updated_at": "2026-07-02T10:43:44Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 5993,
-    "updated_at": "2026-07-02T10:42:54Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -85,7 +121,7 @@
     "id": "kellyvv/PhoneClaw",
     "language": "Swift",
     "name": "kellyvv/PhoneClaw",
-    "stars": 1124,
+    "stars": 1125,
     "updated_at": "2026-07-02T10:35:49Z",
     "url": "https://github.com/kellyvv/PhoneClaw"
   },
@@ -97,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-02T10:34:31Z",
     "url": "https://github.com/atrislabs/member"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T10:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The control plane for AI coding agents.",
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 617,
-    "updated_at": "2026-07-02T10:44:24Z",
+    "updated_at": "2026-07-02T10:47:08Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T10:14:43Z",
     "url": "https://github.com/oneirozzzz7/educe"
-  },
-  {
-    "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
-    "id": "ishoplus/xitto-kernel",
-    "language": "JavaScript",
-    "name": "ishoplus/xitto-kernel",
-    "stars": 0,
-    "updated_at": "2026-07-02T10:07:08Z",
-    "url": "https://github.com/ishoplus/xitto-kernel"
   },
   {
     "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
@@ -410,7 +428,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 69,
-    "updated_at": "2026-07-02T10:27:39Z",
+    "updated_at": "2026-07-02T10:49:56Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-02T09:03:05Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
-    "description": "Mobile-native agent SDK for building on-device AI agents with sandboxed execution, extensible tools, and x-app / x-agent",
-    "id": "antgroup/Napaxi",
-    "language": "Rust",
-    "name": "antgroup/Napaxi",
-    "stars": 22,
-    "updated_at": "2026-07-02T09:02:28Z",
-    "url": "https://github.com/antgroup/Napaxi"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-07-02T08:58:17Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
   }
 ]
