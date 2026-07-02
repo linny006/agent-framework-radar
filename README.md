@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-02 13:14 UTC
+> ⏰ Last updated: 2026-07-02 13:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [amitpatole/verel](https://github.com/amitpatole/verel) | 3 | Python | 2026-07-02 | Verified agents — nothing is "done" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem |
-| 2 | [ishoplus/xitto-kernel](https://github.com/ishoplus/xitto-kernel) | 0 | JavaScript | 2026-07-02 | Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu |
-| 3 | [SmooAI/smooth-operator](https://github.com/SmooAI/smooth-operator) | 1 | Rust | 2026-07-02 | Polyglot AI agent service — knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers |
-| 4 | [AgentPal/AgentPal](https://github.com/AgentPal/AgentPal) | 2 | Python | 2026-07-02 | A lightweight Pal team layer for Codex-first AI workflows. AgentPal helps organize specialized Pals with roles, knowledg |
-| 5 | [longyijdos/kana](https://github.com/longyijdos/kana) | 1 | TypeScript | 2026-07-02 |  Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution. |
-| 6 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-02 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 7 | [codeaholicguy/ai-devkit](https://github.com/codeaholicguy/ai-devkit) | 1540 | TypeScript | 2026-07-02 | The control plane for AI coding agents. |
-| 8 | [Caprista/KarvyLoop](https://github.com/Caprista/KarvyLoop) | 8 | Python | 2026-07-02 | Local-first, loop-native AI agent runtime: build a team of LLM agents that run your work, verify themselves, and compoun |
-| 9 | [roackb2/heddle](https://github.com/roackb2/heddle) | 17 | TypeScript | 2026-07-02 | An open-source terminal coding agent runtime and CLI for real project work. |
-| 10 | [achappey/aihappey-chat](https://github.com/achappey/aihappey-chat) | 3 | TypeScript | 2026-07-02 | Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans |
-| 11 | [bbadler/claude-code-delegator](https://github.com/bbadler/claude-code-delegator) | 0 | Shell | 2026-07-02 | Long-running delegation architecture for Claude Code: a delegator main session + full-power orchestrator subagents — nes |
-| 12 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-02 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-02 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [amitpatole/verel](https://github.com/amitpatole/verel) | 3 | Python | 2026-07-02 | Verified agents — nothing is "done" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem |
+| 3 | [ishoplus/xitto-kernel](https://github.com/ishoplus/xitto-kernel) | 0 | JavaScript | 2026-07-02 | Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu |
+| 4 | [SmooAI/smooth-operator](https://github.com/SmooAI/smooth-operator) | 1 | Rust | 2026-07-02 | Polyglot AI agent service — knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers |
+| 5 | [AgentPal/AgentPal](https://github.com/AgentPal/AgentPal) | 2 | Python | 2026-07-02 | A lightweight Pal team layer for Codex-first AI workflows. AgentPal helps organize specialized Pals with roles, knowledg |
+| 6 | [longyijdos/kana](https://github.com/longyijdos/kana) | 1 | TypeScript | 2026-07-02 |  Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution. |
+| 7 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-02 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 8 | [codeaholicguy/ai-devkit](https://github.com/codeaholicguy/ai-devkit) | 1540 | TypeScript | 2026-07-02 | The control plane for AI coding agents. |
+| 9 | [Caprista/KarvyLoop](https://github.com/Caprista/KarvyLoop) | 8 | Python | 2026-07-02 | Local-first, loop-native AI agent runtime: build a team of LLM agents that run your work, verify themselves, and compoun |
+| 10 | [roackb2/heddle](https://github.com/roackb2/heddle) | 17 | TypeScript | 2026-07-02 | An open-source terminal coding agent runtime and CLI for real project work. |
+| 11 | [achappey/aihappey-chat](https://github.com/achappey/aihappey-chat) | 3 | TypeScript | 2026-07-02 | Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans |
+| 12 | [bbadler/claude-code-delegator](https://github.com/bbadler/claude-code-delegator) | 0 | Shell | 2026-07-02 | Long-running delegation architecture for Claude Code: a delegator main session + full-power orchestrator subagents — nes |
 | 13 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 1 | HTML | 2026-07-02 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
 | 14 | [skerry699/agent-symphony](https://github.com/skerry699/agent-symphony) | 152 | HTML | 2026-07-02 | Multi-Agent AI Task Orchestrator 2026 |
 | 15 | [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) | 280 | TypeScript | 2026-07-02 | 🛡️The governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit- |
