@@ -1,5 +1,104 @@
 [
   {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 17,
+    "updated_at": "2026-07-02T13:59:11Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-02T13:58:08Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Streaming-first multi-provider LLM client in TypeScript with home-made tool calling",
+    "id": "zbigniewsobiecki/llmist",
+    "language": "TypeScript",
+    "name": "zbigniewsobiecki/llmist",
+    "stars": 8,
+    "updated_at": "2026-07-02T13:57:31Z",
+    "url": "https://github.com/zbigniewsobiecki/llmist"
+  },
+  {
+    "description": "Record, replay, and improve AI agents in production, built on ZenML",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 192,
+    "updated_at": "2026-07-02T13:56:56Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "Specification for governance-first context memory in autonomous AI agent systems. Defines the Mandate Gate: a pre-work m",
+    "id": "ntholm86/agent-context-memory",
+    "language": "\u2014",
+    "name": "ntholm86/agent-context-memory",
+    "stars": 0,
+    "updated_at": "2026-07-02T13:55:58Z",
+    "url": "https://github.com/ntholm86/agent-context-memory"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-07-02T13:55:41Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
+    "id": "fangzheng698-lang/agent-prod",
+    "language": "Python",
+    "name": "fangzheng698-lang/agent-prod",
+    "stars": 2,
+    "updated_at": "2026-07-02T13:53:48Z",
+    "url": "https://github.com/fangzheng698-lang/agent-prod"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-02T13:52:06Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
+    "id": "bzcsk2/covalo",
+    "language": "TypeScript",
+    "name": "bzcsk2/covalo",
+    "stars": 6,
+    "updated_at": "2026-07-02T13:50:08Z",
+    "url": "https://github.com/bzcsk2/covalo"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 280,
+    "updated_at": "2026-07-02T13:48:43Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T13:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI governance framework built on three architectural principles: Commander's Intent, Observable Autonomy, and Convergenc",
     "id": "ntholm86/principles-of-earned-autonomy",
     "language": "Python",
@@ -16,24 +115,6 @@
     "stars": 18152,
     "updated_at": "2026-07-02T13:42:51Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
-    "id": "fangzheng698-lang/agent-prod",
-    "language": "Python",
-    "name": "fangzheng698-lang/agent-prod",
-    "stars": 2,
-    "updated_at": "2026-07-02T13:41:53Z",
-    "url": "https://github.com/fangzheng698-lang/agent-prod"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 280,
-    "updated_at": "2026-07-02T13:41:31Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": " Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution.",
@@ -68,17 +149,8 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 517,
-    "updated_at": "2026-07-02T13:35:55Z",
+    "updated_at": "2026-07-02T13:49:56Z",
     "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 17,
-    "updated_at": "2026-07-02T13:34:21Z",
-    "url": "https://github.com/roackb2/heddle"
   },
   {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
@@ -97,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-02T13:32:09Z",
     "url": "https://github.com/vortezwohl/EasyHarness"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T13:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -130,7 +193,7 @@
     "id": "sipyourdrink-ltd/bernstein",
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
-    "stars": 618,
+    "stars": 619,
     "updated_at": "2026-07-02T13:22:45Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T13:18:39Z",
     "url": "https://github.com/bbadler/claude-code-delegator"
-  },
-  {
-    "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
-    "id": "bzcsk2/covalo",
-    "language": "TypeScript",
-    "name": "bzcsk2/covalo",
-    "stars": 6,
-    "updated_at": "2026-07-02T13:17:06Z",
-    "url": "https://github.com/bzcsk2/covalo"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-02T12:37:30Z",
     "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-07-02T12:37:21Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-07-02T12:35:22Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-07-02T12:34:57Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-07-02T12:34:38Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-07-02T12:34:33Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1484,
-    "updated_at": "2026-07-02T12:34:31Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
   }
 ]
