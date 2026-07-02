@@ -1,5 +1,68 @@
 [
   {
+    "description": "The control plane for AI coding agents.",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1539,
+    "updated_at": "2026-07-02T10:29:18Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 5992,
+    "updated_at": "2026-07-02T10:28:01Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 617,
+    "updated_at": "2026-07-02T10:23:37Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18145,
+    "updated_at": "2026-07-02T10:23:34Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 104,
+    "updated_at": "2026-07-02T10:21:08Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) \u2014 deploy your virtual C-Suite in one git clone",
+    "id": "aAAaqwq/AGI-Super-Team",
+    "language": "Python",
+    "name": "aAAaqwq/AGI-Super-Team",
+    "stars": 73,
+    "updated_at": "2026-07-02T10:21:26Z",
+    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T10:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A runtime compiler from deliberation to reflex \u2014 open-source evolution engine for AI agents",
     "id": "oneirozzzz7/educe",
     "language": "Python",
@@ -9,30 +72,12 @@
     "url": "https://github.com/oneirozzzz7/educe"
   },
   {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
-    "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 104,
-    "updated_at": "2026-07-02T10:14:01Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 617,
-    "updated_at": "2026-07-02T10:10:38Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-02T10:14:01Z",
+    "updated_at": "2026-07-02T10:30:12Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T10:07:08Z",
     "url": "https://github.com/ishoplus/xitto-kernel"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 5991,
-    "updated_at": "2026-07-02T10:10:17Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
@@ -97,15 +133,6 @@
     "stars": 17,
     "updated_at": "2026-07-02T10:01:45Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T10:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -158,17 +185,8 @@
     "language": "TypeScript",
     "name": "zbigniewsobiecki/llmist",
     "stars": 8,
-    "updated_at": "2026-07-02T10:07:16Z",
+    "updated_at": "2026-07-02T10:27:06Z",
     "url": "https://github.com/zbigniewsobiecki/llmist"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18143,
-    "updated_at": "2026-07-02T10:09:08Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
@@ -202,7 +220,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25688,
+    "stars": 25692,
     "updated_at": "2026-07-02T09:38:21Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -329,7 +347,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 69,
-    "updated_at": "2026-07-02T09:08:10Z",
+    "updated_at": "2026-07-02T10:27:39Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -358,15 +376,6 @@
     "stars": 22,
     "updated_at": "2026-07-02T09:02:28Z",
     "url": "https://github.com/antgroup/Napaxi"
-  },
-  {
-    "description": "14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) \u2014 deploy your virtual C-Suite in one git clone",
-    "id": "aAAaqwq/AGI-Super-Team",
-    "language": "Python",
-    "name": "aAAaqwq/AGI-Super-Team",
-    "stars": 73,
-    "updated_at": "2026-07-02T09:01:42Z",
-    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
   },
   {
     "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-02T08:42:42Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Hephaestus",
-    "language": "Python",
-    "name": "agentlas-ai/Hephaestus",
-    "stars": 99,
-    "updated_at": "2026-07-02T08:40:28Z",
-    "url": "https://github.com/agentlas-ai/Hephaestus"
   }
 ]
