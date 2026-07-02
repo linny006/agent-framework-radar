@@ -1,21 +1,57 @@
 [
   {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-07-02T22:14:43Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
     "description": "For3s OS - The self-hosted AI second brain that remembers, learns, and works in a team \u2014 your data, your server.",
     "id": "fruterito101/for3s",
     "language": "Python",
     "name": "fruterito101/for3s",
     "stars": 3,
-    "updated_at": "2026-07-02T22:13:46Z",
+    "updated_at": "2026-07-02T22:29:12Z",
     "url": "https://github.com/fruterito101/for3s"
+  },
+  {
+    "description": "Concept: an operating environment where AI is not an application but the computer's nervous system \u2014 organs, afferent pe",
+    "id": "rybkagreenbelin-png/afferent-os",
+    "language": "\u2014",
+    "name": "rybkagreenbelin-png/afferent-os",
+    "stars": 1,
+    "updated_at": "2026-07-02T22:27:40Z",
+    "url": "https://github.com/rybkagreenbelin-png/afferent-os"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6045,
+    "updated_at": "2026-07-02T22:27:08Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution",
+    "id": "yakeworld/Synthos",
+    "language": "Python",
+    "name": "yakeworld/Synthos",
+    "stars": 5,
+    "updated_at": "2026-07-02T22:26:57Z",
+    "url": "https://github.com/yakeworld/Synthos"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-07-02T22:27:09Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T22:15:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
@@ -63,24 +99,6 @@
     "url": "https://github.com/kh0pper/crow"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T22:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6044,
-    "updated_at": "2026-07-02T22:15:18Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -99,15 +117,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "Concept: an operating environment where AI is not an application but the computer's nervous system \u2014 organs, afferent pe",
-    "id": "rybkagreenbelin-png/afferent-os",
-    "language": "\u2014",
-    "name": "rybkagreenbelin-png/afferent-os",
-    "stars": 1,
-    "updated_at": "2026-07-02T21:53:14Z",
-    "url": "https://github.com/rybkagreenbelin-png/afferent-os"
-  },
-  {
     "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
     "id": "swarmauri/swarmauri-sdk",
     "language": "Python",
@@ -115,6 +124,15 @@
     "stars": 104,
     "updated_at": "2026-07-02T22:09:15Z",
     "url": "https://github.com/swarmauri/swarmauri-sdk"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11829,
+    "updated_at": "2026-07-02T21:44:42Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
@@ -203,7 +221,7 @@
     "language": "TypeScript",
     "name": "aaronjmars/aeon",
     "stars": 562,
-    "updated_at": "2026-07-02T22:06:19Z",
+    "updated_at": "2026-07-02T22:23:38Z",
     "url": "https://github.com/aaronjmars/aeon"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18162,
-    "updated_at": "2026-07-02T22:12:10Z",
+    "updated_at": "2026-07-02T22:28:50Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-02T21:20:16Z",
+    "updated_at": "2026-07-02T22:15:56Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T21:06:33Z",
     "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-07-02T21:06:05Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-07-02T21:05:44Z",
-    "url": "https://github.com/Messa8301/quickbench"
   }
 ]
