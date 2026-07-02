@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
     "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-02T10:59:00Z",
-    "url": "https://github.com/tya5/reyn"
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 617,
+    "updated_at": "2026-07-02T11:14:46Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
     "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
@@ -14,7 +14,7 @@
     "language": "JavaScript",
     "name": "ishoplus/xitto-kernel",
     "stars": 0,
-    "updated_at": "2026-07-02T10:58:44Z",
+    "updated_at": "2026-07-02T11:14:26Z",
     "url": "https://github.com/ishoplus/xitto-kernel"
   },
   {
@@ -23,8 +23,89 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 5993,
-    "updated_at": "2026-07-02T10:58:21Z",
+    "updated_at": "2026-07-02T11:11:51Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 45,
+    "updated_at": "2026-07-02T11:11:46Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "An agent runtime.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 9,
+    "updated_at": "2026-07-02T11:11:40Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 69,
+    "updated_at": "2026-07-02T11:15:22Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18149,
+    "updated_at": "2026-07-02T11:09:08Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-02T11:07:00Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Examples to demonstrate configuration and usage of basic agents and workflows from Microsoft Agent Framework, supporting",
+    "id": "marcominerva/AgentBasicService",
+    "language": "C#",
+    "name": "marcominerva/AgentBasicService",
+    "stars": 6,
+    "updated_at": "2026-07-02T11:06:35Z",
+    "url": "https://github.com/marcominerva/AgentBasicService"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2173,
+    "updated_at": "2026-07-02T11:05:08Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T11:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-02T10:59:00Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -45,15 +126,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T10:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
     "id": "w8123/EnterpriseAgentFramework",
     "language": "Java",
@@ -61,15 +133,6 @@
     "stars": 385,
     "updated_at": "2026-07-02T10:43:44Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2173,
-    "updated_at": "2026-07-02T10:39:07Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -88,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-02T10:38:42Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18148,
-    "updated_at": "2026-07-02T10:38:05Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -135,22 +189,22 @@
     "url": "https://github.com/atrislabs/member"
   },
   {
+    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
+    "id": "vstorm-co/full-stack-ai-agent-template",
+    "language": "Python",
+    "name": "vstorm-co/full-stack-ai-agent-template",
+    "stars": 1486,
+    "updated_at": "2026-07-02T10:29:33Z",
+    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
+  },
+  {
     "description": "The control plane for AI coding agents.",
     "id": "codeaholicguy/ai-devkit",
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
     "stars": 1539,
-    "updated_at": "2026-07-02T10:29:18Z",
+    "updated_at": "2026-07-02T11:08:26Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 617,
-    "updated_at": "2026-07-02T10:47:08Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
     "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
@@ -225,15 +279,6 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "An agent runtime.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 9,
-    "updated_at": "2026-07-02T09:57:45Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -283,7 +328,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11822,
+    "stars": 11823,
     "updated_at": "2026-07-02T09:45:24Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -301,7 +346,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25692,
+    "stars": 25695,
     "updated_at": "2026-07-02T09:38:21Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T09:13:17Z",
     "url": "https://github.com/linjiejim/greenhouse"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-07-02T09:09:41Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:08:18Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 69,
-    "updated_at": "2026-07-02T10:49:56Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 204,
-    "updated_at": "2026-07-02T09:04:34Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
-    "id": "bugsyhewitt/AlienClaw",
-    "language": "TypeScript",
-    "name": "bugsyhewitt/AlienClaw",
-    "stars": 7,
-    "updated_at": "2026-07-02T09:03:05Z",
-    "url": "https://github.com/bugsyhewitt/AlienClaw"
   }
 ]
