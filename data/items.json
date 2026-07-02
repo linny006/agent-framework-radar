@@ -1,5 +1,50 @@
 [
   {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 562,
+    "updated_at": "2026-07-02T17:17:24Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Open-core AI systems architect that turns planning conversations into local self-hosted operating systems",
+    "id": "setup-os-labs/setup-os",
+    "language": "Python",
+    "name": "setup-os-labs/setup-os",
+    "stars": 0,
+    "updated_at": "2026-07-02T17:17:13Z",
+    "url": "https://github.com/setup-os-labs/setup-os"
+  },
+  {
+    "description": "A minimal Python SDK for agent loops, with streaming events, clean tool contracts, and zero ceremony.",
+    "id": "vortezwohl/EasyHarness",
+    "language": "Python",
+    "name": "vortezwohl/EasyHarness",
+    "stars": 1,
+    "updated_at": "2026-07-02T17:15:45Z",
+    "url": "https://github.com/vortezwohl/EasyHarness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T17:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
+    "id": "amitpatole/verel",
+    "language": "Python",
+    "name": "amitpatole/verel",
+    "stars": 3,
+    "updated_at": "2026-07-02T17:15:18Z",
+    "url": "https://github.com/amitpatole/verel"
+  },
+  {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
     "id": "dshakes/lantern",
     "language": "TypeScript",
@@ -108,24 +153,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T17:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 562,
-    "updated_at": "2026-07-02T17:00:17Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
     "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
     "id": "jaylfc/taOS",
     "language": "Python",
@@ -160,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T16:54:03Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
-    "id": "amitpatole/verel",
-    "language": "Python",
-    "name": "amitpatole/verel",
-    "stars": 3,
-    "updated_at": "2026-07-02T17:15:18Z",
-    "url": "https://github.com/amitpatole/verel"
-  },
-  {
-    "description": "Open-core AI systems architect that turns planning conversations into local self-hosted operating systems",
-    "id": "setup-os-labs/setup-os",
-    "language": "Python",
-    "name": "setup-os-labs/setup-os",
-    "stars": 0,
-    "updated_at": "2026-07-02T17:13:29Z",
-    "url": "https://github.com/setup-os-labs/setup-os"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11827,
-    "updated_at": "2026-07-02T15:58:56Z",
+    "updated_at": "2026-07-02T17:15:50Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -358,15 +367,6 @@
     "stars": 7,
     "updated_at": "2026-07-02T15:43:39Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "A minimal Python SDK for agent loops, with streaming events, clean tool contracts, and zero ceremony.",
-    "id": "vortezwohl/EasyHarness",
-    "language": "Python",
-    "name": "vortezwohl/EasyHarness",
-    "stars": 1,
-    "updated_at": "2026-07-02T15:41:45Z",
-    "url": "https://github.com/vortezwohl/EasyHarness"
   },
   {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
