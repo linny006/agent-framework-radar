@@ -1,12 +1,21 @@
 [
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
+    "description": "AI governance framework built on three architectural principles: Commander's Intent, Observable Autonomy, and Convergenc",
+    "id": "ntholm86/principles-of-earned-autonomy",
     "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6388,
-    "updated_at": "2026-07-02T13:30:13Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "name": "ntholm86/principles-of-earned-autonomy",
+    "stars": 1,
+    "updated_at": "2026-07-02T13:45:16Z",
+    "url": "https://github.com/ntholm86/principles-of-earned-autonomy"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18152,
+    "updated_at": "2026-07-02T13:42:51Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
@@ -14,8 +23,98 @@
     "language": "Python",
     "name": "fangzheng698-lang/agent-prod",
     "stars": 2,
-    "updated_at": "2026-07-02T13:28:00Z",
+    "updated_at": "2026-07-02T13:41:53Z",
     "url": "https://github.com/fangzheng698-lang/agent-prod"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 280,
+    "updated_at": "2026-07-02T13:41:31Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": " Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution.",
+    "id": "longyijdos/kana",
+    "language": "TypeScript",
+    "name": "longyijdos/kana",
+    "stars": 1,
+    "updated_at": "2026-07-02T13:37:17Z",
+    "url": "https://github.com/longyijdos/kana"
+  },
+  {
+    "description": "Local-first AI agent runtime with autonomous context awareness. CLI & desktop, MCP integration, Hooks, Skills, multi-age",
+    "id": "keiqkeqi321/somnia",
+    "language": "Python",
+    "name": "keiqkeqi321/somnia",
+    "stars": 0,
+    "updated_at": "2026-07-02T13:36:48Z",
+    "url": "https://github.com/keiqkeqi321/somnia"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-07-02T13:36:01Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 517,
+    "updated_at": "2026-07-02T13:35:55Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 17,
+    "updated_at": "2026-07-02T13:34:21Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-02T13:33:17Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "A minimal Python SDK for agent loops, with streaming events, clean tool contracts, and zero ceremony.",
+    "id": "vortezwohl/EasyHarness",
+    "language": "Python",
+    "name": "vortezwohl/EasyHarness",
+    "stars": 1,
+    "updated_at": "2026-07-02T13:32:09Z",
+    "url": "https://github.com/vortezwohl/EasyHarness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T13:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6388,
+    "updated_at": "2026-07-02T13:30:13Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -31,18 +130,9 @@
     "id": "sipyourdrink-ltd/bernstein",
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
-    "stars": 617,
+    "stars": 618,
     "updated_at": "2026-07-02T13:22:45Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 17,
-    "updated_at": "2026-07-02T13:21:48Z",
-    "url": "https://github.com/roackb2/heddle"
   },
   {
     "description": "Long-running delegation architecture for Claude Code: a delegator main session + full-power orchestrator subagents \u2014 nes",
@@ -90,15 +180,6 @@
     "url": "https://github.com/AgentPal/AgentPal"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T13:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
     "id": "amitpatole/verel",
     "language": "Python",
@@ -124,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-02T13:14:51Z",
     "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
-    "description": " Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution.",
-    "id": "longyijdos/kana",
-    "language": "TypeScript",
-    "name": "longyijdos/kana",
-    "stars": 1,
-    "updated_at": "2026-07-02T13:11:18Z",
-    "url": "https://github.com/longyijdos/kana"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -187,15 +259,6 @@
     "stars": 152,
     "updated_at": "2026-07-02T12:56:44Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 280,
-    "updated_at": "2026-07-02T12:56:12Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "Agent Run Config \u2014 an open specification for declaring, packaging, securing, and sharing portable, governed AI agents. L",
@@ -385,68 +448,5 @@
     "stars": 1484,
     "updated_at": "2026-07-02T12:34:31Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-07-02T12:34:04Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-07-02T12:33:39Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 70,
-    "updated_at": "2026-07-02T12:32:32Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-07-02T12:32:01Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-07-02T12:31:50Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-07-02T12:31:32Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-07-02T12:30:56Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
