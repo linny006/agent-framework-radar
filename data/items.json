@@ -1,11 +1,110 @@
 [
   {
+    "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
+    "id": "bzcsk2/covalo",
+    "language": "TypeScript",
+    "name": "bzcsk2/covalo",
+    "stars": 6,
+    "updated_at": "2026-07-02T08:44:57Z",
+    "url": "https://github.com/bzcsk2/covalo"
+  },
+  {
+    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1004,
+    "updated_at": "2026-07-02T08:44:28Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 204,
+    "updated_at": "2026-07-02T08:44:56Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
+    "id": "berrettabadger966/genesis-pantheon",
+    "language": "Python",
+    "name": "berrettabadger966/genesis-pantheon",
+    "stars": 1,
+    "updated_at": "2026-07-02T08:42:45Z",
+    "url": "https://github.com/berrettabadger966/genesis-pantheon"
+  },
+  {
+    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
+    "id": "Tamang4607/rustyhand",
+    "language": "Rust",
+    "name": "Tamang4607/rustyhand",
+    "stars": 2,
+    "updated_at": "2026-07-02T08:42:42Z",
+    "url": "https://github.com/Tamang4607/rustyhand"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 69,
+    "updated_at": "2026-07-02T08:42:22Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Hephaestus",
+    "language": "Python",
+    "name": "agentlas-ai/Hephaestus",
+    "stars": 99,
+    "updated_at": "2026-07-02T08:40:28Z",
+    "url": "https://github.com/agentlas-ai/Hephaestus"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-02T08:36:05Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Security-first AI agent daemon \u2014 the model proposes actions, the runtime decides what execute",
+    "id": "shisa-ai/shisad",
+    "language": "Python",
+    "name": "shisa-ai/shisad",
+    "stars": 26,
+    "updated_at": "2026-07-02T08:35:47Z",
+    "url": "https://github.com/shisa-ai/shisad"
+  },
+  {
+    "description": "AI Agent \u8ba4\u77e5\u589e\u5f3a\u7cfb\u7edf \u2014 \u6301\u4e45\u8bb0\u5fc6\u3001\u77e5\u8bc6\u56fe\u8c31\u3001SimHash\u8bed\u4e49\u641c\u7d22\u3001\u81ea\u68c0\u4fee\u590d",
+    "id": "A1m1ng777888/super-brain",
+    "language": "Python",
+    "name": "A1m1ng777888/super-brain",
+    "stars": 0,
+    "updated_at": "2026-07-02T08:36:12Z",
+    "url": "https://github.com/A1m1ng777888/super-brain"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T08:33:09Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-07-02T08:32:34Z",
+    "updated_at": "2026-07-02T08:42:42Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 5984,
-    "updated_at": "2026-07-02T08:31:49Z",
+    "updated_at": "2026-07-02T08:44:42Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -34,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T08:31:02Z",
     "url": "https://github.com/ishoplus/xitto-kernel"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T08:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
@@ -90,24 +180,6 @@
     "url": "https://github.com/Justin0504/Sovereign-OS"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 204,
-    "updated_at": "2026-07-02T08:21:27Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1004,
-    "updated_at": "2026-07-02T08:20:19Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "Open-source, self-hosted AI agent workbench. One tool layer powers your team's chat, your app's agent, and any MCP clien",
     "id": "linjiejim/greenhouse",
     "language": "TypeScript",
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 44,
-    "updated_at": "2026-07-02T08:16:30Z",
+    "updated_at": "2026-07-02T08:37:48Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -180,15 +252,6 @@
     "url": "https://github.com/fangzheng698-lang/agent-prod"
   },
   {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Hephaestus",
-    "language": "Python",
-    "name": "agentlas-ai/Hephaestus",
-    "stars": 99,
-    "updated_at": "2026-07-02T08:08:58Z",
-    "url": "https://github.com/agentlas-ai/Hephaestus"
-  },
-  {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
     "id": "Spitfire-Products/nexus-cortex",
     "language": "TypeScript",
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T08:06:35Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
-    "id": "bzcsk2/covalo",
-    "language": "TypeScript",
-    "name": "bzcsk2/covalo",
-    "stars": 6,
-    "updated_at": "2026-07-02T08:24:11Z",
-    "url": "https://github.com/bzcsk2/covalo"
   },
   {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
@@ -221,7 +275,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 17,
-    "updated_at": "2026-07-02T08:15:57Z",
+    "updated_at": "2026-07-02T08:36:36Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-02T07:46:07Z",
     "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "Build LLM agent graphs declaratively \u2014 a tiny DSL over LangGraph with automatic tool loops, structured-output routing, a",
-    "id": "TeeratP/nae",
-    "language": "Python",
-    "name": "TeeratP/nae",
-    "stars": 0,
-    "updated_at": "2026-07-02T07:45:38Z",
-    "url": "https://github.com/TeeratP/nae"
-  },
-  {
-    "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
-    "id": "gatherfigtree740/ai-agent-landscape",
-    "language": "\u2014",
-    "name": "gatherfigtree740/ai-agent-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-02T07:44:39Z",
-    "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 3,
-    "updated_at": "2026-07-02T07:44:27Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "Provide a lightweight, cross-platform AI agent with TUI and GUI support, optimized for performance and flexible tool int",
-    "id": "duduard/saneagent",
-    "language": "\u2014",
-    "name": "duduard/saneagent",
-    "stars": 0,
-    "updated_at": "2026-07-02T07:43:03Z",
-    "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "Local-first, loop-native AI agent runtime: build a team of LLM agents that run your work, verify themselves, and compoun",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 8,
-    "updated_at": "2026-07-02T07:42:52Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "Build and manage AI agents within git repositories using a Rust-based, dependency-free framework that version-controls a",
-    "id": "yeab405/rusty-gitclaw",
-    "language": "Rust",
-    "name": "yeab405/rusty-gitclaw",
-    "stars": 2,
-    "updated_at": "2026-07-02T07:42:00Z",
-    "url": "https://github.com/yeab405/rusty-gitclaw"
   }
 ]
