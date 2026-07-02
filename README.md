@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [cortexkit/aft](https://github.com/cortexkit/aft) | 180 | Rust | 2026-07-02 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 2 | [0bserver07/chimera](https://github.com/0bserver07/chimera) | 1 | Python | 2026-07-02 | Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi |
-| 3 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-07-02 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 4 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-02 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 5 | [yakeworld/Synthos](https://github.com/yakeworld/Synthos) | 5 | Python | 2026-07-02 | Synthos — 自主进化学术科研平台 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution |
-| 6 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-07-02 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
-| 7 | [Tahsine/zeroagent](https://github.com/Tahsine/zeroagent) | 1 | Python | 2026-07-02 | Agent IA + Workflow SDK en Python pur. Zéro dépendance externe. CLI ReAct avec tool calling, streaming, et chat. 🦦 |
-| 8 | [rybkagreenbelin-png/afferent-os](https://github.com/rybkagreenbelin-png/afferent-os) | 1 | — | 2026-07-02 | Concept: an operating environment where AI is not an application but the computer's nervous system — organs, afferent pe |
-| 9 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-07-02 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 10 | [fruterito101/for3s](https://github.com/fruterito101/for3s) | 3 | Python | 2026-07-02 | For3s OS - The self-hosted AI second brain that remembers, learns, and works in a team — your data, your server. |
-| 11 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 4600 | Python | 2026-07-02 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
-| 12 | [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) | 1356 | Rust | 2026-07-02 | The agent framework where every run is durable, replayable, and resumable by default. |
-| 13 | [adeelahmad/agentrc](https://github.com/adeelahmad/agentrc) | 0 | Go | 2026-07-02 | Agent Run Config — an open specification for declaring, packaging, securing, and sharing portable, governed AI agents. L |
-| 14 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-02 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-02 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [cortexkit/aft](https://github.com/cortexkit/aft) | 180 | Rust | 2026-07-02 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 3 | [0bserver07/chimera](https://github.com/0bserver07/chimera) | 1 | Python | 2026-07-02 | Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi |
+| 4 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-07-02 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 5 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-02 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 6 | [yakeworld/Synthos](https://github.com/yakeworld/Synthos) | 5 | Python | 2026-07-02 | Synthos — 自主进化学术科研平台 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution |
+| 7 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-07-02 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
+| 8 | [Tahsine/zeroagent](https://github.com/Tahsine/zeroagent) | 1 | Python | 2026-07-02 | Agent IA + Workflow SDK en Python pur. Zéro dépendance externe. CLI ReAct avec tool calling, streaming, et chat. 🦦 |
+| 9 | [rybkagreenbelin-png/afferent-os](https://github.com/rybkagreenbelin-png/afferent-os) | 1 | — | 2026-07-02 | Concept: an operating environment where AI is not an application but the computer's nervous system — organs, afferent pe |
+| 10 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-07-02 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 11 | [fruterito101/for3s](https://github.com/fruterito101/for3s) | 3 | Python | 2026-07-02 | For3s OS - The self-hosted AI second brain that remembers, learns, and works in a team — your data, your server. |
+| 12 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 4600 | Python | 2026-07-02 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
+| 13 | [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) | 1356 | Rust | 2026-07-02 | The agent framework where every run is durable, replayable, and resumable by default. |
+| 14 | [adeelahmad/agentrc](https://github.com/adeelahmad/agentrc) | 0 | Go | 2026-07-02 | Agent Run Config — an open specification for declaring, packaging, securing, and sharing portable, governed AI agents. L |
 | 15 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 6045 | Python | 2026-07-02 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
 | 16 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 6 | JavaScript | 2026-07-02 | Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API |
 | 17 | [amitpatole/verel](https://github.com/amitpatole/verel) | 4 | Python | 2026-07-02 | Verified agents — nothing is "done" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem |
