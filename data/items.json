@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "swarmauri/swarmauri-sdk",
     "stars": 104,
-    "updated_at": "2026-07-02T21:41:04Z",
+    "updated_at": "2026-07-02T21:45:08Z",
     "url": "https://github.com/swarmauri/swarmauri-sdk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T21:41:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1006,
-    "updated_at": "2026-07-02T21:35:40Z",
+    "updated_at": "2026-07-02T21:43:21Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T21:31:55Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T21:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 6042,
-    "updated_at": "2026-07-02T21:41:25Z",
+    "updated_at": "2026-07-02T21:43:52Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -196,6 +196,15 @@
     "stars": 0,
     "updated_at": "2026-07-02T21:19:16Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
+  },
+  {
+    "description": "Self-hosted AI orchestration platform for persistent agents, shared knowledge, and safe automation.",
+    "id": "OBrown101/dawson-server",
+    "language": "Python",
+    "name": "OBrown101/dawson-server",
+    "stars": 0,
+    "updated_at": "2026-07-02T21:18:41Z",
+    "url": "https://github.com/OBrown101/dawson-server"
   },
   {
     "description": "Adaptive multi-agent orchestration for AI agents route to typed specialist agents, learn from outcomes, and run self-cor",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T21:01:18Z",
     "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 152,
-    "updated_at": "2026-07-02T21:01:04Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
   }
 ]
