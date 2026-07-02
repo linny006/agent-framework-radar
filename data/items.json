@@ -1,21 +1,21 @@
 [
   {
-    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
-    "id": "q-j0k/sprintloop-orchestration",
-    "language": "\u2014",
-    "name": "q-j0k/sprintloop-orchestration",
-    "stars": 1,
-    "updated_at": "2026-07-02T17:29:33Z",
-    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 152,
+    "updated_at": "2026-07-02T17:42:58Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-07-02T17:28:54Z",
-    "url": "https://github.com/kh0pper/crow"
+    "description": "Long-running delegation architecture for Claude Code: a delegator main session + full-power orchestrator subagents \u2014 nes",
+    "id": "bbadler/claude-code-delegator",
+    "language": "Python",
+    "name": "bbadler/claude-code-delegator",
+    "stars": 1,
+    "updated_at": "2026-07-02T17:41:59Z",
+    "url": "https://github.com/bbadler/claude-code-delegator"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -23,8 +23,116 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 39,
-    "updated_at": "2026-07-02T17:25:37Z",
+    "updated_at": "2026-07-02T17:42:31Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "A minimal Python SDK for agent loops, with streaming events, clean tool contracts, and zero ceremony.",
+    "id": "vortezwohl/EasyHarness",
+    "language": "Python",
+    "name": "vortezwohl/EasyHarness",
+    "stars": 1,
+    "updated_at": "2026-07-02T17:41:20Z",
+    "url": "https://github.com/vortezwohl/EasyHarness"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-07-02T17:41:04Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 0,
+    "updated_at": "2026-07-02T17:40:30Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-02T17:40:21Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-07-02T17:40:21Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6034,
+    "updated_at": "2026-07-02T17:37:30Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-07-02T17:33:34Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-07-02T17:33:05Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 9,
+    "updated_at": "2026-07-02T17:32:50Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 520,
+    "updated_at": "2026-07-02T17:31:35Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T17:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-02T17:29:33Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
     "description": "Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext. ",
@@ -54,24 +162,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 9,
-    "updated_at": "2026-07-02T17:28:01Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6033,
-    "updated_at": "2026-07-02T17:18:41Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Ryu \u2014 open-core orchestration engine + LLM gateway for AI agents. Local-first, BYO everything.",
     "id": "amajorai/ryu",
     "language": "Rust",
@@ -79,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-02T17:18:00Z",
     "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T17:17:43Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
@@ -117,20 +198,11 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "A minimal Python SDK for agent loops, with streaming events, clean tool contracts, and zero ceremony.",
-    "id": "vortezwohl/EasyHarness",
-    "language": "Python",
-    "name": "vortezwohl/EasyHarness",
-    "stars": 1,
-    "updated_at": "2026-07-02T17:15:45Z",
-    "url": "https://github.com/vortezwohl/EasyHarness"
-  },
-  {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
     "id": "amitpatole/verel",
     "language": "Python",
     "name": "amitpatole/verel",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-07-02T17:15:18Z",
     "url": "https://github.com/amitpatole/verel"
   },
@@ -189,15 +261,6 @@
     "url": "https://github.com/ucsandman/DashClaw"
   },
   {
-    "description": "Long-running delegation architecture for Claude Code: a delegator main session + full-power orchestrator subagents \u2014 nes",
-    "id": "bbadler/claude-code-delegator",
-    "language": "Shell",
-    "name": "bbadler/claude-code-delegator",
-    "stars": 1,
-    "updated_at": "2026-07-02T17:03:54Z",
-    "url": "https://github.com/bbadler/claude-code-delegator"
-  },
-  {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
     "id": "JohnnyFiv3r/Core-Memory",
     "language": "Python",
@@ -232,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-07-02T17:00:35Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 520,
-    "updated_at": "2026-07-02T16:58:53Z",
-    "url": "https://github.com/jaylfc/taOS"
   },
   {
     "description": "Cloud-first AI agent via NVIDIA NIM Free API \u2014 rate limiting, key rotation, smart fallback chain. Local mode for offline",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T16:07:23Z",
     "url": "https://github.com/saajunaid/junai"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4727,
-    "updated_at": "2026-07-02T16:03:00Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 17,
-    "updated_at": "2026-07-02T15:46:57Z",
-    "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-02T15:43:39Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 4,
-    "updated_at": "2026-07-02T15:41:18Z",
-    "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
-    "id": "fangzheng698-lang/agent-prod",
-    "language": "Python",
-    "name": "fangzheng698-lang/agent-prod",
-    "stars": 2,
-    "updated_at": "2026-07-02T15:32:06Z",
-    "url": "https://github.com/fangzheng698-lang/agent-prod"
-  },
-  {
-    "description": "5 AI agents enter the war room. They debate, build, and review your code. The conversation is the product.",
-    "id": "Djsand/warroom",
-    "language": "TypeScript",
-    "name": "Djsand/warroom",
-    "stars": 1,
-    "updated_at": "2026-07-02T15:27:13Z",
-    "url": "https://github.com/Djsand/warroom"
   }
 ]
