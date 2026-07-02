@@ -1,12 +1,120 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6038,
+    "updated_at": "2026-07-02T20:00:06Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
     "id": "ucsandman/DashClaw",
     "language": "TypeScript",
     "name": "ucsandman/DashClaw",
     "stars": 280,
-    "updated_at": "2026-07-02T19:44:14Z",
+    "updated_at": "2026-07-02T19:58:41Z",
     "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 562,
+    "updated_at": "2026-07-02T19:58:23Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1006,
+    "updated_at": "2026-07-02T19:57:12Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Personal Ai Agent",
+    "id": "br3eze-code/br3eze-code",
+    "language": "JavaScript",
+    "name": "br3eze-code/br3eze-code",
+    "stars": 1,
+    "updated_at": "2026-07-02T19:57:10Z",
+    "url": "https://github.com/br3eze-code/br3eze-code"
+  },
+  {
+    "description": "Agent Run Config \u2014 an open specification for declaring, packaging, securing, and sharing portable, governed AI agents. L",
+    "id": "adeelahmad/agentrc",
+    "language": "Go",
+    "name": "adeelahmad/agentrc",
+    "stars": 0,
+    "updated_at": "2026-07-02T19:56:11Z",
+    "url": "https://github.com/adeelahmad/agentrc"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-07-02T19:58:22Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "For3s OS - The self-hosted AI second brain that remembers, learns, and works in a team \u2014 your data, your server.",
+    "id": "fruterito101/for3s",
+    "language": "Python",
+    "name": "fruterito101/for3s",
+    "stars": 3,
+    "updated_at": "2026-07-02T19:52:12Z",
+    "url": "https://github.com/fruterito101/for3s"
+  },
+  {
+    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
+    "id": "rameswaran-mohan/project-systemu",
+    "language": "Python",
+    "name": "rameswaran-mohan/project-systemu",
+    "stars": 1,
+    "updated_at": "2026-07-02T19:51:06Z",
+    "url": "https://github.com/rameswaran-mohan/project-systemu"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2174,
+    "updated_at": "2026-07-02T19:50:47Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "The control plane for AI coding agents.",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1541,
+    "updated_at": "2026-07-02T19:50:15Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-02T19:46:26Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T19:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -16,24 +124,6 @@
     "stars": 180,
     "updated_at": "2026-07-02T19:43:04Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "For3s OS - The self-hosted AI second brain that remembers, learns, and works in a team \u2014 your data, your server.",
-    "id": "fruterito101/for3s",
-    "language": "Python",
-    "name": "fruterito101/for3s",
-    "stars": 3,
-    "updated_at": "2026-07-02T19:41:13Z",
-    "url": "https://github.com/fruterito101/for3s"
-  },
-  {
-    "description": "The control plane for AI coding agents.",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1541,
-    "updated_at": "2026-07-02T19:41:16Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
   },
   {
     "description": "Standalone SDK workspace for building Aomi dynamic plugins.",
@@ -61,33 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T19:36:36Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Agent Run Config \u2014 an open specification for declaring, packaging, securing, and sharing portable, governed AI agents. L",
-    "id": "adeelahmad/agentrc",
-    "language": "Go",
-    "name": "adeelahmad/agentrc",
-    "stars": 0,
-    "updated_at": "2026-07-02T19:33:49Z",
-    "url": "https://github.com/adeelahmad/agentrc"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 562,
-    "updated_at": "2026-07-02T19:30:58Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T19:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -243,15 +306,6 @@
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2174,
-    "updated_at": "2026-07-02T19:02:31Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -319,7 +373,7 @@
     "id": "rllm-org/rllm",
     "language": "Python",
     "name": "rllm-org/rllm",
-    "stars": 5667,
+    "stars": 5668,
     "updated_at": "2026-07-02T18:50:41Z",
     "url": "https://github.com/rllm-org/rllm"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T18:43:48Z",
     "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-07-02T18:43:20Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-02T18:43:09Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-07-02T18:43:01Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-07-02T18:42:54Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-07-02T18:42:38Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11828,
-    "updated_at": "2026-07-02T18:42:17Z",
-    "url": "https://github.com/microsoft/agent-framework"
   }
 ]
