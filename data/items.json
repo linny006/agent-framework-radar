@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-07-02T08:32:34Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 5984,
+    "updated_at": "2026-07-02T08:31:49Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-07-02T08:31:33Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
+    "id": "ishoplus/xitto-kernel",
+    "language": "JavaScript",
+    "name": "ishoplus/xitto-kernel",
+    "stars": 0,
+    "updated_at": "2026-07-02T08:31:02Z",
+    "url": "https://github.com/ishoplus/xitto-kernel"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T08:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
     "id": "ucsandman/DashClaw",
     "language": "TypeScript",
@@ -43,15 +88,6 @@
     "stars": 98,
     "updated_at": "2026-07-02T08:24:58Z",
     "url": "https://github.com/Justin0504/Sovereign-OS"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 5982,
-    "updated_at": "2026-07-02T08:24:11Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -124,15 +160,6 @@
     "stars": 5,
     "updated_at": "2026-07-02T08:22:15Z",
     "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T08:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-02T07:42:00Z",
     "url": "https://github.com/yeab405/rusty-gitclaw"
-  },
-  {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 9,
-    "updated_at": "2026-07-02T07:39:45Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
-    "id": "kokorubbong/agenticqa-scan-action",
-    "language": "Python",
-    "name": "kokorubbong/agenticqa-scan-action",
-    "stars": 0,
-    "updated_at": "2026-07-02T07:38:59Z",
-    "url": "https://github.com/kokorubbong/agenticqa-scan-action"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25671,
-    "updated_at": "2026-07-02T07:37:35Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   }
 ]
