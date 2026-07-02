@@ -1,12 +1,48 @@
 [
   {
+    "description": "14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) \u2014 deploy your virtual C-Suite in one git clone",
+    "id": "aAAaqwq/AGI-Super-Team",
+    "language": "Python",
+    "name": "aAAaqwq/AGI-Super-Team",
+    "stars": 73,
+    "updated_at": "2026-07-02T11:18:17Z",
+    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
+  },
+  {
     "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
     "id": "sipyourdrink-ltd/bernstein",
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 617,
-    "updated_at": "2026-07-02T11:14:46Z",
+    "updated_at": "2026-07-02T11:17:56Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-02T11:15:39Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T11:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 69,
+    "updated_at": "2026-07-02T11:15:24Z",
+    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
@@ -22,7 +58,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 5993,
+    "stars": 5996,
     "updated_at": "2026-07-02T11:11:51Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -45,21 +81,12 @@
     "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 69,
-    "updated_at": "2026-07-02T11:15:22Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18149,
-    "updated_at": "2026-07-02T11:09:08Z",
+    "updated_at": "2026-07-02T11:17:28Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -88,15 +115,6 @@
     "stars": 2173,
     "updated_at": "2026-07-02T11:05:08Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T11:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -216,15 +234,6 @@
     "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
-    "description": "14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) \u2014 deploy your virtual C-Suite in one git clone",
-    "id": "aAAaqwq/AGI-Super-Team",
-    "language": "Python",
-    "name": "aAAaqwq/AGI-Super-Team",
-    "stars": 73,
-    "updated_at": "2026-07-02T10:21:26Z",
-    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
-  },
-  {
     "description": "A runtime compiler from deliberation to reflex \u2014 open-source evolution engine for AI agents",
     "id": "oneirozzzz7/educe",
     "language": "Python",
@@ -328,7 +337,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11823,
+    "stars": 11824,
     "updated_at": "2026-07-02T09:45:24Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -346,7 +355,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25695,
+    "stars": 25696,
     "updated_at": "2026-07-02T09:38:21Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-02T09:18:48Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Open-source, self-hosted AI agent workbench. One tool layer powers your team's chat, your app's agent, and any MCP clien",
-    "id": "linjiejim/greenhouse",
-    "language": "TypeScript",
-    "name": "linjiejim/greenhouse",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:13:17Z",
-    "url": "https://github.com/linjiejim/greenhouse"
   }
 ]
