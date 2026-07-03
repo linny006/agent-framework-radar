@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-03T22:42:00Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
     "id": "s2mgtvodois2/postgresql-mcp-js",
     "language": "TypeScript",
@@ -14,17 +23,8 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 71,
-    "updated_at": "2026-07-03T22:41:14Z",
+    "updated_at": "2026-07-03T22:43:23Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-03T22:30:18Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
@@ -212,7 +212,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-03T22:35:41Z",
+    "updated_at": "2026-07-03T22:45:02Z",
     "url": "https://github.com/tya5/reyn"
   },
   {

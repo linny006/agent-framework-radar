@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-03 22:41 UTC
+> ⏰ Last updated: 2026-07-03 22:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-07-03 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
-| 2 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 71 | TypeScript | 2026-07-03 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 3 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-03 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-03 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-07-03 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
+| 3 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 71 | TypeScript | 2026-07-03 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
 | 4 | [rogerchappel/crewcmd](https://github.com/rogerchappel/crewcmd) | 2 | TypeScript | 2026-07-03 | Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC |
 | 5 | [rllm-org/rllm](https://github.com/rllm-org/rllm) | 5676 | Python | 2026-07-03 | Democratizing Reinforcement Learning for LLMs |
 | 6 | [zizetu/existential-identity-test-engine](https://github.com/zizetu/existential-identity-test-engine) | 1 | Python | 2026-07-03 | Existential Identity Test Engine — EITE Agent Framework |
