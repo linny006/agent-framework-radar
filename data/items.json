@@ -1,12 +1,84 @@
 [
   {
+    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1014,
+    "updated_at": "2026-07-03T09:51:48Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Scope-first agent design skill \u2014 \u0e16\u0e32\u0e21\u0e02\u0e2d\u0e1a\u0e40\u0e02\u0e15\u0e43\u0e2b\u0e49\u0e0a\u0e31\u0e14 \u0e01\u0e48\u0e2d\u0e19\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e40\u0e2d\u0e40\u0e08\u0e19",
+    "id": "aetox-skills/create-agent",
+    "language": "\u2014",
+    "name": "aetox-skills/create-agent",
+    "stars": 1,
+    "updated_at": "2026-07-03T09:50:32Z",
+    "url": "https://github.com/aetox-skills/create-agent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-03T09:50:28Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Local-first multi-agent engineering workbench with operator-visible execution",
+    "id": "Coding-Autopilot-System/autogen",
+    "language": "Python",
+    "name": "Coding-Autopilot-System/autogen",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:49:46Z",
+    "url": "https://github.com/Coding-Autopilot-System/autogen"
+  },
+  {
+    "description": "OpenHermit is the open-source platform for deploying fleets of AI agents as production services \u2014 durable state, sandbox",
+    "id": "HCF-STUDIOS/openhermit",
+    "language": "TypeScript",
+    "name": "HCF-STUDIOS/openhermit",
+    "stars": 48,
+    "updated_at": "2026-07-03T09:48:54Z",
+    "url": "https://github.com/HCF-STUDIOS/openhermit"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 25805,
+    "updated_at": "2026-07-03T09:48:38Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2175,
+    "updated_at": "2026-07-03T09:48:31Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
     "description": "A minimal Python SDK for agent loops, with streaming events, clean tool contracts, and zero ceremony.",
     "id": "vortezwohl/EasyHarness",
     "language": "Python",
     "name": "vortezwohl/EasyHarness",
     "stars": 1,
-    "updated_at": "2026-07-03T09:44:47Z",
+    "updated_at": "2026-07-03T09:48:22Z",
     "url": "https://github.com/vortezwohl/EasyHarness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-03T09:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -18,21 +90,12 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-03T09:44:51Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 6104,
-    "updated_at": "2026-07-03T09:38:45Z",
+    "updated_at": "2026-07-03T09:45:26Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "Human-Agent-Society/CORAL",
     "stars": 771,
-    "updated_at": "2026-07-03T09:42:46Z",
+    "updated_at": "2026-07-03T09:45:36Z",
     "url": "https://github.com/Human-Agent-Society/CORAL"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18182,
-    "updated_at": "2026-07-03T09:43:39Z",
+    "updated_at": "2026-07-03T09:46:58Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -61,33 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-03T09:33:54Z",
     "url": "https://github.com/zizetu/existential-identity-test-engine"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25804,
-    "updated_at": "2026-07-03T09:33:40Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-03T09:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Local-first multi-agent engineering workbench with operator-visible execution",
-    "id": "Coding-Autopilot-System/autogen",
-    "language": "Python",
-    "name": "Coding-Autopilot-System/autogen",
-    "stars": 0,
-    "updated_at": "2026-07-03T09:28:55Z",
-    "url": "https://github.com/Coding-Autopilot-System/autogen"
   },
   {
     "description": "Mobile-native agent SDK for building on-device AI agents with sandboxed execution, extensible tools, and x-app / x-agent",
@@ -115,24 +151,6 @@
     "stars": 242,
     "updated_at": "2026-07-03T09:24:56Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1014,
-    "updated_at": "2026-07-03T09:44:33Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Scope-first agent design skill \u2014 \u0e16\u0e32\u0e21\u0e02\u0e2d\u0e1a\u0e40\u0e02\u0e15\u0e43\u0e2b\u0e49\u0e0a\u0e31\u0e14 \u0e01\u0e48\u0e2d\u0e19\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e40\u0e2d\u0e40\u0e08\u0e19",
-    "id": "aetox-skills/create-agent",
-    "language": "\u2014",
-    "name": "aetox-skills/create-agent",
-    "stars": 1,
-    "updated_at": "2026-07-03T09:21:35Z",
-    "url": "https://github.com/aetox-skills/create-agent"
   },
   {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-03T08:20:00Z",
     "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:19:37Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:19:14Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
   }
 ]
