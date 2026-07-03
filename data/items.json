@@ -1,12 +1,102 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 25807,
+    "updated_at": "2026-07-03T10:12:33Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Local-first multi-agent engineering workbench with operator-visible execution",
+    "id": "Coding-Autopilot-System/autogen",
+    "language": "Python",
+    "name": "Coding-Autopilot-System/autogen",
+    "stars": 0,
+    "updated_at": "2026-07-03T10:10:52Z",
+    "url": "https://github.com/Coding-Autopilot-System/autogen"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18183,
+    "updated_at": "2026-07-03T10:06:23Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Turn any skill into a standalone, runnable AI Agent",
+    "id": "agenthatch/agenthatch",
+    "language": "Python",
+    "name": "agenthatch/agenthatch",
+    "stars": 54,
+    "updated_at": "2026-07-03T10:05:44Z",
+    "url": "https://github.com/agenthatch/agenthatch"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6106,
+    "updated_at": "2026-07-03T10:10:48Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-03T10:12:39Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
     "description": "Scope-first agent design skill \u2014 \u0e16\u0e32\u0e21\u0e02\u0e2d\u0e1a\u0e40\u0e02\u0e15\u0e43\u0e2b\u0e49\u0e0a\u0e31\u0e14 \u0e01\u0e48\u0e2d\u0e19\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e40\u0e2d\u0e40\u0e08\u0e19",
     "id": "aetox-skills/create-agent",
     "language": "\u2014",
     "name": "aetox-skills/create-agent",
     "stars": 1,
-    "updated_at": "2026-07-03T09:59:24Z",
+    "updated_at": "2026-07-03T10:03:09Z",
     "url": "https://github.com/aetox-skills/create-agent"
+  },
+  {
+    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
+    "id": "SmooAI/smooth-operator",
+    "language": "Rust",
+    "name": "SmooAI/smooth-operator",
+    "stars": 1,
+    "updated_at": "2026-07-03T10:01:52Z",
+    "url": "https://github.com/SmooAI/smooth-operator"
+  },
+  {
+    "description": "Local-first AI agent runtime with autonomous context awareness. CLI & desktop, MCP integration, Hooks, Skills, multi-age",
+    "id": "keiqkeqi321/somnia",
+    "language": "Python",
+    "name": "keiqkeqi321/somnia",
+    "stars": 0,
+    "updated_at": "2026-07-03T10:01:17Z",
+    "url": "https://github.com/keiqkeqi321/somnia"
+  },
+  {
+    "description": "OpenHermit is the open-source platform for deploying fleets of AI agents as production services \u2014 durable state, sandbox",
+    "id": "HCF-STUDIOS/openhermit",
+    "language": "TypeScript",
+    "name": "HCF-STUDIOS/openhermit",
+    "stars": 48,
+    "updated_at": "2026-07-03T10:01:13Z",
+    "url": "https://github.com/HCF-STUDIOS/openhermit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-03T10:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
@@ -36,15 +126,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18182,
-    "updated_at": "2026-07-03T09:55:50Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -63,58 +144,13 @@
     "url": "https://github.com/substructureai/substructure"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-03T09:52:03Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1014,
-    "updated_at": "2026-07-03T09:51:48Z",
+    "updated_at": "2026-07-03T10:10:08Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-03T09:58:10Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Local-first multi-agent engineering workbench with operator-visible execution",
-    "id": "Coding-Autopilot-System/autogen",
-    "language": "Python",
-    "name": "Coding-Autopilot-System/autogen",
-    "stars": 0,
-    "updated_at": "2026-07-03T09:49:46Z",
-    "url": "https://github.com/Coding-Autopilot-System/autogen"
-  },
-  {
-    "description": "OpenHermit is the open-source platform for deploying fleets of AI agents as production services \u2014 durable state, sandbox",
-    "id": "HCF-STUDIOS/openhermit",
-    "language": "TypeScript",
-    "name": "HCF-STUDIOS/openhermit",
-    "stars": 48,
-    "updated_at": "2026-07-03T09:48:54Z",
-    "url": "https://github.com/HCF-STUDIOS/openhermit"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25805,
-    "updated_at": "2026-07-03T09:48:38Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T09:41:45Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6104,
-    "updated_at": "2026-07-03T09:45:26Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for autoresearch. Works w",
@@ -288,15 +315,6 @@
     "url": "https://github.com/evanzheng0107-dev/vision-fsm-agent"
   },
   {
-    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
-    "id": "SmooAI/smooth-operator",
-    "language": "Rust",
-    "name": "SmooAI/smooth-operator",
-    "stars": 1,
-    "updated_at": "2026-07-03T10:00:10Z",
-    "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
     "description": "Long-running delegation architecture for Claude Code: a delegator main session + full-power orchestrator subagents \u2014 nes",
     "id": "bbadler/claude-code-delegator",
     "language": "Python",
@@ -329,7 +347,7 @@
     "language": "JavaScript",
     "name": "EvoMap/evolver",
     "stars": 8847,
-    "updated_at": "2026-07-03T08:42:55Z",
+    "updated_at": "2026-07-03T10:10:28Z",
     "url": "https://github.com/EvoMap/evolver"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-03T08:25:10Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:24:41Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-07-03T08:22:10Z",
-    "url": "https://github.com/Liny9941/projectsmd"
   }
 ]
