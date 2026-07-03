@@ -1,5 +1,32 @@
 [
   {
+    "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
+    "id": "kokorubbong/agenticqa-scan-action",
+    "language": "Python",
+    "name": "kokorubbong/agenticqa-scan-action",
+    "stars": 0,
+    "updated_at": "2026-07-03T20:31:39Z",
+    "url": "https://github.com/kokorubbong/agenticqa-scan-action"
+  },
+  {
+    "description": "A governed multi-agent framework built on git",
+    "id": "cordfuse/politik",
+    "language": "\u2014",
+    "name": "cordfuse/politik",
+    "stars": 0,
+    "updated_at": "2026-07-03T20:31:01Z",
+    "url": "https://github.com/cordfuse/politik"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-03T20:30:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A minimal, opinionated agent harness \u2014 focused scope, straightforward code, easy to fork.",
     "id": "ryanbbrown/thinharness",
     "language": "Python",
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "aaronjmars/aeon",
     "stars": 564,
-    "updated_at": "2026-07-03T20:23:52Z",
+    "updated_at": "2026-07-03T20:30:58Z",
     "url": "https://github.com/aaronjmars/aeon"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T20:16:11Z",
     "url": "https://github.com/punkxuxu/bank_soal"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-03T20:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -333,15 +351,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "A governed multi-agent framework built on git",
-    "id": "cordfuse/politik",
-    "language": "\u2014",
-    "name": "cordfuse/politik",
-    "stars": 0,
-    "updated_at": "2026-07-03T19:52:01Z",
-    "url": "https://github.com/cordfuse/politik"
-  },
-  {
     "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
     "id": "yassineelfakiri/agentpg",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-07-03T19:27:40Z",
     "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-07-03T19:20:46Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   }
 ]
