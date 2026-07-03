@@ -1,12 +1,66 @@
 [
   {
+    "description": "\u7ec7\u673a \u00b7 \u4e94\u4e2a\u539f\u8bed\uff0c\u7f16\u7ec7\u4efb\u610f Agent \u6a21\u5f0f | Go Agent \u5185\u6838\uff0c600 LOC",
+    "id": "jinyitao123/loom",
+    "language": "Go",
+    "name": "jinyitao123/loom",
+    "stars": 1,
+    "updated_at": "2026-07-03T04:29:58Z",
+    "url": "https://github.com/jinyitao123/loom"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25772,
-    "updated_at": "2026-07-03T04:11:29Z",
+    "stars": 25774,
+    "updated_at": "2026-07-03T04:29:27Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-03T04:27:43Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "An open-source agent harness that makes small models do big work.",
+    "id": "AramDevops/neo",
+    "language": "Python",
+    "name": "AramDevops/neo",
+    "stars": 0,
+    "updated_at": "2026-07-03T04:24:38Z",
+    "url": "https://github.com/AramDevops/neo"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-03T04:18:44Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18169,
+    "updated_at": "2026-07-03T04:26:41Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-03T04:15:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent Run Config \u2014 an open specification for declaring, packaging, securing, and sharing portable, governed AI agents. L",
@@ -36,15 +90,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 1,
-    "updated_at": "2026-07-03T04:07:19Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
     "description": "Long-running delegation architecture for Claude Code: a delegator main session + full-power orchestrator subagents \u2014 nes",
     "id": "bbadler/claude-code-delegator",
     "language": "HTML",
@@ -70,15 +115,6 @@
     "stars": 1492,
     "updated_at": "2026-07-03T04:00:29Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-03T04:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
@@ -261,15 +297,6 @@
     "url": "https://github.com/rapidaai/voice-ai"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18169,
-    "updated_at": "2026-07-03T04:06:46Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
     "id": "salvatoreabient793/cursor-auto-deployment-agent",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-03T02:49:20Z",
     "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-07-03T02:48:57Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 152,
-    "updated_at": "2026-07-03T02:48:56Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
-    "id": "achappey/aihappey-agents",
-    "language": "C#",
-    "name": "achappey/aihappey-agents",
-    "stars": 0,
-    "updated_at": "2026-07-03T02:47:24Z",
-    "url": "https://github.com/achappey/aihappey-agents"
   }
 ]
