@@ -1,21 +1,12 @@
 [
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 180,
-    "updated_at": "2026-07-03T12:03:14Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 371,
-    "updated_at": "2026-07-03T12:01:19Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
+    "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
+    "id": "zizetu/existential-identity-test-engine",
+    "language": "Python",
+    "name": "zizetu/existential-identity-test-engine",
+    "stars": 1,
+    "updated_at": "2026-07-03T12:14:18Z",
+    "url": "https://github.com/zizetu/existential-identity-test-engine"
   },
   {
     "description": "Long-running delegation architecture for Claude Code: a delegator main session + full-power orchestrator subagents \u2014 nes",
@@ -23,8 +14,107 @@
     "language": "Python",
     "name": "bbadler/claude-code-delegator",
     "stars": 2,
-    "updated_at": "2026-07-03T12:01:00Z",
+    "updated_at": "2026-07-03T12:13:50Z",
     "url": "https://github.com/bbadler/claude-code-delegator"
+  },
+  {
+    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
+    "id": "SmooAI/smooth-operator",
+    "language": "Rust",
+    "name": "SmooAI/smooth-operator",
+    "stars": 1,
+    "updated_at": "2026-07-03T12:14:52Z",
+    "url": "https://github.com/SmooAI/smooth-operator"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-07-03T12:12:21Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 152,
+    "updated_at": "2026-07-03T12:11:00Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-03T12:09:43Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1612,
+    "updated_at": "2026-07-03T12:09:17Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1160,
+    "updated_at": "2026-07-03T12:08:39Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 152,
+    "updated_at": "2026-07-03T12:06:30Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 371,
+    "updated_at": "2026-07-03T12:06:26Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 180,
+    "updated_at": "2026-07-03T12:04:58Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-03T12:04:31Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-03T12:03:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI engineering workspace infrastructure \u2014 18 agents, 46 skills, 28 quality gates. One-command bootstrap for large-scale ",
@@ -43,15 +133,6 @@
     "stars": 7,
     "updated_at": "2026-07-03T12:00:39Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-03T12:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
@@ -90,15 +171,6 @@
     "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-03T11:57:50Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
@@ -106,15 +178,6 @@
     "stars": 39,
     "updated_at": "2026-07-03T11:49:16Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1160,
-    "updated_at": "2026-07-03T11:48:14Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for autoresearch. Works w",
@@ -162,21 +225,12 @@
     "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
   },
   {
-    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
-    "id": "SmooAI/smooth-operator",
-    "language": "Rust",
-    "name": "SmooAI/smooth-operator",
-    "stars": 1,
-    "updated_at": "2026-07-03T11:39:01Z",
-    "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
     "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
     "id": "jaylfc/taOS",
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 523,
-    "updated_at": "2026-07-03T11:59:16Z",
+    "updated_at": "2026-07-03T12:07:58Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-03T11:19:31Z",
     "url": "https://github.com/achappey/aihappey-chat"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-03T11:19:28Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25810,
-    "updated_at": "2026-07-03T11:17:56Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-07-03T11:17:30Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-03T11:17:08Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-07-03T11:16:35Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-07-03T11:14:52Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
   }
 ]
