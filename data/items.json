@@ -1,12 +1,84 @@
 [
   {
+    "description": "Production-grade Rust runtime for multi-agent AI systems. Orchestrate LLM agents, skills, and DAG workflows with native ",
+    "id": "SarthiAI/Skarta",
+    "language": "Rust",
+    "name": "SarthiAI/Skarta",
+    "stars": 3,
+    "updated_at": "2026-07-03T12:44:37Z",
+    "url": "https://github.com/SarthiAI/Skarta"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-07-03T12:43:06Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
+    "id": "ishoplus/xitto-kernel",
+    "language": "JavaScript",
+    "name": "ishoplus/xitto-kernel",
+    "stars": 0,
+    "updated_at": "2026-07-03T12:41:20Z",
+    "url": "https://github.com/ishoplus/xitto-kernel"
+  },
+  {
     "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
     "id": "SmooAI/smooth-operator",
     "language": "Rust",
     "name": "SmooAI/smooth-operator",
     "stars": 1,
-    "updated_at": "2026-07-03T12:29:35Z",
+    "updated_at": "2026-07-03T12:42:47Z",
     "url": "https://github.com/SmooAI/smooth-operator"
+  },
+  {
+    "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
+    "id": "zizetu/existential-identity-test-engine",
+    "language": "Python",
+    "name": "zizetu/existential-identity-test-engine",
+    "stars": 1,
+    "updated_at": "2026-07-03T12:35:52Z",
+    "url": "https://github.com/zizetu/existential-identity-test-engine"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18186,
+    "updated_at": "2026-07-03T12:35:06Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "A framework for the creation of autonomous agent services.",
+    "id": "valory-xyz/open-autonomy",
+    "language": "Python",
+    "name": "valory-xyz/open-autonomy",
+    "stars": 123,
+    "updated_at": "2026-07-03T12:35:14Z",
+    "url": "https://github.com/valory-xyz/open-autonomy"
+  },
+  {
+    "description": "Cloud-first AI agent via NVIDIA NIM Free API \u2014 rate limiting, key rotation, smart fallback chain. Local mode for offline",
+    "id": "ahmedhabibo/hermes-lite",
+    "language": "Python",
+    "name": "ahmedhabibo/hermes-lite",
+    "stars": 0,
+    "updated_at": "2026-07-03T12:30:44Z",
+    "url": "https://github.com/ahmedhabibo/hermes-lite"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-03T12:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-07-03T12:27:01Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
-    "id": "zizetu/existential-identity-test-engine",
-    "language": "Python",
-    "name": "zizetu/existential-identity-test-engine",
-    "stars": 1,
-    "updated_at": "2026-07-03T12:23:29Z",
-    "url": "https://github.com/zizetu/existential-identity-test-engine"
   },
   {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
@@ -40,7 +103,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6114,
+    "stars": 6116,
     "updated_at": "2026-07-03T12:21:26Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T12:20:03Z",
     "url": "https://github.com/klarlabs-studio/nomi"
-  },
-  {
-    "description": "Cloud-first AI agent via NVIDIA NIM Free API \u2014 rate limiting, key rotation, smart fallback chain. Local mode for offline",
-    "id": "ahmedhabibo/hermes-lite",
-    "language": "Python",
-    "name": "ahmedhabibo/hermes-lite",
-    "stars": 0,
-    "updated_at": "2026-07-03T12:19:47Z",
-    "url": "https://github.com/ahmedhabibo/hermes-lite"
   },
   {
     "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
@@ -79,15 +133,6 @@
     "stars": 7,
     "updated_at": "2026-07-03T12:16:34Z",
     "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-03T12:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Long-running delegation architecture for Claude Code: a delegator main session + full-power orchestrator subagents \u2014 nes",
@@ -187,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T12:00:55Z",
     "url": "https://github.com/ninedeerhing/agent-workspace-infrastructure"
-  },
-  {
-    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
-    "id": "bugsyhewitt/AlienClaw",
-    "language": "TypeScript",
-    "name": "bugsyhewitt/AlienClaw",
-    "stars": 7,
-    "updated_at": "2026-07-03T12:00:39Z",
-    "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
     "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-03T11:24:34Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle",
-    "id": "wanxingai/LightAgent",
-    "language": "Python",
-    "name": "wanxingai/LightAgent",
-    "stars": 1170,
-    "updated_at": "2026-07-03T11:24:30Z",
-    "url": "https://github.com/wanxingai/LightAgent"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-07-03T11:24:26Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-07-03T11:23:52Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-07-03T11:23:13Z",
-    "url": "https://github.com/monahright467/harness-books"
   }
 ]
