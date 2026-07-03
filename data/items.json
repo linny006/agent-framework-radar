@@ -1,11 +1,119 @@
 [
   {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 8,
+    "updated_at": "2026-07-03T10:44:13Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-03T10:40:47Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
+    "id": "cuteecarrot/AgentHub",
+    "language": "Python",
+    "name": "cuteecarrot/AgentHub",
+    "stars": 4,
+    "updated_at": "2026-07-03T10:39:19Z",
+    "url": "https://github.com/cuteecarrot/AgentHub"
+  },
+  {
+    "description": "Local-first multi-agent engineering workbench with operator-visible execution",
+    "id": "Coding-Autopilot-System/autogen",
+    "language": "Python",
+    "name": "Coding-Autopilot-System/autogen",
+    "stars": 0,
+    "updated_at": "2026-07-03T10:38:11Z",
+    "url": "https://github.com/Coding-Autopilot-System/autogen"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 25808,
+    "updated_at": "2026-07-03T10:41:28Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 0,
+    "updated_at": "2026-07-03T10:37:09Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-07-03T10:35:59Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-03T10:35:34Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6106,
+    "updated_at": "2026-07-03T10:34:50Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-07-03T10:33:57Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "A lightweight Pal team layer for Codex-first AI workflows. AgentPal helps organize specialized Pals with roles, knowledg",
+    "id": "AgentPal/AgentPal",
+    "language": "Python",
+    "name": "AgentPal/AgentPal",
+    "stars": 2,
+    "updated_at": "2026-07-03T10:31:52Z",
+    "url": "https://github.com/AgentPal/AgentPal"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-03T10:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-03T10:30:08Z",
+    "updated_at": "2026-07-03T10:40:59Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -23,7 +131,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 194,
-    "updated_at": "2026-07-03T10:29:13Z",
+    "updated_at": "2026-07-03T10:44:12Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -32,7 +140,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 523,
-    "updated_at": "2026-07-03T10:29:55Z",
+    "updated_at": "2026-07-03T10:44:08Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -41,7 +149,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1014,
-    "updated_at": "2026-07-03T10:28:28Z",
+    "updated_at": "2026-07-03T10:39:14Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -104,7 +212,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-03T10:29:59Z",
+    "updated_at": "2026-07-03T10:39:16Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -117,6 +225,15 @@
     "url": "https://github.com/yassineelfakiri/agentpg"
   },
   {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18184,
+    "updated_at": "2026-07-03T10:19:32Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
     "id": "q-j0k/sprintloop-orchestration",
     "language": "\u2014",
@@ -126,42 +243,6 @@
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25808,
-    "updated_at": "2026-07-03T10:29:18Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-03T10:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Local-first multi-agent engineering workbench with operator-visible execution",
-    "id": "Coding-Autopilot-System/autogen",
-    "language": "Python",
-    "name": "Coding-Autopilot-System/autogen",
-    "stars": 0,
-    "updated_at": "2026-07-03T10:10:52Z",
-    "url": "https://github.com/Coding-Autopilot-System/autogen"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18183,
-    "updated_at": "2026-07-03T10:19:32Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Turn any skill into a standalone, runnable AI Agent",
     "id": "agenthatch/agenthatch",
     "language": "Python",
@@ -169,15 +250,6 @@
     "stars": 54,
     "updated_at": "2026-07-03T10:05:44Z",
     "url": "https://github.com/agenthatch/agenthatch"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6106,
-    "updated_at": "2026-07-03T10:23:53Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Scope-first agent design skill \u2014 \u0e16\u0e32\u0e21\u0e02\u0e2d\u0e1a\u0e40\u0e02\u0e15\u0e43\u0e2b\u0e49\u0e0a\u0e31\u0e14 \u0e01\u0e48\u0e2d\u0e19\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e40\u0e2d\u0e40\u0e08\u0e19",
@@ -293,7 +365,7 @@
     "language": "Python",
     "name": "Human-Agent-Society/CORAL",
     "stars": 771,
-    "updated_at": "2026-07-03T09:45:36Z",
+    "updated_at": "2026-07-03T10:43:38Z",
     "url": "https://github.com/Human-Agent-Society/CORAL"
   },
   {
@@ -365,7 +437,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 70,
-    "updated_at": "2026-07-03T10:27:28Z",
+    "updated_at": "2026-07-03T10:45:18Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-03T09:10:02Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Concept: an operating environment where AI is not an application but the computer's nervous system \u2014 organs, afferent pe",
-    "id": "rybkagreenbelin-png/afferent-os",
-    "language": "\u2014",
-    "name": "rybkagreenbelin-png/afferent-os",
-    "stars": 1,
-    "updated_at": "2026-07-03T09:08:13Z",
-    "url": "https://github.com/rybkagreenbelin-png/afferent-os"
-  },
-  {
-    "description": "Open-source framework for designing, reviewing, and proving AI agent systems.",
-    "id": "leszek-lammel-advisory/lammel-agent-building-framework",
-    "language": "Shell",
-    "name": "leszek-lammel-advisory/lammel-agent-building-framework",
-    "stars": 0,
-    "updated_at": "2026-07-03T09:05:01Z",
-    "url": "https://github.com/leszek-lammel-advisory/lammel-agent-building-framework"
-  },
-  {
-    "description": "A lightweight Python framework for CV-driven automation agents with FSM control and human-in-the-loop correction.",
-    "id": "evanzheng0107-dev/vision-fsm-agent",
-    "language": "Python",
-    "name": "evanzheng0107-dev/vision-fsm-agent",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:57:31Z",
-    "url": "https://github.com/evanzheng0107-dev/vision-fsm-agent"
-  },
-  {
-    "description": "The lightest CLI agent for Python. No heavy deps, no complex chains. pip install, set your API key, and run AI tasks any",
-    "id": "Bryxen-ai/bryx-cli",
-    "language": "Python",
-    "name": "Bryxen-ai/bryx-cli",
-    "stars": 3,
-    "updated_at": "2026-07-03T08:45:16Z",
-    "url": "https://github.com/Bryxen-ai/bryx-cli"
-  },
-  {
-    "description": "A lightweight Pal team layer for Codex-first AI workflows. AgentPal helps organize specialized Pals with roles, knowledg",
-    "id": "AgentPal/AgentPal",
-    "language": "Python",
-    "name": "AgentPal/AgentPal",
-    "stars": 2,
-    "updated_at": "2026-07-03T08:44:57Z",
-    "url": "https://github.com/AgentPal/AgentPal"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8847,
-    "updated_at": "2026-07-03T10:10:28Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "Personal Ai Agent",
-    "id": "br3eze-code/br3eze-code",
-    "language": "JavaScript",
-    "name": "br3eze-code/br3eze-code",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:37:58Z",
-    "url": "https://github.com/br3eze-code/br3eze-code"
-  },
-  {
-    "description": "Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandbox",
-    "id": "vstorm-co/pydantic-deepagents",
-    "language": "Python",
-    "name": "vstorm-co/pydantic-deepagents",
-    "stars": 935,
-    "updated_at": "2026-07-03T10:26:53Z",
-    "url": "https://github.com/vstorm-co/pydantic-deepagents"
   }
 ]
