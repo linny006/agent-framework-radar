@@ -1,12 +1,93 @@
 [
   {
+    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
+    "id": "SmooAI/smooth-operator",
+    "language": "Rust",
+    "name": "SmooAI/smooth-operator",
+    "stars": 1,
+    "updated_at": "2026-07-03T12:29:35Z",
+    "url": "https://github.com/SmooAI/smooth-operator"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-03T12:27:01Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
     "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
     "id": "zizetu/existential-identity-test-engine",
     "language": "Python",
     "name": "zizetu/existential-identity-test-engine",
     "stars": 1,
-    "updated_at": "2026-07-03T12:14:18Z",
+    "updated_at": "2026-07-03T12:23:29Z",
     "url": "https://github.com/zizetu/existential-identity-test-engine"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 242,
+    "updated_at": "2026-07-03T12:21:47Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6114,
+    "updated_at": "2026-07-03T12:21:26Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Local-first, state-driven AI agent platform. Plan-review before execution, capability-gated tools, BYO LLM (Ollama / Ant",
+    "id": "klarlabs-studio/nomi",
+    "language": "Go",
+    "name": "klarlabs-studio/nomi",
+    "stars": 0,
+    "updated_at": "2026-07-03T12:20:03Z",
+    "url": "https://github.com/klarlabs-studio/nomi"
+  },
+  {
+    "description": "Cloud-first AI agent via NVIDIA NIM Free API \u2014 rate limiting, key rotation, smart fallback chain. Local mode for offline",
+    "id": "ahmedhabibo/hermes-lite",
+    "language": "Python",
+    "name": "ahmedhabibo/hermes-lite",
+    "stars": 0,
+    "updated_at": "2026-07-03T12:19:47Z",
+    "url": "https://github.com/ahmedhabibo/hermes-lite"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-07-03T12:17:29Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-07-03T12:16:34Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-03T12:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Long-running delegation architecture for Claude Code: a delegator main session + full-power orchestrator subagents \u2014 nes",
@@ -16,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-07-03T12:13:50Z",
     "url": "https://github.com/bbadler/claude-code-delegator"
-  },
-  {
-    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
-    "id": "SmooAI/smooth-operator",
-    "language": "Rust",
-    "name": "SmooAI/smooth-operator",
-    "stars": 1,
-    "updated_at": "2026-07-03T12:14:52Z",
-    "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -67,7 +139,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1160,
+    "stars": 1161,
     "updated_at": "2026-07-03T12:08:39Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -108,15 +180,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-03T12:03:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI engineering workspace infrastructure \u2014 18 agents, 46 skills, 28 quality gates. One-command bootstrap for large-scale ",
     "id": "ninedeerhing/agent-workspace-infrastructure",
     "language": "Python",
@@ -142,15 +205,6 @@
     "stars": 6,
     "updated_at": "2026-07-03T11:58:59Z",
     "url": "https://github.com/bzcsk2/covalo"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6112,
-    "updated_at": "2026-07-03T11:51:33Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -207,15 +261,6 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "Cloud-first AI agent via NVIDIA NIM Free API \u2014 rate limiting, key rotation, smart fallback chain. Local mode for offline",
-    "id": "ahmedhabibo/hermes-lite",
-    "language": "Python",
-    "name": "ahmedhabibo/hermes-lite",
-    "stars": 0,
-    "updated_at": "2026-07-03T11:37:58Z",
-    "url": "https://github.com/ahmedhabibo/hermes-lite"
-  },
-  {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
     "id": "salvatoreabient793/cursor-auto-deployment-agent",
     "language": "\u2014",
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 523,
-    "updated_at": "2026-07-03T12:07:58Z",
+    "updated_at": "2026-07-03T12:23:50Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -373,7 +418,7 @@
     "id": "wanxingai/LightAgent",
     "language": "Python",
     "name": "wanxingai/LightAgent",
-    "stars": 1169,
+    "stars": 1170,
     "updated_at": "2026-07-03T11:24:30Z",
     "url": "https://github.com/wanxingai/LightAgent"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-03T11:23:13Z",
     "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 8,
-    "updated_at": "2026-07-03T11:23:12Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 3,
-    "updated_at": "2026-07-03T11:22:58Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Record, replay, and improve AI agents in production, built on ZenML",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 194,
-    "updated_at": "2026-07-03T11:30:15Z",
-    "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
-    "description": "A lightweight agent harness you bolt onto your app so an LLM can operate it \u2014 safely, and cheaply.",
-    "id": "shamspias/reins",
-    "language": "Python",
-    "name": "shamspias/reins",
-    "stars": 90,
-    "updated_at": "2026-07-03T11:49:33Z",
-    "url": "https://github.com/shamspias/reins"
-  },
-  {
-    "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
-    "id": "achappey/aihappey-chat",
-    "language": "TypeScript",
-    "name": "achappey/aihappey-chat",
-    "stars": 3,
-    "updated_at": "2026-07-03T11:19:31Z",
-    "url": "https://github.com/achappey/aihappey-chat"
   }
 ]
