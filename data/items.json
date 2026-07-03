@@ -1,5 +1,104 @@
 [
   {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 5,
+    "updated_at": "2026-07-03T17:14:47Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Lemmings clone demonstrating F# message-passing MailboxProcessors",
+    "id": "Thorium/FsLemming",
+    "language": "F#",
+    "name": "Thorium/FsLemming",
+    "stars": 6,
+    "updated_at": "2026-07-03T17:13:44Z",
+    "url": "https://github.com/Thorium/FsLemming"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11848,
+    "updated_at": "2026-07-03T17:13:20Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-03T17:10:19Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-03T17:10:03Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 25838,
+    "updated_at": "2026-07-03T17:05:10Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-07-03T17:10:42Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "A lightweight agent harness you bolt onto your app so an LLM can operate it \u2014 safely, and cheaply.",
+    "id": "shamspias/reins",
+    "language": "Python",
+    "name": "shamspias/reins",
+    "stars": 90,
+    "updated_at": "2026-07-03T17:04:42Z",
+    "url": "https://github.com/shamspias/reins"
+  },
+  {
+    "description": "Self-improving OS for production AI agents \u2014 verifier-gated, cross-family runs that learn which model wins where, so you",
+    "id": "SourceShift/mini-ork",
+    "language": "Shell",
+    "name": "SourceShift/mini-ork",
+    "stars": 1,
+    "updated_at": "2026-07-03T17:01:37Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-03T17:00:49Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-03T17:00:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -25,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T16:55:52Z",
     "url": "https://github.com/linjiejim/greenhouse"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-07-03T17:00:01Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -63,15 +153,6 @@
     "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-03T16:45:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -79,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T16:44:19Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11848,
-    "updated_at": "2026-07-03T17:00:16Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25837,
-    "updated_at": "2026-07-03T16:40:33Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A lightweight Pal team layer for Codex-first AI workflows. AgentPal helps organize specialized Pals with roles, knowledg",
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "bzcsk2/covalo",
     "stars": 6,
-    "updated_at": "2026-07-03T16:58:52Z",
+    "updated_at": "2026-07-03T17:11:16Z",
     "url": "https://github.com/bzcsk2/covalo"
   },
   {
@@ -142,15 +205,6 @@
     "stars": 9,
     "updated_at": "2026-07-03T16:30:47Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 5,
-    "updated_at": "2026-07-03T16:30:40Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
@@ -196,15 +250,6 @@
     "stars": 242,
     "updated_at": "2026-07-03T16:21:09Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 1,
-    "updated_at": "2026-07-03T16:20:37Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
@@ -266,7 +311,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 39,
-    "updated_at": "2026-07-03T16:11:18Z",
+    "updated_at": "2026-07-03T17:08:33Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -351,15 +396,6 @@
     "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
-    "description": "Self-improving OS for production AI agents \u2014 verifier-gated, cross-family runs that learn which model wins where, so you",
-    "id": "SourceShift/mini-ork",
-    "language": "Shell",
-    "name": "SourceShift/mini-ork",
-    "stars": 1,
-    "updated_at": "2026-07-03T16:57:16Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
     "id": "TonCerqueira/MiroThinker",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-03T15:40:50Z",
     "url": "https://github.com/yassineelfakiri/agentpg"
-  },
-  {
-    "description": "Standalone SDK workspace for building Aomi dynamic plugins.",
-    "id": "aomi-labs/aomi-sdk",
-    "language": "Rust",
-    "name": "aomi-labs/aomi-sdk",
-    "stars": 5,
-    "updated_at": "2026-07-03T15:40:13Z",
-    "url": "https://github.com/aomi-labs/aomi-sdk"
-  },
-  {
-    "description": "Zero context compaction for Claude Code & LLM agents. Persistent memory powered by OS primitives (demand paging, kswapd ",
-    "id": "soolaugust/vMem",
-    "language": "Python",
-    "name": "soolaugust/vMem",
-    "stars": 2,
-    "updated_at": "2026-07-03T15:38:19Z",
-    "url": "https://github.com/soolaugust/vMem"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
-    "id": "q-j0k/sprintloop-orchestration",
-    "language": "\u2014",
-    "name": "q-j0k/sprintloop-orchestration",
-    "stars": 1,
-    "updated_at": "2026-07-03T15:37:03Z",
-    "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 3,
-    "updated_at": "2026-07-03T16:09:11Z",
-    "url": "https://github.com/opencue/cuecards"
   }
 ]
