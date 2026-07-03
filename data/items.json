@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-03T19:44:15Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "For3s OS - The self-hosted AI second brain that remembers, learns, and works in a team \u2014 your data, your server.",
+    "id": "fruterito101/for3s",
+    "language": "Python",
+    "name": "fruterito101/for3s",
+    "stars": 3,
+    "updated_at": "2026-07-03T19:44:12Z",
+    "url": "https://github.com/fruterito101/for3s"
+  },
+  {
+    "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
+    "id": "ellmos-ai/ellmos-homebase-mcp",
+    "language": "Python",
+    "name": "ellmos-ai/ellmos-homebase-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-03T19:37:48Z",
+    "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
+  },
+  {
+    "description": "Loop quality layer for production AI agents. Detects silent failures, runs agents on a schedule with verify + handoff, a",
+    "id": "vanamayaswanth/tvastar",
+    "language": "Python",
+    "name": "vanamayaswanth/tvastar",
+    "stars": 2,
+    "updated_at": "2026-07-03T19:37:22Z",
+    "url": "https://github.com/vanamayaswanth/tvastar"
+  },
+  {
+    "description": "The .NET library to build AI agents with 30+ built-in connectors.",
+    "id": "lofcz/LLMTornado",
+    "language": "C#",
+    "name": "lofcz/LLMTornado",
+    "stars": 619,
+    "updated_at": "2026-07-03T19:37:07Z",
+    "url": "https://github.com/lofcz/LLMTornado"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-03T19:35:06Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 564,
+    "updated_at": "2026-07-03T19:34:08Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
+    "id": "ellmos-ai/n8n-manager-mcp",
+    "language": "TypeScript",
+    "name": "ellmos-ai/n8n-manager-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-03T19:33:50Z",
+    "url": "https://github.com/ellmos-ai/n8n-manager-mcp"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-03T19:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
     "id": "s2mgtvodois2/postgresql-mcp-js",
     "language": "TypeScript",
@@ -9,15 +90,6 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "Loop quality layer for production AI agents. Detects silent failures, runs agents on a schedule with verify + handoff, a",
-    "id": "vanamayaswanth/tvastar",
-    "language": "Python",
-    "name": "vanamayaswanth/tvastar",
-    "stars": 2,
-    "updated_at": "2026-07-03T19:29:38Z",
-    "url": "https://github.com/vanamayaswanth/tvastar"
-  },
-  {
     "description": "A curated, opinionated set of OpenCode plugins for spec-first, review-driven, safer agentic development.",
     "id": "osovv/vv-opencode",
     "language": "TypeScript",
@@ -25,24 +97,6 @@
     "stars": 8,
     "updated_at": "2026-07-03T19:27:40Z",
     "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 564,
-    "updated_at": "2026-07-03T19:24:47Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
-    "description": "For3s OS - The self-hosted AI second brain that remembers, learns, and works in a team \u2014 your data, your server.",
-    "id": "fruterito101/for3s",
-    "language": "Python",
-    "name": "fruterito101/for3s",
-    "stars": 3,
-    "updated_at": "2026-07-03T19:21:11Z",
-    "url": "https://github.com/fruterito101/for3s"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -81,15 +135,6 @@
     "url": "https://github.com/zizetu/existential-identity-test-engine"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-03T19:15:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
     "id": "kh0pper/crow",
     "language": "JavaScript",
@@ -117,21 +162,12 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
-    "id": "ellmos-ai/ellmos-homebase-mcp",
-    "language": "Python",
-    "name": "ellmos-ai/ellmos-homebase-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-03T19:10:34Z",
-    "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
-  },
-  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-07-03T19:10:28Z",
+    "updated_at": "2026-07-03T19:36:25Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
@@ -238,7 +274,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25838,
+    "stars": 25839,
     "updated_at": "2026-07-03T18:40:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 403,
-    "updated_at": "2026-07-03T19:16:01Z",
+    "updated_at": "2026-07-03T19:44:58Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 39,
     "updated_at": "2026-07-03T18:30:10Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-07-03T18:26:42Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-07-03T18:26:27Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Expanding Tool",
-    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "language": "Python",
-    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "stars": 0,
-    "updated_at": "2026-07-03T18:24:01Z",
-    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-07-03T19:01:42Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   }
 ]
