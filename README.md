@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-03 21:43 UTC
+> ⏰ Last updated: 2026-07-03 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 70 | TypeScript | 2026-07-03 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 2 | [ellmos-ai/skills](https://github.com/ellmos-ai/skills) | 1 | Python | 2026-07-03 | Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows |
-| 3 | [ellmos-ai/gardener](https://github.com/ellmos-ai/gardener) | 1 | Python | 2026-07-03 | Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases |
-| 4 | [ellmos-ai/rinnsal](https://github.com/ellmos-ai/rinnsal) | 1 | Python | 2026-07-03 | Lightweight local-first LLM agent infrastructure: SQLite memory, tasks, connectors, and chain automation |
-| 5 | [MixxyAI/noderooms-docs](https://github.com/MixxyAI/noderooms-docs) | 0 | — | 2026-07-03 | Public documentation for NodeRooms — a city/workspace layer for AI agents. |
-| 6 | [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | 20902 | Jupyter Notebook | 2026-07-03 | End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment. |
-| 7 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18192 | Python | 2026-07-03 | AI Agent Framework, the Pydantic way |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-03 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-03 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 70 | TypeScript | 2026-07-03 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 3 | [ellmos-ai/skills](https://github.com/ellmos-ai/skills) | 1 | Python | 2026-07-03 | Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows |
+| 4 | [ellmos-ai/gardener](https://github.com/ellmos-ai/gardener) | 1 | Python | 2026-07-03 | Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases |
+| 5 | [ellmos-ai/rinnsal](https://github.com/ellmos-ai/rinnsal) | 1 | Python | 2026-07-03 | Lightweight local-first LLM agent infrastructure: SQLite memory, tasks, connectors, and chain automation |
+| 6 | [MixxyAI/noderooms-docs](https://github.com/MixxyAI/noderooms-docs) | 0 | — | 2026-07-03 | Public documentation for NodeRooms — a city/workspace layer for AI agents. |
+| 7 | [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | 20902 | Jupyter Notebook | 2026-07-03 | End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment. |
+| 8 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18192 | Python | 2026-07-03 | AI Agent Framework, the Pydantic way |
 | 9 | [ryanbbrown/thinharness](https://github.com/ryanbbrown/thinharness) | 2 | Python | 2026-07-03 | A minimal, opinionated agent harness — focused scope, straightforward code, easy to fork. |
 | 10 | [zizetu/existential-identity-test-engine](https://github.com/zizetu/existential-identity-test-engine) | 1 | Python | 2026-07-03 | Existential Identity Test Engine — EITE Agent Framework |
 | 11 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-07-03 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
