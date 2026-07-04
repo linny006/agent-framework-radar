@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-04T17:59:52Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Go SDK contracts for typed, observable, and resumable agent workflows",
     "id": "gopact-ai/gopact",
     "language": "Go",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "for3slabs/for3s",
     "stars": 3,
-    "updated_at": "2026-07-04T17:47:40Z",
+    "updated_at": "2026-07-04T18:00:17Z",
     "url": "https://github.com/for3slabs/for3s"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-04T17:46:16Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-04T17:45:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
