@@ -1,12 +1,21 @@
 [
   {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
+    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
+    "id": "Shiyao-Huang/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "Shiyao-Huang/awesome-agent-evolution",
+    "stars": 170,
+    "updated_at": "2026-07-04T11:42:04Z",
+    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
     "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-07-04T11:30:06Z",
-    "url": "https://github.com/Aureliolo/synthorg"
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-04T11:41:04Z",
+    "url": "https://github.com/raineislam/mcp-framework"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-04T11:30:06Z",
+    "updated_at": "2026-07-04T11:40:38Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Nuwa \u2014 a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
+    "id": "LucioLiu/nuwa",
+    "language": "\u2014",
+    "name": "LucioLiu/nuwa",
+    "stars": 1,
+    "updated_at": "2026-07-04T11:39:57Z",
+    "url": "https://github.com/LucioLiu/nuwa"
   },
   {
     "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
@@ -23,8 +41,44 @@
     "language": "Rust",
     "name": "rararulab/rara",
     "stars": 10,
-    "updated_at": "2026-07-04T11:29:44Z",
+    "updated_at": "2026-07-04T11:39:24Z",
     "url": "https://github.com/rararulab/rara"
+  },
+  {
+    "description": "Non\u2011enabling defensive publication describing a unified governance\u2011layer primitive for autonomous multi\u2011agent systems, i",
+    "id": "Dario-Chang/Unified-Governance-Layer-Primitive-for-Autonomous-Multi-Agent-Systems",
+    "language": "\u2014",
+    "name": "Dario-Chang/Unified-Governance-Layer-Primitive-for-Autonomous-Multi-Agent-Systems",
+    "stars": 0,
+    "updated_at": "2026-07-04T11:38:52Z",
+    "url": "https://github.com/Dario-Chang/Unified-Governance-Layer-Primitive-for-Autonomous-Multi-Agent-Systems"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-04T11:36:05Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-04T11:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-07-04T11:30:37Z",
+    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-04T11:28:19Z",
+    "updated_at": "2026-07-04T11:39:09Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -131,17 +185,8 @@
     "language": "Python",
     "name": "RikyZ90/ShibaClaw",
     "stars": 74,
-    "updated_at": "2026-07-04T11:17:04Z",
+    "updated_at": "2026-07-04T11:38:29Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-04T11:15:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-04T10:48:38Z",
     "url": "https://github.com/moortekweb-art/agentic-harness"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-07-04T10:48:29Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Governed agent marketplace. Bounty board where AI agents form teams, fill slots, and earn revenue under MO\u00a7ES\u2122 governanc",
-    "id": "SunrisesIllNeverSee/agent-universe",
-    "language": "HTML",
-    "name": "SunrisesIllNeverSee/agent-universe",
-    "stars": 0,
-    "updated_at": "2026-07-04T10:48:08Z",
-    "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-04T10:47:22Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-04T10:47:09Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-07-04T10:46:49Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
   }
 ]
