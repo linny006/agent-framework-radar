@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-04 14:44 UTC
+> ⏰ Last updated: 2026-07-04 14:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 1 | Shell | 2026-07-04 | Self-improving OS for production AI agents — verifier-gated, cross-family runs that learn which model wins where, so you |
-| 2 | [amajorai/ryu](https://github.com/amajorai/ryu) | 1 | Rust | 2026-07-04 | Ryu — open-core orchestration engine + LLM gateway for AI agents. Local-first, BYO everything. |
-| 3 | [Djtony707/TITAN](https://github.com/Djtony707/TITAN) | 18 | TypeScript | 2026-07-04 | Building TITAN — the open-source AI operating system for trusted autonomous work: agents, tools, memory, approvals, rece |
-| 4 | [zizetu/existential-identity-test-engine](https://github.com/zizetu/existential-identity-test-engine) | 1 | Python | 2026-07-04 | Existential Identity Test Engine — EITE Agent Framework |
-| 5 | [daretodave/nexus](https://github.com/daretodave/nexus) | 3 | JavaScript | 2026-07-04 | a methodology for autonomous projects that ship themselves (hands off) |
-| 6 | [jaylfc/taOS](https://github.com/jaylfc/taOS) | 408 | Python | 2026-07-04 | Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho |
-| 7 | [chrisluersen/agent-store](https://github.com/chrisluersen/agent-store) | 0 | Python | 2026-07-04 | A curated toolkit for Hermes Agent — skills, fleet orchestration, MCP servers, and agent personality templates. |
-| 8 | [bzcsk2/covalo](https://github.com/bzcsk2/covalo) | 6 | TypeScript | 2026-07-04 | Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v |
-| 9 | [Zchary1106/Myrmecia](https://github.com/Zchary1106/Myrmecia) | 1 | TypeScript | 2026-07-04 | Self-hosted Agent Ops — run, govern, observe, and improve fleets of AI agents from one local-first control plane. |
-| 10 | [subkoks/agents-md](https://github.com/subkoks/agents-md) | 0 | Shell | 2026-07-04 | Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk |
-| 11 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-04 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-04 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 1 | Shell | 2026-07-04 | Self-improving OS for production AI agents — verifier-gated, cross-family runs that learn which model wins where, so you |
+| 3 | [amajorai/ryu](https://github.com/amajorai/ryu) | 1 | Rust | 2026-07-04 | Ryu — open-core orchestration engine + LLM gateway for AI agents. Local-first, BYO everything. |
+| 4 | [Djtony707/TITAN](https://github.com/Djtony707/TITAN) | 18 | TypeScript | 2026-07-04 | Building TITAN — the open-source AI operating system for trusted autonomous work: agents, tools, memory, approvals, rece |
+| 5 | [zizetu/existential-identity-test-engine](https://github.com/zizetu/existential-identity-test-engine) | 1 | Python | 2026-07-04 | Existential Identity Test Engine — EITE Agent Framework |
+| 6 | [daretodave/nexus](https://github.com/daretodave/nexus) | 3 | JavaScript | 2026-07-04 | a methodology for autonomous projects that ship themselves (hands off) |
+| 7 | [jaylfc/taOS](https://github.com/jaylfc/taOS) | 408 | Python | 2026-07-04 | Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho |
+| 8 | [chrisluersen/agent-store](https://github.com/chrisluersen/agent-store) | 0 | Python | 2026-07-04 | A curated toolkit for Hermes Agent — skills, fleet orchestration, MCP servers, and agent personality templates. |
+| 9 | [bzcsk2/covalo](https://github.com/bzcsk2/covalo) | 6 | TypeScript | 2026-07-04 | Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v |
+| 10 | [Zchary1106/Myrmecia](https://github.com/Zchary1106/Myrmecia) | 1 | TypeScript | 2026-07-04 | Self-hosted Agent Ops — run, govern, observe, and improve fleets of AI agents from one local-first control plane. |
+| 11 | [subkoks/agents-md](https://github.com/subkoks/agents-md) | 0 | Shell | 2026-07-04 | Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk |
 | 12 | [openlegion-ai/openlegion](https://github.com/openlegion-ai/openlegion) | 104 | Python | 2026-07-04 | Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c |
 | 13 | [denisotree/veles](https://github.com/denisotree/veles) | 1 | Python | 2026-07-04 | Minimal CLI agent framework with compounding project memory — gets smarter with every session. Clean, modular, any LLM p |
 | 14 | [israriqbal/agent-ecologies](https://github.com/israriqbal/agent-ecologies) | 152 | HTML | 2026-07-04 | Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 |

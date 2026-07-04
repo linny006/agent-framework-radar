@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-04T14:44:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Self-improving OS for production AI agents \u2014 verifier-gated, cross-family runs that learn which model wins where, so you",
     "id": "SourceShift/mini-ork",
     "language": "Shell",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "Djtony707/TITAN",
     "stars": 18,
-    "updated_at": "2026-07-04T14:44:22Z",
+    "updated_at": "2026-07-04T14:44:39Z",
     "url": "https://github.com/Djtony707/TITAN"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-04T14:32:35Z",
     "url": "https://github.com/subkoks/agents-md"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-04T14:30:18Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
