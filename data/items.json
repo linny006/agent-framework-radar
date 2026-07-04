@@ -1,11 +1,20 @@
 [
   {
+    "description": "Production-grade AgentOps control plane for safe AI agent execution. Dual-plane architecture: Rust governance engine + P",
+    "id": "sattyamjjain/ferrumdeck",
+    "language": "TypeScript",
+    "name": "sattyamjjain/ferrumdeck",
+    "stars": 5,
+    "updated_at": "2026-07-04T06:14:18Z",
+    "url": "https://github.com/sattyamjjain/ferrumdeck"
+  },
+  {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 23 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
     "id": "RikyZ90/ShibaClaw",
     "language": "Python",
     "name": "RikyZ90/ShibaClaw",
     "stars": 74,
-    "updated_at": "2026-07-04T05:59:37Z",
+    "updated_at": "2026-07-04T06:13:39Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
@@ -14,8 +23,26 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1024,
-    "updated_at": "2026-07-04T05:59:16Z",
+    "updated_at": "2026-07-04T06:13:38Z",
     "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-04T06:07:55Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-04T06:06:39Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Long-running delegation architecture for Claude Code: a delegator main session + full-power orchestrator subagents \u2014 nes",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "bbadler/claude-code-delegator",
     "stars": 2,
-    "updated_at": "2026-07-04T05:58:27Z",
+    "updated_at": "2026-07-04T06:05:12Z",
     "url": "https://github.com/bbadler/claude-code-delegator"
   },
   {
@@ -32,8 +59,17 @@
     "language": "Python",
     "name": "agustinvillegas/AgentFrame",
     "stars": 0,
-    "updated_at": "2026-07-04T05:58:14Z",
+    "updated_at": "2026-07-04T06:04:14Z",
     "url": "https://github.com/agustinvillegas/AgentFrame"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-04T06:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
@@ -54,6 +90,15 @@
     "url": "https://github.com/HCF-STUDIOS/openhermit"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6179,
+    "updated_at": "2026-07-04T05:52:50Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
     "id": "ucsandman/DashClaw",
     "language": "TypeScript",
@@ -63,15 +108,6 @@
     "url": "https://github.com/ucsandman/DashClaw"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-04T05:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -79,15 +115,6 @@
     "stars": 177,
     "updated_at": "2026-07-04T05:44:21Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-04T05:43:01Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
@@ -185,7 +212,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 71,
-    "updated_at": "2026-07-04T05:56:40Z",
+    "updated_at": "2026-07-04T06:12:32Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-04T05:13:18Z",
     "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-07-04T05:12:49Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-04T05:12:43Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-07-04T05:12:40Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
   }
 ]
