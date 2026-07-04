@@ -1,5 +1,86 @@
 [
   {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 39,
+    "updated_at": "2026-07-04T13:06:09Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
+    "id": "Ibisselfgovernment28/v1-multiagent-articles",
+    "language": "\u2014",
+    "name": "Ibisselfgovernment28/v1-multiagent-articles",
+    "stars": 1,
+    "updated_at": "2026-07-04T13:04:46Z",
+    "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
+  },
+  {
+    "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
+    "id": "gatherfigtree740/ai-agent-landscape",
+    "language": "\u2014",
+    "name": "gatherfigtree740/ai-agent-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-04T13:03:12Z",
+    "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
+  },
+  {
+    "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
+    "id": "ellmos-ai/ellmos-homebase-mcp",
+    "language": "Python",
+    "name": "ellmos-ai/ellmos-homebase-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-04T13:02:11Z",
+    "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
+  },
+  {
+    "description": "Provide a lightweight, cross-platform AI agent with TUI and GUI support, optimized for performance and flexible tool int",
+    "id": "duduard/saneagent",
+    "language": "\u2014",
+    "name": "duduard/saneagent",
+    "stars": 0,
+    "updated_at": "2026-07-04T13:01:49Z",
+    "url": "https://github.com/duduard/saneagent"
+  },
+  {
+    "description": "Trust and verification for the skills your AI agent installs.",
+    "id": "alexverify/eyebrow",
+    "language": "Go",
+    "name": "alexverify/eyebrow",
+    "stars": 1,
+    "updated_at": "2026-07-04T13:01:46Z",
+    "url": "https://github.com/alexverify/eyebrow"
+  },
+  {
+    "description": "Build and manage AI agents within git repositories using a Rust-based, dependency-free framework that version-controls a",
+    "id": "yeab405/rusty-gitclaw",
+    "language": "Rust",
+    "name": "yeab405/rusty-gitclaw",
+    "stars": 2,
+    "updated_at": "2026-07-04T13:00:59Z",
+    "url": "https://github.com/yeab405/rusty-gitclaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-04T13:00:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Coding agent skeleton with ReAct engine, tool system, MCP support, and permission control.",
+    "id": "devcxl/intelliagent",
+    "language": "Python",
+    "name": "devcxl/intelliagent",
+    "stars": 0,
+    "updated_at": "2026-07-04T13:00:13Z",
+    "url": "https://github.com/devcxl/intelliagent"
+  },
+  {
     "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
     "id": "kokorubbong/agenticqa-scan-action",
     "language": "Python",
@@ -160,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-07-04T12:46:19Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-04T12:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
@@ -376,77 +448,5 @@
     "stars": 18,
     "updated_at": "2026-07-04T12:10:38Z",
     "url": "https://github.com/Djtony707/TITAN"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 39,
-    "updated_at": "2026-07-04T12:07:41Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 152,
-    "updated_at": "2026-07-04T12:04:24Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
-    "id": "AmritaBot/AmritaCore",
-    "language": "Python",
-    "name": "AmritaBot/AmritaCore",
-    "stars": 10,
-    "updated_at": "2026-07-04T12:06:03Z",
-    "url": "https://github.com/AmritaBot/AmritaCore"
-  },
-  {
-    "description": "Nuwa \u2014 a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
-    "id": "LucioLiu/nuwa",
-    "language": "\u2014",
-    "name": "LucioLiu/nuwa",
-    "stars": 1,
-    "updated_at": "2026-07-04T12:04:20Z",
-    "url": "https://github.com/LucioLiu/nuwa"
-  },
-  {
-    "description": "AI engineering workspace infrastructure \u2014 18 agents, 46 skills, 28 quality gates. One-command bootstrap for large-scale ",
-    "id": "ninedeerhing/agent-workspace-infrastructure",
-    "language": "Python",
-    "name": "ninedeerhing/agent-workspace-infrastructure",
-    "stars": 0,
-    "updated_at": "2026-07-04T12:00:53Z",
-    "url": "https://github.com/ninedeerhing/agent-workspace-infrastructure"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-04T11:59:54Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-04T11:59:52Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1028,
-    "updated_at": "2026-07-04T11:58:47Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   }
 ]
