@@ -1,5 +1,86 @@
 [
   {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-07-04T15:28:40Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 2,
+    "updated_at": "2026-07-04T15:27:36Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-07-04T15:26:47Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "An open-source Digital Worker platform for reliable execution and continuous co-evolution.",
+    "id": "microsoft/Sico",
+    "language": "Python",
+    "name": "microsoft/Sico",
+    "stars": 52,
+    "updated_at": "2026-07-04T15:24:37Z",
+    "url": "https://github.com/microsoft/Sico"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-04T15:23:10Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
+    "id": "Zchary1106/Myrmecia",
+    "language": "TypeScript",
+    "name": "Zchary1106/Myrmecia",
+    "stars": 1,
+    "updated_at": "2026-07-04T15:18:23Z",
+    "url": "https://github.com/Zchary1106/Myrmecia"
+  },
+  {
+    "description": "TypeScript runtime for self-organized AI agents.",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 83,
+    "updated_at": "2026-07-04T15:16:45Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "Agenten-Framework, das Unsicherheit explizit als Belief State \u00fcber Hypothesen modelliert, Evidenz bayesianisch verarbeit",
+    "id": "pt9912/belief-agent",
+    "language": "Kotlin",
+    "name": "pt9912/belief-agent",
+    "stars": 0,
+    "updated_at": "2026-07-04T15:16:08Z",
+    "url": "https://github.com/pt9912/belief-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-04T15:15:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Self-improving OS for production AI agents \u2014 verifier-gated, cross-family runs that learn which model wins where, so you",
     "id": "SourceShift/mini-ork",
     "language": "Shell",
@@ -14,7 +95,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 1185,
-    "updated_at": "2026-07-04T15:10:39Z",
+    "updated_at": "2026-07-04T15:22:14Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -72,6 +153,15 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
+    "description": "Self-hosted, privacy-first AI collaborator with durable memory, real tools, channel-native access, routines, and auditab",
+    "id": "RNT56/ThinClaw",
+    "language": "Rust",
+    "name": "RNT56/ThinClaw",
+    "stars": 1,
+    "updated_at": "2026-07-04T15:28:21Z",
+    "url": "https://github.com/RNT56/ThinClaw"
+  },
+  {
     "description": "Building TITAN \u2014 the open-source AI operating system for trusted autonomous work: agents, tools, memory, approvals, rece",
     "id": "Djtony707/TITAN",
     "language": "TypeScript",
@@ -106,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-04T15:00:23Z",
     "url": "https://github.com/ellmos-ai/.github"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-04T15:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -166,7 +247,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25923,
+    "stars": 25925,
     "updated_at": "2026-07-04T14:48:09Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -212,7 +293,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 408,
-    "updated_at": "2026-07-04T15:14:18Z",
+    "updated_at": "2026-07-04T15:20:36Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -221,17 +302,8 @@
     "language": "TypeScript",
     "name": "bzcsk2/covalo",
     "stars": 6,
-    "updated_at": "2026-07-04T15:10:19Z",
+    "updated_at": "2026-07-04T15:28:37Z",
     "url": "https://github.com/bzcsk2/covalo"
-  },
-  {
-    "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
-    "id": "Zchary1106/Myrmecia",
-    "language": "TypeScript",
-    "name": "Zchary1106/Myrmecia",
-    "stars": 1,
-    "updated_at": "2026-07-04T14:32:23Z",
-    "url": "https://github.com/Zchary1106/Myrmecia"
   },
   {
     "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-04T13:43:39Z",
     "url": "https://github.com/landjunge/gnom-hub"
-  },
-  {
-    "description": "Turn any skill into a standalone, runnable AI Agent",
-    "id": "agenthatch/agenthatch",
-    "language": "Python",
-    "name": "agenthatch/agenthatch",
-    "stars": 54,
-    "updated_at": "2026-07-04T13:42:05Z",
-    "url": "https://github.com/agenthatch/agenthatch"
-  },
-  {
-    "description": "Modular AI Skill repository. Build your own AI like stacking LEGO blocks. \u6a21\u5757\u5316 AI Skill \u4ed3\u5e93\uff0c\u50cf\u642d\u79ef\u6728\u4e00\u6837\u6784\u5efa\u4f60\u81ea\u5df1\u7684 AI\u3002",
-    "id": "VZIQAQ/CreateYouAI",
-    "language": "JavaScript",
-    "name": "VZIQAQ/CreateYouAI",
-    "stars": 1,
-    "updated_at": "2026-07-04T13:36:28Z",
-    "url": "https://github.com/VZIQAQ/CreateYouAI"
-  },
-  {
-    "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
-    "id": "Asceticrefractoryperiod28/Foundry",
-    "language": "TypeScript",
-    "name": "Asceticrefractoryperiod28/Foundry",
-    "stars": 0,
-    "updated_at": "2026-07-04T13:36:12Z",
-    "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
-  },
-  {
-    "description": "Agenten-Framework, das Unsicherheit explizit als Belief State \u00fcber Hypothesen modelliert, Evidenz bayesianisch verarbeit",
-    "id": "pt9912/belief-agent",
-    "language": "Kotlin",
-    "name": "pt9912/belief-agent",
-    "stars": 0,
-    "updated_at": "2026-07-04T13:36:04Z",
-    "url": "https://github.com/pt9912/belief-agent"
-  },
-  {
-    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
-    "id": "salvatoreabient793/cursor-auto-deployment-agent",
-    "language": "\u2014",
-    "name": "salvatoreabient793/cursor-auto-deployment-agent",
-    "stars": 0,
-    "updated_at": "2026-07-04T13:34:24Z",
-    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-07-04T13:32:39Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-07-04T13:32:10Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-07-04T13:31:57Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
