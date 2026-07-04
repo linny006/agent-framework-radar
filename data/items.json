@@ -1,5 +1,23 @@
 [
   {
+    "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
+    "id": "kokorubbong/agenticqa-scan-action",
+    "language": "Python",
+    "name": "kokorubbong/agenticqa-scan-action",
+    "stars": 0,
+    "updated_at": "2026-07-04T05:02:16Z",
+    "url": "https://github.com/kokorubbong/agenticqa-scan-action"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-04T05:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
     "id": "redd357magnum-ship-it/-SuperAgent-Hub",
     "language": "Python",
@@ -196,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-04T04:45:40Z",
     "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-04T04:45:18Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
@@ -436,17 +445,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25870,
+    "stars": 25872,
     "updated_at": "2026-07-04T03:51:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
-    "id": "raineislam/mcp-framework",
-    "language": "Python",
-    "name": "raineislam/mcp-framework",
-    "stars": 0,
-    "updated_at": "2026-07-04T03:46:11Z",
-    "url": "https://github.com/raineislam/mcp-framework"
   }
 ]
