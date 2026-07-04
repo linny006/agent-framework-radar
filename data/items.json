@@ -1,12 +1,21 @@
 [
   {
-    "description": "Local-first goal execution harness for AI agents \u2014 plan \u2192 execute \u2192 review \u2192 done. Deterministic review gates, loop guar",
-    "id": "moortekweb-art/agentic-harness",
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 3,
+    "updated_at": "2026-07-04T08:59:36Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
+    "id": "ellmos-ai/MarbleRun",
     "language": "Python",
-    "name": "moortekweb-art/agentic-harness",
-    "stars": 0,
-    "updated_at": "2026-07-04T08:44:51Z",
-    "url": "https://github.com/moortekweb-art/agentic-harness"
+    "name": "ellmos-ai/MarbleRun",
+    "stars": 1,
+    "updated_at": "2026-07-04T08:59:24Z",
+    "url": "https://github.com/ellmos-ai/MarbleRun"
   },
   {
     "description": "A lightweight agent harness you bolt onto your app so an LLM can operate it \u2014 safely, and cheaply.",
@@ -14,17 +23,26 @@
     "language": "Python",
     "name": "shamspias/reins",
     "stars": 90,
-    "updated_at": "2026-07-04T08:44:47Z",
+    "updated_at": "2026-07-04T08:59:03Z",
     "url": "https://github.com/shamspias/reins"
   },
   {
-    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1024,
-    "updated_at": "2026-07-04T08:43:45Z",
-    "url": "https://github.com/Team-Commonly/commonly"
+    "description": "A security-first agent platform \u2014 Models Propose, Records Decide. 17 deterministic constraints gate every LLM proposal b",
+    "id": "910636071/text-graphics-agent",
+    "language": "Python",
+    "name": "910636071/text-graphics-agent",
+    "stars": 1,
+    "updated_at": "2026-07-04T08:58:17Z",
+    "url": "https://github.com/910636071/text-graphics-agent"
+  },
+  {
+    "description": "Local-first goal execution harness for AI agents \u2014 plan \u2192 execute \u2192 review \u2192 done. Deterministic review gates, loop guar",
+    "id": "moortekweb-art/agentic-harness",
+    "language": "Python",
+    "name": "moortekweb-art/agentic-harness",
+    "stars": 0,
+    "updated_at": "2026-07-04T08:58:40Z",
+    "url": "https://github.com/moortekweb-art/agentic-harness"
   },
   {
     "description": "Agenten-Framework, das Unsicherheit explizit als Belief State \u00fcber Hypothesen modelliert, Evidenz bayesianisch verarbeit",
@@ -32,8 +50,53 @@
     "language": "Makefile",
     "name": "pt9912/belief-agent",
     "stars": 0,
-    "updated_at": "2026-07-04T08:38:13Z",
+    "updated_at": "2026-07-04T08:55:04Z",
     "url": "https://github.com/pt9912/belief-agent"
+  },
+  {
+    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1024,
+    "updated_at": "2026-07-04T08:51:34Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "A data-driven, cryptographically signed, registry-backed AI operating system, with capability-scoped execution and graph",
+    "id": "leolilley/ryeos",
+    "language": "Rust",
+    "name": "leolilley/ryeos",
+    "stars": 2,
+    "updated_at": "2026-07-04T08:49:43Z",
+    "url": "https://github.com/leolilley/ryeos"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 25894,
+    "updated_at": "2026-07-04T08:59:13Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-07-04T08:47:09Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-04T08:45:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -45,21 +108,12 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "A security-first agent platform \u2014 Models Propose, Records Decide. 17 deterministic constraints gate every LLM proposal b",
-    "id": "910636071/text-graphics-agent",
-    "language": "Python",
-    "name": "910636071/text-graphics-agent",
-    "stars": 1,
-    "updated_at": "2026-07-04T08:32:59Z",
-    "url": "https://github.com/910636071/text-graphics-agent"
-  },
-  {
     "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
     "id": "the-long-ride/engram",
     "language": "TypeScript",
     "name": "the-long-ride/engram",
     "stars": 5,
-    "updated_at": "2026-07-04T08:32:47Z",
+    "updated_at": "2026-07-04T08:52:56Z",
     "url": "https://github.com/the-long-ride/engram"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 7,
     "updated_at": "2026-07-04T08:30:45Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-04T08:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
@@ -115,15 +160,6 @@
     "stars": 8,
     "updated_at": "2026-07-04T08:27:58Z",
     "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-07-04T08:43:49Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
@@ -392,7 +428,7 @@
     "language": "TypeScript",
     "name": "bzcsk2/covalo",
     "stars": 6,
-    "updated_at": "2026-07-04T08:41:58Z",
+    "updated_at": "2026-07-04T08:58:34Z",
     "url": "https://github.com/bzcsk2/covalo"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-04T07:44:11Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 152,
-    "updated_at": "2026-07-04T07:42:29Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-07-04T07:42:15Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
-    "id": "rararulab/rara",
-    "language": "Rust",
-    "name": "rararulab/rara",
-    "stars": 10,
-    "updated_at": "2026-07-04T08:33:54Z",
-    "url": "https://github.com/rararulab/rara"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-04T07:41:55Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
   }
 ]
