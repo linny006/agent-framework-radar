@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-04T09:11:22Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Local-first goal execution harness for AI agents \u2014 plan \u2192 execute \u2192 review \u2192 done. Deterministic review gates, loop guar",
+    "id": "moortekweb-art/agentic-harness",
+    "language": "Python",
+    "name": "moortekweb-art/agentic-harness",
+    "stars": 0,
+    "updated_at": "2026-07-04T09:10:31Z",
+    "url": "https://github.com/moortekweb-art/agentic-harness"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 181,
+    "updated_at": "2026-07-04T09:09:10Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 47,
+    "updated_at": "2026-07-04T09:05:06Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "A security-first agent platform \u2014 Models Propose, Records Decide. 17 deterministic constraints gate every LLM proposal b",
+    "id": "910636071/text-graphics-agent",
+    "language": "Python",
+    "name": "910636071/text-graphics-agent",
+    "stars": 1,
+    "updated_at": "2026-07-04T09:04:46Z",
+    "url": "https://github.com/910636071/text-graphics-agent"
+  },
+  {
+    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1024,
+    "updated_at": "2026-07-04T09:01:57Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-04T09:00:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -27,24 +90,6 @@
     "url": "https://github.com/shamspias/reins"
   },
   {
-    "description": "A security-first agent platform \u2014 Models Propose, Records Decide. 17 deterministic constraints gate every LLM proposal b",
-    "id": "910636071/text-graphics-agent",
-    "language": "Python",
-    "name": "910636071/text-graphics-agent",
-    "stars": 1,
-    "updated_at": "2026-07-04T08:58:17Z",
-    "url": "https://github.com/910636071/text-graphics-agent"
-  },
-  {
-    "description": "Local-first goal execution harness for AI agents \u2014 plan \u2192 execute \u2192 review \u2192 done. Deterministic review gates, loop guar",
-    "id": "moortekweb-art/agentic-harness",
-    "language": "Python",
-    "name": "moortekweb-art/agentic-harness",
-    "stars": 0,
-    "updated_at": "2026-07-04T08:58:40Z",
-    "url": "https://github.com/moortekweb-art/agentic-harness"
-  },
-  {
     "description": "Agenten-Framework, das Unsicherheit explizit als Belief State \u00fcber Hypothesen modelliert, Evidenz bayesianisch verarbeit",
     "id": "pt9912/belief-agent",
     "language": "Makefile",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-04T08:55:04Z",
     "url": "https://github.com/pt9912/belief-agent"
-  },
-  {
-    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1024,
-    "updated_at": "2026-07-04T08:51:34Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "A data-driven, cryptographically signed, registry-backed AI operating system, with capability-scoped execution and graph",
@@ -90,22 +126,13 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-04T08:45:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 181,
-    "updated_at": "2026-07-04T08:38:10Z",
-    "url": "https://github.com/cortexkit/aft"
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 630,
+    "updated_at": "2026-07-04T08:41:59Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
     "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
@@ -124,24 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-04T08:31:44Z",
     "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-04T08:30:45Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 629,
-    "updated_at": "2026-07-04T08:41:59Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
     "description": "Production-grade AgentOps control plane for safe AI agent execution. Dual-plane architecture: Rust governance engine + P",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-04T07:44:56Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-04T07:44:11Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
   }
 ]
