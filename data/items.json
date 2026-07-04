@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
-    "id": "tareksyria/SREAgents",
-    "language": "JavaScript",
-    "name": "tareksyria/SREAgents",
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 631,
+    "updated_at": "2026-07-04T21:30:00Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
+    "description": "\ud83e\udd16 Build AI agents with Go featuring multi-agent orchestration, planning, tool use, and support for Gemini, OpenAI, Anthr",
+    "id": "Luiz184/gokin-sdk",
+    "language": "Go",
+    "name": "Luiz184/gokin-sdk",
     "stars": 2,
-    "updated_at": "2026-07-04T21:27:42Z",
-    "url": "https://github.com/tareksyria/SREAgents"
+    "updated_at": "2026-07-04T21:29:56Z",
+    "url": "https://github.com/Luiz184/gokin-sdk"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4731,
-    "updated_at": "2026-07-04T21:27:28Z",
+    "updated_at": "2026-07-04T21:29:00Z",
     "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-04T21:27:51Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
+    "id": "tareksyria/SREAgents",
+    "language": "JavaScript",
+    "name": "tareksyria/SREAgents",
+    "stars": 2,
+    "updated_at": "2026-07-04T21:27:42Z",
+    "url": "https://github.com/tareksyria/SREAgents"
   },
   {
     "description": "Autonomous Go daemon for AI software engineering. 18 specialist agents + 5 reviewers, constitution-bound AI Employees, e",
@@ -61,15 +88,6 @@
     "stars": 5,
     "updated_at": "2026-07-04T21:16:34Z",
     "url": "https://github.com/aomi-labs/aomi-sdk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-04T21:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
@@ -241,15 +259,6 @@
     "stars": 181,
     "updated_at": "2026-07-04T20:53:37Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 631,
-    "updated_at": "2026-07-04T20:53:39Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -439,14 +448,5 @@
     "stars": 3849,
     "updated_at": "2026-07-04T19:36:13Z",
     "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Self-hosted, privacy-first AI collaborator with durable memory, real tools, channel-native access, routines, and auditab",
-    "id": "RNT56/ThinClaw",
-    "language": "Rust",
-    "name": "RNT56/ThinClaw",
-    "stars": 1,
-    "updated_at": "2026-07-04T19:31:54Z",
-    "url": "https://github.com/RNT56/ThinClaw"
   }
 ]
