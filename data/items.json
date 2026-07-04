@@ -1,21 +1,84 @@
 [
   {
-    "description": "Demo de la charla \"Claude en Microsoft Foundry\": SDK de Anthropic, tool use y un agente con Microsoft Agent Framework + ",
-    "id": "ppiova/claude-foundry-demo",
-    "language": "Python",
-    "name": "ppiova/claude-foundry-demo",
-    "stars": 0,
-    "updated_at": "2026-07-04T13:59:14Z",
-    "url": "https://github.com/ppiova/claude-foundry-demo"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-04T13:58:15Z",
+    "updated_at": "2026-07-04T14:15:12Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Demo de la charla \"Claude en Microsoft Foundry\": SDK de Anthropic, tool use y un agente con Microsoft Agent Framework + ",
+    "id": "ppiova/claude-foundry-demo",
+    "language": "Python",
+    "name": "ppiova/claude-foundry-demo",
+    "stars": 0,
+    "updated_at": "2026-07-04T14:14:44Z",
+    "url": "https://github.com/ppiova/claude-foundry-demo"
+  },
+  {
+    "description": "A security-first agent platform \u2014 Models Propose, Records Decide. 17 deterministic constraints gate every LLM proposal b",
+    "id": "910636071/text-graphics-agent",
+    "language": "Python",
+    "name": "910636071/text-graphics-agent",
+    "stars": 1,
+    "updated_at": "2026-07-04T14:14:28Z",
+    "url": "https://github.com/910636071/text-graphics-agent"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-07-04T14:12:53Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
+    "id": "akimoto-akira/SiliconLifeCollective",
+    "language": "C#",
+    "name": "akimoto-akira/SiliconLifeCollective",
+    "stars": 2,
+    "updated_at": "2026-07-04T14:10:22Z",
+    "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 25917,
+    "updated_at": "2026-07-04T14:07:35Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 181,
+    "updated_at": "2026-07-04T14:05:23Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\u4ece\u96f6\u5b9e\u73b0\u7684 Agent Runtime\uff1a\u4e0d\u4f9d\u8d56\u4efb\u4f55\u6846\u67b6\uff0c\u57fa\u4e8e LLM \u539f\u751f API \u590d\u523b Claude Code \u6838\u5fc3\u5de5\u7a0b\u673a\u5236\u3002\u4e03\u8bfe\u6e10\u8fdb\u5f0f\u6559\u7a0b\uff0c\u6bcf\u8bfe\u542b\u4ee3\u7801/\u6d4b\u8bd5/\u6587\u6863/\u7b80\u5386/\u9762\u8bd5\u9898\u3002",
+    "id": "1iamm/managed-agent",
+    "language": "Python",
+    "name": "1iamm/managed-agent",
+    "stars": 0,
+    "updated_at": "2026-07-04T14:02:35Z",
+    "url": "https://github.com/1iamm/managed-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-04T14:00:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source browser AI runtime for models, Agents, Model Context Protocol servers, Skills, tools, real time voice, trans",
@@ -27,15 +90,6 @@
     "url": "https://github.com/achappey/aihappey-chat"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 181,
-    "updated_at": "2026-07-04T13:51:39Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
     "id": "bzcsk2/covalo",
     "language": "TypeScript",
@@ -45,15 +99,6 @@
     "url": "https://github.com/bzcsk2/covalo"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25916,
-    "updated_at": "2026-07-04T13:48:14Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Adaptive multi-agent orchestration for AI agents route to typed specialist agents, learn from outcomes, and run self-cor",
     "id": "Dharundp6/agentloop",
     "language": "TypeScript",
@@ -61,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-04T13:55:15Z",
     "url": "https://github.com/Dharundp6/agentloop"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-04T13:45:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-07-04T13:59:35Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "\ud83e\udde0 8 KI-Agenten lokal orchestrieren \u2013 ohne Cloud. FastAPI, DeepSeek, SQLite-Message-Queue, FAISS-Embeddings, Gatekeeper-S",
@@ -382,7 +409,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6196,
+    "stars": 6197,
     "updated_at": "2026-07-04T13:19:13Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-04T13:14:16Z",
     "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-07-04T13:13:51Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 1,
-    "updated_at": "2026-07-04T13:13:13Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-07-04T13:12:04Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
   }
 ]
