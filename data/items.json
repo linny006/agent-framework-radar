@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI Agent \u8ba4\u77e5\u589e\u5f3a\u7cfb\u7edf \u2014 \u6301\u4e45\u8bb0\u5fc6\u3001\u77e5\u8bc6\u56fe\u8c31\u3001SimHash\u8bed\u4e49\u641c\u7d22\u3001\u81ea\u68c0\u4fee\u590d",
+    "id": "A1m1ng777888/super-brain",
+    "language": "Python",
+    "name": "A1m1ng777888/super-brain",
+    "stars": 0,
+    "updated_at": "2026-07-05T04:27:53Z",
+    "url": "https://github.com/A1m1ng777888/super-brain"
+  },
+  {
+    "description": "A tiny async tool-calling agent framework",
+    "id": "folathecoder/agentling",
+    "language": "Python",
+    "name": "folathecoder/agentling",
+    "stars": 0,
+    "updated_at": "2026-07-05T04:21:12Z",
+    "url": "https://github.com/folathecoder/agentling"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 39,
+    "updated_at": "2026-07-05T04:21:11Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
+    "id": "PiloTracer/.ai",
+    "language": "Shell",
+    "name": "PiloTracer/.ai",
+    "stars": 0,
+    "updated_at": "2026-07-05T04:19:54Z",
+    "url": "https://github.com/PiloTracer/.ai"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-05T04:19:50Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-05T04:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
@@ -27,40 +81,13 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "AI Agent \u8ba4\u77e5\u589e\u5f3a\u7cfb\u7edf \u2014 \u6301\u4e45\u8bb0\u5fc6\u3001\u77e5\u8bc6\u56fe\u8c31\u3001SimHash\u8bed\u4e49\u641c\u7d22\u3001\u81ea\u68c0\u4fee\u590d",
-    "id": "A1m1ng777888/super-brain",
-    "language": "Python",
-    "name": "A1m1ng777888/super-brain",
-    "stars": 0,
-    "updated_at": "2026-07-05T04:03:06Z",
-    "url": "https://github.com/A1m1ng777888/super-brain"
-  },
-  {
     "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
     "id": "bzcsk2/covalo",
     "language": "TypeScript",
     "name": "bzcsk2/covalo",
     "stars": 6,
-    "updated_at": "2026-07-05T04:01:47Z",
+    "updated_at": "2026-07-05T04:26:58Z",
     "url": "https://github.com/bzcsk2/covalo"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-05T04:00:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 39,
-    "updated_at": "2026-07-05T04:12:13Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-05T03:47:39Z",
+    "updated_at": "2026-07-05T04:28:18Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -346,7 +373,7 @@
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
-    "stars": 1502,
+    "stars": 1501,
     "updated_at": "2026-07-05T03:16:07Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-05T03:08:25Z",
     "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:08:18Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-07-05T03:07:58Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:07:37Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
   }
 ]
