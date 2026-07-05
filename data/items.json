@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
+    "id": "sweatco/archie-hq",
+    "language": "TypeScript",
+    "name": "sweatco/archie-hq",
+    "stars": 16,
+    "updated_at": "2026-07-05T17:43:36Z",
+    "url": "https://github.com/sweatco/archie-hq"
+  },
+  {
+    "description": "Open source Golang LLM Proxy, Agent SDK with Restate & Temporal support for durable agent loop",
+    "id": "hastekit/hastekit-sdk-go",
+    "language": "Go",
+    "name": "hastekit/hastekit-sdk-go",
+    "stars": 12,
+    "updated_at": "2026-07-05T17:43:30Z",
+    "url": "https://github.com/hastekit/hastekit-sdk-go"
+  },
+  {
+    "description": "The agent harness for Ruby applications. Durable sessions, streaming, human-in-the-loop approval, compaction, structured",
+    "id": "mcheemaa/mistri",
+    "language": "Ruby",
+    "name": "mcheemaa/mistri",
+    "stars": 0,
+    "updated_at": "2026-07-05T17:42:00Z",
+    "url": "https://github.com/mcheemaa/mistri"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-05T17:39:32Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Agenten-Framework, das Unsicherheit explizit als Belief State \u00fcber Hypothesen modelliert, Evidenz bayesianisch verarbeit",
+    "id": "pt9912/belief-agent",
+    "language": "Kotlin",
+    "name": "pt9912/belief-agent",
+    "stars": 1,
+    "updated_at": "2026-07-05T17:30:57Z",
+    "url": "https://github.com/pt9912/belief-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-05T17:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agentic OS done right \u2014 create agents, chat, delegate work, stay safe. Self-hosted control plane with pluggable memory, ",
     "id": "fpytloun/cognis",
     "language": "Python",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 636,
-    "updated_at": "2026-07-05T17:27:32Z",
+    "updated_at": "2026-07-05T17:35:31Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
@@ -41,17 +95,8 @@
     "language": "TypeScript",
     "name": "ucsandman/DashClaw",
     "stars": 281,
-    "updated_at": "2026-07-05T17:28:14Z",
+    "updated_at": "2026-07-05T17:38:08Z",
     "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "Agenten-Framework, das Unsicherheit explizit als Belief State \u00fcber Hypothesen modelliert, Evidenz bayesianisch verarbeit",
-    "id": "pt9912/belief-agent",
-    "language": "Kotlin",
-    "name": "pt9912/belief-agent",
-    "stars": 1,
-    "updated_at": "2026-07-05T17:21:34Z",
-    "url": "https://github.com/pt9912/belief-agent"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -70,15 +115,6 @@
     "stars": 10,
     "updated_at": "2026-07-05T17:16:47Z",
     "url": "https://github.com/bigbraingoldfish/lullabeast"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-05T17:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
@@ -130,8 +166,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26019,
-    "updated_at": "2026-07-05T17:03:54Z",
+    "stars": 26020,
+    "updated_at": "2026-07-05T17:44:20Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -342,15 +378,6 @@
     "url": "https://github.com/plain-sleepydick853/feros"
   },
   {
-    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
-    "id": "sweatco/archie-hq",
-    "language": "TypeScript",
-    "name": "sweatco/archie-hq",
-    "stars": 16,
-    "updated_at": "2026-07-05T16:47:18Z",
-    "url": "https://github.com/sweatco/archie-hq"
-  },
-  {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
@@ -358,6 +385,15 @@
     "stars": 1503,
     "updated_at": "2026-07-05T17:03:56Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Adam Prism \u2014 \u0623\u0648\u0644 Digital Twin \u0648\u0627\u0639\u064d \u0639\u0631\u0628\u064a. \u0645\u0644\u0643\u0643 \u0628\u0627\u0644\u0643\u0627\u0645\u0644. \u064a\u0641\u0647\u0645\u0643 \u0628\u0644\u063a\u062a\u0643. The first Arabic-conscious Digital Twin. Yours to ow",
+    "id": "othmastar/adam-prism",
+    "language": "Python",
+    "name": "othmastar/adam-prism",
+    "stars": 3,
+    "updated_at": "2026-07-05T16:46:02Z",
+    "url": "https://github.com/othmastar/adam-prism"
   },
   {
     "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
@@ -412,41 +448,5 @@
     "stars": 151,
     "updated_at": "2026-07-05T16:43:33Z",
     "url": "https://github.com/ranxi2001/zero2Agent"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-07-05T16:43:56Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-05T16:40:32Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-07-05T16:38:24Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-05T16:38:09Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
   }
 ]
