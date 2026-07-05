@@ -1,5 +1,68 @@
 [
   {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:43:41Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 153,
+    "updated_at": "2026-07-05T06:40:38Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:37:00Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1034,
+    "updated_at": "2026-07-05T06:35:44Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Deployment configs for liberzon/agents-gateway \u2014 one-click Render / Railway / Koyeb + Kubernetes manifests. Image-based ",
+    "id": "liberzon/agents-gateway-deploy",
+    "language": "Dockerfile",
+    "name": "liberzon/agents-gateway-deploy",
+    "stars": 1,
+    "updated_at": "2026-07-05T06:32:54Z",
+    "url": "https://github.com/liberzon/agents-gateway-deploy"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-07-05T06:32:19Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-05T06:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -22,7 +85,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 25970,
+    "stars": 25972,
     "updated_at": "2026-07-05T06:24:14Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -70,15 +133,6 @@
     "stars": 11,
     "updated_at": "2026-07-05T06:15:56Z",
     "url": "https://github.com/Sheep1433/Noesis"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-05T06:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Contemplative Agent (CA) \u2014 a CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs, with contemplative",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T05:32:40Z",
     "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Free-first, model-adaptive coding agent runtime that makes local small LLMs work reliably with harness, checkpointing, v",
-    "id": "bzcsk2/covalo",
-    "language": "TypeScript",
-    "name": "bzcsk2/covalo",
-    "stars": 6,
-    "updated_at": "2026-07-05T05:31:42Z",
-    "url": "https://github.com/bzcsk2/covalo"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 1,
-    "updated_at": "2026-07-05T05:31:01Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:30:50Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:30:46Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-07-05T05:30:26Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:30:07Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
   }
 ]
