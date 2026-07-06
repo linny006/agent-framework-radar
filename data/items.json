@@ -1,21 +1,12 @@
 [
   {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 23 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 75,
-    "updated_at": "2026-07-06T10:29:23Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6351,
-    "updated_at": "2026-07-06T10:29:43Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-06T10:45:07Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "An open-source agent harness that makes small models do big work.",
@@ -23,26 +14,71 @@
     "language": "Python",
     "name": "AramDevops/neo",
     "stars": 1,
-    "updated_at": "2026-07-06T10:25:43Z",
+    "updated_at": "2026-07-06T10:38:53Z",
     "url": "https://github.com/AramDevops/neo"
   },
   {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
+    "description": "Open-source, self-hosted AI agent workbench. One tool layer powers your team's chat, your app's agent, and any MCP clien",
+    "id": "linjiejim/greenhouse",
+    "language": "TypeScript",
+    "name": "linjiejim/greenhouse",
+    "stars": 0,
+    "updated_at": "2026-07-06T10:41:55Z",
+    "url": "https://github.com/linjiejim/greenhouse"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 23 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
     "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 636,
-    "updated_at": "2026-07-06T10:25:13Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 75,
+    "updated_at": "2026-07-06T10:37:54Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26126,
-    "updated_at": "2026-07-06T10:21:43Z",
+    "stars": 26129,
+    "updated_at": "2026-07-06T10:35:14Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-07-06T10:39:08Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T10:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6351,
+    "updated_at": "2026-07-06T10:43:52Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 637,
+    "updated_at": "2026-07-06T10:43:26Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -79,24 +115,6 @@
     "stars": 4,
     "updated_at": "2026-07-06T10:15:43Z",
     "url": "https://github.com/edwardtay/awesome-web3-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T10:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-07-06T10:27:20Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "",
@@ -230,7 +248,7 @@
     "language": "Swift",
     "name": "nnxlxde-stack/moon-lang",
     "stars": 0,
-    "updated_at": "2026-07-06T10:10:59Z",
+    "updated_at": "2026-07-06T10:34:14Z",
     "url": "https://github.com/nnxlxde-stack/moon-lang"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 10,
     "updated_at": "2026-07-06T09:28:58Z",
     "url": "https://github.com/Orkas-AI/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 3,
-    "updated_at": "2026-07-06T09:28:51Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:25:40Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
   }
 ]
