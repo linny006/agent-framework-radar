@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-06 20:59 UTC
+> ⏰ Last updated: 2026-07-06 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [agentjido/jidoka](https://github.com/agentjido/jidoka) | 23 | Elixir | 2026-07-06 | Developer-friendly LLM agent harness built on Jido and Jido AI |
-| 2 | [ProtocolWarden/ContextLifecycle](https://github.com/ProtocolWarden/ContextLifecycle) | 0 | Python | 2026-07-06 | Generic configurable cognition lifecycle runtime for bounded, resumable agent sessions |
-| 3 | [israriqbal/agent-ecologies](https://github.com/israriqbal/agent-ecologies) | 152 | HTML | 2026-07-06 | Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 |
-| 4 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 571 | TypeScript | 2026-07-06 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
-| 5 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6441 | Python | 2026-07-06 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 6 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-06 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 571 | TypeScript | 2026-07-06 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-06 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [agentjido/jidoka](https://github.com/agentjido/jidoka) | 23 | Elixir | 2026-07-06 | Developer-friendly LLM agent harness built on Jido and Jido AI |
+| 4 | [ProtocolWarden/ContextLifecycle](https://github.com/ProtocolWarden/ContextLifecycle) | 0 | Python | 2026-07-06 | Generic configurable cognition lifecycle runtime for bounded, resumable agent sessions |
+| 5 | [israriqbal/agent-ecologies](https://github.com/israriqbal/agent-ecologies) | 152 | HTML | 2026-07-06 | Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 |
+| 6 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6441 | Python | 2026-07-06 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 7 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-07-06 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
 | 8 | [daretodave/nexus](https://github.com/daretodave/nexus) | 3 | JavaScript | 2026-07-06 | a methodology for autonomous projects that ship themselves (hands off) |
 | 9 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 1239 | TypeScript | 2026-07-06 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
