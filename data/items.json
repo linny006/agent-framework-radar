@@ -1,12 +1,57 @@
 [
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-06T10:45:07Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 638,
+    "updated_at": "2026-07-06T10:57:21Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 26130,
+    "updated_at": "2026-07-06T10:53:20Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6352,
+    "updated_at": "2026-07-06T10:56:30Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs o",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6499,
+    "updated_at": "2026-07-06T10:51:42Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 9,
+    "updated_at": "2026-07-06T10:51:02Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-07-06T10:59:08Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "An open-source agent harness that makes small models do big work.",
@@ -14,8 +59,44 @@
     "language": "Python",
     "name": "AramDevops/neo",
     "stars": 1,
-    "updated_at": "2026-07-06T10:38:53Z",
+    "updated_at": "2026-07-06T10:49:57Z",
     "url": "https://github.com/AramDevops/neo"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2181,
+    "updated_at": "2026-07-06T10:49:57Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Contemplative Agent (CA) \u2014 a CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs, with contemplative",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 5,
+    "updated_at": "2026-07-06T10:49:53Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T10:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-06T10:45:07Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "Open-source, self-hosted AI agent workbench. One tool layer powers your team's chat, your app's agent, and any MCP clien",
@@ -36,51 +117,6 @@
     "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26129,
-    "updated_at": "2026-07-06T10:35:14Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-07-06T10:39:08Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T10:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6351,
-    "updated_at": "2026-07-06T10:43:52Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 637,
-    "updated_at": "2026-07-06T10:43:26Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -97,15 +133,6 @@
     "stars": 153,
     "updated_at": "2026-07-06T10:16:36Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Contemplative Agent (CA) \u2014 a CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs, with contemplative",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 5,
-    "updated_at": "2026-07-06T10:15:44Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "A curated list of 90+ Web3 x AI tools, agent frameworks, protocols, and infrastructure",
@@ -248,7 +275,7 @@
     "language": "Swift",
     "name": "nnxlxde-stack/moon-lang",
     "stars": 0,
-    "updated_at": "2026-07-06T10:34:14Z",
+    "updated_at": "2026-07-06T10:46:26Z",
     "url": "https://github.com/nnxlxde-stack/moon-lang"
   },
   {
@@ -320,7 +347,7 @@
     "language": "TypeScript",
     "name": "byronxlg/skillfold",
     "stars": 9,
-    "updated_at": "2026-07-06T10:29:52Z",
+    "updated_at": "2026-07-06T10:46:24Z",
     "url": "https://github.com/byronxlg/skillfold"
   },
   {
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 412,
-    "updated_at": "2026-07-06T10:22:03Z",
+    "updated_at": "2026-07-06T10:47:22Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-06T09:37:39Z",
     "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-07-06T09:29:41Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-07-06T09:29:18Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Curated Orkas agents and skills for education, product development, content creation, data analysis, office automation, ",
-    "id": "Orkas-AI/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "Orkas-AI/Orkas-Awesome-AgentSkills",
-    "stars": 10,
-    "updated_at": "2026-07-06T09:28:58Z",
-    "url": "https://github.com/Orkas-AI/Orkas-Awesome-AgentSkills"
   }
 ]
