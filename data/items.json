@@ -1,12 +1,48 @@
 [
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other ",
+    "id": "zuoxu3310/AGENTOS",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T17:13:41Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "zuoxu3310/AGENTOS",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:30:08Z",
+    "url": "https://github.com/zuoxu3310/AGENTOS"
+  },
+  {
+    "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
+    "id": "shyftlabs/continuum",
+    "language": "Python",
+    "name": "shyftlabs/continuum",
+    "stars": 75,
+    "updated_at": "2026-07-06T17:28:42Z",
+    "url": "https://github.com/shyftlabs/continuum"
+  },
+  {
+    "description": "A generic, batteries-included, async-first agent toolkit \u2014 configurable loop, tools, security guards, streaming, persist",
+    "id": "skwijeratne/agentix-toolkit",
+    "language": "Python",
+    "name": "skwijeratne/agentix-toolkit",
+    "stars": 4,
+    "updated_at": "2026-07-06T17:24:41Z",
+    "url": "https://github.com/skwijeratne/agentix-toolkit"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 185,
+    "updated_at": "2026-07-06T17:22:47Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 283,
+    "updated_at": "2026-07-06T17:23:33Z",
+    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 639,
-    "updated_at": "2026-07-06T17:14:19Z",
+    "updated_at": "2026-07-06T17:18:36Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T17:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-07-06T17:15:03Z",
+    "url": "https://github.com/kh0pper/crow"
   },
   {
     "description": "Generate, extend, and forensically audit multi-agent teams for Claude Code \u2014 build-team / build-agent / build-skill / bu",
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T17:05:53Z",
     "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other ",
-    "id": "zuoxu3310/AGENTOS",
-    "language": "Python",
-    "name": "zuoxu3310/AGENTOS",
-    "stars": 0,
-    "updated_at": "2026-07-06T17:05:44Z",
-    "url": "https://github.com/zuoxu3310/AGENTOS"
   },
   {
     "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
@@ -142,15 +187,6 @@
     "stars": 6,
     "updated_at": "2026-07-06T16:47:15Z",
     "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 185,
-    "updated_at": "2026-07-06T16:45:41Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Self-improving OS for production AI agents \u2014 verifier-gated, cross-family runs that learn which model wins where, so you",
@@ -315,15 +351,6 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 283,
-    "updated_at": "2026-07-06T16:30:48Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
     "id": "Liny9941/projectsmd",
     "language": "Rust",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-06T16:24:22Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-07-06T16:24:15Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-07-06T16:23:53Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-07-06T16:23:05Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
