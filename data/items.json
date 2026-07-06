@@ -1,12 +1,39 @@
 [
   {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
+    "description": "The open, model-agnostic platform to build your own AI agent and run it everywhere \u2014 self-hosted, safe by default.",
+    "id": "ownware-ai/ownware",
     "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 283,
-    "updated_at": "2026-07-06T11:58:19Z",
-    "url": "https://github.com/ucsandman/DashClaw"
+    "name": "ownware-ai/ownware",
+    "stars": 1,
+    "updated_at": "2026-07-06T12:14:31Z",
+    "url": "https://github.com/ownware-ai/ownware"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 26140,
+    "updated_at": "2026-07-06T12:12:36Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
+    "id": "tylerjrbuell/reactive-agents-ts",
+    "language": "TypeScript",
+    "name": "tylerjrbuell/reactive-agents-ts",
+    "stars": 16,
+    "updated_at": "2026-07-06T12:11:46Z",
+    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-06T12:09:17Z",
+    "url": "https://github.com/raineislam/mcp-framework"
   },
   {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
@@ -14,8 +41,80 @@
     "language": "Python",
     "name": "zlatko-lakisic/agentic-orchestration",
     "stars": 1,
-    "updated_at": "2026-07-06T11:55:36Z",
+    "updated_at": "2026-07-06T12:07:53Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
+    "id": "kdcube/kdcube-ai-app",
+    "language": "Python",
+    "name": "kdcube/kdcube-ai-app",
+    "stars": 11,
+    "updated_at": "2026-07-06T12:06:49Z",
+    "url": "https://github.com/kdcube/kdcube-ai-app"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 283,
+    "updated_at": "2026-07-06T12:06:33Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "A tiny async tool-calling agent framework",
+    "id": "folathecoder/agentling",
+    "language": "Python",
+    "name": "folathecoder/agentling",
+    "stars": 1,
+    "updated_at": "2026-07-06T12:06:27Z",
+    "url": "https://github.com/folathecoder/agentling"
+  },
+  {
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 638,
+    "updated_at": "2026-07-06T12:06:24Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 0,
+    "updated_at": "2026-07-06T12:02:55Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 40,
+    "updated_at": "2026-07-06T12:02:52Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 152,
+    "updated_at": "2026-07-06T12:01:09Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T12:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
@@ -32,17 +131,8 @@
     "language": "Rust",
     "name": "Wh1isper/starweaver",
     "stars": 6,
-    "updated_at": "2026-07-06T11:50:48Z",
+    "updated_at": "2026-07-06T12:04:14Z",
     "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T11:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents that grows with the people who shape it. Six phases keep b",
@@ -52,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-07-06T11:43:51Z",
     "url": "https://github.com/shimo4228/agent-knowledge-cycle"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 638,
-    "updated_at": "2026-07-06T11:57:16Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -99,24 +180,6 @@
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
-    "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
-    "id": "kdcube/kdcube-ai-app",
-    "language": "Python",
-    "name": "kdcube/kdcube-ai-app",
-    "stars": 11,
-    "updated_at": "2026-07-06T11:35:20Z",
-    "url": "https://github.com/kdcube/kdcube-ai-app"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26139,
-    "updated_at": "2026-07-06T11:33:12Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -153,6 +216,15 @@
     "url": "https://github.com/ishoplus/xitto-kernel"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6354,
+    "updated_at": "2026-07-06T11:20:51Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -169,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T11:20:21Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 40,
-    "updated_at": "2026-07-06T11:37:08Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
@@ -203,7 +266,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-07-06T11:14:18Z",
+    "updated_at": "2026-07-06T12:09:08Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -214,15 +277,6 @@
     "stars": 4,
     "updated_at": "2026-07-06T11:21:59Z",
     "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 0,
-    "updated_at": "2026-07-06T11:08:40Z",
-    "url": "https://github.com/dshakes/lantern"
   },
   {
     "description": "Local-first, state-driven AI agent platform. Plan-review before execution, capability-gated tools, BYO LLM (Ollama / Ant",
@@ -241,24 +295,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T11:05:24Z",
     "url": "https://github.com/RNT56/ThinClaw"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
-    "id": "raineislam/mcp-framework",
-    "language": "Python",
-    "name": "raineislam/mcp-framework",
-    "stars": 0,
-    "updated_at": "2026-07-06T11:01:45Z",
-    "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6353,
-    "updated_at": "2026-07-06T11:20:51Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs o",
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-06T11:54:38Z",
+    "updated_at": "2026-07-06T12:07:47Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T09:43:47Z",
     "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-06T09:42:32Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:41:54Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:41:51Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:41:36Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
