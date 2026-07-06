@@ -5,8 +5,80 @@
     "language": "Go",
     "name": "gopact-ai/gopact-ext",
     "stars": 0,
-    "updated_at": "2026-07-06T14:44:38Z",
+    "updated_at": "2026-07-06T14:58:57Z",
     "url": "https://github.com/gopact-ai/gopact-ext"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-06T14:55:56Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-06T14:53:26Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-06T14:52:55Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 0,
+    "updated_at": "2026-07-06T14:52:02Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "\ud83c\udfc6 Top-1 on 5+ benchmarks | Web UI | Supports MiroThinker, Claude, Kimi, OpenAI",
+    "id": "MiroMindAI/MiroFlow",
+    "language": "Python",
+    "name": "MiroMindAI/MiroFlow",
+    "stars": 3058,
+    "updated_at": "2026-07-06T14:50:43Z",
+    "url": "https://github.com/MiroMindAI/MiroFlow"
+  },
+  {
+    "description": "MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThinker",
+    "id": "MiroMindAI/MiroThinker",
+    "language": "Python",
+    "name": "MiroMindAI/MiroThinker",
+    "stars": 8329,
+    "updated_at": "2026-07-06T14:50:39Z",
+    "url": "https://github.com/MiroMindAI/MiroThinker"
+  },
+  {
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 638,
+    "updated_at": "2026-07-06T14:46:45Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T14:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Source-available Harness AI / Agent OS for teams building governed agent applications \u2014 with Nexus orchestration, policy",
@@ -23,8 +95,17 @@
     "language": "TypeScript",
     "name": "ucsandman/DashClaw",
     "stars": 283,
-    "updated_at": "2026-07-06T14:41:52Z",
+    "updated_at": "2026-07-06T14:45:33Z",
     "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18244,
+    "updated_at": "2026-07-06T14:40:38Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -54,13 +135,13 @@
     "url": "https://github.com/scaling-group/eve"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T14:30:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "ag2ai/ag2",
+    "stars": 4740,
+    "updated_at": "2026-07-06T14:31:47Z",
+    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -70,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T14:29:28Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 638,
-    "updated_at": "2026-07-06T14:29:51Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18243,
-    "updated_at": "2026-07-06T14:40:38Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -166,7 +229,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26157,
+    "stars": 26160,
     "updated_at": "2026-07-06T14:06:49Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -252,21 +315,12 @@
     "url": "https://github.com/muhamedali7713/agent-audit"
   },
   {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 0,
-    "updated_at": "2026-07-06T14:37:56Z",
-    "url": "https://github.com/dshakes/lantern"
-  },
-  {
     "description": "Record, replay, and improve AI agents in production, built on ZenML",
     "id": "zenml-io/kitaru",
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 197,
-    "updated_at": "2026-07-06T14:43:04Z",
+    "updated_at": "2026-07-06T14:58:11Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -274,7 +328,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6365,
+    "stars": 6368,
     "updated_at": "2026-07-06T13:56:02Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -394,59 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-06T13:48:02Z",
     "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 569,
-    "updated_at": "2026-07-06T13:46:03Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
-    "description": "Governed agent marketplace. Bounty board where AI agents form teams, fill slots, and earn revenue under MO\u00a7ES\u2122 governanc",
-    "id": "SunrisesIllNeverSee/agent-universe",
-    "language": "HTML",
-    "name": "SunrisesIllNeverSee/agent-universe",
-    "stars": 0,
-    "updated_at": "2026-07-06T13:45:58Z",
-    "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-06T13:45:54Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 19,
-    "updated_at": "2026-07-06T13:59:08Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "\u6606\u4ed1OS (KunlunOS) \u2014 AI \u8ba4\u77e5\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "lidong266/KunlunOS",
-    "language": "TypeScript",
-    "name": "lidong266/KunlunOS",
-    "stars": 0,
-    "updated_at": "2026-07-06T13:44:02Z",
-    "url": "https://github.com/lidong266/KunlunOS"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-07-06T13:43:49Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
