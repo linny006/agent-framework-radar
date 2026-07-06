@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 283,
+    "updated_at": "2026-07-06T11:58:19Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-06T11:55:36Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 3,
+    "updated_at": "2026-07-06T11:54:42Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Agent SDK, CLI, RPC in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-07-06T11:50:48Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T11:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents that grows with the people who shape it. Six phases keep b",
     "id": "shimo4228/agent-knowledge-cycle",
     "language": "\u2014",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 638,
-    "updated_at": "2026-07-06T11:44:14Z",
+    "updated_at": "2026-07-06T11:57:16Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 18244,
     "updated_at": "2026-07-06T11:40:47Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Agent SDK, CLI, RPC in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 6,
-    "updated_at": "2026-07-06T11:40:17Z",
-    "url": "https://github.com/Wh1isper/starweaver"
   },
   {
     "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
@@ -63,15 +99,6 @@
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 1,
-    "updated_at": "2026-07-06T11:35:28Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
     "description": "Ship customer-facing AI with isolation, spend controls, and provenance.",
     "id": "kdcube/kdcube-ai-app",
     "language": "Python",
@@ -85,7 +112,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26137,
+    "stars": 26139,
     "updated_at": "2026-07-06T11:33:12Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -99,21 +126,12 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T11:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source, self-hosted platform to visually build, test, and ship AI agents & workflows. Built on LangChain v1 + LangG",
     "id": "nihalashetty/Forge",
     "language": "Python",
     "name": "nihalashetty/Forge",
     "stars": 0,
-    "updated_at": "2026-07-06T11:30:09Z",
+    "updated_at": "2026-07-06T11:45:24Z",
     "url": "https://github.com/nihalashetty/Forge"
   },
   {
@@ -247,7 +265,7 @@
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6499,
+    "stars": 6500,
     "updated_at": "2026-07-06T10:51:42Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 9,
-    "updated_at": "2026-07-06T11:31:03Z",
+    "updated_at": "2026-07-06T11:58:18Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-06T11:37:47Z",
+    "updated_at": "2026-07-06T11:54:38Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -302,7 +320,7 @@
     "language": "TypeScript",
     "name": "linjiejim/greenhouse",
     "stars": 0,
-    "updated_at": "2026-07-06T10:41:55Z",
+    "updated_at": "2026-07-06T11:55:53Z",
     "url": "https://github.com/linjiejim/greenhouse"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T09:41:36Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "AI-native programming language for building LLM agents, typed data models, and monadic pipelines \u2014 Haskell-inspired synt",
-    "id": "nnxlxde-stack/moon-lang",
-    "language": "Swift",
-    "name": "nnxlxde-stack/moon-lang",
-    "stars": 0,
-    "updated_at": "2026-07-06T10:46:26Z",
-    "url": "https://github.com/nnxlxde-stack/moon-lang"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:41:25Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
   }
 ]
