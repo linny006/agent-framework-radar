@@ -1,5 +1,122 @@
 [
   {
+    "description": "Ryu \u2014 open-core orchestration engine + LLM gateway for AI agents. Local-first, BYO everything.",
+    "id": "amajorai/ryu",
+    "language": "Rust",
+    "name": "amajorai/ryu",
+    "stars": 1,
+    "updated_at": "2026-07-06T05:44:21Z",
+    "url": "https://github.com/amajorai/ryu"
+  },
+  {
+    "description": "Standalone SDK workspace for building Aomi dynamic plugins.",
+    "id": "aomi-labs/aomi-sdk",
+    "language": "Rust",
+    "name": "aomi-labs/aomi-sdk",
+    "stars": 5,
+    "updated_at": "2026-07-06T05:43:03Z",
+    "url": "https://github.com/aomi-labs/aomi-sdk"
+  },
+  {
+    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
+    "id": "petehottelet/smythe",
+    "language": "Python",
+    "name": "petehottelet/smythe",
+    "stars": 1,
+    "updated_at": "2026-07-06T05:42:12Z",
+    "url": "https://github.com/petehottelet/smythe"
+  },
+  {
+    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-06T05:41:40Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-06T05:39:29Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-06T05:38:40Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-06T05:37:46Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "An agent runtime.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 9,
+    "updated_at": "2026-07-06T05:34:49Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 180,
+    "updated_at": "2026-07-06T05:33:55Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6332,
+    "updated_at": "2026-07-06T05:33:52Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 283,
+    "updated_at": "2026-07-06T05:37:02Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "\ud83d\udd01 Build any loop-engineered agent harness from scratch \u2014 prompt in, a self-contained multi-agent harness (own app + TUI)",
+    "id": "deonmenezes/loop-engineering-harness",
+    "language": "Python",
+    "name": "deonmenezes/loop-engineering-harness",
+    "stars": 0,
+    "updated_at": "2026-07-06T05:31:42Z",
+    "url": "https://github.com/deonmenezes/loop-engineering-harness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T05:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
     "id": "Justin0504/Sovereign-OS",
     "language": "Python",
@@ -16,24 +133,6 @@
     "stars": 11894,
     "updated_at": "2026-07-06T05:26:50Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Ryu \u2014 open-core orchestration engine + LLM gateway for AI agents. Local-first, BYO everything.",
-    "id": "amajorai/ryu",
-    "language": "Rust",
-    "name": "amajorai/ryu",
-    "stars": 1,
-    "updated_at": "2026-07-06T05:25:25Z",
-    "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
-    "id": "petehottelet/smythe",
-    "language": "Python",
-    "name": "petehottelet/smythe",
-    "stars": 1,
-    "updated_at": "2026-07-06T05:23:39Z",
-    "url": "https://github.com/petehottelet/smythe"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -63,15 +162,6 @@
     "url": "https://github.com/Caprista/KarvyLoop"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6332,
-    "updated_at": "2026-07-06T05:21:08Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
     "id": "PiloTracer/.ai",
     "language": "Shell",
@@ -79,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T05:16:53Z",
     "url": "https://github.com/PiloTracer/.ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T05:15:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -108,15 +189,6 @@
     "url": "https://github.com/framerslab/agentos"
   },
   {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 283,
-    "updated_at": "2026-07-06T05:18:09Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
     "description": "Markdown Agent Studio is a workspace where agents develop specialization through their own experience.",
     "id": "RobThePCGuy/markdown-agent-studio",
     "language": "TypeScript",
@@ -133,24 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T05:10:11Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "An agent runtime.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 9,
-    "updated_at": "2026-07-06T05:09:58Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "\ud83d\udd01 Build any loop-engineered agent harness from scratch \u2014 prompt in, a self-contained multi-agent harness (own app + TUI)",
-    "id": "deonmenezes/loop-engineering-harness",
-    "language": "Python",
-    "name": "deonmenezes/loop-engineering-harness",
-    "stars": 0,
-    "updated_at": "2026-07-06T05:09:07Z",
-    "url": "https://github.com/deonmenezes/loop-engineering-harness"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -189,15 +243,6 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 180,
-    "updated_at": "2026-07-06T05:00:07Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
     "description": "A lightweight agent harness you bolt onto your app so an LLM can operate it \u2014 safely, and cheaply.",
     "id": "shamspias/reins",
     "language": "Python",
@@ -211,7 +256,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26075,
+    "stars": 26077,
     "updated_at": "2026-07-06T04:50:34Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -257,7 +302,7 @@
     "language": "JavaScript",
     "name": "dhaupin/vant",
     "stars": 3,
-    "updated_at": "2026-07-06T05:06:54Z",
+    "updated_at": "2026-07-06T05:42:43Z",
     "url": "https://github.com/dhaupin/vant"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T04:00:09Z",
     "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-07-06T04:00:09Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-07-06T03:59:35Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-07-06T03:59:10Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-07-06T03:57:33Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-07-06T03:57:27Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
   }
 ]
