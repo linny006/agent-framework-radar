@@ -1,11 +1,101 @@
 [
   {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 57,
+    "updated_at": "2026-07-06T08:15:04Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "\ud83d\udd01 Build any loop-engineered agent harness from scratch \u2014 prompt in, a self-contained multi-agent harness (own app + TUI)",
+    "id": "deonmenezes/loop-engineering-harness",
+    "language": "Python",
+    "name": "deonmenezes/loop-engineering-harness",
+    "stars": 0,
+    "updated_at": "2026-07-06T08:14:16Z",
+    "url": "https://github.com/deonmenezes/loop-engineering-harness"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6341,
+    "updated_at": "2026-07-06T08:13:58Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3851,
+    "updated_at": "2026-07-06T08:11:56Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 26098,
+    "updated_at": "2026-07-06T08:10:50Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 8,
+    "updated_at": "2026-07-06T08:10:35Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-06T08:05:43Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "\u57fa\u4e8e DDD \u5206\u5c42\u67b6\u6784\u7684 AI Agent \u5e94\u7528\u811a\u624b\u67b6\uff0c\u96c6\u6210 Spring AI\u3001LangChain4j \u4e0e Google ADK\uff0c\u8986\u76d6 Chat / Tool Calling / Multi-Agent \u7f16\u6392\u80fd\u529b\uff0cJDK 17 + Spr",
+    "id": "ZQIUSU/Ai-agent-scaffold-zqiusu",
+    "language": "Java",
+    "name": "ZQIUSU/Ai-agent-scaffold-zqiusu",
+    "stars": 0,
+    "updated_at": "2026-07-06T08:03:14Z",
+    "url": "https://github.com/ZQIUSU/Ai-agent-scaffold-zqiusu"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 490,
+    "updated_at": "2026-07-06T08:02:07Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T08:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Production-grade AgentOps control plane for safe AI agent execution. Dual-plane architecture: Rust governance engine + P",
     "id": "sattyamjjain/ferrumdeck",
     "language": "TypeScript",
     "name": "sattyamjjain/ferrumdeck",
     "stars": 6,
-    "updated_at": "2026-07-06T07:59:00Z",
+    "updated_at": "2026-07-06T08:07:19Z",
     "url": "https://github.com/sattyamjjain/ferrumdeck"
   },
   {
@@ -45,42 +135,6 @@
     "url": "https://github.com/pt9912/belief-agent"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26095,
-    "updated_at": "2026-07-06T07:55:07Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6340,
-    "updated_at": "2026-07-06T07:52:39Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 57,
-    "updated_at": "2026-07-06T07:51:45Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 8,
-    "updated_at": "2026-07-06T07:50:54Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -113,17 +167,8 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 636,
-    "updated_at": "2026-07-06T07:46:10Z",
+    "updated_at": "2026-07-06T08:11:50Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T07:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI-native programming language for building LLM agents, typed data models, and monadic pipelines \u2014 Haskell-inspired synt",
@@ -149,7 +194,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-07-06T07:36:40Z",
+    "updated_at": "2026-07-06T08:01:46Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -230,7 +275,7 @@
     "language": "TypeScript",
     "name": "modelstudioai/openwork",
     "stars": 10,
-    "updated_at": "2026-07-06T07:19:03Z",
+    "updated_at": "2026-07-06T08:14:52Z",
     "url": "https://github.com/modelstudioai/openwork"
   },
   {
@@ -391,7 +436,7 @@
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
-    "stars": 1506,
+    "stars": 1507,
     "updated_at": "2026-07-06T07:05:31Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T07:05:28Z",
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:05:13Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:05:10Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:04:30Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:04:10Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-07-06T07:02:33Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
   }
 ]
