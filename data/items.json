@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-06T18:10:43Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
+    "language": "Python",
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 19,
+    "updated_at": "2026-07-06T18:09:36Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+  },
+  {
+    "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
+    "id": "bigbraingoldfish/lullabeast",
+    "language": "Python",
+    "name": "bigbraingoldfish/lullabeast",
+    "stars": 10,
+    "updated_at": "2026-07-06T18:08:13Z",
+    "url": "https://github.com/bigbraingoldfish/lullabeast"
+  },
+  {
+    "description": "\u6606\u4ed1OS (KunlunOS) \u2014 AI \u8ba4\u77e5\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "lidong266/KunlunOS",
+    "language": "TypeScript",
+    "name": "lidong266/KunlunOS",
+    "stars": 0,
+    "updated_at": "2026-07-06T18:05:03Z",
+    "url": "https://github.com/lidong266/KunlunOS"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 570,
+    "updated_at": "2026-07-06T18:13:27Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-07-06T18:04:05Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 0,
+    "updated_at": "2026-07-06T18:01:56Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T18:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A tiny async tool-calling agent framework",
     "id": "folathecoder/agentling",
     "language": "Python",
@@ -36,20 +108,11 @@
     "url": "https://github.com/landjunge/gnom-hub"
   },
   {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 19,
-    "updated_at": "2026-07-06T18:00:10Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
-    "stars": 185,
+    "stars": 186,
     "updated_at": "2026-07-06T17:50:46Z",
     "url": "https://github.com/cortexkit/aft"
   },
@@ -104,26 +167,8 @@
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 1,
-    "updated_at": "2026-07-06T17:45:28Z",
+    "updated_at": "2026-07-06T18:13:14Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T17:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "\u6606\u4ed1OS (KunlunOS) \u2014 AI \u8ba4\u77e5\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "lidong266/KunlunOS",
-    "language": "TypeScript",
-    "name": "lidong266/KunlunOS",
-    "stars": 0,
-    "updated_at": "2026-07-06T17:44:56Z",
-    "url": "https://github.com/lidong266/KunlunOS"
   },
   {
     "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
@@ -160,15 +205,6 @@
     "stars": 153,
     "updated_at": "2026-07-06T17:41:28Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 0,
-    "updated_at": "2026-07-06T17:53:13Z",
-    "url": "https://github.com/dshakes/lantern"
   },
   {
     "description": "",
@@ -252,15 +288,6 @@
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-07-06T17:15:03Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
     "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
     "id": "petehottelet/smythe",
     "language": "Python",
@@ -306,15 +333,6 @@
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 570,
-    "updated_at": "2026-07-06T16:56:36Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
     "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
     "id": "agenvoy/Agenvoy",
     "language": "Go",
@@ -328,7 +346,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6439,
+    "stars": 6440,
     "updated_at": "2026-07-06T16:48:38Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T16:35:21Z",
     "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:35:12Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "CogniVault is a modular, CLI-based multi-agent assistant designed to help you reflect, refine, and organize your thought",
-    "id": "aucontraire/cognivault",
-    "language": "Python",
-    "name": "aucontraire/cognivault",
-    "stars": 8,
-    "updated_at": "2026-07-06T16:35:10Z",
-    "url": "https://github.com/aucontraire/cognivault"
   }
 ]
