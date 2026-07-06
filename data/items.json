@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI-native programming language for building LLM agents, typed data models, and monadic pipelines \u2014 Haskell-inspired synt",
+    "id": "nnxlxde-stack/moon-lang",
+    "language": "Swift",
+    "name": "nnxlxde-stack/moon-lang",
+    "stars": 0,
+    "updated_at": "2026-07-06T07:40:10Z",
+    "url": "https://github.com/nnxlxde-stack/moon-lang"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-07-06T07:40:20Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6340,
+    "updated_at": "2026-07-06T07:38:14Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-07-06T07:36:40Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18243,
+    "updated_at": "2026-07-06T07:34:17Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T07:30:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Autonomous open-source contribution agent for Claude Code & Codex. A multi-agent harness that picks an issue, writes the",
     "id": "gaurav0107/superhuman",
     "language": "Shell",
@@ -7,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T07:30:11Z",
     "url": "https://github.com/gaurav0107/superhuman"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6338,
-    "updated_at": "2026-07-06T07:28:29Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "An agent runtime.",
@@ -63,6 +108,15 @@
     "url": "https://github.com/PiloTracer/.ai"
   },
   {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 3768,
+    "updated_at": "2026-07-06T07:44:38Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
     "description": "Event-sourced agent engine \u2014 CLI and Python bindings for auditable AI workflows",
     "id": "metravod/zymi-core",
     "language": "Rust",
@@ -94,8 +148,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26094,
-    "updated_at": "2026-07-06T07:17:36Z",
+    "stars": 26096,
+    "updated_at": "2026-07-06T07:39:30Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -135,15 +189,6 @@
     "url": "https://github.com/ucsandman/DashClaw"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T07:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
     "id": "salvatoreabient793/cursor-auto-deployment-agent",
     "language": "\u2014",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 636,
-    "updated_at": "2026-07-06T07:13:30Z",
+    "updated_at": "2026-07-06T07:35:32Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
@@ -167,7 +212,7 @@
     "language": "HTML",
     "name": "huangjia2019/agent-design-patterns",
     "stars": 129,
-    "updated_at": "2026-07-06T07:13:30Z",
+    "updated_at": "2026-07-06T07:39:45Z",
     "url": "https://github.com/huangjia2019/agent-design-patterns"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T07:12:55Z",
     "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18242,
-    "updated_at": "2026-07-06T07:12:48Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 57,
-    "updated_at": "2026-07-06T07:16:29Z",
+    "updated_at": "2026-07-06T07:41:34Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T06:54:26Z",
     "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-07-06T06:52:47Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 1,
-    "updated_at": "2026-07-06T06:51:09Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-07-06T06:50:58Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-06T06:50:55Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
   }
 ]
