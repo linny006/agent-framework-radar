@@ -5,7 +5,7 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 20,
-    "updated_at": "2026-07-06T20:15:03Z",
+    "updated_at": "2026-07-06T20:30:01Z",
     "url": "https://github.com/kh0pper/crow"
   },
   {
@@ -14,8 +14,98 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 1239,
-    "updated_at": "2026-07-06T20:14:08Z",
+    "updated_at": "2026-07-06T20:29:53Z",
     "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-06T20:28:30Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6441,
+    "updated_at": "2026-07-06T20:28:25Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Generic configurable cognition lifecycle runtime for bounded, resumable agent sessions",
+    "id": "ProtocolWarden/ContextLifecycle",
+    "language": "Python",
+    "name": "ProtocolWarden/ContextLifecycle",
+    "stars": 0,
+    "updated_at": "2026-07-06T20:30:03Z",
+    "url": "https://github.com/ProtocolWarden/ContextLifecycle"
+  },
+  {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 413,
+    "updated_at": "2026-07-06T20:25:53Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-06T20:25:49Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
+    "language": "Python",
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 20,
+    "updated_at": "2026-07-06T20:28:57Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+  },
+  {
+    "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
+    "id": "PiloTracer/.ai",
+    "language": "Shell",
+    "name": "PiloTracer/.ai",
+    "stars": 0,
+    "updated_at": "2026-07-06T20:19:32Z",
+    "url": "https://github.com/PiloTracer/.ai"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6412,
+    "updated_at": "2026-07-06T20:19:05Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 186,
+    "updated_at": "2026-07-06T20:16:32Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T20:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The local-first Agentic Knowledge OS - CLI-first, self-improving, measured. Turn intentions into traceable, auditable, r",
@@ -45,15 +135,6 @@
     "url": "https://github.com/landjunge/gnom-hub"
   },
   {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 20,
-    "updated_at": "2026-07-06T20:11:13Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -61,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T20:03:09Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T20:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
-    "id": "PiloTracer/.ai",
-    "language": "Shell",
-    "name": "PiloTracer/.ai",
-    "stars": 0,
-    "updated_at": "2026-07-06T19:59:36Z",
-    "url": "https://github.com/PiloTracer/.ai"
   },
   {
     "description": "Governed agent marketplace. Bounty board where AI agents form teams, fill slots, and earn revenue under MO\u00a7ES\u2122 governanc",
@@ -185,7 +248,7 @@
     "language": "TypeScript",
     "name": "aaronjmars/aeon",
     "stars": 571,
-    "updated_at": "2026-07-06T19:47:34Z",
+    "updated_at": "2026-07-06T20:26:40Z",
     "url": "https://github.com/aaronjmars/aeon"
   },
   {
@@ -229,7 +292,7 @@
     "id": "ag2ai/ag2",
     "language": "Python",
     "name": "ag2ai/ag2",
-    "stars": 4742,
+    "stars": 4743,
     "updated_at": "2026-07-06T19:51:25Z",
     "url": "https://github.com/ag2ai/ag2"
   },
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 640,
-    "updated_at": "2026-07-06T20:07:06Z",
+    "updated_at": "2026-07-06T20:19:02Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
@@ -351,15 +414,6 @@
     "url": "https://github.com/monahright467/harness-books"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6441,
-    "updated_at": "2026-07-06T19:33:20Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
     "id": "jesayas7817/agent-reliability-engineering",
     "language": "Shell",
@@ -378,15 +432,6 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 186,
-    "updated_at": "2026-07-06T19:30:20Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
     "id": "Ansellwaxlike187/cowork-semantic-search",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T19:29:46Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-06T19:29:32Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 41,
-    "updated_at": "2026-07-06T19:31:00Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-06T19:28:58Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-07-06T19:28:54Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "\u6606\u4ed1OS (KunlunOS) \u2014 AI \u8ba4\u77e5\u64cd\u4f5c\u7cfb\u7edf\uff08\u5f00\u53d1\u4e2d\uff09",
-    "id": "lidong266/KunlunOS",
-    "language": "TypeScript",
-    "name": "lidong266/KunlunOS",
-    "stars": 0,
-    "updated_at": "2026-07-06T19:34:46Z",
-    "url": "https://github.com/lidong266/KunlunOS"
   }
 ]
