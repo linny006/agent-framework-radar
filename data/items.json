@@ -1,5 +1,113 @@
 [
   {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 8,
+    "updated_at": "2026-07-07T14:11:26Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
+    "id": "cuteecarrot/AgentHub",
+    "language": "Python",
+    "name": "cuteecarrot/AgentHub",
+    "stars": 4,
+    "updated_at": "2026-07-07T14:08:29Z",
+    "url": "https://github.com/cuteecarrot/AgentHub"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6458,
+    "updated_at": "2026-07-07T14:08:19Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18258,
+    "updated_at": "2026-07-07T14:06:07Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
+    "id": "ishoplus/xitto-kernel",
+    "language": "JavaScript",
+    "name": "ishoplus/xitto-kernel",
+    "stars": 0,
+    "updated_at": "2026-07-07T14:05:45Z",
+    "url": "https://github.com/ishoplus/xitto-kernel"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-07-07T14:05:01Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
+    "language": "Python",
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 20,
+    "updated_at": "2026-07-07T14:08:42Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-07-07T14:03:08Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
+    "id": "petehottelet/smythe",
+    "language": "Python",
+    "name": "petehottelet/smythe",
+    "stars": 1,
+    "updated_at": "2026-07-07T14:02:29Z",
+    "url": "https://github.com/petehottelet/smythe"
+  },
+  {
+    "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
+    "id": "akimoto-akira/SiliconLifeCollective",
+    "language": "C#",
+    "name": "akimoto-akira/SiliconLifeCollective",
+    "stars": 2,
+    "updated_at": "2026-07-07T14:02:09Z",
+    "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T14:00:34Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 180,
+    "updated_at": "2026-07-07T14:00:27Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
     "description": "AI-guided onboarding for human-AI collaboration projects",
     "id": "jkraybill/gordo-forge",
     "language": "TypeScript",
@@ -34,33 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T13:56:09Z",
     "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
-  },
-  {
-    "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
-    "id": "ishoplus/xitto-kernel",
-    "language": "JavaScript",
-    "name": "ishoplus/xitto-kernel",
-    "stars": 0,
-    "updated_at": "2026-07-07T13:53:55Z",
-    "url": "https://github.com/ishoplus/xitto-kernel"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T13:51:38Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 20,
-    "updated_at": "2026-07-07T13:55:43Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -135,15 +216,6 @@
     "url": "https://github.com/linjiejim/greenhouse"
   },
   {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 8,
-    "updated_at": "2026-07-07T13:29:53Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -157,7 +229,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26303,
+    "stars": 26305,
     "updated_at": "2026-07-07T13:27:11Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -328,7 +400,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6549,
+    "stars": 6552,
     "updated_at": "2026-07-07T12:47:39Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -346,7 +418,7 @@
     "id": "Azure-Samples/foundry-hosted-agents-workshop",
     "language": "Python",
     "name": "Azure-Samples/foundry-hosted-agents-workshop",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-07T12:38:26Z",
     "url": "https://github.com/Azure-Samples/foundry-hosted-agents-workshop"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T12:34:40Z",
     "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
-  },
-  {
-    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
-    "id": "salvatoreabient793/cursor-auto-deployment-agent",
-    "language": "\u2014",
-    "name": "salvatoreabient793/cursor-auto-deployment-agent",
-    "stars": 0,
-    "updated_at": "2026-07-07T12:34:12Z",
-    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-07-07T12:32:24Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-07-07T12:31:55Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-07-07T12:31:37Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-07-07T12:30:00Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-07-07T12:29:05Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-07-07T12:26:47Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-07-07T12:26:34Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
   }
 ]
