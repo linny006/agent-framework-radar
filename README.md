@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-07 05:29 UTC
+> ⏰ Last updated: 2026-07-07 05:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ionalpha/flynn](https://github.com/ionalpha/flynn) | 0 | Go | 2026-07-07 | A self-hosted agent operating system in a single Go binary. Bring any model, point it at a goal, and grant it real autho |
-| 2 | [Caprista/KarvyLoop](https://github.com/Caprista/KarvyLoop) | 8 | Python | 2026-07-07 | The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a |
-| 3 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 570 | TypeScript | 2026-07-07 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
-| 4 | [sytone/botnexus](https://github.com/sytone/botnexus) | 2 | C# | 2026-07-07 | BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in  |
-| 5 | [weihuaguo270-ops/handwritten-react-agent](https://github.com/weihuaguo270-ops/handwritten-react-agent) | 0 | Python | 2026-07-07 | 从零手写 Agent Runtime + LangChain/LangGraph 双版本 — ReAct/MCP/RAG/Multi-Agent/Harness — 手写版吃透原理，框架版掌握工程 |
-| 6 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-07-07 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
-| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-07 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-07 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [ionalpha/flynn](https://github.com/ionalpha/flynn) | 0 | Go | 2026-07-07 | A self-hosted agent operating system in a single Go binary. Bring any model, point it at a goal, and grant it real autho |
+| 3 | [Caprista/KarvyLoop](https://github.com/Caprista/KarvyLoop) | 8 | Python | 2026-07-07 | The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a |
+| 4 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 570 | TypeScript | 2026-07-07 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
+| 5 | [sytone/botnexus](https://github.com/sytone/botnexus) | 2 | C# | 2026-07-07 | BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in  |
+| 6 | [weihuaguo270-ops/handwritten-react-agent](https://github.com/weihuaguo270-ops/handwritten-react-agent) | 0 | Python | 2026-07-07 | 从零手写 Agent Runtime + LangChain/LangGraph 双版本 — ReAct/MCP/RAG/Multi-Agent/Harness — 手写版吃透原理，框架版掌握工程 |
+| 7 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-07-07 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
 | 8 | [pt9912/belief-agent](https://github.com/pt9912/belief-agent) | 1 | Kotlin | 2026-07-07 | Agenten-Framework, das Unsicherheit explizit als Belief State über Hypothesen modelliert, Evidenz bayesianisch verarbeit |
 | 9 | [aisavvyguy/CyBorg-OS](https://github.com/aisavvyguy/CyBorg-OS) | 0 | Python | 2026-07-07 | ⚡ A lean, local-first, self-modifying AI agent framework. Pi-compatible skills. Zero-trust sandbox. One model, no bloat. |
 | 10 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-07-07 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |

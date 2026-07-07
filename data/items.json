@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T05:29:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A self-hosted agent operating system in a single Go binary. Bring any model, point it at a goal, and grant it real autho",
     "id": "ionalpha/flynn",
     "language": "Go",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "aaronjmars/aeon",
     "stars": 570,
-    "updated_at": "2026-07-07T05:24:25Z",
+    "updated_at": "2026-07-07T05:30:17Z",
     "url": "https://github.com/aaronjmars/aeon"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T05:19:41Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T05:15:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agenten-Framework, das Unsicherheit explizit als Belief State \u00fcber Hypothesen modelliert, Evidenz bayesianisch verarbeit",
