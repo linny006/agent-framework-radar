@@ -1,11 +1,83 @@
 [
   {
+    "description": "Agenten-Framework, das Unsicherheit explizit als Belief State \u00fcber Hypothesen modelliert, Evidenz bayesianisch verarbeit",
+    "id": "pt9912/belief-agent",
+    "language": "Kotlin",
+    "name": "pt9912/belief-agent",
+    "stars": 1,
+    "updated_at": "2026-07-07T05:14:18Z",
+    "url": "https://github.com/pt9912/belief-agent"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 570,
+    "updated_at": "2026-07-07T05:13:18Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "\u26a1 A lean, local-first, self-modifying AI agent framework. Pi-compatible skills. Zero-trust sandbox. One model, no bloat.",
+    "id": "aisavvyguy/CyBorg-OS",
+    "language": "Python",
+    "name": "aisavvyguy/CyBorg-OS",
+    "stars": 0,
+    "updated_at": "2026-07-07T05:12:10Z",
+    "url": "https://github.com/aisavvyguy/CyBorg-OS"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-07T05:09:18Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8862,
+    "updated_at": "2026-07-07T05:07:49Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-07T05:03:15Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
+    "id": "bigbraingoldfish/lullabeast",
+    "language": "Python",
+    "name": "bigbraingoldfish/lullabeast",
+    "stars": 10,
+    "updated_at": "2026-07-07T05:02:25Z",
+    "url": "https://github.com/bigbraingoldfish/lullabeast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T05:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A self-hosted agent operating system in a single Go binary. Bring any model, point it at a goal, and grant it real autho",
     "id": "ionalpha/flynn",
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 0,
-    "updated_at": "2026-07-07T04:56:23Z",
+    "updated_at": "2026-07-07T05:04:47Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -22,7 +94,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6481,
+    "stars": 6483,
     "updated_at": "2026-07-07T04:55:30Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -63,15 +135,6 @@
     "url": "https://github.com/ishoplus/xitto-kernel"
   },
   {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 570,
-    "updated_at": "2026-07-07T05:00:06Z",
-    "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -79,15 +142,6 @@
     "stars": 152,
     "updated_at": "2026-07-07T04:48:11Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T04:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -139,7 +193,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26243,
+    "stars": 26244,
     "updated_at": "2026-07-07T04:21:34Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -250,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T03:58:20Z",
     "url": "https://github.com/setup-os-labs/setup-os"
-  },
-  {
-    "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
-    "id": "bigbraingoldfish/lullabeast",
-    "language": "Python",
-    "name": "bigbraingoldfish/lullabeast",
-    "stars": 10,
-    "updated_at": "2026-07-07T03:56:06Z",
-    "url": "https://github.com/bigbraingoldfish/lullabeast"
   },
   {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T03:41:43Z",
     "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:41:29Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-07-07T03:39:53Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-07-07T03:39:45Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-07-07T03:39:35Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-07-07T03:38:46Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
