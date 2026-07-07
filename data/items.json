@@ -1,21 +1,39 @@
 [
   {
-    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1094,
-    "updated_at": "2026-07-07T01:43:33Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6451,
-    "updated_at": "2026-07-07T01:41:31Z",
+    "stars": 6453,
+    "updated_at": "2026-07-07T01:55:10Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A minimal, opinionated agent harness \u2014 focused scope, straightforward code, easy to fork.",
+    "id": "ryanbbrown/thinharness",
+    "language": "Python",
+    "name": "ryanbbrown/thinharness",
+    "stars": 3,
+    "updated_at": "2026-07-07T01:51:31Z",
+    "url": "https://github.com/ryanbbrown/thinharness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T01:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1095,
+    "updated_at": "2026-07-07T01:43:33Z",
+    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -61,15 +79,6 @@
     "stars": 589,
     "updated_at": "2026-07-07T01:33:31Z",
     "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T01:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
@@ -338,7 +347,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-07-07T01:07:57Z",
+    "updated_at": "2026-07-07T01:50:07Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-07T01:02:46Z",
     "url": "https://github.com/DaveGerson/agent-baton"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-07-07T01:02:37Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
   }
 ]
