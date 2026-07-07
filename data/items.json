@@ -1,11 +1,83 @@
 [
   {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4746,
+    "updated_at": "2026-07-07T15:29:26Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 105,
+    "updated_at": "2026-07-07T15:24:57Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "A lightweight, protocol-based AI agent framework with LangChain/LangGraph integration, powered by Pico-IoC dependency in",
+    "id": "dperezcabrera/pico-agent",
+    "language": "Python",
+    "name": "dperezcabrera/pico-agent",
+    "stars": 1,
+    "updated_at": "2026-07-07T15:23:08Z",
+    "url": "https://github.com/dperezcabrera/pico-agent"
+  },
+  {
+    "description": "Governed agent marketplace. Bounty board where AI agents form teams, fill slots, and earn revenue under MO\u00a7ES\u2122 governanc",
+    "id": "SunrisesIllNeverSee/agent-universe",
+    "language": "HTML",
+    "name": "SunrisesIllNeverSee/agent-universe",
+    "stars": 0,
+    "updated_at": "2026-07-07T15:20:21Z",
+    "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 41,
+    "updated_at": "2026-07-07T15:16:51Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T15:15:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 8,
+    "updated_at": "2026-07-07T15:13:42Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
+    "id": "ishoplus/xitto-kernel",
+    "language": "JavaScript",
+    "name": "ishoplus/xitto-kernel",
+    "stars": 0,
+    "updated_at": "2026-07-07T15:13:37Z",
+    "url": "https://github.com/ishoplus/xitto-kernel"
+  },
+  {
     "description": "Open-source, self-hosted AI agent workbench. One tool layer powers your team's chat, your app's agent, and any MCP clien",
     "id": "linjiejim/greenhouse",
     "language": "TypeScript",
     "name": "linjiejim/greenhouse",
     "stars": 0,
-    "updated_at": "2026-07-07T15:11:58Z",
+    "updated_at": "2026-07-07T15:27:11Z",
     "url": "https://github.com/linjiejim/greenhouse"
   },
   {
@@ -18,20 +90,11 @@
     "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
   },
   {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
-    "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 105,
-    "updated_at": "2026-07-07T15:15:12Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
     "description": "A tiny async tool-calling agent framework",
     "id": "folathecoder/agentling",
     "language": "Python",
     "name": "folathecoder/agentling",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-07-07T15:10:39Z",
     "url": "https://github.com/folathecoder/agentling"
   },
@@ -108,15 +171,6 @@
     "url": "https://github.com/herreravalenz6620/context-compression"
   },
   {
-    "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
-    "id": "ishoplus/xitto-kernel",
-    "language": "JavaScript",
-    "name": "ishoplus/xitto-kernel",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:13:37Z",
-    "url": "https://github.com/ishoplus/xitto-kernel"
-  },
-  {
     "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
     "id": "Smita6756/Hbrain",
     "language": "Python",
@@ -144,15 +198,6 @@
     "url": "https://github.com/Liny9941/projectsmd"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T15:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
     "id": "floccose-burner9185/wow-harness",
     "language": "Python",
@@ -166,7 +211,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1263,
+    "stars": 1264,
     "updated_at": "2026-07-07T14:59:08Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -184,8 +229,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6562,
-    "updated_at": "2026-07-07T14:58:45Z",
+    "stars": 6564,
+    "updated_at": "2026-07-07T15:27:04Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -310,7 +355,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 11923,
+    "stars": 11924,
     "updated_at": "2026-07-07T14:49:02Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -319,7 +364,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6459,
+    "stars": 6460,
     "updated_at": "2026-07-07T14:48:49Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-07T14:43:16Z",
     "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:42:51Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-07-07T14:42:49Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
-    "id": "agentjido/jidoka",
-    "language": "Elixir",
-    "name": "agentjido/jidoka",
-    "stars": 23,
-    "updated_at": "2026-07-07T14:42:49Z",
-    "url": "https://github.com/agentjido/jidoka"
-  },
-  {
-    "description": "Deploy autonomous AI streamers on Kick with one command, automating chat, voice, avatar, and OBS streaming setup in unde",
-    "id": "yhlyblys66-art/moltstream",
-    "language": "TypeScript",
-    "name": "yhlyblys66-art/moltstream",
-    "stars": 3,
-    "updated_at": "2026-07-07T14:42:18Z",
-    "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "Agent Discipline Layer (ADL) \u2014 keep a coding agent honest and make it prove its work: layered guardrails + a /goal contr",
-    "id": "frontier-infra/adl",
-    "language": "Shell",
-    "name": "frontier-infra/adl",
-    "stars": 1,
-    "updated_at": "2026-07-07T14:42:12Z",
-    "url": "https://github.com/frontier-infra/adl"
   }
 ]
