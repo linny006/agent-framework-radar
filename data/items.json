@@ -1,5 +1,113 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6461,
+    "updated_at": "2026-07-07T16:14:31Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 12,
+    "updated_at": "2026-07-07T16:13:13Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6572,
+    "updated_at": "2026-07-07T16:13:11Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Agenten-Framework, das Unsicherheit explizit als Belief State \u00fcber Hypothesen modelliert, Evidenz bayesianisch verarbeit",
+    "id": "pt9912/belief-agent",
+    "language": "Kotlin",
+    "name": "pt9912/belief-agent",
+    "stars": 1,
+    "updated_at": "2026-07-07T16:12:48Z",
+    "url": "https://github.com/pt9912/belief-agent"
+  },
+  {
+    "description": "Public documentation for NodeRooms \u2014 a city/workspace layer for AI agents.",
+    "id": "MixxyAI/noderooms-docs",
+    "language": "\u2014",
+    "name": "MixxyAI/noderooms-docs",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:11:20Z",
+    "url": "https://github.com/MixxyAI/noderooms-docs"
+  },
+  {
+    "description": "Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context managemen",
+    "id": "foryourhealth111-pixel/Vibe-Skills",
+    "language": "Python",
+    "name": "foryourhealth111-pixel/Vibe-Skills",
+    "stars": 2375,
+    "updated_at": "2026-07-07T16:10:43Z",
+    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
+  },
+  {
+    "description": "An agent runtime.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 9,
+    "updated_at": "2026-07-07T16:09:54Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
+    "id": "ishoplus/xitto-kernel",
+    "language": "JavaScript",
+    "name": "ishoplus/xitto-kernel",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:05:16Z",
+    "url": "https://github.com/ishoplus/xitto-kernel"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:02:55Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Agent adapter for Twin-Sparrow \u2014 compact runtime capsules per turn instead of full doctrine replay, and a verification g",
+    "id": "Lesz-Xi/twin-sparrow-agent-adapter",
+    "language": "TypeScript",
+    "name": "Lesz-Xi/twin-sparrow-agent-adapter",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:02:05Z",
+    "url": "https://github.com/Lesz-Xi/twin-sparrow-agent-adapter"
+  },
+  {
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
+    "language": "Python",
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 20,
+    "updated_at": "2026-07-07T16:14:11Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T16:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A lightweight, protocol-based AI agent framework with LangChain/LangGraph integration, powered by Pico-IoC dependency in",
     "id": "dperezcabrera/pico-agent",
     "language": "Python",
@@ -45,15 +153,6 @@
     "url": "https://github.com/ProfRandom92/Comptext"
   },
   {
-    "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
-    "id": "ishoplus/xitto-kernel",
-    "language": "JavaScript",
-    "name": "ishoplus/xitto-kernel",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:52:05Z",
-    "url": "https://github.com/ishoplus/xitto-kernel"
-  },
-  {
     "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
     "id": "achappey/aihappey-agents",
     "language": "C#",
@@ -81,15 +180,6 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6568,
-    "updated_at": "2026-07-07T15:46:45Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Open-source, self-hosted AI agent workbench. One tool layer powers your team's chat, your app's agent, and any MCP clien",
     "id": "linjiejim/greenhouse",
     "language": "TypeScript",
@@ -97,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T15:46:29Z",
     "url": "https://github.com/linjiejim/greenhouse"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T15:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 20,
-    "updated_at": "2026-07-07T15:51:02Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
@@ -369,15 +441,6 @@
     "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
   },
   {
-    "description": "Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context managemen",
-    "id": "foryourhealth111-pixel/Vibe-Skills",
-    "language": "Python",
-    "name": "foryourhealth111-pixel/Vibe-Skills",
-    "stars": 2375,
-    "updated_at": "2026-07-07T14:55:23Z",
-    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
-  },
-  {
     "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
     "id": "vmy41/agent-harness",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-07T14:54:46Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-07-07T14:54:26Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 5,
-    "updated_at": "2026-07-07T14:55:05Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:50:28Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11924,
-    "updated_at": "2026-07-07T14:49:02Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6461,
-    "updated_at": "2026-07-07T14:48:49Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:48:27Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:47:55Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
   }
 ]
