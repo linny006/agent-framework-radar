@@ -1,12 +1,12 @@
 [
   {
-    "description": "An open-source operating system for long-lived, autonomous, revenue-generating agent businesses \u2014 memory, money, and gov",
-    "id": "fablerlabs/mainspring",
-    "language": "TypeScript",
-    "name": "fablerlabs/mainspring",
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
     "stars": 0,
-    "updated_at": "2026-07-07T17:14:48Z",
-    "url": "https://github.com/fablerlabs/mainspring"
+    "updated_at": "2026-07-07T17:30:03Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
   },
   {
     "description": "A full-day hands-on workshop for building safe, explainable, domain-grounded AI agents \u2014 a goal-oriented Embabel (Java) ",
@@ -14,8 +14,134 @@
     "language": "Java",
     "name": "Habitat-Thinking/hands-on-agent-development",
     "stars": 0,
-    "updated_at": "2026-07-07T17:14:34Z",
+    "updated_at": "2026-07-07T17:29:33Z",
     "url": "https://github.com/Habitat-Thinking/hands-on-agent-development"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1264,
+    "updated_at": "2026-07-07T17:28:58Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Kotlin-first framework for building Model Agnostic AI applications, RAG systems, and agentic workflows on Android and Ko",
+    "id": "MobileGraph/mobilegraph",
+    "language": "Kotlin",
+    "name": "MobileGraph/mobilegraph",
+    "stars": 0,
+    "updated_at": "2026-07-07T17:28:14Z",
+    "url": "https://github.com/MobileGraph/mobilegraph"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 571,
+    "updated_at": "2026-07-07T17:28:06Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
+    "id": "akyourowngames/friday",
+    "language": "Python",
+    "name": "akyourowngames/friday",
+    "stars": 2,
+    "updated_at": "2026-07-07T17:27:57Z",
+    "url": "https://github.com/akyourowngames/friday"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-07-07T17:27:55Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "A reasoning-first idle engine for persistent LLM agents. Behaviour emerges from the agent reasoning about its idle state",
+    "id": "freeze1999/reverie-automata",
+    "language": "Python",
+    "name": "freeze1999/reverie-automata",
+    "stars": 1,
+    "updated_at": "2026-07-07T17:26:25Z",
+    "url": "https://github.com/freeze1999/reverie-automata"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-07-07T17:21:48Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-07-07T17:21:12Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-07T17:20:19Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11927,
+    "updated_at": "2026-07-07T17:20:09Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Integrated AI Sales Assistant PoC - Azure AI Foundry Agent Service + React + Terraform",
+    "id": "briandenicola/agentic-trading-desk-demo",
+    "language": "C#",
+    "name": "briandenicola/agentic-trading-desk-demo",
+    "stars": 0,
+    "updated_at": "2026-07-07T17:19:03Z",
+    "url": "https://github.com/briandenicola/agentic-trading-desk-demo"
+  },
+  {
+    "description": "Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context managemen",
+    "id": "foryourhealth111-pixel/Vibe-Skills",
+    "language": "Python",
+    "name": "foryourhealth111-pixel/Vibe-Skills",
+    "stars": 2375,
+    "updated_at": "2026-07-07T17:17:33Z",
+    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T17:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An open-source operating system for long-lived, autonomous, revenue-generating agent businesses \u2014 memory, money, and gov",
+    "id": "fablerlabs/mainspring",
+    "language": "TypeScript",
+    "name": "fablerlabs/mainspring",
+    "stars": 0,
+    "updated_at": "2026-07-07T17:14:48Z",
+    "url": "https://github.com/fablerlabs/mainspring"
   },
   {
     "description": "A hands-on, step-by-step workshop for building a Travel Assistant agent on Microsoft Foundry hosted agents with the Agen",
@@ -43,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T17:12:25Z",
     "url": "https://github.com/ishoplus/xitto-kernel"
-  },
-  {
-    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
-    "id": "akyourowngames/friday",
-    "language": "Python",
-    "name": "akyourowngames/friday",
-    "stars": 2,
-    "updated_at": "2026-07-07T17:12:09Z",
-    "url": "https://github.com/akyourowngames/friday"
   },
   {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
@@ -90,15 +207,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1263,
-    "updated_at": "2026-07-07T17:07:55Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
     "id": "sipyourdrink-ltd/bernstein",
     "language": "Python",
@@ -122,17 +230,8 @@
     "language": "TypeScript",
     "name": "agents-squads/squads-cli",
     "stars": 49,
-    "updated_at": "2026-07-07T17:11:01Z",
+    "updated_at": "2026-07-07T17:28:55Z",
     "url": "https://github.com/agents-squads/squads-cli"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T17:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
@@ -175,7 +274,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6582,
+    "stars": 6583,
     "updated_at": "2026-07-07T16:57:24Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T16:11:20Z",
     "url": "https://github.com/MixxyAI/noderooms-docs"
-  },
-  {
-    "description": "Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context managemen",
-    "id": "foryourhealth111-pixel/Vibe-Skills",
-    "language": "Python",
-    "name": "foryourhealth111-pixel/Vibe-Skills",
-    "stars": 2375,
-    "updated_at": "2026-07-07T16:39:29Z",
-    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
-  },
-  {
-    "description": "An agent runtime.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 9,
-    "updated_at": "2026-07-07T16:09:54Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-07T16:02:55Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "A lightweight, protocol-based AI agent framework with LangChain/LangGraph integration, powered by Pico-IoC dependency in",
-    "id": "dperezcabrera/pico-agent",
-    "language": "Python",
-    "name": "dperezcabrera/pico-agent",
-    "stars": 1,
-    "updated_at": "2026-07-07T15:57:08Z",
-    "url": "https://github.com/dperezcabrera/pico-agent"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 204,
-    "updated_at": "2026-07-07T15:56:47Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "White-box, task-centric multi-agent AI platform for business ops, sysadmin, research & office automation \u2014 every reasoni",
-    "id": "sievepub-2000/octoagent",
-    "language": "Python",
-    "name": "sievepub-2000/octoagent",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:56:40Z",
-    "url": "https://github.com/sievepub-2000/octoagent"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18259,
-    "updated_at": "2026-07-07T16:57:36Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Local-first AI orchestration sandbox for dry-run agents, evidence chains, workspace contracts, and provider-safe validat",
-    "id": "ProfRandom92/Comptext",
-    "language": "Python",
-    "name": "ProfRandom92/Comptext",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:54:44Z",
-    "url": "https://github.com/ProfRandom92/Comptext"
-  },
-  {
-    "description": "\ud83e\udea2 Multi-Agent framework family for AI-powered product development \u2014 PM \u00b7 Design \u00b7 Engineering  | \u9762\u5411 AI \u539f\u751f\u4ea7\u54c1\u5f00\u53d1\u7684\u591a\u667a\u80fd\u4f53\uff08Multi",
-    "id": "LuckyOneTwoThree/harness-all",
-    "language": "PowerShell",
-    "name": "LuckyOneTwoThree/harness-all",
-    "stars": 20,
-    "updated_at": "2026-07-07T15:49:25Z",
-    "url": "https://github.com/LuckyOneTwoThree/harness-all"
-  },
-  {
-    "description": "Open-source, self-hosted AI agent workbench. One tool layer powers your team's chat, your app's agent, and any MCP clien",
-    "id": "linjiejim/greenhouse",
-    "language": "TypeScript",
-    "name": "linjiejim/greenhouse",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:46:29Z",
-    "url": "https://github.com/linjiejim/greenhouse"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4746,
-    "updated_at": "2026-07-07T15:29:26Z",
-    "url": "https://github.com/ag2ai/ag2"
   }
 ]
