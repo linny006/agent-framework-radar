@@ -1,11 +1,47 @@
 [
   {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 153,
+    "updated_at": "2026-07-07T22:59:47Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-07T22:57:48Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 152,
+    "updated_at": "2026-07-07T22:57:27Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "The agent harness for Ruby applications. Durable sessions, streaming, human-in-the-loop approval, compaction, structured",
+    "id": "mcheemaa/mistri",
+    "language": "Ruby",
+    "name": "mcheemaa/mistri",
+    "stars": 2,
+    "updated_at": "2026-07-07T23:00:07Z",
+    "url": "https://github.com/mcheemaa/mistri"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-07-07T22:45:21Z",
+    "updated_at": "2026-07-07T22:54:42Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18259,
-    "updated_at": "2026-07-07T22:53:36Z",
+    "updated_at": "2026-07-07T22:59:23Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -313,24 +349,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T21:23:24Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 153,
-    "updated_at": "2026-07-07T21:22:30Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 152,
-    "updated_at": "2026-07-07T21:20:39Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
     "description": "Personal Ai Agent",
@@ -430,23 +448,5 @@
     "stars": 115,
     "updated_at": "2026-07-07T21:00:19Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-07-07T20:59:10Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-07-07T20:58:56Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
   }
 ]
