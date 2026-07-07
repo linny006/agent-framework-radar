@@ -1,11 +1,101 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6487,
+    "updated_at": "2026-07-07T05:43:16Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 570,
+    "updated_at": "2026-07-07T05:42:16Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-07-07T05:40:40Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Official extensions for gopact",
+    "id": "gopact-ai/gopact-ext",
+    "language": "Go",
+    "name": "gopact-ai/gopact-ext",
+    "stars": 0,
+    "updated_at": "2026-07-07T05:40:19Z",
+    "url": "https://github.com/gopact-ai/gopact-ext"
+  },
+  {
+    "description": "Go SDK contracts for typed, observable, and resumable agent workflows",
+    "id": "gopact-ai/gopact",
+    "language": "Go",
+    "name": "gopact-ai/gopact",
+    "stars": 0,
+    "updated_at": "2026-07-07T05:40:19Z",
+    "url": "https://github.com/gopact-ai/gopact"
+  },
+  {
+    "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
+    "id": "bigbraingoldfish/lullabeast",
+    "language": "Python",
+    "name": "bigbraingoldfish/lullabeast",
+    "stars": 10,
+    "updated_at": "2026-07-07T05:39:10Z",
+    "url": "https://github.com/bigbraingoldfish/lullabeast"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 23 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 75,
+    "updated_at": "2026-07-07T05:42:13Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
+    "id": "petehottelet/smythe",
+    "language": "Python",
+    "name": "petehottelet/smythe",
+    "stars": 1,
+    "updated_at": "2026-07-07T05:37:25Z",
+    "url": "https://github.com/petehottelet/smythe"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-07T05:37:22Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 57,
+    "updated_at": "2026-07-07T05:37:13Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-07-07T05:29:21Z",
+    "updated_at": "2026-07-07T05:30:22Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -14,7 +104,7 @@
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 0,
-    "updated_at": "2026-07-07T05:27:39Z",
+    "updated_at": "2026-07-07T05:45:13Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -25,15 +115,6 @@
     "stars": 8,
     "updated_at": "2026-07-07T05:25:11Z",
     "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aaronjmars/aeon",
-    "language": "TypeScript",
-    "name": "aaronjmars/aeon",
-    "stars": 570,
-    "updated_at": "2026-07-07T05:30:17Z",
-    "url": "https://github.com/aaronjmars/aeon"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -94,7 +175,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8862,
+    "stars": 8863,
     "updated_at": "2026-07-07T05:07:49Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -108,15 +189,6 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
-    "id": "bigbraingoldfish/lullabeast",
-    "language": "Python",
-    "name": "bigbraingoldfish/lullabeast",
-    "stars": 10,
-    "updated_at": "2026-07-07T05:02:25Z",
-    "url": "https://github.com/bigbraingoldfish/lullabeast"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -124,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T04:55:55Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6485,
-    "updated_at": "2026-07-07T04:55:30Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Open source Golang LLM Proxy, Agent SDK with Restate & Temporal support for durable agent loop",
@@ -220,7 +283,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26246,
+    "stars": 26248,
     "updated_at": "2026-07-07T04:21:34Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T03:49:40Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-07-07T03:48:49Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:47:19Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-07-07T03:45:06Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:44:58Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "The agent framework where every run is durable, replayable, and resumable by default.",
-    "id": "ThousandBirdsInc/chidori",
-    "language": "Rust",
-    "name": "ThousandBirdsInc/chidori",
-    "stars": 1356,
-    "updated_at": "2026-07-07T03:44:28Z",
-    "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:43:04Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:42:44Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
   }
 ]
