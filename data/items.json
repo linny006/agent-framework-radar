@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T21:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Standalone SDK workspace for building Aomi dynamic plugins.",
     "id": "aomi-labs/aomi-sdk",
     "language": "Rust",
@@ -7,6 +16,15 @@
     "stars": 5,
     "updated_at": "2026-07-07T21:44:43Z",
     "url": "https://github.com/aomi-labs/aomi-sdk"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6625,
+    "updated_at": "2026-07-07T21:50:12Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-07T21:43:45Z",
+    "updated_at": "2026-07-07T21:48:13Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -79,24 +97,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T21:35:18Z",
     "url": "https://github.com/Azure-Samples/foundry-hosted-agents-workshop"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T21:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6624,
-    "updated_at": "2026-07-07T21:44:40Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -176,7 +176,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11930,
-    "updated_at": "2026-07-07T21:09:19Z",
+    "updated_at": "2026-07-07T21:50:36Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
