@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T22:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 4684,
-    "updated_at": "2026-07-07T22:43:17Z",
+    "updated_at": "2026-07-07T22:52:06Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "ucsandman/DashClaw",
     "stars": 284,
-    "updated_at": "2026-07-07T22:42:12Z",
+    "updated_at": "2026-07-07T22:49:01Z",
     "url": "https://github.com/ucsandman/DashClaw"
   },
   {
@@ -63,20 +72,11 @@
     "url": "https://github.com/livecontext-ai/livecontext-ce"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T22:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6629,
+    "stars": 6632,
     "updated_at": "2026-07-07T22:25:19Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -225,6 +225,15 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11931,
+    "updated_at": "2026-07-07T21:50:36Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": "Standalone SDK workspace for building Aomi dynamic plugins.",
     "id": "aomi-labs/aomi-sdk",
     "language": "Rust",
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-07T22:30:44Z",
+    "updated_at": "2026-07-07T22:53:34Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18259,
-    "updated_at": "2026-07-07T22:41:03Z",
+    "updated_at": "2026-07-07T22:53:36Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -338,17 +347,8 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 413,
-    "updated_at": "2026-07-07T22:11:25Z",
+    "updated_at": "2026-07-07T22:52:40Z",
     "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11930,
-    "updated_at": "2026-07-07T21:50:36Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
