@@ -1,5 +1,77 @@
 [
   {
+    "description": "A full-day hands-on workshop for building safe, explainable, domain-grounded AI agents \u2014 a goal-oriented Embabel (Java) ",
+    "id": "Habitat-Thinking/hands-on-agent-development",
+    "language": "Java",
+    "name": "Habitat-Thinking/hands-on-agent-development",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:44:54Z",
+    "url": "https://github.com/Habitat-Thinking/hands-on-agent-development"
+  },
+  {
+    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
+    "id": "AndersonBY/vv-agent",
+    "language": "Python",
+    "name": "AndersonBY/vv-agent",
+    "stars": 1,
+    "updated_at": "2026-07-07T16:44:19Z",
+    "url": "https://github.com/AndersonBY/vv-agent"
+  },
+  {
+    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
+    "id": "akyourowngames/friday",
+    "language": "Python",
+    "name": "akyourowngames/friday",
+    "stars": 2,
+    "updated_at": "2026-07-07T16:43:45Z",
+    "url": "https://github.com/akyourowngames/friday"
+  },
+  {
+    "description": "Governed agent marketplace. Bounty board where AI agents form teams, fill slots, and earn revenue under MO\u00a7ES\u2122 governanc",
+    "id": "SunrisesIllNeverSee/agent-universe",
+    "language": "HTML",
+    "name": "SunrisesIllNeverSee/agent-universe",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:37:45Z",
+    "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
+  },
+  {
+    "description": "An open-source operating system for long-lived, autonomous, revenue-generating agent businesses \u2014 memory, money, and gov",
+    "id": "fablerlabs/mainspring",
+    "language": "TypeScript",
+    "name": "fablerlabs/mainspring",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:34:28Z",
+    "url": "https://github.com/fablerlabs/mainspring"
+  },
+  {
+    "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
+    "id": "ishoplus/xitto-kernel",
+    "language": "JavaScript",
+    "name": "ishoplus/xitto-kernel",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:31:15Z",
+    "url": "https://github.com/ishoplus/xitto-kernel"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:31:02Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T16:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -18,15 +90,6 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "An open-source operating system for long-lived, autonomous, revenue-generating agent businesses \u2014 memory, money, and gov",
-    "id": "fablerlabs/mainspring",
-    "language": "TypeScript",
-    "name": "fablerlabs/mainspring",
-    "stars": 0,
-    "updated_at": "2026-07-07T16:29:22Z",
-    "url": "https://github.com/fablerlabs/mainspring"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 643,
-    "updated_at": "2026-07-07T16:27:56Z",
+    "updated_at": "2026-07-07T16:33:13Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 20,
-    "updated_at": "2026-07-07T16:26:33Z",
+    "updated_at": "2026-07-07T16:40:52Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -81,15 +144,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Domain-agnostic agent foundation (kernel + pluggable DomainPacks): one kernel runs agents for any domain, with a real mu",
-    "id": "ishoplus/xitto-kernel",
-    "language": "JavaScript",
-    "name": "ishoplus/xitto-kernel",
-    "stars": 0,
-    "updated_at": "2026-07-07T16:22:13Z",
-    "url": "https://github.com/ishoplus/xitto-kernel"
-  },
-  {
     "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
     "id": "achappey/aihappey-agents",
     "language": "C#",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T16:22:03Z",
     "url": "https://github.com/achappey/aihappey-agents"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T16:21:54Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent adapter for Twin-Sparrow \u2014 compact runtime capsules per turn instead of full doctrine replay, and a verification g",
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 12,
-    "updated_at": "2026-07-07T16:13:13Z",
+    "updated_at": "2026-07-07T16:40:46Z",
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
@@ -175,7 +220,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6576,
+    "stars": 6579,
     "updated_at": "2026-07-07T16:13:11Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "foryourhealth111-pixel/Vibe-Skills",
     "stars": 2375,
-    "updated_at": "2026-07-07T16:19:03Z",
+    "updated_at": "2026-07-07T16:39:29Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18259,
-    "updated_at": "2026-07-07T15:55:18Z",
+    "updated_at": "2026-07-07T16:38:32Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -295,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T15:43:31Z",
     "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "Governed agent marketplace. Bounty board where AI agents form teams, fill slots, and earn revenue under MO\u00a7ES\u2122 governanc",
-    "id": "SunrisesIllNeverSee/agent-universe",
-    "language": "HTML",
-    "name": "SunrisesIllNeverSee/agent-universe",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:35:28Z",
-    "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T15:06:33Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Loop quality layer for production AI agents. Detects silent failures, runs agents on a schedule with verify + handoff, a",
-    "id": "vanamayaswanth/tvastar",
-    "language": "Python",
-    "name": "vanamayaswanth/tvastar",
-    "stars": 2,
-    "updated_at": "2026-07-07T15:05:08Z",
-    "url": "https://github.com/vanamayaswanth/tvastar"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-07-07T15:04:54Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:03:58Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:01:40Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
   }
 ]
