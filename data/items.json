@@ -1,11 +1,101 @@
 [
   {
+    "description": "Standalone SDK workspace for building Aomi dynamic plugins.",
+    "id": "aomi-labs/aomi-sdk",
+    "language": "Rust",
+    "name": "aomi-labs/aomi-sdk",
+    "stars": 5,
+    "updated_at": "2026-07-07T21:44:43Z",
+    "url": "https://github.com/aomi-labs/aomi-sdk"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 589,
+    "updated_at": "2026-07-07T21:44:17Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-07-07T21:43:45Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:42:36Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
+    "id": "0bserver07/chimera",
+    "language": "Python",
+    "name": "0bserver07/chimera",
+    "stars": 2,
+    "updated_at": "2026-07-07T21:42:15Z",
+    "url": "https://github.com/0bserver07/chimera"
+  },
+  {
+    "description": "An open-source operating system for long-lived, autonomous, revenue-generating agent businesses \u2014 memory, money, and gov",
+    "id": "fablerlabs/mainspring",
+    "language": "TypeScript",
+    "name": "fablerlabs/mainspring",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:39:11Z",
+    "url": "https://github.com/fablerlabs/mainspring"
+  },
+  {
+    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
+    "id": "George-RD/openspine",
+    "language": "Rust",
+    "name": "George-RD/openspine",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:37:50Z",
+    "url": "https://github.com/George-RD/openspine"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6469,
+    "updated_at": "2026-07-07T21:37:43Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A hands-on, step-by-step workshop for building a Travel Assistant agent on Microsoft Foundry hosted agents with the Agen",
+    "id": "Azure-Samples/foundry-hosted-agents-workshop",
+    "language": "Python",
+    "name": "Azure-Samples/foundry-hosted-agents-workshop",
+    "stars": 1,
+    "updated_at": "2026-07-07T21:35:18Z",
+    "url": "https://github.com/Azure-Samples/foundry-hosted-agents-workshop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T21:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 6624,
-    "updated_at": "2026-07-07T21:28:14Z",
+    "updated_at": "2026-07-07T21:44:40Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -25,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T21:23:24Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "An open-source operating system for long-lived, autonomous, revenue-generating agent businesses \u2014 memory, money, and gov",
-    "id": "fablerlabs/mainspring",
-    "language": "TypeScript",
-    "name": "fablerlabs/mainspring",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:22:40Z",
-    "url": "https://github.com/fablerlabs/mainspring"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -63,15 +144,6 @@
     "url": "https://github.com/br3eze-code/br3eze-code"
   },
   {
-    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
-    "id": "0bserver07/chimera",
-    "language": "Python",
-    "name": "0bserver07/chimera",
-    "stars": 2,
-    "updated_at": "2026-07-07T21:22:12Z",
-    "url": "https://github.com/0bserver07/chimera"
-  },
-  {
     "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
     "id": "jaylfc/taOS",
     "language": "Python",
@@ -79,24 +151,6 @@
     "stars": 413,
     "updated_at": "2026-07-07T21:28:22Z",
     "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
-    "id": "George-RD/openspine",
-    "language": "Rust",
-    "name": "George-RD/openspine",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:15:45Z",
-    "url": "https://github.com/George-RD/openspine"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T21:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first agent runtime for durable conversation trees, approvals, projections, distributed sync, and peer-to-peer age",
@@ -160,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-07-07T21:06:05Z",
     "url": "https://github.com/vanamayaswanth/tvastar"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6468,
-    "updated_at": "2026-07-07T21:04:39Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
@@ -403,50 +448,5 @@
     "stars": 187,
     "updated_at": "2026-07-07T20:48:25Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-07-07T20:46:35Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-07T20:46:17Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-07-07T20:45:44Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-07-07T20:44:06Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1267,
-    "updated_at": "2026-07-07T20:43:59Z",
-    "url": "https://github.com/inkeep/agents"
   }
 ]
