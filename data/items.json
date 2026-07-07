@@ -1,11 +1,38 @@
 [
   {
+    "description": "Local-first agent runtime for durable conversation trees, approvals, projections, distributed sync, and peer-to-peer age",
+    "id": "jkassemi/hey",
+    "language": "Rust",
+    "name": "jkassemi/hey",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:59:15Z",
+    "url": "https://github.com/jkassemi/hey"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-07T21:53:42Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6625,
+    "updated_at": "2026-07-07T21:53:37Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-07-07T21:45:24Z",
+    "updated_at": "2026-07-07T21:51:04Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -16,15 +43,6 @@
     "stars": 5,
     "updated_at": "2026-07-07T21:44:43Z",
     "url": "https://github.com/aomi-labs/aomi-sdk"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6625,
-    "updated_at": "2026-07-07T21:50:12Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-07T21:48:13Z",
+    "updated_at": "2026-07-07T21:55:50Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -85,7 +103,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6469,
+    "stars": 6468,
     "updated_at": "2026-07-07T21:37:43Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -149,17 +167,8 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 413,
-    "updated_at": "2026-07-07T21:28:22Z",
+    "updated_at": "2026-07-07T21:57:56Z",
     "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "Local-first agent runtime for durable conversation trees, approvals, projections, distributed sync, and peer-to-peer age",
-    "id": "jkassemi/hey",
-    "language": "Rust",
-    "name": "jkassemi/hey",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:15:11Z",
-    "url": "https://github.com/jkassemi/hey"
   },
   {
     "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T20:48:36Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 187,
-    "updated_at": "2026-07-07T20:48:25Z",
-    "url": "https://github.com/cortexkit/aft"
   }
 ]
