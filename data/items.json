@@ -1,5 +1,158 @@
 [
   {
+    "description": "ElBot landing page \u2014 Let It Feel Everything",
+    "id": "Elfreese/elbot-landing",
+    "language": "JavaScript",
+    "name": "Elfreese/elbot-landing",
+    "stars": 0,
+    "updated_at": "2026-07-08T15:44:58Z",
+    "url": "https://github.com/Elfreese/elbot-landing"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-07-08T15:44:36Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "\u5f00\u7bb1\u5373\u7528\u7684 OpenClaw \u591a\u667a\u80fd\u4f53\u5de5\u4f5c\u533a \u00b7 Turnkey OpenClaw multi-agent workspace \u2014 clone, configure .env, run deploy. Zero hardcoded path",
+    "id": "xiaobei1679/openclaw-workspace",
+    "language": "JavaScript",
+    "name": "xiaobei1679/openclaw-workspace",
+    "stars": 0,
+    "updated_at": "2026-07-08T15:43:01Z",
+    "url": "https://github.com/xiaobei1679/openclaw-workspace"
+  },
+  {
+    "description": "LAAP AGI - Zero-LLM Cognitive Architecture for Digital Lifeforms. Rust PSI core at 2000Hz, QRE quantum reasoning, Episod",
+    "id": "lorryjovens-hub/laap-AGI",
+    "language": "Python",
+    "name": "lorryjovens-hub/laap-AGI",
+    "stars": 0,
+    "updated_at": "2026-07-08T15:42:32Z",
+    "url": "https://github.com/lorryjovens-hub/laap-AGI"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 8,
+    "updated_at": "2026-07-08T15:41:32Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "Local-first AI orchestration sandbox for dry-run agents, evidence chains, workspace contracts, and provider-safe validat",
+    "id": "ProfRandom92/Comptext",
+    "language": "Python",
+    "name": "ProfRandom92/Comptext",
+    "stars": 0,
+    "updated_at": "2026-07-08T15:41:01Z",
+    "url": "https://github.com/ProfRandom92/Comptext"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-08T15:41:00Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Agenten-Framework, das Unsicherheit explizit als Belief State \u00fcber Hypothesen modelliert, Evidenz bayesianisch verarbeit",
+    "id": "pt9912/belief-agent",
+    "language": "Kotlin",
+    "name": "pt9912/belief-agent",
+    "stars": 1,
+    "updated_at": "2026-07-08T15:40:49Z",
+    "url": "https://github.com/pt9912/belief-agent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-08T15:40:12Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 26409,
+    "updated_at": "2026-07-08T15:39:00Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Experimental harness for studying LLM-based agents through trace-based observability and evaluation.",
+    "id": "tripledoublev/v100",
+    "language": "Go",
+    "name": "tripledoublev/v100",
+    "stars": 1,
+    "updated_at": "2026-07-08T15:38:46Z",
+    "url": "https://github.com/tripledoublev/v100"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 1,
+    "updated_at": "2026-07-08T15:40:16Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-07-08T15:34:52Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Multi-model adversarial review for catching shared blind spots",
+    "id": "jkraybill/gordo-roundtable",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-roundtable",
+    "stars": 1,
+    "updated_at": "2026-07-08T15:34:21Z",
+    "url": "https://github.com/jkraybill/gordo-roundtable"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-07-08T15:32:43Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-08T15:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-08T15:30:02Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -14,35 +167,8 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 20,
-    "updated_at": "2026-07-08T15:26:49Z",
+    "updated_at": "2026-07-08T15:32:05Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "ElBot landing page \u2014 Let It Feel Everything",
-    "id": "Elfreese/elbot-landing",
-    "language": "HTML",
-    "name": "Elfreese/elbot-landing",
-    "stars": 0,
-    "updated_at": "2026-07-08T15:26:47Z",
-    "url": "https://github.com/Elfreese/elbot-landing"
-  },
-  {
-    "description": "Experimental harness for studying LLM-based agents through trace-based observability and evaluation.",
-    "id": "tripledoublev/v100",
-    "language": "Go",
-    "name": "tripledoublev/v100",
-    "stars": 1,
-    "updated_at": "2026-07-08T15:27:02Z",
-    "url": "https://github.com/tripledoublev/v100"
-  },
-  {
-    "description": "Multi-model adversarial review for catching shared blind spots",
-    "id": "jkraybill/gordo-roundtable",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-roundtable",
-    "stars": 1,
-    "updated_at": "2026-07-08T15:25:16Z",
-    "url": "https://github.com/jkraybill/gordo-roundtable"
   },
   {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
@@ -63,15 +189,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "\u5f00\u7bb1\u5373\u7528\u7684 OpenClaw \u591a\u667a\u80fd\u4f53\u5de5\u4f5c\u533a \u00b7 Turnkey OpenClaw multi-agent workspace \u2014 clone, configure .env, run deploy. Zero hardcoded path",
-    "id": "xiaobei1679/openclaw-workspace",
-    "language": "JavaScript",
-    "name": "xiaobei1679/openclaw-workspace",
-    "stars": 0,
-    "updated_at": "2026-07-08T15:22:43Z",
-    "url": "https://github.com/xiaobei1679/openclaw-workspace"
-  },
-  {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
     "id": "s2mgtvodois2/postgresql-mcp-js",
     "language": "TypeScript",
@@ -85,7 +202,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6733,
+    "stars": 6734,
     "updated_at": "2026-07-08T15:21:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -115,33 +232,6 @@
     "stars": 18277,
     "updated_at": "2026-07-08T15:17:47Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Local-first AI orchestration sandbox for dry-run agents, evidence chains, workspace contracts, and provider-safe validat",
-    "id": "ProfRandom92/Comptext",
-    "language": "Python",
-    "name": "ProfRandom92/Comptext",
-    "stars": 0,
-    "updated_at": "2026-07-08T15:17:06Z",
-    "url": "https://github.com/ProfRandom92/Comptext"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26409,
-    "updated_at": "2026-07-08T15:16:43Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-08T15:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Personal Ai Agent",
@@ -279,15 +369,6 @@
     "url": "https://github.com/daretodave/nexus"
   },
   {
-    "description": "Agenten-Framework, das Unsicherheit explizit als Belief State \u00fcber Hypothesen modelliert, Evidenz bayesianisch verarbeit",
-    "id": "pt9912/belief-agent",
-    "language": "Kotlin",
-    "name": "pt9912/belief-agent",
-    "stars": 1,
-    "updated_at": "2026-07-08T14:49:49Z",
-    "url": "https://github.com/pt9912/belief-agent"
-  },
-  {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
     "id": "zlatko-lakisic/agentic-orchestration",
     "language": "Python",
@@ -351,15 +432,6 @@
     "url": "https://github.com/devcxl/intelliagent"
   },
   {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 8,
-    "updated_at": "2026-07-08T14:23:48Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
     "description": "PhoneClaw turns phones into local AI agent runtimes with on-device models, native mobile Skills, LiveLand, and optional ",
     "id": "kellyvv/PhoneClaw",
     "language": "Swift",
@@ -376,77 +448,5 @@
     "stars": 15,
     "updated_at": "2026-07-08T14:50:07Z",
     "url": "https://github.com/sweatco/archie-hq"
-  },
-  {
-    "description": "Open-source multi-tenant agent runtime for production. Tenant isolation, per-user cost controls, dual-sandbox security, ",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 11,
-    "updated_at": "2026-07-08T14:16:31Z",
-    "url": "https://github.com/kdcube/kdcube"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-08T14:18:28Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Multi-agent build engine for shipping software with AI coding agents (Claude Code, Cursor): role-based agents, a sprint ",
-    "id": "confiaura/agent-pipeline",
-    "language": "Shell",
-    "name": "confiaura/agent-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-08T14:08:00Z",
-    "url": "https://github.com/confiaura/agent-pipeline"
-  },
-  {
-    "description": "Ryu \u2014 open-core orchestration engine + LLM gateway for AI agents. Local-first, BYO everything.",
-    "id": "amajorai/ryu",
-    "language": "Rust",
-    "name": "amajorai/ryu",
-    "stars": 5,
-    "updated_at": "2026-07-08T14:05:21Z",
-    "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-07-08T14:03:26Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 10,
-    "updated_at": "2026-07-08T13:58:23Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "oh-my-fable \u2014 Fable 5's way of working a long task (plan first, self-correct, never lose the thread), as a model-agnosti",
-    "id": "didrod205/oh-my-fable",
-    "language": "TypeScript",
-    "name": "didrod205/oh-my-fable",
-    "stars": 7,
-    "updated_at": "2026-07-08T13:56:03Z",
-    "url": "https://github.com/didrod205/oh-my-fable"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 189,
-    "updated_at": "2026-07-08T13:55:34Z",
-    "url": "https://github.com/cortexkit/aft"
   }
 ]
