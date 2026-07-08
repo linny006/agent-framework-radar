@@ -1,5 +1,32 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6757,
+    "updated_at": "2026-07-08T20:36:21Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Cloud-first AI agent via NVIDIA NIM Free API \u2014 rate limiting, key rotation, smart fallback chain. Local mode for offline",
+    "id": "ahmedhabibo/hermes-lite",
+    "language": "Python",
+    "name": "ahmedhabibo/hermes-lite",
+    "stars": 1,
+    "updated_at": "2026-07-08T20:34:07Z",
+    "url": "https://github.com/ahmedhabibo/hermes-lite"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-08T20:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -54,15 +81,6 @@
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-08T20:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83e\udde0 Self-evolving 10-agent stack for one-person companies. Cron + eval + reflexion + skill library. MIT.",
     "id": "alex-jb/solo-founder-os",
     "language": "Python",
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11957,
-    "updated_at": "2026-07-08T20:09:35Z",
+    "updated_at": "2026-07-08T20:33:05Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 14,
     "updated_at": "2026-07-08T20:13:47Z",
     "url": "https://github.com/firatcand/roster"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6756,
-    "updated_at": "2026-07-08T20:07:52Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -158,7 +167,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 4700,
-    "updated_at": "2026-07-08T19:56:41Z",
+    "updated_at": "2026-07-08T20:41:23Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -212,7 +221,7 @@
     "language": "TypeScript",
     "name": "aaronjmars/aeon",
     "stars": 571,
-    "updated_at": "2026-07-08T19:37:19Z",
+    "updated_at": "2026-07-08T20:32:23Z",
     "url": "https://github.com/aaronjmars/aeon"
   },
   {
@@ -268,6 +277,15 @@
     "stars": 0,
     "updated_at": "2026-07-08T19:30:31Z",
     "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4749,
+    "updated_at": "2026-07-08T19:30:18Z",
+    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
@@ -430,23 +448,5 @@
     "stars": 6483,
     "updated_at": "2026-07-08T19:18:12Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-07-08T19:17:55Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-07-08T19:17:51Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
   }
 ]
