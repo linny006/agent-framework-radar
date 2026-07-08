@@ -1,5 +1,104 @@
 [
   {
+    "description": "**AI-Perceivable Distributed Orchestration**  apflow is a distributed task orchestration engine where every capability i",
+    "id": "aiperceivable/apflow",
+    "language": "Python",
+    "name": "aiperceivable/apflow",
+    "stars": 8,
+    "updated_at": "2026-07-08T05:59:33Z",
+    "url": "https://github.com/aiperceivable/apflow"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 3,
+    "updated_at": "2026-07-08T05:58:18Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 107,
+    "updated_at": "2026-07-08T05:54:19Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "Record, replay, and improve AI agents in production, built on ZenML",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 197,
+    "updated_at": "2026-07-08T05:53:42Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1268,
+    "updated_at": "2026-07-08T05:53:30Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "Stateful agent-graph framework with deterministic governance \u2014 rules route transitions, not the LLM. Auditable, replayab",
+    "id": "KrakenNet/stargraph",
+    "language": "Python",
+    "name": "KrakenNet/stargraph",
+    "stars": 3,
+    "updated_at": "2026-07-08T05:53:37Z",
+    "url": "https://github.com/KrakenNet/stargraph"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 8,
+    "updated_at": "2026-07-08T05:50:34Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-07-08T05:50:06Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6673,
+    "updated_at": "2026-07-08T05:49:32Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 284,
+    "updated_at": "2026-07-08T05:45:55Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-08T05:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -126,15 +225,6 @@
     "url": "https://github.com/A1m1ng777888/super-brain"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6671,
-    "updated_at": "2026-07-08T05:36:43Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
     "id": "Liny9941/projectsmd",
     "language": "Rust",
@@ -160,15 +250,6 @@
     "stars": 181,
     "updated_at": "2026-07-08T05:30:38Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-08T05:30:11Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
@@ -279,15 +360,6 @@
     "url": "https://github.com/codewandler/flux"
   },
   {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 8,
-    "updated_at": "2026-07-08T05:21:04Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
     "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
     "id": "jesayas7817/agent-reliability-engineering",
     "language": "Shell",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T05:13:51Z",
     "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18268,
-    "updated_at": "2026-07-08T05:13:45Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-07-08T05:13:28Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-07-08T05:13:16Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Deploy autonomous AI streamers on Kick with one command, automating chat, voice, avatar, and OBS streaming setup in unde",
-    "id": "yhlyblys66-art/moltstream",
-    "language": "TypeScript",
-    "name": "yhlyblys66-art/moltstream",
-    "stars": 3,
-    "updated_at": "2026-07-08T05:12:46Z",
-    "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-07-08T05:12:26Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-07-08T05:11:46Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "A data-driven, cryptographically signed, registry-backed AI operating system, with capability-scoped execution and graph",
-    "id": "leolilley/ryeos",
-    "language": "Rust",
-    "name": "leolilley/ryeos",
-    "stars": 2,
-    "updated_at": "2026-07-08T05:10:56Z",
-    "url": "https://github.com/leolilley/ryeos"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11940,
-    "updated_at": "2026-07-08T05:08:51Z",
-    "url": "https://github.com/microsoft/agent-framework"
   }
 ]
