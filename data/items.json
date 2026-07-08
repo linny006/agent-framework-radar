@@ -1,5 +1,59 @@
 [
   {
+    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
+    "id": "Smita6756/Hbrain",
+    "language": "Python",
+    "name": "Smita6756/Hbrain",
+    "stars": 0,
+    "updated_at": "2026-07-08T07:59:47Z",
+    "url": "https://github.com/Smita6756/Hbrain"
+  },
+  {
+    "description": "The evolving memory architecture behind Hermes \u2014 from cold storage to layered runtime (Hot/Cold/Config/Runtime).",
+    "id": "jim-688/cold-memory-kernel",
+    "language": "\u2014",
+    "name": "jim-688/cold-memory-kernel",
+    "stars": 1,
+    "updated_at": "2026-07-08T07:59:44Z",
+    "url": "https://github.com/jim-688/cold-memory-kernel"
+  },
+  {
+    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
+    "id": "Liny9941/projectsmd",
+    "language": "Rust",
+    "name": "Liny9941/projectsmd",
+    "stars": 2,
+    "updated_at": "2026-07-08T07:57:32Z",
+    "url": "https://github.com/Liny9941/projectsmd"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 17,
+    "updated_at": "2026-07-08T07:57:26Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
+    "id": "muhamedali7713/agent-audit",
+    "language": "Python",
+    "name": "muhamedali7713/agent-audit",
+    "stars": 0,
+    "updated_at": "2026-07-08T07:57:20Z",
+    "url": "https://github.com/muhamedali7713/agent-audit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-08T07:57:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
     "id": "floccose-burner9185/wow-harness",
     "language": "Python",
@@ -16,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-07-08T07:55:27Z",
     "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6690,
+    "updated_at": "2026-07-08T07:55:10Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
@@ -79,15 +142,6 @@
     "stars": 284,
     "updated_at": "2026-07-08T07:53:12Z",
     "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "The evolving memory architecture behind Hermes \u2014 from cold storage to layered runtime (Hot/Cold/Config/Runtime).",
-    "id": "jim-688/cold-memory-kernel",
-    "language": "\u2014",
-    "name": "jim-688/cold-memory-kernel",
-    "stars": 1,
-    "updated_at": "2026-07-08T07:52:40Z",
-    "url": "https://github.com/jim-688/cold-memory-kernel"
   },
   {
     "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
@@ -162,15 +216,6 @@
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-08T07:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
     "id": "Ansellwaxlike187/cowork-semantic-search",
     "language": "Python",
@@ -214,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T07:42:28Z",
     "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6689,
-    "updated_at": "2026-07-08T07:55:10Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
@@ -401,7 +437,7 @@
     "language": "Python",
     "name": "foryourhealth111-pixel/Vibe-Skills",
     "stars": 2376,
-    "updated_at": "2026-07-08T07:43:27Z",
+    "updated_at": "2026-07-08T07:57:34Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 153,
     "updated_at": "2026-07-08T07:27:49Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-07-08T07:27:06Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
-    "id": "Unknown384-come/agent-runner",
-    "language": "Go",
-    "name": "Unknown384-come/agent-runner",
-    "stars": 0,
-    "updated_at": "2026-07-08T07:27:05Z",
-    "url": "https://github.com/Unknown384-come/agent-runner"
-  },
-  {
-    "description": "Provide practical AI interview questions focused on production deployment in real-world MENA enterprise environments.",
-    "id": "luwelle/Production_GenAI_interview",
-    "language": "\u2014",
-    "name": "luwelle/Production_GenAI_interview",
-    "stars": 0,
-    "updated_at": "2026-07-08T07:27:03Z",
-    "url": "https://github.com/luwelle/Production_GenAI_interview"
-  },
-  {
-    "description": "A lightweight foundation for shipping specialized AI agents fast.",
-    "id": "ysz7/genesis-agent",
-    "language": "Python",
-    "name": "ysz7/genesis-agent",
-    "stars": 1,
-    "updated_at": "2026-07-08T07:26:44Z",
-    "url": "https://github.com/ysz7/genesis-agent"
   }
 ]
