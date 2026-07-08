@@ -1,12 +1,75 @@
 [
   {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11936,
+    "updated_at": "2026-07-08T03:30:06Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
+    "id": "SmooAI/smooth-operator",
+    "language": "Rust",
+    "name": "SmooAI/smooth-operator",
+    "stars": 1,
+    "updated_at": "2026-07-08T03:29:28Z",
+    "url": "https://github.com/SmooAI/smooth-operator"
+  },
+  {
+    "description": "Self-hosted AI orchestration platform for persistent agents, shared knowledge, and safe automation.",
+    "id": "OBrown101/dawson-server",
+    "language": "Python",
+    "name": "OBrown101/dawson-server",
+    "stars": 0,
+    "updated_at": "2026-07-08T03:24:25Z",
+    "url": "https://github.com/OBrown101/dawson-server"
+  },
+  {
     "description": "The agent harness for Ruby applications. Durable sessions, streaming, human-in-the-loop approval, compaction, structured",
     "id": "mcheemaa/mistri",
     "language": "Ruby",
     "name": "mcheemaa/mistri",
     "stars": 2,
-    "updated_at": "2026-07-08T03:15:12Z",
+    "updated_at": "2026-07-08T03:26:38Z",
     "url": "https://github.com/mcheemaa/mistri"
+  },
+  {
+    "description": "Open-source, self-hosted AI agent workbench. One tool layer powers your team's chat, your app's agent, and any MCP clien",
+    "id": "linjiejim/greenhouse",
+    "language": "TypeScript",
+    "name": "linjiejim/greenhouse",
+    "stars": 0,
+    "updated_at": "2026-07-08T03:21:12Z",
+    "url": "https://github.com/linjiejim/greenhouse"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6658,
+    "updated_at": "2026-07-08T03:29:44Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Curated Orkas agents and skills for education, product development, content creation, data analysis, office automation, ",
+    "id": "Orkas-AI/Orkas-Awesome-AgentSkills",
+    "language": "Python",
+    "name": "Orkas-AI/Orkas-Awesome-AgentSkills",
+    "stars": 10,
+    "updated_at": "2026-07-08T03:17:58Z",
+    "url": "https://github.com/Orkas-AI/Orkas-Awesome-AgentSkills"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-08T03:15:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
@@ -16,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-07-08T03:09:28Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Open-source, self-hosted AI agent workbench. One tool layer powers your team's chat, your app's agent, and any MCP clien",
-    "id": "linjiejim/greenhouse",
-    "language": "TypeScript",
-    "name": "linjiejim/greenhouse",
-    "stars": 0,
-    "updated_at": "2026-07-08T03:09:08Z",
-    "url": "https://github.com/linjiejim/greenhouse"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -40,7 +94,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26345,
+    "stars": 26348,
     "updated_at": "2026-07-08T03:06:22Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T03:03:45Z",
     "url": "https://github.com/oneirozzzz7/educe"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6656,
-    "updated_at": "2026-07-08T03:02:43Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
@@ -79,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-08T03:00:31Z",
     "url": "https://github.com/br3eze-code/br3eze-code"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-08T03:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
@@ -117,21 +153,12 @@
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
-    "description": "Curated Orkas agents and skills for education, product development, content creation, data analysis, office automation, ",
-    "id": "Orkas-AI/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "Orkas-AI/Orkas-Awesome-AgentSkills",
-    "stars": 10,
-    "updated_at": "2026-07-08T02:54:16Z",
-    "url": "https://github.com/Orkas-AI/Orkas-Awesome-AgentSkills"
-  },
-  {
     "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
     "id": "rapidaai/voice-ai",
     "language": "Go",
     "name": "rapidaai/voice-ai",
     "stars": 687,
-    "updated_at": "2026-07-08T02:53:29Z",
+    "updated_at": "2026-07-08T03:16:39Z",
     "url": "https://github.com/rapidaai/voice-ai"
   },
   {
@@ -288,15 +315,6 @@
     "url": "https://github.com/muhamedali7713/agent-audit"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11936,
-    "updated_at": "2026-07-08T02:28:42Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T02:19:27Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:17:25Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:17:10Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
   }
 ]
