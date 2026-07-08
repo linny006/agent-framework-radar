@@ -1,11 +1,74 @@
 [
   {
+    "description": "Self-improving OS for production AI agents \u2014 verifier-gated, cross-family runs that learn which model wins where, so you",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 1,
+    "updated_at": "2026-07-08T09:39:58Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 284,
+    "updated_at": "2026-07-08T09:38:40Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-08T09:36:05Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-07-08T09:40:51Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6703,
+    "updated_at": "2026-07-08T09:40:41Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-08T09:33:58Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-08T09:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11942,
-    "updated_at": "2026-07-08T09:29:04Z",
+    "updated_at": "2026-07-08T09:33:13Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -16,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T09:25:20Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6702,
-    "updated_at": "2026-07-08T09:23:48Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -63,15 +117,6 @@
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-08T09:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
@@ -90,15 +135,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "Self-improving OS for production AI agents \u2014 verifier-gated, cross-family runs that learn which model wins where, so you",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 1,
-    "updated_at": "2026-07-08T09:13:31Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Eidentic is the open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals built in",
     "id": "eidentic/eidentic",
     "language": "TypeScript",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T09:03:41Z",
     "url": "https://github.com/linjiejim/greenhouse"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 284,
-    "updated_at": "2026-07-08T09:02:45Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "The open, model-agnostic platform to build your own AI agent and run it everywhere \u2014 self-hosted, safe by default.",
@@ -261,6 +288,15 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 646,
+    "updated_at": "2026-07-08T08:34:15Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -297,6 +333,15 @@
     "url": "https://github.com/jim-688/cold-memory-kernel"
   },
   {
+    "description": "Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context managemen",
+    "id": "foryourhealth111-pixel/Vibe-Skills",
+    "language": "Python",
+    "name": "foryourhealth111-pixel/Vibe-Skills",
+    "stars": 2377,
+    "updated_at": "2026-07-08T08:16:46Z",
+    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
+  },
+  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -313,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T08:15:50Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context managemen",
-    "id": "foryourhealth111-pixel/Vibe-Skills",
-    "language": "Python",
-    "name": "foryourhealth111-pixel/Vibe-Skills",
-    "stars": 2376,
-    "updated_at": "2026-07-08T08:16:46Z",
-    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   },
   {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
@@ -364,7 +400,7 @@
     "id": "EvoMap/awesome-agent-evolution",
     "language": "JavaScript",
     "name": "EvoMap/awesome-agent-evolution",
-    "stars": 169,
+    "stars": 170,
     "updated_at": "2026-07-08T08:04:41Z",
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-08T08:00:43Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-07-08T07:59:47Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-07-08T07:57:32Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 17,
-    "updated_at": "2026-07-08T07:57:26Z",
-    "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-07-08T07:57:20Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
   }
 ]
