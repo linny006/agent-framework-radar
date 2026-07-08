@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-08 14:39 UTC
+> ⏰ Last updated: 2026-07-08 14:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [dshakes/lantern](https://github.com/dshakes/lantern) | 0 | TypeScript | 2026-07-08 | Production runtime for AI agents — run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S |
-| 2 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18277 | Python | 2026-07-08 | AI Agent Framework, the Pydantic way |
-| 3 | [hara-cli/hara](https://github.com/hara-cli/hara) | 2 | TypeScript | 2026-07-08 | A coding agent CLI that runs like an engineering org — role routing, plan DAGs, approvals, memory, and a 10-platform cha |
-| 4 | [fetchai/agents-aea](https://github.com/fetchai/agents-aea) | 238 | Python | 2026-07-08 | A framework for autonomous economic agent (AEA) development |
-| 5 | [microfox-ai/ai-router](https://github.com/microfox-ai/ai-router) | 5 | TypeScript | 2026-07-08 | express.js styled agent orchestration Library for typescript community |
-| 6 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-08 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 7 | [pt9912/belief-agent](https://github.com/pt9912/belief-agent) | 1 | Kotlin | 2026-07-08 | Agenten-Framework, das Unsicherheit explizit als Belief State über Hypothesen modelliert, Evidenz bayesianisch verarbeit |
-| 8 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 213 | Python | 2026-07-08 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
-| 9 | [JohnnyFiv3r/Core-Memory](https://github.com/JohnnyFiv3r/Core-Memory) | 20 | Python | 2026-07-08 | Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection. |
-| 10 | [devcxl/intelliagent](https://github.com/devcxl/intelliagent) | 0 | Python | 2026-07-08 | Coding agent skeleton with ReAct engine, tool system, MCP support, and permission control. |
-| 11 | [Caprista/KarvyLoop](https://github.com/Caprista/KarvyLoop) | 8 | Python | 2026-07-08 | The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a |
-| 12 | [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) | 1137 | Swift | 2026-07-08 | PhoneClaw turns phones into local AI agent runtimes with on-device models, native mobile Skills, LiveLand, and optional  |
-| 13 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6479 | Python | 2026-07-08 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 14 | [sweatco/archie-hq](https://github.com/sweatco/archie-hq) | 15 | TypeScript | 2026-07-08 | AI employee for your team — delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C |
-| 15 | [kdcube/kdcube](https://github.com/kdcube/kdcube) | 11 | Python | 2026-07-08 | Open-source multi-tenant agent runtime for production. Tenant isolation, per-user cost controls, dual-sandbox security,  |
-| 16 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-07-08 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 17 | [br3eze-code/br3eze-code](https://github.com/br3eze-code/br3eze-code) | 2 | JavaScript | 2026-07-08 | Personal Ai Agent |
-| 18 | [confiaura/agent-pipeline](https://github.com/confiaura/agent-pipeline) | 0 | Shell | 2026-07-08 | Multi-agent build engine for shipping software with AI coding agents (Claude Code, Cursor): role-based agents, a sprint  |
-| 19 | [amajorai/ryu](https://github.com/amajorai/ryu) | 5 | Rust | 2026-07-08 | Ryu — open-core orchestration engine + LLM gateway for AI agents. Local-first, BYO everything. |
-| 20 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 26405 | Go | 2026-07-08 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 21 | [zlatko-lakisic/agentic-orchestration](https://github.com/zlatko-lakisic/agentic-orchestration) | 1 | Python | 2026-07-08 | Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess |
+| 1 | [zlatko-lakisic/agentic-orchestration](https://github.com/zlatko-lakisic/agentic-orchestration) | 1 | Python | 2026-07-08 | Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-08 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [dshakes/lantern](https://github.com/dshakes/lantern) | 0 | TypeScript | 2026-07-08 | Production runtime for AI agents — run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S |
+| 4 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18277 | Python | 2026-07-08 | AI Agent Framework, the Pydantic way |
+| 5 | [hara-cli/hara](https://github.com/hara-cli/hara) | 2 | TypeScript | 2026-07-08 | A coding agent CLI that runs like an engineering org — role routing, plan DAGs, approvals, memory, and a 10-platform cha |
+| 6 | [fetchai/agents-aea](https://github.com/fetchai/agents-aea) | 238 | Python | 2026-07-08 | A framework for autonomous economic agent (AEA) development |
+| 7 | [microfox-ai/ai-router](https://github.com/microfox-ai/ai-router) | 5 | TypeScript | 2026-07-08 | express.js styled agent orchestration Library for typescript community |
+| 8 | [pt9912/belief-agent](https://github.com/pt9912/belief-agent) | 1 | Kotlin | 2026-07-08 | Agenten-Framework, das Unsicherheit explizit als Belief State über Hypothesen modelliert, Evidenz bayesianisch verarbeit |
+| 9 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 213 | Python | 2026-07-08 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
+| 10 | [JohnnyFiv3r/Core-Memory](https://github.com/JohnnyFiv3r/Core-Memory) | 20 | Python | 2026-07-08 | Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection. |
+| 11 | [devcxl/intelliagent](https://github.com/devcxl/intelliagent) | 0 | Python | 2026-07-08 | Coding agent skeleton with ReAct engine, tool system, MCP support, and permission control. |
+| 12 | [Caprista/KarvyLoop](https://github.com/Caprista/KarvyLoop) | 8 | Python | 2026-07-08 | The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a |
+| 13 | [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) | 1137 | Swift | 2026-07-08 | PhoneClaw turns phones into local AI agent runtimes with on-device models, native mobile Skills, LiveLand, and optional  |
+| 14 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6479 | Python | 2026-07-08 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 15 | [sweatco/archie-hq](https://github.com/sweatco/archie-hq) | 15 | TypeScript | 2026-07-08 | AI employee for your team — delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C |
+| 16 | [kdcube/kdcube](https://github.com/kdcube/kdcube) | 11 | Python | 2026-07-08 | Open-source multi-tenant agent runtime for production. Tenant isolation, per-user cost controls, dual-sandbox security,  |
+| 17 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-07-08 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 18 | [br3eze-code/br3eze-code](https://github.com/br3eze-code/br3eze-code) | 2 | JavaScript | 2026-07-08 | Personal Ai Agent |
+| 19 | [confiaura/agent-pipeline](https://github.com/confiaura/agent-pipeline) | 0 | Shell | 2026-07-08 | Multi-agent build engine for shipping software with AI coding agents (Claude Code, Cursor): role-based agents, a sprint  |
+| 20 | [amajorai/ryu](https://github.com/amajorai/ryu) | 5 | Rust | 2026-07-08 | Ryu — open-core orchestration engine + LLM gateway for AI agents. Local-first, BYO everything. |
+| 21 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 26406 | Go | 2026-07-08 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | 22 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 1 | HTML | 2026-07-08 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
 | 23 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 6727 | Python | 2026-07-08 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
 | 24 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 10 | TypeScript | 2026-07-08 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
