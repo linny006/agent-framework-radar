@@ -1,11 +1,110 @@
 [
   {
+    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
+    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "language": "Python",
+    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "stars": 0,
+    "updated_at": "2026-07-08T08:27:22Z",
+    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 284,
+    "updated_at": "2026-07-08T08:27:11Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-07-08T08:26:16Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "A general-purpose agentic harness. Structured context slots, observational-memory compaction, tools, permissions, skills",
+    "id": "Craigtut/cortex-mono",
+    "language": "TypeScript",
+    "name": "Craigtut/cortex-mono",
+    "stars": 0,
+    "updated_at": "2026-07-08T08:22:42Z",
+    "url": "https://github.com/Craigtut/cortex-mono"
+  },
+  {
+    "description": "A lightweight foundation for shipping specialized AI agents fast.",
+    "id": "ysz7/genesis-agent",
+    "language": "Python",
+    "name": "ysz7/genesis-agent",
+    "stars": 1,
+    "updated_at": "2026-07-08T08:21:45Z",
+    "url": "https://github.com/ysz7/genesis-agent"
+  },
+  {
+    "description": "Hermes Agent architecture repository \u2014 memory management, tool governance, provider routing, and evidence-driven evoluti",
+    "id": "jim-688/cold-memory-kernel",
+    "language": "Python",
+    "name": "jim-688/cold-memory-kernel",
+    "stars": 1,
+    "updated_at": "2026-07-08T08:20:17Z",
+    "url": "https://github.com/jim-688/cold-memory-kernel"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6693,
+    "updated_at": "2026-07-08T08:27:06Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11942,
+    "updated_at": "2026-07-08T08:16:51Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 0,
+    "updated_at": "2026-07-08T08:16:07Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-08T08:15:50Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-08T08:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context managemen",
     "id": "foryourhealth111-pixel/Vibe-Skills",
     "language": "Python",
     "name": "foryourhealth111-pixel/Vibe-Skills",
     "stars": 2376,
-    "updated_at": "2026-07-08T08:14:19Z",
+    "updated_at": "2026-07-08T08:16:46Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   },
   {
@@ -16,33 +115,6 @@
     "stars": 491,
     "updated_at": "2026-07-08T08:13:50Z",
     "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11941,
-    "updated_at": "2026-07-08T08:14:03Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "The evolving memory architecture behind Hermes \u2014 from cold storage to layered runtime (Hot/Cold/Config/Runtime).",
-    "id": "jim-688/cold-memory-kernel",
-    "language": "Python",
-    "name": "jim-688/cold-memory-kernel",
-    "stars": 1,
-    "updated_at": "2026-07-08T08:11:27Z",
-    "url": "https://github.com/jim-688/cold-memory-kernel"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6692,
-    "updated_at": "2026-07-08T08:13:01Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
@@ -86,7 +158,7 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1521,
-    "updated_at": "2026-07-08T08:03:21Z",
+    "updated_at": "2026-07-08T08:24:30Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -112,7 +184,7 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 209,
+    "stars": 210,
     "updated_at": "2026-07-08T08:02:20Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -130,7 +202,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18270,
+    "stars": 18271,
     "updated_at": "2026-07-08T08:01:17Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -142,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-07-08T08:00:43Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-08T08:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
@@ -193,7 +256,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6471,
+    "stars": 6472,
     "updated_at": "2026-07-08T07:57:16Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -268,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T07:53:19Z",
     "url": "https://github.com/oneirozzzz7/educe"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 284,
-    "updated_at": "2026-07-08T07:53:12Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T07:40:45Z",
     "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-07-08T07:40:31Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-08T07:40:27Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-07-08T07:40:04Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-07-08T07:39:42Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-07-08T07:39:28Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "The AI automation platform, self-hosted. Describe the job in chat and LiveContext builds it: readable workflows, scoped ",
-    "id": "livecontext-ai/livecontext-ce",
-    "language": "Java",
-    "name": "livecontext-ai/livecontext-ce",
-    "stars": 1,
-    "updated_at": "2026-07-08T07:39:20Z",
-    "url": "https://github.com/livecontext-ai/livecontext-ce"
   }
 ]
