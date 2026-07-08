@@ -1,10 +1,82 @@
 [
   {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-07-08T17:12:17Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
+    "id": "Asceticrefractoryperiod28/Foundry",
+    "language": "TypeScript",
+    "name": "Asceticrefractoryperiod28/Foundry",
+    "stars": 0,
+    "updated_at": "2026-07-08T17:04:37Z",
+    "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
+  },
+  {
+    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
+    "id": "salvatoreabient793/cursor-auto-deployment-agent",
+    "language": "\u2014",
+    "name": "salvatoreabient793/cursor-auto-deployment-agent",
+    "stars": 0,
+    "updated_at": "2026-07-08T17:02:44Z",
+    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-08T17:00:52Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
+    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
+    "language": "Python",
+    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
+    "stars": 0,
+    "updated_at": "2026-07-08T17:00:47Z",
+    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
+  },
+  {
+    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
+    "id": "sloppy-yeast840/tri-party-framework",
+    "language": "Shell",
+    "name": "sloppy-yeast840/tri-party-framework",
+    "stars": 0,
+    "updated_at": "2026-07-08T17:00:30Z",
+    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-08T17:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-07-08T17:00:10Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26416,
+    "stars": 26420,
     "updated_at": "2026-07-08T16:59:36Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "inkeep/agents",
     "stars": 1270,
-    "updated_at": "2026-07-08T16:59:06Z",
+    "updated_at": "2026-07-08T17:02:24Z",
     "url": "https://github.com/inkeep/agents"
   },
   {
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-08T16:54:30Z",
+    "updated_at": "2026-07-08T17:09:56Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -196,15 +268,6 @@
     "stars": 6,
     "updated_at": "2026-07-08T17:00:18Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-08T16:45:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
@@ -385,68 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-08T16:41:32Z",
     "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
-    "id": "Ibisselfgovernment28/v1-multiagent-articles",
-    "language": "\u2014",
-    "name": "Ibisselfgovernment28/v1-multiagent-articles",
-    "stars": 1,
-    "updated_at": "2026-07-08T16:31:56Z",
-    "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
-  },
-  {
-    "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
-    "id": "gatherfigtree740/ai-agent-landscape",
-    "language": "\u2014",
-    "name": "gatherfigtree740/ai-agent-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-08T16:30:15Z",
-    "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
-  },
-  {
-    "description": "Provide a lightweight, cross-platform AI agent with TUI and GUI support, optimized for performance and flexible tool int",
-    "id": "duduard/saneagent",
-    "language": "\u2014",
-    "name": "duduard/saneagent",
-    "stars": 0,
-    "updated_at": "2026-07-08T16:28:54Z",
-    "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "Build and manage AI agents within git repositories using a Rust-based, dependency-free framework that version-controls a",
-    "id": "yeab405/rusty-gitclaw",
-    "language": "Rust",
-    "name": "yeab405/rusty-gitclaw",
-    "stars": 2,
-    "updated_at": "2026-07-08T16:28:00Z",
-    "url": "https://github.com/yeab405/rusty-gitclaw"
-  },
-  {
-    "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
-    "id": "kokorubbong/agenticqa-scan-action",
-    "language": "Python",
-    "name": "kokorubbong/agenticqa-scan-action",
-    "stars": 0,
-    "updated_at": "2026-07-08T16:26:30Z",
-    "url": "https://github.com/kokorubbong/agenticqa-scan-action"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 10,
-    "updated_at": "2026-07-08T16:31:04Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 20,
-    "updated_at": "2026-07-08T16:54:53Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   }
 ]
