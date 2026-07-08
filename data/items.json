@@ -4,9 +4,36 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6757,
-    "updated_at": "2026-07-08T20:36:21Z",
+    "stars": 6758,
+    "updated_at": "2026-07-08T20:45:12Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18280,
+    "updated_at": "2026-07-08T20:44:53Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-08T20:44:44Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-08T20:41:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Cloud-first AI agent via NVIDIA NIM Free API \u2014 rate limiting, key rotation, smart fallback chain. Local mode for offline",
@@ -16,24 +43,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T20:34:07Z",
     "url": "https://github.com/ahmedhabibo/hermes-lite"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-08T20:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18280,
-    "updated_at": "2026-07-08T20:25:45Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T19:19:37Z",
     "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6483,
-    "updated_at": "2026-07-08T19:18:12Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
