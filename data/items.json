@@ -1,11 +1,65 @@
 [
   {
+    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
+    "id": "OrlojHQ/orloj",
+    "language": "Go",
+    "name": "OrlojHQ/orloj",
+    "stars": 106,
+    "updated_at": "2026-07-09T18:28:01Z",
+    "url": "https://github.com/OrlojHQ/orloj"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 115,
+    "updated_at": "2026-07-09T18:27:31Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:26:33Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6499,
+    "updated_at": "2026-07-09T18:26:24Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Agenten-Framework, das Unsicherheit explizit als Belief State \u00fcber Hypothesen modelliert, Evidenz bayesianisch verarbeit",
+    "id": "pt9912/belief-agent",
+    "language": "Kotlin",
+    "name": "pt9912/belief-agent",
+    "stars": 1,
+    "updated_at": "2026-07-09T18:23:29Z",
+    "url": "https://github.com/pt9912/belief-agent"
+  },
+  {
+    "description": "\u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u044b \u043d\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b, \u0430 \u043a\u043e\u043b\u043b\u0435\u0433\u0438",
+    "id": "FraN-arti/SynPin",
+    "language": "Python",
+    "name": "FraN-arti/SynPin",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:18:42Z",
+    "url": "https://github.com/FraN-arti/SynPin"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-07-09T18:15:24Z",
+    "updated_at": "2026-07-09T18:15:40Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 17,
     "updated_at": "2026-07-09T18:15:23Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
-    "id": "OrlojHQ/orloj",
-    "language": "Go",
-    "name": "OrlojHQ/orloj",
-    "stars": 106,
-    "updated_at": "2026-07-09T18:13:25Z",
-    "url": "https://github.com/OrlojHQ/orloj"
   },
   {
     "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
@@ -77,7 +122,7 @@
     "language": "TypeScript",
     "name": "aaronjmars/aeon",
     "stars": 573,
-    "updated_at": "2026-07-09T18:00:53Z",
+    "updated_at": "2026-07-09T18:27:36Z",
     "url": "https://github.com/aaronjmars/aeon"
   },
   {
@@ -139,7 +184,7 @@
     "id": "Zuga-Technologies/zugamind",
     "language": "Python",
     "name": "Zuga-Technologies/zugamind",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-09T17:51:21Z",
     "url": "https://github.com/Zuga-Technologies/zugamind"
   },
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "SmooAI/smooth-operator",
     "stars": 1,
-    "updated_at": "2026-07-09T17:50:52Z",
+    "updated_at": "2026-07-09T18:27:37Z",
     "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "\u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u044b \u043d\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b, \u0430 \u043a\u043e\u043b\u043b\u0435\u0433\u0438",
-    "id": "FraN-arti/SynPin",
-    "language": "Python",
-    "name": "FraN-arti/SynPin",
-    "stars": 0,
-    "updated_at": "2026-07-09T17:11:47Z",
-    "url": "https://github.com/FraN-arti/SynPin"
-  },
-  {
     "description": "Python Coding Agent Harness: Agent Loop, tools, multi-agent, sandbox. Formerly micro-agent.",
     "id": "zengsidou/one-code",
     "language": "Python",
@@ -301,7 +337,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26526,
+    "stars": 26527,
     "updated_at": "2026-07-09T17:10:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -324,20 +360,11 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 115,
-    "updated_at": "2026-07-09T17:04:57Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "\ud83c\udfc6 Curated, ranked list of AI agent harnesses (100+) \u2014 plus an MCP server, llms.txt & JSON so agents can recommend them t",
     "id": "RyanAlberts/best-of-Agent-Harnesses",
     "language": "Python",
     "name": "RyanAlberts/best-of-Agent-Harnesses",
-    "stars": 282,
+    "stars": 281,
     "updated_at": "2026-07-09T17:03:56Z",
     "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-09T16:53:40Z",
     "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:53:32Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:53:25Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:53:05Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
   }
 ]
