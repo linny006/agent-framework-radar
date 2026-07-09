@@ -1,12 +1,21 @@
 [
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 71,
-    "updated_at": "2026-07-09T06:44:58Z",
-    "url": "https://github.com/JKHeadley/instar"
+    "description": "Connect AI agents like code. A provider-agnostic multi-agent orchestration library + Claude Code plugin \u2014 compose any ag",
+    "id": "sancovp/cave-teams",
+    "language": "Python",
+    "name": "sancovp/cave-teams",
+    "stars": 0,
+    "updated_at": "2026-07-09T06:55:13Z",
+    "url": "https://github.com/sancovp/cave-teams"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6822,
+    "updated_at": "2026-07-09T06:59:36Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Agent adapter for Twin-Sparrow \u2014 compact runtime capsules per turn instead of full doctrine replay, and a verification g",
@@ -14,8 +23,80 @@
     "language": "TypeScript",
     "name": "Lesz-Xi/twin-sparrow-agent-adapter",
     "stars": 0,
-    "updated_at": "2026-07-09T06:44:05Z",
+    "updated_at": "2026-07-09T06:55:03Z",
     "url": "https://github.com/Lesz-Xi/twin-sparrow-agent-adapter"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 3,
+    "updated_at": "2026-07-09T06:51:12Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "**AI-Perceivable Distributed Orchestration**  apflow is a distributed task orchestration engine where every capability i",
+    "id": "aiperceivable/apflow",
+    "language": "Python",
+    "name": "aiperceivable/apflow",
+    "stars": 8,
+    "updated_at": "2026-07-09T06:51:06Z",
+    "url": "https://github.com/aiperceivable/apflow"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4706,
+    "updated_at": "2026-07-09T06:49:30Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "The agent harness for Ruby applications. Durable sessions, streaming, human-in-the-loop approval, compaction, structured",
+    "id": "mcheemaa/mistri",
+    "language": "Ruby",
+    "name": "mcheemaa/mistri",
+    "stars": 7,
+    "updated_at": "2026-07-09T06:49:25Z",
+    "url": "https://github.com/mcheemaa/mistri"
+  },
+  {
+    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
+    "id": "0bserver07/chimera",
+    "language": "Python",
+    "name": "0bserver07/chimera",
+    "stars": 2,
+    "updated_at": "2026-07-09T06:47:35Z",
+    "url": "https://github.com/0bserver07/chimera"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1271,
+    "updated_at": "2026-07-09T06:46:45Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-09T06:45:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 71,
+    "updated_at": "2026-07-09T06:44:58Z",
+    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Open-source, self-hosted platform to visually build, test, and ship AI agents & workflows. Built on LangChain v1 + LangG",
@@ -36,21 +117,12 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6822,
-    "updated_at": "2026-07-09T06:41:17Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
     "id": "Eliyce/paqad-ai",
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 6,
-    "updated_at": "2026-07-09T06:39:05Z",
+    "updated_at": "2026-07-09T06:47:06Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -90,29 +162,11 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-09T06:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1271,
-    "updated_at": "2026-07-09T06:29:33Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26472,
+    "stars": 26473,
     "updated_at": "2026-07-09T06:28:49Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 11974,
-    "updated_at": "2026-07-09T06:13:33Z",
+    "updated_at": "2026-07-09T07:00:15Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T05:52:15Z",
     "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-09T05:51:57Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-07-09T05:51:25Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-07-09T05:49:52Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 1,
-    "updated_at": "2026-07-09T05:48:13Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-07-09T05:48:04Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-09T05:47:57Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
   }
 ]
