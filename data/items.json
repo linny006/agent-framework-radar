@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-09T13:43:56Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "define your agents once in plain markdown. hephaestus shapes them for every harness and keeps them tempered.",
     "id": "odysseusdev/hephaestus",
     "language": "TypeScript",
@@ -7,6 +16,15 @@
     "stars": 0,
     "updated_at": "2026-07-09T13:43:31Z",
     "url": "https://github.com/odysseusdev/hephaestus"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11985,
+    "updated_at": "2026-07-09T13:43:25Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -49,7 +67,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6877,
+    "stars": 6878,
     "updated_at": "2026-07-09T13:38:04Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -117,15 +135,6 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-09T13:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
     "id": "denisotree/veles",
     "language": "Python",
@@ -140,7 +149,7 @@
     "language": "Python",
     "name": "Ecro/harness-maker",
     "stars": 2,
-    "updated_at": "2026-07-09T13:30:09Z",
+    "updated_at": "2026-07-09T13:45:18Z",
     "url": "https://github.com/Ecro/harness-maker"
   },
   {
@@ -349,15 +358,6 @@
     "stars": 3,
     "updated_at": "2026-07-09T12:19:58Z",
     "url": "https://github.com/achappey/aihappey-chat"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11984,
-    "updated_at": "2026-07-09T13:43:25Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
