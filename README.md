@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-09 16:15 UTC
+> ⏰ Last updated: 2026-07-09 16:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [FraN-arti/SynPin](https://github.com/FraN-arti/SynPin) | 0 | Python | 2026-07-09 | ИИ-агенты не инструменты, а коллеги |
-| 2 | [Ecro/harness-maker](https://github.com/Ecro/harness-maker) | 2 | Python | 2026-07-09 | Per-project AI coding harness for Claude Code · Cursor · Codex. Profiler + 10-dim interview build a different harness fo |
-| 3 | [haohewh/starpivot-engine](https://github.com/haohewh/starpivot-engine) | 0 | Python | 2026-07-09 | MCP协议驱动的AI Agent工具调用基础设施 — 17个MCP Server / 73个工具 / 100%代码层路由 |
-| 4 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6499 | Python | 2026-07-09 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 5 | [kaydenplayZ/agent-skills-guide](https://github.com/kaydenplayZ/agent-skills-guide) | 0 | — | 2026-07-09 | 🤖 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr |
-| 6 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 572 | TypeScript | 2026-07-09 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
-| 7 | [A1m1ng777888/super-brain](https://github.com/A1m1ng777888/super-brain) | 0 | Python | 2026-07-09 | AI Agent 认知增强系统 — 持久记忆、知识图谱、SimHash语义搜索、自检修复 |
-| 8 | [TonCerqueira/MiroThinker](https://github.com/TonCerqueira/MiroThinker) | 1 | Python | 2026-07-09 | 🧠 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration  |
-| 9 | [thesiddguy/GenAI](https://github.com/thesiddguy/GenAI) | 0 | HTML | 2026-07-09 | 📄 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa |
-| 10 | [THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow](https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow) | 0 | Python | 2026-07-09 | 🚀 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro |
-| 11 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-09 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 12 | [Habitat-Thinking/hands-on-agent-development](https://github.com/Habitat-Thinking/hands-on-agent-development) | 0 | Java | 2026-07-09 | A full-day hands-on workshop for building safe, explainable, domain-grounded AI agents — a goal-oriented Embabel (Java)  |
-| 13 | [Kortecx/kortecx](https://github.com/Kortecx/kortecx) | 5 | Rust | 2026-07-09 | kortecx — the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure |
-| 14 | [fangzheng698-lang/agent-prod](https://github.com/fangzheng698-lang/agent-prod) | 2 | Python | 2026-07-09 | Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel |
-| 15 | [yassineelfakiri/agentpg](https://github.com/yassineelfakiri/agentpg) | 0 | Go | 2026-07-09 | 🤖 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by |
-| 16 | [q-j0k/sprintloop-orchestration](https://github.com/q-j0k/sprintloop-orchestration) | 1 | — | 2026-07-09 | 🚀 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents  |
-| 17 | [pt9912/belief-agent](https://github.com/pt9912/belief-agent) | 1 | Kotlin | 2026-07-09 | Agenten-Framework, das Unsicherheit explizit als Belief State über Hypothesen modelliert, Evidenz bayesianisch verarbeit |
-| 18 | [RikyZ90/ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | 77 | Python | 2026-07-09 | 🐕 Self-hosted security-first AI agent · 23 providers · 11 chat channels · WebUI · 3-level memory · task-schedule · autom |
-| 19 | [aomi-labs/aomi](https://github.com/aomi-labs/aomi) | 8 | TypeScript | 2026-07-09 | The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library. |
-| 20 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 6894 | Python | 2026-07-09 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 21 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 219 | Python | 2026-07-09 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
+| 1 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 219 | Python | 2026-07-09 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-09 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [FraN-arti/SynPin](https://github.com/FraN-arti/SynPin) | 0 | Python | 2026-07-09 | ИИ-агенты не инструменты, а коллеги |
+| 4 | [Ecro/harness-maker](https://github.com/Ecro/harness-maker) | 2 | Python | 2026-07-09 | Per-project AI coding harness for Claude Code · Cursor · Codex. Profiler + 10-dim interview build a different harness fo |
+| 5 | [haohewh/starpivot-engine](https://github.com/haohewh/starpivot-engine) | 0 | Python | 2026-07-09 | MCP协议驱动的AI Agent工具调用基础设施 — 17个MCP Server / 73个工具 / 100%代码层路由 |
+| 6 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6499 | Python | 2026-07-09 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 7 | [kaydenplayZ/agent-skills-guide](https://github.com/kaydenplayZ/agent-skills-guide) | 0 | — | 2026-07-09 | 🤖 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr |
+| 8 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 572 | TypeScript | 2026-07-09 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
+| 9 | [A1m1ng777888/super-brain](https://github.com/A1m1ng777888/super-brain) | 0 | Python | 2026-07-09 | AI Agent 认知增强系统 — 持久记忆、知识图谱、SimHash语义搜索、自检修复 |
+| 10 | [TonCerqueira/MiroThinker](https://github.com/TonCerqueira/MiroThinker) | 1 | Python | 2026-07-09 | 🧠 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration  |
+| 11 | [thesiddguy/GenAI](https://github.com/thesiddguy/GenAI) | 0 | HTML | 2026-07-09 | 📄 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa |
+| 12 | [THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow](https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow) | 0 | Python | 2026-07-09 | 🚀 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro |
+| 13 | [Habitat-Thinking/hands-on-agent-development](https://github.com/Habitat-Thinking/hands-on-agent-development) | 0 | Java | 2026-07-09 | A full-day hands-on workshop for building safe, explainable, domain-grounded AI agents — a goal-oriented Embabel (Java)  |
+| 14 | [Kortecx/kortecx](https://github.com/Kortecx/kortecx) | 5 | Rust | 2026-07-09 | kortecx — the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure |
+| 15 | [fangzheng698-lang/agent-prod](https://github.com/fangzheng698-lang/agent-prod) | 2 | Python | 2026-07-09 | Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel |
+| 16 | [yassineelfakiri/agentpg](https://github.com/yassineelfakiri/agentpg) | 0 | Go | 2026-07-09 | 🤖 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by |
+| 17 | [q-j0k/sprintloop-orchestration](https://github.com/q-j0k/sprintloop-orchestration) | 1 | — | 2026-07-09 | 🚀 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents  |
+| 18 | [pt9912/belief-agent](https://github.com/pt9912/belief-agent) | 1 | Kotlin | 2026-07-09 | Agenten-Framework, das Unsicherheit explizit als Belief State über Hypothesen modelliert, Evidenz bayesianisch verarbeit |
+| 19 | [RikyZ90/ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | 77 | Python | 2026-07-09 | 🐕 Self-hosted security-first AI agent · 23 providers · 11 chat channels · WebUI · 3-level memory · task-schedule · autom |
+| 20 | [aomi-labs/aomi](https://github.com/aomi-labs/aomi) | 8 | TypeScript | 2026-07-09 | The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library. |
+| 21 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 6894 | Python | 2026-07-09 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
 | 22 | [achappey/aihappey-chat](https://github.com/achappey/aihappey-chat) | 3 | TypeScript | 2026-07-09 | Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a |
 | 23 | [JohnnyFiv3r/Core-Memory](https://github.com/JohnnyFiv3r/Core-Memory) | 20 | Python | 2026-07-09 | Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection. |
 | 24 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-07-09 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
