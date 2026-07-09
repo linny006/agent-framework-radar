@@ -1,12 +1,57 @@
 [
   {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-09T19:59:27Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-09T19:59:16Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "TypeScript agent orchestration engine built on a Cyclic State Graph. Compound learning across runs, durable execution, M",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 2,
+    "updated_at": "2026-07-09T19:58:48Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "\u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u044b \u043d\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b, \u0430 \u043a\u043e\u043b\u043b\u0435\u0433\u0438",
+    "id": "FraN-arti/SynPin",
+    "language": "Python",
+    "name": "FraN-arti/SynPin",
+    "stars": 0,
+    "updated_at": "2026-07-09T19:58:27Z",
+    "url": "https://github.com/FraN-arti/SynPin"
+  },
+  {
+    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 2,
+    "updated_at": "2026-07-09T19:59:13Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Nuwa \u2014 a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
+    "id": "LucioLiu/nuwa",
+    "language": "\u2014",
+    "name": "LucioLiu/nuwa",
     "stars": 1,
-    "updated_at": "2026-07-09T19:44:51Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+    "updated_at": "2026-07-09T19:52:10Z",
+    "url": "https://github.com/LucioLiu/nuwa"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
@@ -14,7 +59,7 @@
     "language": "Kotlin",
     "name": "Deep-CodeAI/Agents.KT",
     "stars": 14,
-    "updated_at": "2026-07-09T19:45:00Z",
+    "updated_at": "2026-07-09T19:51:09Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
@@ -23,8 +68,62 @@
     "language": "TeX",
     "name": "v2-io/agentic-systems",
     "stars": 2,
-    "updated_at": "2026-07-09T19:43:15Z",
+    "updated_at": "2026-07-09T19:50:16Z",
     "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 115,
+    "updated_at": "2026-07-09T19:50:00Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "A governed multi-agent framework built on git",
+    "id": "cordfuse/politik",
+    "language": "\u2014",
+    "name": "cordfuse/politik",
+    "stars": 0,
+    "updated_at": "2026-07-09T19:49:40Z",
+    "url": "https://github.com/cordfuse/politik"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-07-09T19:46:11Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
+    "id": "0bserver07/chimera",
+    "language": "Python",
+    "name": "0bserver07/chimera",
+    "stars": 2,
+    "updated_at": "2026-07-09T19:45:43Z",
+    "url": "https://github.com/0bserver07/chimera"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-09T19:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-07-09T19:44:51Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -41,7 +140,7 @@
     "language": "Rust",
     "name": "George-RD/openspine",
     "stars": 0,
-    "updated_at": "2026-07-09T19:39:37Z",
+    "updated_at": "2026-07-09T19:57:13Z",
     "url": "https://github.com/George-RD/openspine"
   },
   {
@@ -54,29 +153,11 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "\u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u044b \u043d\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b, \u0430 \u043a\u043e\u043b\u043b\u0435\u0433\u0438",
-    "id": "FraN-arti/SynPin",
-    "language": "Python",
-    "name": "FraN-arti/SynPin",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:38:37Z",
-    "url": "https://github.com/FraN-arti/SynPin"
-  },
-  {
-    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 2,
-    "updated_at": "2026-07-09T19:40:29Z",
-    "url": "https://github.com/ionalpha/flynn"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6914,
+    "stars": 6915,
     "updated_at": "2026-07-09T19:35:18Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -88,15 +169,6 @@
     "stars": 573,
     "updated_at": "2026-07-09T19:34:44Z",
     "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-09T19:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -178,24 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T19:17:45Z",
     "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
-    "description": "A governed multi-agent framework built on git",
-    "id": "cordfuse/politik",
-    "language": "\u2014",
-    "name": "cordfuse/politik",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:14:43Z",
-    "url": "https://github.com/cordfuse/politik"
-  },
-  {
-    "description": "Nuwa \u2014 a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
-    "id": "LucioLiu/nuwa",
-    "language": "\u2014",
-    "name": "LucioLiu/nuwa",
-    "stars": 1,
-    "updated_at": "2026-07-09T19:12:32Z",
-    "url": "https://github.com/LucioLiu/nuwa"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -306,15 +360,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 115,
-    "updated_at": "2026-07-09T19:40:20Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -378,15 +423,6 @@
     "url": "https://github.com/kdcube/kdcube"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-09T17:59:31Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
     "id": "inkeep/agents",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T17:48:59Z",
     "url": "https://github.com/Tiny-Bubble-Company/rails-agents"
-  },
-  {
-    "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
-    "id": "ranxi2001/zero2Agent",
-    "language": "HTML",
-    "name": "ranxi2001/zero2Agent",
-    "stars": 158,
-    "updated_at": "2026-07-09T17:37:19Z",
-    "url": "https://github.com/ranxi2001/zero2Agent"
-  },
-  {
-    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
-    "id": "0bserver07/chimera",
-    "language": "Python",
-    "name": "0bserver07/chimera",
-    "stars": 2,
-    "updated_at": "2026-07-09T17:34:40Z",
-    "url": "https://github.com/0bserver07/chimera"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-07-09T17:31:21Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 590,
-    "updated_at": "2026-07-09T17:29:52Z",
-    "url": "https://github.com/framerslab/agentos"
   }
 ]
