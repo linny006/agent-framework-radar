@@ -1,5 +1,104 @@
 [
   {
+    "description": "A governed multi-agent framework built on git",
+    "id": "cordfuse/politik",
+    "language": "\u2014",
+    "name": "cordfuse/politik",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:14:01Z",
+    "url": "https://github.com/cordfuse/politik"
+  },
+  {
+    "description": "Open Agent Communication Network - Fork of acn on fetchai/agents-aea",
+    "id": "valory-xyz/open-acn",
+    "language": "Go",
+    "name": "valory-xyz/open-acn",
+    "stars": 21,
+    "updated_at": "2026-07-09T20:13:48Z",
+    "url": "https://github.com/valory-xyz/open-acn"
+  },
+  {
+    "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
+    "id": "bigbraingoldfish/lullabeast",
+    "language": "Python",
+    "name": "bigbraingoldfish/lullabeast",
+    "stars": 11,
+    "updated_at": "2026-07-09T20:13:04Z",
+    "url": "https://github.com/bigbraingoldfish/lullabeast"
+  },
+  {
+    "description": "\u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u044b \u043d\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b, \u0430 \u043a\u043e\u043b\u043b\u0435\u0433\u0438",
+    "id": "FraN-arti/SynPin",
+    "language": "Python",
+    "name": "FraN-arti/SynPin",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:12:21Z",
+    "url": "https://github.com/FraN-arti/SynPin"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 222,
+    "updated_at": "2026-07-09T20:12:09Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Helix gives you agents that actually behave in production: hard budget limits, semantic caching that cuts API costs by 4",
+    "id": "sarcasticdhruv/helix-agent",
+    "language": "Python",
+    "name": "sarcasticdhruv/helix-agent",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:10:36Z",
+    "url": "https://github.com/sarcasticdhruv/helix-agent"
+  },
+  {
+    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 2,
+    "updated_at": "2026-07-09T20:12:11Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Nuwa \u2014 a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
+    "id": "LucioLiu/nuwa",
+    "language": "\u2014",
+    "name": "LucioLiu/nuwa",
+    "stars": 1,
+    "updated_at": "2026-07-09T20:05:29Z",
+    "url": "https://github.com/LucioLiu/nuwa"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6499,
+    "updated_at": "2026-07-09T20:03:05Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
+    "id": "George-RD/openspine",
+    "language": "Rust",
+    "name": "George-RD/openspine",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:02:06Z",
+    "url": "https://github.com/George-RD/openspine"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-09T20:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -25,33 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-09T19:58:48Z",
     "url": "https://github.com/wmcmahan/cycgraph"
-  },
-  {
-    "description": "\u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u044b \u043d\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b, \u0430 \u043a\u043e\u043b\u043b\u0435\u0433\u0438",
-    "id": "FraN-arti/SynPin",
-    "language": "Python",
-    "name": "FraN-arti/SynPin",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:58:27Z",
-    "url": "https://github.com/FraN-arti/SynPin"
-  },
-  {
-    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 2,
-    "updated_at": "2026-07-09T19:59:13Z",
-    "url": "https://github.com/ionalpha/flynn"
-  },
-  {
-    "description": "Nuwa \u2014 a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
-    "id": "LucioLiu/nuwa",
-    "language": "\u2014",
-    "name": "LucioLiu/nuwa",
-    "stars": 1,
-    "updated_at": "2026-07-09T19:52:10Z",
-    "url": "https://github.com/LucioLiu/nuwa"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
@@ -81,15 +153,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "A governed multi-agent framework built on git",
-    "id": "cordfuse/politik",
-    "language": "\u2014",
-    "name": "cordfuse/politik",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:49:40Z",
-    "url": "https://github.com/cordfuse/politik"
-  },
-  {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
     "id": "codewandler/flux",
     "language": "Rust",
@@ -108,15 +171,6 @@
     "url": "https://github.com/0bserver07/chimera"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-09T19:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -130,18 +184,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26528,
+    "stars": 26529,
     "updated_at": "2026-07-09T19:40:59Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
-    "id": "George-RD/openspine",
-    "language": "Rust",
-    "name": "George-RD/openspine",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:57:13Z",
-    "url": "https://github.com/George-RD/openspine"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -157,7 +202,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6915,
+    "stars": 6917,
     "updated_at": "2026-07-09T19:35:18Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -198,15 +243,6 @@
     "url": "https://github.com/Zuga-Technologies/zugamind"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6499,
-    "updated_at": "2026-07-09T19:20:17Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
     "id": "Kortecx/kortecx",
     "language": "Rust",
@@ -214,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-07-09T19:20:10Z",
     "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
-    "id": "bigbraingoldfish/lullabeast",
-    "language": "Python",
-    "name": "bigbraingoldfish/lullabeast",
-    "stars": 11,
-    "updated_at": "2026-07-09T19:19:35Z",
-    "url": "https://github.com/bigbraingoldfish/lullabeast"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -250,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T19:17:45Z",
     "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 222,
-    "updated_at": "2026-07-09T18:58:50Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -304,6 +322,15 @@
     "stars": 106,
     "updated_at": "2026-07-09T18:48:26Z",
     "url": "https://github.com/OrlojHQ/orloj"
+  },
+  {
+    "description": "An agent = model + harness. A .NET 10 framework where guides shape the model's context each turn and sensors guard every",
+    "id": "AnilKerai/model-harness",
+    "language": "C#",
+    "name": "AnilKerai/model-harness",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:41:58Z",
+    "url": "https://github.com/AnilKerai/model-harness"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -421,32 +448,5 @@
     "stars": 11,
     "updated_at": "2026-07-09T18:03:55Z",
     "url": "https://github.com/kdcube/kdcube"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1271,
-    "updated_at": "2026-07-09T19:37:02Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "A full-day hands-on workshop for building safe, explainable, domain-grounded AI agents \u2014 a goal-oriented Embabel (Java) ",
-    "id": "Habitat-Thinking/hands-on-agent-development",
-    "language": "Java",
-    "name": "Habitat-Thinking/hands-on-agent-development",
-    "stars": 0,
-    "updated_at": "2026-07-09T17:54:55Z",
-    "url": "https://github.com/Habitat-Thinking/hands-on-agent-development"
-  },
-  {
-    "description": "Dead-simple AI agents for Rails (gem: rails-agent-stack) \u2014 speed to production, not framework noise. Lighter alternative",
-    "id": "Tiny-Bubble-Company/rails-agents",
-    "language": "Ruby",
-    "name": "Tiny-Bubble-Company/rails-agents",
-    "stars": 0,
-    "updated_at": "2026-07-09T17:48:59Z",
-    "url": "https://github.com/Tiny-Bubble-Company/rails-agents"
   }
 ]
