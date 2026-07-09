@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [roackb2/heddle](https://github.com/roackb2/heddle) | 17 | TypeScript | 2026-07-09 | An open-source terminal coding agent runtime and CLI for real project work. |
-| 2 | [OrlojHQ/orloj](https://github.com/OrlojHQ/orloj) | 106 | Go | 2026-07-09 | An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu |
-| 3 | [akyourowngames/friday](https://github.com/akyourowngames/friday) | 2 | Python | 2026-07-09 | Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/ |
-| 4 | [cortexkit/aft](https://github.com/cortexkit/aft) | 191 | Rust | 2026-07-09 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 5 | [cordum-io/cordum](https://github.com/cordum-io/cordum) | 490 | Go | 2026-07-09 | The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud |
-| 6 | [JohnnyFiv3r/Core-Memory](https://github.com/JohnnyFiv3r/Core-Memory) | 20 | Python | 2026-07-09 | Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection. |
-| 7 | [kdcube/kdcube](https://github.com/kdcube/kdcube) | 11 | Python | 2026-07-09 | Open-source multi-tenant agent runtime for production. Tenant isolation, per-user cost controls, dual-sandbox security,  |
-| 8 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 573 | TypeScript | 2026-07-09 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
-| 9 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-09 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-09 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [roackb2/heddle](https://github.com/roackb2/heddle) | 17 | TypeScript | 2026-07-09 | An open-source terminal coding agent runtime and CLI for real project work. |
+| 3 | [OrlojHQ/orloj](https://github.com/OrlojHQ/orloj) | 106 | Go | 2026-07-09 | An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu |
+| 4 | [akyourowngames/friday](https://github.com/akyourowngames/friday) | 2 | Python | 2026-07-09 | Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/ |
+| 5 | [cortexkit/aft](https://github.com/cortexkit/aft) | 191 | Rust | 2026-07-09 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 6 | [cordum-io/cordum](https://github.com/cordum-io/cordum) | 490 | Go | 2026-07-09 | The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and aud |
+| 7 | [JohnnyFiv3r/Core-Memory](https://github.com/JohnnyFiv3r/Core-Memory) | 20 | Python | 2026-07-09 | Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection. |
+| 8 | [kdcube/kdcube](https://github.com/kdcube/kdcube) | 11 | Python | 2026-07-09 | Open-source multi-tenant agent runtime for production. Tenant isolation, per-user cost controls, dual-sandbox security,  |
+| 9 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | 573 | TypeScript | 2026-07-09 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
 | 10 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-07-09 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
 | 11 | [LucioLiu/nuwa](https://github.com/LucioLiu/nuwa) | 1 | — | 2026-07-09 | Nuwa — a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team |
 | 12 | [inkeep/agents](https://github.com/inkeep/agents) | 1271 | TypeScript | 2026-07-09 | Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult |
