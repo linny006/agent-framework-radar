@@ -1,5 +1,113 @@
 [
   {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 14,
+    "updated_at": "2026-07-09T15:11:56Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
+    "description": "Run AI agents as a governed, multi-session, multi-machine system \u2014 a production implementation of the long-running-agent",
+    "id": "Busa-Legacies/metis-framework",
+    "language": "Python",
+    "name": "Busa-Legacies/metis-framework",
+    "stars": 0,
+    "updated_at": "2026-07-09T15:08:10Z",
+    "url": "https://github.com/Busa-Legacies/metis-framework"
+  },
+  {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/cli",
+    "language": "TypeScript",
+    "name": "agents-inc/cli",
+    "stars": 2,
+    "updated_at": "2026-07-09T15:06:17Z",
+    "url": "https://github.com/agents-inc/cli"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-07-09T15:06:14Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "A vetted list of AI agent tools and systems. Every entry is checked against published criteria, and removed when it stop",
+    "id": "ionalpha/awesome-agents",
+    "language": "\u2014",
+    "name": "ionalpha/awesome-agents",
+    "stars": 0,
+    "updated_at": "2026-07-09T15:14:16Z",
+    "url": "https://github.com/ionalpha/awesome-agents"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 3,
+    "updated_at": "2026-07-09T15:05:41Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 5,
+    "updated_at": "2026-07-09T15:04:54Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6498,
+    "updated_at": "2026-07-09T15:04:17Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8878,
+    "updated_at": "2026-07-09T15:03:16Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 218,
+    "updated_at": "2026-07-09T15:01:13Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-09T15:00:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open source Golang LLM Proxy, Agent SDK with Restate & Temporal support for durable agent loop",
+    "id": "hastekit/hastekit-sdk-go",
+    "language": "Go",
+    "name": "hastekit/hastekit-sdk-go",
+    "stars": 12,
+    "updated_at": "2026-07-09T15:00:13Z",
+    "url": "https://github.com/hastekit/hastekit-sdk-go"
+  },
+  {
     "description": "A self-hosted agent operating system in a single Go binary. Bring any model, manage local models, point it at a goal, an",
     "id": "ionalpha/flynn",
     "language": "Go",
@@ -14,7 +122,7 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 20,
-    "updated_at": "2026-07-09T14:58:02Z",
+    "updated_at": "2026-07-09T15:01:25Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -45,15 +153,6 @@
     "url": "https://github.com/0bserver07/chimera"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6498,
-    "updated_at": "2026-07-09T14:55:30Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -81,15 +180,6 @@
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
-    "description": "Run AI agents as a governed, multi-session, multi-machine system \u2014 a production implementation of the long-running-agent",
-    "id": "Busa-Legacies/metis-framework",
-    "language": "Python",
-    "name": "Busa-Legacies/metis-framework",
-    "stars": 0,
-    "updated_at": "2026-07-09T14:50:26Z",
-    "url": "https://github.com/Busa-Legacies/metis-framework"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -97,15 +187,6 @@
     "stars": 152,
     "updated_at": "2026-07-09T14:49:46Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-07-09T14:47:22Z",
-    "url": "https://github.com/codewandler/flux"
   },
   {
     "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
@@ -117,21 +198,12 @@
     "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-09T14:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-09T15:00:16Z",
+    "updated_at": "2026-07-09T15:13:18Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -243,15 +315,6 @@
     "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
   },
   {
-    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
-    "id": "agents-inc/cli",
-    "language": "TypeScript",
-    "name": "agents-inc/cli",
-    "stars": 2,
-    "updated_at": "2026-07-09T14:19:56Z",
-    "url": "https://github.com/agents-inc/cli"
-  },
-  {
     "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
     "id": "gatherfigtree740/ai-agent-landscape",
     "language": "\u2014",
@@ -295,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T14:14:37Z",
     "url": "https://github.com/kokorubbong/agenticqa-scan-action"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 218,
-    "updated_at": "2026-07-09T14:12:31Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "Provide practical AI interview questions focused on production deployment in real-world MENA enterprise environments.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T14:06:51Z",
     "url": "https://github.com/Hundred-praisworthiness384/DomainOS"
-  },
-  {
-    "description": "Manage autonomous AI agents at scale with persistent sessions, tool access, and safe human oversight in an efficient, sc",
-    "id": "Bohra-Nitin/AgentManager",
-    "language": "\u2014",
-    "name": "Bohra-Nitin/AgentManager",
-    "stars": 0,
-    "updated_at": "2026-07-09T14:06:35Z",
-    "url": "https://github.com/Bohra-Nitin/AgentManager"
-  },
-  {
-    "description": "\ud83e\udd16 Build AI agents with Go featuring multi-agent orchestration, planning, tool use, and support for Gemini, OpenAI, Anthr",
-    "id": "Luiz184/gokin-sdk",
-    "language": "Go",
-    "name": "Luiz184/gokin-sdk",
-    "stars": 2,
-    "updated_at": "2026-07-09T14:04:48Z",
-    "url": "https://github.com/Luiz184/gokin-sdk"
-  },
-  {
-    "description": "Homeostasis controller \u2014 three-pillar regulation (operational, cognitive, economic) with hysteresis gates. Part of the L",
-    "id": "broomva/autonomic",
-    "language": "Rust",
-    "name": "broomva/autonomic",
-    "stars": 2,
-    "updated_at": "2026-07-09T14:03:03Z",
-    "url": "https://github.com/broomva/autonomic"
-  },
-  {
-    "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
-    "id": "broomva/life",
-    "language": "Rust",
-    "name": "broomva/life",
-    "stars": 1,
-    "updated_at": "2026-07-09T14:06:47Z",
-    "url": "https://github.com/broomva/life"
-  },
-  {
-    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
-    "id": "tareksyria/SREAgents",
-    "language": "JavaScript",
-    "name": "tareksyria/SREAgents",
-    "stars": 2,
-    "updated_at": "2026-07-09T14:02:37Z",
-    "url": "https://github.com/tareksyria/SREAgents"
-  },
-  {
-    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
-    "id": "RONIN511/alphora",
-    "language": "Python",
-    "name": "RONIN511/alphora",
-    "stars": 2,
-    "updated_at": "2026-07-09T13:59:32Z",
-    "url": "https://github.com/RONIN511/alphora"
   }
 ]
