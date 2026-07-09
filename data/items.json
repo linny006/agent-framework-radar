@@ -1,12 +1,75 @@
 [
   {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 6,
+    "updated_at": "2026-07-09T09:58:37Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 71,
+    "updated_at": "2026-07-09T09:58:09Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6845,
+    "updated_at": "2026-07-09T09:54:17Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 5,
+    "updated_at": "2026-07-09T09:51:05Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:49:26Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:48:25Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
     "stars": 218,
-    "updated_at": "2026-07-09T09:43:26Z",
+    "updated_at": "2026-07-09T09:47:54Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-09T09:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Official BisQue Ultra Platform",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T09:41:32Z",
     "url": "https://github.com/Lesz-Xi/twin-sparrow-agent-adapter"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6842,
-    "updated_at": "2026-07-09T09:45:10Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Personal Ai Agent",
@@ -99,24 +153,6 @@
     "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-09T09:30:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 6,
-    "updated_at": "2026-07-09T09:41:33Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "Azure-Samples/foundry-hosted-agents-workshop",
     "stars": 3,
-    "updated_at": "2026-07-09T09:17:58Z",
+    "updated_at": "2026-07-09T09:48:32Z",
     "url": "https://github.com/Azure-Samples/foundry-hosted-agents-workshop"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 75,
     "updated_at": "2026-07-09T08:54:24Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-07-09T08:54:07Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11979,
-    "updated_at": "2026-07-09T08:53:02Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 1,
-    "updated_at": "2026-07-09T08:52:26Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-07-09T08:52:17Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
   }
 ]
