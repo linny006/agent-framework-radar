@@ -1,12 +1,39 @@
 [
   {
+    "description": "ElBot landing page \u2014 Let It Feel Everything",
+    "id": "Elfreese/elbot-landing",
+    "language": "CSS",
+    "name": "Elfreese/elbot-landing",
+    "stars": 0,
+    "updated_at": "2026-07-09T01:58:06Z",
+    "url": "https://github.com/Elfreese/elbot-landing"
+  },
+  {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
     "id": "dshakes/lantern",
     "language": "TypeScript",
     "name": "dshakes/lantern",
     "stars": 0,
-    "updated_at": "2026-07-09T01:44:43Z",
+    "updated_at": "2026-07-09T01:57:54Z",
     "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11961,
+    "updated_at": "2026-07-09T01:56:35Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-09T01:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -16,15 +43,6 @@
     "stars": 9,
     "updated_at": "2026-07-09T01:43:13Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "ElBot landing page \u2014 Let It Feel Everything",
-    "id": "Elfreese/elbot-landing",
-    "language": "CSS",
-    "name": "Elfreese/elbot-landing",
-    "stars": 0,
-    "updated_at": "2026-07-09T01:41:23Z",
-    "url": "https://github.com/Elfreese/elbot-landing"
   },
   {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-09T01:40:06Z",
+    "updated_at": "2026-07-09T01:55:44Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -72,15 +90,6 @@
     "url": "https://github.com/codewandler/flux"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-09T01:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
     "id": "CocoRoF/geny-executor",
     "language": "Python",
@@ -94,7 +103,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26436,
+    "stars": 26440,
     "updated_at": "2026-07-09T01:24:21Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -157,7 +166,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6782,
+    "stars": 6784,
     "updated_at": "2026-07-09T01:12:02Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T00:36:02Z",
     "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-09T00:35:57Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
   }
 ]
