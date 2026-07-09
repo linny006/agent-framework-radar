@@ -1,12 +1,66 @@
 [
   {
-    "description": "Dead-simple AI agents for Rails (gem: rails-agent-stack) \u2014 speed to production, not framework noise. Lighter alternative",
-    "id": "Tiny-Bubble-Company/rails-agents",
-    "language": "Ruby",
-    "name": "Tiny-Bubble-Company/rails-agents",
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
     "stars": 0,
-    "updated_at": "2026-07-09T17:44:56Z",
-    "url": "https://github.com/Tiny-Bubble-Company/rails-agents"
+    "updated_at": "2026-07-09T17:59:31Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Nuwa \u2014 a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
+    "id": "LucioLiu/nuwa",
+    "language": "\u2014",
+    "name": "LucioLiu/nuwa",
+    "stars": 1,
+    "updated_at": "2026-07-09T17:56:44Z",
+    "url": "https://github.com/LucioLiu/nuwa"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1271,
+    "updated_at": "2026-07-09T17:57:08Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
+    "id": "ntorga/agent-starter-kit",
+    "language": "Shell",
+    "name": "ntorga/agent-starter-kit",
+    "stars": 120,
+    "updated_at": "2026-07-09T17:55:22Z",
+    "url": "https://github.com/ntorga/agent-starter-kit"
+  },
+  {
+    "description": "A full-day hands-on workshop for building safe, explainable, domain-grounded AI agents \u2014 a goal-oriented Embabel (Java) ",
+    "id": "Habitat-Thinking/hands-on-agent-development",
+    "language": "Java",
+    "name": "Habitat-Thinking/hands-on-agent-development",
+    "stars": 0,
+    "updated_at": "2026-07-09T17:54:55Z",
+    "url": "https://github.com/Habitat-Thinking/hands-on-agent-development"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-07-09T17:54:39Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
+    "id": "SmooAI/smooth-operator",
+    "language": "Rust",
+    "name": "SmooAI/smooth-operator",
+    "stars": 1,
+    "updated_at": "2026-07-09T17:50:52Z",
+    "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 23 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
@@ -14,8 +68,26 @@
     "language": "Python",
     "name": "RikyZ90/ShibaClaw",
     "stars": 77,
-    "updated_at": "2026-07-09T17:43:55Z",
+    "updated_at": "2026-07-09T17:51:19Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-09T17:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Dead-simple AI agents for Rails (gem: rails-agent-stack) \u2014 speed to production, not framework noise. Lighter alternative",
+    "id": "Tiny-Bubble-Company/rails-agents",
+    "language": "Ruby",
+    "name": "Tiny-Bubble-Company/rails-agents",
+    "stars": 0,
+    "updated_at": "2026-07-09T17:48:59Z",
+    "url": "https://github.com/Tiny-Bubble-Company/rails-agents"
   },
   {
     "description": "An agent runtime.",
@@ -32,17 +104,8 @@
     "language": "TypeScript",
     "name": "aaronjmars/aeon",
     "stars": 573,
-    "updated_at": "2026-07-09T17:39:06Z",
+    "updated_at": "2026-07-09T17:59:24Z",
     "url": "https://github.com/aaronjmars/aeon"
-  },
-  {
-    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
-    "id": "SmooAI/smooth-operator",
-    "language": "Rust",
-    "name": "SmooAI/smooth-operator",
-    "stars": 1,
-    "updated_at": "2026-07-09T17:37:27Z",
-    "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
     "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
@@ -63,15 +126,6 @@
     "url": "https://github.com/0bserver07/chimera"
   },
   {
-    "description": "A full-day hands-on workshop for building safe, explainable, domain-grounded AI agents \u2014 a goal-oriented Embabel (Java) ",
-    "id": "Habitat-Thinking/hands-on-agent-development",
-    "language": "Java",
-    "name": "Habitat-Thinking/hands-on-agent-development",
-    "stars": 0,
-    "updated_at": "2026-07-09T17:33:25Z",
-    "url": "https://github.com/Habitat-Thinking/hands-on-agent-development"
-  },
-  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
@@ -79,15 +133,6 @@
     "stars": 9,
     "updated_at": "2026-07-09T17:31:21Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-09T17:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
@@ -202,7 +247,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26526,
+    "stars": 26525,
     "updated_at": "2026-07-09T17:10:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -232,15 +277,6 @@
     "stars": 20,
     "updated_at": "2026-07-09T17:30:02Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "Nuwa \u2014 a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
-    "id": "LucioLiu/nuwa",
-    "language": "\u2014",
-    "name": "LucioLiu/nuwa",
-    "stars": 1,
-    "updated_at": "2026-07-09T17:07:52Z",
-    "url": "https://github.com/LucioLiu/nuwa"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-09T16:51:59Z",
     "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:51:33Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:50:54Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
-    "id": "Ibisselfgovernment28/v1-multiagent-articles",
-    "language": "\u2014",
-    "name": "Ibisselfgovernment28/v1-multiagent-articles",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:47:56Z",
-    "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 221,
-    "updated_at": "2026-07-09T16:47:45Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   }
 ]
