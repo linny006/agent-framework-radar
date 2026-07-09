@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 218,
+    "updated_at": "2026-07-09T13:05:15Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-09T13:04:27Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
+    "id": "the-long-ride/engram",
+    "language": "TypeScript",
+    "name": "the-long-ride/engram",
+    "stars": 5,
+    "updated_at": "2026-07-09T13:04:26Z",
+    "url": "https://github.com/the-long-ride/engram"
+  },
+  {
+    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
+    "id": "firatcand/roster",
+    "language": "TypeScript",
+    "name": "firatcand/roster",
+    "stars": 14,
+    "updated_at": "2026-07-09T12:59:29Z",
+    "url": "https://github.com/firatcand/roster"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-09T12:57:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T12:51:42Z",
     "url": "https://github.com/Habitat-Thinking/hands-on-agent-development"
-  },
-  {
-    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
-    "id": "firatcand/roster",
-    "language": "TypeScript",
-    "name": "firatcand/roster",
-    "stars": 14,
-    "updated_at": "2026-07-09T12:50:48Z",
-    "url": "https://github.com/firatcand/roster"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -94,7 +130,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 6866,
+    "stars": 6867,
     "updated_at": "2026-07-09T12:30:31Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -126,15 +162,6 @@
     "url": "https://github.com/shimo4228/agent-knowledge-cycle"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 218,
-    "updated_at": "2026-07-09T12:22:55Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
     "id": "achappey/aihappey-chat",
     "language": "TypeScript",
@@ -151,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T12:16:21Z",
     "url": "https://github.com/LucioLiu/nuwa"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-09T12:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -232,15 +250,6 @@
     "stars": 152,
     "updated_at": "2026-07-09T11:53:50Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-09T12:56:41Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T11:31:46Z",
     "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-07-09T11:31:41Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
   }
 ]
