@@ -1,5 +1,86 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6823,
+    "updated_at": "2026-07-09T07:14:30Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 71,
+    "updated_at": "2026-07-09T07:14:20Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Substructure is an engine for building durable, long-running AI agents using only a stateless HTTP endpoint hosted on yo",
+    "id": "substructureai/substructure",
+    "language": "Rust",
+    "name": "substructureai/substructure",
+    "stars": 5,
+    "updated_at": "2026-07-09T07:13:42Z",
+    "url": "https://github.com/substructureai/substructure"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 11975,
+    "updated_at": "2026-07-09T07:10:47Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Personal Ai Agent",
+    "id": "br3eze-code/br3eze-code",
+    "language": "JavaScript",
+    "name": "br3eze-code/br3eze-code",
+    "stars": 2,
+    "updated_at": "2026-07-09T07:08:04Z",
+    "url": "https://github.com/br3eze-code/br3eze-code"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-09T07:14:13Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 9,
+    "updated_at": "2026-07-09T07:04:48Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "Architecture for autonomous agent organizations: minimally sufficient teams per mission. Director, parametric sizing, Wo",
+    "id": "devmrbouh-hub/MorphEnterprise",
+    "language": "\u2014",
+    "name": "devmrbouh-hub/MorphEnterprise",
+    "stars": 1,
+    "updated_at": "2026-07-09T07:03:57Z",
+    "url": "https://github.com/devmrbouh-hub/MorphEnterprise"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-09T07:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Connect AI agents like code. A provider-agnostic multi-agent orchestration library + Claude Code plugin \u2014 compose any ag",
     "id": "sancovp/cave-teams",
     "language": "Python",
@@ -7,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T06:55:13Z",
     "url": "https://github.com/sancovp/cave-teams"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6822,
-    "updated_at": "2026-07-09T06:59:36Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Agent adapter for Twin-Sparrow \u2014 compact runtime capsules per turn instead of full doctrine replay, and a verification g",
@@ -81,24 +153,6 @@
     "url": "https://github.com/inkeep/agents"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-09T06:45:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 71,
-    "updated_at": "2026-07-09T06:44:58Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Open-source, self-hosted platform to visually build, test, and ship AI agents & workflows. Built on LangChain v1 + LangG",
     "id": "nihalashetty/Forge",
     "language": "Python",
@@ -135,15 +189,6 @@
     "url": "https://github.com/plaited/plaited"
   },
   {
-    "description": "Architecture for autonomous agent organizations: minimally sufficient teams per mission. Director, parametric sizing, Wo",
-    "id": "devmrbouh-hub/MorphEnterprise",
-    "language": "\u2014",
-    "name": "devmrbouh-hub/MorphEnterprise",
-    "stars": 1,
-    "updated_at": "2026-07-09T06:33:00Z",
-    "url": "https://github.com/devmrbouh-hub/MorphEnterprise"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -166,8 +211,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26473,
-    "updated_at": "2026-07-09T06:28:49Z",
+    "stars": 26475,
+    "updated_at": "2026-07-09T07:13:28Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -207,15 +252,6 @@
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 11974,
-    "updated_at": "2026-07-09T07:00:15Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
     "id": "Asceticrefractoryperiod28/Foundry",
     "language": "TypeScript",
@@ -239,7 +275,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-07-09T06:44:52Z",
+    "updated_at": "2026-07-09T07:04:40Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-09T05:58:12Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-07-09T05:57:54Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": " Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution.",
-    "id": "longyijdos/kana",
-    "language": "TypeScript",
-    "name": "longyijdos/kana",
-    "stars": 1,
-    "updated_at": "2026-07-09T05:55:16Z",
-    "url": "https://github.com/longyijdos/kana"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-09T05:54:18Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-07-09T05:52:15Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
