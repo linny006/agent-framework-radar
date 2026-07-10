@@ -1,12 +1,12 @@
 [
   {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 653,
-    "updated_at": "2026-07-10T12:45:04Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+    "description": "An agent = model + harness. A .NET 10 framework where guides shape the model's context each turn and sensors guard every",
+    "id": "AnilKerai/model-harness",
+    "language": "C#",
+    "name": "AnilKerai/model-harness",
+    "stars": 0,
+    "updated_at": "2026-07-10T12:58:47Z",
+    "url": "https://github.com/AnilKerai/model-harness"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,8 +14,80 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-10T12:45:00Z",
+    "updated_at": "2026-07-10T12:58:17Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Open-source multi-tenant agent runtime for production. Tenant isolation, per-user cost controls, dual-sandbox security, ",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 11,
+    "updated_at": "2026-07-10T12:55:27Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "Contemplative Agent (CA) \u2014 a CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs, with contemplative",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 5,
+    "updated_at": "2026-07-10T12:55:16Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 284,
+    "updated_at": "2026-07-10T12:57:05Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-10T12:53:50Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 653,
+    "updated_at": "2026-07-10T12:59:19Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
+    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 2,
+    "updated_at": "2026-07-10T12:49:10Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
+    "id": "shipiit/shipit_agent",
+    "language": "Python",
+    "name": "shipiit/shipit_agent",
+    "stars": 2,
+    "updated_at": "2026-07-10T12:46:01Z",
+    "url": "https://github.com/shipiit/shipit_agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-10T12:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
@@ -54,15 +126,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-10T12:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Source-available Harness AI / Agent OS for teams building governed agent applications \u2014 with Nexus orchestration, policy",
     "id": "jakbuczarnecki/intergrax",
     "language": "Python",
@@ -70,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-07-10T12:28:08Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
-    "id": "shipiit/shipit_agent",
-    "language": "Python",
-    "name": "shipiit/shipit_agent",
-    "stars": 2,
-    "updated_at": "2026-07-10T12:27:31Z",
-    "url": "https://github.com/shipiit/shipit_agent"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-10T12:39:03Z",
+    "updated_at": "2026-07-10T12:58:54Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -178,15 +232,6 @@
     "stars": 489,
     "updated_at": "2026-07-10T12:31:33Z",
     "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 2,
-    "updated_at": "2026-07-10T12:38:51Z",
-    "url": "https://github.com/ionalpha/flynn"
   },
   {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
@@ -351,15 +396,6 @@
     "url": "https://github.com/muhamedali7713/agent-audit"
   },
   {
-    "description": "Contemplative Agent (CA) \u2014 a CLI agent that runs a six-phase knowledge cycle (AKC) over its own logs, with contemplative",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 5,
-    "updated_at": "2026-07-10T11:34:16Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
     "id": "floccose-burner9185/wow-harness",
     "language": "Python",
@@ -410,43 +446,7 @@
     "language": "TypeScript",
     "name": "sweatco/archie-hq",
     "stars": 15,
-    "updated_at": "2026-07-10T12:07:05Z",
+    "updated_at": "2026-07-10T13:00:02Z",
     "url": "https://github.com/sweatco/archie-hq"
-  },
-  {
-    "description": "Event-sourced agent engine \u2014 CLI and Python bindings for auditable AI workflows",
-    "id": "metravod/zymi-core",
-    "language": "Rust",
-    "name": "metravod/zymi-core",
-    "stars": 7,
-    "updated_at": "2026-07-10T11:36:55Z",
-    "url": "https://github.com/metravod/zymi-core"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-07-10T11:31:37Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-07-10T11:31:17Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 3,
-    "updated_at": "2026-07-10T11:31:12Z",
-    "url": "https://github.com/daretodave/nexus"
   }
 ]
