@@ -1,12 +1,111 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6935,
+    "updated_at": "2026-07-10T05:00:04Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-07-10T04:59:04Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Declarative guardrails and safety controls for .NET AI agents",
+    "id": "filipw/AgentGuard",
+    "language": "C#",
+    "name": "filipw/AgentGuard",
+    "stars": 15,
+    "updated_at": "2026-07-10T04:57:24Z",
+    "url": "https://github.com/filipw/AgentGuard"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-10T04:55:42Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
+    "id": "junebuild/june",
+    "language": "TypeScript",
+    "name": "junebuild/june",
+    "stars": 2,
+    "updated_at": "2026-07-10T04:58:31Z",
+    "url": "https://github.com/junebuild/june"
+  },
+  {
+    "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
+    "id": "bigbraingoldfish/lullabeast",
+    "language": "Python",
+    "name": "bigbraingoldfish/lullabeast",
+    "stars": 11,
+    "updated_at": "2026-07-10T04:51:49Z",
+    "url": "https://github.com/bigbraingoldfish/lullabeast"
+  },
+  {
+    "description": "Agenten-Framework, das Unsicherheit explizit als Belief State \u00fcber Hypothesen modelliert, Evidenz bayesianisch verarbeit",
+    "id": "pt9912/belief-agent",
+    "language": "Kotlin",
+    "name": "pt9912/belief-agent",
+    "stars": 1,
+    "updated_at": "2026-07-10T04:51:46Z",
+    "url": "https://github.com/pt9912/belief-agent"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 153,
+    "updated_at": "2026-07-10T04:50:29Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 0,
+    "updated_at": "2026-07-10T04:49:21Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "The agent harness for Ruby applications. Durable sessions, streaming, human-in-the-loop approval, compaction, structured",
+    "id": "mcheemaa/mistri",
+    "language": "Ruby",
+    "name": "mcheemaa/mistri",
+    "stars": 7,
+    "updated_at": "2026-07-10T04:49:12Z",
+    "url": "https://github.com/mcheemaa/mistri"
+  },
+  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-07-10T04:45:15Z",
+    "updated_at": "2026-07-10T04:49:03Z",
     "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-10T04:45:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
@@ -14,7 +113,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1183,
-    "updated_at": "2026-07-10T04:40:02Z",
+    "updated_at": "2026-07-10T04:59:41Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -34,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-10T04:38:09Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-10T04:30:36Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -67,7 +157,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26556,
+    "stars": 26557,
     "updated_at": "2026-07-10T04:23:07Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -81,20 +171,11 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
-    "id": "bigbraingoldfish/lullabeast",
-    "language": "Python",
-    "name": "bigbraingoldfish/lullabeast",
-    "stars": 11,
-    "updated_at": "2026-07-10T04:21:28Z",
-    "url": "https://github.com/bigbraingoldfish/lullabeast"
-  },
-  {
     "description": "Ryu \u2014 open-core orchestration engine + LLM gateway for AI agents. Local-first, BYO everything.",
     "id": "amajorai/ryu",
     "language": "Rust",
     "name": "amajorai/ryu",
-    "stars": 11,
+    "stars": 14,
     "updated_at": "2026-07-10T04:18:11Z",
     "url": "https://github.com/amajorai/ryu"
   },
@@ -124,33 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-10T04:16:13Z",
     "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6934,
-    "updated_at": "2026-07-10T04:37:01Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
-    "id": "junebuild/june",
-    "language": "TypeScript",
-    "name": "junebuild/june",
-    "stars": 2,
-    "updated_at": "2026-07-10T04:41:47Z",
-    "url": "https://github.com/junebuild/june"
-  },
-  {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 0,
-    "updated_at": "2026-07-10T04:07:52Z",
-    "url": "https://github.com/dshakes/lantern"
   },
   {
     "description": "AI-native programming language and runtime. Sigma ISA, Omega compiler, CCS cognitive VM. Built for AI agents. Humans and",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-10T03:37:31Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-07-10T03:37:15Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-07-10T03:36:39Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-07-10T03:36:10Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-10T03:32:37Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18303,
-    "updated_at": "2026-07-10T03:30:39Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-07-10T03:30:36Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
