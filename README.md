@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 225 | Python | 2026-07-10 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
-| 2 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 4362 | Java | 2026-07-10 | Build distributed, production-grade, long-running agents. |
-| 3 | [Ninefoldatwill/homestream](https://github.com/Ninefoldatwill/homestream) | 0 | Python | 2026-07-10 | 🔑 HomeStream · 家园·流 — 零成本自托管多Agent协作框架，通往AI世界的那把钥匙 \| Zero-cost self-hosted multi-agent framework — The key to AI world |
-| 4 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 26556 | Go | 2026-07-10 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 5 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-07-10 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
-| 6 | [bigbraingoldfish/lullabeast](https://github.com/bigbraingoldfish/lullabeast) | 11 | Python | 2026-07-10 | Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo |
-| 7 | [amajorai/ryu](https://github.com/amajorai/ryu) | 11 | Rust | 2026-07-10 | Ryu — open-core orchestration engine + LLM gateway for AI agents. Local-first, BYO everything. |
-| 8 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-10 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 9 | [akyourowngames/friday](https://github.com/akyourowngames/friday) | 2 | Python | 2026-07-10 | Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/ |
-| 10 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-07-10 | Research framework for adaptive, purposeful agents under uncertainty |
-| 11 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-10 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-10 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 225 | Python | 2026-07-10 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
+| 3 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 4362 | Java | 2026-07-10 | Build distributed, production-grade, long-running agents. |
+| 4 | [Ninefoldatwill/homestream](https://github.com/Ninefoldatwill/homestream) | 0 | Python | 2026-07-10 | 🔑 HomeStream · 家园·流 — 零成本自托管多Agent协作框架，通往AI世界的那把钥匙 \| Zero-cost self-hosted multi-agent framework — The key to AI world |
+| 5 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 26556 | Go | 2026-07-10 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 6 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-07-10 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
+| 7 | [bigbraingoldfish/lullabeast](https://github.com/bigbraingoldfish/lullabeast) | 11 | Python | 2026-07-10 | Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo |
+| 8 | [amajorai/ryu](https://github.com/amajorai/ryu) | 11 | Rust | 2026-07-10 | Ryu — open-core orchestration engine + LLM gateway for AI agents. Local-first, BYO everything. |
+| 9 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-10 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 10 | [akyourowngames/friday](https://github.com/akyourowngames/friday) | 2 | Python | 2026-07-10 | Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/ |
+| 11 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-07-10 | Research framework for adaptive, purposeful agents under uncertainty |
 | 12 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 6934 | Python | 2026-07-10 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
 | 13 | [junebuild/june](https://github.com/junebuild/june) | 2 | TypeScript | 2026-07-10 | The React framework for building agents into real apps — one definition serves humans (streamed HTML, zero client JS) an |
 | 14 | [dshakes/lantern](https://github.com/dshakes/lantern) | 0 | TypeScript | 2026-07-10 | Production runtime for AI agents — run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S |
