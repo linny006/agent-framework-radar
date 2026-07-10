@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-10 08:00 UTC
+> ⏰ Last updated: 2026-07-10 08:02 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 6946 | Python | 2026-07-10 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 2 | [yassineelfakiri/agentpg](https://github.com/yassineelfakiri/agentpg) | 0 | Go | 2026-07-10 | 🤖 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by |
-| 3 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 12003 | Python | 2026-07-10 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
-| 4 | [osovv/vv-opencode](https://github.com/osovv/vv-opencode) | 10 | TypeScript | 2026-07-10 | A curated, opinionated set of OpenCode plugins for spec-first, review-driven, safer agentic development. |
-| 5 | [q-j0k/sprintloop-orchestration](https://github.com/q-j0k/sprintloop-orchestration) | 1 | — | 2026-07-10 | 🚀 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents  |
-| 6 | [opencue/cuecards](https://github.com/opencue/cuecards) | 3 | TypeScript | 2026-07-10 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
-| 7 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-10 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 8 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 26571 | Go | 2026-07-10 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 9 | [Eliyce/paqad-ai](https://github.com/Eliyce/paqad-ai) | 7 | TypeScript | 2026-07-10 | Spec-driven development framework — AI agents that think before they type |
-| 10 | [5000Stadia/Kernos](https://github.com/5000Stadia/Kernos) | 1 | Python | 2026-07-10 | An open-source agentic OS — infrastructure, not prompt text: multi-member runtime, auto-routed parallel context spaces,  |
-| 11 | [yomorun/yomo](https://github.com/yomorun/yomo) | 1914 | Rust | 2026-07-10 | 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra. |
-| 12 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-10 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-10 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 6946 | Python | 2026-07-10 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 3 | [yassineelfakiri/agentpg](https://github.com/yassineelfakiri/agentpg) | 0 | Go | 2026-07-10 | 🤖 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by |
+| 4 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 12003 | Python | 2026-07-10 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
+| 5 | [osovv/vv-opencode](https://github.com/osovv/vv-opencode) | 10 | TypeScript | 2026-07-10 | A curated, opinionated set of OpenCode plugins for spec-first, review-driven, safer agentic development. |
+| 6 | [q-j0k/sprintloop-orchestration](https://github.com/q-j0k/sprintloop-orchestration) | 1 | — | 2026-07-10 | 🚀 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents  |
+| 7 | [opencue/cuecards](https://github.com/opencue/cuecards) | 3 | TypeScript | 2026-07-10 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
+| 8 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-10 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 9 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 26572 | Go | 2026-07-10 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 10 | [Eliyce/paqad-ai](https://github.com/Eliyce/paqad-ai) | 7 | TypeScript | 2026-07-10 | Spec-driven development framework — AI agents that think before they type |
+| 11 | [5000Stadia/Kernos](https://github.com/5000Stadia/Kernos) | 1 | Python | 2026-07-10 | An open-source agentic OS — infrastructure, not prompt text: multi-member runtime, auto-routed parallel context spaces,  |
+| 12 | [yomorun/yomo](https://github.com/yomorun/yomo) | 1914 | Rust | 2026-07-10 | 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra. |
 | 13 | [manishiitg/mcp-agent-builder-go](https://github.com/manishiitg/mcp-agent-builder-go) | 6 | Go | 2026-07-10 | Open-source AI workflow engine — build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc |
 | 14 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-07-10 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
 | 15 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-07-10 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
