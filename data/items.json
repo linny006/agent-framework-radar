@@ -1,5 +1,113 @@
 [
   {
+    "description": "A lightweight, event-driven agent runtime for Go",
+    "id": "loomagent/loom",
+    "language": "Go",
+    "name": "loomagent/loom",
+    "stars": 0,
+    "updated_at": "2026-07-10T07:15:19Z",
+    "url": "https://github.com/loomagent/loom"
+  },
+  {
+    "description": "Local-first goal execution harness for AI agents \u2014 plan \u2192 execute \u2192 review \u2192 done. Deterministic review gates, loop guar",
+    "id": "moortekweb-art/agentic-harness",
+    "language": "Python",
+    "name": "moortekweb-art/agentic-harness",
+    "stars": 0,
+    "updated_at": "2026-07-10T07:14:10Z",
+    "url": "https://github.com/moortekweb-art/agentic-harness"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-10T07:13:14Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 6942,
+    "updated_at": "2026-07-10T07:14:21Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Local-first multi-agent engineering workbench with operator-visible execution",
+    "id": "Coding-Autopilot-System/autogen",
+    "language": "Python",
+    "name": "Coding-Autopilot-System/autogen",
+    "stars": 0,
+    "updated_at": "2026-07-10T07:14:53Z",
+    "url": "https://github.com/Coding-Autopilot-System/autogen"
+  },
+  {
+    "description": "Agents should not relearn workflows. Myelin turns repeated agent behavior into reusable procedures via MCP.",
+    "id": "Niraven/myelin",
+    "language": "Python",
+    "name": "Niraven/myelin",
+    "stars": 1,
+    "updated_at": "2026-07-10T07:11:38Z",
+    "url": "https://github.com/Niraven/myelin"
+  },
+  {
+    "description": "Hermes Agent architecture repository \u2014 memory management, tool governance, provider routing, and evidence-driven evoluti",
+    "id": "jim-688/cold-memory-kernel",
+    "language": "Python",
+    "name": "jim-688/cold-memory-kernel",
+    "stars": 1,
+    "updated_at": "2026-07-10T07:08:13Z",
+    "url": "https://github.com/jim-688/cold-memory-kernel"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 26569,
+    "updated_at": "2026-07-10T07:05:18Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "",
+    "id": "romainsantoli-web/setup-vs-agent-firm",
+    "language": "Python",
+    "name": "romainsantoli-web/setup-vs-agent-firm",
+    "stars": 0,
+    "updated_at": "2026-07-10T07:04:39Z",
+    "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12001,
+    "updated_at": "2026-07-10T07:14:50Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2185,
+    "updated_at": "2026-07-10T07:01:37Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-10T07:00:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Substructure is an engine for building durable, long-running AI agents using only a stateless HTTP endpoint hosted on yo",
     "id": "substructureai/substructure",
     "language": "Rust",
@@ -16,24 +124,6 @@
     "stars": 3,
     "updated_at": "2026-07-10T06:57:01Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-10T06:56:50Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Agents should not relearn workflows. Myelin turns repeated agent behavior into reusable procedures via MCP.",
-    "id": "Niraven/myelin",
-    "language": "Python",
-    "name": "Niraven/myelin",
-    "stars": 1,
-    "updated_at": "2026-07-10T06:52:19Z",
-    "url": "https://github.com/Niraven/myelin"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -63,24 +153,6 @@
     "url": "https://github.com/hara-cli/hara"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26569,
-    "updated_at": "2026-07-10T06:49:33Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "A lightweight, event-driven agent runtime for Go",
-    "id": "loomagent/loom",
-    "language": "Go",
-    "name": "loomagent/loom",
-    "stars": 0,
-    "updated_at": "2026-07-10T06:49:23Z",
-    "url": "https://github.com/loomagent/loom"
-  },
-  {
     "description": "Open Agent Spec is a declarative YAML standard and CLI for defining and generating AI agents. One spec, any LLM engine (",
     "id": "prime-vector/open-agent-spec",
     "language": "Python",
@@ -90,15 +162,6 @@
     "url": "https://github.com/prime-vector/open-agent-spec"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12001,
-    "updated_at": "2026-07-10T06:56:33Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline wo",
     "id": "CronusL-1141/AI-company",
     "language": "Python",
@@ -106,24 +169,6 @@
     "stars": 314,
     "updated_at": "2026-07-10T06:46:38Z",
     "url": "https://github.com/CronusL-1141/AI-company"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-10T06:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Local-first goal execution harness for AI agents \u2014 plan \u2192 execute \u2192 review \u2192 done. Deterministic review gates, loop guar",
-    "id": "moortekweb-art/agentic-harness",
-    "language": "Python",
-    "name": "moortekweb-art/agentic-harness",
-    "stars": 0,
-    "updated_at": "2026-07-10T06:41:31Z",
-    "url": "https://github.com/moortekweb-art/agentic-harness"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -160,15 +205,6 @@
     "stars": 591,
     "updated_at": "2026-07-10T06:37:31Z",
     "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 6942,
-    "updated_at": "2026-07-10T06:59:50Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Agenten-Framework, das Unsicherheit explizit als Belief State \u00fcber Hypothesen modelliert, Evidenz bayesianisch verarbeit",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-10T06:00:37Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-07-10T06:00:24Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "A curated collection of reusable AI skills, prompts, and agent configurations. Portable across AI coding assistants and ",
-    "id": "web-lifter/official-claude-plugins",
-    "language": "Python",
-    "name": "web-lifter/official-claude-plugins",
-    "stars": 3,
-    "updated_at": "2026-07-10T06:00:19Z",
-    "url": "https://github.com/web-lifter/official-claude-plugins"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-07-10T05:59:33Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-07-10T05:59:18Z",
-    "url": "https://github.com/monahright467/harness-books"
   }
 ]
