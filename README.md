@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-10 19:00 UTC
+> ⏰ Last updated: 2026-07-10 19:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [hara-cli/hara](https://github.com/hara-cli/hara) | 2 | TypeScript | 2026-07-10 | A coding agent CLI that runs like an engineering org — role routing, plan DAGs, approvals, memory, and a 10-platform cha |
-| 2 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-10 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 3 | [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) | 285 | Python | 2026-07-10 | 🏆 Curated, ranked list of AI agent harnesses (100+) — plus an MCP server, llms.txt & JSON so agents can recommend them t |
-| 4 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-07-10 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
-| 5 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 115 | Shell | 2026-07-10 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
-| 6 | [junebuild/june](https://github.com/junebuild/june) | 3 | TypeScript | 2026-07-10 | The React framework for building agents into real apps — one definition serves humans (streamed HTML, zero client JS) an |
-| 7 | [agentdynarq/dynarq-agent](https://github.com/agentdynarq/dynarq-agent) | 0 | Python | 2026-07-10 | A minimal AI agent runtime with a clean tool/skill interface and a tool-calling loop. Runs offline with a local router,  |
-| 8 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 6988 | Python | 2026-07-10 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 9 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-10 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-10 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [hara-cli/hara](https://github.com/hara-cli/hara) | 2 | TypeScript | 2026-07-10 | A coding agent CLI that runs like an engineering org — role routing, plan DAGs, approvals, memory, and a 10-platform cha |
+| 3 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-10 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 4 | [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) | 285 | Python | 2026-07-10 | 🏆 Curated, ranked list of AI agent harnesses (100+) — plus an MCP server, llms.txt & JSON so agents can recommend them t |
+| 5 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-07-10 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
+| 6 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 115 | Shell | 2026-07-10 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
+| 7 | [junebuild/june](https://github.com/junebuild/june) | 3 | TypeScript | 2026-07-10 | The React framework for building agents into real apps — one definition serves humans (streamed HTML, zero client JS) an |
+| 8 | [agentdynarq/dynarq-agent](https://github.com/agentdynarq/dynarq-agent) | 0 | Python | 2026-07-10 | A minimal AI agent runtime with a clean tool/skill interface and a tool-calling loop. Runs offline with a local router,  |
+| 9 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 6988 | Python | 2026-07-10 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
 | 10 | [CarlosCaPe/octorato](https://github.com/CarlosCaPe/octorato) | 12 | Python | 2026-07-10 | Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale |
 | 11 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-07-10 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
 | 12 | [broomva/arcan](https://github.com/broomva/arcan) | 5 | Rust | 2026-07-10 | Core agent runtime — event loop, LLM providers (Anthropic, OpenAI), capability system, TUI. Part of the Life Agent OS. |
