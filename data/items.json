@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-11T17:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
     "id": "kh0pper/crow",
     "language": "JavaScript",
@@ -99,15 +108,6 @@
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-11T17:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Managed agents harness on Cloudflare Workers \u2014 manifest-defined AI agents with swappable session strategies, agent patte",
     "id": "blakebauman/felix",
     "language": "TypeScript",
@@ -124,6 +124,15 @@
     "stars": 18,
     "updated_at": "2026-07-11T17:28:58Z",
     "url": "https://github.com/ulsreall/web3-agent-kit"
+  },
+  {
+    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 256,
+    "updated_at": "2026-07-11T17:28:11Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
     "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
@@ -430,15 +439,6 @@
     "stars": 1,
     "updated_at": "2026-07-11T16:46:52Z",
     "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
-    "id": "agenvoy/Agenvoy",
-    "language": "Go",
-    "name": "agenvoy/Agenvoy",
-    "stars": 255,
-    "updated_at": "2026-07-11T17:28:11Z",
-    "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
     "description": "TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs o",
