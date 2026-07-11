@@ -1,12 +1,84 @@
 [
   {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 106,
+    "updated_at": "2026-07-11T18:56:55Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 153,
+    "updated_at": "2026-07-11T18:56:36Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-07-11T18:56:29Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-07-11T18:55:40Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 257,
+    "updated_at": "2026-07-11T18:55:22Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 42,
-    "updated_at": "2026-07-11T18:49:28Z",
+    "updated_at": "2026-07-11T18:53:09Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 0,
+    "updated_at": "2026-07-11T18:52:55Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-11T18:52:46Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-11T18:51:48Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-07-11T18:45:19Z",
+    "updated_at": "2026-07-11T18:50:52Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -90,15 +162,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
-    "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 106,
-    "updated_at": "2026-07-11T18:29:42Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
     "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
     "id": "Zuga-Technologies/zugamind",
     "language": "Python",
@@ -149,7 +212,7 @@
     "language": "TypeScript",
     "name": "blakebauman/felix",
     "stars": 0,
-    "updated_at": "2026-07-11T18:50:20Z",
+    "updated_at": "2026-07-11T18:59:17Z",
     "url": "https://github.com/blakebauman/felix"
   },
   {
@@ -212,17 +275,8 @@
     "language": "HTML",
     "name": "skerry699/agent-symphony",
     "stars": 153,
-    "updated_at": "2026-07-11T17:54:59Z",
+    "updated_at": "2026-07-11T19:00:19Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 153,
-    "updated_at": "2026-07-11T17:52:42Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
@@ -232,33 +286,6 @@
     "stars": 5,
     "updated_at": "2026-07-11T17:52:25Z",
     "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 11,
-    "updated_at": "2026-07-11T18:29:40Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 0,
-    "updated_at": "2026-07-11T17:50:31Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-11T17:50:21Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
@@ -322,15 +349,6 @@
     "stars": 18,
     "updated_at": "2026-07-11T17:28:58Z",
     "url": "https://github.com/ulsreall/web3-agent-kit"
-  },
-  {
-    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
-    "id": "agenvoy/Agenvoy",
-    "language": "Go",
-    "name": "agenvoy/Agenvoy",
-    "stars": 257,
-    "updated_at": "2026-07-11T18:43:54Z",
-    "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
     "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-11T16:57:04Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-07-11T16:56:13Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Open-source AI agent framework for autonomous Memecoin trading, LLM orchestration, and blockchain intelligence.",
-    "id": "zetryn-ai/ai-agent",
-    "language": "HTML",
-    "name": "zetryn-ai/ai-agent",
-    "stars": 4,
-    "updated_at": "2026-07-11T16:54:20Z",
-    "url": "https://github.com/zetryn-ai/ai-agent"
   }
 ]
