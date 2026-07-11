@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-11T04:23:23Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83d\udd11 HomeStream \u00b7 \u5bb6\u56ed\u00b7\u6d41 \u2014 \u96f6\u6210\u672c\u81ea\u6258\u7ba1\u591aAgent\u534f\u4f5c\u6846\u67b6\uff0c\u901a\u5f80AI\u4e16\u754c\u7684\u90a3\u628a\u94a5\u5319 | Zero-cost self-hosted multi-agent framework \u2014 The key to AI world",
+    "id": "Ninefoldatwill/homestream",
+    "language": "Python",
+    "name": "Ninefoldatwill/homestream",
+    "stars": 0,
+    "updated_at": "2026-07-11T04:22:56Z",
+    "url": "https://github.com/Ninefoldatwill/homestream"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-07-11T04:20:01Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "The open, model-agnostic platform to build your own AI agent and run it everywhere \u2014 self-hosted, safe by default.",
+    "id": "ownware-ai/ownware",
+    "language": "TypeScript",
+    "name": "ownware-ai/ownware",
+    "stars": 4,
+    "updated_at": "2026-07-11T04:18:01Z",
+    "url": "https://github.com/ownware-ai/ownware"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-11T04:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-11T04:15:13Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
     "id": "Asceticrefractoryperiod28/Foundry",
     "language": "TypeScript",
@@ -36,15 +90,6 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "\ud83d\udd11 HomeStream \u00b7 \u5bb6\u56ed\u00b7\u6d41 \u2014 \u96f6\u6210\u672c\u81ea\u6258\u7ba1\u591aAgent\u534f\u4f5c\u6846\u67b6\uff0c\u901a\u5f80AI\u4e16\u754c\u7684\u90a3\u628a\u94a5\u5319 | Zero-cost self-hosted multi-agent framework \u2014 The key to AI world",
-    "id": "Ninefoldatwill/homestream",
-    "language": "Python",
-    "name": "Ninefoldatwill/homestream",
-    "stars": 0,
-    "updated_at": "2026-07-11T04:10:40Z",
-    "url": "https://github.com/Ninefoldatwill/homestream"
-  },
-  {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
     "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
     "language": "Python",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T04:09:54Z",
     "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 3,
-    "updated_at": "2026-07-11T04:09:52Z",
-    "url": "https://github.com/hara-cli/hara"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -232,15 +268,6 @@
     "stars": 20,
     "updated_at": "2026-07-11T04:00:49Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-11T04:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-11T03:48:01Z",
     "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-07-11T03:47:50Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-07-11T03:47:38Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Deploy autonomous AI streamers on Kick with one command, automating chat, voice, avatar, and OBS streaming setup in unde",
-    "id": "yhlyblys66-art/moltstream",
-    "language": "TypeScript",
-    "name": "yhlyblys66-art/moltstream",
-    "stars": 3,
-    "updated_at": "2026-07-11T03:47:08Z",
-    "url": "https://github.com/yhlyblys66-art/moltstream"
   }
 ]
