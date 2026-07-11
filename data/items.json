@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
     "stars": 134,
-    "updated_at": "2026-07-11T20:59:52Z",
+    "updated_at": "2026-07-11T21:00:50Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-11T21:00:43Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-11T21:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -50,17 +68,8 @@
     "language": "Python",
     "name": "vanamayaswanth/tvastar",
     "stars": 2,
-    "updated_at": "2026-07-11T20:50:30Z",
+    "updated_at": "2026-07-11T21:02:30Z",
     "url": "https://github.com/vanamayaswanth/tvastar"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-11T20:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-11T19:51:54Z",
     "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-11T19:51:32Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
   }
 ]
