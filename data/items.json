@@ -1,5 +1,77 @@
 [
   {
+    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 2,
+    "updated_at": "2026-07-11T18:15:19Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Managed agents harness on Cloudflare Workers \u2014 manifest-defined AI agents with swappable session strategies, agent patte",
+    "id": "blakebauman/felix",
+    "language": "TypeScript",
+    "name": "blakebauman/felix",
+    "stars": 0,
+    "updated_at": "2026-07-11T18:15:04Z",
+    "url": "https://github.com/blakebauman/felix"
+  },
+  {
+    "description": "Reusable Claude Skill and LLM agent framework inspired by Fable 5 reasoning workflows, prompt orchestration, tool simula",
+    "id": "iesjoaco7-cyber/Claude---Fable-5-Clone",
+    "language": "Python",
+    "name": "iesjoaco7-cyber/Claude---Fable-5-Clone",
+    "stars": 0,
+    "updated_at": "2026-07-11T18:14:46Z",
+    "url": "https://github.com/iesjoaco7-cyber/Claude---Fable-5-Clone"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-07-11T18:13:27Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 656,
+    "updated_at": "2026-07-11T18:13:55Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-11T18:12:11Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Production-ready autonomous AI agent for software engineering, featuring planning, coding, memory, and continuous self-i",
+    "id": "thomasnrs/Lumi_Agent",
+    "language": "JavaScript",
+    "name": "thomasnrs/Lumi_Agent",
+    "stars": 2,
+    "updated_at": "2026-07-11T18:00:45Z",
+    "url": "https://github.com/thomasnrs/Lumi_Agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-11T18:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -36,15 +108,6 @@
     "url": "https://github.com/sps014/Adk-cs"
   },
   {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 656,
-    "updated_at": "2026-07-11T17:57:44Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -77,7 +140,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-11T17:50:45Z",
+    "updated_at": "2026-07-11T18:06:59Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/the-long-ride/engram"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-11T17:49:02Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
     "id": "kh0pper/crow",
     "language": "JavaScript",
@@ -142,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-11T17:44:03Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Reusable Claude Skill and LLM agent framework inspired by Fable 5 reasoning workflows, prompt orchestration, tool simula",
-    "id": "iesjoaco7-cyber/Claude---Fable-5-Clone",
-    "language": "Python",
-    "name": "iesjoaco7-cyber/Claude---Fable-5-Clone",
-    "stars": 0,
-    "updated_at": "2026-07-11T17:39:06Z",
-    "url": "https://github.com/iesjoaco7-cyber/Claude---Fable-5-Clone"
   },
   {
     "description": " Workflow-first multi-agent orchestration for Ruby, built on RubyLLM.",
@@ -196,24 +241,6 @@
     "stars": 194,
     "updated_at": "2026-07-11T17:32:34Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Production-ready autonomous AI agent for software engineering, featuring planning, coding, memory, and continuous self-i",
-    "id": "thomasnrs/Lumi_Agent",
-    "language": "JavaScript",
-    "name": "thomasnrs/Lumi_Agent",
-    "stars": 2,
-    "updated_at": "2026-07-11T17:31:07Z",
-    "url": "https://github.com/thomasnrs/Lumi_Agent"
-  },
-  {
-    "description": "Managed agents harness on Cloudflare Workers \u2014 manifest-defined AI agents with swappable session strategies, agent patte",
-    "id": "blakebauman/felix",
-    "language": "TypeScript",
-    "name": "blakebauman/felix",
-    "stars": 0,
-    "updated_at": "2026-07-11T17:34:24Z",
-    "url": "https://github.com/blakebauman/felix"
   },
   {
     "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
@@ -268,15 +295,6 @@
     "stars": 115,
     "updated_at": "2026-07-11T17:19:43Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-11T17:18:25Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-11T16:50:21Z",
     "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-07-11T16:49:58Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-07-11T16:48:19Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
   }
 ]
