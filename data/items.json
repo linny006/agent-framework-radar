@@ -1,5 +1,23 @@
 [
   {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 242,
+    "updated_at": "2026-07-11T04:26:55Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-11T04:25:51Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -34,15 +52,6 @@
     "stars": 4,
     "updated_at": "2026-07-11T04:18:01Z",
     "url": "https://github.com/ownware-ai/ownware"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-11T04:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -122,7 +131,7 @@
     "language": "Rust",
     "name": "rararulab/rara",
     "stars": 10,
-    "updated_at": "2026-07-11T04:11:41Z",
+    "updated_at": "2026-07-11T04:30:01Z",
     "url": "https://github.com/rararulab/rara"
   },
   {
@@ -139,7 +148,7 @@
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6557,
+    "stars": 6558,
     "updated_at": "2026-07-11T04:07:44Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-11T03:48:08Z",
     "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Substructure is an engine for building durable, long-running AI agents using only a stateless HTTP endpoint hosted on yo",
-    "id": "substructureai/substructure",
-    "language": "Rust",
-    "name": "substructureai/substructure",
-    "stars": 5,
-    "updated_at": "2026-07-11T03:48:01Z",
-    "url": "https://github.com/substructureai/substructure"
   }
 ]
