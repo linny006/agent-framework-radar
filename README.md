@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-12 06:27 UTC
+> ⏰ Last updated: 2026-07-12 06:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [rararulab/rara](https://github.com/rararulab/rara) | 10 | Rust | 2026-07-12 | Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces |
-| 2 | [erishen/langgraph-pse](https://github.com/erishen/langgraph-pse) | 0 | Python | 2026-07-12 | A task-agnostic LangGraph framework for Planner–Specialist–Evaluator agents: model any generate→verify→fix workflow as a |
-| 3 | [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) | 658 | Python | 2026-07-12 | Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud |
-| 4 | [yassineelfakiri/agentpg](https://github.com/yassineelfakiri/agentpg) | 0 | Go | 2026-07-12 | 🤖 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by |
-| 5 | [q-j0k/sprintloop-orchestration](https://github.com/q-j0k/sprintloop-orchestration) | 1 | — | 2026-07-12 | 🚀 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents  |
-| 6 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 379 | Go | 2026-07-12 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
-| 7 | [Caprista/KarvyLoop](https://github.com/Caprista/KarvyLoop) | 9 | Python | 2026-07-12 | The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a |
-| 8 | [opencue/cuecards](https://github.com/opencue/cuecards) | 3 | TypeScript | 2026-07-12 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
-| 9 | [petehottelet/smythe](https://github.com/petehottelet/smythe) | 1 | Python | 2026-07-12 | An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology. |
-| 10 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-12 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 11 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-07-12 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 1 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-07-12 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-12 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [rararulab/rara](https://github.com/rararulab/rara) | 10 | Rust | 2026-07-12 | Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces |
+| 4 | [erishen/langgraph-pse](https://github.com/erishen/langgraph-pse) | 0 | Python | 2026-07-12 | A task-agnostic LangGraph framework for Planner–Specialist–Evaluator agents: model any generate→verify→fix workflow as a |
+| 5 | [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) | 658 | Python | 2026-07-12 | Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud |
+| 6 | [yassineelfakiri/agentpg](https://github.com/yassineelfakiri/agentpg) | 0 | Go | 2026-07-12 | 🤖 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by |
+| 7 | [q-j0k/sprintloop-orchestration](https://github.com/q-j0k/sprintloop-orchestration) | 1 | — | 2026-07-12 | 🚀 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents  |
+| 8 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 379 | Go | 2026-07-12 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
+| 9 | [Caprista/KarvyLoop](https://github.com/Caprista/KarvyLoop) | 9 | Python | 2026-07-12 | The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a |
+| 10 | [opencue/cuecards](https://github.com/opencue/cuecards) | 3 | TypeScript | 2026-07-12 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
+| 11 | [petehottelet/smythe](https://github.com/petehottelet/smythe) | 1 | Python | 2026-07-12 | An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology. |
 | 12 | [huangjia2019/agent-design-patterns](https://github.com/huangjia2019/agent-design-patterns) | 156 | HTML | 2026-07-12 | A 7×6 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified eng |
 | 13 | [s2mgtvodois2/postgresql-mcp-js](https://github.com/s2mgtvodois2/postgresql-mcp-js) | 1 | TypeScript | 2026-07-12 | 🔌 Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and  |
 | 14 | [aloth/awesome-ai-agents](https://github.com/aloth/awesome-ai-agents) | 7 | — | 2026-07-12 | A curated list of AI agent frameworks, tools, platforms, research papers, and resources |
