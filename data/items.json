@@ -1,12 +1,102 @@
 [
   {
-    "description": "Helix gives you agents that actually behave in production: hard budget limits, semantic caching that cuts API costs by 4",
-    "id": "sarcasticdhruv/helix-agent",
+    "description": "A general-purpose Python framework for building LLM agents and multi-agent systems, with tools, memory, RAG, context eng",
+    "id": "xinhuangcs/agentmaker",
     "language": "Python",
-    "name": "sarcasticdhruv/helix-agent",
+    "name": "xinhuangcs/agentmaker",
+    "stars": 37,
+    "updated_at": "2026-07-12T15:14:54Z",
+    "url": "https://github.com/xinhuangcs/agentmaker"
+  },
+  {
+    "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-07-12T15:13:53Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
     "stars": 0,
-    "updated_at": "2026-07-12T14:58:00Z",
-    "url": "https://github.com/sarcasticdhruv/helix-agent"
+    "updated_at": "2026-07-12T15:13:07Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-12T15:12:36Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 9,
+    "updated_at": "2026-07-12T15:10:50Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-07-12T15:13:09Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Runnable examples for gopact",
+    "id": "gopact-ai/gopact-examples",
+    "language": "Go",
+    "name": "gopact-ai/gopact-examples",
+    "stars": 0,
+    "updated_at": "2026-07-12T15:08:57Z",
+    "url": "https://github.com/gopact-ai/gopact-examples"
+  },
+  {
+    "description": "Official extensions for gopact",
+    "id": "gopact-ai/gopact-ext",
+    "language": "Go",
+    "name": "gopact-ai/gopact-ext",
+    "stars": 0,
+    "updated_at": "2026-07-12T15:06:25Z",
+    "url": "https://github.com/gopact-ai/gopact-ext"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 194,
+    "updated_at": "2026-07-12T15:06:16Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
+    "id": "rararulab/rara",
+    "language": "Rust",
+    "name": "rararulab/rara",
+    "stars": 10,
+    "updated_at": "2026-07-12T15:06:15Z",
+    "url": "https://github.com/rararulab/rara"
+  },
+  {
+    "description": "PurrCat Agent",
+    "id": "PurrPod/purrcat",
+    "language": "Python",
+    "name": "PurrPod/purrcat",
+    "stars": 5,
+    "updated_at": "2026-07-12T15:03:58Z",
+    "url": "https://github.com/PurrPod/purrcat"
   },
   {
     "description": "Multi-agent orchestration CLI for Claude Code \u2014 declarative TOML workflows, autonomous agents, context-compression recov",
@@ -14,8 +104,44 @@
     "language": "Go",
     "name": "stempeck/agentfactory",
     "stars": 0,
-    "updated_at": "2026-07-12T14:57:59Z",
+    "updated_at": "2026-07-12T15:01:25Z",
     "url": "https://github.com/stempeck/agentfactory"
+  },
+  {
+    "description": "Go SDK contracts for typed, observable, and resumable agent workflows",
+    "id": "gopact-ai/gopact",
+    "language": "Go",
+    "name": "gopact-ai/gopact",
+    "stars": 0,
+    "updated_at": "2026-07-12T15:00:38Z",
+    "url": "https://github.com/gopact-ai/gopact"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-12T15:00:33Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-12T15:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Helix gives you agents that actually behave in production: hard budget limits, semantic caching that cuts API costs by 4",
+    "id": "sarcasticdhruv/helix-agent",
+    "language": "Python",
+    "name": "sarcasticdhruv/helix-agent",
+    "stars": 0,
+    "updated_at": "2026-07-12T14:58:00Z",
+    "url": "https://github.com/sarcasticdhruv/helix-agent"
   },
   {
     "description": "\ud83c\udfc6 Curated, ranked list of AI agent harnesses (100+) \u2014 plus an MCP server, llms.txt & JSON so agents can recommend them t",
@@ -67,7 +193,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26733,
+    "stars": 26735,
     "updated_at": "2026-07-12T14:53:21Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -108,33 +234,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
-    "id": "rararulab/rara",
-    "language": "Rust",
-    "name": "rararulab/rara",
-    "stars": 10,
-    "updated_at": "2026-07-12T14:58:04Z",
-    "url": "https://github.com/rararulab/rara"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-12T14:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 194,
-    "updated_at": "2026-07-12T14:44:33Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -142,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-12T14:37:18Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 9,
-    "updated_at": "2026-07-12T14:35:35Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
   },
   {
     "description": "An operating system for coding agents \u2014 reproduce a top-tier model's behavior with structure, not spend. by Sumika",
@@ -171,15 +261,6 @@
     "url": "https://github.com/daretodave/nexus"
   },
   {
-    "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-07-12T14:33:56Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
     "id": "jiayan-xu/agent-core",
     "language": "Rust",
@@ -196,33 +277,6 @@
     "stars": 12058,
     "updated_at": "2026-07-12T14:35:49Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Runnable examples for gopact",
-    "id": "gopact-ai/gopact-examples",
-    "language": "Go",
-    "name": "gopact-ai/gopact-examples",
-    "stars": 0,
-    "updated_at": "2026-07-12T14:25:19Z",
-    "url": "https://github.com/gopact-ai/gopact-examples"
-  },
-  {
-    "description": "Official extensions for gopact",
-    "id": "gopact-ai/gopact-ext",
-    "language": "Go",
-    "name": "gopact-ai/gopact-ext",
-    "stars": 0,
-    "updated_at": "2026-07-12T14:24:36Z",
-    "url": "https://github.com/gopact-ai/gopact-ext"
-  },
-  {
-    "description": "Go SDK contracts for typed, observable, and resumable agent workflows",
-    "id": "gopact-ai/gopact",
-    "language": "Go",
-    "name": "gopact-ai/gopact",
-    "stars": 0,
-    "updated_at": "2026-07-12T14:23:17Z",
-    "url": "https://github.com/gopact-ai/gopact"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -297,15 +351,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-12T14:07:50Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "The open, model-agnostic platform to build your own AI agent and run it everywhere \u2014 self-hosted, safe by default.",
     "id": "ownware-ai/ownware",
     "language": "TypeScript",
@@ -351,15 +396,6 @@
     "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 11,
-    "updated_at": "2026-07-12T14:41:03Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
@@ -387,15 +423,6 @@
     "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-12T13:35:35Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
     "id": "achappey/aihappey-chat",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-12T13:27:47Z",
     "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
-    "id": "zizetu/existential-identity-test-engine",
-    "language": "Python",
-    "name": "zizetu/existential-identity-test-engine",
-    "stars": 1,
-    "updated_at": "2026-07-12T13:27:07Z",
-    "url": "https://github.com/zizetu/existential-identity-test-engine"
-  },
-  {
-    "description": "Build and manage AI agents within git repositories using a Rust-based, dependency-free framework that version-controls a",
-    "id": "yeab405/rusty-gitclaw",
-    "language": "Rust",
-    "name": "yeab405/rusty-gitclaw",
-    "stars": 2,
-    "updated_at": "2026-07-12T13:26:54Z",
-    "url": "https://github.com/yeab405/rusty-gitclaw"
-  },
-  {
-    "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
-    "id": "kokorubbong/agenticqa-scan-action",
-    "language": "Python",
-    "name": "kokorubbong/agenticqa-scan-action",
-    "stars": 0,
-    "updated_at": "2026-07-12T13:25:19Z",
-    "url": "https://github.com/kokorubbong/agenticqa-scan-action"
   }
 ]
