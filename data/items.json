@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Open-source multi-tenant agent runtime for production. Tenant isolation, per-user cost controls, dual-sandbox security, ",
+    "id": "kdcube/kdcube",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
+    "name": "kdcube/kdcube",
+    "stars": 11,
+    "updated_at": "2026-07-12T17:45:04Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": " A highly configurable, self-evolving AI Agent operating system with plugin pipeline, multi-layer memory, hot\u2011reload, an",
+    "id": "jianchen08/Agent-os-open",
+    "language": "Python",
+    "name": "jianchen08/Agent-os-open",
+    "stars": 0,
+    "updated_at": "2026-07-12T17:43:50Z",
+    "url": "https://github.com/jianchen08/Agent-os-open"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
     "stars": 1,
-    "updated_at": "2026-07-12T17:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "updated_at": "2026-07-12T17:42:36Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
     "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
@@ -14,8 +32,71 @@
     "language": "Rust",
     "name": "rararulab/rara",
     "stars": 10,
-    "updated_at": "2026-07-12T17:28:43Z",
+    "updated_at": "2026-07-12T17:42:33Z",
     "url": "https://github.com/rararulab/rara"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-07-12T17:38:45Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-12T17:38:25Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 77,
+    "updated_at": "2026-07-12T17:37:57Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-12T17:44:16Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-07-12T17:35:14Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Expanding Tool",
+    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
+    "language": "Python",
+    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
+    "stars": 0,
+    "updated_at": "2026-07-12T17:35:10Z",
+    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-12T17:30:43Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -36,22 +117,13 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
-    "id": "ellmos-ai/bach",
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
     "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-07-12T17:21:34Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 77,
-    "updated_at": "2026-07-12T17:22:57Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
+    "name": "jaylfc/taOS",
+    "stars": 425,
+    "updated_at": "2026-07-12T17:20:08Z",
+    "url": "https://github.com/jaylfc/taOS"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -77,7 +149,7 @@
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 2,
-    "updated_at": "2026-07-12T17:17:04Z",
+    "updated_at": "2026-07-12T17:44:50Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -88,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-07-12T17:18:41Z",
     "url": "https://github.com/moortekweb-art/agentic-harness"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14548,
+    "updated_at": "2026-07-12T17:15:19Z",
+    "url": "https://github.com/eigent-ai/eigent"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -180,24 +261,6 @@
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": " A highly configurable, self-evolving AI Agent operating system with plugin pipeline, multi-layer memory, hot\u2011reload, an",
-    "id": "jianchen08/Agent-os-open",
-    "language": "Python",
-    "name": "jianchen08/Agent-os-open",
-    "stars": 0,
-    "updated_at": "2026-07-12T16:56:55Z",
-    "url": "https://github.com/jianchen08/Agent-os-open"
-  },
-  {
-    "description": "UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Expanding Tool",
-    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "language": "Python",
-    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "stars": 0,
-    "updated_at": "2026-07-12T16:55:03Z",
-    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
-  },
-  {
     "description": "Ryu \u2014 open-core orchestration engine + LLM gateway for AI agents. Local-first, BYO everything.",
     "id": "amajorai/ryu",
     "language": "HTML",
@@ -270,15 +333,6 @@
     "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
   },
   {
-    "description": "Open-source multi-tenant agent runtime for production. Tenant isolation, per-user cost controls, dual-sandbox security, ",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 11,
-    "updated_at": "2026-07-12T16:31:52Z",
-    "url": "https://github.com/kdcube/kdcube"
-  },
-  {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
     "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
     "language": "Python",
@@ -286,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-07-12T16:31:36Z",
     "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-12T16:31:12Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-12T16:23:12Z",
     "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-07-12T16:22:34Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-07-12T16:22:13Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-07-12T16:20:34Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-07-12T16:20:33Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-07-12T16:20:23Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
   }
 ]
