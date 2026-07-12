@@ -1,5 +1,41 @@
 [
   {
+    "description": "Self-improving OS for production AI agents \u2014 verifier-gated, cross-family runs that learn which model wins where, so you",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 1,
+    "updated_at": "2026-07-12T12:31:27Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-12T12:31:09Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-12T12:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
+    "id": "rararulab/rara",
+    "language": "Rust",
+    "name": "rararulab/rara",
+    "stars": 10,
+    "updated_at": "2026-07-12T12:30:19Z",
+    "url": "https://github.com/rararulab/rara"
+  },
+  {
     "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
     "id": "ethosagent/ethos",
     "language": "TypeScript",
@@ -16,6 +52,15 @@
     "stars": 11,
     "updated_at": "2026-07-12T12:27:49Z",
     "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "",
+    "id": "ledgr-rs/prism",
+    "language": "\u2014",
+    "name": "ledgr-rs/prism",
+    "stars": 0,
+    "updated_at": "2026-07-12T12:25:43Z",
+    "url": "https://github.com/ledgr-rs/prism"
   },
   {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
@@ -81,15 +126,6 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-12T12:15:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
     "id": "sipyourdrink-ltd/bernstein",
     "language": "Python",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-12T12:29:37Z",
+    "updated_at": "2026-07-12T12:34:50Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-12T12:08:00Z",
     "url": "https://github.com/chingjustwe/agent-forge"
-  },
-  {
-    "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
-    "id": "rararulab/rara",
-    "language": "Rust",
-    "name": "rararulab/rara",
-    "stars": 10,
-    "updated_at": "2026-07-12T12:30:19Z",
-    "url": "https://github.com/rararulab/rara"
   },
   {
     "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
@@ -229,7 +256,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26718,
+    "stars": 26719,
     "updated_at": "2026-07-12T11:53:29Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -277,15 +304,6 @@
     "stars": 9,
     "updated_at": "2026-07-12T11:36:40Z",
     "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-12T11:34:08Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "LAAP AGI - Zero-LLM Cognitive Architecture for Digital Lifeforms. Rust PSI core at 2000Hz, QRE quantum reasoning, Episod",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-12T10:46:56Z",
     "url": "https://github.com/zizetu/existential-identity-test-engine"
-  },
-  {
-    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 3,
-    "updated_at": "2026-07-12T10:46:15Z",
-    "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 182,
-    "updated_at": "2026-07-12T10:44:57Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   }
 ]
