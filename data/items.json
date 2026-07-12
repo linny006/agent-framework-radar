@@ -1,12 +1,21 @@
 [
   {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
     "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 658,
-    "updated_at": "2026-07-12T04:44:42Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-12T04:59:57Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-07-12T04:58:09Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "An agentic AI platform for .NET: run autonomous agents under graduated supervision \u2014 durable pause/resume runs, Firecrac",
@@ -14,8 +23,62 @@
     "language": "C#",
     "name": "craig-b/Orkis",
     "stars": 0,
-    "updated_at": "2026-07-12T04:43:17Z",
+    "updated_at": "2026-07-12T04:52:28Z",
     "url": "https://github.com/craig-b/Orkis"
+  },
+  {
+    "description": "Embeddable agent kernel for durable, provider-neutral LLM agents with permissions, pluggable tools, observability, and s",
+    "id": "hoonseokyoon/monoid-agent-kernel",
+    "language": "Python",
+    "name": "hoonseokyoon/monoid-agent-kernel",
+    "stars": 1,
+    "updated_at": "2026-07-12T04:52:19Z",
+    "url": "https://github.com/hoonseokyoon/monoid-agent-kernel"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 9,
+    "updated_at": "2026-07-12T04:51:59Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 658,
+    "updated_at": "2026-07-12T04:48:04Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
+    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
+    "id": "petehottelet/smythe",
+    "language": "Python",
+    "name": "petehottelet/smythe",
+    "stars": 1,
+    "updated_at": "2026-07-12T04:49:06Z",
+    "url": "https://github.com/petehottelet/smythe"
+  },
+  {
+    "description": "Production-ready autonomous AI agent for software engineering, featuring planning, coding, memory, and continuous self-i",
+    "id": "thomasnrs/Lumi_Agent",
+    "language": "JavaScript",
+    "name": "thomasnrs/Lumi_Agent",
+    "stars": 2,
+    "updated_at": "2026-07-12T04:45:35Z",
+    "url": "https://github.com/thomasnrs/Lumi_Agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-12T04:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-agent AI scientist that turns experimental data into > publication-ready research papers.",
@@ -25,24 +88,6 @@
     "stars": 53,
     "updated_at": "2026-07-12T04:42:55Z",
     "url": "https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent"
-  },
-  {
-    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
-    "id": "petehottelet/smythe",
-    "language": "Python",
-    "name": "petehottelet/smythe",
-    "stars": 1,
-    "updated_at": "2026-07-12T04:42:41Z",
-    "url": "https://github.com/petehottelet/smythe"
-  },
-  {
-    "description": "Production-ready autonomous AI agent for software engineering, featuring planning, coding, memory, and continuous self-i",
-    "id": "thomasnrs/Lumi_Agent",
-    "language": "JavaScript",
-    "name": "thomasnrs/Lumi_Agent",
-    "stars": 2,
-    "updated_at": "2026-07-12T04:40:54Z",
-    "url": "https://github.com/thomasnrs/Lumi_Agent"
   },
   {
     "description": "Substructure is an engine for building durable, long-running AI agents using only a stateless HTTP endpoint hosted on yo",
@@ -58,7 +103,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26690,
+    "stars": 26691,
     "updated_at": "2026-07-12T04:39:01Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -81,15 +126,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-12T04:35:05Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
     "id": "Asceticrefractoryperiod28/Foundry",
     "language": "TypeScript",
@@ -99,15 +135,6 @@
     "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
   },
   {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 9,
-    "updated_at": "2026-07-12T04:31:42Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
     "id": "salvatoreabient793/cursor-auto-deployment-agent",
     "language": "\u2014",
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-12T04:31:19Z",
     "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-12T04:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-12T04:06:11Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 591,
-    "updated_at": "2026-07-12T04:06:12Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-07-12T04:05:37Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
   }
 ]
