@@ -1,5 +1,113 @@
 [
   {
+    "description": "Provide a customizable AI assistant on Telegram with multiple tools, skills, and monitors that runs locally using hybrid",
+    "id": "Rayan55050/progressive-agent",
+    "language": "Python",
+    "name": "Rayan55050/progressive-agent",
+    "stars": 2,
+    "updated_at": "2026-07-12T03:53:33Z",
+    "url": "https://github.com/Rayan55050/progressive-agent"
+  },
+  {
+    "description": "Apply unified diffs in Python without git or patch tools, handling messy AI-generated patches and copy-paste errors with",
+    "id": "rxnzyor/patchpilot",
+    "language": "Python",
+    "name": "rxnzyor/patchpilot",
+    "stars": 0,
+    "updated_at": "2026-07-12T03:53:29Z",
+    "url": "https://github.com/rxnzyor/patchpilot"
+  },
+  {
+    "description": "Store, consolidate, and recall coding agent memories with provenance tracking using SQLite and FAISS for fast, structure",
+    "id": "InitialDBklyn/consolidation-memory",
+    "language": "Python",
+    "name": "InitialDBklyn/consolidation-memory",
+    "stars": 2,
+    "updated_at": "2026-07-12T03:53:01Z",
+    "url": "https://github.com/InitialDBklyn/consolidation-memory"
+  },
+  {
+    "description": "Define a clear methodology to build, test, and deploy AI agent software with rigorous engineering standards.",
+    "id": "Maroo1121/Agent-Driven-Development",
+    "language": "Shell",
+    "name": "Maroo1121/Agent-Driven-Development",
+    "stars": 1,
+    "updated_at": "2026-07-12T03:51:22Z",
+    "url": "https://github.com/Maroo1121/Agent-Driven-Development"
+  },
+  {
+    "description": "Build and manage AI-driven workflows with private data control, multi-provider LLM support, and local-first architecture",
+    "id": "Hundred-praisworthiness384/DomainOS",
+    "language": "TypeScript",
+    "name": "Hundred-praisworthiness384/DomainOS",
+    "stars": 0,
+    "updated_at": "2026-07-12T03:49:12Z",
+    "url": "https://github.com/Hundred-praisworthiness384/DomainOS"
+  },
+  {
+    "description": "Manage autonomous AI agents at scale with persistent sessions, tool access, and safe human oversight in an efficient, sc",
+    "id": "Bohra-Nitin/AgentManager",
+    "language": "\u2014",
+    "name": "Bohra-Nitin/AgentManager",
+    "stars": 0,
+    "updated_at": "2026-07-12T03:48:55Z",
+    "url": "https://github.com/Bohra-Nitin/AgentManager"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 72,
+    "updated_at": "2026-07-12T03:47:47Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-12T03:47:46Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 26688,
+    "updated_at": "2026-07-12T03:47:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83e\udd16 Build AI agents with Go featuring multi-agent orchestration, planning, tool use, and support for Gemini, OpenAI, Anthr",
+    "id": "Luiz184/gokin-sdk",
+    "language": "Go",
+    "name": "Luiz184/gokin-sdk",
+    "stars": 2,
+    "updated_at": "2026-07-12T03:46:54Z",
+    "url": "https://github.com/Luiz184/gokin-sdk"
+  },
+  {
+    "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
+    "id": "CocoRoF/geny-executor",
+    "language": "Python",
+    "name": "CocoRoF/geny-executor",
+    "stars": 2,
+    "updated_at": "2026-07-12T03:46:50Z",
+    "url": "https://github.com/CocoRoF/geny-executor"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-12T03:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "ContextLattice is the local-first control plane for long-horizon agent memory, coordination, and behavioral provenance. ",
     "id": "sheawinkler/ContextLattice",
     "language": "Go",
@@ -16,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-12T03:44:16Z",
     "url": "https://github.com/tareksyria/SREAgents"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 72,
-    "updated_at": "2026-07-12T03:43:57Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "An agentic AI platform for .NET: run autonomous agents under graduated supervision \u2014 durable pause/resume runs, Firecrac",
@@ -88,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-07-12T03:31:18Z",
     "url": "https://github.com/cuteecarrot/AgentHub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-12T03:30:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
@@ -194,7 +284,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 658,
-    "updated_at": "2026-07-12T03:42:37Z",
+    "updated_at": "2026-07-12T03:47:01Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
@@ -205,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-07-12T03:04:08Z",
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
-    "id": "CocoRoF/geny-executor",
-    "language": "Python",
-    "name": "CocoRoF/geny-executor",
-    "stars": 2,
-    "updated_at": "2026-07-12T03:44:04Z",
-    "url": "https://github.com/CocoRoF/geny-executor"
   },
   {
     "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
@@ -232,15 +313,6 @@
     "stars": 10,
     "updated_at": "2026-07-12T03:00:44Z",
     "url": "https://github.com/AmritaBot/AmritaCore"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26687,
-    "updated_at": "2026-07-12T02:56:55Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A cybernetic runtime environment for AI agent swarms. Utilizes the topological geometry of the K4 Algebra of Four-Fold D",
@@ -337,7 +409,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7092,
+    "stars": 7093,
     "updated_at": "2026-07-12T02:29:04Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-12T02:24:23Z",
     "url": "https://github.com/landjunge/gnom-hub"
-  },
-  {
-    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
-    "id": "rameswaran-mohan/project-systemu",
-    "language": "Python",
-    "name": "rameswaran-mohan/project-systemu",
-    "stars": 2,
-    "updated_at": "2026-07-12T02:17:02Z",
-    "url": "https://github.com/rameswaran-mohan/project-systemu"
-  },
-  {
-    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-12T02:16:50Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Multi-agent AI scientist that turns experimental data into > publication-ready research papers.",
-    "id": "Eldergenix/Plato-Scientific-Research-Autonomous-Agent",
-    "language": "Python",
-    "name": "Eldergenix/Plato-Scientific-Research-Autonomous-Agent",
-    "stars": 53,
-    "updated_at": "2026-07-12T02:16:24Z",
-    "url": "https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 17,
-    "updated_at": "2026-07-12T03:16:29Z",
-    "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 0,
-    "updated_at": "2026-07-12T02:09:03Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-12T02:08:49Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 42,
-    "updated_at": "2026-07-12T02:04:04Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14545,
-    "updated_at": "2026-07-12T02:00:38Z",
-    "url": "https://github.com/eigent-ai/eigent"
   }
 ]
