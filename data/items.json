@@ -1,12 +1,48 @@
 [
   {
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 657,
+    "updated_at": "2026-07-12T00:07:55Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
     "description": "Eidentic is the open-source TypeScript SDK for AI agents with self-improving memory and production fundamentals built in",
     "id": "eidentic/eidentic",
     "language": "TypeScript",
     "name": "eidentic/eidentic",
     "stars": 3,
-    "updated_at": "2026-07-11T23:59:30Z",
+    "updated_at": "2026-07-12T00:07:32Z",
     "url": "https://github.com/eidentic/eidentic"
+  },
+  {
+    "description": "Local-first goal execution harness for AI agents \u2014 plan \u2192 execute \u2192 review \u2192 done. Deterministic review gates, loop guar",
+    "id": "moortekweb-art/agentic-harness",
+    "language": "Python",
+    "name": "moortekweb-art/agentic-harness",
+    "stars": 0,
+    "updated_at": "2026-07-12T00:04:35Z",
+    "url": "https://github.com/moortekweb-art/agentic-harness"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-12T00:02:11Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-12T00:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -25,24 +61,6 @@
     "stars": 2,
     "updated_at": "2026-07-11T23:57:54Z",
     "url": "https://github.com/ionalpha/flynn"
-  },
-  {
-    "description": "Local-first goal execution harness for AI agents \u2014 plan \u2192 execute \u2192 review \u2192 done. Deterministic review gates, loop guar",
-    "id": "moortekweb-art/agentic-harness",
-    "language": "Python",
-    "name": "moortekweb-art/agentic-harness",
-    "stars": 0,
-    "updated_at": "2026-07-11T23:57:00Z",
-    "url": "https://github.com/moortekweb-art/agentic-harness"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 657,
-    "updated_at": "2026-07-11T23:58:35Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "blakebauman/felix",
     "stars": 0,
-    "updated_at": "2026-07-11T23:58:43Z",
+    "updated_at": "2026-07-12T00:07:41Z",
     "url": "https://github.com/blakebauman/felix"
   },
   {
@@ -124,24 +142,6 @@
     "stars": 9,
     "updated_at": "2026-07-11T23:48:16Z",
     "url": "https://github.com/Zuga-Technologies/zugamind"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-11T23:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-11T23:56:07Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
