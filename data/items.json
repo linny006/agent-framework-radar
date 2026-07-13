@@ -1,5 +1,95 @@
 [
   {
+    "description": "ElBot landing page \u2014 Let It Feel Everything",
+    "id": "Elfreese/elbot-landing",
+    "language": "CSS",
+    "name": "Elfreese/elbot-landing",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:58:00Z",
+    "url": "https://github.com/Elfreese/elbot-landing"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-07-13T12:56:54Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
+    "id": "Omni-Craft/OmniCraft",
+    "language": "Python",
+    "name": "Omni-Craft/OmniCraft",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:56:41Z",
+    "url": "https://github.com/Omni-Craft/OmniCraft"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:55:55Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-13T12:55:22Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
+    "id": "Clean-Dust/worldwave",
+    "language": "Python",
+    "name": "Clean-Dust/worldwave",
+    "stars": 2,
+    "updated_at": "2026-07-13T12:54:59Z",
+    "url": "https://github.com/Clean-Dust/worldwave"
+  },
+  {
+    "description": "write once in markdown. forge for any harness.",
+    "id": "odysseusdev/hephaestus",
+    "language": "TypeScript",
+    "name": "odysseusdev/hephaestus",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:51:49Z",
+    "url": "https://github.com/odysseusdev/hephaestus"
+  },
+  {
+    "description": "The open, model-agnostic platform to build your own AI agent and run it everywhere \u2014 self-hosted, safe by default.",
+    "id": "ownware-ai/ownware",
+    "language": "TypeScript",
+    "name": "ownware-ai/ownware",
+    "stars": 5,
+    "updated_at": "2026-07-13T12:48:41Z",
+    "url": "https://github.com/ownware-ai/ownware"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-13T12:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-07-13T12:44:37Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -9,21 +99,12 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "write once in markdown. forge for any harness.",
-    "id": "odysseusdev/hephaestus",
-    "language": "TypeScript",
-    "name": "odysseusdev/hephaestus",
-    "stars": 0,
-    "updated_at": "2026-07-13T12:41:58Z",
-    "url": "https://github.com/odysseusdev/hephaestus"
-  },
-  {
     "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
     "id": "rararulab/rara",
     "language": "Rust",
     "name": "rararulab/rara",
     "stars": 11,
-    "updated_at": "2026-07-13T12:41:38Z",
+    "updated_at": "2026-07-13T12:58:38Z",
     "url": "https://github.com/rararulab/rara"
   },
   {
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18482,
-    "updated_at": "2026-07-13T12:39:49Z",
+    "updated_at": "2026-07-13T13:00:07Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -54,31 +135,13 @@
     "url": "https://github.com/Caprista/KarvyLoop"
   },
   {
-    "description": "ElBot landing page \u2014 Let It Feel Everything",
-    "id": "Elfreese/elbot-landing",
-    "language": "CSS",
-    "name": "Elfreese/elbot-landing",
-    "stars": 0,
-    "updated_at": "2026-07-13T12:32:33Z",
-    "url": "https://github.com/Elfreese/elbot-landing"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7186,
+    "stars": 7187,
     "updated_at": "2026-07-13T12:31:30Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-13T12:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source multi-tenant agent runtime for production. Tenant isolation, per-user cost controls, dual-sandbox security, ",
@@ -189,15 +252,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-13T12:32:52Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
     "id": "EvoMap/awesome-agent-evolution",
     "language": "JavaScript",
@@ -265,7 +319,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12089,
+    "stars": 12090,
     "updated_at": "2026-07-13T11:47:33Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -277,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T11:45:20Z",
     "url": "https://github.com/zerovia/be-a-lucky-block-hub"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-07-13T12:44:37Z",
-    "url": "https://github.com/kh0pper/crow"
   },
   {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
@@ -320,7 +365,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 15,
-    "updated_at": "2026-07-13T12:43:41Z",
+    "updated_at": "2026-07-13T12:58:01Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-13T11:27:36Z",
     "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:27:09Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
-    "id": "akyourowngames/friday",
-    "language": "Python",
-    "name": "akyourowngames/friday",
-    "stars": 4,
-    "updated_at": "2026-07-13T11:27:06Z",
-    "url": "https://github.com/akyourowngames/friday"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:25:13Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:24:50Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:24:33Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
   }
 ]
