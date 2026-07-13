@@ -1,11 +1,74 @@
 [
   {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 256,
+    "updated_at": "2026-07-13T15:43:06Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
+    "id": "ranxi2001/zero2Agent",
+    "language": "HTML",
+    "name": "ranxi2001/zero2Agent",
+    "stars": 162,
+    "updated_at": "2026-07-13T15:42:44Z",
+    "url": "https://github.com/ranxi2001/zero2Agent"
+  },
+  {
+    "description": "White-box, task-centric multi-agent AI platform for business ops, sysadmin, research & office automation \u2014 every reasoni",
+    "id": "sievepub-2000/octoagent",
+    "language": "Python",
+    "name": "sievepub-2000/octoagent",
+    "stars": 0,
+    "updated_at": "2026-07-13T15:41:46Z",
+    "url": "https://github.com/sievepub-2000/octoagent"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 115,
+    "updated_at": "2026-07-13T15:41:41Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
+    "id": "zizetu/existential-identity-test-engine",
+    "language": "Python",
+    "name": "zizetu/existential-identity-test-engine",
+    "stars": 1,
+    "updated_at": "2026-07-13T15:41:22Z",
+    "url": "https://github.com/zizetu/existential-identity-test-engine"
+  },
+  {
+    "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
+    "id": "rararulab/rara",
+    "language": "Rust",
+    "name": "rararulab/rara",
+    "stars": 11,
+    "updated_at": "2026-07-13T15:41:10Z",
+    "url": "https://github.com/rararulab/rara"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-07-13T15:40:24Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
     "id": "Omni-Craft/OmniCraft",
     "language": "Python",
     "name": "Omni-Craft/OmniCraft",
     "stars": 0,
-    "updated_at": "2026-07-13T15:28:25Z",
+    "updated_at": "2026-07-13T15:40:19Z",
     "url": "https://github.com/Omni-Craft/OmniCraft"
   },
   {
@@ -14,26 +77,62 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 42,
-    "updated_at": "2026-07-13T15:27:14Z",
+    "updated_at": "2026-07-13T15:39:28Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6556,
+    "updated_at": "2026-07-13T15:39:12Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-13T15:35:26Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
+    "id": "bigbraingoldfish/lullabeast",
+    "language": "Python",
+    "name": "bigbraingoldfish/lullabeast",
+    "stars": 11,
+    "updated_at": "2026-07-13T15:34:43Z",
+    "url": "https://github.com/bigbraingoldfish/lullabeast"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7193,
-    "updated_at": "2026-07-13T15:23:45Z",
+    "stars": 7194,
+    "updated_at": "2026-07-13T15:33:56Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
-    "id": "ranxi2001/zero2Agent",
-    "language": "HTML",
-    "name": "ranxi2001/zero2Agent",
-    "stars": 162,
-    "updated_at": "2026-07-13T15:23:43Z",
-    "url": "https://github.com/ranxi2001/zero2Agent"
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-13T15:31:22Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-13T15:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-healing diagnostic agent for Hermes Studio",
@@ -43,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T15:22:04Z",
     "url": "https://github.com/Alex663028/hermes-medic"
-  },
-  {
-    "description": "White-box, task-centric multi-agent AI platform for business ops, sysadmin, research & office automation \u2014 every reasoni",
-    "id": "sievepub-2000/octoagent",
-    "language": "Python",
-    "name": "sievepub-2000/octoagent",
-    "stars": 0,
-    "updated_at": "2026-07-13T15:21:19Z",
-    "url": "https://github.com/sievepub-2000/octoagent"
   },
   {
     "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
@@ -67,7 +157,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18485,
+    "stars": 18487,
     "updated_at": "2026-07-13T15:19:06Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -81,24 +171,6 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 256,
-    "updated_at": "2026-07-13T15:16:35Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-13T15:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
     "id": "Eliyce/paqad-ai",
     "language": "TypeScript",
@@ -106,15 +178,6 @@
     "stars": 7,
     "updated_at": "2026-07-13T15:23:57Z",
     "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
-    "id": "rararulab/rara",
-    "language": "Rust",
-    "name": "rararulab/rara",
-    "stars": 11,
-    "updated_at": "2026-07-13T15:29:45Z",
-    "url": "https://github.com/rararulab/rara"
   },
   {
     "description": "Open-source AI workflow engine \u2014 build, run, measure, and self-improve multi-step agent workflows. macOS app, MCP protoc",
@@ -176,7 +239,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 197,
-    "updated_at": "2026-07-13T15:02:26Z",
+    "updated_at": "2026-07-13T15:41:47Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -230,7 +293,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 15,
-    "updated_at": "2026-07-13T15:25:55Z",
+    "updated_at": "2026-07-13T15:33:47Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-13T14:41:55Z",
     "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-07-13T14:41:03Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-07-13T14:40:43Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
-    "id": "akyourowngames/friday",
-    "language": "Python",
-    "name": "akyourowngames/friday",
-    "stars": 4,
-    "updated_at": "2026-07-13T14:38:02Z",
-    "url": "https://github.com/akyourowngames/friday"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-13T14:36:45Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Kotlin-first framework for building Model Agnostic AI applications, RAG systems, and agentic workflows on Android and Ko",
-    "id": "MobileGraph/mobilegraph",
-    "language": "Kotlin",
-    "name": "MobileGraph/mobilegraph",
-    "stars": 0,
-    "updated_at": "2026-07-13T15:04:23Z",
-    "url": "https://github.com/MobileGraph/mobilegraph"
-  },
-  {
-    "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
-    "id": "Zuga-Technologies/zugamind",
-    "language": "Python",
-    "name": "Zuga-Technologies/zugamind",
-    "stars": 10,
-    "updated_at": "2026-07-13T14:35:17Z",
-    "url": "https://github.com/Zuga-Technologies/zugamind"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 115,
-    "updated_at": "2026-07-13T15:26:14Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   }
 ]
