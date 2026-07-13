@@ -1,5 +1,95 @@
 [
   {
+    "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
+    "id": "rararulab/rara",
+    "language": "Rust",
+    "name": "rararulab/rara",
+    "stars": 11,
+    "updated_at": "2026-07-13T21:14:28Z",
+    "url": "https://github.com/rararulab/rara"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6557,
+    "updated_at": "2026-07-13T21:13:41Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 42,
+    "updated_at": "2026-07-13T21:12:47Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-13T21:12:27Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12097,
+    "updated_at": "2026-07-13T21:12:08Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
+    "id": "swarmauri/swarmauri-sdk",
+    "language": "Python",
+    "name": "swarmauri/swarmauri-sdk",
+    "stars": 104,
+    "updated_at": "2026-07-13T21:10:58Z",
+    "url": "https://github.com/swarmauri/swarmauri-sdk"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3855,
+    "updated_at": "2026-07-13T21:09:58Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
+    "id": "zizetu/existential-identity-test-engine",
+    "language": "Python",
+    "name": "zizetu/existential-identity-test-engine",
+    "stars": 1,
+    "updated_at": "2026-07-13T21:07:04Z",
+    "url": "https://github.com/zizetu/existential-identity-test-engine"
+  },
+  {
+    "description": "A general-purpose Python framework for building LLM agents and multi-agent systems. \"Four lines of code, an agent with m",
+    "id": "xinhuangcs/agentmaker",
+    "language": "Python",
+    "name": "xinhuangcs/agentmaker",
+    "stars": 42,
+    "updated_at": "2026-07-13T21:01:40Z",
+    "url": "https://github.com/xinhuangcs/agentmaker"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-13T21:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -41,7 +131,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-07-13T20:59:44Z",
+    "updated_at": "2026-07-13T21:02:56Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -49,7 +139,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7210,
+    "stars": 7211,
     "updated_at": "2026-07-13T20:55:20Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -63,15 +153,6 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
-    "id": "rararulab/rara",
-    "language": "Rust",
-    "name": "rararulab/rara",
-    "stars": 11,
-    "updated_at": "2026-07-13T20:58:45Z",
-    "url": "https://github.com/rararulab/rara"
-  },
-  {
     "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
     "id": "zerovia/be-a-lucky-block-hub",
     "language": "HTML",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T20:46:08Z",
     "url": "https://github.com/zerovia/be-a-lucky-block-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-13T20:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -162,15 +234,6 @@
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 42,
-    "updated_at": "2026-07-13T20:56:04Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "A cybernetic runtime environment for AI agent swarms. Utilizes the topological geometry of the K4 Algebra of Four-Fold D",
     "id": "Michael-Ax64/K4-AlgebraicSwarm",
     "language": "\u2014",
@@ -241,24 +304,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T20:29:57Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3855,
-    "updated_at": "2026-07-13T20:51:06Z",
-    "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
-    "id": "swarmauri/swarmauri-sdk",
-    "language": "Python",
-    "name": "swarmauri/swarmauri-sdk",
-    "stars": 104,
-    "updated_at": "2026-07-13T20:28:34Z",
-    "url": "https://github.com/swarmauri/swarmauri-sdk"
   },
   {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
@@ -369,15 +414,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "A general-purpose Python framework for building LLM agents and multi-agent systems. \"Four lines of code, an agent with m",
-    "id": "xinhuangcs/agentmaker",
-    "language": "Python",
-    "name": "xinhuangcs/agentmaker",
-    "stars": 42,
-    "updated_at": "2026-07-13T20:20:36Z",
-    "url": "https://github.com/xinhuangcs/agentmaker"
-  },
-  {
     "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
     "id": "jesayas7817/agent-reliability-engineering",
     "language": "Shell",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T20:16:55Z",
     "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-07-13T20:15:19Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-07-13T20:14:16Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 2,
-    "updated_at": "2026-07-13T20:13:46Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-07-13T20:13:34Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
   }
 ]
