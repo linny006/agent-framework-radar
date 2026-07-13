@@ -1,11 +1,83 @@
 [
   {
+    "description": "",
+    "id": "ledgr-rs/prism",
+    "language": "\u2014",
+    "name": "ledgr-rs/prism",
+    "stars": 0,
+    "updated_at": "2026-07-13T03:43:34Z",
+    "url": "https://github.com/ledgr-rs/prism"
+  },
+  {
+    "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
+    "id": "rararulab/rara",
+    "language": "Rust",
+    "name": "rararulab/rara",
+    "stars": 11,
+    "updated_at": "2026-07-13T03:40:35Z",
+    "url": "https://github.com/rararulab/rara"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-07-13T03:39:25Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4761,
+    "updated_at": "2026-07-13T03:37:38Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
+    "id": "zerovia/be-a-lucky-block-hub",
+    "language": "HTML",
+    "name": "zerovia/be-a-lucky-block-hub",
+    "stars": 0,
+    "updated_at": "2026-07-13T03:37:02Z",
+    "url": "https://github.com/zerovia/be-a-lucky-block-hub"
+  },
+  {
+    "description": "",
+    "id": "ZhangHalfGod/Agents-Skill-Site",
+    "language": "JavaScript",
+    "name": "ZhangHalfGod/Agents-Skill-Site",
+    "stars": 0,
+    "updated_at": "2026-07-13T03:31:44Z",
+    "url": "https://github.com/ZhangHalfGod/Agents-Skill-Site"
+  },
+  {
+    "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
+    "id": "Asceticrefractoryperiod28/Foundry",
+    "language": "TypeScript",
+    "name": "Asceticrefractoryperiod28/Foundry",
+    "stars": 0,
+    "updated_at": "2026-07-13T03:31:15Z",
+    "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-13T03:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
     "id": "open1s/bos",
     "language": "Rust",
     "name": "open1s/bos",
     "stars": 2,
-    "updated_at": "2026-07-13T03:29:37Z",
+    "updated_at": "2026-07-13T03:44:09Z",
     "url": "https://github.com/open1s/bos"
   },
   {
@@ -72,13 +144,13 @@
     "url": "https://github.com/Smita6756/Hbrain"
   },
   {
-    "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
-    "id": "rararulab/rara",
-    "language": "Rust",
-    "name": "rararulab/rara",
-    "stars": 11,
-    "updated_at": "2026-07-13T03:30:14Z",
-    "url": "https://github.com/rararulab/rara"
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7149,
+    "updated_at": "2026-07-13T03:43:14Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
@@ -167,7 +239,7 @@
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 2,
-    "updated_at": "2026-07-13T03:21:49Z",
+    "updated_at": "2026-07-13T03:31:03Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -225,15 +297,6 @@
     "url": "https://github.com/monahright467/harness-books"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-13T03:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Substructure is an engine for building durable, long-running AI agents using only a stateless HTTP endpoint hosted on yo",
     "id": "substructureai/substructure",
     "language": "Rust",
@@ -241,15 +304,6 @@
     "stars": 5,
     "updated_at": "2026-07-13T03:14:00Z",
     "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "",
-    "id": "ZhangHalfGod/Agents-Skill-Site",
-    "language": "JavaScript",
-    "name": "ZhangHalfGod/Agents-Skill-Site",
-    "stars": 0,
-    "updated_at": "2026-07-13T03:13:34Z",
-    "url": "https://github.com/ZhangHalfGod/Agents-Skill-Site"
   },
   {
     "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
@@ -313,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T03:09:47Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7146,
-    "updated_at": "2026-07-13T03:24:20Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-13T03:05:18Z",
     "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-07-13T03:04:58Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-07-13T03:04:18Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "Agent SDK, CLI, RPC in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 6,
-    "updated_at": "2026-07-13T03:01:49Z",
-    "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
-    "id": "Ibisselfgovernment28/v1-multiagent-articles",
-    "language": "\u2014",
-    "name": "Ibisselfgovernment28/v1-multiagent-articles",
-    "stars": 1,
-    "updated_at": "2026-07-13T03:01:43Z",
-    "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
-  },
-  {
-    "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
-    "id": "gatherfigtree740/ai-agent-landscape",
-    "language": "\u2014",
-    "name": "gatherfigtree740/ai-agent-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-13T03:00:02Z",
-    "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
   }
 ]
