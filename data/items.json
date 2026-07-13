@@ -1,11 +1,65 @@
 [
   {
+    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
+    "id": "Jovancoding/Network-AI",
+    "language": "TypeScript",
+    "name": "Jovancoding/Network-AI",
+    "stars": 67,
+    "updated_at": "2026-07-13T21:33:04Z",
+    "url": "https://github.com/Jovancoding/Network-AI"
+  },
+  {
+    "description": "The definitive catalog of AI agent patterns. One definition, any framework. 27+ agents, 8 patterns, 6 framework adapters",
+    "id": "Hovborg/multi-agent",
+    "language": "JavaScript",
+    "name": "Hovborg/multi-agent",
+    "stars": 1,
+    "updated_at": "2026-07-13T21:32:52Z",
+    "url": "https://github.com/Hovborg/multi-agent"
+  },
+  {
+    "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
+    "id": "rararulab/rara",
+    "language": "Rust",
+    "name": "rararulab/rara",
+    "stars": 11,
+    "updated_at": "2026-07-13T21:32:13Z",
+    "url": "https://github.com/rararulab/rara"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-07-13T21:31:13Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18493,
+    "updated_at": "2026-07-13T21:30:25Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-13T21:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 42,
-    "updated_at": "2026-07-13T21:29:26Z",
+    "updated_at": "2026-07-13T21:32:24Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 197,
-    "updated_at": "2026-07-13T21:18:08Z",
+    "updated_at": "2026-07-13T21:31:12Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -124,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T21:16:27Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-13T21:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
-    "id": "rararulab/rara",
-    "language": "Rust",
-    "name": "rararulab/rara",
-    "stars": 11,
-    "updated_at": "2026-07-13T21:27:16Z",
-    "url": "https://github.com/rararulab/rara"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -221,17 +257,8 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-07-13T21:22:43Z",
+    "updated_at": "2026-07-13T21:33:10Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18493,
-    "updated_at": "2026-07-13T20:54:01Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T20:27:14Z",
     "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-07-13T20:26:36Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-07-13T20:26:19Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 1,
-    "updated_at": "2026-07-13T20:24:45Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
   }
 ]
