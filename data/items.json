@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 263,
+    "updated_at": "2026-07-14T10:58:42Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
+    "id": "junebuild/june",
+    "language": "TypeScript",
+    "name": "junebuild/june",
+    "stars": 3,
+    "updated_at": "2026-07-14T10:56:16Z",
+    "url": "https://github.com/junebuild/june"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 77,
+    "updated_at": "2026-07-14T10:55:04Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 2,
+    "updated_at": "2026-07-14T10:54:00Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18505,
+    "updated_at": "2026-07-14T10:51:45Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
+    "id": "Omni-Craft/OmniCraft",
+    "language": "Python",
+    "name": "Omni-Craft/OmniCraft",
+    "stars": 0,
+    "updated_at": "2026-07-14T10:49:54Z",
+    "url": "https://github.com/Omni-Craft/OmniCraft"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-14T10:47:25Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-14T10:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7247,
-    "updated_at": "2026-07-14T10:44:47Z",
+    "updated_at": "2026-07-14T10:56:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 153,
     "updated_at": "2026-07-14T10:43:45Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 263,
-    "updated_at": "2026-07-14T10:43:24Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "Run your business by voice note. A production-cultivated operator framework for Claude Code agents \u2014 rules, connectors, ",
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T10:40:49Z",
     "url": "https://github.com/zerovia/be-a-lucky-block-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-14T10:39:13Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "White-box, task-centric multi-agent AI platform for business ops, sysadmin, research & office automation \u2014 every reasoni",
@@ -153,15 +207,6 @@
     "url": "https://github.com/achappey/aihappey-chat"
   },
   {
-    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 2,
-    "updated_at": "2026-07-14T10:43:08Z",
-    "url": "https://github.com/ionalpha/flynn"
-  },
-  {
     "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
     "id": "the-long-ride/engram",
     "language": "TypeScript",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-14T10:43:44Z",
+    "updated_at": "2026-07-14T10:58:08Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -333,15 +378,6 @@
     "url": "https://github.com/yomorun/yomo"
   },
   {
-    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
-    "id": "junebuild/june",
-    "language": "TypeScript",
-    "name": "junebuild/june",
-    "stars": 3,
-    "updated_at": "2026-07-14T10:24:52Z",
-    "url": "https://github.com/junebuild/june"
-  },
-  {
     "description": "Record, replay, and improve AI agents in production, built on ZenML",
     "id": "zenml-io/kitaru",
     "language": "Python",
@@ -378,15 +414,6 @@
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18504,
-    "updated_at": "2026-07-14T10:37:08Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
     "id": "yassineelfakiri/agentpg",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-14T09:16:00Z",
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "The missing observability layer for AI agents.  Real-time session visualization. Every prompt. Every tool call. Every mo",
-    "id": "hanyo-ai/pulse",
-    "language": "TypeScript",
-    "name": "hanyo-ai/pulse",
-    "stars": 4,
-    "updated_at": "2026-07-14T09:12:19Z",
-    "url": "https://github.com/hanyo-ai/pulse"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14558,
-    "updated_at": "2026-07-14T09:50:55Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:06:48Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   }
 ]
