@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18504,
+    "updated_at": "2026-07-14T08:51:25Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Record, replay, and improve AI agents in production, built on ZenML",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 206,
+    "updated_at": "2026-07-14T08:53:35Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "Phone local agent",
+    "id": "HaohanHe/Opedrgent",
+    "language": "Kotlin",
+    "name": "HaohanHe/Opedrgent",
+    "stars": 2,
+    "updated_at": "2026-07-14T08:50:51Z",
+    "url": "https://github.com/HaohanHe/Opedrgent"
+  },
+  {
+    "description": "\ud83d\udd11 HomeStream \u00b7 \u5bb6\u56ed\u00b7\u6d41 \u2014 \u96f6\u6210\u672c\u81ea\u6258\u7ba1\u591aAgent\u534f\u4f5c\u6846\u67b6\uff0c\u901a\u5f80AI\u4e16\u754c\u7684\u90a3\u628a\u94a5\u5319 | Zero-cost self-hosted multi-agent framework \u2014 The key to AI world",
+    "id": "Ninefoldatwill/homestream",
+    "language": "Python",
+    "name": "Ninefoldatwill/homestream",
+    "stars": 0,
+    "updated_at": "2026-07-14T08:53:38Z",
+    "url": "https://github.com/Ninefoldatwill/homestream"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14558,
+    "updated_at": "2026-07-14T08:50:21Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12112,
+    "updated_at": "2026-07-14T08:46:21Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-14T08:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The missing observability layer for AI agents.  Real-time session visualization. Every prompt. Every tool call. Every mo",
     "id": "hanyo-ai/pulse",
     "language": "TypeScript",
@@ -9,13 +72,22 @@
     "url": "https://github.com/hanyo-ai/pulse"
   },
   {
-    "description": "Record, replay, and improve AI agents in production, built on ZenML",
-    "id": "zenml-io/kitaru",
+    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 302,
+    "updated_at": "2026-07-14T08:43:28Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 206,
-    "updated_at": "2026-07-14T08:43:34Z",
-    "url": "https://github.com/zenml-io/kitaru"
+    "name": "omnigent-ai/omnigent",
+    "stars": 7242,
+    "updated_at": "2026-07-14T08:42:58Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Native C++17 AI agent runtime \u2014 local-first, embeddable, MCP-native. Tool-calling, memory, and an async agent loop that ",
@@ -25,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-07-14T08:40:49Z",
     "url": "https://github.com/Ambar-Gupta22/corvus"
-  },
-  {
-    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
-    "id": "agenvoy/Agenvoy",
-    "language": "Go",
-    "name": "agenvoy/Agenvoy",
-    "stars": 301,
-    "updated_at": "2026-07-14T08:43:28Z",
-    "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
     "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
@@ -90,15 +153,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-14T08:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
     "id": "RikyZ90/ShibaClaw",
     "language": "Python",
@@ -108,15 +162,6 @@
     "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18504,
-    "updated_at": "2026-07-14T08:25:13Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T08:22:53Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7241,
-    "updated_at": "2026-07-14T08:42:58Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
@@ -160,15 +196,6 @@
     "stars": 10,
     "updated_at": "2026-07-14T08:09:45Z",
     "url": "https://github.com/AmritaBot/AmritaCore"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12112,
-    "updated_at": "2026-07-14T08:39:28Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-14T07:40:18Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-07-14T07:39:58Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 6,
-    "updated_at": "2026-07-14T07:39:06Z",
-    "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-07-14T08:03:46Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
