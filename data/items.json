@@ -5,8 +5,17 @@
     "language": "Shell",
     "name": "rfxn/rdf",
     "stars": 15,
-    "updated_at": "2026-07-14T23:28:00Z",
+    "updated_at": "2026-07-14T23:30:49Z",
     "url": "https://github.com/rfxn/rdf"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-14T23:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
@@ -72,15 +81,6 @@
     "url": "https://github.com/agentjido/jidoka"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-14T23:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
     "id": "truvaagents/truva-g3",
     "language": "Go",
@@ -104,7 +104,7 @@
     "language": "Python",
     "name": "RikyZ90/ShibaClaw",
     "stars": 77,
-    "updated_at": "2026-07-14T23:07:07Z",
+    "updated_at": "2026-07-14T23:30:39Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
