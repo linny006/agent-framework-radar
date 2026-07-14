@@ -1,5 +1,59 @@
 [
   {
+    "description": "White-box, task-centric multi-agent AI platform for business ops, sysadmin, research & office automation \u2014 every reasoni",
+    "id": "sievepub-2000/octoagent",
+    "language": "Python",
+    "name": "sievepub-2000/octoagent",
+    "stars": 0,
+    "updated_at": "2026-07-14T10:36:47Z",
+    "url": "https://github.com/sievepub-2000/octoagent"
+  },
+  {
+    "description": "A standardized interface layer for AI agents to interact with blockchains \u2014 declarative intents, policy enforcement, ver",
+    "id": "CodebyAnandi/blockchain-context-protocol",
+    "language": "\u2014",
+    "name": "CodebyAnandi/blockchain-context-protocol",
+    "stars": 0,
+    "updated_at": "2026-07-14T10:32:01Z",
+    "url": "https://github.com/CodebyAnandi/blockchain-context-protocol"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 26918,
+    "updated_at": "2026-07-14T10:31:33Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 263,
+    "updated_at": "2026-07-14T10:31:32Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline wo",
+    "id": "CronusL-1141/AI-company",
+    "language": "Python",
+    "name": "CronusL-1141/AI-company",
+    "stars": 317,
+    "updated_at": "2026-07-14T10:31:04Z",
+    "url": "https://github.com/CronusL-1141/AI-company"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-14T10:30:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -27,29 +81,11 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-14T10:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26918,
-    "updated_at": "2026-07-14T10:14:51Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7246,
+    "stars": 7247,
     "updated_at": "2026-07-14T10:14:13Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -99,15 +135,6 @@
     "url": "https://github.com/Ninefoldatwill/homestream"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 263,
-    "updated_at": "2026-07-14T10:00:53Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
     "id": "sipyourdrink-ltd/bernstein",
     "language": "Python",
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-14T10:24:52Z",
+    "updated_at": "2026-07-14T10:34:31Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18504,
-    "updated_at": "2026-07-14T09:54:25Z",
+    "updated_at": "2026-07-14T10:37:08Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-14T08:40:49Z",
     "url": "https://github.com/Ambar-Gupta22/corvus"
-  },
-  {
-    "description": "White-box, task-centric multi-agent AI platform for business ops, sysadmin, research & office automation \u2014 every reasoni",
-    "id": "sievepub-2000/octoagent",
-    "language": "Python",
-    "name": "sievepub-2000/octoagent",
-    "stars": 0,
-    "updated_at": "2026-07-14T08:33:45Z",
-    "url": "https://github.com/sievepub-2000/octoagent"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 77,
-    "updated_at": "2026-07-14T09:42:00Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
-    "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
-    "id": "CocoRoF/geny-executor",
-    "language": "Python",
-    "name": "CocoRoF/geny-executor",
-    "stars": 2,
-    "updated_at": "2026-07-14T08:16:45Z",
-    "url": "https://github.com/CocoRoF/geny-executor"
   }
 ]
