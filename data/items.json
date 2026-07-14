@@ -1,21 +1,21 @@
 [
   {
-    "description": "Phone local agent",
-    "id": "HaohanHe/Opedrgent",
-    "language": "Kotlin",
-    "name": "HaohanHe/Opedrgent",
-    "stars": 2,
-    "updated_at": "2026-07-14T09:00:04Z",
-    "url": "https://github.com/HaohanHe/Opedrgent"
+    "description": "Record, replay, and improve AI agents in production, built on ZenML",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 206,
+    "updated_at": "2026-07-14T09:14:25Z",
+    "url": "https://github.com/zenml-io/kitaru"
   },
   {
-    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
-    "id": "junebuild/june",
+    "description": "The missing observability layer for AI agents.  Real-time session visualization. Every prompt. Every tool call. Every mo",
+    "id": "hanyo-ai/pulse",
     "language": "TypeScript",
-    "name": "junebuild/june",
-    "stars": 3,
-    "updated_at": "2026-07-14T08:58:32Z",
-    "url": "https://github.com/junebuild/june"
+    "name": "hanyo-ai/pulse",
+    "stars": 4,
+    "updated_at": "2026-07-14T09:12:19Z",
+    "url": "https://github.com/hanyo-ai/pulse"
   },
   {
     "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
@@ -23,8 +23,53 @@
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
     "stars": 14558,
-    "updated_at": "2026-07-14T08:57:15Z",
+    "updated_at": "2026-07-14T09:12:10Z",
     "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 263,
+    "updated_at": "2026-07-14T09:07:11Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:06:48Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Phone local agent",
+    "id": "HaohanHe/Opedrgent",
+    "language": "Kotlin",
+    "name": "HaohanHe/Opedrgent",
+    "stars": 2,
+    "updated_at": "2026-07-14T09:04:08Z",
+    "url": "https://github.com/HaohanHe/Opedrgent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-14T09:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
+    "id": "junebuild/june",
+    "language": "TypeScript",
+    "name": "junebuild/june",
+    "stars": 3,
+    "updated_at": "2026-07-14T09:10:38Z",
+    "url": "https://github.com/junebuild/june"
   },
   {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
@@ -63,31 +108,13 @@
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-14T08:53:45Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18504,
-    "updated_at": "2026-07-14T08:51:25Z",
+    "updated_at": "2026-07-14T09:13:12Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Record, replay, and improve AI agents in production, built on ZenML",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 206,
-    "updated_at": "2026-07-14T08:53:35Z",
-    "url": "https://github.com/zenml-io/kitaru"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -99,20 +126,11 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "The missing observability layer for AI agents.  Real-time session visualization. Every prompt. Every tool call. Every mo",
-    "id": "hanyo-ai/pulse",
-    "language": "TypeScript",
-    "name": "hanyo-ai/pulse",
-    "stars": 4,
-    "updated_at": "2026-07-14T08:44:04Z",
-    "url": "https://github.com/hanyo-ai/pulse"
-  },
-  {
     "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
     "id": "agenvoy/Agenvoy",
     "language": "Go",
     "name": "agenvoy/Agenvoy",
-    "stars": 303,
+    "stars": 304,
     "updated_at": "2026-07-14T08:43:28Z",
     "url": "https://github.com/agenvoy/Agenvoy"
   },
@@ -121,7 +139,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7243,
+    "stars": 7244,
     "updated_at": "2026-07-14T08:42:58Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T08:33:45Z",
     "url": "https://github.com/sievepub-2000/octoagent"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 263,
-    "updated_at": "2026-07-14T08:31:41Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-14T07:42:07Z",
     "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
-    "id": "zizetu/existential-identity-test-engine",
-    "language": "Python",
-    "name": "zizetu/existential-identity-test-engine",
-    "stars": 1,
-    "updated_at": "2026-07-14T07:42:06Z",
-    "url": "https://github.com/zizetu/existential-identity-test-engine"
   }
 ]
