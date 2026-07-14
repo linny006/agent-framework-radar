@@ -1,11 +1,38 @@
 [
   {
+    "description": "Production-ready Python framework for AI agents with built-in guardrails, audit logging, cost tracking, and hybrid RAG. ",
+    "id": "johnnichev/selectools",
+    "language": "Python",
+    "name": "johnnichev/selectools",
+    "stars": 10,
+    "updated_at": "2026-07-14T19:26:32Z",
+    "url": "https://github.com/johnnichev/selectools"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 15,
+    "updated_at": "2026-07-14T19:27:17Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-14T19:24:56Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-07-14T19:15:24Z",
+    "updated_at": "2026-07-14T19:18:01Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T19:15:20Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 15,
-    "updated_at": "2026-07-14T19:15:08Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18526,
-    "updated_at": "2026-07-14T19:17:50Z",
+    "updated_at": "2026-07-14T19:27:02Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -166,7 +184,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26943,
+    "stars": 26944,
     "updated_at": "2026-07-14T18:41:31Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -414,15 +432,6 @@
     "url": "https://github.com/Liny9941/projectsmd"
   },
   {
-    "description": "Production-ready Python framework for AI agents with built-in guardrails, audit logging, cost tracking, and hybrid RAG. ",
-    "id": "johnnichev/selectools",
-    "language": "Python",
-    "name": "johnnichev/selectools",
-    "stars": 10,
-    "updated_at": "2026-07-14T17:54:30Z",
-    "url": "https://github.com/johnnichev/selectools"
-  },
-  {
     "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
     "id": "muhamedali7713/agent-audit",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-14T18:01:30Z",
     "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-07-14T17:52:02Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
   }
 ]
