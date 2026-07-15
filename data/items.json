@@ -1,5 +1,140 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-15T18:29:45Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27005,
+    "updated_at": "2026-07-15T18:29:18Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
+    "id": "Clean-Dust/worldwave",
+    "language": "Python",
+    "name": "Clean-Dust/worldwave",
+    "stars": 2,
+    "updated_at": "2026-07-15T18:28:41Z",
+    "url": "https://github.com/Clean-Dust/worldwave"
+  },
+  {
+    "description": "Self-improving OS for production AI agents \u2014 verifier-gated, cross-family runs that learn which model wins where, so you",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 1,
+    "updated_at": "2026-07-15T18:28:04Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-07-15T18:26:47Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Official extensions for gopact",
+    "id": "gopact-ai/gopact-ext",
+    "language": "Go",
+    "name": "gopact-ai/gopact-ext",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:25:03Z",
+    "url": "https://github.com/gopact-ai/gopact-ext"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-07-15T18:23:15Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 315,
+    "updated_at": "2026-07-15T18:29:47Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-07-15T18:24:34Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Microsoft Foundry HelpdeskBot demo for comparing safe and vulnerable agent tool traces",
+    "id": "placerda/agentops-observability-demo",
+    "language": "Python",
+    "name": "placerda/agentops-observability-demo",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:21:06Z",
+    "url": "https://github.com/placerda/agentops-observability-demo"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3856,
+    "updated_at": "2026-07-15T18:18:49Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-07-15T18:16:36Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12134,
+    "updated_at": "2026-07-15T18:26:21Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-15T18:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-07-15T18:15:11Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
     "id": "RikyZ90/ShibaClaw",
     "language": "Python",
@@ -14,7 +149,7 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 7,
-    "updated_at": "2026-07-15T18:13:58Z",
+    "updated_at": "2026-07-15T18:22:29Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -23,7 +158,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-15T18:13:12Z",
+    "updated_at": "2026-07-15T18:28:55Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -34,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T18:10:58Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
-    "id": "Clean-Dust/worldwave",
-    "language": "Python",
-    "name": "Clean-Dust/worldwave",
-    "stars": 2,
-    "updated_at": "2026-07-15T18:10:37Z",
-    "url": "https://github.com/Clean-Dust/worldwave"
   },
   {
     "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
@@ -108,24 +234,6 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "Microsoft Foundry HelpdeskBot demo for comparing safe and vulnerable agent tool traces",
-    "id": "placerda/agentops-observability-demo",
-    "language": "Python",
-    "name": "placerda/agentops-observability-demo",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:01:37Z",
-    "url": "https://github.com/placerda/agentops-observability-demo"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-15T18:01:12Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Governance-driven AI development framework -- convention enforcement, quality gates, and domain expertise for Claude Cod",
     "id": "rfxn/rdf",
     "language": "Shell",
@@ -153,15 +261,6 @@
     "url": "https://github.com/gopact-ai/gopact"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12134,
-    "updated_at": "2026-07-15T18:14:19Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Goal-Based Operating System for AI Agent Workforces",
     "id": "ysanchay/agentos",
     "language": "TypeScript",
@@ -171,21 +270,12 @@
     "url": "https://github.com/ysanchay/agentos"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27005,
-    "updated_at": "2026-07-15T17:56:22Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "The agent framework where every run is durable, replayable, and resumable by default.",
     "id": "ThousandBirdsInc/chidori",
     "language": "Rust",
     "name": "ThousandBirdsInc/chidori",
     "stars": 1358,
-    "updated_at": "2026-07-15T17:56:21Z",
+    "updated_at": "2026-07-15T18:28:08Z",
     "url": "https://github.com/ThousandBirdsInc/chidori"
   },
   {
@@ -194,7 +284,7 @@
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-07-15T17:52:26Z",
+    "updated_at": "2026-07-15T18:19:13Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
@@ -230,7 +320,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 42,
-    "updated_at": "2026-07-15T17:39:30Z",
+    "updated_at": "2026-07-15T18:27:17Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -248,7 +338,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18552,
-    "updated_at": "2026-07-15T18:01:49Z",
+    "updated_at": "2026-07-15T18:17:39Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -342,15 +432,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-07-15T18:15:11Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "SDK de c\u00f3digo abierto en Python para el patr\u00f3n Backend for Agents (BFA), extendido como un servidor de enrutamiento din\u00e1",
     "id": "SandroG1977/bfa-sdk",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 270,
     "updated_at": "2026-07-15T16:48:23Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Runnable Microsoft Agent Framework orchestration patterns (sequential, concurrent, group chat, handoff, magentic) wired ",
-    "id": "JayRHa/foundry-agent-patterns",
-    "language": "Python",
-    "name": "JayRHa/foundry-agent-patterns",
-    "stars": 0,
-    "updated_at": "2026-07-15T16:38:33Z",
-    "url": "https://github.com/JayRHa/foundry-agent-patterns"
-  },
-  {
-    "description": "Python Agent Framework for LLM Tool-Calling and Multi-Agent Orchestration",
-    "id": "jolovicdev/blackgeorge",
-    "language": "Python",
-    "name": "jolovicdev/blackgeorge",
-    "stars": 0,
-    "updated_at": "2026-07-15T16:38:25Z",
-    "url": "https://github.com/jolovicdev/blackgeorge"
-  },
-  {
-    "description": "Record, replay, and improve AI agents in production, built on ZenML",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 208,
-    "updated_at": "2026-07-15T17:53:38Z",
-    "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-07-15T18:05:09Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "White-box, task-centric multi-agent AI platform for business ops, sysadmin, research & office automation \u2014 every reasoni",
-    "id": "sievepub-2000/octoagent",
-    "language": "Python",
-    "name": "sievepub-2000/octoagent",
-    "stars": 0,
-    "updated_at": "2026-07-15T16:21:03Z",
-    "url": "https://github.com/sievepub-2000/octoagent"
-  },
-  {
-    "description": "ContextLattice is the local-first control plane for long-horizon agent memory, coordination, and behavioral provenance. ",
-    "id": "sheawinkler/ContextLattice",
-    "language": "Go",
-    "name": "sheawinkler/ContextLattice",
-    "stars": 134,
-    "updated_at": "2026-07-15T16:10:55Z",
-    "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "The open-source memory and observability layer for AI agents \u2014 persistent memory, loop detection, hash-chained audit tra",
-    "id": "RyjoxTechnologies/Octopoda-OS",
-    "language": "Python",
-    "name": "RyjoxTechnologies/Octopoda-OS",
-    "stars": 478,
-    "updated_at": "2026-07-15T16:10:16Z",
-    "url": "https://github.com/RyjoxTechnologies/Octopoda-OS"
-  },
-  {
-    "description": "Open-core AI systems architect that turns planning conversations into local self-hosted operating systems",
-    "id": "setup-os-labs/setup-os",
-    "language": "Python",
-    "name": "setup-os-labs/setup-os",
-    "stars": 0,
-    "updated_at": "2026-07-15T16:05:50Z",
-    "url": "https://github.com/setup-os-labs/setup-os"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6587,
-    "updated_at": "2026-07-15T18:14:12Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
   }
 ]
