@@ -1,21 +1,48 @@
 [
   {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1543,
+    "updated_at": "2026-07-15T04:15:14Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 6,
+    "updated_at": "2026-07-15T04:10:44Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-07-15T04:07:08Z",
+    "updated_at": "2026-07-15T04:08:23Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 9,
-    "updated_at": "2026-07-15T04:03:28Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
+    "name": "omnigent-ai/omnigent",
+    "stars": 7282,
+    "updated_at": "2026-07-15T04:13:11Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-15T04:07:35Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-07-15T04:00:23Z",
+    "updated_at": "2026-07-15T04:07:33Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 9,
+    "updated_at": "2026-07-15T04:15:14Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
     "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
@@ -34,15 +70,6 @@
     "stars": 694,
     "updated_at": "2026-07-15T03:59:10Z",
     "url": "https://github.com/rapidaai/voice-ai"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7279,
-    "updated_at": "2026-07-15T04:04:53Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18534,
-    "updated_at": "2026-07-15T03:50:00Z",
+    "updated_at": "2026-07-15T04:11:57Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -121,7 +148,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26963,
+    "stars": 26964,
     "updated_at": "2026-07-15T03:42:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -414,15 +441,6 @@
     "url": "https://github.com/breastless-andcircuit638/lean-loop"
   },
   {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1543,
-    "updated_at": "2026-07-15T03:28:54Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
     "description": "The agent framework where every run is durable, replayable, and resumable by default.",
     "id": "ThousandBirdsInc/chidori",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 1358,
     "updated_at": "2026-07-15T03:27:32Z",
     "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 8,
-    "updated_at": "2026-07-15T03:29:50Z",
-    "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 2,
-    "updated_at": "2026-07-15T03:21:35Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
   }
 ]
