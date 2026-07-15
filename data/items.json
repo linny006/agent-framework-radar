@@ -1,5 +1,41 @@
 [
   {
+    "description": "Governance-driven AI development framework -- convention enforcement, quality gates, and domain expertise for Claude Cod",
+    "id": "rfxn/rdf",
+    "language": "Shell",
+    "name": "rfxn/rdf",
+    "stars": 15,
+    "updated_at": "2026-07-15T21:22:10Z",
+    "url": "https://github.com/rfxn/rdf"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-15T21:21:25Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Production-ready Python framework for AI agents with built-in guardrails, audit logging, cost tracking, and hybrid RAG. ",
+    "id": "johnnichev/selectools",
+    "language": "Python",
+    "name": "johnnichev/selectools",
+    "stars": 10,
+    "updated_at": "2026-07-15T21:20:38Z",
+    "url": "https://github.com/johnnichev/selectools"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-15T21:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
     "id": "RikyZ90/ShibaClaw",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-15T21:05:23Z",
+    "updated_at": "2026-07-15T21:27:21Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -32,7 +68,7 @@
     "language": "TypeScript",
     "name": "rogerchappel/crewcmd",
     "stars": 2,
-    "updated_at": "2026-07-15T21:01:58Z",
+    "updated_at": "2026-07-15T21:22:03Z",
     "url": "https://github.com/rogerchappel/crewcmd"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T21:01:46Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-15T21:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7332,
-    "updated_at": "2026-07-15T21:12:01Z",
+    "updated_at": "2026-07-15T21:27:19Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -153,15 +180,6 @@
     "url": "https://github.com/iamlalitpandit/RudraX"
   },
   {
-    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
-    "id": "raineislam/mcp-framework",
-    "language": "Python",
-    "name": "raineislam/mcp-framework",
-    "stars": 0,
-    "updated_at": "2026-07-15T20:43:47Z",
-    "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "nihalashetty/Forge",
     "stars": 0,
-    "updated_at": "2026-07-15T21:07:22Z",
+    "updated_at": "2026-07-15T21:20:05Z",
     "url": "https://github.com/nihalashetty/Forge"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 4887,
-    "updated_at": "2026-07-15T20:25:02Z",
+    "updated_at": "2026-07-15T21:28:29Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -259,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-07-15T20:24:28Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
-  },
-  {
-    "description": "Governance-driven AI development framework -- convention enforcement, quality gates, and domain expertise for Claude Cod",
-    "id": "rfxn/rdf",
-    "language": "Shell",
-    "name": "rfxn/rdf",
-    "stars": 15,
-    "updated_at": "2026-07-15T20:15:26Z",
-    "url": "https://github.com/rfxn/rdf"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18553,
-    "updated_at": "2026-07-15T21:11:52Z",
+    "updated_at": "2026-07-15T21:30:02Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -436,17 +445,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27008,
+    "stars": 27011,
     "updated_at": "2026-07-15T18:29:18Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Official extensions for gopact",
-    "id": "gopact-ai/gopact-ext",
-    "language": "Go",
-    "name": "gopact-ai/gopact-ext",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:25:03Z",
-    "url": "https://github.com/gopact-ai/gopact-ext"
   }
 ]
