@@ -1,5 +1,68 @@
 [
   {
+    "description": "ContextLattice is the local-first control plane for long-horizon agent memory, coordination, and behavioral provenance. ",
+    "id": "sheawinkler/ContextLattice",
+    "language": "Go",
+    "name": "sheawinkler/ContextLattice",
+    "stars": 134,
+    "updated_at": "2026-07-15T16:10:55Z",
+    "url": "https://github.com/sheawinkler/ContextLattice"
+  },
+  {
+    "description": "The open-source memory and observability layer for AI agents \u2014 persistent memory, loop detection, hash-chained audit tra",
+    "id": "RyjoxTechnologies/Octopoda-OS",
+    "language": "Python",
+    "name": "RyjoxTechnologies/Octopoda-OS",
+    "stars": 473,
+    "updated_at": "2026-07-15T16:10:16Z",
+    "url": "https://github.com/RyjoxTechnologies/Octopoda-OS"
+  },
+  {
+    "description": "A cybernetic runtime environment for AI agent swarms. Utilizes the topological geometry of the K4 Algebra of Four-Fold D",
+    "id": "Michael-Ax64/K4-AlgebraicSwarm",
+    "language": "\u2014",
+    "name": "Michael-Ax64/K4-AlgebraicSwarm",
+    "stars": 0,
+    "updated_at": "2026-07-15T16:08:19Z",
+    "url": "https://github.com/Michael-Ax64/K4-AlgebraicSwarm"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 6,
+    "updated_at": "2026-07-15T16:06:59Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Open-core AI systems architect that turns planning conversations into local self-hosted operating systems",
+    "id": "setup-os-labs/setup-os",
+    "language": "Python",
+    "name": "setup-os-labs/setup-os",
+    "stars": 0,
+    "updated_at": "2026-07-15T16:05:50Z",
+    "url": "https://github.com/setup-os-labs/setup-os"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6587,
+    "updated_at": "2026-07-15T16:05:31Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-15T16:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
     "id": "Kuonirad/MCOP-Framework-2.0",
     "language": "TypeScript",
@@ -43,24 +106,6 @@
     "stars": 3,
     "updated_at": "2026-07-15T15:46:12Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-15T15:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "The open-source memory and observability layer for AI agents \u2014 persistent memory, loop detection, hash-chained audit tra",
-    "id": "RyjoxTechnologies/Octopoda-OS",
-    "language": "Python",
-    "name": "RyjoxTechnologies/Octopoda-OS",
-    "stars": 473,
-    "updated_at": "2026-07-15T15:43:08Z",
-    "url": "https://github.com/RyjoxTechnologies/Octopoda-OS"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -115,24 +160,6 @@
     "stars": 18550,
     "updated_at": "2026-07-15T15:32:21Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6587,
-    "updated_at": "2026-07-15T15:59:37Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "ContextLattice is the local-first control plane for long-horizon agent memory, coordination, and behavioral provenance. ",
-    "id": "sheawinkler/ContextLattice",
-    "language": "Go",
-    "name": "sheawinkler/ContextLattice",
-    "stars": 134,
-    "updated_at": "2026-07-15T15:35:50Z",
-    "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
     "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "CoReason-AI/coreason-workspace-env",
     "stars": 0,
-    "updated_at": "2026-07-15T15:20:35Z",
+    "updated_at": "2026-07-15T16:07:21Z",
     "url": "https://github.com/CoReason-AI/coreason-workspace-env"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T15:01:44Z",
     "url": "https://github.com/lordlinus/copilotkit-foundry-hitl-templates"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-07-15T15:01:24Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-07-15T15:01:23Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 15,
-    "updated_at": "2026-07-15T15:00:59Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   }
 ]
