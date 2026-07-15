@@ -1,12 +1,84 @@
 [
   {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-07-15T13:41:16Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 2,
+    "updated_at": "2026-07-15T13:39:28Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "Maqam: MIT-licensed Ajnas agent framework for governed workflows, policy, provenance, skills, and crawler-backed researc",
+    "id": "AjnasNB/maqam",
+    "language": "JavaScript",
+    "name": "AjnasNB/maqam",
+    "stars": 0,
+    "updated_at": "2026-07-15T13:38:47Z",
+    "url": "https://github.com/AjnasNB/maqam"
+  },
+  {
+    "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
+    "id": "zachmeador/shrimpy",
+    "language": "TypeScript",
+    "name": "zachmeador/shrimpy",
+    "stars": 1,
+    "updated_at": "2026-07-15T13:37:41Z",
+    "url": "https://github.com/zachmeador/shrimpy"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-15T13:35:42Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7309,
-    "updated_at": "2026-07-15T13:28:52Z",
+    "stars": 7310,
+    "updated_at": "2026-07-15T13:43:47Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-15T13:34:13Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Pulse \u2014 Hermes-style self-improving AI agent. Reliability-first rebuild with evaluated skill self-evolution, multi-agent",
+    "id": "Alex663028/pulse-agent",
+    "language": "Python",
+    "name": "Alex663028/pulse-agent",
+    "stars": 3,
+    "updated_at": "2026-07-15T13:30:30Z",
+    "url": "https://github.com/Alex663028/pulse-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-15T13:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18547,
-    "updated_at": "2026-07-15T13:20:18Z",
+    "updated_at": "2026-07-15T13:41:07Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -61,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T13:17:15Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-15T13:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
@@ -99,15 +162,6 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
-    "description": "Pulse \u2014 Hermes-style self-improving AI agent. Reliability-first rebuild with evaluated skill self-evolution, multi-agent",
-    "id": "Alex663028/pulse-agent",
-    "language": "Python",
-    "name": "Alex663028/pulse-agent",
-    "stars": 3,
-    "updated_at": "2026-07-15T13:10:44Z",
-    "url": "https://github.com/Alex663028/pulse-agent"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -124,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T13:05:15Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 2,
-    "updated_at": "2026-07-15T13:06:44Z",
-    "url": "https://github.com/Ecro/harness-maker"
   },
   {
     "description": "Official extensions for gopact",
@@ -203,7 +248,7 @@
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 2,
-    "updated_at": "2026-07-15T13:16:09Z",
+    "updated_at": "2026-07-15T13:35:30Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-15T12:27:37Z",
     "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-07-15T12:26:40Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-07-15T12:26:15Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 134,
-    "updated_at": "2026-07-15T12:23:11Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-15T12:22:15Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-07-15T12:19:58Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
