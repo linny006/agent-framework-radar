@@ -1,5 +1,86 @@
 [
   {
+    "description": "Claude Code \u2014 run your business by voice note. A production-cultivated operator framework for Claude Code agents: rules,",
+    "id": "strangeadvancedmarketing/voice-to-execution",
+    "language": "JavaScript",
+    "name": "strangeadvancedmarketing/voice-to-execution",
+    "stars": 0,
+    "updated_at": "2026-07-15T19:34:22Z",
+    "url": "https://github.com/strangeadvancedmarketing/voice-to-execution"
+  },
+  {
+    "description": "Agent orchestration engine built on a Cyclic State Graph",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 2,
+    "updated_at": "2026-07-15T19:33:00Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-15T19:32:22Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Record, replay, and improve AI agents in production, built on ZenML",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 208,
+    "updated_at": "2026-07-15T19:31:35Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 2,
+    "updated_at": "2026-07-15T19:31:30Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 575,
+    "updated_at": "2026-07-15T19:31:20Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
+    "id": "JoakimCarlsson/ai",
+    "language": "Go",
+    "name": "JoakimCarlsson/ai",
+    "stars": 33,
+    "updated_at": "2026-07-15T19:30:57Z",
+    "url": "https://github.com/JoakimCarlsson/ai"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-15T19:30:37Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-15T19:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
     "id": "Clean-Dust/worldwave",
     "language": "Python",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T19:29:17Z",
     "url": "https://github.com/nihalashetty/Forge"
-  },
-  {
-    "description": "TypeScript agent orchestration engine built on a Cyclic State Graph. Compound learning across runs, durable execution, M",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 2,
-    "updated_at": "2026-07-15T19:29:28Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
@@ -63,24 +135,6 @@
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
-    "id": "JoakimCarlsson/ai",
-    "language": "Go",
-    "name": "JoakimCarlsson/ai",
-    "stars": 33,
-    "updated_at": "2026-07-15T19:23:28Z",
-    "url": "https://github.com/JoakimCarlsson/ai"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 575,
-    "updated_at": "2026-07-15T19:28:37Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
     "description": "Governance-driven AI development framework -- convention enforcement, quality gates, and domain expertise for Claude Cod",
     "id": "rfxn/rdf",
     "language": "Shell",
@@ -88,33 +142,6 @@
     "stars": 15,
     "updated_at": "2026-07-15T19:20:25Z",
     "url": "https://github.com/rfxn/rdf"
-  },
-  {
-    "description": "Claude Code \u2014 run your business by voice note. A production-cultivated operator framework for Claude Code agents: rules,",
-    "id": "strangeadvancedmarketing/voice-to-execution",
-    "language": "JavaScript",
-    "name": "strangeadvancedmarketing/voice-to-execution",
-    "stars": 0,
-    "updated_at": "2026-07-15T19:16:59Z",
-    "url": "https://github.com/strangeadvancedmarketing/voice-to-execution"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-15T19:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 2,
-    "updated_at": "2026-07-15T19:27:35Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
@@ -133,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T19:09:08Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Record, replay, and improve AI agents in production, built on ZenML",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 208,
-    "updated_at": "2026-07-15T19:18:30Z",
-    "url": "https://github.com/zenml-io/kitaru"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-07-15T18:53:02Z",
+    "updated_at": "2026-07-15T19:33:04Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
@@ -248,17 +266,8 @@
     "language": "Python",
     "name": "placerda/agentops-observability-demo",
     "stars": 0,
-    "updated_at": "2026-07-15T19:18:33Z",
+    "updated_at": "2026-07-15T19:30:19Z",
     "url": "https://github.com/placerda/agentops-observability-demo"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-15T19:25:58Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -385,15 +394,6 @@
     "stars": 153,
     "updated_at": "2026-07-15T18:05:36Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:03:15Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
