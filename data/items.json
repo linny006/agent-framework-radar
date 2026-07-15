@@ -1,12 +1,30 @@
 [
   {
+    "description": "A headless, opinionated LangGraph DeepAgent platform for building, testing, and deploying zero-trust AI systems as nativ",
+    "id": "CoReason-AI/coreason-workspace-env",
+    "language": "Python",
+    "name": "CoReason-AI/coreason-workspace-env",
+    "stars": 0,
+    "updated_at": "2026-07-15T04:29:42Z",
+    "url": "https://github.com/CoReason-AI/coreason-workspace-env"
+  },
+  {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1543,
-    "updated_at": "2026-07-15T04:15:14Z",
+    "updated_at": "2026-07-15T04:19:34Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-15T04:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -23,7 +41,7 @@
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-07-15T04:08:23Z",
+    "updated_at": "2026-07-15T04:22:41Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
@@ -45,21 +63,12 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-15T04:07:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
     "id": "bbvch-ai/aihub-core",
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 9,
-    "updated_at": "2026-07-15T04:15:14Z",
+    "updated_at": "2026-07-15T04:29:44Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18534,
-    "updated_at": "2026-07-15T04:11:57Z",
+    "updated_at": "2026-07-15T04:24:14Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -148,7 +157,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26964,
+    "stars": 26966,
     "updated_at": "2026-07-15T03:42:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-15T03:23:22Z",
     "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "The agent framework where every run is durable, replayable, and resumable by default.",
-    "id": "ThousandBirdsInc/chidori",
-    "language": "Rust",
-    "name": "ThousandBirdsInc/chidori",
-    "stars": 1358,
-    "updated_at": "2026-07-15T03:27:32Z",
-    "url": "https://github.com/ThousandBirdsInc/chidori"
   }
 ]
