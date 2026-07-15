@@ -1,5 +1,59 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-15T20:00:01Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Record, replay, and improve AI agents in production, built on ZenML",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 208,
+    "updated_at": "2026-07-15T19:57:41Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
+    "id": "Clean-Dust/worldwave",
+    "language": "Python",
+    "name": "Clean-Dust/worldwave",
+    "stars": 3,
+    "updated_at": "2026-07-15T19:55:00Z",
+    "url": "https://github.com/Clean-Dust/worldwave"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12134,
+    "updated_at": "2026-07-15T19:57:06Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-15T19:52:09Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-15T19:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
@@ -25,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-07-15T19:40:25Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-15T19:34:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Claude Code \u2014 run your business by voice note. A production-cultivated operator framework for Claude Code agents: rules,",
@@ -63,15 +108,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Record, replay, and improve AI agents in production, built on ZenML",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 208,
-    "updated_at": "2026-07-15T19:45:06Z",
-    "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "aeonfun/aeon",
     "stars": 575,
-    "updated_at": "2026-07-15T19:31:20Z",
+    "updated_at": "2026-07-15T19:56:31Z",
     "url": "https://github.com/aeonfun/aeon"
   },
   {
@@ -97,24 +133,6 @@
     "stars": 33,
     "updated_at": "2026-07-15T19:41:18Z",
     "url": "https://github.com/JoakimCarlsson/ai"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-15T19:30:37Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
-    "id": "Clean-Dust/worldwave",
-    "language": "Python",
-    "name": "Clean-Dust/worldwave",
-    "stars": 3,
-    "updated_at": "2026-07-15T19:29:35Z",
-    "url": "https://github.com/Clean-Dust/worldwave"
   },
   {
     "description": "Open-source, self-hosted platform to visually build, test, and ship AI agents & workflows. Built on LangChain v1 + LangG",
@@ -151,6 +169,15 @@
     "stars": 42,
     "updated_at": "2026-07-15T19:25:51Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7328,
+    "updated_at": "2026-07-15T19:19:56Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Governance-driven AI development framework -- convention enforcement, quality gates, and domain expertise for Claude Cod",
@@ -216,21 +243,12 @@
     "url": "https://github.com/ellmos-ai/swarm-ai"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7327,
-    "updated_at": "2026-07-15T19:19:56Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Universal Agent Harness",
     "id": "human-plus-machine/monkeybot",
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-07-15T19:38:59Z",
+    "updated_at": "2026-07-15T19:47:23Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
@@ -248,17 +266,8 @@
     "language": "HTML",
     "name": "exha1078/agentic-workflow-orchestrator",
     "stars": 0,
-    "updated_at": "2026-07-15T18:51:57Z",
+    "updated_at": "2026-07-15T20:00:17Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-15T18:51:50Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Self-improving OS for production AI agents \u2014 verifier-gated, cross-family runs that learn which model wins where, so you",
@@ -275,7 +284,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18553,
-    "updated_at": "2026-07-15T19:44:18Z",
+    "updated_at": "2026-07-15T19:54:58Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -349,15 +358,6 @@
     "stars": 2,
     "updated_at": "2026-07-15T18:16:36Z",
     "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12134,
-    "updated_at": "2026-07-15T19:45:01Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
