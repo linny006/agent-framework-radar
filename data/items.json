@@ -1,5 +1,104 @@
 [
   {
+    "description": "Run a one-person company as a crew of AI agents \u2014 not a coding squad. The missing operating layer on top of whatever age",
+    "id": "AI-Nate/crewkit",
+    "language": "\u2014",
+    "name": "AI-Nate/crewkit",
+    "stars": 0,
+    "updated_at": "2026-07-15T05:00:06Z",
+    "url": "https://github.com/AI-Nate/crewkit"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 9,
+    "updated_at": "2026-07-15T04:57:27Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 11,
+    "updated_at": "2026-07-15T04:54:33Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7284,
+    "updated_at": "2026-07-15T04:53:15Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 6,
+    "updated_at": "2026-07-15T04:52:05Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6581,
+    "updated_at": "2026-07-15T04:51:05Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Local-first goal execution harness for AI agents \u2014 plan \u2192 execute \u2192 review \u2192 done. Deterministic review gates, loop guar",
+    "id": "moortekweb-art/agentic-harness",
+    "language": "Python",
+    "name": "moortekweb-art/agentic-harness",
+    "stars": 0,
+    "updated_at": "2026-07-15T04:54:11Z",
+    "url": "https://github.com/moortekweb-art/agentic-harness"
+  },
+  {
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
+    "language": "Python",
+    "name": "rllm-org/rllm",
+    "stars": 5696,
+    "updated_at": "2026-07-15T04:49:54Z",
+    "url": "https://github.com/rllm-org/rllm"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 0,
+    "updated_at": "2026-07-15T04:46:42Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-15T04:46:37Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-15T04:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A headless, opinionated LangGraph DeepAgent platform for building, testing, and deploying zero-trust AI systems as nativ",
     "id": "CoReason-AI/coreason-workspace-env",
     "language": "Python",
@@ -13,7 +112,7 @@
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
-    "stars": 135,
+    "stars": 134,
     "updated_at": "2026-07-15T04:43:38Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
@@ -54,15 +153,6 @@
     "url": "https://github.com/kh0pper/crow"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7283,
-    "updated_at": "2026-07-15T04:35:14Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
@@ -70,15 +160,6 @@
     "stars": 7,
     "updated_at": "2026-07-15T04:32:04Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-15T04:30:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
@@ -106,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T04:07:35Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 9,
-    "updated_at": "2026-07-15T04:40:36Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
     "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
@@ -202,7 +274,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26966,
+    "stars": 26967,
     "updated_at": "2026-07-15T03:42:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-15T03:32:10Z",
     "url": "https://github.com/lsjpp2/king-agent-swarm"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-07-15T03:32:01Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-07-15T03:31:19Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-07-15T03:30:59Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 11,
-    "updated_at": "2026-07-15T03:30:28Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "One-prompt CopilotKit + AG-UI + Azure AI Foundry hosted-agent apps with human-in-the-loop approval. A rayfin-style templ",
-    "id": "lordlinus/copilotkit-foundry-hitl-templates",
-    "language": "Python",
-    "name": "lordlinus/copilotkit-foundry-hitl-templates",
-    "stars": 0,
-    "updated_at": "2026-07-15T03:28:39Z",
-    "url": "https://github.com/lordlinus/copilotkit-foundry-hitl-templates"
-  },
-  {
-    "description": "Shared governance, memory, identity, recovery, and stewardship foundations for OpenClaw AI systems.",
-    "id": "RainAndRiverSky/OpenClaw_Shared_Foundations",
-    "language": "\u2014",
-    "name": "RainAndRiverSky/OpenClaw_Shared_Foundations",
-    "stars": 0,
-    "updated_at": "2026-07-15T03:27:33Z",
-    "url": "https://github.com/RainAndRiverSky/OpenClaw_Shared_Foundations"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-15T03:27:22Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
-    "id": "rararulab/rara",
-    "language": "Rust",
-    "name": "rararulab/rara",
-    "stars": 11,
-    "updated_at": "2026-07-15T03:40:54Z",
-    "url": "https://github.com/rararulab/rara"
   }
 ]
