@@ -1,12 +1,30 @@
 [
   {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-07-15T04:07:08Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
     "id": "bbvch-ai/aihub-core",
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 9,
-    "updated_at": "2026-07-15T03:59:58Z",
+    "updated_at": "2026-07-15T04:03:28Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-15T04:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7279,
-    "updated_at": "2026-07-15T04:00:13Z",
+    "updated_at": "2026-07-15T04:04:53Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T03:46:10Z",
     "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-15T03:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-15T03:21:35Z",
     "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-07-15T03:21:21Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
   }
 ]
