@@ -1,5 +1,68 @@
 [
   {
+    "description": "KAF - The governance layer for multi-agent swarms. Constitution-as-Code + 520 Runtime Guard. Stop AI agents from deletin",
+    "id": "lsjpp2/king-agent-swarm",
+    "language": "Python",
+    "name": "lsjpp2/king-agent-swarm",
+    "stars": 1,
+    "updated_at": "2026-07-15T05:44:59Z",
+    "url": "https://github.com/lsjpp2/king-agent-swarm"
+  },
+  {
+    "description": "One-prompt CopilotKit + AG-UI + Azure AI Foundry hosted-agent apps with human-in-the-loop approval. A rayfin-style templ",
+    "id": "lordlinus/copilotkit-foundry-hitl-templates",
+    "language": "Python",
+    "name": "lordlinus/copilotkit-foundry-hitl-templates",
+    "stars": 0,
+    "updated_at": "2026-07-15T05:39:36Z",
+    "url": "https://github.com/lordlinus/copilotkit-foundry-hitl-templates"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-07-15T05:38:56Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 3,
+    "updated_at": "2026-07-15T05:38:15Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-07-15T05:36:10Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-15T05:35:35Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-15T05:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -16,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-15T05:28:28Z",
     "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-07-15T05:28:23Z",
-    "url": "https://github.com/kh0pper/crow"
   },
   {
     "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
@@ -58,7 +112,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 26968,
+    "stars": 26969,
     "updated_at": "2026-07-15T05:26:34Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -88,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T05:18:07Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-15T05:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Independent LangGraph C++ runtime for stateful AI agents and recoverable graph workflows: checkpointing, streaming, inte",
@@ -135,15 +180,6 @@
     "url": "https://github.com/bhodgens/meept"
   },
   {
-    "description": "One-prompt CopilotKit + AG-UI + Azure AI Foundry hosted-agent apps with human-in-the-loop approval. A rayfin-style templ",
-    "id": "lordlinus/copilotkit-foundry-hitl-templates",
-    "language": "Python",
-    "name": "lordlinus/copilotkit-foundry-hitl-templates",
-    "stars": 0,
-    "updated_at": "2026-07-15T05:02:02Z",
-    "url": "https://github.com/lordlinus/copilotkit-foundry-hitl-templates"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7284,
-    "updated_at": "2026-07-15T05:07:34Z",
+    "updated_at": "2026-07-15T05:43:57Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Rust",
     "name": "RNT56/ThinClaw",
     "stars": 0,
-    "updated_at": "2026-07-15T05:26:52Z",
+    "updated_at": "2026-07-15T05:33:12Z",
     "url": "https://github.com/RNT56/ThinClaw"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 6,
-    "updated_at": "2026-07-15T05:11:50Z",
+    "updated_at": "2026-07-15T05:40:27Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 264,
     "updated_at": "2026-07-15T03:40:58Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 4471,
-    "updated_at": "2026-07-15T03:40:48Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-07-15T03:40:26Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-07-15T03:39:36Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Open-source, self-hosted AI agent workbench. One tool layer powers your team's chat, your app's agent, and any MCP clien",
-    "id": "linjiejim/greenhouse",
-    "language": "TypeScript",
-    "name": "linjiejim/greenhouse",
-    "stars": 0,
-    "updated_at": "2026-07-15T03:38:52Z",
-    "url": "https://github.com/linjiejim/greenhouse"
   }
 ]
