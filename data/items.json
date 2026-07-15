@@ -1,10 +1,64 @@
 [
   {
+    "description": "Verifiable reasoning substrate for reproducible agents: deterministic orchestration, Merkle provenance, and positive-imp",
+    "id": "Kuonirad/MCOP-Framework-2.0",
+    "language": "TypeScript",
+    "name": "Kuonirad/MCOP-Framework-2.0",
+    "stars": 2,
+    "updated_at": "2026-07-15T15:56:53Z",
+    "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 596,
+    "updated_at": "2026-07-15T15:54:49Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Governance-driven AI development framework -- convention enforcement, quality gates, and domain expertise for Claude Cod",
+    "id": "rfxn/rdf",
+    "language": "Shell",
+    "name": "rfxn/rdf",
+    "stars": 15,
+    "updated_at": "2026-07-15T15:48:27Z",
+    "url": "https://github.com/rfxn/rdf"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 135,
+    "updated_at": "2026-07-15T15:47:35Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-07-15T15:46:12Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-15T15:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The open-source memory and observability layer for AI agents \u2014 persistent memory, loop detection, hash-chained audit tra",
     "id": "RyjoxTechnologies/Octopoda-OS",
     "language": "Python",
     "name": "RyjoxTechnologies/Octopoda-OS",
-    "stars": 438,
+    "stars": 473,
     "updated_at": "2026-07-15T15:43:08Z",
     "url": "https://github.com/RyjoxTechnologies/Octopoda-OS"
   },
@@ -25,15 +79,6 @@
     "stars": 2190,
     "updated_at": "2026-07-15T15:40:28Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 596,
-    "updated_at": "2026-07-15T15:36:52Z",
-    "url": "https://github.com/framerslab/agentos"
   },
   {
     "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
@@ -63,22 +108,22 @@
     "url": "https://github.com/jaylfc/taOS"
   },
   {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18550,
+    "updated_at": "2026-07-15T15:32:21Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6586,
-    "updated_at": "2026-07-15T15:31:23Z",
+    "stars": 6587,
+    "updated_at": "2026-07-15T15:59:37Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-15T15:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "ContextLattice is the local-first control plane for long-horizon agent memory, coordination, and behavioral provenance. ",
@@ -106,15 +151,6 @@
     "stars": 7321,
     "updated_at": "2026-07-15T15:27:20Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Governance-driven AI development framework -- convention enforcement, quality gates, and domain expertise for Claude Cod",
-    "id": "rfxn/rdf",
-    "language": "Shell",
-    "name": "rfxn/rdf",
-    "stars": 15,
-    "updated_at": "2026-07-15T15:26:21Z",
-    "url": "https://github.com/rfxn/rdf"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -247,7 +283,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27004,
+    "stars": 27005,
     "updated_at": "2026-07-15T15:10:28Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -412,41 +448,5 @@
     "stars": 15,
     "updated_at": "2026-07-15T15:00:59Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "Independent LangGraph C++ runtime for stateful AI agents and recoverable graph workflows: checkpointing, streaming, inte",
-    "id": "ouxianghui/langgraph-cpp",
-    "language": "C++",
-    "name": "ouxianghui/langgraph-cpp",
-    "stars": 3,
-    "updated_at": "2026-07-15T14:58:13Z",
-    "url": "https://github.com/ouxianghui/langgraph-cpp"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-15T14:57:08Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
-    "id": "Omni-Craft/OmniCraft",
-    "language": "Python",
-    "name": "Omni-Craft/OmniCraft",
-    "stars": 0,
-    "updated_at": "2026-07-15T14:56:29Z",
-    "url": "https://github.com/Omni-Craft/OmniCraft"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-15T14:55:23Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   }
 ]
