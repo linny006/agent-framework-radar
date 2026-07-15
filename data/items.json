@@ -1,5 +1,50 @@
 [
   {
+    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
+    "id": "Dream-Pixels-Forge/memorius",
+    "language": "Python",
+    "name": "Dream-Pixels-Forge/memorius",
+    "stars": 1,
+    "updated_at": "2026-07-15T21:36:54Z",
+    "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-15T21:36:12Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 576,
+    "updated_at": "2026-07-15T21:34:57Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-15T21:33:08Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-15T21:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governance-driven AI development framework -- convention enforcement, quality gates, and domain expertise for Claude Cod",
     "id": "rfxn/rdf",
     "language": "Shell",
@@ -27,15 +72,6 @@
     "url": "https://github.com/johnnichev/selectools"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-15T21:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
     "id": "RikyZ90/ShibaClaw",
     "language": "Python",
@@ -43,15 +79,6 @@
     "stars": 77,
     "updated_at": "2026-07-15T21:13:26Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-15T21:27:21Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7332,
-    "updated_at": "2026-07-15T21:27:19Z",
+    "updated_at": "2026-07-15T21:31:09Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -167,7 +194,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-07-15T21:06:28Z",
+    "updated_at": "2026-07-15T21:37:08Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "nihalashetty/Forge",
     "stars": 0,
-    "updated_at": "2026-07-15T21:20:05Z",
+    "updated_at": "2026-07-15T21:31:09Z",
     "url": "https://github.com/nihalashetty/Forge"
   },
   {
@@ -225,15 +252,6 @@
     "url": "https://github.com/RNT56/ThinClaw"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-15T20:36:52Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -252,21 +270,12 @@
     "url": "https://github.com/microfox-ai/ai-router"
   },
   {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 576,
-    "updated_at": "2026-07-15T20:25:24Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 4887,
-    "updated_at": "2026-07-15T21:28:29Z",
+    "updated_at": "2026-07-15T21:30:56Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T19:30:19Z",
     "url": "https://github.com/placerda/agentops-observability-demo"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27011,
-    "updated_at": "2026-07-15T18:29:18Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   }
 ]
