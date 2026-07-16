@@ -1,12 +1,66 @@
 [
   {
+    "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
+    "id": "Rahulsanecdote/Forge",
+    "language": "TypeScript",
+    "name": "Rahulsanecdote/Forge",
+    "stars": 0,
+    "updated_at": "2026-07-16T17:44:12Z",
+    "url": "https://github.com/Rahulsanecdote/Forge"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 81,
+    "updated_at": "2026-07-16T17:43:50Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 200,
+    "updated_at": "2026-07-16T17:41:32Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 4,
-    "updated_at": "2026-07-16T17:39:21Z",
+    "updated_at": "2026-07-16T17:41:20Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
+    "id": "George-RD/openspine",
+    "language": "Rust",
+    "name": "George-RD/openspine",
+    "stars": 0,
+    "updated_at": "2026-07-16T17:41:14Z",
+    "url": "https://github.com/George-RD/openspine"
+  },
+  {
+    "description": "Exact input-bound approvals, policy-gated TypeScript tools, source-linked evidence, CLI workers, and governed web resear",
+    "id": "AjnasNB/maqam",
+    "language": "JavaScript",
+    "name": "AjnasNB/maqam",
+    "stars": 0,
+    "updated_at": "2026-07-16T17:40:26Z",
+    "url": "https://github.com/AjnasNB/maqam"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-16T17:39:40Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
@@ -18,21 +72,12 @@
     "url": "https://github.com/saajunaid/junai"
   },
   {
-    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
-    "id": "George-RD/openspine",
-    "language": "Rust",
-    "name": "George-RD/openspine",
-    "stars": 0,
-    "updated_at": "2026-07-16T17:38:13Z",
-    "url": "https://github.com/George-RD/openspine"
-  },
-  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-07-16T17:39:00Z",
+    "updated_at": "2026-07-16T17:44:01Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
@@ -94,7 +139,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4870,
+    "stars": 4869,
     "updated_at": "2026-07-16T17:30:41Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -108,15 +153,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-16T17:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Local-first AI agent workspace with visual runtime, HITL control, sandbox audit, memory, RAG and skills.",
     "id": "Muulor/AgentVis",
     "language": "TypeScript",
@@ -124,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-07-16T17:32:56Z",
     "url": "https://github.com/Muulor/AgentVis"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 200,
-    "updated_at": "2026-07-16T17:39:26Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
@@ -169,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-16T17:22:11Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Exact input-bound approvals, policy-gated TypeScript tools, source-linked evidence, CLI workers, and governed web resear",
-    "id": "AjnasNB/maqam",
-    "language": "JavaScript",
-    "name": "AjnasNB/maqam",
-    "stars": 0,
-    "updated_at": "2026-07-16T17:21:05Z",
-    "url": "https://github.com/AjnasNB/maqam"
   },
   {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
@@ -306,15 +324,6 @@
     "url": "https://github.com/floccose-burner9185/wow-harness"
   },
   {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 81,
-    "updated_at": "2026-07-16T17:25:28Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
     "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
     "id": "carlososoriopulgar/agent-kernel",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-16T17:00:17Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Open-source multi-tenant agent runtime for production. Tenant isolation, per-user cost controls, dual-sandbox security, ",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 12,
-    "updated_at": "2026-07-16T17:00:14Z",
-    "url": "https://github.com/kdcube/kdcube"
   }
 ]
