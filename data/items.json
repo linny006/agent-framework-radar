@@ -1,19 +1,109 @@
 [
   {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4859,
+    "updated_at": "2026-07-16T18:14:47Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
     "description": "Agent-native, governed AI runtime for Rust, Python, and TypeScript \u2014 native providers, MCP, tools, routing, memory, budg",
     "id": "matakartal/aikit-runtime",
     "language": "Rust",
     "name": "matakartal/aikit-runtime",
     "stars": 2,
-    "updated_at": "2026-07-16T17:59:33Z",
+    "updated_at": "2026-07-16T18:13:23Z",
     "url": "https://github.com/matakartal/aikit-runtime"
+  },
+  {
+    "description": "Local-first AI orchestration sandbox for dry-run agents, evidence chains, workspace contracts, and provider-safe validat",
+    "id": "ProfRandom92/Comptext",
+    "language": "Python",
+    "name": "ProfRandom92/Comptext",
+    "stars": 0,
+    "updated_at": "2026-07-16T18:09:53Z",
+    "url": "https://github.com/ProfRandom92/Comptext"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-16T18:09:52Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
+    "id": "achappey/aihappey-chat",
+    "language": "TypeScript",
+    "name": "achappey/aihappey-chat",
+    "stars": 3,
+    "updated_at": "2026-07-16T18:06:29Z",
+    "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
+    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
+    "id": "George-RD/openspine",
+    "language": "Rust",
+    "name": "George-RD/openspine",
+    "stars": 0,
+    "updated_at": "2026-07-16T18:04:57Z",
+    "url": "https://github.com/George-RD/openspine"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 153,
+    "updated_at": "2026-07-16T18:04:54Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Local-first AI agent workspace with visual runtime, HITL control, sandbox audit, memory, RAG and skills.",
+    "id": "Muulor/AgentVis",
+    "language": "TypeScript",
+    "name": "Muulor/AgentVis",
+    "stars": 3,
+    "updated_at": "2026-07-16T18:03:08Z",
+    "url": "https://github.com/Muulor/AgentVis"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 0,
+    "updated_at": "2026-07-16T18:01:12Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-16T18:01:07Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-16T18:00:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6605,
+    "stars": 6606,
     "updated_at": "2026-07-16T17:59:21Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -50,7 +140,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 4,
-    "updated_at": "2026-07-16T18:00:23Z",
+    "updated_at": "2026-07-16T18:06:51Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -70,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-07-16T17:51:03Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-16T17:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
@@ -106,15 +187,6 @@
     "stars": 12167,
     "updated_at": "2026-07-16T17:42:05Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
-    "id": "George-RD/openspine",
-    "language": "Rust",
-    "name": "George-RD/openspine",
-    "stars": 0,
-    "updated_at": "2026-07-16T18:00:03Z",
-    "url": "https://github.com/George-RD/openspine"
   },
   {
     "description": "Exact input-bound approvals, policy-gated TypeScript tools, source-linked evidence, CLI workers, and governed web resear",
@@ -167,7 +239,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 434,
-    "updated_at": "2026-07-16T17:57:56Z",
+    "updated_at": "2026-07-16T18:10:01Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -184,7 +256,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18581,
+    "stars": 18582,
     "updated_at": "2026-07-16T17:31:51Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -198,15 +270,6 @@
     "url": "https://github.com/ahwurm/localharness"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4868,
-    "updated_at": "2026-07-16T17:30:41Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -214,15 +277,6 @@
     "stars": 12,
     "updated_at": "2026-07-16T17:30:36Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Local-first AI agent workspace with visual runtime, HITL control, sandbox audit, memory, RAG and skills.",
-    "id": "Muulor/AgentVis",
-    "language": "TypeScript",
-    "name": "Muulor/AgentVis",
-    "stars": 3,
-    "updated_at": "2026-07-16T17:32:56Z",
-    "url": "https://github.com/Muulor/AgentVis"
   },
   {
     "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T17:06:14Z",
     "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-07-16T17:06:01Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-07-16T17:05:23Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-07-16T17:04:58Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 2,
-    "updated_at": "2026-07-16T17:03:22Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-07-16T17:03:17Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "A lightweight, extensible multi-agent AI framework with built-in tools, persistent memory, inter-agent messaging, and ho",
-    "id": "hanyo-ai/taus-agent",
-    "language": "Python",
-    "name": "hanyo-ai/taus-agent",
-    "stars": 1,
-    "updated_at": "2026-07-16T17:03:14Z",
-    "url": "https://github.com/hanyo-ai/taus-agent"
   }
 ]
