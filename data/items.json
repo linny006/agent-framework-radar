@@ -1,11 +1,92 @@
 [
   {
+    "description": "A curated, opinionated set of OpenCode plugins for spec-first, review-driven, safer agentic development.",
+    "id": "osovv/vv-opencode",
+    "language": "TypeScript",
+    "name": "osovv/vv-opencode",
+    "stars": 10,
+    "updated_at": "2026-07-16T09:13:52Z",
+    "url": "https://github.com/osovv/vv-opencode"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 6,
+    "updated_at": "2026-07-16T09:13:52Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Record, replay, and improve AI agents in production, built on ZenML",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 208,
+    "updated_at": "2026-07-16T09:12:44Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-16T09:11:58Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 153,
+    "updated_at": "2026-07-16T09:10:26Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-16T09:07:56Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "A lightweight, extensible multi-agent AI framework with built-in tools, persistent memory, inter-agent messaging, and ho",
+    "id": "hanyo-ai/taus-agent",
+    "language": "Python",
+    "name": "hanyo-ai/taus-agent",
+    "stars": 1,
+    "updated_at": "2026-07-16T09:03:36Z",
+    "url": "https://github.com/hanyo-ai/taus-agent"
+  },
+  {
+    "description": "",
+    "id": "ZhangHalfGod/Agents-Skill-Site",
+    "language": "JavaScript",
+    "name": "ZhangHalfGod/Agents-Skill-Site",
+    "stars": 0,
+    "updated_at": "2026-07-16T09:03:21Z",
+    "url": "https://github.com/ZhangHalfGod/Agents-Skill-Site"
+  },
+  {
+    "description": "An agent = model + harness. A .NET 10 framework where guides shape the model's context each turn and sensors guard every",
+    "id": "AnilKerai/model-harness",
+    "language": "C#",
+    "name": "AnilKerai/model-harness",
+    "stars": 0,
+    "updated_at": "2026-07-16T09:05:43Z",
+    "url": "https://github.com/AnilKerai/model-harness"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-07-16T09:00:08Z",
+    "updated_at": "2026-07-16T09:00:23Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -22,7 +103,7 @@
     "id": "Human-Agent-Society/CORAL",
     "language": "Python",
     "name": "Human-Agent-Society/CORAL",
-    "stars": 820,
+    "stars": 821,
     "updated_at": "2026-07-16T08:59:40Z",
     "url": "https://github.com/Human-Agent-Society/CORAL"
   },
@@ -52,15 +133,6 @@
     "stars": 75,
     "updated_at": "2026-07-16T08:54:53Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-16T08:53:44Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
@@ -104,7 +176,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-16T08:57:39Z",
+    "updated_at": "2026-07-16T09:13:48Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7356,
-    "updated_at": "2026-07-16T08:55:38Z",
+    "updated_at": "2026-07-16T09:10:37Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -175,7 +247,7 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 280,
+    "stars": 281,
     "updated_at": "2026-07-16T08:37:23Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -194,7 +266,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 433,
-    "updated_at": "2026-07-16T08:41:13Z",
+    "updated_at": "2026-07-16T09:13:09Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -223,15 +295,6 @@
     "stars": 18566,
     "updated_at": "2026-07-16T08:24:21Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
-    "id": "raineislam/mcp-framework",
-    "language": "Python",
-    "name": "raineislam/mcp-framework",
-    "stars": 0,
-    "updated_at": "2026-07-16T08:23:41Z",
-    "url": "https://github.com/raineislam/mcp-framework"
   },
   {
     "description": "An agent operating system: a framework-agnostic harness for self-monitoring, self-improving agentic AI.",
@@ -338,7 +401,7 @@
     "language": "Python",
     "name": "RikyZ90/ShibaClaw",
     "stars": 77,
-    "updated_at": "2026-07-16T07:55:48Z",
+    "updated_at": "2026-07-16T09:09:32Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
@@ -349,15 +412,6 @@
     "stars": 3857,
     "updated_at": "2026-07-16T07:51:26Z",
     "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 6,
-    "updated_at": "2026-07-16T07:50:28Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "Coding agent skeleton with ReAct engine, tool system, MCP support, and permission control.",
@@ -378,15 +432,6 @@
     "url": "https://github.com/danielstpaul/silas"
   },
   {
-    "description": "A curated, opinionated set of OpenCode plugins for spec-first, review-driven, safer agentic development.",
-    "id": "osovv/vv-opencode",
-    "language": "TypeScript",
-    "name": "osovv/vv-opencode",
-    "stars": 10,
-    "updated_at": "2026-07-16T07:41:47Z",
-    "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
     "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
     "id": "Caprista/KarvyLoop",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T07:24:43Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "A desktop control center for Eve agents \u2014 run, chat, build, wire, and deploy every Eve agent from one native app.",
-    "id": "ianborders/eve-studio",
-    "language": "TypeScript",
-    "name": "ianborders/eve-studio",
-    "stars": 0,
-    "updated_at": "2026-07-16T07:24:09Z",
-    "url": "https://github.com/ianborders/eve-studio"
-  },
-  {
-    "description": "Agent SDK, CLI, RPC in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 6,
-    "updated_at": "2026-07-16T07:23:04Z",
-    "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8897,
-    "updated_at": "2026-07-16T07:21:23Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 680,
-    "updated_at": "2026-07-16T08:19:04Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
-  },
-  {
-    "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
-    "id": "zerovia/be-a-lucky-block-hub",
-    "language": "HTML",
-    "name": "zerovia/be-a-lucky-block-hub",
-    "stars": 0,
-    "updated_at": "2026-07-16T07:14:13Z",
-    "url": "https://github.com/zerovia/be-a-lucky-block-hub"
   }
 ]
