@@ -1,5 +1,59 @@
 [
   {
+    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 678,
+    "updated_at": "2026-07-16T05:29:25Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
+    "description": "Kernel for Claude Code projects: 81-line contract, 37 lazy skills, zero runtime services. Successor to SkillForge.",
+    "id": "bogdanov-igor/keel",
+    "language": "Shell",
+    "name": "bogdanov-igor/keel",
+    "stars": 0,
+    "updated_at": "2026-07-16T05:27:54Z",
+    "url": "https://github.com/bogdanov-igor/keel"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 6,
+    "updated_at": "2026-07-16T05:27:33Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 72,
+    "updated_at": "2026-07-16T05:20:09Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
+    "id": "akimoto-akira/SiliconLifeCollective",
+    "language": "C#",
+    "name": "akimoto-akira/SiliconLifeCollective",
+    "stars": 2,
+    "updated_at": "2026-07-16T05:18:45Z",
+    "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-16T05:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -16,24 +70,6 @@
     "stars": 7,
     "updated_at": "2026-07-16T05:14:08Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained aud",
-    "id": "sipyourdrink-ltd/bernstein",
-    "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 678,
-    "updated_at": "2026-07-16T05:13:48Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
-  },
-  {
-    "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
-    "id": "akimoto-akira/SiliconLifeCollective",
-    "language": "C#",
-    "name": "akimoto-akira/SiliconLifeCollective",
-    "stars": 2,
-    "updated_at": "2026-07-16T05:10:45Z",
-    "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
   },
   {
     "description": "Self-hosted local-first AI research stack with Ollama, n8n, Rinnsal memory, KnowledgeDigest search, and Docker Compose a",
@@ -59,26 +95,8 @@
     "language": "TypeScript",
     "name": "rogerchappel/crewcmd",
     "stars": 2,
-    "updated_at": "2026-07-16T05:01:02Z",
+    "updated_at": "2026-07-16T05:27:32Z",
     "url": "https://github.com/rogerchappel/crewcmd"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-16T05:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 72,
-    "updated_at": "2026-07-16T04:55:53Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "RudraX Army \u2014 349 specialist agents, 43 model providers, 9 tactical squads and one open-source command center. Developed",
@@ -94,7 +112,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7348,
+    "stars": 7349,
     "updated_at": "2026-07-16T04:50:35Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T04:16:45Z",
     "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-07-16T04:16:21Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-07-16T04:16:08Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
   }
 ]
