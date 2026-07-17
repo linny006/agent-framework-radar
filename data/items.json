@@ -1,21 +1,12 @@
 [
   {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
+    "id": "Asceticrefractoryperiod28/Foundry",
+    "language": "TypeScript",
+    "name": "Asceticrefractoryperiod28/Foundry",
     "stars": 0,
-    "updated_at": "2026-07-17T03:30:04Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 290,
-    "updated_at": "2026-07-17T03:30:02Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
+    "updated_at": "2026-07-17T03:34:08Z",
+    "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -23,8 +14,71 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 72,
-    "updated_at": "2026-07-17T03:29:13Z",
+    "updated_at": "2026-07-17T03:33:23Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
+    "id": "salvatoreabient793/cursor-auto-deployment-agent",
+    "language": "\u2014",
+    "name": "salvatoreabient793/cursor-auto-deployment-agent",
+    "stars": 0,
+    "updated_at": "2026-07-17T03:32:22Z",
+    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 290,
+    "updated_at": "2026-07-17T03:31:11Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "A 7\u00d76 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified eng",
+    "id": "huangjia2019/agent-design-patterns",
+    "language": "HTML",
+    "name": "huangjia2019/agent-design-patterns",
+    "stars": 167,
+    "updated_at": "2026-07-17T03:31:01Z",
+    "url": "https://github.com/huangjia2019/agent-design-patterns"
+  },
+  {
+    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
+    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
+    "language": "Python",
+    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
+    "stars": 0,
+    "updated_at": "2026-07-17T03:30:40Z",
+    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-17T03:30:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
+    "id": "sloppy-yeast840/tri-party-framework",
+    "language": "Shell",
+    "name": "sloppy-yeast840/tri-party-framework",
+    "stars": 0,
+    "updated_at": "2026-07-17T03:30:14Z",
+    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-07-17T03:30:04Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -207,15 +261,6 @@
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-17T03:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -387,15 +432,6 @@
     "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
   },
   {
-    "description": "A 7\u00d76 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified eng",
-    "id": "huangjia2019/agent-design-patterns",
-    "language": "HTML",
-    "name": "huangjia2019/agent-design-patterns",
-    "stars": 167,
-    "updated_at": "2026-07-17T03:05:44Z",
-    "url": "https://github.com/huangjia2019/agent-design-patterns"
-  },
-  {
     "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
     "id": "Ibisselfgovernment28/v1-multiagent-articles",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-17T03:03:05Z",
     "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
-  },
-  {
-    "description": "Provide a lightweight, cross-platform AI agent with TUI and GUI support, optimized for performance and flexible tool int",
-    "id": "duduard/saneagent",
-    "language": "\u2014",
-    "name": "duduard/saneagent",
-    "stars": 0,
-    "updated_at": "2026-07-17T03:01:42Z",
-    "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "Build and manage AI agents within git repositories using a Rust-based, dependency-free framework that version-controls a",
-    "id": "yeab405/rusty-gitclaw",
-    "language": "Rust",
-    "name": "yeab405/rusty-gitclaw",
-    "stars": 2,
-    "updated_at": "2026-07-17T03:00:55Z",
-    "url": "https://github.com/yeab405/rusty-gitclaw"
-  },
-  {
-    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
-    "id": "sweatco/archie-hq",
-    "language": "TypeScript",
-    "name": "sweatco/archie-hq",
-    "stars": 15,
-    "updated_at": "2026-07-17T03:00:38Z",
-    "url": "https://github.com/sweatco/archie-hq"
-  },
-  {
-    "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
-    "id": "kokorubbong/agenticqa-scan-action",
-    "language": "Python",
-    "name": "kokorubbong/agenticqa-scan-action",
-    "stars": 0,
-    "updated_at": "2026-07-17T02:59:27Z",
-    "url": "https://github.com/kokorubbong/agenticqa-scan-action"
   }
 ]
