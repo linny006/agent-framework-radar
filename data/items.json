@@ -1,5 +1,77 @@
 [
   {
+    "description": "Production-grade framework for building, scheduling, and operating autonomous agent fleets on Claude Code. Agent kernel ",
+    "id": "maxmoran23/Claude-Agent-Fleet",
+    "language": "HTML",
+    "name": "maxmoran23/Claude-Agent-Fleet",
+    "stars": 0,
+    "updated_at": "2026-07-17T22:29:00Z",
+    "url": "https://github.com/maxmoran23/Claude-Agent-Fleet"
+  },
+  {
+    "description": "Informed Vibe Atelier \u2014 local-first OS for AI co-founders. Vibe code with a brain, ship with discipline, bring your own ",
+    "id": "Amitshukla2308/informed-vibe-atelier-prod",
+    "language": "TypeScript",
+    "name": "Amitshukla2308/informed-vibe-atelier-prod",
+    "stars": 0,
+    "updated_at": "2026-07-17T22:27:22Z",
+    "url": "https://github.com/Amitshukla2308/informed-vibe-atelier-prod"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-17T22:27:14Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-07-17T22:21:00Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12187,
+    "updated_at": "2026-07-17T22:17:36Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-07-17T22:16:56Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 43,
+    "updated_at": "2026-07-17T22:16:44Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-17T22:15:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -9,21 +81,12 @@
     "url": "https://github.com/raineislam/mcp-framework"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 43,
-    "updated_at": "2026-07-17T22:13:53Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
     "id": "vstorm-co/full-stack-ai-agent-template",
     "language": "Python",
     "name": "vstorm-co/full-stack-ai-agent-template",
     "stars": 1539,
-    "updated_at": "2026-07-17T22:12:56Z",
+    "updated_at": "2026-07-17T22:26:32Z",
     "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
   },
   {
@@ -36,21 +99,12 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12187,
-    "updated_at": "2026-07-17T22:11:54Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7423,
-    "updated_at": "2026-07-17T22:11:06Z",
+    "updated_at": "2026-07-17T22:15:35Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -77,35 +131,17 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18625,
-    "updated_at": "2026-07-17T22:07:15Z",
+    "updated_at": "2026-07-17T22:23:25Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "Informed Vibe Atelier \u2014 local-first OS for AI co-founders. Vibe code with a brain, ship with discipline, bring your own ",
-    "id": "Amitshukla2308/informed-vibe-atelier-prod",
-    "language": "TypeScript",
-    "name": "Amitshukla2308/informed-vibe-atelier-prod",
-    "stars": 0,
-    "updated_at": "2026-07-17T22:06:40Z",
-    "url": "https://github.com/Amitshukla2308/informed-vibe-atelier-prod"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-17T22:00:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-07-17T22:09:48Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
+    "name": "jaylfc/taOS",
+    "stars": 437,
+    "updated_at": "2026-07-17T22:00:57Z",
+    "url": "https://github.com/jaylfc/taOS"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -214,33 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-17T21:39:49Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 436,
-    "updated_at": "2026-07-17T22:00:57Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-07-17T21:37:22Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-17T21:31:20Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -439,14 +448,5 @@
     "stars": 12,
     "updated_at": "2026-07-17T20:43:18Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 2,
-    "updated_at": "2026-07-17T20:42:13Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
   }
 ]
