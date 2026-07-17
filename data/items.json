@@ -1,5 +1,77 @@
 [
   {
+    "description": "Exact input-bound approvals, policy-gated TypeScript tools, source-linked evidence, CLI workers, and governed web resear",
+    "id": "AjnasNB/maqam",
+    "language": "JavaScript",
+    "name": "AjnasNB/maqam",
+    "stars": 0,
+    "updated_at": "2026-07-17T15:30:26Z",
+    "url": "https://github.com/AjnasNB/maqam"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-07-17T15:28:58Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "A desktop control center for Eve agents \u2014 run, chat, build, wire, and deploy every Eve agent from one native app.",
+    "id": "KybernesisAI/eve-studio",
+    "language": "TypeScript",
+    "name": "KybernesisAI/eve-studio",
+    "stars": 0,
+    "updated_at": "2026-07-17T15:25:09Z",
+    "url": "https://github.com/KybernesisAI/eve-studio"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8902,
+    "updated_at": "2026-07-17T15:22:48Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
+    "id": "ahwurm/localharness",
+    "language": "Python",
+    "name": "ahwurm/localharness",
+    "stars": 17,
+    "updated_at": "2026-07-17T15:22:43Z",
+    "url": "https://github.com/ahwurm/localharness"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-17T15:21:39Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Pulse \u2014 Hermes-style self-improving AI agent. Reliability-first rebuild with evaluated skill self-evolution, multi-agent",
+    "id": "Alex663028/pulse-agent",
+    "language": "Python",
+    "name": "Alex663028/pulse-agent",
+    "stars": 4,
+    "updated_at": "2026-07-17T15:18:32Z",
+    "url": "https://github.com/Alex663028/pulse-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-17T15:15:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "ContextLattice is the local-first control plane for long-horizon agent memory, coordination, and behavioral provenance. ",
     "id": "sheawinkler/ContextLattice",
     "language": "Go",
@@ -18,22 +90,13 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8902,
-    "updated_at": "2026-07-17T15:14:03Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "A desktop control center for Eve agents \u2014 run, chat, build, wire, and deploy every Eve agent from one native app.",
-    "id": "KybernesisAI/eve-studio",
-    "language": "TypeScript",
-    "name": "KybernesisAI/eve-studio",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:13:45Z",
-    "url": "https://github.com/KybernesisAI/eve-studio"
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6620,
+    "updated_at": "2026-07-17T15:14:16Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T15:13:24Z",
     "url": "https://github.com/zerovia/be-a-lucky-block-hub"
-  },
-  {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 1,
-    "updated_at": "2026-07-17T15:12:48Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -142,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T15:01:56Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
-    "id": "ahwurm/localharness",
-    "language": "Python",
-    "name": "ahwurm/localharness",
-    "stars": 17,
-    "updated_at": "2026-07-17T15:01:00Z",
-    "url": "https://github.com/ahwurm/localharness"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-17T15:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -342,15 +378,6 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-07-17T15:10:40Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
     "id": "jesayas7817/agent-reliability-engineering",
     "language": "Shell",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T14:42:34Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-17T14:41:24Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-07-17T14:41:09Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 153,
-    "updated_at": "2026-07-17T14:40:01Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
   }
 ]
