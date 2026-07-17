@@ -1,12 +1,12 @@
 [
   {
-    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
-    "id": "bugsyhewitt/AlienClaw",
-    "language": "TypeScript",
-    "name": "bugsyhewitt/AlienClaw",
-    "stars": 7,
-    "updated_at": "2026-07-17T04:12:08Z",
-    "url": "https://github.com/bugsyhewitt/AlienClaw"
+    "description": "Deterministic, audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). H",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 682,
+    "updated_at": "2026-07-17T04:30:12Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -14,17 +14,17 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-17T04:12:03Z",
+    "updated_at": "2026-07-17T04:27:19Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Deterministic, audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). H",
-    "id": "sipyourdrink-ltd/bernstein",
+    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
+    "id": "tsingxuanhan/NexusFlow",
     "language": "Python",
-    "name": "sipyourdrink-ltd/bernstein",
-    "stars": 682,
-    "updated_at": "2026-07-17T04:13:18Z",
-    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+    "name": "tsingxuanhan/NexusFlow",
+    "stars": 0,
+    "updated_at": "2026-07-17T04:25:41Z",
+    "url": "https://github.com/tsingxuanhan/NexusFlow"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -32,8 +32,71 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 72,
-    "updated_at": "2026-07-17T04:09:57Z",
+    "updated_at": "2026-07-17T04:23:48Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4844,
+    "updated_at": "2026-07-17T04:24:38Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-17T04:23:04Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Local-first goal execution harness for AI agents \u2014 plan \u2192 execute \u2192 review \u2192 done. Deterministic review gates, loop guar",
+    "id": "moortekweb-art/agentic-harness",
+    "language": "Python",
+    "name": "moortekweb-art/agentic-harness",
+    "stars": 0,
+    "updated_at": "2026-07-17T04:25:12Z",
+    "url": "https://github.com/moortekweb-art/agentic-harness"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-07-17T04:21:21Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7396,
+    "updated_at": "2026-07-17T04:28:49Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27093,
+    "updated_at": "2026-07-17T04:16:02Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-17T04:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
@@ -58,7 +121,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18598,
+    "stars": 18599,
     "updated_at": "2026-07-17T04:07:08Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -70,15 +133,6 @@
     "stars": 26,
     "updated_at": "2026-07-17T04:02:47Z",
     "url": "https://github.com/johnvouros/skillmaxxing"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-17T04:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
@@ -106,15 +160,6 @@
     "stars": 10,
     "updated_at": "2026-07-17T03:54:21Z",
     "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7396,
-    "updated_at": "2026-07-17T04:06:58Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T03:15:34Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 153,
-    "updated_at": "2026-07-17T03:14:48Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-07-17T03:13:40Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
-    "id": "George-RD/openspine",
-    "language": "Rust",
-    "name": "George-RD/openspine",
-    "stars": 0,
-    "updated_at": "2026-07-17T03:13:31Z",
-    "url": "https://github.com/George-RD/openspine"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-17T03:13:30Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
-    "id": "ahwurm/localharness",
-    "language": "Python",
-    "name": "ahwurm/localharness",
-    "stars": 17,
-    "updated_at": "2026-07-17T03:13:15Z",
-    "url": "https://github.com/ahwurm/localharness"
   }
 ]
