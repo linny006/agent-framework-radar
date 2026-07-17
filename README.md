@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-17 22:29 UTC
+> ⏰ Last updated: 2026-07-17 22:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [maxmoran23/Claude-Agent-Fleet](https://github.com/maxmoran23/Claude-Agent-Fleet) | 0 | HTML | 2026-07-17 | Production-grade framework for building, scheduling, and operating autonomous agent fleets on Claude Code. Agent kernel  |
-| 2 | [Amitshukla2308/informed-vibe-atelier-prod](https://github.com/Amitshukla2308/informed-vibe-atelier-prod) | 0 | TypeScript | 2026-07-17 | Informed Vibe Atelier — local-first OS for AI co-founders. Vibe code with a brain, ship with discipline, bring your own  |
-| 3 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-07-17 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 4 | [kh0pper/crow](https://github.com/kh0pper/crow) | 20 | JavaScript | 2026-07-17 | Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs |
-| 5 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 12187 | Python | 2026-07-17 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
-| 6 | [human-plus-machine/monkeybot](https://github.com/human-plus-machine/monkeybot) | 3 | Python | 2026-07-17 | Universal Agent Harness |
-| 7 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 43 | TypeScript | 2026-07-17 | Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-17 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-17 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [maxmoran23/Claude-Agent-Fleet](https://github.com/maxmoran23/Claude-Agent-Fleet) | 0 | HTML | 2026-07-17 | Production-grade framework for building, scheduling, and operating autonomous agent fleets on Claude Code. Agent kernel  |
+| 3 | [Amitshukla2308/informed-vibe-atelier-prod](https://github.com/Amitshukla2308/informed-vibe-atelier-prod) | 0 | TypeScript | 2026-07-17 | Informed Vibe Atelier — local-first OS for AI co-founders. Vibe code with a brain, ship with discipline, bring your own  |
+| 4 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-07-17 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 5 | [kh0pper/crow](https://github.com/kh0pper/crow) | 20 | JavaScript | 2026-07-17 | Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude/ChatGPT/Curs |
+| 6 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 12187 | Python | 2026-07-17 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
+| 7 | [human-plus-machine/monkeybot](https://github.com/human-plus-machine/monkeybot) | 3 | Python | 2026-07-17 | Universal Agent Harness |
+| 8 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 43 | TypeScript | 2026-07-17 | Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo |
 | 9 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-07-17 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
 | 10 | [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) | 1539 | Python | 2026-07-17 | Full-stack AI app generator — FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo |
 | 11 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-17 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
