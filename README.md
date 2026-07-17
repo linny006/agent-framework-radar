@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-17 10:15 UTC
+> ⏰ Last updated: 2026-07-17 10:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Clean-Dust/WorldWave-Agent](https://github.com/Clean-Dust/WorldWave-Agent) | 2 | Python | 2026-07-17 | A persistent cognitive entity — one agent, one memory, one timeline across all platforms. Self-editing knowledge graph,  |
-| 2 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 3 | Python | 2026-07-17 | Many Agents, one objective... yours  |
-| 3 | [OgreScat/AgentGRIT](https://github.com/OgreScat/AgentGRIT) | 0 | Python | 2026-07-17 | Governance-first AI agent runtime — cost-first routing to the cheapest capable model, self-enforced bylaws, a trust ladd |
-| 4 | [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) | 687 | Python | 2026-07-17 | Deterministic, audit-grade multi-agent orchestration for AI agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chai |
-| 5 | [cortexkit/aft](https://github.com/cortexkit/aft) | 201 | Rust | 2026-07-17 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 6 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18615 | Python | 2026-07-17 | AI Agent Framework, the Pydantic way |
-| 7 | [George-RD/openspine](https://github.com/George-RD/openspine) | 0 | Rust | 2026-07-17 | A safety layer for AI agents; it decides what your agent is allowed to do - and proves it. |
-| 8 | [KybernesisAI/eve-studio](https://github.com/KybernesisAI/eve-studio) | 0 | TypeScript | 2026-07-17 | A desktop control center for Eve agents — run, chat, build, wire, and deploy every Eve agent from one native app. |
-| 9 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7404 | Python | 2026-07-17 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 10 | [111nathanlar/Agent-Worlds](https://github.com/111nathanlar/Agent-Worlds) | 1 | HTML | 2026-07-17 |  |
-| 11 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-17 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 12 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-17 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-17 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [Clean-Dust/WorldWave-Agent](https://github.com/Clean-Dust/WorldWave-Agent) | 2 | Python | 2026-07-17 | A persistent cognitive entity — one agent, one memory, one timeline across all platforms. Self-editing knowledge graph,  |
+| 3 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 3 | Python | 2026-07-17 | Many Agents, one objective... yours  |
+| 4 | [OgreScat/AgentGRIT](https://github.com/OgreScat/AgentGRIT) | 0 | Python | 2026-07-17 | Governance-first AI agent runtime — cost-first routing to the cheapest capable model, self-enforced bylaws, a trust ladd |
+| 5 | [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) | 687 | Python | 2026-07-17 | Deterministic, audit-grade multi-agent orchestration for AI agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chai |
+| 6 | [cortexkit/aft](https://github.com/cortexkit/aft) | 201 | Rust | 2026-07-17 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 7 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18615 | Python | 2026-07-17 | AI Agent Framework, the Pydantic way |
+| 8 | [George-RD/openspine](https://github.com/George-RD/openspine) | 0 | Rust | 2026-07-17 | A safety layer for AI agents; it decides what your agent is allowed to do - and proves it. |
+| 9 | [KybernesisAI/eve-studio](https://github.com/KybernesisAI/eve-studio) | 0 | TypeScript | 2026-07-17 | A desktop control center for Eve agents — run, chat, build, wire, and deploy every Eve agent from one native app. |
+| 10 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7404 | Python | 2026-07-17 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 11 | [111nathanlar/Agent-Worlds](https://github.com/111nathanlar/Agent-Worlds) | 1 | HTML | 2026-07-17 |  |
+| 12 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-17 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 13 | [Insajin/autopus-adk](https://github.com/Insajin/autopus-adk) | 107 | Go | 2026-07-17 | Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes |
 | 14 | [RikyZ90/ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | 77 | Python | 2026-07-17 | 🐕 Self-hosted security-first AI agent · 28 providers · 11 chat channels · WebUI · 3-level memory · task-schedule · autom |
 | 15 | [bbvch-ai/aihub-core](https://github.com/bbvch-ai/aihub-core) | 9 | Python | 2026-07-17 | The open-source AI infrastructure stack for Swiss enterprises. |
