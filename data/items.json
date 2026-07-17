@@ -1,5 +1,131 @@
 [
   {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 1,
+    "updated_at": "2026-07-17T12:44:48Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "Informed Vibe Atelier \u2014 local-first OS for AI co-founders. Vibe code with a brain, ship with discipline, bring your own ",
+    "id": "Amitshukla2308/informed-vibe-atelier-prod",
+    "language": "TypeScript",
+    "name": "Amitshukla2308/informed-vibe-atelier-prod",
+    "stars": 0,
+    "updated_at": "2026-07-17T12:43:44Z",
+    "url": "https://github.com/Amitshukla2308/informed-vibe-atelier-prod"
+  },
+  {
+    "description": "Agent SDK, CLI, RPC in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-07-17T12:41:13Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
+    "id": "zerovia/be-a-lucky-block-hub",
+    "language": "HTML",
+    "name": "zerovia/be-a-lucky-block-hub",
+    "stars": 0,
+    "updated_at": "2026-07-17T12:40:17Z",
+    "url": "https://github.com/zerovia/be-a-lucky-block-hub"
+  },
+  {
+    "description": "Deterministic, audit-grade multi-agent orchestration for AI agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chai",
+    "id": "sipyourdrink-ltd/bernstein",
+    "language": "Python",
+    "name": "sipyourdrink-ltd/bernstein",
+    "stars": 687,
+    "updated_at": "2026-07-17T12:43:55Z",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein"
+  },
+  {
+    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
+    "id": "achappey/aihappey-agents",
+    "language": "C#",
+    "name": "achappey/aihappey-agents",
+    "stars": 0,
+    "updated_at": "2026-07-17T12:37:59Z",
+    "url": "https://github.com/achappey/aihappey-agents"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27125,
+    "updated_at": "2026-07-17T12:37:38Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 3,
+    "updated_at": "2026-07-17T12:43:59Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Pulse \u2014 Hermes-style self-improving AI agent. Reliability-first rebuild with evaluated skill self-evolution, multi-agent",
+    "id": "Alex663028/pulse-agent",
+    "language": "Python",
+    "name": "Alex663028/pulse-agent",
+    "stars": 4,
+    "updated_at": "2026-07-17T12:35:36Z",
+    "url": "https://github.com/Alex663028/pulse-agent"
+  },
+  {
+    "description": "Hermes Agent \u65e5\u5fd7\u4f53\u7cfb \u2014 error-registry, architecture-constraints, task-progress, skill-registry",
+    "id": "Leisure-Auf1/Terence-Agent",
+    "language": "Python",
+    "name": "Leisure-Auf1/Terence-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-17T12:34:15Z",
+    "url": "https://github.com/Leisure-Auf1/Terence-Agent"
+  },
+  {
+    "description": "Research Prototype: 12-Agent Personalized Learning System. Multi-agent collaboration, EventBus, Memory Layer, 6 resource",
+    "id": "Leisure-Auf1/A3-Multi-Agent-System",
+    "language": "Python",
+    "name": "Leisure-Auf1/A3-Multi-Agent-System",
+    "stars": 0,
+    "updated_at": "2026-07-17T12:33:58Z",
+    "url": "https://github.com/Leisure-Auf1/A3-Multi-Agent-System"
+  },
+  {
+    "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
+    "id": "Asceticrefractoryperiod28/Foundry",
+    "language": "TypeScript",
+    "name": "Asceticrefractoryperiod28/Foundry",
+    "stars": 0,
+    "updated_at": "2026-07-17T12:33:34Z",
+    "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
+  },
+  {
+    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
+    "id": "salvatoreabient793/cursor-auto-deployment-agent",
+    "language": "\u2014",
+    "name": "salvatoreabient793/cursor-auto-deployment-agent",
+    "stars": 0,
+    "updated_at": "2026-07-17T12:31:47Z",
+    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-17T12:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
     "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
     "language": "Python",
@@ -25,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T12:29:25Z",
     "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 3,
-    "updated_at": "2026-07-17T12:30:12Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -72,24 +189,6 @@
     "url": "https://github.com/Smita6756/Hbrain"
   },
   {
-    "description": "Research Prototype: 12-Agent Personalized Learning System. Multi-agent collaboration, EventBus, Memory Layer, 6 resource",
-    "id": "Leisure-Auf1/A3-Multi-Agent-System",
-    "language": "Python",
-    "name": "Leisure-Auf1/A3-Multi-Agent-System",
-    "stars": 0,
-    "updated_at": "2026-07-17T12:25:35Z",
-    "url": "https://github.com/Leisure-Auf1/A3-Multi-Agent-System"
-  },
-  {
-    "description": "Pulse \u2014 Hermes-style self-improving AI agent. Reliability-first rebuild with evaluated skill self-evolution, multi-agent",
-    "id": "Alex663028/pulse-agent",
-    "language": "Python",
-    "name": "Alex663028/pulse-agent",
-    "stars": 4,
-    "updated_at": "2026-07-17T12:25:05Z",
-    "url": "https://github.com/Alex663028/pulse-agent"
-  },
-  {
     "description": "Engineering Evolution: Production-grade Agent Infrastructure. Runtime State Machine, Secure EventBus, 3-Tier Memory, Tru",
     "id": "Leisure-Auf1/Veritas-Core",
     "language": "Python",
@@ -122,7 +221,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6611,
-    "updated_at": "2026-07-17T12:22:56Z",
+    "updated_at": "2026-07-17T12:44:41Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -257,7 +356,7 @@
     "language": "Go",
     "name": "sheawinkler/ContextLattice",
     "stars": 134,
-    "updated_at": "2026-07-17T12:16:49Z",
+    "updated_at": "2026-07-17T12:30:34Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
@@ -268,15 +367,6 @@
     "stars": 107,
     "updated_at": "2026-07-17T12:15:59Z",
     "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-17T12:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 \u2014 the year agents went mainstream",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T12:06:55Z",
     "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-17T12:06:54Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-07-17T12:06:28Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-07-17T12:06:08Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 153,
-    "updated_at": "2026-07-17T12:05:58Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-07-17T12:05:52Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Deploy autonomous AI streamers on Kick with one command, automating chat, voice, avatar, and OBS streaming setup in unde",
-    "id": "yhlyblys66-art/moltstream",
-    "language": "TypeScript",
-    "name": "yhlyblys66-art/moltstream",
-    "stars": 3,
-    "updated_at": "2026-07-17T12:05:30Z",
-    "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "A Python toolkit for building citation-faithful Q&A agents over a knowledge corpus.",
-    "id": "Construct-Lab/reigner",
-    "language": "Python",
-    "name": "Construct-Lab/reigner",
-    "stars": 0,
-    "updated_at": "2026-07-17T12:29:28Z",
-    "url": "https://github.com/Construct-Lab/reigner"
-  },
-  {
-    "description": "Proactive developer agent with tape memory, tool orchestration, and multi-channel interfaces",
-    "id": "rararulab/rara",
-    "language": "Rust",
-    "name": "rararulab/rara",
-    "stars": 11,
-    "updated_at": "2026-07-17T12:26:12Z",
-    "url": "https://github.com/rararulab/rara"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-07-17T12:05:07Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-07-17T12:04:22Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
   }
 ]
