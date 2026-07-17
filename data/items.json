@@ -1,5 +1,59 @@
 [
   {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-07-17T13:15:21Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "Hermes Agent \u65e5\u5fd7\u4f53\u7cfb \u2014 error-registry, architecture-constraints, task-progress, skill-registry",
+    "id": "Leisure-Auf1/Terence-Agent",
+    "language": "Python",
+    "name": "Leisure-Auf1/Terence-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-17T13:13:33Z",
+    "url": "https://github.com/Leisure-Auf1/Terence-Agent"
+  },
+  {
+    "description": "Research Prototype: 12-Agent Personalized Learning System. Multi-agent collaboration, EventBus, Memory Layer, 6 resource",
+    "id": "Leisure-Auf1/A3-Multi-Agent-System",
+    "language": "Python",
+    "name": "Leisure-Auf1/A3-Multi-Agent-System",
+    "stars": 0,
+    "updated_at": "2026-07-17T13:13:14Z",
+    "url": "https://github.com/Leisure-Auf1/A3-Multi-Agent-System"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7409,
+    "updated_at": "2026-07-17T13:12:52Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 1,
+    "updated_at": "2026-07-17T13:12:44Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-17T13:12:13Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Your machine, your way",
     "id": "huyedits/Symbio",
     "language": "Python",
@@ -25,24 +79,6 @@
     "stars": 4,
     "updated_at": "2026-07-17T13:06:35Z",
     "url": "https://github.com/Alex663028/pulse-agent"
-  },
-  {
-    "description": "Hermes Agent \u65e5\u5fd7\u4f53\u7cfb \u2014 error-registry, architecture-constraints, task-progress, skill-registry",
-    "id": "Leisure-Auf1/Terence-Agent",
-    "language": "Python",
-    "name": "Leisure-Auf1/Terence-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-17T13:06:18Z",
-    "url": "https://github.com/Leisure-Auf1/Terence-Agent"
-  },
-  {
-    "description": "Research Prototype: 12-Agent Personalized Learning System. Multi-agent collaboration, EventBus, Memory Layer, 6 resource",
-    "id": "Leisure-Auf1/A3-Multi-Agent-System",
-    "language": "Python",
-    "name": "Leisure-Auf1/A3-Multi-Agent-System",
-    "stars": 0,
-    "updated_at": "2026-07-17T13:05:57Z",
-    "url": "https://github.com/Leisure-Auf1/A3-Multi-Agent-System"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
@@ -90,15 +126,6 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
-    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
-    "id": "achappey/aihappey-agents",
-    "language": "C#",
-    "name": "achappey/aihappey-agents",
-    "stars": 0,
-    "updated_at": "2026-07-17T13:02:44Z",
-    "url": "https://github.com/achappey/aihappey-agents"
-  },
-  {
     "description": "Deterministic, audit-grade multi-agent orchestration for AI agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chai",
     "id": "sipyourdrink-ltd/bernstein",
     "language": "Python",
@@ -108,13 +135,13 @@
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-17T13:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
+    "id": "achappey/aihappey-agents",
+    "language": "C#",
+    "name": "achappey/aihappey-agents",
+    "stars": 0,
+    "updated_at": "2026-07-17T13:02:44Z",
+    "url": "https://github.com/achappey/aihappey-agents"
   },
   {
     "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
@@ -250,15 +277,6 @@
     "stars": 14579,
     "updated_at": "2026-07-17T12:45:34Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 1,
-    "updated_at": "2026-07-17T13:11:36Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
     "description": "Informed Vibe Atelier \u2014 local-first OS for AI co-founders. Vibe code with a brain, ship with discipline, bring your own ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T12:21:50Z",
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-07-17T12:21:36Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-07-17T12:21:27Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
   }
 ]
