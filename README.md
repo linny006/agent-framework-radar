@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-18 20:27 UTC
+> ⏰ Last updated: 2026-07-18 20:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [RaplesWojtyla/KarmAgent](https://github.com/RaplesWojtyla/KarmAgent) | 0 | TypeScript | 2026-07-18 | A modular TypeScript agent framework for task orchestration and intelligent automation. |
-| 2 | [agenvoy/Agenvoy](https://github.com/agenvoy/Agenvoy) | 326 | Go | 2026-07-18 | Make AI actually work for you - A personal agent that writes its own tools and repairs itself. |
-| 3 | [cortexkit/aft](https://github.com/cortexkit/aft) | 203 | Rust | 2026-07-18 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 4 | [cordum-io/cordum](https://github.com/cordum-io/cordum) | 490 | Go | 2026-07-18 | The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows, |
-| 5 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 72 | TypeScript | 2026-07-18 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 6 | [daretodave/nexus](https://github.com/daretodave/nexus) | 3 | JavaScript | 2026-07-18 | a methodology for autonomous projects that ship themselves (hands off) |
-| 7 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-07-18 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-18 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 72 | TypeScript | 2026-07-18 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-18 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [RaplesWojtyla/KarmAgent](https://github.com/RaplesWojtyla/KarmAgent) | 0 | TypeScript | 2026-07-18 | A modular TypeScript agent framework for task orchestration and intelligent automation. |
+| 4 | [agenvoy/Agenvoy](https://github.com/agenvoy/Agenvoy) | 326 | Go | 2026-07-18 | Make AI actually work for you - A personal agent that writes its own tools and repairs itself. |
+| 5 | [cortexkit/aft](https://github.com/cortexkit/aft) | 203 | Rust | 2026-07-18 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 6 | [cordum-io/cordum](https://github.com/cordum-io/cordum) | 490 | Go | 2026-07-18 | The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows, |
+| 7 | [daretodave/nexus](https://github.com/daretodave/nexus) | 3 | JavaScript | 2026-07-18 | a methodology for autonomous projects that ship themselves (hands off) |
+| 8 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-07-18 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
 | 9 | [AjnasNB/maqam](https://github.com/AjnasNB/maqam) | 1 | JavaScript | 2026-07-18 | Exact input-bound approvals, policy-gated TypeScript tools, source-linked evidence, CLI workers, and governed web resear |
 | 10 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-18 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
 | 11 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7462 | Python | 2026-07-18 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
