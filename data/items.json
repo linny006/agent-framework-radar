@@ -1,5 +1,95 @@
 [
   {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 186,
+    "updated_at": "2026-07-18T08:59:12Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "A data-driven, cryptographically signed, registry-backed AI operating system, with capability-scoped execution and graph",
+    "id": "leolilley/ryeos",
+    "language": "Rust",
+    "name": "leolilley/ryeos",
+    "stars": 2,
+    "updated_at": "2026-07-18T08:58:40Z",
+    "url": "https://github.com/leolilley/ryeos"
+  },
+  {
+    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 35,
+    "updated_at": "2026-07-18T08:55:19Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-18T08:53:01Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-18T08:50:09Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-07-18T08:48:39Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-18T08:48:20Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "An agent operating system: a framework-agnostic harness for self-monitoring, self-improving agentic AI.",
+    "id": "Srujan0798/Adaptoid-OS",
+    "language": "Python",
+    "name": "Srujan0798/Adaptoid-OS",
+    "stars": 0,
+    "updated_at": "2026-07-18T08:47:28Z",
+    "url": "https://github.com/Srujan0798/Adaptoid-OS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-18T08:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 72,
+    "updated_at": "2026-07-18T08:45:13Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
     "id": "Omni-Craft/OmniCraft",
     "language": "Python",
@@ -16,24 +106,6 @@
     "stars": 4,
     "updated_at": "2026-07-18T08:42:29Z",
     "url": "https://github.com/KybernesisAI/eve-studio"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 72,
-    "updated_at": "2026-07-18T08:45:13Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "An agent operating system: a framework-agnostic harness for self-monitoring, self-improving agentic AI.",
-    "id": "Srujan0798/Adaptoid-OS",
-    "language": "Python",
-    "name": "Srujan0798/Adaptoid-OS",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:41:07Z",
-    "url": "https://github.com/Srujan0798/Adaptoid-OS"
   },
   {
     "description": "TypeScript AI agent framework with multi-judge hallucination verifier + Vectara HHEM-2.1, pre-tool-call governance/appro",
@@ -81,24 +153,6 @@
     "url": "https://github.com/clawboo/clawboo"
   },
   {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 186,
-    "updated_at": "2026-07-18T08:37:41Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-18T08:37:34Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -126,15 +180,6 @@
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
-    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 35,
-    "updated_at": "2026-07-18T08:31:47Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
     "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
@@ -142,15 +187,6 @@
     "stars": 14587,
     "updated_at": "2026-07-18T08:31:41Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-18T08:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -203,7 +239,7 @@
     "language": "Go",
     "name": "sheawinkler/ContextLattice",
     "stars": 134,
-    "updated_at": "2026-07-18T08:25:00Z",
+    "updated_at": "2026-07-18T09:00:13Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-07-18T08:12:55Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "A data-driven, cryptographically signed, registry-backed AI operating system, with capability-scoped execution and graph",
-    "id": "leolilley/ryeos",
-    "language": "Rust",
-    "name": "leolilley/ryeos",
-    "stars": 2,
-    "updated_at": "2026-07-18T08:12:54Z",
-    "url": "https://github.com/leolilley/ryeos"
   },
   {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T07:58:39Z",
     "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 2,
-    "updated_at": "2026-07-18T07:57:00Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-07-18T07:56:53Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-07-18T07:56:36Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
   }
 ]
