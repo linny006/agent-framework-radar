@@ -1,5 +1,86 @@
 [
   {
+    "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
+    "id": "amajorai/ryu",
+    "language": "HTML",
+    "name": "amajorai/ryu",
+    "stars": 35,
+    "updated_at": "2026-07-18T09:14:59Z",
+    "url": "https://github.com/amajorai/ryu"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 307,
+    "updated_at": "2026-07-18T09:12:50Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 116,
+    "updated_at": "2026-07-18T09:10:02Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 245,
+    "updated_at": "2026-07-18T09:08:23Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 7,
+    "updated_at": "2026-07-18T09:07:15Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "A desktop control center for Eve agents \u2014 run, chat, build, wire, and deploy every Eve agent from one native app.",
+    "id": "KybernesisAI/eve-studio",
+    "language": "TypeScript",
+    "name": "KybernesisAI/eve-studio",
+    "stars": 4,
+    "updated_at": "2026-07-18T09:05:54Z",
+    "url": "https://github.com/KybernesisAI/eve-studio"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3859,
+    "updated_at": "2026-07-18T09:05:07Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:03:07Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-18T09:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-18T08:53:01Z",
+    "updated_at": "2026-07-18T09:12:52Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -72,21 +153,12 @@
     "url": "https://github.com/Srujan0798/Adaptoid-OS"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-18T08:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 72,
-    "updated_at": "2026-07-18T08:45:13Z",
+    "updated_at": "2026-07-18T09:11:38Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T08:42:50Z",
     "url": "https://github.com/Omni-Craft/OmniCraft"
-  },
-  {
-    "description": "A desktop control center for Eve agents \u2014 run, chat, build, wire, and deploy every Eve agent from one native app.",
-    "id": "KybernesisAI/eve-studio",
-    "language": "TypeScript",
-    "name": "KybernesisAI/eve-studio",
-    "stars": 4,
-    "updated_at": "2026-07-18T08:42:29Z",
-    "url": "https://github.com/KybernesisAI/eve-studio"
   },
   {
     "description": "TypeScript AI agent framework with multi-judge hallucination verifier + Vectara HHEM-2.1, pre-tool-call governance/appro",
@@ -149,7 +212,7 @@
     "language": "TypeScript",
     "name": "clawboo/clawboo",
     "stars": 48,
-    "updated_at": "2026-07-18T08:38:05Z",
+    "updated_at": "2026-07-18T09:06:51Z",
     "url": "https://github.com/clawboo/clawboo"
   },
   {
@@ -158,7 +221,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-18T08:37:15Z",
+    "updated_at": "2026-07-18T09:01:59Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -176,7 +239,7 @@
     "language": "Rust",
     "name": "Wh1isper/starweaver",
     "stars": 6,
-    "updated_at": "2026-07-18T08:36:15Z",
+    "updated_at": "2026-07-18T09:12:47Z",
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
@@ -184,7 +247,7 @@
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 14587,
+    "stars": 14588,
     "updated_at": "2026-07-18T08:31:41Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
@@ -225,21 +288,12 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 307,
-    "updated_at": "2026-07-18T08:23:56Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "ContextLattice is the local-first control plane for long-horizon agent memory, coordination, and behavioral provenance. ",
     "id": "sheawinkler/ContextLattice",
     "language": "Go",
     "name": "sheawinkler/ContextLattice",
     "stars": 134,
-    "updated_at": "2026-07-18T09:00:13Z",
+    "updated_at": "2026-07-18T09:04:49Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 691,
-    "updated_at": "2026-07-18T08:19:19Z",
+    "updated_at": "2026-07-18T09:12:37Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
@@ -304,15 +358,6 @@
     "stars": 2,
     "updated_at": "2026-07-18T08:11:07Z",
     "url": "https://github.com/Coding-Dev-Tools/agentic-system"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 116,
-    "updated_at": "2026-07-18T08:10:54Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T08:00:00Z",
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 11,
-    "updated_at": "2026-07-18T07:59:38Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-07-18T07:59:36Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-07-18T07:59:34Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-07-18T07:58:58Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-07-18T07:58:39Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
   }
 ]
