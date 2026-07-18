@@ -1,5 +1,86 @@
 [
   {
+    "description": "",
+    "id": "Jumbalicious79/daedalus-core",
+    "language": "Python",
+    "name": "Jumbalicious79/daedalus-core",
+    "stars": 1,
+    "updated_at": "2026-07-18T20:59:51Z",
+    "url": "https://github.com/Jumbalicious79/daedalus-core"
+  },
+  {
+    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
+    "id": "Omni-Craft/OmniCraft",
+    "language": "Python",
+    "name": "Omni-Craft/OmniCraft",
+    "stars": 0,
+    "updated_at": "2026-07-18T20:58:57Z",
+    "url": "https://github.com/Omni-Craft/OmniCraft"
+  },
+  {
+    "description": "Open-core AI systems architect that turns planning conversations into local self-hosted operating systems",
+    "id": "setup-os-labs/setup-os",
+    "language": "Python",
+    "name": "setup-os-labs/setup-os",
+    "stars": 0,
+    "updated_at": "2026-07-18T20:55:22Z",
+    "url": "https://github.com/setup-os-labs/setup-os"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-18T20:54:34Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
+    "id": "cordum-io/cordum",
+    "language": "Go",
+    "name": "cordum-io/cordum",
+    "stars": 490,
+    "updated_at": "2026-07-18T20:53:21Z",
+    "url": "https://github.com/cordum-io/cordum"
+  },
+  {
+    "description": "Kotlin-first framework for building Model Agnostic AI applications, RAG systems, and agentic workflows on Android and Ko",
+    "id": "MobileGraph/mobilegraph",
+    "language": "Kotlin",
+    "name": "MobileGraph/mobilegraph",
+    "stars": 1,
+    "updated_at": "2026-07-18T20:48:24Z",
+    "url": "https://github.com/MobileGraph/mobilegraph"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 116,
+    "updated_at": "2026-07-18T20:47:19Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 72,
+    "updated_at": "2026-07-18T20:45:54Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-18T20:45:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -23,17 +104,17 @@
     "language": "Python",
     "name": "Caprista/KarvyLoop",
     "stars": 11,
-    "updated_at": "2026-07-18T20:42:52Z",
+    "updated_at": "2026-07-18T20:49:50Z",
     "url": "https://github.com/Caprista/KarvyLoop"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 72,
-    "updated_at": "2026-07-18T20:42:39Z",
-    "url": "https://github.com/JKHeadley/instar"
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7463,
+    "updated_at": "2026-07-18T20:41:39Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -72,24 +153,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Kotlin-first framework for building Model Agnostic AI applications, RAG systems, and agentic workflows on Android and Ko",
-    "id": "MobileGraph/mobilegraph",
-    "language": "Kotlin",
-    "name": "MobileGraph/mobilegraph",
-    "stars": 1,
-    "updated_at": "2026-07-18T20:34:19Z",
-    "url": "https://github.com/MobileGraph/mobilegraph"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-18T20:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
     "id": "agenvoy/Agenvoy",
     "language": "Go",
@@ -117,15 +180,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
-    "id": "cordum-io/cordum",
-    "language": "Go",
-    "name": "cordum-io/cordum",
-    "stars": 490,
-    "updated_at": "2026-07-18T20:42:52Z",
-    "url": "https://github.com/cordum-io/cordum"
-  },
-  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-18T20:19:49Z",
+    "updated_at": "2026-07-18T20:54:12Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T20:09:43Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7462,
-    "updated_at": "2026-07-18T20:41:39Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-18T20:41:37Z",
+    "updated_at": "2026-07-18T20:55:13Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -360,15 +405,6 @@
     "url": "https://github.com/floccose-burner9185/wow-harness"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 116,
-    "updated_at": "2026-07-18T20:38:30Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
     "id": "carlososoriopulgar/agent-kernel",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T19:43:56Z",
     "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 2,
-    "updated_at": "2026-07-18T19:42:32Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-07-18T19:42:12Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-07-18T19:42:02Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-07-18T19:41:16Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
