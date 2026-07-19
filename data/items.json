@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-19T22:53:20Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "SDK de c\u00f3digo abierto en Python para el patr\u00f3n Backend for Agents (BFA), extendido como un servidor de enrutamiento din\u00e1",
+    "id": "SandroG1977/bfa-sdk",
+    "language": "Python",
+    "name": "SandroG1977/bfa-sdk",
+    "stars": 1,
+    "updated_at": "2026-07-19T22:53:08Z",
+    "url": "https://github.com/SandroG1977/bfa-sdk"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 2,
+    "updated_at": "2026-07-19T22:51:00Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 153,
+    "updated_at": "2026-07-19T22:49:50Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1261,
+    "updated_at": "2026-07-19T22:48:35Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 153,
+    "updated_at": "2026-07-19T22:46:58Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-19T22:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
     "id": "rameswaran-mohan/project-systemu",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-07-19T22:45:07Z",
+    "updated_at": "2026-07-19T22:45:37Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -90,15 +153,6 @@
     "url": "https://github.com/evalstate/fast-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-19T22:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "junebuild/june",
     "stars": 3,
-    "updated_at": "2026-07-19T22:40:41Z",
+    "updated_at": "2026-07-19T22:51:53Z",
     "url": "https://github.com/junebuild/june"
   },
   {
@@ -216,24 +270,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 2,
-    "updated_at": "2026-07-19T21:51:26Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 153,
-    "updated_at": "2026-07-19T21:50:30Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
     "description": "ShuTong Protocol \u2014 A cognitive-layer human-AI collaboration protocol. Core thesis: AI is not an answer machine, but a co",
     "id": "VZIQAQ/shutong-protocol",
     "language": "\u2014",
@@ -241,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T21:52:17Z",
     "url": "https://github.com/VZIQAQ/shutong-protocol"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 153,
-    "updated_at": "2026-07-19T21:48:08Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
     "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T19:51:14Z",
     "url": "https://github.com/NicolasDaurios/loop-engineering"
-  },
-  {
-    "description": "Async multi-agent AI library for Python \u2014 self-improving agent loops, APEX synthesis, bounded agent spawning, multimodal",
-    "id": "Aayush-Joshi-01/deepcrew-ai",
-    "language": "HTML",
-    "name": "Aayush-Joshi-01/deepcrew-ai",
-    "stars": 2,
-    "updated_at": "2026-07-19T19:30:40Z",
-    "url": "https://github.com/Aayush-Joshi-01/deepcrew-ai"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-07-19T19:17:50Z",
-    "url": "https://github.com/MariusYvard/corparius"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-19T19:14:50Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   }
 ]
