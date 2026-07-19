@@ -1,12 +1,102 @@
 [
   {
-    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
-    "id": "pavanbadempet/AI-Healthcare-System",
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 116,
+    "updated_at": "2026-07-19T16:30:06Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
     "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-07-19T16:14:33Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-19T16:29:55Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
+    "id": "moolamai/Sutra",
+    "language": "TypeScript",
+    "name": "moolamai/Sutra",
+    "stars": 4,
+    "updated_at": "2026-07-19T16:29:36Z",
+    "url": "https://github.com/moolamai/Sutra"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 12,
+    "updated_at": "2026-07-19T16:24:03Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "deepseeknova \u2014 Modular AI agent framework in Rust. Multi-step reasoning, 13 built-in tools, Plan Mode, sub-agent delegat",
+    "id": "W117C/DeepseekNova",
+    "language": "Rust",
+    "name": "W117C/DeepseekNova",
+    "stars": 1,
+    "updated_at": "2026-07-19T16:29:40Z",
+    "url": "https://github.com/W117C/DeepseekNova"
+  },
+  {
+    "description": "A small Go agent framework \u2014 provider-agnostic loop, typed tools, four providers, optional persistence + FTS5 search. Tw",
+    "id": "erain/glue",
+    "language": "Go",
+    "name": "erain/glue",
+    "stars": 1,
+    "updated_at": "2026-07-19T16:28:12Z",
+    "url": "https://github.com/erain/glue"
+  },
+  {
+    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
+    "id": "rameswaran-mohan/project-systemu",
+    "language": "Python",
+    "name": "rameswaran-mohan/project-systemu",
+    "stars": 2,
+    "updated_at": "2026-07-19T16:22:24Z",
+    "url": "https://github.com/rameswaran-mohan/project-systemu"
+  },
+  {
+    "description": "A small, explicit framework for goal-directed LLM agents. Every step is a contract the model must satisfy before it can ",
+    "id": "poorani/governed",
+    "language": "Python",
+    "name": "poorani/governed",
+    "stars": 0,
+    "updated_at": "2026-07-19T16:22:20Z",
+    "url": "https://github.com/poorani/governed"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-07-19T16:21:59Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27314,
+    "updated_at": "2026-07-19T16:20:21Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The agent framework where every run is durable, replayable, and resumable by default.",
+    "id": "ThousandBirdsInc/chidori",
+    "language": "Rust",
+    "name": "ThousandBirdsInc/chidori",
+    "stars": 1359,
+    "updated_at": "2026-07-19T16:25:10Z",
+    "url": "https://github.com/ThousandBirdsInc/chidori"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +104,35 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-07-19T16:10:28Z",
+    "updated_at": "2026-07-19T16:15:22Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 312,
+    "updated_at": "2026-07-19T16:15:19Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-19T16:15:14Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-07-19T16:14:33Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "Source-available Harness AI / Agent OS for teams building governed agent applications - with Nexus orchestration, policy",
@@ -36,33 +153,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "A small, explicit framework for goal-directed LLM agents. Every step is a contract the model must satisfy before it can ",
-    "id": "poorani/governed",
-    "language": "Python",
-    "name": "poorani/governed",
-    "stars": 0,
-    "updated_at": "2026-07-19T16:07:19Z",
-    "url": "https://github.com/poorani/governed"
-  },
-  {
-    "description": "A small Go agent framework \u2014 provider-agnostic loop, typed tools, four providers, optional persistence + FTS5 search. Tw",
-    "id": "erain/glue",
-    "language": "Go",
-    "name": "erain/glue",
-    "stars": 1,
-    "updated_at": "2026-07-19T16:11:48Z",
-    "url": "https://github.com/erain/glue"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 312,
-    "updated_at": "2026-07-19T16:15:19Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -70,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T16:04:39Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27313,
-    "updated_at": "2026-07-19T16:04:15Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "deepseeknova \u2014 Modular AI agent framework in Rust. Multi-step reasoning, 13 built-in tools, Plan Mode, sub-agent delegat",
-    "id": "W117C/DeepseekNova",
-    "language": "Rust",
-    "name": "W117C/DeepseekNova",
-    "stars": 1,
-    "updated_at": "2026-07-19T16:04:42Z",
-    "url": "https://github.com/W117C/DeepseekNova"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -148,7 +220,7 @@
     "id": "agenvoy/Agenvoy",
     "language": "Go",
     "name": "agenvoy/Agenvoy",
-    "stars": 329,
+    "stars": 330,
     "updated_at": "2026-07-19T15:50:36Z",
     "url": "https://github.com/agenvoy/Agenvoy"
   },
@@ -176,7 +248,7 @@
     "language": "JavaScript",
     "name": "AjnasNB/maqam",
     "stars": 1,
-    "updated_at": "2026-07-19T15:43:39Z",
+    "updated_at": "2026-07-19T16:18:39Z",
     "url": "https://github.com/AjnasNB/maqam"
   },
   {
@@ -198,15 +270,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
-    "id": "rameswaran-mohan/project-systemu",
-    "language": "Python",
-    "name": "rameswaran-mohan/project-systemu",
-    "stars": 2,
-    "updated_at": "2026-07-19T15:33:20Z",
-    "url": "https://github.com/rameswaran-mohan/project-systemu"
-  },
-  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
@@ -216,15 +279,6 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-07-19T15:27:30Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
     "id": "xuiltul/animaworks",
     "language": "Python",
@@ -232,33 +286,6 @@
     "stars": 245,
     "updated_at": "2026-07-19T15:26:58Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 116,
-    "updated_at": "2026-07-19T16:14:58Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-19T16:15:14Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 12,
-    "updated_at": "2026-07-19T15:16:16Z",
-    "url": "https://github.com/kdcube/kdcube"
   },
   {
     "description": "Turn any skill into a standalone, runnable RAG-native AI Agent",
@@ -421,32 +448,5 @@
     "stars": 2193,
     "updated_at": "2026-07-19T13:55:27Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
-    "id": "ahwurm/localharness",
-    "language": "Python",
-    "name": "ahwurm/localharness",
-    "stars": 18,
-    "updated_at": "2026-07-19T13:53:08Z",
-    "url": "https://github.com/ahwurm/localharness"
-  },
-  {
-    "description": "Hermes Agent \u5b98\u65b9\u63d2\u4ef6\u4ed3\u5e93 \u2014 \u667a\u80fd\u4f53\u80fd\u529b\u6269\u5c55\u7684\u6a21\u5757\u5316\u89e3\u51b3\u65b9\u6848",
-    "id": "weksbwrx62862/hermes-plugins",
-    "language": "Python",
-    "name": "weksbwrx62862/hermes-plugins",
-    "stars": 3,
-    "updated_at": "2026-07-19T13:51:53Z",
-    "url": "https://github.com/weksbwrx62862/hermes-plugins"
-  },
-  {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-07-19T13:49:40Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
   }
 ]
