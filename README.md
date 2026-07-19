@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-19 15:13 UTC
+> ⏰ Last updated: 2026-07-19 15:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-19 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 2 | [sheawinkler/ContextLattice](https://github.com/sheawinkler/ContextLattice) | 135 | Go | 2026-07-19 | ContextLattice is the local-first control plane for long-horizon agent memory, coordination, and behavioral provenance.  |
-| 3 | [Leisure-Auf1/A3-Multi-Agent-System](https://github.com/Leisure-Auf1/A3-Multi-Agent-System) | 2 | Python | 2026-07-19 | 12-Agent Personalized Learning System · 1154 Tests · 5-Layer Architecture · Competition-Ready · v7.1.0 |
-| 4 | [KbWen/agentic-os](https://github.com/KbWen/agentic-os) | 90 | Python | 2026-07-19 | Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w |
-| 5 | [agenthatch/agenthatch](https://github.com/agenthatch/agenthatch) | 62 | Python | 2026-07-19 | Turn any skill into a standalone, runnable RAG-native AI Agent |
-| 6 | [fredfitzgerald30-web/substrate](https://github.com/fredfitzgerald30-web/substrate) | 0 | Python | 2026-07-19 | Agents whose instructions are tested, not trusted - a context-native agent runtime with measured, self-improving skills |
-| 7 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 27308 | Go | 2026-07-19 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-19 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-19 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [agenthatch/agenthatch](https://github.com/agenthatch/agenthatch) | 62 | Python | 2026-07-19 | Turn any skill into a standalone, runnable RAG-native AI Agent |
+| 3 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-19 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 4 | [sheawinkler/ContextLattice](https://github.com/sheawinkler/ContextLattice) | 135 | Go | 2026-07-19 | ContextLattice is the local-first control plane for long-horizon agent memory, coordination, and behavioral provenance.  |
+| 5 | [Leisure-Auf1/A3-Multi-Agent-System](https://github.com/Leisure-Auf1/A3-Multi-Agent-System) | 2 | Python | 2026-07-19 | 12-Agent Personalized Learning System · 1154 Tests · 5-Layer Architecture · Competition-Ready · v7.1.0 |
+| 6 | [KbWen/agentic-os](https://github.com/KbWen/agentic-os) | 90 | Python | 2026-07-19 | Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w |
+| 7 | [fredfitzgerald30-web/substrate](https://github.com/fredfitzgerald30-web/substrate) | 0 | Python | 2026-07-19 | Agents whose instructions are tested, not trusted - a context-native agent runtime with measured, self-improving skills |
+| 8 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 27308 | Go | 2026-07-19 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | 9 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-07-19 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
 | 10 | [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) | 343 | Python | 2026-07-19 | 🏆 Curated, ranked list of AI agent harnesses (100+) — plus an MCP server, llms.txt & JSON so agents can recommend them t |
 | 11 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 1 | Python | 2026-07-19 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. |
