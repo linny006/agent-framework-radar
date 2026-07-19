@@ -1,12 +1,93 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27295,
+    "updated_at": "2026-07-19T11:44:30Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 72,
+    "updated_at": "2026-07-19T11:43:52Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-07-19T11:43:50Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
     "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
     "id": "rameswaran-mohan/project-systemu",
     "language": "Python",
     "name": "rameswaran-mohan/project-systemu",
     "stars": 2,
-    "updated_at": "2026-07-19T11:30:22Z",
+    "updated_at": "2026-07-19T11:41:36Z",
     "url": "https://github.com/rameswaran-mohan/project-systemu"
+  },
+  {
+    "description": "A provider-neutral execution kernel for strong-model, thin-harness agents.",
+    "id": "kestiny18/Noval",
+    "language": "Python",
+    "name": "kestiny18/Noval",
+    "stars": 0,
+    "updated_at": "2026-07-19T11:41:17Z",
+    "url": "https://github.com/kestiny18/Noval"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 45,
+    "updated_at": "2026-07-19T11:40:37Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-07-19T11:39:08Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-07-19T11:41:11Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-07-19T11:42:13Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "12-Agent Personalized Learning System \u00b7 1154 Tests \u00b7 5-Layer Architecture \u00b7 Competition-Ready \u00b7 v7.1.0",
+    "id": "Leisure-Auf1/A3-Multi-Agent-System",
+    "language": "Python",
+    "name": "Leisure-Auf1/A3-Multi-Agent-System",
+    "stars": 2,
+    "updated_at": "2026-07-19T11:31:56Z",
+    "url": "https://github.com/Leisure-Auf1/A3-Multi-Agent-System"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-07-19T11:30:19Z",
+    "updated_at": "2026-07-19T11:31:01Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -63,15 +144,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-07-19T11:23:31Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
     "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
     "id": "moolamai/Sutra",
     "language": "TypeScript",
@@ -86,7 +158,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1261,
-    "updated_at": "2026-07-19T11:18:09Z",
+    "updated_at": "2026-07-19T11:36:01Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -194,7 +266,7 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 490,
-    "updated_at": "2026-07-19T11:21:38Z",
+    "updated_at": "2026-07-19T11:42:48Z",
     "url": "https://github.com/cordum-io/cordum"
   },
   {
@@ -351,15 +423,6 @@
     "url": "https://github.com/aandbcct/dotClaw"
   },
   {
-    "description": "12-Agent Personalized Learning System \u00b7 1154 Tests \u00b7 5-Layer Architecture \u00b7 Competition-Ready \u00b7 v7.1.0",
-    "id": "Leisure-Auf1/A3-Multi-Agent-System",
-    "language": "Python",
-    "name": "Leisure-Auf1/A3-Multi-Agent-System",
-    "stars": 2,
-    "updated_at": "2026-07-19T09:25:52Z",
-    "url": "https://github.com/Leisure-Auf1/A3-Multi-Agent-System"
-  },
-  {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
     "id": "jiayan-xu/agent-core",
     "language": "Rust",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T09:18:14Z",
     "url": "https://github.com/phenomenoner/agent-harness-core"
-  },
-  {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3860,
-    "updated_at": "2026-07-19T09:14:28Z",
-    "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27294,
-    "updated_at": "2026-07-19T09:06:46Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "A provider-neutral execution kernel for strong-model, thin-harness agents.",
-    "id": "kestiny18/Noval",
-    "language": "Python",
-    "name": "kestiny18/Noval",
-    "stars": 0,
-    "updated_at": "2026-07-19T11:10:04Z",
-    "url": "https://github.com/kestiny18/Noval"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-07-19T11:29:32Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12220,
-    "updated_at": "2026-07-19T08:52:16Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "A lightweight repository harness for safe agentic collaboration, deliberate codebase learning, and conversational learni",
-    "id": "legrab/codebase-learning-flow",
-    "language": "PowerShell",
-    "name": "legrab/codebase-learning-flow",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:44:14Z",
-    "url": "https://github.com/legrab/codebase-learning-flow"
-  },
-  {
-    "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
-    "id": "secondorderai/ouroboros",
-    "language": "TypeScript",
-    "name": "secondorderai/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-07-19T08:41:47Z",
-    "url": "https://github.com/secondorderai/ouroboros"
   }
 ]
