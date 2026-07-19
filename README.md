@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-19 17:14 UTC
+> ⏰ Last updated: 2026-07-19 17:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-19 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 2 | [AjnasNB/maqam](https://github.com/AjnasNB/maqam) | 1 | JavaScript | 2026-07-19 | Exact input-bound approvals, policy-gated TypeScript tools, source-linked evidence, CLI workers, and governed web resear |
-| 3 | [kh0pper/crow](https://github.com/kh0pper/crow) | 20 | JavaScript | 2026-07-19 | Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude |
-| 4 | [fredfitzgerald30-web/substrate](https://github.com/fredfitzgerald30-web/substrate) | 0 | Python | 2026-07-19 | Agents whose instructions are tested, not trusted - a context-native agent runtime with measured, self-improving skills |
-| 5 | [cortexkit/aft](https://github.com/cortexkit/aft) | 205 | Rust | 2026-07-19 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 6 | [modelstudioai/openwork](https://github.com/modelstudioai/openwork) | 12 | TypeScript | 2026-07-19 | A local-first desktop application for AI agent workflows. |
-| 7 | [hara-cli/hara](https://github.com/hara-cli/hara) | 3 | TypeScript | 2026-07-19 | A coding agent CLI that runs like an engineering org — role routing, plan DAGs, approvals, memory, and a 10-platform cha |
-| 8 | [ethosagent/ethos](https://github.com/ethosagent/ethos) | 11 | TypeScript | 2026-07-19 | TypeScript AI agent framework where personality is architecture. Specialists, not chatbots. |
-| 9 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 312 | Python | 2026-07-19 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
-| 10 | [moolamai/Sutra](https://github.com/moolamai/Sutra) | 4 | TypeScript | 2026-07-19 | Sovereign AI Initiative for Open Autonomous Cognitive Companion |
-| 11 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 2 | HTML | 2026-07-19 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
-| 12 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-19 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-19 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-19 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 3 | [AjnasNB/maqam](https://github.com/AjnasNB/maqam) | 1 | JavaScript | 2026-07-19 | Exact input-bound approvals, policy-gated TypeScript tools, source-linked evidence, CLI workers, and governed web resear |
+| 4 | [kh0pper/crow](https://github.com/kh0pper/crow) | 20 | JavaScript | 2026-07-19 | Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude |
+| 5 | [fredfitzgerald30-web/substrate](https://github.com/fredfitzgerald30-web/substrate) | 0 | Python | 2026-07-19 | Agents whose instructions are tested, not trusted - a context-native agent runtime with measured, self-improving skills |
+| 6 | [cortexkit/aft](https://github.com/cortexkit/aft) | 205 | Rust | 2026-07-19 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 7 | [modelstudioai/openwork](https://github.com/modelstudioai/openwork) | 12 | TypeScript | 2026-07-19 | A local-first desktop application for AI agent workflows. |
+| 8 | [hara-cli/hara](https://github.com/hara-cli/hara) | 3 | TypeScript | 2026-07-19 | A coding agent CLI that runs like an engineering org — role routing, plan DAGs, approvals, memory, and a 10-platform cha |
+| 9 | [ethosagent/ethos](https://github.com/ethosagent/ethos) | 11 | TypeScript | 2026-07-19 | TypeScript AI agent framework where personality is architecture. Specialists, not chatbots. |
+| 10 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 312 | Python | 2026-07-19 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
+| 11 | [moolamai/Sutra](https://github.com/moolamai/Sutra) | 4 | TypeScript | 2026-07-19 | Sovereign AI Initiative for Open Autonomous Cognitive Companion |
+| 12 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 2 | HTML | 2026-07-19 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
 | 13 | [skerry699/agent-symphony](https://github.com/skerry699/agent-symphony) | 153 | HTML | 2026-07-19 | Multi-Agent AI Task Orchestrator 2026 |
 | 14 | [rameswaran-mohan/project-systemu](https://github.com/rameswaran-mohan/project-systemu) | 2 | Python | 2026-07-19 | An open-source AI agent that builds the tools it's missing, mid-task — under your governance. Pull capabilities at runti |
 | 15 | [sweatco/archie-hq](https://github.com/sweatco/archie-hq) | 16 | TypeScript | 2026-07-19 | AI employee for your team — delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C |
