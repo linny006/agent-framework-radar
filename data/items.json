@@ -1,12 +1,12 @@
 [
   {
-    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
-    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "description": "Open-core AI systems architect that turns planning conversations into local self-hosted operating systems",
+    "id": "setup-os-labs/setup-os",
     "language": "Python",
-    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "stars": 1,
-    "updated_at": "2026-07-19T01:59:59Z",
-    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
+    "name": "setup-os-labs/setup-os",
+    "stars": 0,
+    "updated_at": "2026-07-19T02:12:33Z",
+    "url": "https://github.com/setup-os-labs/setup-os"
   },
   {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
@@ -14,8 +14,80 @@
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-07-19T01:58:05Z",
+    "updated_at": "2026-07-19T02:13:14Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-19T02:09:23Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
+    "id": "Omni-Craft/OmniCraft",
+    "language": "Python",
+    "name": "Omni-Craft/OmniCraft",
+    "stars": 0,
+    "updated_at": "2026-07-19T02:08:38Z",
+    "url": "https://github.com/Omni-Craft/OmniCraft"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-07-19T02:06:42Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-19T02:06:29Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 12,
+    "updated_at": "2026-07-19T02:05:00Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 17,
+    "updated_at": "2026-07-19T02:09:47Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-19T02:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
+    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "language": "Python",
+    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "stars": 1,
+    "updated_at": "2026-07-19T01:59:59Z",
+    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
   },
   {
     "description": "One file teaches your LLM a complete development system \u2014 TRL + AAA + Memory",
@@ -27,24 +99,6 @@
     "url": "https://github.com/TRUGS-LLC/TRUGS-AGENT"
   },
   {
-    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
-    "id": "Omni-Craft/OmniCraft",
-    "language": "Python",
-    "name": "Omni-Craft/OmniCraft",
-    "stars": 0,
-    "updated_at": "2026-07-19T01:55:15Z",
-    "url": "https://github.com/Omni-Craft/OmniCraft"
-  },
-  {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 12,
-    "updated_at": "2026-07-19T01:54:45Z",
-    "url": "https://github.com/kdcube/kdcube"
-  },
-  {
     "description": "Research Prototype: 12-Agent Personalized Learning System. Multi-agent collaboration, EventBus, Memory Layer, 6 resource",
     "id": "Leisure-Auf1/A3-Multi-Agent-System",
     "language": "Python",
@@ -52,6 +106,15 @@
     "stars": 1,
     "updated_at": "2026-07-19T02:00:03Z",
     "url": "https://github.com/Leisure-Auf1/A3-Multi-Agent-System"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7469,
+    "updated_at": "2026-07-19T01:52:40Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -81,15 +144,6 @@
     "url": "https://github.com/XiaoConstantine/dspy-go"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-19T01:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
     "id": "zerovia/be-a-lucky-block-hub",
     "language": "HTML",
@@ -106,15 +160,6 @@
     "stars": 5,
     "updated_at": "2026-07-19T01:38:51Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7468,
-    "updated_at": "2026-07-19T01:52:40Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\u4e00\u4e2a\u4e0e\u573a\u666f\u89e3\u8026\u3001\u5f3a\u8c03\u6267\u884c\u8fb9\u754c\u4e0e\u9a8c\u8bc1\u95ed\u73af\u7684 Python Agent \u5c0f\u6838\u5fc3 | A provider-agnostic Python agent core",
@@ -220,7 +265,7 @@
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
-    "stars": 203,
+    "stars": 204,
     "updated_at": "2026-07-19T01:27:24Z",
     "url": "https://github.com/cortexkit/aft"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T01:37:43Z",
     "url": "https://github.com/simieco/simie"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-19T01:15:08Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-07-19T01:13:14Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-19T01:12:55Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 116,
-    "updated_at": "2026-07-19T01:12:51Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-07-19T01:12:33Z",
-    "url": "https://github.com/Messa8301/quickbench"
   }
 ]
