@@ -1,12 +1,84 @@
 [
   {
+    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
+    "id": "rameswaran-mohan/project-systemu",
+    "language": "Python",
+    "name": "rameswaran-mohan/project-systemu",
+    "stars": 2,
+    "updated_at": "2026-07-19T11:13:58Z",
+    "url": "https://github.com/rameswaran-mohan/project-systemu"
+  },
+  {
+    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1261,
+    "updated_at": "2026-07-19T11:13:15Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-19T11:11:26Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 385,
+    "updated_at": "2026-07-19T11:09:10Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 3,
+    "updated_at": "2026-07-19T11:05:54Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-19T11:02:17Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-19T11:02:17Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-19T10:59:57Z",
+    "updated_at": "2026-07-19T11:01:08Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-19T11:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "AndersonBY/vv-agent",
     "stars": 1,
-    "updated_at": "2026-07-19T10:58:19Z",
+    "updated_at": "2026-07-19T11:08:19Z",
     "url": "https://github.com/AndersonBY/vv-agent"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "RikyZ90/ShibaClaw",
     "stars": 77,
-    "updated_at": "2026-07-19T10:56:31Z",
+    "updated_at": "2026-07-19T11:05:03Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
@@ -68,17 +140,8 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 490,
-    "updated_at": "2026-07-19T10:58:26Z",
+    "updated_at": "2026-07-19T11:09:52Z",
     "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-19T10:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Phone local agent",
@@ -261,24 +324,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-19T09:42:07Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-19T09:42:02Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "\u4e00\u4e2a\u8f7b\u91cf\u7ea7agent harness\u6846\u67b6\uff0c\u7528\u4e8e\u5b66\u4e60\u4e0e\u5b9e\u8df5\u4e2a\u4ebaagent\u52a9\u624b\u67b6\u6784\u8bbe\u8ba1\uff0c\u57fa\u4e8eReAct\u67b6\u6784\uff0c\u7531\u4e2d\u95f4\u8def\u7531\u5c42\u8fde\u63a5\u5ba2\u6237\u7aef\u4e0e\u5e95\u5c42\u7ec4\u4ef6\uff0c\u5b9e\u73b0\u4e86\u591a\u6a21\u578b\u9002\u914d\u3001\u591a\u5e73\u53f0\u9002\u914d\u548c\u4f1a\u8bdd\u7ba1\u7406\u3002",
     "id": "aandbcct/dotClaw",
     "language": "Python",
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-19T09:24:37Z",
+    "updated_at": "2026-07-19T11:01:28Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -342,20 +387,11 @@
     "url": "https://github.com/evalstate/fast-agent"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-19T09:06:53Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27290,
+    "stars": 27293,
     "updated_at": "2026-07-19T09:06:46Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "kestiny18/Noval",
     "stars": 0,
-    "updated_at": "2026-07-19T09:05:16Z",
+    "updated_at": "2026-07-19T11:10:04Z",
     "url": "https://github.com/kestiny18/Noval"
   },
   {
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-07-19T09:08:06Z",
+    "updated_at": "2026-07-19T11:06:57Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -385,15 +421,6 @@
     "stars": 12220,
     "updated_at": "2026-07-19T08:52:16Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 3,
-    "updated_at": "2026-07-19T08:51:51Z",
-    "url": "https://github.com/daretodave/nexus"
   },
   {
     "description": "A lightweight repository harness for safe agentic collaboration, deliberate codebase learning, and conversational learni",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T08:25:12Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
-    "id": "10xHub/Agentflow",
-    "language": "Python",
-    "name": "10xHub/Agentflow",
-    "stars": 16,
-    "updated_at": "2026-07-19T08:19:54Z",
-    "url": "https://github.com/10xHub/Agentflow"
-  },
-  {
-    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-07-19T08:16:29Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 11,
-    "updated_at": "2026-07-19T08:13:06Z",
-    "url": "https://github.com/ethosagent/ethos"
   }
 ]
