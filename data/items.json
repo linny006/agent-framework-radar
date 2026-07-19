@@ -1,11 +1,47 @@
 [
   {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 205,
+    "updated_at": "2026-07-19T08:54:45Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 3,
+    "updated_at": "2026-07-19T08:51:51Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 77,
+    "updated_at": "2026-07-19T08:58:08Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-19T08:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "Insajin/autopus-adk",
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 107,
-    "updated_at": "2026-07-19T08:44:34Z",
+    "updated_at": "2026-07-19T08:45:31Z",
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T08:41:47Z",
     "url": "https://github.com/secondorderai/ouroboros"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-19T08:41:15Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-19T08:23:01Z",
+    "updated_at": "2026-07-19T08:59:04Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -157,7 +184,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27282,
+    "stars": 27284,
     "updated_at": "2026-07-19T08:15:15Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -196,15 +223,6 @@
     "stars": 153,
     "updated_at": "2026-07-19T08:10:04Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 77,
-    "updated_at": "2026-07-19T08:40:12Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
     "description": "",
@@ -265,7 +283,7 @@
     "id": "agenvoy/Agenvoy",
     "language": "Go",
     "name": "agenvoy/Agenvoy",
-    "stars": 328,
+    "stars": 329,
     "updated_at": "2026-07-19T07:30:09Z",
     "url": "https://github.com/agenvoy/Agenvoy"
   },
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-07-19T08:28:52Z",
+    "updated_at": "2026-07-19T08:58:19Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T06:58:11Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
-    "id": "rameswaran-mohan/project-systemu",
-    "language": "Python",
-    "name": "rameswaran-mohan/project-systemu",
-    "stars": 2,
-    "updated_at": "2026-07-19T06:57:27Z",
-    "url": "https://github.com/rameswaran-mohan/project-systemu"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-07-19T06:56:19Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
   }
 ]
