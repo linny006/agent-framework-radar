@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-07-19T12:14:46Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
+    "id": "moolamai/Sutra",
+    "language": "TypeScript",
+    "name": "moolamai/Sutra",
+    "stars": 4,
+    "updated_at": "2026-07-19T12:14:15Z",
+    "url": "https://github.com/moolamai/Sutra"
+  },
+  {
+    "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
+    "id": "cordum-io/cordum",
+    "language": "Go",
+    "name": "cordum-io/cordum",
+    "stars": 490,
+    "updated_at": "2026-07-19T12:13:18Z",
+    "url": "https://github.com/cordum-io/cordum"
+  },
+  {
+    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
+    "id": "iduyuhe/zhiyan-evolviq",
+    "language": "Python",
+    "name": "iduyuhe/zhiyan-evolviq",
+    "stars": 0,
+    "updated_at": "2026-07-19T12:13:14Z",
+    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
+  },
+  {
+    "description": "DPronix \u2014 Modular AI agent framework in Rust. Multi-step reasoning, 13 built-in tools, Plan Mode, sub-agent delegation, ",
+    "id": "W117C/DPronix",
+    "language": "Rust",
+    "name": "W117C/DPronix",
+    "stars": 1,
+    "updated_at": "2026-07-19T12:08:38Z",
+    "url": "https://github.com/W117C/DPronix"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 312,
+    "updated_at": "2026-07-19T12:06:38Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "",
+    "id": "oldfish-dev/tangerine",
+    "language": "TypeScript",
+    "name": "oldfish-dev/tangerine",
+    "stars": 0,
+    "updated_at": "2026-07-19T12:04:11Z",
+    "url": "https://github.com/oldfish-dev/tangerine"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27295,
+    "updated_at": "2026-07-19T12:03:44Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-19T12:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -36,13 +117,13 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
-    "id": "bugsyhewitt/AlienClaw",
-    "language": "TypeScript",
-    "name": "bugsyhewitt/AlienClaw",
-    "stars": 7,
-    "updated_at": "2026-07-19T11:59:39Z",
-    "url": "https://github.com/bugsyhewitt/AlienClaw"
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 443,
+    "updated_at": "2026-07-19T11:54:37Z",
+    "url": "https://github.com/jaylfc/taOS"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -81,31 +162,13 @@
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
-    "id": "moolamai/Sutra",
-    "language": "TypeScript",
-    "name": "moolamai/Sutra",
-    "stars": 4,
-    "updated_at": "2026-07-19T11:50:48Z",
-    "url": "https://github.com/moolamai/Sutra"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-19T11:58:55Z",
+    "updated_at": "2026-07-19T12:08:13Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
-    "id": "cordum-io/cordum",
-    "language": "Go",
-    "name": "cordum-io/cordum",
-    "stars": 490,
-    "updated_at": "2026-07-19T11:56:38Z",
-    "url": "https://github.com/cordum-io/cordum"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -113,7 +176,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 72,
-    "updated_at": "2026-07-19T11:47:53Z",
+    "updated_at": "2026-07-19T12:04:10Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -122,7 +185,7 @@
     "language": "TypeScript",
     "name": "junebuild/june",
     "stars": 3,
-    "updated_at": "2026-07-19T11:54:05Z",
+    "updated_at": "2026-07-19T12:03:17Z",
     "url": "https://github.com/junebuild/june"
   },
   {
@@ -133,24 +196,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T11:45:31Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-19T11:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27295,
-    "updated_at": "2026-07-19T11:56:01Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
@@ -225,15 +270,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "DPronix \u2014 Modular AI agent framework in Rust. Multi-step reasoning, 13 built-in tools, Plan Mode, sub-agent delegation, ",
-    "id": "W117C/DPronix",
-    "language": "Rust",
-    "name": "W117C/DPronix",
-    "stars": 1,
-    "updated_at": "2026-07-19T11:30:42Z",
-    "url": "https://github.com/W117C/DPronix"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -241,15 +277,6 @@
     "stars": 7,
     "updated_at": "2026-07-19T11:25:50Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 441,
-    "updated_at": "2026-07-19T11:54:37Z",
-    "url": "https://github.com/jaylfc/taOS"
   },
   {
     "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
@@ -331,15 +358,6 @@
     "stars": 77,
     "updated_at": "2026-07-19T11:05:03Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 312,
-    "updated_at": "2026-07-19T10:47:11Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "Phone local agent",
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-19T09:44:33Z",
     "url": "https://github.com/maref-org/maref"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-07-19T10:14:46Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u4e00\u4e2a\u8f7b\u91cf\u7ea7agent harness\u6846\u67b6\uff0c\u7528\u4e8e\u5b66\u4e60\u4e0e\u5b9e\u8df5\u4e2a\u4ebaagent\u52a9\u624b\u67b6\u6784\u8bbe\u8ba1\uff0c\u57fa\u4e8eReAct\u67b6\u6784\uff0c\u7531\u4e2d\u95f4\u8def\u7531\u5c42\u8fde\u63a5\u5ba2\u6237\u7aef\u4e0e\u5e95\u5c42\u7ec4\u4ef6\uff0c\u5b9e\u73b0\u4e86\u591a\u6a21\u578b\u9002\u914d\u3001\u591a\u5e73\u53f0\u9002\u914d\u548c\u4f1a\u8bdd\u7ba1\u7406\u3002",
-    "id": "aandbcct/dotClaw",
-    "language": "Python",
-    "name": "aandbcct/dotClaw",
-    "stars": 8,
-    "updated_at": "2026-07-19T09:41:45Z",
-    "url": "https://github.com/aandbcct/dotClaw"
   }
 ]
