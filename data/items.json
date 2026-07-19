@@ -1,5 +1,59 @@
 [
   {
+    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
+    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "language": "Python",
+    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "stars": 1,
+    "updated_at": "2026-07-19T10:00:05Z",
+    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
+  },
+  {
+    "description": "DPronix \u2014 Modular AI agent framework in Rust. Multi-step reasoning, 13 built-in tools, Plan Mode, sub-agent delegation, ",
+    "id": "W117C/DPronix",
+    "language": "Rust",
+    "name": "W117C/DPronix",
+    "stars": 1,
+    "updated_at": "2026-07-19T09:55:02Z",
+    "url": "https://github.com/W117C/DPronix"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 77,
+    "updated_at": "2026-07-19T09:52:21Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 205,
+    "updated_at": "2026-07-19T09:47:17Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": " Workflow-first multi-agent orchestration for Ruby, built on RubyLLM.",
+    "id": "samuelralak/smith",
+    "language": "Ruby",
+    "name": "samuelralak/smith",
+    "stars": 1,
+    "updated_at": "2026-07-19T09:46:14Z",
+    "url": "https://github.com/samuelralak/smith"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-19T09:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
     "id": "maref-org/maref",
     "language": "Python",
@@ -45,13 +99,13 @@
     "url": "https://github.com/aandbcct/dotClaw"
   },
   {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
+    "description": "Governed workflow runtime for AI agents: scope complex requests, coordinate local Skills, verify delivery, and preserve ",
+    "id": "foryourhealth111-pixel/Vibe-Skills",
     "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 77,
-    "updated_at": "2026-07-19T09:44:02Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
+    "name": "foryourhealth111-pixel/Vibe-Skills",
+    "stars": 2399,
+    "updated_at": "2026-07-19T09:39:23Z",
+    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   },
   {
     "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
@@ -59,17 +113,8 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 490,
-    "updated_at": "2026-07-19T09:38:10Z",
+    "updated_at": "2026-07-19T09:52:08Z",
     "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-19T09:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -117,15 +162,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "DPronix \u2014 Modular AI agent framework in Rust. Multi-step reasoning, 13 built-in tools, Plan Mode, sub-agent delegation, ",
-    "id": "W117C/DPronix",
-    "language": "Rust",
-    "name": "W117C/DPronix",
-    "stars": 1,
-    "updated_at": "2026-07-19T09:18:36Z",
-    "url": "https://github.com/W117C/DPronix"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -166,7 +202,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27284,
+    "stars": 27285,
     "updated_at": "2026-07-19T09:06:46Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -198,15 +234,6 @@
     "url": "https://github.com/kestiny18/Noval"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 205,
-    "updated_at": "2026-07-19T08:54:45Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -214,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-07-19T08:51:51Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Governed workflow runtime for AI agents: scope complex requests, coordinate local Skills, verify delivery, and preserve ",
-    "id": "foryourhealth111-pixel/Vibe-Skills",
-    "language": "Python",
-    "name": "foryourhealth111-pixel/Vibe-Skills",
-    "stars": 2398,
-    "updated_at": "2026-07-19T09:39:23Z",
-    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   },
   {
     "description": "A lightweight repository harness for safe agentic collaboration, deliberate codebase learning, and conversational learni",
@@ -268,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T08:35:44Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
-    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "language": "Python",
-    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "stars": 1,
-    "updated_at": "2026-07-19T08:30:04Z",
-    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T07:07:09Z",
     "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 2,
-    "updated_at": "2026-07-19T07:06:03Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
   }
 ]
