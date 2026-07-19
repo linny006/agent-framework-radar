@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 77,
+    "updated_at": "2026-07-19T10:44:23Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Phone local agent",
+    "id": "HaohanHe/Opedrgent",
+    "language": "Kotlin",
+    "name": "HaohanHe/Opedrgent",
+    "stars": 2,
+    "updated_at": "2026-07-19T10:44:07Z",
+    "url": "https://github.com/HaohanHe/Opedrgent"
+  },
+  {
+    "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
+    "id": "moolamai/Sutra",
+    "language": "TypeScript",
+    "name": "moolamai/Sutra",
+    "stars": 4,
+    "updated_at": "2026-07-19T10:43:00Z",
+    "url": "https://github.com/moolamai/Sutra"
+  },
+  {
+    "description": "A self-describing agent kernel in which agents are programs that write programs.",
+    "id": "danieldietrich/flatmap-website",
+    "language": "HTML",
+    "name": "danieldietrich/flatmap-website",
+    "stars": 0,
+    "updated_at": "2026-07-19T10:42:57Z",
+    "url": "https://github.com/danieldietrich/flatmap-website"
+  },
+  {
+    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
+    "id": "Omni-Craft/OmniCraft",
+    "language": "Python",
+    "name": "Omni-Craft/OmniCraft",
+    "stars": 0,
+    "updated_at": "2026-07-19T10:40:35Z",
+    "url": "https://github.com/Omni-Craft/OmniCraft"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 107,
+    "updated_at": "2026-07-19T10:38:03Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-19T10:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Nuwa \u2014 a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
     "id": "LucioLiu/nuwa",
     "language": "\u2014",
@@ -81,24 +144,6 @@
     "url": "https://github.com/substructureai/substructure"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-19T10:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
-    "id": "moolamai/Sutra",
-    "language": "TypeScript",
-    "name": "moolamai/Sutra",
-    "stars": 4,
-    "updated_at": "2026-07-19T10:12:22Z",
-    "url": "https://github.com/moolamai/Sutra"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T10:11:03Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 107,
-    "updated_at": "2026-07-19T10:10:56Z",
-    "url": "https://github.com/Insajin/autopus-adk"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -131,7 +167,7 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 490,
-    "updated_at": "2026-07-19T10:27:58Z",
+    "updated_at": "2026-07-19T10:41:21Z",
     "url": "https://github.com/cordum-io/cordum"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T10:00:05Z",
     "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 77,
-    "updated_at": "2026-07-19T09:52:21Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -306,6 +333,15 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
+    "description": "A provider-neutral execution kernel for strong-model, thin-harness agents.",
+    "id": "kestiny18/Noval",
+    "language": "Python",
+    "name": "kestiny18/Noval",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:05:16Z",
+    "url": "https://github.com/kestiny18/Noval"
+  },
+  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
@@ -315,13 +351,13 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "\u4e00\u4e2a\u4e0e\u573a\u666f\u89e3\u8026\u3001\u5f3a\u8c03\u6267\u884c\u8fb9\u754c\u4e0e\u9a8c\u8bc1\u95ed\u73af\u7684 Python Agent \u5c0f\u6838\u5fc3 | A provider-agnostic Python agent core",
-    "id": "kestiny18/Noval",
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
     "language": "Python",
-    "name": "kestiny18/Noval",
-    "stars": 0,
-    "updated_at": "2026-07-19T09:05:16Z",
-    "url": "https://github.com/kestiny18/Noval"
+    "name": "microsoft/agent-framework",
+    "stars": 12220,
+    "updated_at": "2026-07-19T08:52:16Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
@@ -405,48 +441,12 @@
     "url": "https://github.com/moortekweb-art/agentic-harness"
   },
   {
-    "description": "Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo",
-    "id": "getsynkora/synkora-ai",
-    "language": "Python",
-    "name": "getsynkora/synkora-ai",
-    "stars": 8,
-    "updated_at": "2026-07-19T08:00:03Z",
-    "url": "https://github.com/getsynkora/synkora-ai"
-  },
-  {
-    "description": "ContextLattice is the local-first control plane for long-horizon agent memory, coordination, and behavioral provenance. ",
-    "id": "sheawinkler/ContextLattice",
-    "language": "Go",
-    "name": "sheawinkler/ContextLattice",
-    "stars": 135,
-    "updated_at": "2026-07-19T07:46:26Z",
-    "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
+    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
+    "id": "sweatco/archie-hq",
     "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6618,
-    "updated_at": "2026-07-19T07:40:43Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
-    "id": "agenvoy/Agenvoy",
-    "language": "Go",
-    "name": "agenvoy/Agenvoy",
-    "stars": 329,
-    "updated_at": "2026-07-19T07:30:09Z",
-    "url": "https://github.com/agenvoy/Agenvoy"
-  },
-  {
-    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 3,
-    "updated_at": "2026-07-19T07:22:00Z",
-    "url": "https://github.com/hara-cli/hara"
+    "name": "sweatco/archie-hq",
+    "stars": 16,
+    "updated_at": "2026-07-19T07:59:30Z",
+    "url": "https://github.com/sweatco/archie-hq"
   }
 ]
