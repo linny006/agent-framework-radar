@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-19T19:30:05Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-19T19:29:49Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Five-Layer Memory System v4.0.0 - A universal memory skill for AI agents",
     "id": "juventini10/Five-layer-memory-system",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 1,
     "updated_at": "2026-07-19T19:28:49Z",
     "url": "https://github.com/juventini10/Five-layer-memory-system"
+  },
+  {
+    "description": "Async multi-agent AI library for Python \u2014 self-improving agent loops, APEX synthesis, bounded agent spawning, multimodal",
+    "id": "Aayush-Joshi-01/deepcrew-ai",
+    "language": "HTML",
+    "name": "Aayush-Joshi-01/deepcrew-ai",
+    "stars": 1,
+    "updated_at": "2026-07-19T19:27:06Z",
+    "url": "https://github.com/Aayush-Joshi-01/deepcrew-ai"
   },
   {
     "description": "Exact input-bound approvals, policy-gated TypeScript tools, source-linked evidence, CLI workers, and governed web resear",
@@ -70,15 +97,6 @@
     "stars": 7,
     "updated_at": "2026-07-19T19:17:41Z",
     "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-19T19:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -360,15 +378,6 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:13:32Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Agents whose instructions are tested, not trusted - a context-native agent runtime with measured, self-improving skills",
     "id": "fredfitzgerald30-web/substrate",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T16:45:36Z",
     "url": "https://github.com/AI-Nate/crewkit"
-  },
-  {
-    "description": "Build self-evolving AI agent harnesses with portable harness units, artifact-aware testing, trace-backed diagnosis, and ",
-    "id": "Ker102/Harneloop",
-    "language": "Python",
-    "name": "Ker102/Harneloop",
-    "stars": 1,
-    "updated_at": "2026-07-19T16:45:10Z",
-    "url": "https://github.com/Ker102/Harneloop"
   }
 ]
