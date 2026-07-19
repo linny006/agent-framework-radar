@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-19T15:09:12Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "ContextLattice is the local-first control plane for long-horizon agent memory, coordination, and behavioral provenance. ",
+    "id": "sheawinkler/ContextLattice",
+    "language": "Go",
+    "name": "sheawinkler/ContextLattice",
+    "stars": 135,
+    "updated_at": "2026-07-19T15:06:41Z",
+    "url": "https://github.com/sheawinkler/ContextLattice"
+  },
+  {
+    "description": "12-Agent Personalized Learning System \u00b7 1154 Tests \u00b7 5-Layer Architecture \u00b7 Competition-Ready \u00b7 v7.1.0",
+    "id": "Leisure-Auf1/A3-Multi-Agent-System",
+    "language": "Python",
+    "name": "Leisure-Auf1/A3-Multi-Agent-System",
+    "stars": 2,
+    "updated_at": "2026-07-19T15:05:05Z",
+    "url": "https://github.com/Leisure-Auf1/A3-Multi-Agent-System"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 90,
+    "updated_at": "2026-07-19T15:03:24Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Turn any skill into a standalone, runnable RAG-native AI Agent",
+    "id": "agenthatch/agenthatch",
+    "language": "Python",
+    "name": "agenthatch/agenthatch",
+    "stars": 62,
+    "updated_at": "2026-07-19T15:13:17Z",
+    "url": "https://github.com/agenthatch/agenthatch"
+  },
+  {
+    "description": "Agents whose instructions are tested, not trusted - a context-native agent runtime with measured, self-improving skills",
+    "id": "fredfitzgerald30-web/substrate",
+    "language": "Python",
+    "name": "fredfitzgerald30-web/substrate",
+    "stars": 0,
+    "updated_at": "2026-07-19T15:02:05Z",
+    "url": "https://github.com/fredfitzgerald30-web/substrate"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27308,
+    "updated_at": "2026-07-19T15:01:24Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-19T15:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -34,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T14:54:28Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "\ud83e\udde0 8 KI-Agenten lokal orchestrieren \u2013 ohne Cloud. FastAPI, DeepSeek, SQLite-Message-Queue, FAISS-Embeddings, Gatekeeper-S",
-    "id": "landjunge/gnom-hub",
-    "language": "Python",
-    "name": "landjunge/gnom-hub",
-    "stars": 1,
-    "updated_at": "2026-07-19T14:58:44Z",
-    "url": "https://github.com/landjunge/gnom-hub"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -106,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T14:46:43Z",
     "url": "https://github.com/alexverify/eyebrow"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-19T14:45:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -189,6 +243,15 @@
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   },
   {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 444,
+    "updated_at": "2026-07-19T14:19:16Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -216,15 +279,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 90,
-    "updated_at": "2026-07-19T14:41:53Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
     "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
     "id": "parkerluxu/Awesome-agent-cases",
     "language": "\u2014",
@@ -232,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T14:08:12Z",
     "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-19T14:04:24Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -268,15 +313,6 @@
     "stars": 18,
     "updated_at": "2026-07-19T13:53:08Z",
     "url": "https://github.com/ahwurm/localharness"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27307,
-    "updated_at": "2026-07-19T13:52:14Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Hermes Agent \u5b98\u65b9\u63d2\u4ef6\u4ed3\u5e93 \u2014 \u667a\u80fd\u4f53\u80fd\u529b\u6269\u5c55\u7684\u6a21\u5757\u5316\u89e3\u51b3\u65b9\u6848",
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-19T14:47:26Z",
+    "updated_at": "2026-07-19T15:02:01Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -346,7 +382,7 @@
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
-    "stars": 855,
+    "stars": 857,
     "updated_at": "2026-07-19T13:38:25Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
@@ -382,7 +418,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7493,
+    "stars": 7494,
     "updated_at": "2026-07-19T13:12:22Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -412,41 +448,5 @@
     "stars": 188,
     "updated_at": "2026-07-19T12:56:42Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "ContextLattice is the local-first control plane for long-horizon agent memory, coordination, and behavioral provenance. ",
-    "id": "sheawinkler/ContextLattice",
-    "language": "Go",
-    "name": "sheawinkler/ContextLattice",
-    "stars": 135,
-    "updated_at": "2026-07-19T12:57:07Z",
-    "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "\u7ed3\u6784\u6e05\u6670\u4e14\u5229\u4e8e\u6539\u7f16\u7684Agent\u6846\u67b6\uff0c\u652f\u6301\u81ea\u5efa\u77e5\u8bc6\u5e93\u5e76\u7eb3\u5165\u6a21\u578b\u601d\u8003\u3002\u5df2\u5b8c\u6210Docker\u90e8\u7f72\u4e14\u652f\u6301\u62c9\u53d6",
-    "id": "violetwhale-or/Agent-Deepseek-Docker-RAG",
-    "language": "Python",
-    "name": "violetwhale-or/Agent-Deepseek-Docker-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:54:59Z",
-    "url": "https://github.com/violetwhale-or/Agent-Deepseek-Docker-RAG"
-  },
-  {
-    "description": " Build a production-grade ReAct agent in one call \u2014 on LangGraph. Three-horizon memory, forced step-by-step reflection, ",
-    "id": "KuiChi-x/graphloom",
-    "language": "Python",
-    "name": "KuiChi-x/graphloom",
-    "stars": 1,
-    "updated_at": "2026-07-19T12:51:51Z",
-    "url": "https://github.com/KuiChi-x/graphloom"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12221,
-    "updated_at": "2026-07-19T14:33:05Z",
-    "url": "https://github.com/microsoft/agent-framework"
   }
 ]
