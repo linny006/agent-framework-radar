@@ -1,12 +1,12 @@
 [
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:59:53Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
+    "id": "rameswaran-mohan/project-systemu",
+    "language": "Python",
+    "name": "rameswaran-mohan/project-systemu",
+    "stars": 2,
+    "updated_at": "2026-07-19T18:07:27Z",
+    "url": "https://github.com/rameswaran-mohan/project-systemu"
   },
   {
     "description": "deepseeknova \u2014 Modular AI agent framework in Rust. Multi-step reasoning, 13 built-in tools, Plan Mode, sub-agent delegat",
@@ -14,8 +14,44 @@
     "language": "Rust",
     "name": "W117C/DeepseekNova",
     "stars": 1,
-    "updated_at": "2026-07-19T17:59:16Z",
+    "updated_at": "2026-07-19T18:03:57Z",
     "url": "https://github.com/W117C/DeepseekNova"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 153,
+    "updated_at": "2026-07-19T18:01:26Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Exact input-bound approvals, policy-gated TypeScript tools, source-linked evidence, CLI workers, and governed web resear",
+    "id": "AjnasNB/maqam",
+    "language": "JavaScript",
+    "name": "AjnasNB/maqam",
+    "stars": 1,
+    "updated_at": "2026-07-19T18:01:21Z",
+    "url": "https://github.com/AjnasNB/maqam"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-19T18:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-19T17:59:53Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -45,21 +81,12 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
-    "id": "rameswaran-mohan/project-systemu",
-    "language": "Python",
-    "name": "rameswaran-mohan/project-systemu",
-    "stars": 2,
-    "updated_at": "2026-07-19T17:53:14Z",
-    "url": "https://github.com/rameswaran-mohan/project-systemu"
-  },
-  {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6619,
-    "updated_at": "2026-07-19T17:52:54Z",
+    "updated_at": "2026-07-19T18:06:18Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -68,7 +95,7 @@
     "language": "JavaScript",
     "name": "wrg32786/aigent-os",
     "stars": 5,
-    "updated_at": "2026-07-19T17:58:25Z",
+    "updated_at": "2026-07-19T18:07:53Z",
     "url": "https://github.com/wrg32786/aigent-os"
   },
   {
@@ -86,7 +113,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 15,
-    "updated_at": "2026-07-19T17:59:23Z",
+    "updated_at": "2026-07-19T18:01:00Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -108,21 +135,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-19T17:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Autonomous open-source contribution agent for Claude Code & Codex. A multi-agent harness that picks an issue, writes the",
     "id": "gaurav0107/superhuman",
     "language": "Shell",
     "name": "gaurav0107/superhuman",
     "stars": 4,
-    "updated_at": "2026-07-19T17:45:27Z",
+    "updated_at": "2026-07-19T18:06:17Z",
     "url": "https://github.com/gaurav0107/superhuman"
   },
   {
@@ -140,7 +158,7 @@
     "language": "Go",
     "name": "sheawinkler/ContextLattice",
     "stars": 135,
-    "updated_at": "2026-07-19T17:36:20Z",
+    "updated_at": "2026-07-19T18:00:40Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
@@ -189,20 +207,11 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Exact input-bound approvals, policy-gated TypeScript tools, source-linked evidence, CLI workers, and governed web resear",
-    "id": "AjnasNB/maqam",
-    "language": "JavaScript",
-    "name": "AjnasNB/maqam",
-    "stars": 1,
-    "updated_at": "2026-07-19T17:59:12Z",
-    "url": "https://github.com/AjnasNB/maqam"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27316,
+    "stars": 27317,
     "updated_at": "2026-07-19T17:16:32Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -268,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T17:01:00Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 153,
-    "updated_at": "2026-07-19T16:58:25Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   },
   {
     "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
@@ -409,7 +409,7 @@
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 14605,
+    "stars": 14606,
     "updated_at": "2026-07-19T16:17:45Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
