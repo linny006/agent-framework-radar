@@ -1,5 +1,41 @@
 [
   {
+    "description": "deepseeknova \u2014 Modular AI agent framework in Rust. Multi-step reasoning, 13 built-in tools, Plan Mode, sub-agent delegat",
+    "id": "W117C/DeepseekNova",
+    "language": "Rust",
+    "name": "W117C/DeepseekNova",
+    "stars": 1,
+    "updated_at": "2026-07-19T14:14:18Z",
+    "url": "https://github.com/W117C/DeepseekNova"
+  },
+  {
+    "description": "\ud83e\udde0 8 KI-Agenten lokal orchestrieren \u2013 ohne Cloud. FastAPI, DeepSeek, SQLite-Message-Queue, FAISS-Embeddings, Gatekeeper-S",
+    "id": "landjunge/gnom-hub",
+    "language": "Python",
+    "name": "landjunge/gnom-hub",
+    "stars": 1,
+    "updated_at": "2026-07-19T14:13:23Z",
+    "url": "https://github.com/landjunge/gnom-hub"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-19T14:12:59Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-19T14:11:17Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
     "id": "KbWen/agentic-os",
     "language": "Python",
@@ -25,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T14:04:24Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-19T14:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "\ud83e\udde0 8 KI-Agenten lokal orchestrieren \u2013 ohne Cloud. FastAPI, DeepSeek, SQLite-Message-Queue, FAISS-Embeddings, Gatekeeper-S",
-    "id": "landjunge/gnom-hub",
-    "language": "Python",
-    "name": "landjunge/gnom-hub",
-    "stars": 1,
-    "updated_at": "2026-07-19T14:00:02Z",
-    "url": "https://github.com/landjunge/gnom-hub"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -153,20 +171,11 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "deepseeknova \u2014 Modular AI agent framework in Rust. Multi-step reasoning, 13 built-in tools, Plan Mode, sub-agent delegat",
-    "id": "W117C/DeepseekNova",
-    "language": "Rust",
-    "name": "W117C/DeepseekNova",
-    "stars": 1,
-    "updated_at": "2026-07-19T13:38:30Z",
-    "url": "https://github.com/W117C/DeepseekNova"
-  },
-  {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
-    "stars": 845,
+    "stars": 846,
     "updated_at": "2026-07-19T13:38:25Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-07-19T14:08:10Z",
+    "updated_at": "2026-07-19T14:14:02Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -365,17 +374,8 @@
     "language": "Python",
     "name": "foryourhealth111-pixel/Vibe-Skills",
     "stars": 2399,
-    "updated_at": "2026-07-19T12:41:26Z",
+    "updated_at": "2026-07-19T14:14:06Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-19T12:40:11Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
