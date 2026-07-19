@@ -1,5 +1,41 @@
 [
   {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-07-19T22:05:44Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 72,
+    "updated_at": "2026-07-19T22:05:11Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-07-19T22:01:14Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-19T22:00:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "junebuild/june",
     "stars": 3,
-    "updated_at": "2026-07-19T21:57:48Z",
+    "updated_at": "2026-07-19T22:07:45Z",
     "url": "https://github.com/junebuild/june"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 153,
     "updated_at": "2026-07-19T21:48:08Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-19T21:45:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -142,24 +169,6 @@
     "stars": 3861,
     "updated_at": "2026-07-19T21:27:39Z",
     "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-19T21:26:16Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 72,
-    "updated_at": "2026-07-19T21:44:42Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -256,7 +265,7 @@
     "id": "sheawinkler/ContextLattice",
     "language": "Go",
     "name": "sheawinkler/ContextLattice",
-    "stars": 135,
+    "stars": 136,
     "updated_at": "2026-07-19T20:29:57Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
@@ -268,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-07-19T21:58:41Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 2,
-    "updated_at": "2026-07-19T21:55:43Z",
-    "url": "https://github.com/dsswift/ion"
   },
   {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
