@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 312,
+    "updated_at": "2026-07-19T19:36:31Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
+    "id": "rameswaran-mohan/project-systemu",
+    "language": "Python",
+    "name": "rameswaran-mohan/project-systemu",
+    "stars": 2,
+    "updated_at": "2026-07-19T19:36:02Z",
+    "url": "https://github.com/rameswaran-mohan/project-systemu"
+  },
+  {
+    "description": "A Python toolkit for building citation-faithful Q&A agents over a knowledge corpus.",
+    "id": "Construct-Lab/reigner",
+    "language": "Python",
+    "name": "Construct-Lab/reigner",
+    "stars": 3,
+    "updated_at": "2026-07-19T19:42:20Z",
+    "url": "https://github.com/Construct-Lab/reigner"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-07-19T19:35:35Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-07-19T19:32:47Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Async multi-agent AI library for Python \u2014 self-improving agent loops, APEX synthesis, bounded agent spawning, multimodal",
+    "id": "Aayush-Joshi-01/deepcrew-ai",
+    "language": "HTML",
+    "name": "Aayush-Joshi-01/deepcrew-ai",
+    "stars": 2,
+    "updated_at": "2026-07-19T19:30:40Z",
+    "url": "https://github.com/Aayush-Joshi-01/deepcrew-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-19T19:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -9,15 +72,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-19T19:29:49Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83e\udde0 Five-Layer Memory System v4.0.0 - A universal memory skill for AI agents",
     "id": "juventini10/Five-layer-memory-system",
     "language": "Python",
@@ -25,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T19:28:49Z",
     "url": "https://github.com/juventini10/Five-layer-memory-system"
-  },
-  {
-    "description": "Async multi-agent AI library for Python \u2014 self-improving agent loops, APEX synthesis, bounded agent spawning, multimodal",
-    "id": "Aayush-Joshi-01/deepcrew-ai",
-    "language": "HTML",
-    "name": "Aayush-Joshi-01/deepcrew-ai",
-    "stars": 1,
-    "updated_at": "2026-07-19T19:27:06Z",
-    "url": "https://github.com/Aayush-Joshi-01/deepcrew-ai"
   },
   {
     "description": "Exact input-bound approvals, policy-gated TypeScript tools, source-linked evidence, CLI workers, and governed web resear",
@@ -52,24 +97,6 @@
     "stars": 205,
     "updated_at": "2026-07-19T19:21:46Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "A Python toolkit for building citation-faithful Q&A agents over a knowledge corpus.",
-    "id": "Construct-Lab/reigner",
-    "language": "Python",
-    "name": "Construct-Lab/reigner",
-    "stars": 3,
-    "updated_at": "2026-07-19T19:22:05Z",
-    "url": "https://github.com/Construct-Lab/reigner"
-  },
-  {
-    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
-    "id": "rameswaran-mohan/project-systemu",
-    "language": "Python",
-    "name": "rameswaran-mohan/project-systemu",
-    "stars": 2,
-    "updated_at": "2026-07-19T19:21:02Z",
-    "url": "https://github.com/rameswaran-mohan/project-systemu"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 7,
-    "updated_at": "2026-07-19T19:17:41Z",
+    "updated_at": "2026-07-19T19:37:16Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-07-19T19:11:05Z",
     "url": "https://github.com/moolamai/Sutra"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-19T19:07:12Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 3,
-    "updated_at": "2026-07-19T19:18:51Z",
+    "updated_at": "2026-07-19T19:43:32Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -333,15 +351,6 @@
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 312,
-    "updated_at": "2026-07-19T17:36:16Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
     "id": "ellmos-ai/bach",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 18650,
     "updated_at": "2026-07-19T16:49:56Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Run a one-person company as a crew of AI agents \u2014 not a coding squad. The missing operating layer on top of whatever age",
-    "id": "AI-Nate/crewkit",
-    "language": "\u2014",
-    "name": "AI-Nate/crewkit",
-    "stars": 0,
-    "updated_at": "2026-07-19T16:45:36Z",
-    "url": "https://github.com/AI-Nate/crewkit"
   }
 ]
