@@ -1,5 +1,32 @@
 [
   {
+    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
+    "id": "Alexli18/binex",
+    "language": "Python",
+    "name": "Alexli18/binex",
+    "stars": 62,
+    "updated_at": "2026-07-20T16:14:06Z",
+    "url": "https://github.com/Alexli18/binex"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:14:00Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-20T16:13:36Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Your messenger for AI agents. Self-hosted chat PWA with push, QR pairing, and pluggable agent-framework connectors. MIT.",
     "id": "cloudsignal/raccoon",
     "language": "TypeScript",
@@ -9,6 +36,15 @@
     "url": "https://github.com/cloudsignal/raccoon"
   },
   {
+    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-07-20T16:11:55Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
     "description": "Open-source LangGraph agent framework and runtime for long-running AI agents. Build a ReAct loop with memory, context co",
     "id": "KuiChi-x/graphloom",
     "language": "Python",
@@ -16,6 +52,15 @@
     "stars": 1,
     "updated_at": "2026-07-20T16:11:46Z",
     "url": "https://github.com/KuiChi-x/graphloom"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 4,
+    "updated_at": "2026-07-20T16:15:13Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -43,15 +88,6 @@
     "stars": 17,
     "updated_at": "2026-07-20T16:05:39Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-07-20T16:11:55Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
@@ -86,17 +122,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18674,
-    "updated_at": "2026-07-20T16:01:07Z",
+    "updated_at": "2026-07-20T16:13:47Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T16:00:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
@@ -106,15 +133,6 @@
     "stars": 36,
     "updated_at": "2026-07-20T15:59:01Z",
     "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
-    "id": "Alexli18/binex",
-    "language": "Python",
-    "name": "Alexli18/binex",
-    "stars": 62,
-    "updated_at": "2026-07-20T16:12:45Z",
-    "url": "https://github.com/Alexli18/binex"
   },
   {
     "description": "\u5fae\u8206\uff1a\u4eba\u4eba\u53ef\u7528\u7684\u591aAgent\u8206\u60c5\u5206\u6790\u52a9\u624b\uff0c\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u8fd8\u539f\u8206\u60c5\u539f\u8c8c\uff0c\u9884\u6d4b\u672a\u6765\u8d70\u5411\uff0c\u8f85\u52a9\u51b3\u7b56\uff01\u4ece0\u5b9e\u73b0\uff0c\u4e0d\u4f9d\u8d56\u4efb\u4f55\u6846\u67b6\u3002",
@@ -133,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T15:57:32Z",
     "url": "https://github.com/nihalashetty/Forge"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 4,
-    "updated_at": "2026-07-20T16:11:33Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
@@ -439,14 +448,5 @@
     "stars": 153,
     "updated_at": "2026-07-20T15:10:30Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 188,
-    "updated_at": "2026-07-20T15:09:48Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   }
 ]
