@@ -1,5 +1,104 @@
 [
   {
+    "description": "Your messenger for AI agents. Self-hosted chat PWA with push, QR pairing, and pluggable agent-framework connectors. MIT.",
+    "id": "cloudsignal/raccoon",
+    "language": "TypeScript",
+    "name": "cloudsignal/raccoon",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:12:07Z",
+    "url": "https://github.com/cloudsignal/raccoon"
+  },
+  {
+    "description": "Open-source LangGraph agent framework and runtime for long-running AI agents. Build a ReAct loop with memory, context co",
+    "id": "KuiChi-x/graphloom",
+    "language": "Python",
+    "name": "KuiChi-x/graphloom",
+    "stars": 1,
+    "updated_at": "2026-07-20T16:11:46Z",
+    "url": "https://github.com/KuiChi-x/graphloom"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 208,
+    "updated_at": "2026-07-20T16:06:48Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "White-box, task-centric multi-agent AI platform for business ops, sysadmin, research & office automation \u2014 every reasoni",
+    "id": "sievepub-2000/octoagent",
+    "language": "Python",
+    "name": "sievepub-2000/octoagent",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:06:36Z",
+    "url": "https://github.com/sievepub-2000/octoagent"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 17,
+    "updated_at": "2026-07-20T16:05:39Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-07-20T16:11:55Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-07-20T16:07:34Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 245,
+    "updated_at": "2026-07-20T16:02:16Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
+    "id": "shyftlabs/continuum",
+    "language": "Python",
+    "name": "shyftlabs/continuum",
+    "stars": 75,
+    "updated_at": "2026-07-20T16:02:07Z",
+    "url": "https://github.com/shyftlabs/continuum"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18674,
+    "updated_at": "2026-07-20T16:01:07Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-20T16:00:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
     "id": "amajorai/ryu",
     "language": "HTML",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "Alexli18/binex",
     "stars": 62,
-    "updated_at": "2026-07-20T15:58:40Z",
+    "updated_at": "2026-07-20T16:12:45Z",
     "url": "https://github.com/Alexli18/binex"
   },
   {
@@ -22,7 +121,7 @@
     "id": "666ghj/BettaFish",
     "language": "Python",
     "name": "666ghj/BettaFish",
-    "stars": 41790,
+    "stars": 41791,
     "updated_at": "2026-07-20T15:57:53Z",
     "url": "https://github.com/666ghj/BettaFish"
   },
@@ -41,7 +140,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 4,
-    "updated_at": "2026-07-20T15:56:54Z",
+    "updated_at": "2026-07-20T16:11:33Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "Leisure-Auf1/A3-Multi-Agent-System",
     "stars": 2,
-    "updated_at": "2026-07-20T15:55:20Z",
+    "updated_at": "2026-07-20T16:10:21Z",
     "url": "https://github.com/Leisure-Auf1/A3-Multi-Agent-System"
   },
   {
@@ -90,15 +189,6 @@
     "url": "https://github.com/hara-cli/hara"
   },
   {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 245,
-    "updated_at": "2026-07-20T15:53:38Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -106,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T15:52:58Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 208,
-    "updated_at": "2026-07-20T15:51:07Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18673,
-    "updated_at": "2026-07-20T15:54:56Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -153,15 +225,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T15:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
     "id": "ahwurm/localharness",
     "language": "Python",
@@ -169,15 +232,6 @@
     "stars": 18,
     "updated_at": "2026-07-20T15:45:18Z",
     "url": "https://github.com/ahwurm/localharness"
-  },
-  {
-    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-07-20T15:45:13Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -270,15 +324,6 @@
     "url": "https://github.com/moolamai/Sutra"
   },
   {
-    "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
-    "id": "shyftlabs/continuum",
-    "language": "Python",
-    "name": "shyftlabs/continuum",
-    "stars": 75,
-    "updated_at": "2026-07-20T15:34:51Z",
-    "url": "https://github.com/shyftlabs/continuum"
-  },
-  {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
     "id": "jiayan-xu/agent-core",
     "language": "Rust",
@@ -293,7 +338,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-20T15:32:14Z",
+    "updated_at": "2026-07-20T16:10:41Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 188,
     "updated_at": "2026-07-20T15:09:48Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 153,
-    "updated_at": "2026-07-20T15:08:35Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7535,
-    "updated_at": "2026-07-20T15:07:29Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-07-20T15:06:00Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-20T15:05:50Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6650,
-    "updated_at": "2026-07-20T15:04:06Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
