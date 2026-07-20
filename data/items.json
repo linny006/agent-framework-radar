@@ -1,12 +1,147 @@
 [
   {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12239,
+    "updated_at": "2026-07-20T09:44:27Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 312,
+    "updated_at": "2026-07-20T09:44:24Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "A self-evolving, AI-native language and platform for intelligent agents and autonomous software.",
+    "id": "AetherraLabs/Aetherra",
+    "language": "Python",
+    "name": "AetherraLabs/Aetherra",
+    "stars": 9,
+    "updated_at": "2026-07-20T09:43:22Z",
+    "url": "https://github.com/AetherraLabs/Aetherra"
+  },
+  {
+    "description": "Phone local agent",
+    "id": "HaohanHe/Opedrgent",
+    "language": "Kotlin",
+    "name": "HaohanHe/Opedrgent",
+    "stars": 2,
+    "updated_at": "2026-07-20T09:41:59Z",
+    "url": "https://github.com/HaohanHe/Opedrgent"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 4,
+    "updated_at": "2026-07-20T09:41:19Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "MCP Toolkit 2026 \u2013 Production-ready MCP servers for AI agents. File system, database, git, monitoring, and more. 300K+ e",
+    "id": "AssassinYank/MCP-Toolkit-2026",
+    "language": "Python",
+    "name": "AssassinYank/MCP-Toolkit-2026",
+    "stars": 1,
+    "updated_at": "2026-07-20T09:41:13Z",
+    "url": "https://github.com/AssassinYank/MCP-Toolkit-2026"
+  },
+  {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
     "id": "kyashrathore/Claxedo",
     "language": "TypeScript",
     "name": "kyashrathore/Claxedo",
     "stars": 2,
-    "updated_at": "2026-07-20T09:28:37Z",
+    "updated_at": "2026-07-20T09:40:56Z",
     "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 600,
+    "updated_at": "2026-07-20T09:40:28Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-07-20T09:40:17Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "A self-describing agent kernel in which agents are programs that write programs.",
+    "id": "danieldietrich/flatmap-website",
+    "language": "HTML",
+    "name": "danieldietrich/flatmap-website",
+    "stars": 0,
+    "updated_at": "2026-07-20T09:37:10Z",
+    "url": "https://github.com/danieldietrich/flatmap-website"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 1,
+    "updated_at": "2026-07-20T09:37:05Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Local-first, state-driven AI agent platform. Plan-review before execution, capability-gated tools, BYO LLM (Ollama / Ant",
+    "id": "klarlabs-studio/nomi",
+    "language": "Go",
+    "name": "klarlabs-studio/nomi",
+    "stars": 0,
+    "updated_at": "2026-07-20T09:37:00Z",
+    "url": "https://github.com/klarlabs-studio/nomi"
+  },
+  {
+    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
+    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "language": "Python",
+    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "stars": 1,
+    "updated_at": "2026-07-20T09:32:12Z",
+    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7522,
+    "updated_at": "2026-07-20T09:31:19Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
+    "id": "amajorai/ryu",
+    "language": "HTML",
+    "name": "amajorai/ryu",
+    "stars": 36,
+    "updated_at": "2026-07-20T09:30:52Z",
+    "url": "https://github.com/amajorai/ryu"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-20T09:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -18,21 +153,12 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "A self-describing agent kernel in which agents are programs that write programs.",
-    "id": "danieldietrich/flatmap-website",
-    "language": "HTML",
-    "name": "danieldietrich/flatmap-website",
-    "stars": 0,
-    "updated_at": "2026-07-20T09:22:54Z",
-    "url": "https://github.com/danieldietrich/flatmap-website"
-  },
-  {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6625,
-    "updated_at": "2026-07-20T09:20:19Z",
+    "updated_at": "2026-07-20T09:33:24Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -43,15 +169,6 @@
     "stars": 7,
     "updated_at": "2026-07-20T09:19:37Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7521,
-    "updated_at": "2026-07-20T09:17:49Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Agent-Reach 2026 \u2013 One-click internet access for AI agents. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, Xi",
@@ -67,18 +184,9 @@
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 14613,
+    "stars": 14614,
     "updated_at": "2026-07-20T09:16:40Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Phone local agent",
-    "id": "HaohanHe/Opedrgent",
-    "language": "Kotlin",
-    "name": "HaohanHe/Opedrgent",
-    "stars": 2,
-    "updated_at": "2026-07-20T09:16:13Z",
-    "url": "https://github.com/HaohanHe/Opedrgent"
   },
   {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
@@ -86,17 +194,8 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 17,
-    "updated_at": "2026-07-20T09:16:00Z",
+    "updated_at": "2026-07-20T09:44:40Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-20T09:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
@@ -124,15 +223,6 @@
     "stars": 7,
     "updated_at": "2026-07-20T09:09:55Z",
     "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
-    "id": "amajorai/ryu",
-    "language": "HTML",
-    "name": "amajorai/ryu",
-    "stars": 36,
-    "updated_at": "2026-07-20T09:07:48Z",
-    "url": "https://github.com/amajorai/ryu"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -171,21 +261,12 @@
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 4,
-    "updated_at": "2026-07-20T09:29:55Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "Insajin/autopus-adk",
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 107,
-    "updated_at": "2026-07-20T08:59:42Z",
+    "updated_at": "2026-07-20T09:30:38Z",
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
@@ -214,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T08:53:14Z",
     "url": "https://github.com/Dockdenchasm/Claude-Code-Templates-2026"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12238,
-    "updated_at": "2026-07-20T08:50:44Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -261,15 +333,6 @@
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
-    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
-    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "language": "Python",
-    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "stars": 1,
-    "updated_at": "2026-07-20T09:30:00Z",
-    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
-  },
-  {
     "description": "Contextra is a high performance AI context engineering platform built in Rust for document ingestion, retrieval, embeddi",
     "id": "soumyasurana/Contextra",
     "language": "Rust",
@@ -304,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T08:39:14Z",
     "url": "https://github.com/AndersonBY/vv-agent"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 1,
-    "updated_at": "2026-07-20T08:36:54Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": " Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution.",
@@ -369,15 +423,6 @@
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
-    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 3,
-    "updated_at": "2026-07-20T08:21:37Z",
-    "url": "https://github.com/hara-cli/hara"
-  },
-  {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
     "id": "jiayan-xu/agent-core",
     "language": "Rust",
@@ -391,7 +436,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4783,
+    "stars": 4785,
     "updated_at": "2026-07-20T08:18:56Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -403,50 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-20T08:17:49Z",
     "url": "https://github.com/sattyamjjain/ferrumdeck"
-  },
-  {
-    "description": "Governed multi-agent orchestration: Contract \u00b7 Artifact \u00b7 Scope \u00b7 Authority. Agents exchange artifacts, not chat transcr",
-    "id": "surmusz/casa-frame",
-    "language": "Python",
-    "name": "surmusz/casa-frame",
-    "stars": 2,
-    "updated_at": "2026-07-20T08:12:25Z",
-    "url": "https://github.com/surmusz/casa-frame"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 9,
-    "updated_at": "2026-07-20T08:05:43Z",
-    "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
-    "id": "agenvoy/Agenvoy",
-    "language": "Go",
-    "name": "agenvoy/Agenvoy",
-    "stars": 330,
-    "updated_at": "2026-07-20T08:04:24Z",
-    "url": "https://github.com/agenvoy/Agenvoy"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27373,
-    "updated_at": "2026-07-20T08:02:24Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
-    "id": "rapidaai/voice-ai",
-    "language": "Go",
-    "name": "rapidaai/voice-ai",
-    "stars": 697,
-    "updated_at": "2026-07-20T08:00:28Z",
-    "url": "https://github.com/rapidaai/voice-ai"
   }
 ]
