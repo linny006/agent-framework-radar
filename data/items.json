@@ -1,11 +1,83 @@
 [
   {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 15,
+    "updated_at": "2026-07-20T19:43:13Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 13,
+    "updated_at": "2026-07-20T19:43:10Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1304,
+    "updated_at": "2026-07-20T19:38:36Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "Framework-agnostic orchestration layer for AI agents: circuit breakers, multi-LLM council, workflow FSM, sweeps. Compani",
+    "id": "Coding-Dev-Tools/agentic-system",
+    "language": "Python",
+    "name": "Coding-Dev-Tools/agentic-system",
+    "stars": 2,
+    "updated_at": "2026-07-20T19:37:53Z",
+    "url": "https://github.com/Coding-Dev-Tools/agentic-system"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-07-20T19:37:09Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-20T19:36:50Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7544,
+    "updated_at": "2026-07-20T19:35:54Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-20T19:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 4,
-    "updated_at": "2026-07-20T19:30:19Z",
+    "updated_at": "2026-07-20T19:43:44Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "loopedautomation/meet",
     "stars": 3,
-    "updated_at": "2026-07-20T19:27:20Z",
+    "updated_at": "2026-07-20T19:31:13Z",
     "url": "https://github.com/loopedautomation/meet"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-07-20T19:26:49Z",
+    "updated_at": "2026-07-20T19:33:47Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -52,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T19:21:40Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7544,
-    "updated_at": "2026-07-20T19:18:59Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T19:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -185,7 +239,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 116,
-    "updated_at": "2026-07-20T18:46:54Z",
+    "updated_at": "2026-07-20T19:37:31Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -248,7 +302,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 4,
-    "updated_at": "2026-07-20T19:01:46Z",
+    "updated_at": "2026-07-20T19:33:17Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -306,15 +360,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Framework-agnostic orchestration layer for AI agents: circuit breakers, multi-LLM council, workflow FSM, sweeps. Compani",
-    "id": "Coding-Dev-Tools/agentic-system",
-    "language": "Python",
-    "name": "Coding-Dev-Tools/agentic-system",
-    "stars": 2,
-    "updated_at": "2026-07-20T18:53:21Z",
-    "url": "https://github.com/Coding-Dev-Tools/agentic-system"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -369,15 +414,6 @@
     "url": "https://github.com/rameswaran-mohan/project-systemu"
   },
   {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-07-20T17:35:18Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
     "description": "White-box, task-centric multi-agent AI platform for business ops, sysadmin, research & office automation \u2014 every reasoni",
     "id": "sievepub-2000/octoagent",
     "language": "Python",
@@ -385,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T17:33:25Z",
     "url": "https://github.com/sievepub-2000/octoagent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-20T17:33:20Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -421,32 +448,5 @@
     "stars": 577,
     "updated_at": "2026-07-20T17:26:45Z",
     "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
-    "id": "amajorai/ryu",
-    "language": "HTML",
-    "name": "amajorai/ryu",
-    "stars": 36,
-    "updated_at": "2026-07-20T17:40:45Z",
-    "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "Your messenger for AI agents. Self-hosted chat PWA with push, QR pairing, and pluggable agent-framework connectors. MIT.",
-    "id": "cloudsignal/raccoon",
-    "language": "TypeScript",
-    "name": "cloudsignal/raccoon",
-    "stars": 0,
-    "updated_at": "2026-07-20T17:14:08Z",
-    "url": "https://github.com/cloudsignal/raccoon"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 208,
-    "updated_at": "2026-07-20T17:05:15Z",
-    "url": "https://github.com/cortexkit/aft"
   }
 ]
