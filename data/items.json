@@ -1,12 +1,120 @@
 [
   {
+    "description": "A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other ",
+    "id": "zuoxu3310/AGENTOS",
+    "language": "Python",
+    "name": "zuoxu3310/AGENTOS",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:59:58Z",
+    "url": "https://github.com/zuoxu3310/AGENTOS"
+  },
+  {
+    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
+    "id": "lukeskytorep-bot/echo-claw",
+    "language": "\u2014",
+    "name": "lukeskytorep-bot/echo-claw",
+    "stars": 1,
+    "updated_at": "2026-07-20T07:59:17Z",
+    "url": "https://github.com/lukeskytorep-bot/echo-claw"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27363,
+    "updated_at": "2026-07-20T07:58:09Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
+    "id": "jiayan-xu/agent-core",
+    "language": "Rust",
+    "name": "jiayan-xu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-07-20T07:58:02Z",
+    "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-20T07:55:15Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
+    "id": "amajorai/ryu",
+    "language": "HTML",
+    "name": "amajorai/ryu",
+    "stars": 36,
+    "updated_at": "2026-07-20T07:55:06Z",
+    "url": "https://github.com/amajorai/ryu"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T07:55:03Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
+    "id": "the-long-ride/engram",
+    "language": "TypeScript",
+    "name": "the-long-ride/engram",
+    "stars": 5,
+    "updated_at": "2026-07-20T07:52:39Z",
+    "url": "https://github.com/the-long-ride/engram"
+  },
+  {
+    "description": "Agent-agnostic base image for putting any terminal AI coding agent (claude-code, pi, opencode...) on the network. Bolt o",
+    "id": "psyb0t/docker-aicodebox",
+    "language": "Python",
+    "name": "psyb0t/docker-aicodebox",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:49:10Z",
+    "url": "https://github.com/psyb0t/docker-aicodebox"
+  },
+  {
+    "description": "jcode 2026 \u2013 Ultra-fast Rust coding agent framework. 28 MB RAM, Swarm multi-agent, semantic memory, 20+ providers. Setup",
+    "id": "chordgnatsilo/jcode-Rust-Agent-Framework-2026",
+    "language": "Python",
+    "name": "chordgnatsilo/jcode-Rust-Agent-Framework-2026",
+    "stars": 1,
+    "updated_at": "2026-07-20T07:48:01Z",
+    "url": "https://github.com/chordgnatsilo/jcode-Rust-Agent-Framework-2026"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-20T07:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
     "id": "maref-org/maref",
     "language": "Python",
     "name": "maref-org/maref",
     "stars": 7,
-    "updated_at": "2026-07-20T07:42:41Z",
+    "updated_at": "2026-07-20T07:53:46Z",
     "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7521,
+    "updated_at": "2026-07-20T07:41:25Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": " Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution.",
@@ -16,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T07:39:16Z",
     "url": "https://github.com/longyijdos/kana"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7520,
-    "updated_at": "2026-07-20T07:41:25Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
@@ -45,39 +144,12 @@
     "url": "https://github.com/huangjia2019/agent-design-patterns"
   },
   {
-    "description": "jcode 2026 \u2013 Ultra-fast Rust coding agent framework. 28 MB RAM, Swarm multi-agent, semantic memory, 20+ providers. Setup",
-    "id": "chordgnatsilo/jcode-Rust-Agent-Framework-2026",
-    "language": "\u2014",
-    "name": "chordgnatsilo/jcode-Rust-Agent-Framework-2026",
-    "stars": 1,
-    "updated_at": "2026-07-20T07:35:39Z",
-    "url": "https://github.com/chordgnatsilo/jcode-Rust-Agent-Framework-2026"
-  },
-  {
-    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
-    "id": "lukeskytorep-bot/echo-claw",
-    "language": "\u2014",
-    "name": "lukeskytorep-bot/echo-claw",
-    "stars": 1,
-    "updated_at": "2026-07-20T07:35:07Z",
-    "url": "https://github.com/lukeskytorep-bot/echo-claw"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27360,
-    "updated_at": "2026-07-20T07:32:45Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
     "id": "rogerchappel/crewcmd",
     "language": "TypeScript",
     "name": "rogerchappel/crewcmd",
     "stars": 2,
-    "updated_at": "2026-07-20T07:32:37Z",
+    "updated_at": "2026-07-20T07:53:09Z",
     "url": "https://github.com/rogerchappel/crewcmd"
   },
   {
@@ -108,15 +180,6 @@
     "url": "https://github.com/naturalcasterspot/Agent-Skills-Collection-2026"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-20T07:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -133,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T07:29:00Z",
     "url": "https://github.com/surmusz/casa-frame"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T07:25:43Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18662,
-    "updated_at": "2026-07-20T07:43:03Z",
+    "updated_at": "2026-07-20T07:59:58Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -288,15 +342,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
-    "id": "jiayan-xu/agent-core",
-    "language": "Rust",
-    "name": "jiayan-xu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-07-20T06:36:27Z",
-    "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
     "description": "OpenClaw 2026 \u2013 Personal AI Assistant that runs locally, connects to 50+ services, and writes new skills autonomously. S",
     "id": "hertzchiefboost/OpenClaw-Personal-AI-Assistant-2026",
     "language": "Python",
@@ -365,7 +410,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 17,
-    "updated_at": "2026-07-20T06:10:44Z",
+    "updated_at": "2026-07-20T07:51:59Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -382,7 +427,7 @@
     "id": "666ghj/BettaFish",
     "language": "Python",
     "name": "666ghj/BettaFish",
-    "stars": 41785,
+    "stars": 41786,
     "updated_at": "2026-07-20T06:10:00Z",
     "url": "https://github.com/666ghj/BettaFish"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-20T06:00:38Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Agent-native, governed AI runtime for Rust, Python, and TypeScript \u2014 native providers, MCP, tools, routing, memory, budg",
-    "id": "matakartal/aikit-runtime",
-    "language": "Rust",
-    "name": "matakartal/aikit-runtime",
-    "stars": 2,
-    "updated_at": "2026-07-20T06:00:06Z",
-    "url": "https://github.com/matakartal/aikit-runtime"
-  },
-  {
-    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
-    "id": "rameswaran-mohan/project-systemu",
-    "language": "Python",
-    "name": "rameswaran-mohan/project-systemu",
-    "stars": 2,
-    "updated_at": "2026-07-20T05:56:52Z",
-    "url": "https://github.com/rameswaran-mohan/project-systemu"
-  },
-  {
-    "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
-    "id": "plaited/plaited",
-    "language": "TypeScript",
-    "name": "plaited/plaited",
-    "stars": 10,
-    "updated_at": "2026-07-20T05:47:47Z",
-    "url": "https://github.com/plaited/plaited"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6625,
-    "updated_at": "2026-07-20T05:38:37Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12236,
-    "updated_at": "2026-07-20T05:35:11Z",
-    "url": "https://github.com/microsoft/agent-framework"
   }
 ]
