@@ -1,5 +1,95 @@
 [
   {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 0,
+    "updated_at": "2026-07-20T19:58:17Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 6,
+    "updated_at": "2026-07-20T19:56:07Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 153,
+    "updated_at": "2026-07-20T19:52:58Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-07-20T19:52:20Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 116,
+    "updated_at": "2026-07-20T19:47:58Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-07-20T19:47:39Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7545,
+    "updated_at": "2026-07-20T19:47:04Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 153,
+    "updated_at": "2026-07-20T19:47:02Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Agent-native, governed AI runtime for Rust, Python, and TypeScript \u2014 native providers, MCP, tools, routing, memory, budg",
+    "id": "matakartal/aikit-runtime",
+    "language": "Rust",
+    "name": "matakartal/aikit-runtime",
+    "stars": 2,
+    "updated_at": "2026-07-20T19:46:13Z",
+    "url": "https://github.com/matakartal/aikit-runtime"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-20T19:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
     "id": "AgentsKit-io/agentskit",
     "language": "TypeScript",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 13,
-    "updated_at": "2026-07-20T19:43:10Z",
+    "updated_at": "2026-07-20T19:59:06Z",
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
@@ -54,30 +144,12 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7544,
-    "updated_at": "2026-07-20T19:35:54Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T19:30:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 4,
-    "updated_at": "2026-07-20T19:43:44Z",
+    "updated_at": "2026-07-20T19:59:39Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -104,7 +176,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-07-20T19:33:47Z",
+    "updated_at": "2026-07-20T19:54:34Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -162,15 +234,6 @@
     "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
-    "description": "Agent-native, governed AI runtime for Rust, Python, and TypeScript \u2014 native providers, MCP, tools, routing, memory, budg",
-    "id": "matakartal/aikit-runtime",
-    "language": "Rust",
-    "name": "matakartal/aikit-runtime",
-    "stars": 2,
-    "updated_at": "2026-07-20T18:55:26Z",
-    "url": "https://github.com/matakartal/aikit-runtime"
-  },
-  {
     "description": "LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle",
     "id": "wanxingai/LightAgent",
     "language": "Python",
@@ -178,15 +241,6 @@
     "stars": 1182,
     "updated_at": "2026-07-20T18:55:21Z",
     "url": "https://github.com/wanxingai/LightAgent"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-07-20T19:15:13Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -202,7 +256,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6652,
+    "stars": 6653,
     "updated_at": "2026-07-20T18:50:45Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -216,15 +270,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
-    "language": "TypeScript",
-    "name": "Qwixl/Atom",
-    "stars": 0,
-    "updated_at": "2026-07-20T18:47:42Z",
-    "url": "https://github.com/Qwixl/Atom"
-  },
-  {
     "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
     "id": "AndersonBY/vv-agent",
     "language": "Python",
@@ -232,24 +277,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T18:47:05Z",
     "url": "https://github.com/AndersonBY/vv-agent"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 116,
-    "updated_at": "2026-07-20T19:37:31Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-07-20T18:46:18Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
     "description": "Contextra is a high performance AI context engineering platform built in Rust for document ingestion, retrieval, embeddi",
@@ -277,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T18:34:02Z",
     "url": "https://github.com/samuelralak/smith"
-  },
-  {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 6,
-    "updated_at": "2026-07-20T19:09:15Z",
-    "url": "https://github.com/Kortecx/kortecx"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -369,15 +387,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 153,
-    "updated_at": "2026-07-20T17:59:58Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -385,15 +394,6 @@
     "stars": 5,
     "updated_at": "2026-07-20T17:58:34Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 153,
-    "updated_at": "2026-07-20T17:57:49Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
     "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
@@ -446,7 +446,7 @@
     "language": "TypeScript",
     "name": "aeonfun/aeon",
     "stars": 577,
-    "updated_at": "2026-07-20T17:26:45Z",
+    "updated_at": "2026-07-20T20:00:02Z",
     "url": "https://github.com/aeonfun/aeon"
   }
 ]
