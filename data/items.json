@@ -1,12 +1,30 @@
 [
   {
-    "description": "\ud83e\udde0 Five-Layer Memory System v4.0.0 - A universal memory skill for AI agents",
-    "id": "juventini10/Five-layer-memory-system",
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
-    "name": "juventini10/Five-layer-memory-system",
-    "stars": 2,
-    "updated_at": "2026-07-20T14:42:03Z",
-    "url": "https://github.com/juventini10/Five-layer-memory-system"
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 4,
+    "updated_at": "2026-07-20T14:59:02Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "DSPy Go implementation",
+    "id": "XiaoConstantine/dspy-go",
+    "language": "Go",
+    "name": "XiaoConstantine/dspy-go",
+    "stars": 194,
+    "updated_at": "2026-07-20T14:56:12Z",
+    "url": "https://github.com/XiaoConstantine/dspy-go"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-20T14:55:17Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
@@ -14,8 +32,17 @@
     "language": "Go",
     "name": "dsswift/ion",
     "stars": 3,
-    "updated_at": "2026-07-20T14:42:00Z",
+    "updated_at": "2026-07-20T14:57:07Z",
     "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-07-20T14:54:36Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
@@ -23,8 +50,71 @@
     "language": "Python",
     "name": "pavanbadempet/AI-Healthcare-System",
     "stars": 36,
-    "updated_at": "2026-07-20T14:41:04Z",
+    "updated_at": "2026-07-20T14:54:35Z",
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
+    "id": "moolamai/Sutra",
+    "language": "TypeScript",
+    "name": "moolamai/Sutra",
+    "stars": 5,
+    "updated_at": "2026-07-20T14:54:33Z",
+    "url": "https://github.com/moolamai/Sutra"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 3,
+    "updated_at": "2026-07-20T14:49:40Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Governance-first AI agent runtime \u2014 cost-first routing to the cheapest capable model, self-enforced bylaws, a trust ladd",
+    "id": "OgreScat/AgentGRIT",
+    "language": "Python",
+    "name": "OgreScat/AgentGRIT",
+    "stars": 1,
+    "updated_at": "2026-07-20T14:49:40Z",
+    "url": "https://github.com/OgreScat/AgentGRIT"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 1,
+    "updated_at": "2026-07-20T14:45:35Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-20T14:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "",
+    "id": "oldfish-dev/tangerine",
+    "language": "TypeScript",
+    "name": "oldfish-dev/tangerine",
+    "stars": 0,
+    "updated_at": "2026-07-20T14:45:19Z",
+    "url": "https://github.com/oldfish-dev/tangerine"
+  },
+  {
+    "description": "\ud83e\udde0 Five-Layer Memory System v4.0.0 - A universal memory skill for AI agents",
+    "id": "juventini10/Five-layer-memory-system",
+    "language": "Python",
+    "name": "juventini10/Five-layer-memory-system",
+    "stars": 2,
+    "updated_at": "2026-07-20T14:42:03Z",
+    "url": "https://github.com/juventini10/Five-layer-memory-system"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -40,27 +130,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27392,
+    "stars": 27395,
     "updated_at": "2026-07-20T14:40:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T14:39:50Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-20T14:36:41Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -70,15 +142,6 @@
     "stars": 312,
     "updated_at": "2026-07-20T14:36:01Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 1,
-    "updated_at": "2026-07-20T14:34:49Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Open-source LangGraph agent framework and runtime for long-running AI agents. Build a ReAct loop with memory, context co",
@@ -95,7 +158,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 15,
-    "updated_at": "2026-07-20T14:35:30Z",
+    "updated_at": "2026-07-20T14:49:30Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -189,15 +252,6 @@
     "url": "https://github.com/amajorai/ryu"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-20T14:36:05Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and",
     "id": "sheawinkler/ContextLattice",
     "language": "Go",
@@ -214,24 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T14:05:53Z",
     "url": "https://github.com/Dvine6263/wigolo"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 4,
-    "updated_at": "2026-07-20T14:39:03Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
-    "id": "moolamai/Sutra",
-    "language": "TypeScript",
-    "name": "moolamai/Sutra",
-    "stars": 5,
-    "updated_at": "2026-07-20T14:03:23Z",
-    "url": "https://github.com/moolamai/Sutra"
   },
   {
     "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
@@ -365,7 +401,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 9,
-    "updated_at": "2026-07-20T13:31:54Z",
+    "updated_at": "2026-07-20T14:59:46Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 48,
     "updated_at": "2026-07-20T13:21:23Z",
     "url": "https://github.com/clawboo/clawboo"
-  },
-  {
-    "description": "The open, model-agnostic platform to build your own AI agent and run it everywhere \u2014 self-hosted, safe by default.",
-    "id": "ownware-ai/ownware",
-    "language": "TypeScript",
-    "name": "ownware-ai/ownware",
-    "stars": 5,
-    "updated_at": "2026-07-20T13:19:48Z",
-    "url": "https://github.com/ownware-ai/ownware"
-  },
-  {
-    "description": "A provider-neutral execution kernel for strong-model, thin-harness agents.",
-    "id": "kestiny18/Noval",
-    "language": "Python",
-    "name": "kestiny18/Noval",
-    "stars": 0,
-    "updated_at": "2026-07-20T13:16:10Z",
-    "url": "https://github.com/kestiny18/Noval"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-20T13:09:06Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-20T13:08:59Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   }
 ]
