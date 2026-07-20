@@ -1,5 +1,104 @@
 [
   {
+    "description": "A lightweight project planning framework for agentic workflows - A standalone / optionally-installable module in my Hori",
+    "id": "HorizonBrute/HorizonBrute-Horizon_Lightweight_Agentic_Project_Plans_LAPP",
+    "language": "Python",
+    "name": "HorizonBrute/HorizonBrute-Horizon_Lightweight_Agentic_Project_Plans_LAPP",
+    "stars": 0,
+    "updated_at": "2026-07-20T21:45:10Z",
+    "url": "https://github.com/HorizonBrute/HorizonBrute-Horizon_Lightweight_Agentic_Project_Plans_LAPP"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-20T21:43:45Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 15,
+    "updated_at": "2026-07-20T21:42:14Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-20T21:41:41Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
+    "id": "tylerjrbuell/reactive-agents-ts",
+    "language": "TypeScript",
+    "name": "tylerjrbuell/reactive-agents-ts",
+    "stars": 16,
+    "updated_at": "2026-07-20T21:40:24Z",
+    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7547,
+    "updated_at": "2026-07-20T21:40:46Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-20T21:35:25Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-07-20T21:34:45Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
+    "id": "rogerchappel/crewcmd",
+    "language": "TypeScript",
+    "name": "rogerchappel/crewcmd",
+    "stars": 2,
+    "updated_at": "2026-07-20T21:33:42Z",
+    "url": "https://github.com/rogerchappel/crewcmd"
+  },
+  {
+    "description": "Framework-agnostic orchestration layer for AI agents: circuit breakers, multi-LLM council, workflow FSM, sweeps. Compani",
+    "id": "Coding-Dev-Tools/agentic-system",
+    "language": "Python",
+    "name": "Coding-Dev-Tools/agentic-system",
+    "stars": 2,
+    "updated_at": "2026-07-20T21:33:07Z",
+    "url": "https://github.com/Coding-Dev-Tools/agentic-system"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-20T21:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
     "id": "rameswaran-mohan/project-systemu",
     "language": "Python",
@@ -36,21 +135,12 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T21:15:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
     "id": "Eliyce/paqad-ai",
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 7,
-    "updated_at": "2026-07-20T21:30:12Z",
+    "updated_at": "2026-07-20T21:39:33Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -104,17 +194,8 @@
     "language": "Go",
     "name": "OrlojHQ/orloj",
     "stars": 109,
-    "updated_at": "2026-07-20T21:04:37Z",
+    "updated_at": "2026-07-20T21:40:43Z",
     "url": "https://github.com/OrlojHQ/orloj"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-20T21:03:58Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -135,30 +216,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7547,
-    "updated_at": "2026-07-20T21:28:19Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Framework-agnostic orchestration layer for AI agents: circuit breakers, multi-LLM council, workflow FSM, sweeps. Compani",
-    "id": "Coding-Dev-Tools/agentic-system",
-    "language": "Python",
-    "name": "Coding-Dev-Tools/agentic-system",
-    "stars": 2,
-    "updated_at": "2026-07-20T20:54:58Z",
-    "url": "https://github.com/Coding-Dev-Tools/agentic-system"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 4,
-    "updated_at": "2026-07-20T21:21:55Z",
+    "updated_at": "2026-07-20T21:44:43Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -176,7 +239,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 116,
-    "updated_at": "2026-07-20T20:52:20Z",
+    "updated_at": "2026-07-20T21:45:19Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -216,24 +279,6 @@
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-20T20:40:13Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
-    "id": "rogerchappel/crewcmd",
-    "language": "TypeScript",
-    "name": "rogerchappel/crewcmd",
-    "stars": 2,
-    "updated_at": "2026-07-20T21:18:25Z",
-    "url": "https://github.com/rogerchappel/crewcmd"
-  },
-  {
     "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
     "id": "AndersonBY/vv-agent",
     "language": "Python",
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12251,
-    "updated_at": "2026-07-20T21:14:41Z",
+    "updated_at": "2026-07-20T21:38:40Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 491,
-    "updated_at": "2026-07-20T21:30:18Z",
+    "updated_at": "2026-07-20T21:41:32Z",
     "url": "https://github.com/cordum-io/cordum"
   },
   {
@@ -322,24 +367,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T20:19:25Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "A lightweight project planning framework for agentic workflows - A standalone / optionally-installable module in my Hori",
-    "id": "HorizonBrute/HorizonBrute-Horizon_Lightweight_Agentic_Project_Plans_LAPP",
-    "language": "Python",
-    "name": "HorizonBrute/HorizonBrute-Horizon_Lightweight_Agentic_Project_Plans_LAPP",
-    "stars": 0,
-    "updated_at": "2026-07-20T20:15:04Z",
-    "url": "https://github.com/HorizonBrute/HorizonBrute-Horizon_Lightweight_Agentic_Project_Plans_LAPP"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-20T20:14:09Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Network of personal AI agents collaborating over a real work chat (Zulip). An overlay on the Ouroboros agent framework.",
@@ -392,17 +419,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-20T20:07:13Z",
+    "updated_at": "2026-07-20T21:38:09Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-07-20T21:27:02Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
     "description": "Agent-native, governed AI runtime for Rust, Python, and TypeScript \u2014 native providers, MCP, tools, routing, memory, budg",
@@ -412,15 +430,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T19:46:13Z",
     "url": "https://github.com/matakartal/aikit-runtime"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 15,
-    "updated_at": "2026-07-20T21:29:11Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-20T20:31:02Z",
     "url": "https://github.com/loopedautomation/meet"
-  },
-  {
-    "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
-    "id": "Rahulsanecdote/Forge",
-    "language": "TypeScript",
-    "name": "Rahulsanecdote/Forge",
-    "stars": 1,
-    "updated_at": "2026-07-20T19:26:51Z",
-    "url": "https://github.com/Rahulsanecdote/Forge"
   }
 ]
