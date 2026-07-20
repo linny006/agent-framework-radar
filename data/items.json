@@ -1,5 +1,86 @@
 [
   {
+    "description": "Production-grade AgentOps control plane for safe AI agent execution. Dual-plane architecture: Rust governance engine + P",
+    "id": "sattyamjjain/ferrumdeck",
+    "language": "TypeScript",
+    "name": "sattyamjjain/ferrumdeck",
+    "stars": 6,
+    "updated_at": "2026-07-20T08:14:40Z",
+    "url": "https://github.com/sattyamjjain/ferrumdeck"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-07-20T08:14:02Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "Governed multi-agent orchestration: Contract \u00b7 Artifact \u00b7 Scope \u00b7 Authority. Agents exchange artifacts, not chat transcr",
+    "id": "surmusz/casa-frame",
+    "language": "Python",
+    "name": "surmusz/casa-frame",
+    "stars": 2,
+    "updated_at": "2026-07-20T08:12:25Z",
+    "url": "https://github.com/surmusz/casa-frame"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 9,
+    "updated_at": "2026-07-20T08:05:43Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
+    "id": "rogerchappel/crewcmd",
+    "language": "TypeScript",
+    "name": "rogerchappel/crewcmd",
+    "stars": 2,
+    "updated_at": "2026-07-20T08:13:14Z",
+    "url": "https://github.com/rogerchappel/crewcmd"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7521,
+    "updated_at": "2026-07-20T08:13:53Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
+    "id": "amajorai/ryu",
+    "language": "HTML",
+    "name": "amajorai/ryu",
+    "stars": 36,
+    "updated_at": "2026-07-20T08:02:04Z",
+    "url": "https://github.com/amajorai/ryu"
+  },
+  {
+    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
+    "id": "rapidaai/voice-ai",
+    "language": "Go",
+    "name": "rapidaai/voice-ai",
+    "stars": 697,
+    "updated_at": "2026-07-20T08:00:28Z",
+    "url": "https://github.com/rapidaai/voice-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-20T08:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other ",
     "id": "zuoxu3310/AGENTOS",
     "language": "Python",
@@ -7,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-07-20T07:59:58Z",
     "url": "https://github.com/zuoxu3310/AGENTOS"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18664,
+    "updated_at": "2026-07-20T07:59:58Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
@@ -22,8 +112,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27363,
-    "updated_at": "2026-07-20T07:58:09Z",
+    "stars": 27364,
+    "updated_at": "2026-07-20T08:02:24Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -43,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T07:55:15Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
-    "id": "amajorai/ryu",
-    "language": "HTML",
-    "name": "amajorai/ryu",
-    "stars": 36,
-    "updated_at": "2026-07-20T07:55:06Z",
-    "url": "https://github.com/amajorai/ryu"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -90,15 +171,6 @@
     "url": "https://github.com/chordgnatsilo/jcode-Rust-Agent-Framework-2026"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-20T07:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
     "id": "maref-org/maref",
     "language": "Python",
@@ -106,15 +178,6 @@
     "stars": 7,
     "updated_at": "2026-07-20T07:53:46Z",
     "url": "https://github.com/maref-org/maref"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7521,
-    "updated_at": "2026-07-20T07:41:25Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": " Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution.",
@@ -144,24 +207,6 @@
     "url": "https://github.com/huangjia2019/agent-design-patterns"
   },
   {
-    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
-    "id": "rogerchappel/crewcmd",
-    "language": "TypeScript",
-    "name": "rogerchappel/crewcmd",
-    "stars": 2,
-    "updated_at": "2026-07-20T07:53:09Z",
-    "url": "https://github.com/rogerchappel/crewcmd"
-  },
-  {
-    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 3,
-    "updated_at": "2026-07-20T07:32:54Z",
-    "url": "https://github.com/hara-cli/hara"
-  },
-  {
     "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
@@ -189,15 +234,6 @@
     "url": "https://github.com/opencue/cuecards"
   },
   {
-    "description": "Governed multi-agent orchestration: Contract \u00b7 Artifact \u00b7 Scope \u00b7 Authority. Agents exchange artifacts, not chat transcr",
-    "id": "surmusz/casa-frame",
-    "language": "Python",
-    "name": "surmusz/casa-frame",
-    "stars": 2,
-    "updated_at": "2026-07-20T07:29:00Z",
-    "url": "https://github.com/surmusz/casa-frame"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -214,24 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T07:21:51Z",
     "url": "https://github.com/W117C/DeepseekNova"
-  },
-  {
-    "description": "Production-grade AgentOps control plane for safe AI agent execution. Dual-plane architecture: Rust governance engine + P",
-    "id": "sattyamjjain/ferrumdeck",
-    "language": "TypeScript",
-    "name": "sattyamjjain/ferrumdeck",
-    "stars": 6,
-    "updated_at": "2026-07-20T07:17:25Z",
-    "url": "https://github.com/sattyamjjain/ferrumdeck"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18662,
-    "updated_at": "2026-07-20T07:59:58Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "A Python toolkit for building citation-faithful Q&A agents over a knowledge corpus.",
@@ -410,7 +428,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 17,
-    "updated_at": "2026-07-20T07:51:59Z",
+    "updated_at": "2026-07-20T08:08:52Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 41786,
     "updated_at": "2026-07-20T06:10:00Z",
     "url": "https://github.com/666ghj/BettaFish"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-20T06:07:07Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 2,
-    "updated_at": "2026-07-20T06:00:38Z",
-    "url": "https://github.com/crewhaus/factory"
   }
 ]
