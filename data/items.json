@@ -1,5 +1,104 @@
 [
   {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-07-20T09:28:37Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18666,
+    "updated_at": "2026-07-20T09:24:26Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "A self-describing agent kernel in which agents are programs that write programs.",
+    "id": "danieldietrich/flatmap-website",
+    "language": "HTML",
+    "name": "danieldietrich/flatmap-website",
+    "stars": 0,
+    "updated_at": "2026-07-20T09:22:54Z",
+    "url": "https://github.com/danieldietrich/flatmap-website"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6625,
+    "updated_at": "2026-07-20T09:20:19Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-20T09:19:37Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7521,
+    "updated_at": "2026-07-20T09:17:49Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Agent-Reach 2026 \u2013 One-click internet access for AI agents. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, Xi",
+    "id": "LordIntroduce79/Agent-Reach-Framework-2026",
+    "language": "Python",
+    "name": "LordIntroduce79/Agent-Reach-Framework-2026",
+    "stars": 1,
+    "updated_at": "2026-07-20T09:17:43Z",
+    "url": "https://github.com/LordIntroduce79/Agent-Reach-Framework-2026"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14613,
+    "updated_at": "2026-07-20T09:16:40Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "Phone local agent",
+    "id": "HaohanHe/Opedrgent",
+    "language": "Kotlin",
+    "name": "HaohanHe/Opedrgent",
+    "stars": 2,
+    "updated_at": "2026-07-20T09:16:13Z",
+    "url": "https://github.com/HaohanHe/Opedrgent"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 17,
+    "updated_at": "2026-07-20T09:16:00Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-20T09:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
     "id": "moolamai/Sutra",
     "language": "TypeScript",
@@ -7,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-07-20T09:10:37Z",
     "url": "https://github.com/moolamai/Sutra"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-20T09:08:50Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
@@ -43,24 +133,6 @@
     "stars": 36,
     "updated_at": "2026-07-20T09:07:48Z",
     "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18665,
-    "updated_at": "2026-07-20T09:06:37Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-20T09:15:10Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -104,17 +176,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 4,
-    "updated_at": "2026-07-20T09:11:04Z",
+    "updated_at": "2026-07-20T09:29:55Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-20T09:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
@@ -124,15 +187,6 @@
     "stars": 107,
     "updated_at": "2026-07-20T08:59:42Z",
     "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7521,
-    "updated_at": "2026-07-20T09:01:21Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A curated list of 90+ Web3 x AI tools, agent frameworks, protocols, and infrastructure",
@@ -171,15 +225,6 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6625,
-    "updated_at": "2026-07-20T08:50:18Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -211,7 +256,7 @@
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
-    "stars": 1564,
+    "stars": 1565,
     "updated_at": "2026-07-20T08:46:00Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "Dr-SoloDev/Lab-solocorp-os2.4",
     "stars": 1,
-    "updated_at": "2026-07-20T08:43:47Z",
+    "updated_at": "2026-07-20T09:30:00Z",
     "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 210,
-    "updated_at": "2026-07-20T08:24:23Z",
+    "updated_at": "2026-07-20T09:27:45Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -346,7 +391,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4782,
+    "stars": 4783,
     "updated_at": "2026-07-20T08:18:56Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -391,7 +436,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27372,
+    "stars": 27373,
     "updated_at": "2026-07-20T08:02:24Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -403,50 +448,5 @@
     "stars": 697,
     "updated_at": "2026-07-20T08:00:28Z",
     "url": "https://github.com/rapidaai/voice-ai"
-  },
-  {
-    "description": "A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other ",
-    "id": "zuoxu3310/AGENTOS",
-    "language": "Python",
-    "name": "zuoxu3310/AGENTOS",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:59:58Z",
-    "url": "https://github.com/zuoxu3310/AGENTOS"
-  },
-  {
-    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
-    "id": "lukeskytorep-bot/echo-claw",
-    "language": "\u2014",
-    "name": "lukeskytorep-bot/echo-claw",
-    "stars": 1,
-    "updated_at": "2026-07-20T07:59:17Z",
-    "url": "https://github.com/lukeskytorep-bot/echo-claw"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-20T07:55:15Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
-    "id": "the-long-ride/engram",
-    "language": "TypeScript",
-    "name": "the-long-ride/engram",
-    "stars": 5,
-    "updated_at": "2026-07-20T07:52:39Z",
-    "url": "https://github.com/the-long-ride/engram"
-  },
-  {
-    "description": "Agent-agnostic base image for putting any terminal AI coding agent (claude-code, pi, opencode...) on the network. Bolt o",
-    "id": "psyb0t/docker-aicodebox",
-    "language": "Python",
-    "name": "psyb0t/docker-aicodebox",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:49:10Z",
-    "url": "https://github.com/psyb0t/docker-aicodebox"
   }
 ]
