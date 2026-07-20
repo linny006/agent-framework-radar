@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4870,
+    "updated_at": "2026-07-20T23:27:04Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 10,
+    "updated_at": "2026-07-20T23:21:30Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-07-20T23:21:24Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 208,
+    "updated_at": "2026-07-20T23:20:58Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 0,
+    "updated_at": "2026-07-20T23:18:48Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "A provider-neutral execution kernel for strong-model, thin-harness agents.",
+    "id": "kestiny18/Noval",
+    "language": "Python",
+    "name": "kestiny18/Noval",
+    "stars": 0,
+    "updated_at": "2026-07-20T23:18:40Z",
+    "url": "https://github.com/kestiny18/Noval"
+  },
+  {
+    "description": "Framework-agnostic orchestration layer for AI agents: circuit breakers, multi-LLM council, workflow FSM, sweeps. Compani",
+    "id": "Coding-Dev-Tools/agentic-system",
+    "language": "Python",
+    "name": "Coding-Dev-Tools/agentic-system",
+    "stars": 2,
+    "updated_at": "2026-07-20T23:18:19Z",
+    "url": "https://github.com/Coding-Dev-Tools/agentic-system"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-20T23:18:18Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7551,
+    "updated_at": "2026-07-20T23:16:04Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-20T23:15:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Your Rails app is already an agent runtime \u2014 durable AI agents on Rails: exactly-once tool ledger, park-at-zero human-in",
     "id": "danielstpaul/silas",
     "language": "Ruby",
@@ -36,15 +126,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "Framework-agnostic orchestration layer for AI agents: circuit breakers, multi-LLM council, workflow FSM, sweeps. Compani",
-    "id": "Coding-Dev-Tools/agentic-system",
-    "language": "Python",
-    "name": "Coding-Dev-Tools/agentic-system",
-    "stars": 2,
-    "updated_at": "2026-07-20T23:08:55Z",
-    "url": "https://github.com/Coding-Dev-Tools/agentic-system"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -68,17 +149,8 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 20,
-    "updated_at": "2026-07-20T23:04:41Z",
+    "updated_at": "2026-07-20T23:26:06Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7551,
-    "updated_at": "2026-07-20T23:01:21Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Structured skill graph for LLM agents: routing, execution guidance, references, and reusable domain knowledge in JSON.",
@@ -90,15 +162,6 @@
     "url": "https://github.com/Dranser/Skills-Graph"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T23:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
@@ -106,15 +169,6 @@
     "stars": 116,
     "updated_at": "2026-07-20T23:00:20Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
-    "language": "TypeScript",
-    "name": "Qwixl/Atom",
-    "stars": 0,
-    "updated_at": "2026-07-20T23:11:02Z",
-    "url": "https://github.com/Qwixl/Atom"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -153,15 +207,6 @@
     "url": "https://github.com/Justin0504/Sovereign-OS"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 208,
-    "updated_at": "2026-07-20T22:54:16Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -198,21 +243,12 @@
     "url": "https://github.com/samuelralak/smith"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4870,
-    "updated_at": "2026-07-20T22:42:09Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 4,
-    "updated_at": "2026-07-20T22:44:12Z",
+    "updated_at": "2026-07-20T23:15:53Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -247,7 +283,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12253,
+    "stars": 12254,
     "updated_at": "2026-07-20T22:33:44Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -275,17 +311,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-20T23:00:41Z",
+    "updated_at": "2026-07-20T23:26:22Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-20T22:16:21Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
@@ -347,7 +374,7 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 491,
-    "updated_at": "2026-07-20T22:11:38Z",
+    "updated_at": "2026-07-20T23:16:28Z",
     "url": "https://github.com/cordum-io/cordum"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 11,
     "updated_at": "2026-07-20T20:52:43Z",
     "url": "https://github.com/bigbraingoldfish/lullabeast"
-  },
-  {
-    "description": "Integrated AI Sales Assistant PoC - Azure AI Foundry Agent Service + React + Terraform",
-    "id": "briandenicola/agentic-trading-desk-demo",
-    "language": "C#",
-    "name": "briandenicola/agentic-trading-desk-demo",
-    "stars": 0,
-    "updated_at": "2026-07-20T21:09:52Z",
-    "url": "https://github.com/briandenicola/agentic-trading-desk-demo"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6653,
-    "updated_at": "2026-07-20T20:50:41Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 4,
-    "updated_at": "2026-07-20T23:08:24Z",
-    "url": "https://github.com/sytone/botnexus"
   }
 ]
