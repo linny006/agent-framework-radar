@@ -1,12 +1,66 @@
 [
   {
-    "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
-    "id": "amajorai/ryu",
-    "language": "HTML",
-    "name": "amajorai/ryu",
-    "stars": 36,
-    "updated_at": "2026-07-20T16:29:46Z",
-    "url": "https://github.com/amajorai/ryu"
+    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
+    "id": "Alexli18/binex",
+    "language": "Python",
+    "name": "Alexli18/binex",
+    "stars": 62,
+    "updated_at": "2026-07-20T16:44:40Z",
+    "url": "https://github.com/Alexli18/binex"
+  },
+  {
+    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
+    "id": "AndersonBY/vv-agent",
+    "language": "Python",
+    "name": "AndersonBY/vv-agent",
+    "stars": 1,
+    "updated_at": "2026-07-20T16:44:12Z",
+    "url": "https://github.com/AndersonBY/vv-agent"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 116,
+    "updated_at": "2026-07-20T16:43:47Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-20T16:43:02Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Agent-native, governed AI runtime for Rust, Python, and TypeScript \u2014 native providers, MCP, tools, routing, memory, budg",
+    "id": "matakartal/aikit-runtime",
+    "language": "Rust",
+    "name": "matakartal/aikit-runtime",
+    "stars": 2,
+    "updated_at": "2026-07-20T16:44:10Z",
+    "url": "https://github.com/matakartal/aikit-runtime"
+  },
+  {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:45:24Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-07-20T16:38:10Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
     "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
@@ -14,8 +68,26 @@
     "language": "Python",
     "name": "pavanbadempet/AI-Healthcare-System",
     "stars": 36,
-    "updated_at": "2026-07-20T16:29:22Z",
+    "updated_at": "2026-07-20T16:35:30Z",
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-07-20T16:35:25Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Runnable Microsoft Agent Framework orchestration patterns (sequential, concurrent, group chat, handoff, magentic) wired ",
+    "id": "JayRHa/foundry-agent-patterns",
+    "language": "Python",
+    "name": "JayRHa/foundry-agent-patterns",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:33:26Z",
+    "url": "https://github.com/JayRHa/foundry-agent-patterns"
   },
   {
     "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
@@ -23,17 +95,35 @@
     "language": "TypeScript",
     "name": "tylerjrbuell/reactive-agents-ts",
     "stars": 16,
-    "updated_at": "2026-07-20T16:24:50Z",
+    "updated_at": "2026-07-20T16:32:19Z",
     "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
   },
   {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
     "language": "Python",
-    "name": "SourceShift/mini-ork",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-20T16:30:29Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
     "stars": 2,
-    "updated_at": "2026-07-20T16:24:09Z",
-    "url": "https://github.com/SourceShift/mini-ork"
+    "updated_at": "2026-07-20T16:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
+    "id": "amajorai/ryu",
+    "language": "HTML",
+    "name": "amajorai/ryu",
+    "stars": 36,
+    "updated_at": "2026-07-20T16:36:26Z",
+    "url": "https://github.com/amajorai/ryu"
   },
   {
     "description": "DeepFlow \u2014 \u591a Agent \u7ba1\u7ebf\u6846\u67b6\uff1aSpec\u2192Solution\u2192Ship\u2192Deliver \u56db\u57df\u534f\u4f5c + Research Pro \u72ec\u7acb\u7814\u7a76\u5f15\u64ce\uff0c\u8fd0\u884c\u5728 OpenClaw \u4e4b\u4e0a",
@@ -45,15 +135,6 @@
     "url": "https://github.com/hustfreefly/deepflow"
   },
   {
-    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
-    "id": "Alexli18/binex",
-    "language": "Python",
-    "name": "Alexli18/binex",
-    "stars": 62,
-    "updated_at": "2026-07-20T16:25:07Z",
-    "url": "https://github.com/Alexli18/binex"
-  },
-  {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
     "id": "roackb2/heddle",
     "language": "TypeScript",
@@ -61,15 +142,6 @@
     "stars": 17,
     "updated_at": "2026-07-20T16:21:41Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-07-20T16:22:39Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -88,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T16:18:24Z",
     "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T16:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -187,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T15:57:32Z",
     "url": "https://github.com/nihalashetty/Forge"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-20T15:56:50Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "12-Agent Personalized Learning System \u00b7 1154 Tests \u00b7 5-Layer Architecture \u00b7 Competition-Ready \u00b7 v7.1.0",
@@ -333,15 +387,6 @@
     "url": "https://github.com/eigent-ai/eigent"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 116,
-    "updated_at": "2026-07-20T15:38:48Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "Insajin/autopus-adk",
     "language": "Go",
@@ -369,21 +414,12 @@
     "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-20T16:25:37Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
     "id": "jaylfc/taOS",
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 442,
-    "updated_at": "2026-07-20T16:26:33Z",
+    "updated_at": "2026-07-20T16:38:04Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-20T15:25:56Z",
     "url": "https://github.com/danqing-ai/danqing-teams"
-  },
-  {
-    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
-    "id": "tsingxuanhan/NexusFlow",
-    "language": "Python",
-    "name": "tsingxuanhan/NexusFlow",
-    "stars": 0,
-    "updated_at": "2026-07-20T15:21:22Z",
-    "url": "https://github.com/tsingxuanhan/NexusFlow"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-20T15:20:52Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Five-Layer Memory System v4.0.0 - A universal memory skill for AI agents",
-    "id": "juventini10/Five-layer-memory-system",
-    "language": "Python",
-    "name": "juventini10/Five-layer-memory-system",
-    "stars": 2,
-    "updated_at": "2026-07-20T15:19:35Z",
-    "url": "https://github.com/juventini10/Five-layer-memory-system"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-07-20T15:15:20Z",
-    "url": "https://github.com/MariusYvard/corparius"
   }
 ]
