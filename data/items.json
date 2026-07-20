@@ -5,17 +5,35 @@
     "language": "Rust",
     "name": "SmooAI/smooth-operator",
     "stars": 1,
-    "updated_at": "2026-07-20T04:14:21Z",
+    "updated_at": "2026-07-20T04:30:10Z",
     "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
+    "description": "\ud83c\udfc6 Curated, ranked list of AI agent harnesses (100+) \u2014 plus an MCP server, llms.txt & JSON so agents can recommend them t",
+    "id": "RyanAlberts/best-of-Agent-Harnesses",
     "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 312,
-    "updated_at": "2026-07-20T04:11:42Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
+    "name": "RyanAlberts/best-of-Agent-Harnesses",
+    "stars": 345,
+    "updated_at": "2026-07-20T04:28:41Z",
+    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-07-20T04:26:45Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 188,
+    "updated_at": "2026-07-20T04:21:33Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
@@ -23,8 +41,44 @@
     "language": "TypeScript",
     "name": "Rahulsanecdote/Forge",
     "stars": 1,
-    "updated_at": "2026-07-20T04:09:15Z",
+    "updated_at": "2026-07-20T04:20:49Z",
     "url": "https://github.com/Rahulsanecdote/Forge"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-20T04:17:58Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 312,
+    "updated_at": "2026-07-20T04:17:54Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-20T04:17:23Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-20T04:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
@@ -63,6 +117,15 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
+    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 331,
+    "updated_at": "2026-07-20T04:04:12Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
     "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
     "id": "moolamai/Sutra",
     "language": "TypeScript",
@@ -79,24 +142,6 @@
     "stars": 205,
     "updated_at": "2026-07-20T04:02:54Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 188,
-    "updated_at": "2026-07-20T04:02:36Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-20T04:01:36Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 72,
-    "updated_at": "2026-07-20T03:56:56Z",
+    "updated_at": "2026-07-20T04:19:26Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -230,7 +275,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6620,
-    "updated_at": "2026-07-20T03:09:22Z",
+    "updated_at": "2026-07-20T04:22:39Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -286,15 +331,6 @@
     "stars": 16,
     "updated_at": "2026-07-20T03:01:35Z",
     "url": "https://github.com/sweatco/archie-hq"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-20T04:12:53Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "\u9762\u5411 OA\u3001ERP\u3001CRM\u3001\u5de5\u5355\u7b49\u4f01\u4e1a\u7cfb\u7edf\u5feb\u901f\u6784\u5efa\u667a\u80fd\u4f53\uff0c\u8ba9 AI \u5728\u6743\u9650\u3001\u5ba1\u8ba1\u4e0e\u6cbb\u7406\u7ea6\u675f\u4e0b\u5b89\u5168\u8c03\u7528\u771f\u5b9e\u4e1a\u52a1\u80fd\u529b\u3002Build agents quickly for enterprise systems such as OA, ERP, CR",
@@ -369,15 +405,6 @@
     "url": "https://github.com/al2m4n/TheYgent"
   },
   {
-    "description": "\ud83c\udfc6 Curated, ranked list of AI agent harnesses (100+) \u2014 plus an MCP server, llms.txt & JSON so agents can recommend them t",
-    "id": "RyanAlberts/best-of-Agent-Harnesses",
-    "language": "Python",
-    "name": "RyanAlberts/best-of-Agent-Harnesses",
-    "stars": 345,
-    "updated_at": "2026-07-20T03:20:40Z",
-    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
-  },
-  {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-20T02:27:05Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27340,
-    "updated_at": "2026-07-20T02:23:14Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": " AI Code Governance",
-    "id": "ZhangHalfGod/Agents-Skill-Site",
-    "language": "JavaScript",
-    "name": "ZhangHalfGod/Agents-Skill-Site",
-    "stars": 0,
-    "updated_at": "2026-07-20T02:12:56Z",
-    "url": "https://github.com/ZhangHalfGod/Agents-Skill-Site"
-  },
-  {
-    "description": "SDK de c\u00f3digo abierto en Python para el patr\u00f3n Backend for Agents (BFA), extendido como un servidor de enrutamiento din\u00e1",
-    "id": "SandroG1977/bfa-sdk",
-    "language": "Python",
-    "name": "SandroG1977/bfa-sdk",
-    "stars": 1,
-    "updated_at": "2026-07-20T01:50:20Z",
-    "url": "https://github.com/SandroG1977/bfa-sdk"
   }
 ]
