@@ -1,5 +1,77 @@
 [
   {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-07-20T17:29:36Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 245,
+    "updated_at": "2026-07-20T17:28:17Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 577,
+    "updated_at": "2026-07-20T17:26:45Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-07-20T17:22:52Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
+    "id": "amajorai/ryu",
+    "language": "HTML",
+    "name": "amajorai/ryu",
+    "stars": 36,
+    "updated_at": "2026-07-20T17:17:32Z",
+    "url": "https://github.com/amajorai/ryu"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-20T17:16:00Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-20T17:15:59Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-20T17:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Your messenger for AI agents. Self-hosted chat PWA with push, QR pairing, and pluggable agent-framework connectors. MIT.",
     "id": "cloudsignal/raccoon",
     "language": "TypeScript",
@@ -18,21 +90,12 @@
     "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
-    "description": "Open-source, self-hosted platform to visually build, test, and ship AI agents & workflows. Built on LangChain v1 + LangG",
-    "id": "nihalashetty/Forge",
-    "language": "Python",
-    "name": "nihalashetty/Forge",
-    "stars": 0,
-    "updated_at": "2026-07-20T17:12:39Z",
-    "url": "https://github.com/nihalashetty/Forge"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 4,
-    "updated_at": "2026-07-20T17:12:34Z",
+    "updated_at": "2026-07-20T17:25:15Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T17:00:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agent-native, governed AI runtime for Rust, Python, and TypeScript \u2014 native providers, MCP, tools, routing, memory, budg",
     "id": "matakartal/aikit-runtime",
     "language": "Rust",
@@ -79,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T16:58:59Z",
     "url": "https://github.com/matakartal/aikit-runtime"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 577,
-    "updated_at": "2026-07-20T16:59:14Z",
-    "url": "https://github.com/aeonfun/aeon"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -113,7 +158,7 @@
     "language": "TypeScript",
     "name": "Qwixl/Atom",
     "stars": 0,
-    "updated_at": "2026-07-20T16:51:54Z",
+    "updated_at": "2026-07-20T17:30:44Z",
     "url": "https://github.com/Qwixl/Atom"
   },
   {
@@ -207,15 +252,6 @@
     "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
   },
   {
-    "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
-    "id": "amajorai/ryu",
-    "language": "HTML",
-    "name": "amajorai/ryu",
-    "stars": 36,
-    "updated_at": "2026-07-20T16:36:26Z",
-    "url": "https://github.com/amajorai/ryu"
-  },
-  {
     "description": "DeepFlow \u2014 \u591a Agent \u7ba1\u7ebf\u6846\u67b6\uff1aSpec\u2192Solution\u2192Ship\u2192Deliver \u56db\u57df\u534f\u4f5c + Research Pro \u72ec\u7acb\u7814\u7a76\u5f15\u64ce\uff0c\u8fd0\u884c\u5728 OpenClaw \u4e4b\u4e0a",
     "id": "hustfreefly/deepflow",
     "language": "Python",
@@ -277,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T16:06:36Z",
     "url": "https://github.com/sievepub-2000/octoagent"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 245,
-    "updated_at": "2026-07-20T16:02:16Z",
-    "url": "https://github.com/xuiltul/animaworks"
   },
   {
     "description": "\u5fae\u8206\uff1a\u4eba\u4eba\u53ef\u7528\u7684\u591aAgent\u8206\u60c5\u5206\u6790\u52a9\u624b\uff0c\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u8fd8\u539f\u8206\u60c5\u539f\u8c8c\uff0c\u9884\u6d4b\u672a\u6765\u8d70\u5411\uff0c\u8f85\u52a9\u51b3\u7b56\uff01\u4ece0\u5b9e\u73b0\uff0c\u4e0d\u4f9d\u8d56\u4efb\u4f55\u6846\u67b6\u3002",
@@ -365,7 +392,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 4,
-    "updated_at": "2026-07-20T17:02:58Z",
+    "updated_at": "2026-07-20T17:27:14Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -376,24 +403,6 @@
     "stars": 11,
     "updated_at": "2026-07-20T15:44:13Z",
     "url": "https://github.com/bigbraingoldfish/lullabeast"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-20T15:43:03Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-20T15:43:00Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Universal Agent Harness",
@@ -419,7 +428,7 @@
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
     "stars": 14615,
-    "updated_at": "2026-07-20T15:39:05Z",
+    "updated_at": "2026-07-20T17:25:47Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-20T15:57:04Z",
     "url": "https://github.com/moolamai/Sutra"
-  },
-  {
-    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
-    "id": "jiayan-xu/agent-core",
-    "language": "Rust",
-    "name": "jiayan-xu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-07-20T15:34:03Z",
-    "url": "https://github.com/jiayan-xu/agent-core"
   }
 ]
