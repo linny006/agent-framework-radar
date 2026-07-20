@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 312,
+    "updated_at": "2026-07-20T02:29:36Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
+    "id": "tylerjrbuell/reactive-agents-ts",
+    "language": "TypeScript",
+    "name": "tylerjrbuell/reactive-agents-ts",
+    "stars": 16,
+    "updated_at": "2026-07-20T02:28:23Z",
+    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-20T02:27:11Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-07-20T02:27:10Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-07-20T02:27:05Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-07-20T02:24:46Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-07-20T02:29:06Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
+    "id": "Rahulsanecdote/Forge",
+    "language": "TypeScript",
+    "name": "Rahulsanecdote/Forge",
+    "stars": 1,
+    "updated_at": "2026-07-20T02:23:22Z",
+    "url": "https://github.com/Rahulsanecdote/Forge"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27332,
+    "updated_at": "2026-07-20T02:23:14Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-20T02:29:17Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T02:20:07Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1562,
+    "updated_at": "2026-07-20T02:19:23Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-20T02:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": " AI Code Governance",
     "id": "ZhangHalfGod/Agents-Skill-Site",
     "language": "JavaScript",
@@ -9,49 +126,13 @@
     "url": "https://github.com/ZhangHalfGod/Agents-Skill-Site"
   },
   {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-07-20T02:12:51Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27330,
-    "updated_at": "2026-07-20T02:11:37Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T02:02:38Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-20T02:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-20T02:00:05Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
+    "name": "omnigent-ai/omnigent",
+    "stars": 7515,
+    "updated_at": "2026-07-20T02:04:22Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "hoonseokyoon/monoid-agent-kernel",
     "stars": 1,
-    "updated_at": "2026-07-20T01:49:04Z",
+    "updated_at": "2026-07-20T02:21:17Z",
     "url": "https://github.com/hoonseokyoon/monoid-agent-kernel"
   },
   {
@@ -162,15 +243,6 @@
     "url": "https://github.com/OgreScat/AgentGRIT"
   },
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-07-20T01:18:49Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
     "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
     "id": "OrlojHQ/orloj",
     "language": "Go",
@@ -207,24 +279,6 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-20T02:14:38Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
-    "id": "Rahulsanecdote/Forge",
-    "language": "TypeScript",
-    "name": "Rahulsanecdote/Forge",
-    "stars": 1,
-    "updated_at": "2026-07-20T01:05:49Z",
-    "url": "https://github.com/Rahulsanecdote/Forge"
-  },
-  {
     "description": "Agent-first business OS \u2014 CRM, ecommerce, comms, and autonomous AI agents. TypeScript monorepo, self-hostable (BYO Postg",
     "id": "simieco/simie",
     "language": "TypeScript",
@@ -250,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T01:00:07Z",
     "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
-  },
-  {
-    "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
-    "id": "tylerjrbuell/reactive-agents-ts",
-    "language": "TypeScript",
-    "name": "tylerjrbuell/reactive-agents-ts",
-    "stars": 16,
-    "updated_at": "2026-07-20T00:51:46Z",
-    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
   },
   {
     "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T23:59:50Z",
     "url": "https://github.com/cloudsignal/raccoon"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 2,
-    "updated_at": "2026-07-19T23:55:57Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 153,
-    "updated_at": "2026-07-19T23:55:12Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 153,
-    "updated_at": "2026-07-19T23:53:39Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 5,
-    "updated_at": "2026-07-19T23:52:41Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-07-19T23:52:04Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
   }
 ]
