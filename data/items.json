@@ -1,5 +1,113 @@
 [
   {
+    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
+    "id": "SmooAI/smooth-operator",
+    "language": "Rust",
+    "name": "SmooAI/smooth-operator",
+    "stars": 1,
+    "updated_at": "2026-07-20T13:28:48Z",
+    "url": "https://github.com/SmooAI/smooth-operator"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 4,
+    "updated_at": "2026-07-20T13:26:56Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 330,
+    "updated_at": "2026-07-20T13:26:35Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
+    "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
+    "id": "neural-agi/Qwen3-Coder-Next",
+    "language": "Python",
+    "name": "neural-agi/Qwen3-Coder-Next",
+    "stars": 1,
+    "updated_at": "2026-07-20T13:26:15Z",
+    "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-20T13:24:21Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1402,
+    "updated_at": "2026-07-20T13:20:57Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "El Primor v3.0.0 \u2014 Agente de excelencia para OpenCode. 9 fases, 7 skills, memoria TurboVec.",
+    "id": "fxMT-nx/el-primor",
+    "language": "Shell",
+    "name": "fxMT-nx/el-primor",
+    "stars": 0,
+    "updated_at": "2026-07-20T13:20:26Z",
+    "url": "https://github.com/fxMT-nx/el-primor"
+  },
+  {
+    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
+    "id": "clawboo/clawboo",
+    "language": "TypeScript",
+    "name": "clawboo/clawboo",
+    "stars": 48,
+    "updated_at": "2026-07-20T13:21:23Z",
+    "url": "https://github.com/clawboo/clawboo"
+  },
+  {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 0,
+    "updated_at": "2026-07-20T13:20:13Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-20T13:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 206,
+    "updated_at": "2026-07-20T13:15:20Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "The open, model-agnostic platform to build your own AI agent and run it everywhere \u2014 self-hosted, safe by default.",
+    "id": "ownware-ai/ownware",
+    "language": "TypeScript",
+    "name": "ownware-ai/ownware",
+    "stars": 5,
+    "updated_at": "2026-07-20T13:19:48Z",
+    "url": "https://github.com/ownware-ai/ownware"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -14,7 +122,7 @@
     "language": "Python",
     "name": "kestiny18/Noval",
     "stars": 0,
-    "updated_at": "2026-07-20T13:12:05Z",
+    "updated_at": "2026-07-20T13:16:10Z",
     "url": "https://github.com/kestiny18/Noval"
   },
   {
@@ -34,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T13:08:59Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
-    "id": "neural-agi/Qwen3-Coder-Next",
-    "language": "Python",
-    "name": "neural-agi/Qwen3-Coder-Next",
-    "stars": 1,
-    "updated_at": "2026-07-20T13:07:53Z",
-    "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
   },
   {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
@@ -86,7 +185,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18670,
-    "updated_at": "2026-07-20T13:12:26Z",
+    "updated_at": "2026-07-20T13:23:06Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -94,7 +193,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27391,
+    "stars": 27392,
     "updated_at": "2026-07-20T13:02:46Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -115,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T13:00:47Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T13:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent IQ - intent-driven multi-agent orchestration for Microsoft 365 Cowork and Copilot Chat. Bring your own agents (Lan",
@@ -162,15 +252,6 @@
     "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
   },
   {
-    "description": "The open, model-agnostic platform to build your own AI agent and run it everywhere \u2014 self-hosted, safe by default.",
-    "id": "ownware-ai/ownware",
-    "language": "TypeScript",
-    "name": "ownware-ai/ownware",
-    "stars": 5,
-    "updated_at": "2026-07-20T13:13:20Z",
-    "url": "https://github.com/ownware-ai/ownware"
-  },
-  {
     "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
     "id": "moolamai/Sutra",
     "language": "TypeScript",
@@ -180,24 +261,6 @@
     "url": "https://github.com/moolamai/Sutra"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-20T13:09:57Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 4,
-    "updated_at": "2026-07-20T13:05:05Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
     "id": "phenomenoner/agent-harness-core",
     "language": "Rust",
@@ -205,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T12:44:38Z",
     "url": "https://github.com/phenomenoner/agent-harness-core"
-  },
-  {
-    "description": "El Primor v3.0.0 \u2014 Agente de excelencia para OpenCode. 9 fases, 7 skills, memoria TurboVec.",
-    "id": "fxMT-nx/el-primor",
-    "language": "Shell",
-    "name": "fxMT-nx/el-primor",
-    "stars": 0,
-    "updated_at": "2026-07-20T12:44:36Z",
-    "url": "https://github.com/fxMT-nx/el-primor"
   },
   {
     "description": "12-Agent Personalized Learning System \u00b7 1154 Tests \u00b7 5-Layer Architecture \u00b7 Competition-Ready \u00b7 v7.1.0",
@@ -248,17 +302,8 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6649,
-    "updated_at": "2026-07-20T12:35:15Z",
+    "updated_at": "2026-07-20T13:29:53Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1402,
-    "updated_at": "2026-07-20T12:30:15Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
@@ -403,50 +448,5 @@
     "stars": 18,
     "updated_at": "2026-07-20T12:03:39Z",
     "url": "https://github.com/ahwurm/localharness"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 206,
-    "updated_at": "2026-07-20T12:00:07Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Exact input-bound approvals, policy-gated TypeScript tools, source-linked evidence, CLI workers, and governed web resear",
-    "id": "AjnasNB/maqam",
-    "language": "JavaScript",
-    "name": "AjnasNB/maqam",
-    "stars": 1,
-    "updated_at": "2026-07-20T12:13:05Z",
-    "url": "https://github.com/AjnasNB/maqam"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 312,
-    "updated_at": "2026-07-20T11:57:57Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Zero-dependency TypeScript SDK for AI agent governance: policy enforcement, injection detection, tamper-evident audit, a",
-    "id": "lua-ai-global/governance",
-    "language": "TypeScript",
-    "name": "lua-ai-global/governance",
-    "stars": 24,
-    "updated_at": "2026-07-20T11:56:23Z",
-    "url": "https://github.com/lua-ai-global/governance"
-  },
-  {
-    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
-    "id": "tsingxuanhan/NexusFlow",
-    "language": "Python",
-    "name": "tsingxuanhan/NexusFlow",
-    "stars": 0,
-    "updated_at": "2026-07-20T11:49:57Z",
-    "url": "https://github.com/tsingxuanhan/NexusFlow"
   }
 ]
