@@ -1,21 +1,84 @@
 [
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27328,
-    "updated_at": "2026-07-20T01:42:48Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
     "id": "kyashrathore/Claxedo",
     "language": "TypeScript",
     "name": "kyashrathore/Claxedo",
     "stars": 2,
-    "updated_at": "2026-07-20T01:40:52Z",
+    "updated_at": "2026-07-20T02:00:05Z",
     "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 205,
+    "updated_at": "2026-07-20T01:59:27Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 72,
+    "updated_at": "2026-07-20T01:55:57Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": " AI Code Governance",
+    "id": "ZhangHalfGod/Agents-Skill-Site",
+    "language": "JavaScript",
+    "name": "ZhangHalfGod/Agents-Skill-Site",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:51:33Z",
+    "url": "https://github.com/ZhangHalfGod/Agents-Skill-Site"
+  },
+  {
+    "description": "SDK de c\u00f3digo abierto en Python para el patr\u00f3n Backend for Agents (BFA), extendido como un servidor de enrutamiento din\u00e1",
+    "id": "SandroG1977/bfa-sdk",
+    "language": "Python",
+    "name": "SandroG1977/bfa-sdk",
+    "stars": 1,
+    "updated_at": "2026-07-20T01:50:20Z",
+    "url": "https://github.com/SandroG1977/bfa-sdk"
+  },
+  {
+    "description": "Embeddable agent kernel for durable, provider-neutral LLM agents with permissions, pluggable tools, observability, and s",
+    "id": "hoonseokyoon/monoid-agent-kernel",
+    "language": "Python",
+    "name": "hoonseokyoon/monoid-agent-kernel",
+    "stars": 1,
+    "updated_at": "2026-07-20T01:49:04Z",
+    "url": "https://github.com/hoonseokyoon/monoid-agent-kernel"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2194,
+    "updated_at": "2026-07-20T01:46:44Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-20T01:45:40Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27330,
+    "updated_at": "2026-07-20T01:42:48Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -32,7 +95,7 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 20,
-    "updated_at": "2026-07-20T01:31:22Z",
+    "updated_at": "2026-07-20T01:45:55Z",
     "url": "https://github.com/kh0pper/crow"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T01:31:00Z",
     "url": "https://github.com/prismal-ai/prismal"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-20T01:30:55Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -90,31 +144,13 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 72,
-    "updated_at": "2026-07-20T01:39:45Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 4,
-    "updated_at": "2026-07-20T01:43:55Z",
+    "updated_at": "2026-07-20T01:53:40Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 205,
-    "updated_at": "2026-07-20T01:23:14Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Governance-first AI agent runtime \u2014 cost-first routing to the cheapest capable model, self-enforced bylaws, a trust ladd",
@@ -216,15 +252,6 @@
     "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
   },
   {
-    "description": "SDK de c\u00f3digo abierto en Python para el patr\u00f3n Backend for Agents (BFA), extendido como un servidor de enrutamiento din\u00e1",
-    "id": "SandroG1977/bfa-sdk",
-    "language": "Python",
-    "name": "SandroG1977/bfa-sdk",
-    "stars": 1,
-    "updated_at": "2026-07-20T00:52:10Z",
-    "url": "https://github.com/SandroG1977/bfa-sdk"
-  },
-  {
     "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
     "id": "tylerjrbuell/reactive-agents-ts",
     "language": "TypeScript",
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "al2m4n/TheYgent",
     "stars": 0,
-    "updated_at": "2026-07-20T01:28:53Z",
+    "updated_at": "2026-07-20T01:52:25Z",
     "url": "https://github.com/al2m4n/TheYgent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-19T23:52:04Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:52:01Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A provider-neutral execution kernel for strong-model, thin-harness agents.",
-    "id": "kestiny18/Noval",
-    "language": "Python",
-    "name": "kestiny18/Noval",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:48:14Z",
-    "url": "https://github.com/kestiny18/Noval"
-  },
-  {
-    "description": "AI agent collaboration platform. General-purpose Work Agent with AI coding. Pure LLM-driven orchestration \u2014 no human-mai",
-    "id": "danqing-ai/danqing-teams",
-    "language": "Go",
-    "name": "danqing-ai/danqing-teams",
-    "stars": 3,
-    "updated_at": "2026-07-19T23:43:26Z",
-    "url": "https://github.com/danqing-ai/danqing-teams"
   }
 ]
