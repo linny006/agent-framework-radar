@@ -1,5 +1,122 @@
 [
   {
+    "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
+    "id": "moolamai/Sutra",
+    "language": "TypeScript",
+    "name": "moolamai/Sutra",
+    "stars": 5,
+    "updated_at": "2026-07-20T09:10:37Z",
+    "url": "https://github.com/moolamai/Sutra"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-07-20T09:08:50Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 3,
+    "updated_at": "2026-07-20T09:07:57Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 7,
+    "updated_at": "2026-07-20T09:09:55Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
+    "id": "amajorai/ryu",
+    "language": "HTML",
+    "name": "amajorai/ryu",
+    "stars": 36,
+    "updated_at": "2026-07-20T09:07:48Z",
+    "url": "https://github.com/amajorai/ryu"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18665,
+    "updated_at": "2026-07-20T09:06:37Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-20T09:15:10Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T09:05:13Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/cli",
+    "language": "TypeScript",
+    "name": "agents-inc/cli",
+    "stars": 5,
+    "updated_at": "2026-07-20T09:02:52Z",
+    "url": "https://github.com/agents-inc/cli"
+  },
+  {
+    "description": "Soul Compiler by Koji Limited (Hong Kong AI venture studio) \u2014 compiles character DNA for AI agents, not prompts.",
+    "id": "kojiltd/soul-compiler",
+    "language": "TypeScript",
+    "name": "kojiltd/soul-compiler",
+    "stars": 0,
+    "updated_at": "2026-07-20T09:02:08Z",
+    "url": "https://github.com/kojiltd/soul-compiler"
+  },
+  {
+    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4e3aOpenClaw\u5b9e\u4f8b\u63d0\u4f9b\u89c9\u9192\u6846\u67b6\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
+    "id": "yuanchuzi2026/silicon-garden",
+    "language": "HTML",
+    "name": "yuanchuzi2026/silicon-garden",
+    "stars": 1,
+    "updated_at": "2026-07-20T09:00:48Z",
+    "url": "https://github.com/yuanchuzi2026/silicon-garden"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 4,
+    "updated_at": "2026-07-20T09:11:04Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-20T09:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "Insajin/autopus-adk",
     "language": "Go",
@@ -14,7 +131,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7521,
-    "updated_at": "2026-07-20T08:58:27Z",
+    "updated_at": "2026-07-20T09:01:21Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -27,15 +144,6 @@
     "url": "https://github.com/edwardtay/awesome-web3-ai"
   },
   {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-20T08:54:16Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
     "description": "\u53ef\u5d4c\u5165 Python \u4ea7\u54c1\u7684 Agent Runtime\uff0c\u63d0\u4f9b\u5de5\u5177\u6267\u884c\u3001Skills\u3001\u8fd0\u884c\u4e8b\u4ef6\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u6301\u4e45\u5316 Checkpointer\u3002",
     "id": "Notryag/north-agent",
     "language": "Python",
@@ -43,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T08:53:55Z",
     "url": "https://github.com/Notryag/north-agent"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 4,
-    "updated_at": "2026-07-20T09:00:26Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Claude Code Templates 2026 \u2013 Production-ready AI workflows, subagents, skills, commands, and MCP servers for Claude Code",
@@ -63,13 +162,13 @@
     "url": "https://github.com/Dockdenchasm/Claude-Code-Templates-2026"
   },
   {
-    "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
-    "id": "amajorai/ryu",
-    "language": "HTML",
-    "name": "amajorai/ryu",
-    "stars": 36,
-    "updated_at": "2026-07-20T08:54:41Z",
-    "url": "https://github.com/amajorai/ryu"
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12238,
+    "updated_at": "2026-07-20T08:50:44Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
@@ -112,18 +211,9 @@
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
-    "stars": 1563,
+    "stars": 1564,
     "updated_at": "2026-07-20T08:46:00Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-20T08:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
@@ -153,15 +243,6 @@
     "url": "https://github.com/PieceInspection/wigolo-Local-Web-Intelligence-2026"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-20T08:59:46Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "\ud83e\udde0 Five-Layer Memory System v4.0.0 - A universal memory skill for AI agents",
     "id": "juventini10/Five-layer-memory-system",
     "language": "Python",
@@ -169,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T08:40:49Z",
     "url": "https://github.com/juventini10/Five-layer-memory-system"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12239,
-    "updated_at": "2026-07-20T08:50:44Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
@@ -223,24 +295,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T08:35:01Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T08:32:46Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
-    "id": "moolamai/Sutra",
-    "language": "TypeScript",
-    "name": "moolamai/Sutra",
-    "stars": 5,
-    "updated_at": "2026-07-20T08:32:23Z",
-    "url": "https://github.com/moolamai/Sutra"
   },
   {
     "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
@@ -324,6 +378,15 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
+    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 330,
+    "updated_at": "2026-07-20T08:04:24Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
@@ -349,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T07:59:58Z",
     "url": "https://github.com/zuoxu3310/AGENTOS"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18664,
-    "updated_at": "2026-07-20T08:59:51Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T07:49:10Z",
     "url": "https://github.com/psyb0t/docker-aicodebox"
-  },
-  {
-    "description": "jcode 2026 \u2013 Ultra-fast Rust coding agent framework. 28 MB RAM, Swarm multi-agent, semantic memory, 20+ providers. Setup",
-    "id": "chordgnatsilo/jcode-Rust-Agent-Framework-2026",
-    "language": "Python",
-    "name": "chordgnatsilo/jcode-Rust-Agent-Framework-2026",
-    "stars": 1,
-    "updated_at": "2026-07-20T07:48:01Z",
-    "url": "https://github.com/chordgnatsilo/jcode-Rust-Agent-Framework-2026"
-  },
-  {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 7,
-    "updated_at": "2026-07-20T07:53:46Z",
-    "url": "https://github.com/maref-org/maref"
-  },
-  {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 11,
-    "updated_at": "2026-07-20T07:37:36Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "A 7\u00d76 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified eng",
-    "id": "huangjia2019/agent-design-patterns",
-    "language": "HTML",
-    "name": "huangjia2019/agent-design-patterns",
-    "stars": 176,
-    "updated_at": "2026-07-20T07:37:20Z",
-    "url": "https://github.com/huangjia2019/agent-design-patterns"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14613,
-    "updated_at": "2026-07-20T07:31:40Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Agent Skills Collection 2026 \u2013 Curated library of 200+ AI agent skills for Claude, Gemini, Cursor, and Copilot. Setup.ex",
-    "id": "naturalcasterspot/Agent-Skills-Collection-2026",
-    "language": "Python",
-    "name": "naturalcasterspot/Agent-Skills-Collection-2026",
-    "stars": 1,
-    "updated_at": "2026-07-20T07:31:37Z",
-    "url": "https://github.com/naturalcasterspot/Agent-Skills-Collection-2026"
   }
 ]
