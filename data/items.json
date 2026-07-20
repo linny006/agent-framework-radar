@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-07-20T14:36:41Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 1,
+    "updated_at": "2026-07-20T14:34:49Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Open-source LangGraph agent framework and runtime for long-running AI agents. Build a ReAct loop with memory, context co",
+    "id": "KuiChi-x/graphloom",
+    "language": "Python",
+    "name": "KuiChi-x/graphloom",
+    "stars": 1,
+    "updated_at": "2026-07-20T14:32:36Z",
+    "url": "https://github.com/KuiChi-x/graphloom"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-07-20T14:32:20Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-20T14:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 15,
+    "updated_at": "2026-07-20T14:35:30Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 116,
+    "updated_at": "2026-07-20T14:29:39Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
     "id": "aeonfun/aeon",
     "language": "TypeScript",
@@ -16,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T14:25:55Z",
     "url": "https://github.com/Leisure-Auf1/A3-Multi-Agent-System"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 1,
-    "updated_at": "2026-07-20T14:25:51Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Composable agentic substrate (skills + MCP tools + harness + governance) running on a single laptop. 14 live business do",
@@ -54,15 +108,6 @@
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-20T14:19:35Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
     "description": "Open-source, self-hosted platform to visually build, test, and ship AI agents & workflows. Built on LangChain v1 + LangG",
     "id": "nihalashetty/Forge",
     "language": "Python",
@@ -90,15 +135,6 @@
     "url": "https://github.com/substructureai/substructure"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T14:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
     "id": "amajorai/ryu",
     "language": "HTML",
@@ -108,21 +144,12 @@
     "url": "https://github.com/amajorai/ryu"
   },
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-07-20T14:25:01Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-20T14:13:31Z",
+    "updated_at": "2026-07-20T14:36:05Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 4,
-    "updated_at": "2026-07-20T14:04:41Z",
+    "updated_at": "2026-07-20T14:39:03Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -184,7 +211,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7532,
+    "stars": 7533,
     "updated_at": "2026-07-20T14:00:23Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -306,15 +333,6 @@
     "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
   },
   {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 15,
-    "updated_at": "2026-07-20T14:29:49Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-20T13:04:53Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "UI interface for Kitaru - durable execution for AI agents, built on ZenML",
-    "id": "zenml-io/kitaru-ui",
-    "language": "TypeScript",
-    "name": "zenml-io/kitaru-ui",
-    "stars": 3,
-    "updated_at": "2026-07-20T13:03:49Z",
-    "url": "https://github.com/zenml-io/kitaru-ui"
-  },
-  {
-    "description": "Contextra is a high performance AI context engineering platform built in Rust for document ingestion, retrieval, embeddi",
-    "id": "soumyasurana/Contextra",
-    "language": "Rust",
-    "name": "soumyasurana/Contextra",
-    "stars": 1,
-    "updated_at": "2026-07-20T13:03:41Z",
-    "url": "https://github.com/soumyasurana/Contextra"
   }
 ]
