@@ -1,12 +1,84 @@
 [
   {
+    "description": " Workflow-first multi-agent orchestration for Ruby, built on RubyLLM.",
+    "id": "samuelralak/smith",
+    "language": "Ruby",
+    "name": "samuelralak/smith",
+    "stars": 1,
+    "updated_at": "2026-07-20T10:45:14Z",
+    "url": "https://github.com/samuelralak/smith"
+  },
+  {
+    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-07-20T10:44:42Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 4,
+    "updated_at": "2026-07-20T10:43:44Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 600,
+    "updated_at": "2026-07-20T10:38:50Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18667,
+    "updated_at": "2026-07-20T10:38:41Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
     "stars": 312,
-    "updated_at": "2026-07-20T10:29:26Z",
+    "updated_at": "2026-07-20T10:34:42Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7524,
+    "updated_at": "2026-07-20T10:32:32Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
+    "id": "moolamai/Sutra",
+    "language": "TypeScript",
+    "name": "moolamai/Sutra",
+    "stars": 5,
+    "updated_at": "2026-07-20T10:30:27Z",
+    "url": "https://github.com/moolamai/Sutra"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-20T10:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
@@ -45,24 +117,6 @@
     "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 4,
-    "updated_at": "2026-07-20T10:29:08Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-20T10:24:45Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
     "id": "Eliyce/paqad-ai",
     "language": "TypeScript",
@@ -79,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T10:23:16Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7524,
-    "updated_at": "2026-07-20T10:29:01Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 600,
-    "updated_at": "2026-07-20T10:21:11Z",
-    "url": "https://github.com/framerslab/agentos"
   },
   {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "ahmedhabibo/hermes-lite",
     "stars": 1,
-    "updated_at": "2026-07-20T10:09:28Z",
+    "updated_at": "2026-07-20T10:34:30Z",
     "url": "https://github.com/ahmedhabibo/hermes-lite"
   },
   {
@@ -324,15 +360,6 @@
     "url": "https://github.com/klarlabs-studio/nomi"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18666,
-    "updated_at": "2026-07-20T09:54:55Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
@@ -358,15 +385,6 @@
     "stars": 17,
     "updated_at": "2026-07-20T10:01:40Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
-    "id": "moolamai/Sutra",
-    "language": "TypeScript",
-    "name": "moolamai/Sutra",
-    "stars": 5,
-    "updated_at": "2026-07-20T09:10:37Z",
-    "url": "https://github.com/moolamai/Sutra"
   },
   {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-20T08:54:17Z",
     "url": "https://github.com/edwardtay/awesome-web3-ai"
-  },
-  {
-    "description": "\u53ef\u5d4c\u5165 Python \u4ea7\u54c1\u7684 Agent Runtime\uff0c\u63d0\u4f9b\u5de5\u5177\u6267\u884c\u3001Skills\u3001\u8fd0\u884c\u4e8b\u4ef6\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u6301\u4e45\u5316 Checkpointer\u3002",
-    "id": "Notryag/north-agent",
-    "language": "Python",
-    "name": "Notryag/north-agent",
-    "stars": 1,
-    "updated_at": "2026-07-20T08:53:55Z",
-    "url": "https://github.com/Notryag/north-agent"
-  },
-  {
-    "description": "Claude Code Templates 2026 \u2013 Production-ready AI workflows, subagents, skills, commands, and MCP servers for Claude Code",
-    "id": "Dockdenchasm/Claude-Code-Templates-2026",
-    "language": "Python",
-    "name": "Dockdenchasm/Claude-Code-Templates-2026",
-    "stars": 1,
-    "updated_at": "2026-07-20T08:53:14Z",
-    "url": "https://github.com/Dockdenchasm/Claude-Code-Templates-2026"
   }
 ]
