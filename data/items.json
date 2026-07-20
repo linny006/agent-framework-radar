@@ -1,11 +1,83 @@
 [
   {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-20T20:40:13Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
+    "id": "rogerchappel/crewcmd",
+    "language": "TypeScript",
+    "name": "rogerchappel/crewcmd",
+    "stars": 2,
+    "updated_at": "2026-07-20T20:39:35Z",
+    "url": "https://github.com/rogerchappel/crewcmd"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 4,
+    "updated_at": "2026-07-20T20:37:48Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
+    "id": "AndersonBY/vv-agent",
+    "language": "Python",
+    "name": "AndersonBY/vv-agent",
+    "stars": 1,
+    "updated_at": "2026-07-20T20:36:43Z",
+    "url": "https://github.com/AndersonBY/vv-agent"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12250,
+    "updated_at": "2026-07-20T20:34:52Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 3,
+    "updated_at": "2026-07-20T20:33:03Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7546,
+    "updated_at": "2026-07-20T20:30:55Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-20T20:30:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DSPy Go implementation",
     "id": "XiaoConstantine/dspy-go",
     "language": "Go",
     "name": "XiaoConstantine/dspy-go",
     "stars": 194,
-    "updated_at": "2026-07-20T20:29:52Z",
+    "updated_at": "2026-07-20T20:33:03Z",
     "url": "https://github.com/XiaoConstantine/dspy-go"
   },
   {
@@ -63,15 +135,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T20:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A lightweight project planning framework for agentic workflows - A standalone / optionally-installable module in my Hori",
     "id": "HorizonBrute/HorizonBrute-Horizon_Lightweight_Agentic_Project_Plans_LAPP",
     "language": "Python",
@@ -99,15 +162,6 @@
     "url": "https://github.com/yuriyom/agents-team"
   },
   {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 4,
-    "updated_at": "2026-07-20T20:11:16Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
@@ -124,15 +178,6 @@
     "stars": 577,
     "updated_at": "2026-07-20T20:06:15Z",
     "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7545,
-    "updated_at": "2026-07-20T20:13:49Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -203,7 +248,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 116,
-    "updated_at": "2026-07-20T19:47:58Z",
+    "updated_at": "2026-07-20T20:38:59Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 13,
-    "updated_at": "2026-07-20T20:12:16Z",
+    "updated_at": "2026-07-20T20:45:19Z",
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "Coding-Dev-Tools/agentic-system",
     "stars": 2,
-    "updated_at": "2026-07-20T19:37:53Z",
+    "updated_at": "2026-07-20T20:44:53Z",
     "url": "https://github.com/Coding-Dev-Tools/agentic-system"
   },
   {
@@ -293,7 +338,7 @@
     "language": "TypeScript",
     "name": "loopedautomation/meet",
     "stars": 3,
-    "updated_at": "2026-07-20T20:24:28Z",
+    "updated_at": "2026-07-20T20:31:02Z",
     "url": "https://github.com/loopedautomation/meet"
   },
   {
@@ -331,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T19:21:40Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-20T19:11:05Z",
-    "url": "https://github.com/brunogcar/agent"
   },
   {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
@@ -382,7 +418,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18676,
+    "stars": 18677,
     "updated_at": "2026-07-20T18:54:14Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -394,15 +430,6 @@
     "stars": 6653,
     "updated_at": "2026-07-20T18:50:45Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
-    "id": "AndersonBY/vv-agent",
-    "language": "Python",
-    "name": "AndersonBY/vv-agent",
-    "stars": 1,
-    "updated_at": "2026-07-20T18:47:05Z",
-    "url": "https://github.com/AndersonBY/vv-agent"
   },
   {
     "description": "Contextra is a high performance AI context engineering platform built in Rust for document ingestion, retrieval, embeddi",
@@ -421,32 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-20T18:37:45Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": " Workflow-first multi-agent orchestration for Ruby, built on RubyLLM.",
-    "id": "samuelralak/smith",
-    "language": "Ruby",
-    "name": "samuelralak/smith",
-    "stars": 1,
-    "updated_at": "2026-07-20T18:34:02Z",
-    "url": "https://github.com/samuelralak/smith"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12248,
-    "updated_at": "2026-07-20T20:27:51Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Kotlin-first framework for building Model Agnostic AI applications, RAG systems, and agentic workflows on Android and Ko",
-    "id": "MobileGraph/mobilegraph",
-    "language": "Kotlin",
-    "name": "MobileGraph/mobilegraph",
-    "stars": 1,
-    "updated_at": "2026-07-20T18:14:06Z",
-    "url": "https://github.com/MobileGraph/mobilegraph"
   }
 ]
