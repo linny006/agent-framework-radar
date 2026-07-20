@@ -1,12 +1,48 @@
 [
   {
-    "description": "Kotlin-first framework for building Model Agnostic AI applications, RAG systems, and agentic workflows on Android and Ko",
-    "id": "MobileGraph/mobilegraph",
-    "language": "Kotlin",
-    "name": "MobileGraph/mobilegraph",
-    "stars": 1,
-    "updated_at": "2026-07-20T18:14:06Z",
-    "url": "https://github.com/MobileGraph/mobilegraph"
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-20T18:18:15Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-07-20T18:17:54Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 7,
+    "updated_at": "2026-07-20T18:17:46Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6651,
+    "updated_at": "2026-07-20T18:15:41Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-20T18:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -18,12 +54,30 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
+    "description": "Kotlin-first framework for building Model Agnostic AI applications, RAG systems, and agentic workflows on Android and Ko",
+    "id": "MobileGraph/mobilegraph",
+    "language": "Kotlin",
+    "name": "MobileGraph/mobilegraph",
+    "stars": 1,
+    "updated_at": "2026-07-20T18:14:06Z",
+    "url": "https://github.com/MobileGraph/mobilegraph"
+  },
+  {
+    "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
+    "id": "zizetu/existential-identity-test-engine",
+    "language": "Python",
+    "name": "zizetu/existential-identity-test-engine",
+    "stars": 1,
+    "updated_at": "2026-07-20T18:14:00Z",
+    "url": "https://github.com/zizetu/existential-identity-test-engine"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12247,
-    "updated_at": "2026-07-20T18:12:31Z",
+    "updated_at": "2026-07-20T18:17:19Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -72,24 +126,6 @@
     "url": "https://github.com/Qwixl/Atom"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T18:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 7,
-    "updated_at": "2026-07-20T18:00:21Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -117,15 +153,6 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
-    "id": "zizetu/existential-identity-test-engine",
-    "language": "Python",
-    "name": "zizetu/existential-identity-test-engine",
-    "stars": 1,
-    "updated_at": "2026-07-20T18:14:00Z",
-    "url": "https://github.com/zizetu/existential-identity-test-engine"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -133,15 +160,6 @@
     "stars": 7541,
     "updated_at": "2026-07-20T17:56:43Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 6,
-    "updated_at": "2026-07-20T17:52:33Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -187,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T17:35:18Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6651,
-    "updated_at": "2026-07-20T17:34:26Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "White-box, task-centric multi-agent AI platform for business ops, sysadmin, research & office automation \u2014 every reasoni",
@@ -248,7 +257,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-20T17:22:52Z",
+    "updated_at": "2026-07-20T18:17:26Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -286,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T17:14:08Z",
     "url": "https://github.com/cloudsignal/raccoon"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-20T17:12:55Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -446,7 +446,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18675,
-    "updated_at": "2026-07-20T18:00:39Z",
+    "updated_at": "2026-07-20T18:15:47Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   }
 ]
