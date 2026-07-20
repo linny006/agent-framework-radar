@@ -1,5 +1,41 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-20T23:37:30Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7551,
+    "updated_at": "2026-07-20T23:37:14Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-07-20T23:35:31Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-20T23:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
@@ -72,24 +108,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7551,
-    "updated_at": "2026-07-20T23:16:04Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T23:15:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Your Rails app is already an agent runtime \u2014 durable AI agents on Rails: exactly-once tool ledger, park-at-zero human-in",
     "id": "danielstpaul/silas",
     "language": "Ruby",
@@ -142,15 +160,6 @@
     "stars": 7,
     "updated_at": "2026-07-20T23:07:26Z",
     "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-07-20T23:26:06Z",
-    "url": "https://github.com/kh0pper/crow"
   },
   {
     "description": "Structured skill graph for LLM agents: routing, execution guidance, references, and reusable domain knowledge in JSON.",
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-20T23:26:22Z",
+    "updated_at": "2026-07-20T23:37:20Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -374,17 +383,8 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 491,
-    "updated_at": "2026-07-20T23:16:28Z",
+    "updated_at": "2026-07-20T23:36:02Z",
     "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-20T21:46:27Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A lightweight project planning framework for agentic workflows - A standalone / optionally-installable module in my Hori",
