@@ -1,5 +1,86 @@
 [
   {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 11,
+    "updated_at": "2026-07-20T06:28:37Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 3,
+    "updated_at": "2026-07-20T06:23:02Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "OpenClaw 2026 \u2013 Personal AI Assistant that runs locally, connects to 50+ services, and writes new skills autonomously. S",
+    "id": "hertzchiefboost/OpenClaw-Personal-AI-Assistant-2026",
+    "language": "Python",
+    "name": "hertzchiefboost/OpenClaw-Personal-AI-Assistant-2026",
+    "stars": 1,
+    "updated_at": "2026-07-20T06:22:25Z",
+    "url": "https://github.com/hertzchiefboost/OpenClaw-Personal-AI-Assistant-2026"
+  },
+  {
+    "description": "\ud83e\udde0 Five-Layer Memory System v4.0.0 - A universal memory skill for AI agents",
+    "id": "juventini10/Five-layer-memory-system",
+    "language": "Python",
+    "name": "juventini10/Five-layer-memory-system",
+    "stars": 1,
+    "updated_at": "2026-07-20T06:20:18Z",
+    "url": "https://github.com/juventini10/Five-layer-memory-system"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27350,
+    "updated_at": "2026-07-20T06:19:50Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
+    "id": "rogerchappel/crewcmd",
+    "language": "TypeScript",
+    "name": "rogerchappel/crewcmd",
+    "stars": 2,
+    "updated_at": "2026-07-20T06:18:37Z",
+    "url": "https://github.com/rogerchappel/crewcmd"
+  },
+  {
+    "description": "A Python toolkit for building citation-faithful Q&A agents over a knowledge corpus.",
+    "id": "Construct-Lab/reigner",
+    "language": "Python",
+    "name": "Construct-Lab/reigner",
+    "stars": 3,
+    "updated_at": "2026-07-20T06:26:04Z",
+    "url": "https://github.com/Construct-Lab/reigner"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 153,
+    "updated_at": "2026-07-20T06:16:42Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-20T06:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -50,7 +131,7 @@
     "language": "TypeScript",
     "name": "sattyamjjain/ferrumdeck",
     "stars": 6,
-    "updated_at": "2026-07-20T06:10:29Z",
+    "updated_at": "2026-07-20T06:15:26Z",
     "url": "https://github.com/sattyamjjain/ferrumdeck"
   },
   {
@@ -126,15 +207,6 @@
     "url": "https://github.com/crewhaus/factory"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-20T06:00:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agent-native, governed AI runtime for Rust, Python, and TypeScript \u2014 native providers, MCP, tools, routing, memory, budg",
     "id": "matakartal/aikit-runtime",
     "language": "Rust",
@@ -142,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T06:00:06Z",
     "url": "https://github.com/matakartal/aikit-runtime"
-  },
-  {
-    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
-    "id": "rogerchappel/crewcmd",
-    "language": "TypeScript",
-    "name": "rogerchappel/crewcmd",
-    "stars": 2,
-    "updated_at": "2026-07-20T06:06:29Z",
-    "url": "https://github.com/rogerchappel/crewcmd"
   },
   {
     "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-20T06:10:18Z",
+    "updated_at": "2026-07-20T06:26:49Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -189,20 +252,11 @@
     "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
-    "description": "A Python toolkit for building citation-faithful Q&A agents over a knowledge corpus.",
-    "id": "Construct-Lab/reigner",
-    "language": "Python",
-    "name": "Construct-Lab/reigner",
-    "stars": 3,
-    "updated_at": "2026-07-20T06:15:19Z",
-    "url": "https://github.com/Construct-Lab/reigner"
-  },
-  {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6623,
+    "stars": 6624,
     "updated_at": "2026-07-20T05:38:37Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
@@ -277,24 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T05:09:20Z",
     "url": "https://github.com/A1m1ng777888/super-brain"
-  },
-  {
-    "description": "\ud83e\udde0 Five-Layer Memory System v4.0.0 - A universal memory skill for AI agents",
-    "id": "juventini10/Five-layer-memory-system",
-    "language": "Python",
-    "name": "juventini10/Five-layer-memory-system",
-    "stars": 1,
-    "updated_at": "2026-07-20T05:08:19Z",
-    "url": "https://github.com/juventini10/Five-layer-memory-system"
-  },
-  {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 11,
-    "updated_at": "2026-07-20T05:04:46Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
   },
   {
     "description": "Agent-first business OS \u2014 CRM, ecommerce, comms, and autonomous AI agents. TypeScript monorepo, self-hostable (BYO Postg",
@@ -387,15 +423,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27350,
-    "updated_at": "2026-07-20T04:31:06Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "\ud83c\udfc6 Curated, ranked list of AI agent harnesses (100+) \u2014 plus an MCP server, llms.txt & JSON so agents can recommend them t",
     "id": "RyanAlberts/best-of-Agent-Harnesses",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-20T04:20:49Z",
     "url": "https://github.com/Rahulsanecdote/Forge"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-20T04:17:58Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 312,
-    "updated_at": "2026-07-20T04:17:54Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
-    "id": "motojinc25/chatwalaau",
-    "language": "Python",
-    "name": "motojinc25/chatwalaau",
-    "stars": 2,
-    "updated_at": "2026-07-20T04:09:41Z",
-    "url": "https://github.com/motojinc25/chatwalaau"
   }
 ]
