@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-20 02:00 UTC
+> ⏰ Last updated: 2026-07-20 02:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kyashrathore/Claxedo](https://github.com/kyashrathore/Claxedo) | 2 | TypeScript | 2026-07-20 | Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products |
-| 2 | [cortexkit/aft](https://github.com/cortexkit/aft) | 205 | Rust | 2026-07-20 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 3 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 72 | TypeScript | 2026-07-20 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 4 | [ZhangHalfGod/Agents-Skill-Site](https://github.com/ZhangHalfGod/Agents-Skill-Site) | 0 | JavaScript | 2026-07-20 |  AI Code Governance |
-| 5 | [SandroG1977/bfa-sdk](https://github.com/SandroG1977/bfa-sdk) | 1 | Python | 2026-07-20 | SDK de código abierto en Python para el patrón Backend for Agents (BFA), extendido como un servidor de enrutamiento diná |
-| 6 | [hoonseokyoon/monoid-agent-kernel](https://github.com/hoonseokyoon/monoid-agent-kernel) | 1 | Python | 2026-07-20 | Embeddable agent kernel for durable, provider-neutral LLM agents with permissions, pluggable tools, observability, and s |
-| 7 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2194 | JavaScript | 2026-07-20 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-20 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 9 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 27330 | Go | 2026-07-20 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 10 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 75 | Python | 2026-07-20 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 11 | [kh0pper/crow](https://github.com/kh0pper/crow) | 20 | JavaScript | 2026-07-20 | Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude |
+| 1 | [ZhangHalfGod/Agents-Skill-Site](https://github.com/ZhangHalfGod/Agents-Skill-Site) | 0 | JavaScript | 2026-07-20 |  AI Code Governance |
+| 2 | [kh0pper/crow](https://github.com/kh0pper/crow) | 20 | JavaScript | 2026-07-20 | Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude |
+| 3 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 27330 | Go | 2026-07-20 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 4 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 75 | Python | 2026-07-20 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 5 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-20 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 6 | [kyashrathore/Claxedo](https://github.com/kyashrathore/Claxedo) | 2 | TypeScript | 2026-07-20 | Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products |
+| 7 | [cortexkit/aft](https://github.com/cortexkit/aft) | 205 | Rust | 2026-07-20 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 8 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 72 | TypeScript | 2026-07-20 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 9 | [SandroG1977/bfa-sdk](https://github.com/SandroG1977/bfa-sdk) | 1 | Python | 2026-07-20 | SDK de código abierto en Python para el patrón Backend for Agents (BFA), extendido como un servidor de enrutamiento diná |
+| 10 | [hoonseokyoon/monoid-agent-kernel](https://github.com/hoonseokyoon/monoid-agent-kernel) | 1 | Python | 2026-07-20 | Embeddable agent kernel for durable, provider-neutral LLM agents with permissions, pluggable tools, observability, and s |
+| 11 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2194 | JavaScript | 2026-07-20 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
 | 12 | [prismal-ai/prismal](https://github.com/prismal-ai/prismal) | 1 | Python | 2026-07-20 | Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable. |
 | 13 | [AgentsKit-io/agentskit](https://github.com/AgentsKit-io/agentskit) | 15 | TypeScript | 2026-07-20 | The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t |
 | 14 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-07-20 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
