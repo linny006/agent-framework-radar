@@ -1,12 +1,66 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-20T23:44:45Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 4,
+    "updated_at": "2026-07-20T23:43:27Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
+    "id": "ahwurm/localharness",
+    "language": "Python",
+    "name": "ahwurm/localharness",
+    "stars": 18,
+    "updated_at": "2026-07-20T23:43:12Z",
+    "url": "https://github.com/ahwurm/localharness"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-20T23:37:30Z",
+    "updated_at": "2026-07-20T23:43:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-20T23:38:54Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Framework-agnostic orchestration layer for AI agents: circuit breakers, multi-LLM council, workflow FSM, sweeps. Compani",
+    "id": "Coding-Dev-Tools/agentic-system",
+    "language": "Python",
+    "name": "Coding-Dev-Tools/agentic-system",
+    "stars": 2,
+    "updated_at": "2026-07-20T23:38:14Z",
+    "url": "https://github.com/Coding-Dev-Tools/agentic-system"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-20T23:38:04Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7551,
-    "updated_at": "2026-07-20T23:37:14Z",
+    "updated_at": "2026-07-20T23:41:35Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -25,15 +79,6 @@
     "stars": 20,
     "updated_at": "2026-07-20T23:35:31Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T23:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T23:18:40Z",
     "url": "https://github.com/kestiny18/Noval"
-  },
-  {
-    "description": "Framework-agnostic orchestration layer for AI agents: circuit breakers, multi-LLM council, workflow FSM, sweeps. Compani",
-    "id": "Coding-Dev-Tools/agentic-system",
-    "language": "Python",
-    "name": "Coding-Dev-Tools/agentic-system",
-    "stars": 2,
-    "updated_at": "2026-07-20T23:18:19Z",
-    "url": "https://github.com/Coding-Dev-Tools/agentic-system"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -225,15 +261,6 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-20T22:53:42Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -268,15 +295,6 @@
     "stars": 577,
     "updated_at": "2026-07-20T22:38:33Z",
     "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-20T22:36:13Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-20T23:37:20Z",
+    "updated_at": "2026-07-20T23:38:51Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-20T21:25:26Z",
     "url": "https://github.com/agents-inc/cli"
-  },
-  {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3862,
-    "updated_at": "2026-07-20T21:24:52Z",
-    "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
-    "id": "bigbraingoldfish/lullabeast",
-    "language": "Python",
-    "name": "bigbraingoldfish/lullabeast",
-    "stars": 11,
-    "updated_at": "2026-07-20T20:52:43Z",
-    "url": "https://github.com/bigbraingoldfish/lullabeast"
   }
 ]
