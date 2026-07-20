@@ -1,12 +1,120 @@
 [
   {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 7,
+    "updated_at": "2026-07-20T07:42:41Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": " Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution.",
+    "id": "longyijdos/kana",
+    "language": "TypeScript",
+    "name": "longyijdos/kana",
+    "stars": 1,
+    "updated_at": "2026-07-20T07:39:16Z",
+    "url": "https://github.com/longyijdos/kana"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7520,
+    "updated_at": "2026-07-20T07:41:25Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 11,
+    "updated_at": "2026-07-20T07:37:36Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "A 7\u00d76 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified eng",
+    "id": "huangjia2019/agent-design-patterns",
+    "language": "HTML",
+    "name": "huangjia2019/agent-design-patterns",
+    "stars": 173,
+    "updated_at": "2026-07-20T07:37:20Z",
+    "url": "https://github.com/huangjia2019/agent-design-patterns"
+  },
+  {
+    "description": "jcode 2026 \u2013 Ultra-fast Rust coding agent framework. 28 MB RAM, Swarm multi-agent, semantic memory, 20+ providers. Setup",
+    "id": "chordgnatsilo/jcode-Rust-Agent-Framework-2026",
+    "language": "\u2014",
+    "name": "chordgnatsilo/jcode-Rust-Agent-Framework-2026",
+    "stars": 1,
+    "updated_at": "2026-07-20T07:35:39Z",
+    "url": "https://github.com/chordgnatsilo/jcode-Rust-Agent-Framework-2026"
+  },
+  {
+    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
+    "id": "lukeskytorep-bot/echo-claw",
+    "language": "\u2014",
+    "name": "lukeskytorep-bot/echo-claw",
+    "stars": 1,
+    "updated_at": "2026-07-20T07:35:07Z",
+    "url": "https://github.com/lukeskytorep-bot/echo-claw"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27360,
+    "updated_at": "2026-07-20T07:32:45Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
+    "id": "rogerchappel/crewcmd",
+    "language": "TypeScript",
+    "name": "rogerchappel/crewcmd",
+    "stars": 2,
+    "updated_at": "2026-07-20T07:32:37Z",
+    "url": "https://github.com/rogerchappel/crewcmd"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-07-20T07:32:54Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14613,
+    "updated_at": "2026-07-20T07:31:40Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
     "description": "Agent Skills Collection 2026 \u2013 Curated library of 200+ AI agent skills for Claude, Gemini, Cursor, and Copilot. Setup.ex",
     "id": "naturalcasterspot/Agent-Skills-Collection-2026",
-    "language": "\u2014",
+    "language": "Python",
     "name": "naturalcasterspot/Agent-Skills-Collection-2026",
     "stars": 1,
-    "updated_at": "2026-07-20T07:30:01Z",
+    "updated_at": "2026-07-20T07:31:37Z",
     "url": "https://github.com/naturalcasterspot/Agent-Skills-Collection-2026"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-20T07:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -25,24 +133,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T07:29:00Z",
     "url": "https://github.com/surmusz/casa-frame"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-20T07:26:52Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
-    "id": "lukeskytorep-bot/echo-claw",
-    "language": "\u2014",
-    "name": "lukeskytorep-bot/echo-claw",
-    "stars": 1,
-    "updated_at": "2026-07-20T07:26:15Z",
-    "url": "https://github.com/lukeskytorep-bot/echo-claw"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -72,15 +162,6 @@
     "url": "https://github.com/W117C/DeepseekNova"
   },
   {
-    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
-    "id": "rogerchappel/crewcmd",
-    "language": "TypeScript",
-    "name": "rogerchappel/crewcmd",
-    "stars": 2,
-    "updated_at": "2026-07-20T07:26:58Z",
-    "url": "https://github.com/rogerchappel/crewcmd"
-  },
-  {
     "description": "Production-grade AgentOps control plane for safe AI agent execution. Dual-plane architecture: Rust governance engine + P",
     "id": "sattyamjjain/ferrumdeck",
     "language": "TypeScript",
@@ -88,6 +169,15 @@
     "stars": 6,
     "updated_at": "2026-07-20T07:17:25Z",
     "url": "https://github.com/sattyamjjain/ferrumdeck"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18662,
+    "updated_at": "2026-07-20T07:43:03Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "A Python toolkit for building citation-faithful Q&A agents over a knowledge corpus.",
@@ -153,15 +243,6 @@
     "url": "https://github.com/UploadBeetle/DeepSeek-TUI-2026"
   },
   {
-    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 3,
-    "updated_at": "2026-07-20T06:55:19Z",
-    "url": "https://github.com/hara-cli/hara"
-  },
-  {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
     "id": "Eliyce/paqad-ai",
     "language": "TypeScript",
@@ -187,24 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T06:50:46Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7520,
-    "updated_at": "2026-07-20T07:21:15Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": " Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution.",
-    "id": "longyijdos/kana",
-    "language": "TypeScript",
-    "name": "longyijdos/kana",
-    "stars": 1,
-    "updated_at": "2026-07-20T06:48:20Z",
-    "url": "https://github.com/longyijdos/kana"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -234,24 +297,6 @@
     "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
-    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cow",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14611,
-    "updated_at": "2026-07-20T06:36:11Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 11,
-    "updated_at": "2026-07-20T06:28:37Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
     "description": "OpenClaw 2026 \u2013 Personal AI Assistant that runs locally, connects to 50+ services, and writes new skills autonomously. S",
     "id": "hertzchiefboost/OpenClaw-Personal-AI-Assistant-2026",
     "language": "Python",
@@ -268,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T06:20:18Z",
     "url": "https://github.com/juventini10/Five-layer-memory-system"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27356,
-    "updated_at": "2026-07-20T06:19:50Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -346,7 +382,7 @@
     "id": "666ghj/BettaFish",
     "language": "Python",
     "name": "666ghj/BettaFish",
-    "stars": 41784,
+    "stars": 41785,
     "updated_at": "2026-07-20T06:10:00Z",
     "url": "https://github.com/666ghj/BettaFish"
   },
@@ -409,44 +445,8 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12235,
+    "stars": 12236,
     "updated_at": "2026-07-20T05:35:11Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-20T05:27:17Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-20T05:26:58Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
-    "id": "zizetu/existential-identity-test-engine",
-    "language": "Python",
-    "name": "zizetu/existential-identity-test-engine",
-    "stars": 1,
-    "updated_at": "2026-07-20T05:26:25Z",
-    "url": "https://github.com/zizetu/existential-identity-test-engine"
-  },
-  {
-    "description": "Route models. Not providers.",
-    "id": "ledgr-rs/prism",
-    "language": "Rust",
-    "name": "ledgr-rs/prism",
-    "stars": 0,
-    "updated_at": "2026-07-20T05:23:43Z",
-    "url": "https://github.com/ledgr-rs/prism"
   }
 ]
