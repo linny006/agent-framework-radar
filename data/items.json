@@ -1,12 +1,66 @@
 [
   {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 312,
+    "updated_at": "2026-07-20T10:29:26Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
+    "id": "thenaxon/somora_agent",
+    "language": "TypeScript",
+    "name": "thenaxon/somora_agent",
+    "stars": 8,
+    "updated_at": "2026-07-20T10:29:16Z",
+    "url": "https://github.com/thenaxon/somora_agent"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 245,
+    "updated_at": "2026-07-20T10:28:51Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
+    "id": "amajorai/ryu",
+    "language": "HTML",
+    "name": "amajorai/ryu",
+    "stars": 36,
+    "updated_at": "2026-07-20T10:27:51Z",
+    "url": "https://github.com/amajorai/ryu"
+  },
+  {
+    "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
+    "id": "neural-agi/Qwen3-Coder-Next",
+    "language": "Python",
+    "name": "neural-agi/Qwen3-Coder-Next",
+    "stars": 1,
+    "updated_at": "2026-07-20T10:27:34Z",
+    "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 4,
-    "updated_at": "2026-07-20T10:24:01Z",
+    "updated_at": "2026-07-20T10:29:08Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-20T10:24:45Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7524,
-    "updated_at": "2026-07-20T10:22:14Z",
+    "updated_at": "2026-07-20T10:29:01Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -54,24 +108,6 @@
     "url": "https://github.com/Omni-Craft/OmniCraft"
   },
   {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 245,
-    "updated_at": "2026-07-20T10:18:36Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 312,
-    "updated_at": "2026-07-20T10:17:09Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "Structured skill graph for LLM agents: routing, execution guidance, references, and reusable domain knowledge in JSON.",
     "id": "Dranser/Skills-Graph",
     "language": "PowerShell",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T10:16:42Z",
     "url": "https://github.com/Dranser/Skills-Graph"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-20T10:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -142,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T10:09:28Z",
     "url": "https://github.com/ahmedhabibo/hermes-lite"
-  },
-  {
-    "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
-    "id": "amajorai/ryu",
-    "language": "HTML",
-    "name": "amajorai/ryu",
-    "stars": 36,
-    "updated_at": "2026-07-20T10:08:45Z",
-    "url": "https://github.com/amajorai/ryu"
   },
   {
     "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-20T08:53:14Z",
     "url": "https://github.com/Dockdenchasm/Claude-Code-Templates-2026"
-  },
-  {
-    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
-    "id": "rogerchappel/crewcmd",
-    "language": "TypeScript",
-    "name": "rogerchappel/crewcmd",
-    "stars": 2,
-    "updated_at": "2026-07-20T08:49:47Z",
-    "url": "https://github.com/rogerchappel/crewcmd"
-  },
-  {
-    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
-    "id": "junebuild/june",
-    "language": "TypeScript",
-    "name": "junebuild/june",
-    "stars": 3,
-    "updated_at": "2026-07-20T10:11:23Z",
-    "url": "https://github.com/junebuild/june"
   }
 ]
