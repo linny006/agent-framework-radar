@@ -1,12 +1,111 @@
 [
   {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 4,
+    "updated_at": "2026-07-20T12:44:58Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
+    "id": "phenomenoner/agent-harness-core",
+    "language": "Rust",
+    "name": "phenomenoner/agent-harness-core",
+    "stars": 0,
+    "updated_at": "2026-07-20T12:44:38Z",
+    "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "12-Agent Personalized Learning System \u00b7 1154 Tests \u00b7 5-Layer Architecture \u00b7 Competition-Ready \u00b7 v7.1.0",
+    "id": "Leisure-Auf1/A3-Multi-Agent-System",
+    "language": "Python",
+    "name": "Leisure-Auf1/A3-Multi-Agent-System",
+    "stars": 2,
+    "updated_at": "2026-07-20T12:42:43Z",
+    "url": "https://github.com/Leisure-Auf1/A3-Multi-Agent-System"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 107,
+    "updated_at": "2026-07-20T12:40:57Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
+    "id": "lukeskytorep-bot/echo-claw",
+    "language": "\u2014",
+    "name": "lukeskytorep-bot/echo-claw",
+    "stars": 1,
+    "updated_at": "2026-07-20T12:40:56Z",
+    "url": "https://github.com/lukeskytorep-bot/echo-claw"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27388,
+    "updated_at": "2026-07-20T12:39:27Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 1,
+    "updated_at": "2026-07-20T12:38:28Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 7,
+    "updated_at": "2026-07-20T12:37:25Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 2,
-    "updated_at": "2026-07-20T12:29:46Z",
+    "updated_at": "2026-07-20T12:30:21Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1402,
+    "updated_at": "2026-07-20T12:30:15Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 600,
+    "updated_at": "2026-07-20T12:30:00Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-20T12:29:20Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Trust and verification for the skills your AI agent installs.",
@@ -25,33 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T12:25:45Z",
     "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
-  },
-  {
-    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
-    "id": "lukeskytorep-bot/echo-claw",
-    "language": "\u2014",
-    "name": "lukeskytorep-bot/echo-claw",
-    "stars": 1,
-    "updated_at": "2026-07-20T12:25:32Z",
-    "url": "https://github.com/lukeskytorep-bot/echo-claw"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 600,
-    "updated_at": "2026-07-20T12:30:00Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "12-Agent Personalized Learning System \u00b7 1154 Tests \u00b7 5-Layer Architecture \u00b7 Competition-Ready \u00b7 v7.1.0",
-    "id": "Leisure-Auf1/A3-Multi-Agent-System",
-    "language": "Python",
-    "name": "Leisure-Auf1/A3-Multi-Agent-System",
-    "stars": 2,
-    "updated_at": "2026-07-20T12:23:48Z",
-    "url": "https://github.com/Leisure-Auf1/A3-Multi-Agent-System"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -106,15 +178,6 @@
     "stars": 4587,
     "updated_at": "2026-07-20T12:20:36Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27387,
-    "updated_at": "2026-07-20T12:21:53Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -176,17 +239,8 @@
     "language": "Python",
     "name": "fxMT-nx/el-primor",
     "stars": 0,
-    "updated_at": "2026-07-20T12:11:50Z",
+    "updated_at": "2026-07-20T12:44:36Z",
     "url": "https://github.com/fxMT-nx/el-primor"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 4,
-    "updated_at": "2026-07-20T12:28:54Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Agent IQ - intent-driven multi-agent orchestration for Microsoft 365 Cowork and Copilot Chat. Bring your own agents (Lan",
@@ -221,7 +275,7 @@
     "language": "TypeScript",
     "name": "moolamai/Sutra",
     "stars": 5,
-    "updated_at": "2026-07-20T12:06:47Z",
+    "updated_at": "2026-07-20T12:30:29Z",
     "url": "https://github.com/moolamai/Sutra"
   },
   {
@@ -232,15 +286,6 @@
     "stars": 18,
     "updated_at": "2026-07-20T12:03:39Z",
     "url": "https://github.com/ahwurm/localharness"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 1,
-    "updated_at": "2026-07-20T12:01:02Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -265,7 +310,7 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 312,
+    "stars": 313,
     "updated_at": "2026-07-20T11:57:57Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -342,15 +387,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 7,
-    "updated_at": "2026-07-20T12:22:11Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
     "description": "\u5fae\u8206\uff1a\u4eba\u4eba\u53ef\u7528\u7684\u591aAgent\u8206\u60c5\u5206\u6790\u52a9\u624b\uff0c\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u8fd8\u539f\u8206\u60c5\u539f\u8c8c\uff0c\u9884\u6d4b\u672a\u6765\u8d70\u5411\uff0c\u8f85\u52a9\u51b3\u7b56\uff01\u4ece0\u5b9e\u73b0\uff0c\u4e0d\u4f9d\u8d56\u4efb\u4f55\u6846\u67b6\u3002",
     "id": "666ghj/BettaFish",
     "language": "Python",
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-20T12:28:11Z",
+    "updated_at": "2026-07-20T12:40:15Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 245,
     "updated_at": "2026-07-20T11:10:41Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-20T10:55:23Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
-    "id": "tachyon-r/maximal-utility-agent-soul",
-    "language": "\u2014",
-    "name": "tachyon-r/maximal-utility-agent-soul",
-    "stars": 1,
-    "updated_at": "2026-07-20T10:53:44Z",
-    "url": "https://github.com/tachyon-r/maximal-utility-agent-soul"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1565,
-    "updated_at": "2026-07-20T11:00:12Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": " Workflow-first multi-agent orchestration for Ruby, built on RubyLLM.",
-    "id": "samuelralak/smith",
-    "language": "Ruby",
-    "name": "samuelralak/smith",
-    "stars": 1,
-    "updated_at": "2026-07-20T10:45:14Z",
-    "url": "https://github.com/samuelralak/smith"
   }
 ]
