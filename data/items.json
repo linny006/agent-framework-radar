@@ -1,11 +1,92 @@
 [
   {
+    "description": "Agent IQ - intent-driven multi-agent orchestration for Microsoft 365 Cowork and Copilot Chat. Bring your own agents (Lan",
+    "id": "micromobs/agent-iq",
+    "language": "Python",
+    "name": "micromobs/agent-iq",
+    "stars": 0,
+    "updated_at": "2026-07-20T12:58:36Z",
+    "url": "https://github.com/micromobs/agent-iq"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 188,
+    "updated_at": "2026-07-20T12:58:13Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
+    "id": "lukeskytorep-bot/echo-claw",
+    "language": "\u2014",
+    "name": "lukeskytorep-bot/echo-claw",
+    "stars": 1,
+    "updated_at": "2026-07-20T12:57:41Z",
+    "url": "https://github.com/lukeskytorep-bot/echo-claw"
+  },
+  {
+    "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
+    "id": "tylerjrbuell/reactive-agents-ts",
+    "language": "TypeScript",
+    "name": "tylerjrbuell/reactive-agents-ts",
+    "stars": 16,
+    "updated_at": "2026-07-20T12:56:09Z",
+    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
+  },
+  {
+    "description": "The open, model-agnostic platform to build your own AI agent and run it everywhere \u2014 self-hosted, safe by default.",
+    "id": "ownware-ai/ownware",
+    "language": "TypeScript",
+    "name": "ownware-ai/ownware",
+    "stars": 5,
+    "updated_at": "2026-07-20T12:55:53Z",
+    "url": "https://github.com/ownware-ai/ownware"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27389,
+    "updated_at": "2026-07-20T12:52:51Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
+    "id": "moolamai/Sutra",
+    "language": "TypeScript",
+    "name": "moolamai/Sutra",
+    "stars": 5,
+    "updated_at": "2026-07-20T12:48:09Z",
+    "url": "https://github.com/moolamai/Sutra"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-20T12:45:24Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-20T12:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 4,
-    "updated_at": "2026-07-20T12:44:58Z",
+    "updated_at": "2026-07-20T12:48:42Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -16,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-07-20T12:44:38Z",
     "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "El Primor v3.0.0 \u2014 Agente de excelencia para OpenCode. 9 fases, 7 skills, memoria TurboVec.",
+    "id": "fxMT-nx/el-primor",
+    "language": "Shell",
+    "name": "fxMT-nx/el-primor",
+    "stars": 0,
+    "updated_at": "2026-07-20T12:44:36Z",
+    "url": "https://github.com/fxMT-nx/el-primor"
   },
   {
     "description": "12-Agent Personalized Learning System \u00b7 1154 Tests \u00b7 5-Layer Architecture \u00b7 Competition-Ready \u00b7 v7.1.0",
@@ -36,24 +126,6 @@
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
-    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
-    "id": "lukeskytorep-bot/echo-claw",
-    "language": "\u2014",
-    "name": "lukeskytorep-bot/echo-claw",
-    "stars": 1,
-    "updated_at": "2026-07-20T12:40:56Z",
-    "url": "https://github.com/lukeskytorep-bot/echo-claw"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27388,
-    "updated_at": "2026-07-20T12:39:27Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -72,13 +144,13 @@
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-20T12:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "strands-agents/harness-sdk",
+    "stars": 6649,
+    "updated_at": "2026-07-20T12:35:15Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -135,13 +207,13 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 188,
-    "updated_at": "2026-07-20T12:21:00Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 4587,
+    "updated_at": "2026-07-20T12:20:36Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
     "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
@@ -169,15 +241,6 @@
     "stars": 36,
     "updated_at": "2026-07-20T12:19:03Z",
     "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 4587,
-    "updated_at": "2026-07-20T12:20:36Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -234,24 +297,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "El Primor v3.0.0 \u2014 Agente de excelencia para OpenCode. 9 fases, 7 skills, memoria TurboVec.",
-    "id": "fxMT-nx/el-primor",
-    "language": "Python",
-    "name": "fxMT-nx/el-primor",
-    "stars": 0,
-    "updated_at": "2026-07-20T12:44:36Z",
-    "url": "https://github.com/fxMT-nx/el-primor"
-  },
-  {
-    "description": "Agent IQ - intent-driven multi-agent orchestration for Microsoft 365 Cowork and Copilot Chat. Bring your own agents (Lan",
-    "id": "micromobs/agent-iq",
-    "language": "Python",
-    "name": "micromobs/agent-iq",
-    "stars": 0,
-    "updated_at": "2026-07-20T12:11:21Z",
-    "url": "https://github.com/micromobs/agent-iq"
-  },
-  {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
     "id": "jiayan-xu/agent-core",
     "language": "Rust",
@@ -268,15 +313,6 @@
     "stars": 136,
     "updated_at": "2026-07-20T12:07:57Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
-    "id": "moolamai/Sutra",
-    "language": "TypeScript",
-    "name": "moolamai/Sutra",
-    "stars": 5,
-    "updated_at": "2026-07-20T12:30:29Z",
-    "url": "https://github.com/moolamai/Sutra"
   },
   {
     "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
@@ -310,18 +346,9 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 313,
+    "stars": 312,
     "updated_at": "2026-07-20T11:57:57Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
-    "id": "tylerjrbuell/reactive-agents-ts",
-    "language": "TypeScript",
-    "name": "tylerjrbuell/reactive-agents-ts",
-    "stars": 16,
-    "updated_at": "2026-07-20T11:55:09Z",
-    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
   },
   {
     "description": "Zero-dependency TypeScript SDK for AI agent governance: policy enforcement, injection detection, tamper-evident audit, a",
@@ -391,7 +418,7 @@
     "id": "666ghj/BettaFish",
     "language": "Python",
     "name": "666ghj/BettaFish",
-    "stars": 41788,
+    "stars": 41789,
     "updated_at": "2026-07-20T11:32:41Z",
     "url": "https://github.com/666ghj/BettaFish"
   },
@@ -403,15 +430,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T11:31:09Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-20T12:40:15Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Composable agentic substrate (skills + MCP tools + harness + governance) running on a single laptop. 14 live business do",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T11:14:04Z",
     "url": "https://github.com/RaplesWojtyla/KarmAgent"
-  },
-  {
-    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
-    "id": "sweatco/archie-hq",
-    "language": "TypeScript",
-    "name": "sweatco/archie-hq",
-    "stars": 16,
-    "updated_at": "2026-07-20T11:11:45Z",
-    "url": "https://github.com/sweatco/archie-hq"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 245,
-    "updated_at": "2026-07-20T11:10:41Z",
-    "url": "https://github.com/xuiltul/animaworks"
   }
 ]
