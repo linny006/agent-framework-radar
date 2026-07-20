@@ -1,5 +1,77 @@
 [
   {
+    "description": "Governance-first AI agent runtime \u2014 cost-first routing to the cheapest capable model, self-enforced bylaws, a trust ladd",
+    "id": "OgreScat/AgentGRIT",
+    "language": "Python",
+    "name": "OgreScat/AgentGRIT",
+    "stars": 1,
+    "updated_at": "2026-07-20T04:53:55Z",
+    "url": "https://github.com/OgreScat/AgentGRIT"
+  },
+  {
+    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
+    "id": "rogerchappel/crewcmd",
+    "language": "TypeScript",
+    "name": "rogerchappel/crewcmd",
+    "stars": 2,
+    "updated_at": "2026-07-20T04:52:42Z",
+    "url": "https://github.com/rogerchappel/crewcmd"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-20T04:52:27Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "ShuTong Protocol \u2014 A cognitive-layer human-AI collaboration protocol. Core thesis: AI is not an answer machine, but a co",
+    "id": "VZIQAQ/shutong-protocol",
+    "language": "\u2014",
+    "name": "VZIQAQ/shutong-protocol",
+    "stars": 0,
+    "updated_at": "2026-07-20T04:50:34Z",
+    "url": "https://github.com/VZIQAQ/shutong-protocol"
+  },
+  {
+    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
+    "id": "SmooAI/smooth-operator",
+    "language": "Rust",
+    "name": "SmooAI/smooth-operator",
+    "stars": 1,
+    "updated_at": "2026-07-20T05:00:10Z",
+    "url": "https://github.com/SmooAI/smooth-operator"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 7,
+    "updated_at": "2026-07-20T04:48:01Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
+    "id": "zizetu/existential-identity-test-engine",
+    "language": "Python",
+    "name": "zizetu/existential-identity-test-engine",
+    "stars": 1,
+    "updated_at": "2026-07-20T04:46:17Z",
+    "url": "https://github.com/zizetu/existential-identity-test-engine"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-20T04:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-20T04:38:14Z",
+    "updated_at": "2026-07-20T04:56:19Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -36,15 +108,6 @@
     "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
-    "description": "ShuTong Protocol \u2014 A cognitive-layer human-AI collaboration protocol. Core thesis: AI is not an answer machine, but a co",
-    "id": "VZIQAQ/shutong-protocol",
-    "language": "\u2014",
-    "name": "VZIQAQ/shutong-protocol",
-    "stars": 0,
-    "updated_at": "2026-07-20T04:35:51Z",
-    "url": "https://github.com/VZIQAQ/shutong-protocol"
-  },
-  {
     "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -54,29 +117,11 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 7,
-    "updated_at": "2026-07-20T04:32:19Z",
-    "url": "https://github.com/maref-org/maref"
-  },
-  {
-    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
-    "id": "SmooAI/smooth-operator",
-    "language": "Rust",
-    "name": "SmooAI/smooth-operator",
-    "stars": 1,
-    "updated_at": "2026-07-20T04:34:02Z",
-    "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27343,
+    "stars": 27344,
     "updated_at": "2026-07-20T04:31:06Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -88,15 +133,6 @@
     "stars": 345,
     "updated_at": "2026-07-20T04:30:41Z",
     "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-20T04:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
@@ -112,7 +148,7 @@
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6621,
+    "stars": 6622,
     "updated_at": "2026-07-20T04:22:39Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
@@ -185,7 +221,7 @@
     "language": "Go",
     "name": "agenvoy/Agenvoy",
     "stars": 331,
-    "updated_at": "2026-07-20T04:04:12Z",
+    "updated_at": "2026-07-20T04:53:16Z",
     "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 205,
-    "updated_at": "2026-07-20T04:02:54Z",
+    "updated_at": "2026-07-20T05:00:11Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 11,
     "updated_at": "2026-07-20T04:00:28Z",
     "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
-    "id": "zizetu/existential-identity-test-engine",
-    "language": "Python",
-    "name": "zizetu/existential-identity-test-engine",
-    "stars": 1,
-    "updated_at": "2026-07-20T03:57:39Z",
-    "url": "https://github.com/zizetu/existential-identity-test-engine"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -234,21 +261,12 @@
     "url": "https://github.com/linora-u/AgentLoom"
   },
   {
-    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
-    "id": "rogerchappel/crewcmd",
-    "language": "TypeScript",
-    "name": "rogerchappel/crewcmd",
-    "stars": 2,
-    "updated_at": "2026-07-20T03:42:01Z",
-    "url": "https://github.com/rogerchappel/crewcmd"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7519,
-    "updated_at": "2026-07-20T04:12:07Z",
+    "updated_at": "2026-07-20T04:53:16Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -382,7 +400,7 @@
     "id": "w8123/EnterpriseAgentFramework",
     "language": "Java",
     "name": "w8123/EnterpriseAgentFramework",
-    "stars": 476,
+    "stars": 477,
     "updated_at": "2026-07-20T02:57:48Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
   },
@@ -430,23 +448,5 @@
     "stars": 153,
     "updated_at": "2026-07-20T02:47:48Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 153,
-    "updated_at": "2026-07-20T02:37:55Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "No-code, local-first studio for building and running production ready AI agents. Inference runs on your machine \u2014 llama.",
-    "id": "al2m4n/TheYgent",
-    "language": "Python",
-    "name": "al2m4n/TheYgent",
-    "stars": 1,
-    "updated_at": "2026-07-20T02:36:52Z",
-    "url": "https://github.com/al2m4n/TheYgent"
   }
 ]
