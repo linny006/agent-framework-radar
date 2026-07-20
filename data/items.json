@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-20T05:45:08Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "A Python toolkit for building citation-faithful Q&A agents over a knowledge corpus.",
+    "id": "Construct-Lab/reigner",
+    "language": "Python",
+    "name": "Construct-Lab/reigner",
+    "stars": 3,
+    "updated_at": "2026-07-20T05:42:49Z",
+    "url": "https://github.com/Construct-Lab/reigner"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-20T05:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -68,17 +95,8 @@
     "language": "Python",
     "name": "AndersonBY/vv-agent",
     "stars": 1,
-    "updated_at": "2026-07-20T05:15:32Z",
+    "updated_at": "2026-07-20T05:33:15Z",
     "url": "https://github.com/AndersonBY/vv-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-20T05:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The agent framework where every run is durable, replayable, and resumable by default.",
@@ -122,7 +140,7 @@
     "language": "Rust",
     "name": "SmooAI/smooth-operator",
     "stars": 1,
-    "updated_at": "2026-07-20T05:10:11Z",
+    "updated_at": "2026-07-20T05:45:12Z",
     "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
@@ -151,15 +169,6 @@
     "stars": 245,
     "updated_at": "2026-07-20T05:01:54Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-20T05:24:12Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -275,7 +284,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6622,
-    "updated_at": "2026-07-20T04:22:39Z",
+    "updated_at": "2026-07-20T05:38:37Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-20T03:08:34Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Kotlin-first framework for building Model Agnostic AI applications, RAG systems, and agentic workflows on Android and Ko",
-    "id": "MobileGraph/mobilegraph",
-    "language": "Kotlin",
-    "name": "MobileGraph/mobilegraph",
-    "stars": 1,
-    "updated_at": "2026-07-20T03:10:23Z",
-    "url": "https://github.com/MobileGraph/mobilegraph"
   }
 ]
