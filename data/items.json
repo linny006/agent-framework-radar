@@ -1,11 +1,38 @@
 [
   {
+    "description": "AI AgenticSafe - stop your AI agent from breaking production at 3 a.m. 8 battle-tested doctrines, 3 real post-mortems, z",
+    "id": "Yacineutt/AI-AgenticSafe",
+    "language": "\u2014",
+    "name": "Yacineutt/AI-AgenticSafe",
+    "stars": 1,
+    "updated_at": "2026-07-21T23:42:42Z",
+    "url": "https://github.com/Yacineutt/AI-AgenticSafe"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-21T23:41:35Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T23:39:34Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
     "id": "ellmos-ai/bach",
     "language": "Python",
     "name": "ellmos-ai/bach",
     "stars": 7,
-    "updated_at": "2026-07-21T23:35:22Z",
+    "updated_at": "2026-07-21T23:42:02Z",
     "url": "https://github.com/ellmos-ai/bach"
   },
   {
@@ -25,15 +52,6 @@
     "stars": 3,
     "updated_at": "2026-07-21T23:31:09Z",
     "url": "https://github.com/danqing-ai/danqing-teams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T23:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
@@ -194,7 +212,7 @@
     "language": "HTML",
     "name": "exha1078/agentic-workflow-orchestrator",
     "stars": 0,
-    "updated_at": "2026-07-21T22:42:53Z",
+    "updated_at": "2026-07-21T23:45:17Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
@@ -203,7 +221,7 @@
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 1,
-    "updated_at": "2026-07-21T22:42:52Z",
+    "updated_at": "2026-07-21T23:45:12Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
@@ -310,7 +328,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27489,
+    "stars": 27490,
     "updated_at": "2026-07-21T21:47:10Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -342,15 +360,6 @@
     "url": "https://github.com/hara-cli/hara"
   },
   {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-21T20:58:36Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
     "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
     "id": "clawboo/clawboo",
     "language": "TypeScript",
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-07-21T21:31:52Z",
+    "updated_at": "2026-07-21T23:40:22Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-21T20:18:29Z",
     "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-07-21T19:55:55Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   }
 ]
