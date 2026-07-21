@@ -1,12 +1,75 @@
 [
   {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 109,
+    "updated_at": "2026-07-21T17:28:30Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18702,
-    "updated_at": "2026-07-21T17:13:57Z",
+    "stars": 18704,
+    "updated_at": "2026-07-21T17:24:48Z",
     "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Autonomous AI-agent browser for Windows: a real WebView2 desktop browser as the agent runtime, with a local MCP server (",
+    "id": "joelaniol/nova",
+    "language": "\u2014",
+    "name": "joelaniol/nova",
+    "stars": 0,
+    "updated_at": "2026-07-21T17:20:05Z",
+    "url": "https://github.com/joelaniol/nova"
+  },
+  {
+    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
+    "id": "JohnnyFiv3r/Core-Memory",
+    "language": "Python",
+    "name": "JohnnyFiv3r/Core-Memory",
+    "stars": 20,
+    "updated_at": "2026-07-21T17:19:25Z",
+    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
+  },
+  {
+    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
+    "id": "akyourowngames/friday",
+    "language": "Python",
+    "name": "akyourowngames/friday",
+    "stars": 4,
+    "updated_at": "2026-07-21T17:18:21Z",
+    "url": "https://github.com/akyourowngames/friday"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 2,
+    "updated_at": "2026-07-21T17:18:09Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 153,
+    "updated_at": "2026-07-21T17:16:57Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T17:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -54,15 +117,6 @@
     "url": "https://github.com/Alexli18/binex"
   },
   {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
-    "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 109,
-    "updated_at": "2026-07-21T17:12:31Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
     "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
     "id": "tylerjrbuell/reactive-agents-ts",
     "language": "TypeScript",
@@ -90,15 +144,6 @@
     "url": "https://github.com/loopedautomation/meet"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T17:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI AgenticSafe - stop your AI agent from breaking production at 3 a.m. 8 battle-tested doctrines, 3 real post-mortems, z",
     "id": "Yacineutt/AI-AgenticSafe",
     "language": "\u2014",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T16:55:33Z",
     "url": "https://github.com/achappey/aihappey-agents"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 20,
-    "updated_at": "2026-07-21T17:10:59Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -185,7 +221,7 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2198,
-    "updated_at": "2026-07-21T17:05:48Z",
+    "updated_at": "2026-07-21T17:27:48Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
@@ -212,7 +248,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 4,
-    "updated_at": "2026-07-21T16:59:36Z",
+    "updated_at": "2026-07-21T17:29:38Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -256,7 +292,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27485,
+    "stars": 27486,
     "updated_at": "2026-07-21T16:14:40Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "Qwixl/Atom",
     "stars": 0,
-    "updated_at": "2026-07-21T16:08:10Z",
+    "updated_at": "2026-07-21T17:16:19Z",
     "url": "https://github.com/Qwixl/Atom"
   },
   {
@@ -351,15 +387,6 @@
     "url": "https://github.com/ranxi2001/zero2Agent"
   },
   {
-    "description": "Autonomous AI-agent browser for Windows: a real WebView2 desktop browser as the agent runtime, with a local MCP server (",
-    "id": "joelaniol/nova",
-    "language": "\u2014",
-    "name": "joelaniol/nova",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:54:33Z",
-    "url": "https://github.com/joelaniol/nova"
-  },
-  {
     "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
     "id": "bigbraingoldfish/lullabeast",
     "language": "Python",
@@ -367,15 +394,6 @@
     "stars": 11,
     "updated_at": "2026-07-21T15:54:41Z",
     "url": "https://github.com/bigbraingoldfish/lullabeast"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 2,
-    "updated_at": "2026-07-21T15:42:21Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
     "description": "\u9762\u5411 OA\u3001ERP\u3001CRM\u3001\u5de5\u5355\u7b49\u4f01\u4e1a\u7cfb\u7edf\u5feb\u901f\u6784\u5efa\u667a\u80fd\u4f53\uff0c\u8ba9 AI \u5728\u6743\u9650\u3001\u5ba1\u8ba1\u4e0e\u6cbb\u7406\u7ea6\u675f\u4e0b\u5b89\u5168\u8c03\u7528\u771f\u5b9e\u4e1a\u52a1\u80fd\u529b\u3002Build agents quickly for enterprise systems such as OA, ERP, CR",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T15:08:07Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 577,
-    "updated_at": "2026-07-21T15:03:41Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 153,
-    "updated_at": "2026-07-21T15:03:14Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   }
 ]
