@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agent adapter for Twin-Sparrow \u2014 compact runtime capsules per turn instead of full doctrine replay, and a verification g",
+    "id": "Lesz-Xi/twin-sparrow-agent-adapter",
+    "language": "TypeScript",
+    "name": "Lesz-Xi/twin-sparrow-agent-adapter",
+    "stars": 0,
+    "updated_at": "2026-07-21T12:50:44Z",
+    "url": "https://github.com/Lesz-Xi/twin-sparrow-agent-adapter"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-21T12:46:47Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T12:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
     "id": "thenaxon/somora_agent",
     "language": "TypeScript",
@@ -50,7 +77,7 @@
     "language": "TypeScript",
     "name": "Rahulsanecdote/Forge",
     "stars": 1,
-    "updated_at": "2026-07-21T12:36:19Z",
+    "updated_at": "2026-07-21T12:50:37Z",
     "url": "https://github.com/Rahulsanecdote/Forge"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 11,
     "updated_at": "2026-07-21T12:33:16Z",
     "url": "https://github.com/Sheep1433/Noesis"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T12:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -115,6 +133,15 @@
     "stars": 4,
     "updated_at": "2026-07-21T12:29:26Z",
     "url": "https://github.com/10xHub/agentflow-cli"
+  },
+  {
+    "description": "Autonomous AI-agent browser for Windows: a real WebView2 desktop browser as the agent runtime, with a local MCP server (",
+    "id": "joelaniol/nova",
+    "language": "\u2014",
+    "name": "joelaniol/nova",
+    "stars": 0,
+    "updated_at": "2026-07-21T12:27:27Z",
+    "url": "https://github.com/joelaniol/nova"
   },
   {
     "description": "Symbio is an innovative project designed to empower users through seamless interaction with their machines. This flexibl",
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T12:17:21Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Autonomous AI-agent browser for Windows: a real WebView2 desktop browser as the agent runtime, with a local MCP server (",
-    "id": "joelaniol/nova",
-    "language": "\u2014",
-    "name": "joelaniol/nova",
-    "stars": 0,
-    "updated_at": "2026-07-21T12:27:27Z",
-    "url": "https://github.com/joelaniol/nova"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -333,15 +351,6 @@
     "url": "https://github.com/daretodave/nexus"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-21T11:16:34Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T10:43:56Z",
     "url": "https://github.com/RobThePCGuy/markdown-agent-studio"
-  },
-  {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 9,
-    "updated_at": "2026-07-21T11:18:58Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
   }
 ]
