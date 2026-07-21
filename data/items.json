@@ -1,19 +1,100 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7551,
+    "updated_at": "2026-07-21T01:45:08Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18677,
+    "updated_at": "2026-07-21T01:45:03Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
+    "id": "OrlojHQ/orloj",
+    "language": "Go",
+    "name": "OrlojHQ/orloj",
+    "stars": 109,
+    "updated_at": "2026-07-21T01:44:46Z",
+    "url": "https://github.com/OrlojHQ/orloj"
+  },
+  {
+    "description": "backup of hermes-agent",
+    "id": "john-data-chen/hermes-agent-backup",
+    "language": "TeX",
+    "name": "john-data-chen/hermes-agent-backup",
+    "stars": 2,
+    "updated_at": "2026-07-21T01:43:55Z",
+    "url": "https://github.com/john-data-chen/hermes-agent-backup"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-07-21T01:43:16Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 313,
+    "updated_at": "2026-07-21T01:41:53Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-21T01:39:46Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
+    "id": "Rahulsanecdote/Forge",
+    "language": "TypeScript",
+    "name": "Rahulsanecdote/Forge",
+    "stars": 1,
+    "updated_at": "2026-07-21T01:39:21Z",
+    "url": "https://github.com/Rahulsanecdote/Forge"
+  },
+  {
     "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
     "id": "phenomenoner/agent-harness-core",
     "language": "Rust",
     "name": "phenomenoner/agent-harness-core",
     "stars": 0,
-    "updated_at": "2026-07-21T01:30:20Z",
+    "updated_at": "2026-07-21T01:30:27Z",
     "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T01:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27417,
+    "stars": 27420,
     "updated_at": "2026-07-21T01:30:01Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -63,24 +144,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
-    "id": "bugsyhewitt/AlienClaw",
-    "language": "TypeScript",
-    "name": "bugsyhewitt/AlienClaw",
-    "stars": 7,
-    "updated_at": "2026-07-21T01:29:30Z",
-    "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7551,
-    "updated_at": "2026-07-21T01:29:21Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
     "id": "zizetu/existential-identity-test-engine",
     "language": "Python",
@@ -99,15 +162,6 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T01:15:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -115,15 +169,6 @@
     "stars": 189,
     "updated_at": "2026-07-21T01:14:13Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
-    "id": "OrlojHQ/orloj",
-    "language": "Go",
-    "name": "OrlojHQ/orloj",
-    "stars": 109,
-    "updated_at": "2026-07-21T01:16:47Z",
-    "url": "https://github.com/OrlojHQ/orloj"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -151,15 +196,6 @@
     "stars": 116,
     "updated_at": "2026-07-21T01:07:00Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18677,
-    "updated_at": "2026-07-21T01:15:50Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
@@ -257,7 +293,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 73,
-    "updated_at": "2026-07-21T00:25:32Z",
+    "updated_at": "2026-07-21T01:39:28Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/ahwurm/localharness"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-20T23:43:08Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 208,
     "updated_at": "2026-07-20T23:20:58Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
-    "language": "TypeScript",
-    "name": "Qwixl/Atom",
-    "stars": 0,
-    "updated_at": "2026-07-20T23:18:48Z",
-    "url": "https://github.com/Qwixl/Atom"
-  },
-  {
-    "description": "A provider-neutral execution kernel for strong-model, thin-harness agents.",
-    "id": "kestiny18/Noval",
-    "language": "Python",
-    "name": "kestiny18/Noval",
-    "stars": 0,
-    "updated_at": "2026-07-20T23:18:40Z",
-    "url": "https://github.com/kestiny18/Noval"
-  },
-  {
-    "description": "Your Rails app is already an agent runtime \u2014 durable AI agents on Rails: exactly-once tool ledger, park-at-zero human-in",
-    "id": "danielstpaul/silas",
-    "language": "Ruby",
-    "name": "danielstpaul/silas",
-    "stars": 0,
-    "updated_at": "2026-07-20T23:13:23Z",
-    "url": "https://github.com/danielstpaul/silas"
   }
 ]
