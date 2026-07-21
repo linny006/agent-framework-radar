@@ -1,11 +1,65 @@
 [
   {
+    "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
+    "id": "cordum-io/cordum",
+    "language": "Go",
+    "name": "cordum-io/cordum",
+    "stars": 492,
+    "updated_at": "2026-07-21T09:37:50Z",
+    "url": "https://github.com/cordum-io/cordum"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4873,
+    "updated_at": "2026-07-21T09:34:33Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
+    "id": "achappey/aihappey-agents",
+    "language": "C#",
+    "name": "achappey/aihappey-agents",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:33:11Z",
+    "url": "https://github.com/achappey/aihappey-agents"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7561,
+    "updated_at": "2026-07-21T09:34:08Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 4,
+    "updated_at": "2026-07-21T09:31:40Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T09:30:34Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
     "id": "Alexli18/binex",
     "language": "Python",
     "name": "Alexli18/binex",
     "stars": 62,
-    "updated_at": "2026-07-21T09:30:08Z",
+    "updated_at": "2026-07-21T09:37:13Z",
     "url": "https://github.com/Alexli18/binex"
   },
   {
@@ -18,20 +72,11 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4873,
-    "updated_at": "2026-07-21T09:30:02Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27455,
+    "stars": 27456,
     "updated_at": "2026-07-21T09:28:47Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -72,15 +117,6 @@
     "url": "https://github.com/yangyuning199503-gif/SiliconBase-V5"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7561,
-    "updated_at": "2026-07-21T09:17:55Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Your messenger for AI agents. Self-hosted chat PWA with push, QR pairing, and pluggable agent-framework connectors. MIT.",
     "id": "cloudsignal/raccoon",
     "language": "TypeScript",
@@ -97,15 +133,6 @@
     "stars": 9,
     "updated_at": "2026-07-21T09:27:54Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T09:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -140,7 +167,7 @@
     "language": "Go",
     "name": "amilworks/ultra",
     "stars": 5,
-    "updated_at": "2026-07-21T09:00:46Z",
+    "updated_at": "2026-07-21T09:36:18Z",
     "url": "https://github.com/amilworks/ultra"
   },
   {
@@ -180,6 +207,15 @@
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18689,
+    "updated_at": "2026-07-21T08:42:39Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
     "id": "neural-agi/Qwen3-Coder-Next",
     "language": "Python",
@@ -187,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T08:38:19Z",
     "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 4,
-    "updated_at": "2026-07-21T09:19:56Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T08:49:56Z",
+    "updated_at": "2026-07-21T09:34:27Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T07:25:45Z",
     "url": "https://github.com/violetwhale-or/Agent-Deepseek-Docker-RAG"
-  },
-  {
-    "description": "Democratizing Reinforcement Learning for LLMs",
-    "id": "rllm-org/rllm",
-    "language": "Python",
-    "name": "rllm-org/rllm",
-    "stars": 5709,
-    "updated_at": "2026-07-21T09:27:46Z",
-    "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 189,
-    "updated_at": "2026-07-21T08:16:04Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
-    "id": "ulsreall/web3-agent-kit",
-    "language": "Python",
-    "name": "ulsreall/web3-agent-kit",
-    "stars": 19,
-    "updated_at": "2026-07-21T07:15:29Z",
-    "url": "https://github.com/ulsreall/web3-agent-kit"
   }
 ]
