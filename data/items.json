@@ -1,11 +1,74 @@
 [
   {
+    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
+    "id": "Alexli18/binex",
+    "language": "Python",
+    "name": "Alexli18/binex",
+    "stars": 62,
+    "updated_at": "2026-07-21T09:30:08Z",
+    "url": "https://github.com/Alexli18/binex"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:30:08Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4873,
+    "updated_at": "2026-07-21T09:30:02Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27455,
+    "updated_at": "2026-07-21T09:28:47Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-21T09:25:13Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 116,
+    "updated_at": "2026-07-21T09:21:52Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 11,
+    "updated_at": "2026-07-21T09:21:28Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
     "description": "SiliconBase V5 \u2014 \u672c\u5730 AI Agent \u64cd\u4f5c\u7cfb\u7edf\u5b9e\u9a8c\u9879\u76ee | Local AI Agent OS experiment: sovereignty architecture, L1-L5 memory, visual per",
     "id": "yangyuning199503-gif/SiliconBase-V5",
     "language": "Python",
     "name": "yangyuning199503-gif/SiliconBase-V5",
     "stars": 0,
-    "updated_at": "2026-07-21T09:14:01Z",
+    "updated_at": "2026-07-21T09:19:36Z",
     "url": "https://github.com/yangyuning199503-gif/SiliconBase-V5"
   },
   {
@@ -14,17 +77,35 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7561,
-    "updated_at": "2026-07-21T09:12:58Z",
+    "updated_at": "2026-07-21T09:17:55Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
-    "id": "Alexli18/binex",
+    "description": "Your messenger for AI agents. Self-hosted chat PWA with push, QR pairing, and pluggable agent-framework connectors. MIT.",
+    "id": "cloudsignal/raccoon",
+    "language": "TypeScript",
+    "name": "cloudsignal/raccoon",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:17:47Z",
+    "url": "https://github.com/cloudsignal/raccoon"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
     "language": "Python",
-    "name": "Alexli18/binex",
-    "stars": 62,
-    "updated_at": "2026-07-21T09:07:26Z",
-    "url": "https://github.com/Alexli18/binex"
+    "name": "bbvch-ai/aihub-core",
+    "stars": 9,
+    "updated_at": "2026-07-21T09:27:54Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T09:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -54,15 +135,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 9,
-    "updated_at": "2026-07-21T09:14:05Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
     "description": "Official BisQue Ultra Platform",
     "id": "amilworks/ultra",
     "language": "Go",
@@ -70,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-07-21T09:00:46Z",
     "url": "https://github.com/amilworks/ultra"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T09:00:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
@@ -90,21 +153,12 @@
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 6,
-    "updated_at": "2026-07-21T08:52:44Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Search, understand, reproduce, and improve an idea with ease",
     "id": "inclusionAI/AWorld",
     "language": "Python",
     "name": "inclusionAI/AWorld",
     "stars": 1212,
-    "updated_at": "2026-07-21T08:52:25Z",
+    "updated_at": "2026-07-21T09:29:42Z",
     "url": "https://github.com/inclusionAI/AWorld"
   },
   {
@@ -126,15 +180,6 @@
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 11,
-    "updated_at": "2026-07-21T08:41:29Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
     "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
     "id": "neural-agi/Qwen3-Coder-Next",
     "language": "Python",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 4,
-    "updated_at": "2026-07-21T09:12:05Z",
+    "updated_at": "2026-07-21T09:19:56Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -205,24 +250,6 @@
     "stars": 153,
     "updated_at": "2026-07-21T08:21:31Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 116,
-    "updated_at": "2026-07-21T09:11:29Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27454,
-    "updated_at": "2026-07-21T08:19:13Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "",
@@ -319,7 +346,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4835,
+    "stars": 4837,
     "updated_at": "2026-07-21T07:39:45Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-07-21T08:31:20Z",
+    "updated_at": "2026-07-21T09:18:11Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -401,7 +428,7 @@
     "language": "Python",
     "name": "rllm-org/rllm",
     "stars": 5709,
-    "updated_at": "2026-07-21T08:58:01Z",
+    "updated_at": "2026-07-21T09:27:46Z",
     "url": "https://github.com/rllm-org/rllm"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 19,
     "updated_at": "2026-07-21T07:15:29Z",
     "url": "https://github.com/ulsreall/web3-agent-kit"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-21T07:15:17Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14618,
-    "updated_at": "2026-07-21T07:05:05Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 2,
-    "updated_at": "2026-07-21T07:04:55Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
   }
 ]
