@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-21 01:00 UTC
+> ⏰ Last updated: 2026-07-21 01:06 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [xuiltul/animaworks](https://github.com/xuiltul/animaworks) | 245 | Python | 2026-07-21 | Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model  |
-| 2 | [Dranser/Skills-Graph](https://github.com/Dranser/Skills-Graph) | 0 | PowerShell | 2026-07-21 | Structured skill graph for LLM agents: routing, execution guidance, references, and reusable domain knowledge in JSON. |
-| 3 | [saajunaid/junai](https://github.com/saajunaid/junai) | 0 | Python | 2026-07-21 | junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic |
-| 4 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-07-21 | Research framework for adaptive, purposeful agents under uncertainty |
-| 5 | [tylerjrbuell/reactive-agents-ts](https://github.com/tylerjrbuell/reactive-agents-ts) | 16 | TypeScript | 2026-07-21 | A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th |
-| 6 | [longyijdos/kana](https://github.com/longyijdos/kana) | 1 | TypeScript | 2026-07-21 |  Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution. |
-| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-21 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 8 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18677 | Python | 2026-07-21 | AI Agent Framework, the Pydantic way |
+| 1 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18677 | Python | 2026-07-21 | AI Agent Framework, the Pydantic way |
+| 2 | [xuiltul/animaworks](https://github.com/xuiltul/animaworks) | 245 | Python | 2026-07-21 | Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model  |
+| 3 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-21 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 4 | [Dranser/Skills-Graph](https://github.com/Dranser/Skills-Graph) | 0 | PowerShell | 2026-07-21 | Structured skill graph for LLM agents: routing, execution guidance, references, and reusable domain knowledge in JSON. |
+| 5 | [saajunaid/junai](https://github.com/saajunaid/junai) | 0 | Python | 2026-07-21 | junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic |
+| 6 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-07-21 | Research framework for adaptive, purposeful agents under uncertainty |
+| 7 | [tylerjrbuell/reactive-agents-ts](https://github.com/tylerjrbuell/reactive-agents-ts) | 16 | TypeScript | 2026-07-21 | A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th |
+| 8 | [longyijdos/kana](https://github.com/longyijdos/kana) | 1 | TypeScript | 2026-07-21 |  Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution. |
 | 9 | [jiayan-xu/agent-core](https://github.com/jiayan-xu/agent-core) | 1 | Rust | 2026-07-21 | Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust. |
 | 10 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | Go | 2026-07-21 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
 | 11 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-07-21 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
