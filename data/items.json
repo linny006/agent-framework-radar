@@ -1,11 +1,65 @@
 [
   {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-21T18:39:19Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Composable multi-agent framework for GitHub Copilot \u2014 persona grafting, cognitive identity caching, and agent fusion for",
+    "id": "CTOUT/Symdicate",
+    "language": "Shell",
+    "name": "CTOUT/Symdicate",
+    "stars": 1,
+    "updated_at": "2026-07-21T18:39:13Z",
+    "url": "https://github.com/CTOUT/Symdicate"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6656,
+    "updated_at": "2026-07-21T18:44:38Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 4,
+    "updated_at": "2026-07-21T18:35:42Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12280,
+    "updated_at": "2026-07-21T18:31:58Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T18:30:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 27487,
-    "updated_at": "2026-07-21T18:29:21Z",
+    "updated_at": "2026-07-21T18:33:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -14,35 +68,17 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 493,
-    "updated_at": "2026-07-21T18:29:04Z",
+    "updated_at": "2026-07-21T18:42:07Z",
     "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "Composable multi-agent framework for GitHub Copilot \u2014 persona grafting, cognitive identity caching, and agent fusion for",
-    "id": "CTOUT/Symdicate",
-    "language": "Shell",
-    "name": "CTOUT/Symdicate",
-    "stars": 1,
-    "updated_at": "2026-07-21T18:25:52Z",
-    "url": "https://github.com/CTOUT/Symdicate"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
     "id": "evalstate/fast-agent",
     "language": "Python",
     "name": "evalstate/fast-agent",
-    "stars": 3863,
+    "stars": 3864,
     "updated_at": "2026-07-21T18:25:29Z",
     "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6656,
-    "updated_at": "2026-07-21T18:28:49Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
@@ -90,15 +126,6 @@
     "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T18:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
     "id": "pavanbadempet/AI-Healthcare-System",
     "language": "Python",
@@ -106,15 +133,6 @@
     "stars": 36,
     "updated_at": "2026-07-21T18:09:51Z",
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12279,
-    "updated_at": "2026-07-21T18:26:43Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "An agent = model + harness. A .NET 10 framework where guides shape the model's context each turn and sensors guard every",
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18705,
-    "updated_at": "2026-07-21T17:52:22Z",
+    "updated_at": "2026-07-21T18:43:49Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -275,7 +293,7 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2197,
-    "updated_at": "2026-07-21T18:06:05Z",
+    "updated_at": "2026-07-21T18:45:17Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 20,
-    "updated_at": "2026-07-21T17:19:25Z",
+    "updated_at": "2026-07-21T18:44:04Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/EvoMap/evolver"
   },
   {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-21T16:45:48Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 245,
     "updated_at": "2026-07-21T16:35:41Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 4,
-    "updated_at": "2026-07-21T18:17:38Z",
-    "url": "https://github.com/sytone/botnexus"
   }
 ]
