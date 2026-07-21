@@ -1,5 +1,86 @@
 [
   {
+    "description": "Autonomous AI-agent browser for Windows: a real WebView2 desktop browser as the agent runtime, with a local MCP server (",
+    "id": "joelaniol/nova",
+    "language": "\u2014",
+    "name": "joelaniol/nova",
+    "stars": 0,
+    "updated_at": "2026-07-21T14:26:20Z",
+    "url": "https://github.com/joelaniol/nova"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-21T14:24:44Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 73,
+    "updated_at": "2026-07-21T14:23:27Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) \u2014 deploy your virtual C-Suite in one git clone",
+    "id": "aAAaqwq/AGI-Super-Team",
+    "language": "Python",
+    "name": "aAAaqwq/AGI-Super-Team",
+    "stars": 78,
+    "updated_at": "2026-07-21T14:20:55Z",
+    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
+  },
+  {
+    "description": "Agent adapter for Twin-Sparrow \u2014 compact runtime capsules per turn instead of full doctrine replay, and a verification g",
+    "id": "Lesz-Xi/twin-sparrow-agent-adapter",
+    "language": "TypeScript",
+    "name": "Lesz-Xi/twin-sparrow-agent-adapter",
+    "stars": 0,
+    "updated_at": "2026-07-21T14:17:12Z",
+    "url": "https://github.com/Lesz-Xi/twin-sparrow-agent-adapter"
+  },
+  {
+    "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
+    "id": "Rahulsanecdote/Forge",
+    "language": "TypeScript",
+    "name": "Rahulsanecdote/Forge",
+    "stars": 1,
+    "updated_at": "2026-07-21T14:25:33Z",
+    "url": "https://github.com/Rahulsanecdote/Forge"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 4,
+    "updated_at": "2026-07-21T14:16:18Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 107,
+    "updated_at": "2026-07-21T14:15:51Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T14:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
     "id": "Alexli18/binex",
     "language": "Python",
@@ -36,21 +117,12 @@
     "url": "https://github.com/br3eze-code/br3eze-code"
   },
   {
-    "description": "Autonomous AI-agent browser for Windows: a real WebView2 desktop browser as the agent runtime, with a local MCP server (",
-    "id": "joelaniol/nova",
-    "language": "\u2014",
-    "name": "joelaniol/nova",
-    "stars": 0,
-    "updated_at": "2026-07-21T14:04:40Z",
-    "url": "https://github.com/joelaniol/nova"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7571,
-    "updated_at": "2026-07-21T14:15:02Z",
+    "updated_at": "2026-07-21T14:15:59Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -72,15 +144,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
-    "id": "Rahulsanecdote/Forge",
-    "language": "TypeScript",
-    "name": "Rahulsanecdote/Forge",
-    "stars": 1,
-    "updated_at": "2026-07-21T14:11:16Z",
-    "url": "https://github.com/Rahulsanecdote/Forge"
-  },
-  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -88,33 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T14:01:31Z",
     "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 1,
-    "updated_at": "2026-07-21T14:00:38Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T14:00:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 4,
-    "updated_at": "2026-07-21T14:10:00Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "openlegion-ai/openlegion",
     "stars": 109,
-    "updated_at": "2026-07-21T13:42:29Z",
+    "updated_at": "2026-07-21T14:25:48Z",
     "url": "https://github.com/openlegion-ai/openlegion"
   },
   {
@@ -243,15 +279,6 @@
     "url": "https://github.com/sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 73,
-    "updated_at": "2026-07-21T13:57:52Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -266,7 +293,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 116,
-    "updated_at": "2026-07-21T13:33:26Z",
+    "updated_at": "2026-07-21T14:26:16Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12276,
-    "updated_at": "2026-07-21T13:26:37Z",
+    "updated_at": "2026-07-21T14:24:37Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -349,15 +376,6 @@
     "stars": 3863,
     "updated_at": "2026-07-21T13:20:49Z",
     "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 107,
-    "updated_at": "2026-07-21T14:14:27Z",
-    "url": "https://github.com/Insajin/autopus-adk"
   },
   {
     "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
@@ -414,15 +432,6 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "Agent adapter for Twin-Sparrow \u2014 compact runtime capsules per turn instead of full doctrine replay, and a verification g",
-    "id": "Lesz-Xi/twin-sparrow-agent-adapter",
-    "language": "TypeScript",
-    "name": "Lesz-Xi/twin-sparrow-agent-adapter",
-    "stars": 0,
-    "updated_at": "2026-07-21T12:50:44Z",
-    "url": "https://github.com/Lesz-Xi/twin-sparrow-agent-adapter"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-21T12:40:24Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 7,
-    "updated_at": "2026-07-21T12:39:13Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   }
 ]
