@@ -1,5 +1,68 @@
 [
   {
+    "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
+    "id": "tylerjrbuell/reactive-agents-ts",
+    "language": "TypeScript",
+    "name": "tylerjrbuell/reactive-agents-ts",
+    "stars": 16,
+    "updated_at": "2026-07-21T23:13:03Z",
+    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 117,
+    "updated_at": "2026-07-21T23:11:30Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 245,
+    "updated_at": "2026-07-21T23:10:31Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
+    "id": "achappey/aihappey-chat",
+    "language": "TypeScript",
+    "name": "achappey/aihappey-chat",
+    "stars": 3,
+    "updated_at": "2026-07-21T23:07:42Z",
+    "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-21T23:07:22Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18713,
+    "updated_at": "2026-07-21T23:09:47Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T23:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -63,15 +126,6 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18713,
-    "updated_at": "2026-07-21T22:55:05Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "A general-purpose agentic harness. Structured context slots, observational-memory compaction, tools, permissions, skills",
     "id": "Craigtut/cortex-mono",
     "language": "TypeScript",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T22:45:36Z",
     "url": "https://github.com/Craigtut/cortex-mono"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T22:45:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
@@ -153,15 +198,6 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
-    "id": "tylerjrbuell/reactive-agents-ts",
-    "language": "TypeScript",
-    "name": "tylerjrbuell/reactive-agents-ts",
-    "stars": 16,
-    "updated_at": "2026-07-21T22:25:46Z",
-    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
-  },
-  {
     "description": "Self-hosted completion gate for coding agents: independent verification before done, durable evidence, CLI and local GUI",
     "id": "moortekweb-art/agentic-harness",
     "language": "Python",
@@ -176,7 +212,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 4,
-    "updated_at": "2026-07-21T22:46:09Z",
+    "updated_at": "2026-07-21T23:10:08Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -193,18 +229,9 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7584,
+    "stars": 7585,
     "updated_at": "2026-07-21T22:07:06Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 117,
-    "updated_at": "2026-07-21T22:58:53Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -223,15 +250,6 @@
     "stars": 212,
     "updated_at": "2026-07-21T22:02:08Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-21T22:01:27Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Workflow transpilation and execution framework - import LangChain, Airflow, GitHub Actions, Kubernetes, Docker Compose",
@@ -355,7 +373,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6659,
+    "stars": 6660,
     "updated_at": "2026-07-21T20:31:50Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -419,7 +437,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 45,
-    "updated_at": "2026-07-21T22:52:56Z",
+    "updated_at": "2026-07-21T23:03:35Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T19:45:38Z",
     "url": "https://github.com/hedypamungkas/koboi-agent"
-  },
-  {
-    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
-    "id": "bugsyhewitt/AlienClaw",
-    "language": "TypeScript",
-    "name": "bugsyhewitt/AlienClaw",
-    "stars": 7,
-    "updated_at": "2026-07-21T19:33:18Z",
-    "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4879,
-    "updated_at": "2026-07-21T19:31:40Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   }
 ]
