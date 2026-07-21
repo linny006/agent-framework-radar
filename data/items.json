@@ -1,5 +1,23 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 73,
+    "updated_at": "2026-07-21T07:14:35Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T07:10:44Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
     "id": "sauravbhattacharya001/agentlens",
     "language": "JavaScript",
@@ -45,21 +63,12 @@
     "url": "https://github.com/akyourowngames/friday"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T07:00:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T06:59:09Z",
+    "updated_at": "2026-07-21T07:12:39Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "ulsreall/web3-agent-kit",
     "stars": 19,
-    "updated_at": "2026-07-21T06:52:34Z",
+    "updated_at": "2026-07-21T07:15:12Z",
     "url": "https://github.com/ulsreall/web3-agent-kit"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 116,
-    "updated_at": "2026-07-21T06:19:29Z",
+    "updated_at": "2026-07-21T07:11:13Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -238,7 +247,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18686,
+    "stars": 18687,
     "updated_at": "2026-07-21T06:17:55Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -428,7 +437,7 @@
     "language": "HTML",
     "name": "Rakshit64w43/agent-gateway-hub",
     "stars": 2,
-    "updated_at": "2026-07-21T04:31:09Z",
+    "updated_at": "2026-07-21T07:15:17Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 698,
     "updated_at": "2026-07-21T04:27:57Z",
     "url": "https://github.com/rapidaai/voice-ai"
-  },
-  {
-    "description": "Autonomous open-source contribution agent for Claude Code & Codex. A multi-agent harness that picks an issue, writes the",
-    "id": "gaurav0107/superhuman",
-    "language": "Shell",
-    "name": "gaurav0107/superhuman",
-    "stars": 4,
-    "updated_at": "2026-07-21T04:23:09Z",
-    "url": "https://github.com/gaurav0107/superhuman"
   }
 ]
