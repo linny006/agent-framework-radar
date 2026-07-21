@@ -1,5 +1,41 @@
 [
   {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 4602,
+    "updated_at": "2026-07-21T03:27:14Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4870,
+    "updated_at": "2026-07-21T03:28:06Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
+    "id": "ulsreall/web3-agent-kit",
+    "language": "Python",
+    "name": "ulsreall/web3-agent-kit",
+    "stars": 19,
+    "updated_at": "2026-07-21T03:20:03Z",
+    "url": "https://github.com/ulsreall/web3-agent-kit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T03:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7551,
-    "updated_at": "2026-07-21T03:14:03Z",
+    "updated_at": "2026-07-21T03:19:37Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -81,15 +117,6 @@
     "url": "https://github.com/sweatco/archie-hq"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T03:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -112,7 +139,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27428,
+    "stars": 27426,
     "updated_at": "2026-07-21T02:52:05Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T03:14:14Z",
+    "updated_at": "2026-07-21T03:26:54Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -184,7 +211,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4825,
+    "stars": 4827,
     "updated_at": "2026-07-21T02:23:47Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18679,
-    "updated_at": "2026-07-21T03:05:18Z",
+    "updated_at": "2026-07-21T03:20:11Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -315,13 +342,13 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
     "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4870,
-    "updated_at": "2026-07-21T01:27:18Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
+    "name": "rllm-org/rllm",
+    "stars": 5708,
+    "updated_at": "2026-07-21T01:28:05Z",
+    "url": "https://github.com/rllm-org/rllm"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-21T00:39:10Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-21T00:38:13Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "A lightweight project planning framework for agentic workflows - A standalone / optionally-installable module in my Hori",
-    "id": "HorizonBrute/HorizonBrute-Horizon_Lightweight_Agentic_Project_Plans_LAPP",
-    "language": "Python",
-    "name": "HorizonBrute/HorizonBrute-Horizon_Lightweight_Agentic_Project_Plans_LAPP",
-    "stars": 0,
-    "updated_at": "2026-07-21T00:28:09Z",
-    "url": "https://github.com/HorizonBrute/HorizonBrute-Horizon_Lightweight_Agentic_Project_Plans_LAPP"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 73,
-    "updated_at": "2026-07-21T01:53:40Z",
-    "url": "https://github.com/JKHeadley/instar"
   }
 ]
