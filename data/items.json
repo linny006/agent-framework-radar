@@ -1,5 +1,68 @@
 [
   {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 189,
+    "updated_at": "2026-07-21T02:41:46Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 107,
+    "updated_at": "2026-07-21T02:41:51Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 2,
+    "updated_at": "2026-07-21T02:35:17Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 153,
+    "updated_at": "2026-07-21T02:35:04Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 15,
+    "updated_at": "2026-07-21T02:33:42Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Open Agent Spec is a declarative YAML standard and CLI for defining and generating AI agents. One spec, any LLM engine (",
+    "id": "prime-vector/open-agent-spec",
+    "language": "Python",
+    "name": "prime-vector/open-agent-spec",
+    "stars": 16,
+    "updated_at": "2026-07-21T02:30:27Z",
+    "url": "https://github.com/prime-vector/open-agent-spec"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T02:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -25,6 +88,15 @@
     "stars": 245,
     "updated_at": "2026-07-21T02:25:18Z",
     "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4824,
+    "updated_at": "2026-07-21T02:23:47Z",
+    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
@@ -54,20 +126,11 @@
     "url": "https://github.com/phenomenoner/agent-harness-core"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T02:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27422,
+    "stars": 27423,
     "updated_at": "2026-07-21T02:10:45Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -104,7 +167,7 @@
     "language": "JavaScript",
     "name": "wrg32786/aigent-os",
     "stars": 5,
-    "updated_at": "2026-07-21T02:05:37Z",
+    "updated_at": "2026-07-21T02:45:13Z",
     "url": "https://github.com/wrg32786/aigent-os"
   },
   {
@@ -198,15 +261,6 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 107,
-    "updated_at": "2026-07-21T02:08:04Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
@@ -241,15 +295,6 @@
     "stars": 4,
     "updated_at": "2026-07-21T01:51:39Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 189,
-    "updated_at": "2026-07-21T01:14:13Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -378,15 +423,6 @@
     "url": "https://github.com/kh0pper/crow"
   },
   {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 15,
-    "updated_at": "2026-07-21T02:24:58Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
     "description": "Framework-agnostic orchestration layer for AI agents: circuit breakers, multi-LLM council, workflow FSM, sweeps. Compani",
     "id": "Coding-Dev-Tools/agentic-system",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-21T00:02:17Z",
     "url": "https://github.com/danqing-ai/danqing-teams"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-21T00:01:12Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-20T23:59:01Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 153,
-    "updated_at": "2026-07-20T23:56:10Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "A curated list of AI agent frameworks, tools, platforms, research papers, and resources",
-    "id": "aloth/awesome-ai-agents",
-    "language": "\u2014",
-    "name": "aloth/awesome-ai-agents",
-    "stars": 13,
-    "updated_at": "2026-07-20T23:51:47Z",
-    "url": "https://github.com/aloth/awesome-ai-agents"
   }
 ]
