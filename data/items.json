@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
+    "id": "tsingxuanhan/NexusFlow",
+    "language": "Python",
+    "name": "tsingxuanhan/NexusFlow",
+    "stars": 0,
+    "updated_at": "2026-07-21T06:29:12Z",
+    "url": "https://github.com/tsingxuanhan/NexusFlow"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-21T06:30:04Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7555,
+    "updated_at": "2026-07-21T06:28:24Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 107,
+    "updated_at": "2026-07-21T06:29:38Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 116,
+    "updated_at": "2026-07-21T06:19:29Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-21T06:18:39Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 1,
+    "updated_at": "2026-07-21T06:18:50Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "A 7\u00d76 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified eng",
+    "id": "huangjia2019/agent-design-patterns",
+    "language": "HTML",
+    "name": "huangjia2019/agent-design-patterns",
+    "stars": 178,
+    "updated_at": "2026-07-21T06:18:01Z",
+    "url": "https://github.com/huangjia2019/agent-design-patterns"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18684,
+    "updated_at": "2026-07-21T06:17:55Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T06:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\u5fae\u8206\uff1a\u4eba\u4eba\u53ef\u7528\u7684\u591aAgent\u8206\u60c5\u5206\u6790\u52a9\u624b\uff0c\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u8fd8\u539f\u8206\u60c5\u539f\u8c8c\uff0c\u9884\u6d4b\u672a\u6765\u8d70\u5411\uff0c\u8f85\u52a9\u51b3\u7b56\uff01\u4ece0\u5b9e\u73b0\uff0c\u4e0d\u4f9d\u8d56\u4efb\u4f55\u6846\u67b6\u3002",
     "id": "666ghj/BettaFish",
     "language": "Python",
@@ -54,24 +144,6 @@
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T06:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7556,
-    "updated_at": "2026-07-21T06:06:24Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -81,15 +153,6 @@
     "url": "https://github.com/opencue/cuecards"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18684,
-    "updated_at": "2026-07-21T05:55:57Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -97,15 +160,6 @@
     "stars": 75,
     "updated_at": "2026-07-21T05:52:42Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 1,
-    "updated_at": "2026-07-21T05:50:50Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
     "description": "Functional Python agent framework with MCP support, enterprise security, immutable state, and production-ready observabi",
@@ -124,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T05:49:41Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
-    "id": "tsingxuanhan/NexusFlow",
-    "language": "Python",
-    "name": "tsingxuanhan/NexusFlow",
-    "stars": 0,
-    "updated_at": "2026-07-21T05:48:08Z",
-    "url": "https://github.com/tsingxuanhan/NexusFlow"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -196,15 +241,6 @@
     "stars": 14617,
     "updated_at": "2026-07-21T05:16:45Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 116,
-    "updated_at": "2026-07-21T06:05:18Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Go/Golang multi-agent LLM framework \u2014 ReAct loops, parallel tool calls, streaming, sub-agents, and pluggable Anthropic /",
@@ -342,15 +378,6 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 107,
-    "updated_at": "2026-07-21T05:58:27Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
     "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
     "id": "phenomenoner/agent-harness-core",
     "language": "Rust",
@@ -367,15 +394,6 @@
     "stars": 323,
     "updated_at": "2026-07-21T03:49:17Z",
     "url": "https://github.com/CronusL-1141/AI-company"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-21T03:49:09Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T03:14:11Z",
     "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "\ud83e\udde0 Five-Layer Memory System v4.0.0 - A universal memory skill for AI agents",
-    "id": "juventini10/Five-layer-memory-system",
-    "language": "Python",
-    "name": "juventini10/Five-layer-memory-system",
-    "stars": 3,
-    "updated_at": "2026-07-21T03:10:48Z",
-    "url": "https://github.com/juventini10/Five-layer-memory-system"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 15,
-    "updated_at": "2026-07-21T03:03:56Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   }
 ]
