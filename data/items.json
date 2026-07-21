@@ -1,12 +1,75 @@
 [
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
+    "id": "Alexli18/binex",
+    "language": "Python",
+    "name": "Alexli18/binex",
+    "stars": 62,
+    "updated_at": "2026-07-21T16:43:53Z",
+    "url": "https://github.com/Alexli18/binex"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-07-21T16:43:03Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2198,
+    "updated_at": "2026-07-21T16:42:31Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Composable multi-agent framework for GitHub Copilot \u2014 persona grafting, cognitive identity caching, and agent fusion for",
+    "id": "CTOUT/Symdicate",
+    "language": "Shell",
+    "name": "CTOUT/Symdicate",
+    "stars": 1,
+    "updated_at": "2026-07-21T16:40:48Z",
+    "url": "https://github.com/CTOUT/Symdicate"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18700,
+    "updated_at": "2026-07-21T16:36:36Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 109,
+    "updated_at": "2026-07-21T16:41:51Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 245,
+    "updated_at": "2026-07-21T16:35:41Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "AI ThreeAM - stop your AI agent from breaking production at 3 a.m. 8 battle-tested doctrines, 3 real post-mortems, zero ",
+    "id": "Yacineutt/AI-ThreeAM",
+    "language": "\u2014",
+    "name": "Yacineutt/AI-ThreeAM",
     "stars": 0,
-    "updated_at": "2026-07-21T16:25:00Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+    "updated_at": "2026-07-21T16:33:34Z",
+    "url": "https://github.com/Yacineutt/AI-ThreeAM"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +77,26 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 2,
-    "updated_at": "2026-07-21T16:24:09Z",
+    "updated_at": "2026-07-21T16:30:25Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 4,
+    "updated_at": "2026-07-21T16:29:33Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:25:00Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
@@ -27,22 +108,13 @@
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
-    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
-    "id": "Alexli18/binex",
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
     "language": "Python",
-    "name": "Alexli18/binex",
-    "stars": 62,
-    "updated_at": "2026-07-21T16:20:43Z",
-    "url": "https://github.com/Alexli18/binex"
-  },
-  {
-    "description": "AI ThreeAM - stop your AI agent from breaking production at 3 a.m. 8 battle-tested doctrines, 3 real post-mortems, zero ",
-    "id": "Yacineutt/AI-ThreeAM",
-    "language": "\u2014",
-    "name": "Yacineutt/AI-ThreeAM",
-    "stars": 0,
-    "updated_at": "2026-07-21T16:17:36Z",
-    "url": "https://github.com/Yacineutt/AI-ThreeAM"
+    "name": "microsoft/agent-framework",
+    "stars": 12278,
+    "updated_at": "2026-07-21T16:21:49Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "AI agent collaboration platform. General-purpose Work Agent with AI coding. Pure LLM-driven orchestration \u2014 no human-mai",
@@ -58,7 +130,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27483,
+    "stars": 27484,
     "updated_at": "2026-07-21T16:14:40Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -135,15 +207,6 @@
     "url": "https://github.com/Qwixl/Atom"
   },
   {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 245,
-    "updated_at": "2026-07-21T16:08:07Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
     "id": "Omni-Craft/OmniCraft",
     "language": "Python",
@@ -158,7 +221,7 @@
     "language": "TypeScript",
     "name": "Rahulsanecdote/Forge",
     "stars": 1,
-    "updated_at": "2026-07-21T16:27:21Z",
+    "updated_at": "2026-07-21T16:38:43Z",
     "url": "https://github.com/Rahulsanecdote/Forge"
   },
   {
@@ -180,15 +243,6 @@
     "url": "https://github.com/joelaniol/nova"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12277,
-    "updated_at": "2026-07-21T16:21:49Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
     "id": "bigbraingoldfish/lullabeast",
     "language": "Python",
@@ -203,7 +257,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 117,
-    "updated_at": "2026-07-21T15:44:01Z",
+    "updated_at": "2026-07-21T16:35:51Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -243,15 +297,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-07-21T16:24:18Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "\u9762\u5411 OA\u3001ERP\u3001CRM\u3001\u5de5\u5355\u7b49\u4f01\u4e1a\u7cfb\u7edf\u5feb\u901f\u6784\u5efa\u667a\u80fd\u4f53\uff0c\u8ba9 AI \u5728\u6743\u9650\u3001\u5ba1\u8ba1\u4e0e\u6cbb\u7406\u7ea6\u675f\u4e0b\u5b89\u5168\u8c03\u7528\u771f\u5b9e\u4e1a\u52a1\u80fd\u529b\u3002Build agents quickly for enterprise systems such as OA, ERP, CR",
     "id": "w8123/EnterpriseAgentFramework",
     "language": "Java",
@@ -279,21 +324,12 @@
     "url": "https://github.com/alexverify/eyebrow"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18699,
-    "updated_at": "2026-07-21T16:05:26Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
     "id": "cordum-io/cordum",
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 493,
-    "updated_at": "2026-07-21T16:24:56Z",
+    "updated_at": "2026-07-21T16:32:39Z",
     "url": "https://github.com/cordum-io/cordum"
   },
   {
@@ -311,7 +347,7 @@
     "language": "HTML",
     "name": "Rakshit64w43/agent-gateway-hub",
     "stars": 2,
-    "updated_at": "2026-07-21T15:12:24Z",
+    "updated_at": "2026-07-21T16:44:44Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
@@ -369,15 +405,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "Composable multi-agent framework for GitHub Copilot \u2014 persona grafting, cognitive identity caching, and agent fusion for",
-    "id": "CTOUT/Symdicate",
-    "language": "Shell",
-    "name": "CTOUT/Symdicate",
-    "stars": 1,
-    "updated_at": "2026-07-21T14:57:00Z",
-    "url": "https://github.com/CTOUT/Symdicate"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 90,
     "updated_at": "2026-07-21T14:38:25Z",
     "url": "https://github.com/linora-u/AgentLoom"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 92,
-    "updated_at": "2026-07-21T14:37:21Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
-    "id": "parkerluxu/Awesome-agent-cases",
-    "language": "\u2014",
-    "name": "parkerluxu/Awesome-agent-cases",
-    "stars": 1,
-    "updated_at": "2026-07-21T14:34:40Z",
-    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
-    "id": "jigjoy-ai/mozaik",
-    "language": "TypeScript",
-    "name": "jigjoy-ai/mozaik",
-    "stars": 112,
-    "updated_at": "2026-07-21T14:32:54Z",
-    "url": "https://github.com/jigjoy-ai/mozaik"
   }
 ]
