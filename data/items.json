@@ -1,12 +1,93 @@
 [
   {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 0,
+    "updated_at": "2026-07-21T19:45:11Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 211,
+    "updated_at": "2026-07-21T19:44:57Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-07-21T19:44:35Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 45,
-    "updated_at": "2026-07-21T19:30:03Z",
+    "updated_at": "2026-07-21T19:43:57Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6656,
+    "updated_at": "2026-07-21T19:42:05Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Self-hostable AI agents you can actually leave running \u2014 durable crash-resume, governed autonomy, seccomp sandbox, offli",
+    "id": "hedypamungkas/koboi-agent",
+    "language": "Python",
+    "name": "hedypamungkas/koboi-agent",
+    "stars": 1,
+    "updated_at": "2026-07-21T19:39:57Z",
+    "url": "https://github.com/hedypamungkas/koboi-agent"
+  },
+  {
+    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
+    "id": "Alexli18/binex",
+    "language": "Python",
+    "name": "Alexli18/binex",
+    "stars": 62,
+    "updated_at": "2026-07-21T19:38:47Z",
+    "url": "https://github.com/Alexli18/binex"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12280,
+    "updated_at": "2026-07-21T19:40:32Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Official BisQue Ultra Platform",
+    "id": "amilworks/ultra",
+    "language": "Go",
+    "name": "amilworks/ultra",
+    "stars": 5,
+    "updated_at": "2026-07-21T19:35:24Z",
+    "url": "https://github.com/amilworks/ultra"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-07-21T19:33:18Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -14,8 +95,26 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 73,
-    "updated_at": "2026-07-21T19:29:06Z",
+    "updated_at": "2026-07-21T19:32:58Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4878,
+    "updated_at": "2026-07-21T19:31:40Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T19:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
@@ -27,31 +126,13 @@
     "url": "https://github.com/Rahulsanecdote/Forge"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6656,
-    "updated_at": "2026-07-21T19:26:56Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4877,
-    "updated_at": "2026-07-21T19:26:25Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-07-21T19:28:01Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+    "name": "pydantic/pydantic-ai",
+    "stars": 18706,
+    "updated_at": "2026-07-21T19:43:42Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
@@ -59,17 +140,17 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 493,
-    "updated_at": "2026-07-21T19:24:37Z",
+    "updated_at": "2026-07-21T19:37:29Z",
     "url": "https://github.com/cordum-io/cordum"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18705,
-    "updated_at": "2026-07-21T19:25:53Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
+    "name": "omnigent-ai/omnigent",
+    "stars": 7576,
+    "updated_at": "2026-07-21T19:23:36Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -124,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T19:16:17Z",
     "url": "https://github.com/ellmos-ai/ellmos-tests"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T19:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -292,18 +364,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27487,
+    "stars": 27488,
     "updated_at": "2026-07-21T18:53:05Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 211,
-    "updated_at": "2026-07-21T18:53:05Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
@@ -347,17 +410,8 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 4,
-    "updated_at": "2026-07-21T19:22:16Z",
+    "updated_at": "2026-07-21T19:38:56Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12280,
-    "updated_at": "2026-07-21T18:31:58Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
@@ -367,15 +421,6 @@
     "stars": 3864,
     "updated_at": "2026-07-21T18:25:29Z",
     "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
-    "id": "Alexli18/binex",
-    "language": "Python",
-    "name": "Alexli18/binex",
-    "stars": 62,
-    "updated_at": "2026-07-21T19:26:56Z",
-    "url": "https://github.com/Alexli18/binex"
   },
   {
     "description": "AI AgenticSafe - stop your AI agent from breaking production at 3 a.m. 8 battle-tested doctrines, 3 real post-mortems, z",
@@ -403,50 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-21T18:15:35Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "An agent = model + harness. A .NET 10 framework where guides shape the model's context each turn and sensors guard every",
-    "id": "AnilKerai/model-harness",
-    "language": "C#",
-    "name": "AnilKerai/model-harness",
-    "stars": 0,
-    "updated_at": "2026-07-21T18:07:32Z",
-    "url": "https://github.com/AnilKerai/model-harness"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-21T18:07:09Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-21T18:07:04Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Official documentation for Agentflow, built with Docusaurus and structured via the Divio system: tutorials, how-to guide",
-    "id": "10xHub/agentflow-docs",
-    "language": "TypeScript",
-    "name": "10xHub/agentflow-docs",
-    "stars": 1,
-    "updated_at": "2026-07-21T18:06:54Z",
-    "url": "https://github.com/10xHub/agentflow-docs"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-21T18:01:59Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   }
 ]
