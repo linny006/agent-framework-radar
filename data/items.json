@@ -1,12 +1,12 @@
 [
   {
-    "description": "An agent = model + harness. A .NET 10 framework where guides shape the model's context each turn and sensors guard every",
-    "id": "AnilKerai/model-harness",
-    "language": "C#",
-    "name": "AnilKerai/model-harness",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:50:46Z",
-    "url": "https://github.com/AnilKerai/model-harness"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27484,
+    "updated_at": "2026-07-21T17:58:43Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
@@ -14,8 +14,53 @@
     "language": "Python",
     "name": "pavanbadempet/AI-Healthcare-System",
     "stars": 36,
-    "updated_at": "2026-07-21T17:50:10Z",
+    "updated_at": "2026-07-21T17:58:35Z",
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Official documentation for Agentflow, built with Docusaurus and structured via the Divio system: tutorials, how-to guide",
+    "id": "10xHub/agentflow-docs",
+    "language": "TypeScript",
+    "name": "10xHub/agentflow-docs",
+    "stars": 1,
+    "updated_at": "2026-07-21T17:58:28Z",
+    "url": "https://github.com/10xHub/agentflow-docs"
+  },
+  {
+    "description": "An agent = model + harness. A .NET 10 framework where guides shape the model's context each turn and sensors guard every",
+    "id": "AnilKerai/model-harness",
+    "language": "C#",
+    "name": "AnilKerai/model-harness",
+    "stars": 0,
+    "updated_at": "2026-07-21T17:58:42Z",
+    "url": "https://github.com/AnilKerai/model-harness"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 117,
+    "updated_at": "2026-07-21T17:54:07Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T17:51:15Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 313,
+    "updated_at": "2026-07-21T17:50:29Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
@@ -23,7 +68,7 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 493,
-    "updated_at": "2026-07-21T17:50:43Z",
+    "updated_at": "2026-07-21T17:51:14Z",
     "url": "https://github.com/cordum-io/cordum"
   },
   {
@@ -41,17 +86,8 @@
     "language": "Python",
     "name": "Alexli18/binex",
     "stars": 62,
-    "updated_at": "2026-07-21T17:45:38Z",
+    "updated_at": "2026-07-21T17:57:12Z",
     "url": "https://github.com/Alexli18/binex"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T17:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18705,
-    "updated_at": "2026-07-21T17:47:22Z",
+    "updated_at": "2026-07-21T17:52:22Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -270,24 +306,6 @@
     "url": "https://github.com/achappey/aihappey-agents"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 117,
-    "updated_at": "2026-07-21T17:42:32Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 313,
-    "updated_at": "2026-07-21T17:50:29Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -378,15 +396,6 @@
     "url": "https://github.com/danqing-ai/danqing-teams"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27484,
-    "updated_at": "2026-07-21T16:14:40Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T16:06:46Z",
     "url": "https://github.com/Omni-Craft/OmniCraft"
-  },
-  {
-    "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
-    "id": "Rahulsanecdote/Forge",
-    "language": "TypeScript",
-    "name": "Rahulsanecdote/Forge",
-    "stars": 1,
-    "updated_at": "2026-07-21T16:38:43Z",
-    "url": "https://github.com/Rahulsanecdote/Forge"
   }
 ]
