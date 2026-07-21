@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 76,
+    "updated_at": "2026-07-21T05:27:54Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4871,
+    "updated_at": "2026-07-21T05:27:48Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Agent-first business OS \u2014 CRM, ecommerce, comms, and autonomous AI agents. TypeScript monorepo, self-hostable (BYO Postg",
+    "id": "simieco/simie",
+    "language": "TypeScript",
+    "name": "simieco/simie",
+    "stars": 0,
+    "updated_at": "2026-07-21T05:27:18Z",
+    "url": "https://github.com/simieco/simie"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18683,
+    "updated_at": "2026-07-21T05:28:07Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 970,
+    "updated_at": "2026-07-21T05:28:04Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "Sanctum \u2014 local-first agent orchestration engine. Cyclic state graphs, checkpointing, streaming, and robust tool-calling",
+    "id": "zquintero246/sanctum-engine",
+    "language": "Python",
+    "name": "zquintero246/sanctum-engine",
+    "stars": 2,
+    "updated_at": "2026-07-21T05:18:05Z",
+    "url": "https://github.com/zquintero246/sanctum-engine"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14616,
+    "updated_at": "2026-07-21T05:16:45Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T05:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7553,
-    "updated_at": "2026-07-21T05:13:07Z",
+    "updated_at": "2026-07-21T05:25:54Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -34,15 +106,6 @@
     "stars": 75,
     "updated_at": "2026-07-21T05:04:45Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T05:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and",
@@ -70,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T04:56:07Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18682,
-    "updated_at": "2026-07-21T05:11:57Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -144,15 +198,6 @@
     "url": "https://github.com/gaurav0107/superhuman"
   },
   {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14616,
-    "updated_at": "2026-07-21T04:21:44Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
     "description": "ReAct Agent \u5b66\u4e60\u5b9e\u73b0 \u2014 Harness \u8f68\u8ff9 Schema\u3001capability \u8bc4\u6d4b\u3001\u8de8\u4ed3\u95ed\u73af demo\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
     "id": "weihuaguo270-ops/react-agent",
     "language": "Python",
@@ -203,7 +248,7 @@
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 107,
-    "updated_at": "2026-07-21T04:33:10Z",
+    "updated_at": "2026-07-21T05:27:04Z",
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
@@ -259,15 +304,6 @@
     "stars": 4603,
     "updated_at": "2026-07-21T03:32:56Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4870,
-    "updated_at": "2026-07-21T03:28:06Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
@@ -337,7 +373,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27430,
+    "stars": 27432,
     "updated_at": "2026-07-21T02:52:05Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T04:50:31Z",
+    "updated_at": "2026-07-21T05:30:02Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/iflytek/skillhub"
   },
   {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 970,
-    "updated_at": "2026-07-21T02:20:44Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
     "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
     "id": "zizetu/existential-identity-test-engine",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T02:16:45Z",
     "url": "https://github.com/zizetu/existential-identity-test-engine"
-  },
-  {
-    "description": "The .NET library to build AI agents with 30+ built-in connectors.",
-    "id": "lofcz/LLMTornado",
-    "language": "C#",
-    "name": "lofcz/LLMTornado",
-    "stars": 627,
-    "updated_at": "2026-07-21T02:10:15Z",
-    "url": "https://github.com/lofcz/LLMTornado"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-21T02:05:35Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-07-21T02:05:26Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
   }
 ]
