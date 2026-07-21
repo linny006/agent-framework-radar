@@ -1,5 +1,68 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7578,
+    "updated_at": "2026-07-21T20:44:59Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Autonomous Go daemon for AI software engineering. 18 specialist agents + 5 reviewers, constitution-bound AI Employees, e",
+    "id": "bhodgens/meept",
+    "language": "Go",
+    "name": "bhodgens/meept",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:43:01Z",
+    "url": "https://github.com/bhodgens/meept"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-07-21T20:39:57Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 211,
+    "updated_at": "2026-07-21T20:38:07Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:36:08Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T20:34:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-07-21T20:33:02Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -18,15 +81,6 @@
     "url": "https://github.com/brunogcar/agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T20:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
     "id": "Eliyce/paqad-ai",
     "language": "TypeScript",
@@ -41,17 +95,8 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 493,
-    "updated_at": "2026-07-21T20:28:16Z",
+    "updated_at": "2026-07-21T20:35:58Z",
     "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7577,
-    "updated_at": "2026-07-21T20:34:00Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -90,15 +135,6 @@
     "url": "https://github.com/Rahulsanecdote/Forge"
   },
   {
-    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 3,
-    "updated_at": "2026-07-21T20:33:02Z",
-    "url": "https://github.com/hara-cli/hara"
-  },
-  {
     "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
     "id": "ellmos-ai/bach",
     "language": "Python",
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 73,
-    "updated_at": "2026-07-21T20:33:56Z",
+    "updated_at": "2026-07-21T20:36:52Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -207,15 +243,6 @@
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
-    "language": "TypeScript",
-    "name": "Qwixl/Atom",
-    "stars": 0,
-    "updated_at": "2026-07-21T20:33:39Z",
-    "url": "https://github.com/Qwixl/Atom"
-  },
-  {
     "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
@@ -232,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T19:46:10Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 211,
-    "updated_at": "2026-07-21T19:44:57Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-07-21T20:22:25Z",
+    "updated_at": "2026-07-21T20:45:01Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T18:59:20Z",
     "url": "https://github.com/Ker102/Harneloop"
-  },
-  {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-07-21T18:58:53Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
-  },
-  {
-    "description": "A lightweight, declarative agent harness \u2014 define multi-agent workflows as YAML, run them from Python or the CLI, and th",
-    "id": "bryansparks/armature",
-    "language": "Python",
-    "name": "bryansparks/armature",
-    "stars": 8,
-    "updated_at": "2026-07-21T20:33:32Z",
-    "url": "https://github.com/bryansparks/armature"
   }
 ]
