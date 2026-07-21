@@ -1,11 +1,38 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6656,
+    "updated_at": "2026-07-21T20:31:50Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-21T20:30:52Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T20:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
     "id": "Eliyce/paqad-ai",
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 7,
-    "updated_at": "2026-07-21T20:22:48Z",
+    "updated_at": "2026-07-21T20:31:39Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7577,
-    "updated_at": "2026-07-21T20:21:33Z",
+    "updated_at": "2026-07-21T20:34:00Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -31,7 +58,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18707,
+    "stars": 18708,
     "updated_at": "2026-07-21T20:20:52Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -68,17 +95,8 @@
     "language": "TypeScript",
     "name": "hara-cli/hara",
     "stars": 3,
-    "updated_at": "2026-07-21T20:19:30Z",
+    "updated_at": "2026-07-21T20:33:02Z",
     "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T20:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 73,
-    "updated_at": "2026-07-21T20:11:01Z",
+    "updated_at": "2026-07-21T20:33:56Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "Qwixl/Atom",
     "stars": 0,
-    "updated_at": "2026-07-21T19:54:08Z",
+    "updated_at": "2026-07-21T20:33:39Z",
     "url": "https://github.com/Qwixl/Atom"
   },
   {
@@ -205,24 +223,6 @@
     "stars": 1263,
     "updated_at": "2026-07-21T19:49:43Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-21T19:47:33Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6656,
-    "updated_at": "2026-07-21T20:29:00Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -302,7 +302,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 443,
-    "updated_at": "2026-07-21T19:23:07Z",
+    "updated_at": "2026-07-21T20:30:56Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -446,7 +446,7 @@
     "language": "Python",
     "name": "bryansparks/armature",
     "stars": 8,
-    "updated_at": "2026-07-21T20:21:22Z",
+    "updated_at": "2026-07-21T20:33:32Z",
     "url": "https://github.com/bryansparks/armature"
   }
 ]
