@@ -1,12 +1,111 @@
 [
   {
+    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
+    "id": "thenaxon/somora_agent",
+    "language": "TypeScript",
+    "name": "thenaxon/somora_agent",
+    "stars": 8,
+    "updated_at": "2026-07-21T12:43:39Z",
+    "url": "https://github.com/thenaxon/somora_agent"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 4,
+    "updated_at": "2026-07-21T12:40:40Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-07-21T12:29:00Z",
+    "updated_at": "2026-07-21T12:40:24Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 7,
+    "updated_at": "2026-07-21T12:39:13Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
+    "id": "Alexli18/binex",
+    "language": "Python",
+    "name": "Alexli18/binex",
+    "stars": 62,
+    "updated_at": "2026-07-21T12:44:34Z",
+    "url": "https://github.com/Alexli18/binex"
+  },
+  {
+    "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
+    "id": "Rahulsanecdote/Forge",
+    "language": "TypeScript",
+    "name": "Rahulsanecdote/Forge",
+    "stars": 1,
+    "updated_at": "2026-07-21T12:36:19Z",
+    "url": "https://github.com/Rahulsanecdote/Forge"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12273,
+    "updated_at": "2026-07-21T12:34:13Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
+    "id": "Sheep1433/Noesis",
+    "language": "Python",
+    "name": "Sheep1433/Noesis",
+    "stars": 11,
+    "updated_at": "2026-07-21T12:33:16Z",
+    "url": "https://github.com/Sheep1433/Noesis"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T12:30:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 116,
+    "updated_at": "2026-07-21T12:30:21Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-07-21T12:30:12Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 2,
+    "updated_at": "2026-07-21T12:29:46Z",
+    "url": "https://github.com/Ecro/harness-maker"
   },
   {
     "description": "FastAPI server and CLI for Agentflow. Auto-generates a REST API from your agent graph, with JWT/custom auth, RBAC author",
@@ -16,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-07-21T12:29:26Z",
     "url": "https://github.com/10xHub/agentflow-cli"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 4,
-    "updated_at": "2026-07-21T12:27:55Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Symbio is an innovative project designed to empower users through seamless interaction with their machines. This flexibl",
@@ -90,15 +180,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12272,
-    "updated_at": "2026-07-21T12:27:50Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Autonomous AI-agent browser for Windows: a real WebView2 desktop browser as the agent runtime, with a local MCP server (",
     "id": "joelaniol/nova",
     "language": "\u2014",
@@ -108,29 +189,11 @@
     "url": "https://github.com/joelaniol/nova"
   },
   {
-    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
-    "id": "Alexli18/binex",
-    "language": "Python",
-    "name": "Alexli18/binex",
-    "stars": 62,
-    "updated_at": "2026-07-21T12:28:03Z",
-    "url": "https://github.com/Alexli18/binex"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T12:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7568,
+    "stars": 7569,
     "updated_at": "2026-07-21T12:09:07Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -207,6 +270,15 @@
     "url": "https://github.com/aandbcct/dotClaw"
   },
   {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8866,
+    "updated_at": "2026-07-21T11:32:03Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -214,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T11:30:57Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 116,
-    "updated_at": "2026-07-21T12:30:21Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -257,7 +320,7 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 492,
-    "updated_at": "2026-07-21T12:09:22Z",
+    "updated_at": "2026-07-21T12:36:35Z",
     "url": "https://github.com/cordum-io/cordum"
   },
   {
@@ -311,7 +374,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 73,
-    "updated_at": "2026-07-21T11:06:21Z",
+    "updated_at": "2026-07-21T12:34:49Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-21T11:18:58Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27467,
-    "updated_at": "2026-07-21T10:14:00Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 6,
-    "updated_at": "2026-07-21T10:08:12Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 2,
-    "updated_at": "2026-07-21T12:29:46Z",
-    "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-07-21T10:04:51Z",
-    "url": "https://github.com/MariusYvard/corparius"
-  },
-  {
-    "description": "Record, replay, and improve AI agents in production, built on ZenML",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 212,
-    "updated_at": "2026-07-21T09:59:30Z",
-    "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-07-21T09:58:44Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Official BisQue Ultra Platform",
-    "id": "amilworks/ultra",
-    "language": "Go",
-    "name": "amilworks/ultra",
-    "stars": 5,
-    "updated_at": "2026-07-21T11:26:50Z",
-    "url": "https://github.com/amilworks/ultra"
   }
 ]
