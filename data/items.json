@@ -1,5 +1,50 @@
 [
   {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-21T08:42:51Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 11,
+    "updated_at": "2026-07-21T08:41:29Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
+    "id": "neural-agi/Qwen3-Coder-Next",
+    "language": "Python",
+    "name": "neural-agi/Qwen3-Coder-Next",
+    "stars": 1,
+    "updated_at": "2026-07-21T08:38:19Z",
+    "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 4,
+    "updated_at": "2026-07-21T08:32:17Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T08:30:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -9,15 +54,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
-    "id": "neural-agi/Qwen3-Coder-Next",
-    "language": "Python",
-    "name": "neural-agi/Qwen3-Coder-Next",
-    "stars": 1,
-    "updated_at": "2026-07-21T08:26:11Z",
-    "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
-  },
-  {
     "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
     "id": "achappey/aihappey-chat",
     "language": "TypeScript",
@@ -25,6 +61,15 @@
     "stars": 3,
     "updated_at": "2026-07-21T08:22:52Z",
     "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
+    "description": "Agent SDK, CLI, RPC, Desktop in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 7,
+    "updated_at": "2026-07-21T08:22:31Z",
+    "url": "https://github.com/Wh1isper/starweaver"
   },
   {
     "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
@@ -81,15 +126,6 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T08:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -113,7 +149,7 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1571,
-    "updated_at": "2026-07-21T08:21:25Z",
+    "updated_at": "2026-07-21T08:43:58Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7561,
-    "updated_at": "2026-07-21T08:12:04Z",
+    "updated_at": "2026-07-21T08:38:25Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -133,24 +169,6 @@
     "stars": 73,
     "updated_at": "2026-07-21T08:29:34Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 6,
-    "updated_at": "2026-07-21T08:08:06Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 4,
-    "updated_at": "2026-07-21T08:14:14Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "The agent framework where every run is durable, replayable, and resumable by default.",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T07:56:03Z",
+    "updated_at": "2026-07-21T08:33:45Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -187,15 +205,6 @@
     "stars": 90,
     "updated_at": "2026-07-21T07:53:45Z",
     "url": "https://github.com/linora-u/AgentLoom"
-  },
-  {
-    "description": "Agent SDK, CLI, RPC, Desktop in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 6,
-    "updated_at": "2026-07-21T08:22:31Z",
-    "url": "https://github.com/Wh1isper/starweaver"
   },
   {
     "description": "Sanctum \u2014 local-first agent orchestration engine. Cyclic state graphs, checkpointing, streaming, and robust tool-calling",
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "evalstate/fast-agent",
     "stars": 3863,
-    "updated_at": "2026-07-21T07:48:25Z",
+    "updated_at": "2026-07-21T08:33:25Z",
     "url": "https://github.com/evalstate/fast-agent"
   },
   {
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-07-21T07:50:06Z",
+    "updated_at": "2026-07-21T08:31:20Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -293,7 +302,7 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 7,
-    "updated_at": "2026-07-21T07:35:55Z",
+    "updated_at": "2026-07-21T08:35:21Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "rllm-org/rllm",
     "stars": 5709,
-    "updated_at": "2026-07-21T08:25:27Z",
+    "updated_at": "2026-07-21T08:34:47Z",
     "url": "https://github.com/rllm-org/rllm"
   },
   {
@@ -340,6 +349,15 @@
     "stars": 2,
     "updated_at": "2026-07-21T07:15:17Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14618,
+    "updated_at": "2026-07-21T07:05:05Z",
+    "url": "https://github.com/eigent-ai/eigent"
   },
   {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
@@ -387,15 +405,6 @@
     "url": "https://github.com/akyourowngames/friday"
   },
   {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14618,
-    "updated_at": "2026-07-21T07:05:05Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
     "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
     "id": "Qwixl/Atom",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-21T08:25:06Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 1,
-    "updated_at": "2026-07-21T06:35:09Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
   }
 ]
