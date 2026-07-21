@@ -1,12 +1,84 @@
 [
   {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 9,
+    "updated_at": "2026-07-21T03:55:43Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 107,
+    "updated_at": "2026-07-21T03:54:45Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7552,
-    "updated_at": "2026-07-21T03:43:37Z",
+    "updated_at": "2026-07-21T03:58:03Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
+    "id": "phenomenoner/agent-harness-core",
+    "language": "Rust",
+    "name": "phenomenoner/agent-harness-core",
+    "stars": 0,
+    "updated_at": "2026-07-21T03:52:01Z",
+    "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 313,
+    "updated_at": "2026-07-21T03:51:49Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline wo",
+    "id": "CronusL-1141/AI-company",
+    "language": "Python",
+    "name": "CronusL-1141/AI-company",
+    "stars": 322,
+    "updated_at": "2026-07-21T03:49:17Z",
+    "url": "https://github.com/CronusL-1141/AI-company"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-21T03:49:09Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
+    "id": "tsingxuanhan/NexusFlow",
+    "language": "Python",
+    "name": "tsingxuanhan/NexusFlow",
+    "stars": 0,
+    "updated_at": "2026-07-21T03:48:33Z",
+    "url": "https://github.com/tsingxuanhan/NexusFlow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T03:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -45,15 +117,6 @@
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T03:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18681,
-    "updated_at": "2026-07-21T03:39:27Z",
+    "updated_at": "2026-07-21T03:47:33Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -153,15 +216,6 @@
     "url": "https://github.com/sweatco/archie-hq"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 313,
-    "updated_at": "2026-07-21T02:59:17Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
     "id": "hara-cli/hara",
     "language": "TypeScript",
@@ -187,15 +241,6 @@
     "stars": 6,
     "updated_at": "2026-07-21T02:50:17Z",
     "url": "https://github.com/wrg32786/aigent-os"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 107,
-    "updated_at": "2026-07-21T03:39:50Z",
-    "url": "https://github.com/Insajin/autopus-adk"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T03:26:54Z",
+    "updated_at": "2026-07-21T03:57:52Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -268,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T02:16:45Z",
     "url": "https://github.com/zizetu/existential-identity-test-engine"
-  },
-  {
-    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
-    "id": "phenomenoner/agent-harness-core",
-    "language": "Rust",
-    "name": "phenomenoner/agent-harness-core",
-    "stars": 0,
-    "updated_at": "2026-07-21T02:15:58Z",
-    "url": "https://github.com/phenomenoner/agent-harness-core"
   },
   {
     "description": "The .NET library to build AI agents with 30+ built-in connectors.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T01:07:27Z",
     "url": "https://github.com/ludex-lab/ludex"
-  },
-  {
-    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
-    "id": "saajunaid/junai",
-    "language": "Python",
-    "name": "saajunaid/junai",
-    "stars": 0,
-    "updated_at": "2026-07-21T00:55:43Z",
-    "url": "https://github.com/saajunaid/junai"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-07-21T00:51:32Z",
-    "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
-    "id": "tylerjrbuell/reactive-agents-ts",
-    "language": "TypeScript",
-    "name": "tylerjrbuell/reactive-agents-ts",
-    "stars": 16,
-    "updated_at": "2026-07-21T00:50:35Z",
-    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
-  },
-  {
-    "description": " Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution.",
-    "id": "longyijdos/kana",
-    "language": "TypeScript",
-    "name": "longyijdos/kana",
-    "stars": 1,
-    "updated_at": "2026-07-21T01:14:06Z",
-    "url": "https://github.com/longyijdos/kana"
   }
 ]
