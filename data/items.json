@@ -1,12 +1,39 @@
 [
   {
-    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
-    "id": "tsingxuanhan/NexusFlow",
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
     "language": "Python",
-    "name": "tsingxuanhan/NexusFlow",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-21T06:59:09Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14617,
+    "updated_at": "2026-07-21T06:55:29Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
     "stars": 0,
-    "updated_at": "2026-07-21T06:43:34Z",
-    "url": "https://github.com/tsingxuanhan/NexusFlow"
+    "updated_at": "2026-07-21T06:53:57Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
+    "id": "ulsreall/web3-agent-kit",
+    "language": "Python",
+    "name": "ulsreall/web3-agent-kit",
+    "stars": 19,
+    "updated_at": "2026-07-21T06:52:34Z",
+    "url": "https://github.com/ulsreall/web3-agent-kit"
   },
   {
     "description": "A local first, open source coding agent framework focused on building Codex like project assistance through a modular, t",
@@ -14,8 +41,62 @@
     "language": "Python",
     "name": "neural-agi/Qwen3-Coder-Next",
     "stars": 1,
-    "updated_at": "2026-07-21T06:42:12Z",
+    "updated_at": "2026-07-21T06:51:06Z",
     "url": "https://github.com/neural-agi/Qwen3-Coder-Next"
+  },
+  {
+    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
+    "id": "10xHub/Agentflow",
+    "language": "Python",
+    "name": "10xHub/Agentflow",
+    "stars": 18,
+    "updated_at": "2026-07-21T06:57:23Z",
+    "url": "https://github.com/10xHub/Agentflow"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-21T06:47:29Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "",
+    "id": "romainsantoli-web/setup-vs-agent-firm",
+    "language": "Python",
+    "name": "romainsantoli-web/setup-vs-agent-firm",
+    "stars": 0,
+    "updated_at": "2026-07-21T06:46:30Z",
+    "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T06:45:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27439,
+    "updated_at": "2026-07-21T06:44:53Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
+    "id": "tsingxuanhan/NexusFlow",
+    "language": "Python",
+    "name": "tsingxuanhan/NexusFlow",
+    "stars": 0,
+    "updated_at": "2026-07-21T06:43:34Z",
+    "url": "https://github.com/tsingxuanhan/NexusFlow"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -32,17 +113,8 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 9,
-    "updated_at": "2026-07-21T06:39:51Z",
+    "updated_at": "2026-07-21T06:45:40Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27437,
-    "updated_at": "2026-07-21T06:44:53Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Agent SDK, CLI, RPC, Desktop in Rust",
@@ -54,15 +126,6 @@
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-21T06:36:16Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
     "id": "tuanductran/soulmap-ai",
     "language": "Python",
@@ -70,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T06:35:09Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
-    "id": "ulsreall/web3-agent-kit",
-    "language": "Python",
-    "name": "ulsreall/web3-agent-kit",
-    "stars": 19,
-    "updated_at": "2026-07-21T06:34:22Z",
-    "url": "https://github.com/ulsreall/web3-agent-kit"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -99,21 +153,12 @@
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T06:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7556,
-    "updated_at": "2026-07-21T06:28:24Z",
+    "updated_at": "2026-07-21T06:58:55Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T06:04:27Z",
     "url": "https://github.com/dineshkhuman8014-code/Arctus.ai"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 6,
-    "updated_at": "2026-07-21T06:06:33Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
@@ -297,15 +333,6 @@
     "url": "https://github.com/simieco/simie"
   },
   {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14617,
-    "updated_at": "2026-07-21T06:42:00Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
     "description": "Go/Golang multi-agent LLM framework \u2014 ReAct loops, parallel tool calls, streaming, sub-agents, and pluggable Anthropic /",
     "id": "hung12ct/gopheragent",
     "language": "Go",
@@ -382,7 +409,7 @@
     "id": "rapidaai/voice-ai",
     "language": "Go",
     "name": "rapidaai/voice-ai",
-    "stars": 697,
+    "stars": 698,
     "updated_at": "2026-07-21T04:27:57Z",
     "url": "https://github.com/rapidaai/voice-ai"
   },
@@ -421,32 +448,5 @@
     "stars": 189,
     "updated_at": "2026-07-21T04:04:51Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 9,
-    "updated_at": "2026-07-21T03:55:43Z",
-    "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
-    "id": "phenomenoner/agent-harness-core",
-    "language": "Rust",
-    "name": "phenomenoner/agent-harness-core",
-    "stars": 0,
-    "updated_at": "2026-07-21T06:13:15Z",
-    "url": "https://github.com/phenomenoner/agent-harness-core"
-  },
-  {
-    "description": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline wo",
-    "id": "CronusL-1141/AI-company",
-    "language": "Python",
-    "name": "CronusL-1141/AI-company",
-    "stars": 323,
-    "updated_at": "2026-07-21T03:49:17Z",
-    "url": "https://github.com/CronusL-1141/AI-company"
   }
 ]
