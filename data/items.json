@@ -1,5 +1,59 @@
 [
   {
+    "description": "An agent = model + harness. A .NET 10 framework where guides shape the model's context each turn and sensors guard every",
+    "id": "AnilKerai/model-harness",
+    "language": "C#",
+    "name": "AnilKerai/model-harness",
+    "stars": 0,
+    "updated_at": "2026-07-21T17:50:46Z",
+    "url": "https://github.com/AnilKerai/model-harness"
+  },
+  {
+    "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph & MAF multi-a",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-07-21T17:50:10Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
+    "id": "cordum-io/cordum",
+    "language": "Go",
+    "name": "cordum-io/cordum",
+    "stars": 493,
+    "updated_at": "2026-07-21T17:50:43Z",
+    "url": "https://github.com/cordum-io/cordum"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 109,
+    "updated_at": "2026-07-21T17:48:23Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
+    "id": "Alexli18/binex",
+    "language": "Python",
+    "name": "Alexli18/binex",
+    "stars": 62,
+    "updated_at": "2026-07-21T17:45:38Z",
+    "url": "https://github.com/Alexli18/binex"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-21T17:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "Go",
@@ -36,15 +90,6 @@
     "url": "https://github.com/monaccode/astromesh"
   },
   {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
-    "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 109,
-    "updated_at": "2026-07-21T17:43:02Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
     "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
     "id": "ranxi2001/zero2Agent",
     "language": "HTML",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18705,
-    "updated_at": "2026-07-21T17:43:56Z",
+    "updated_at": "2026-07-21T17:47:22Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -97,24 +142,6 @@
     "stars": 16,
     "updated_at": "2026-07-21T17:34:36Z",
     "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
-  },
-  {
-    "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
-    "id": "cordum-io/cordum",
-    "language": "Go",
-    "name": "cordum-io/cordum",
-    "stars": 493,
-    "updated_at": "2026-07-21T17:32:05Z",
-    "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-21T17:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autonomous AI-agent browser for Windows: a real WebView2 desktop browser as the agent runtime, with a local MCP server (",
@@ -198,15 +225,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
-    "id": "Alexli18/binex",
-    "language": "Python",
-    "name": "Alexli18/binex",
-    "stars": 62,
-    "updated_at": "2026-07-21T17:11:27Z",
-    "url": "https://github.com/Alexli18/binex"
-  },
-  {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
     "id": "bbvch-ai/aihub-core",
     "language": "Python",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
     "stars": 313,
-    "updated_at": "2026-07-21T16:50:19Z",
+    "updated_at": "2026-07-21T17:50:29Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
@@ -346,7 +364,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12278,
+    "stars": 12279,
     "updated_at": "2026-07-21T16:21:49Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -364,7 +382,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27483,
+    "stars": 27484,
     "updated_at": "2026-07-21T16:14:40Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T16:38:43Z",
     "url": "https://github.com/Rahulsanecdote/Forge"
-  },
-  {
-    "description": "Bring an idea. Leave with a working MVP. Lullabeast is a gated multi-agent pipeline that gets results from cheap open mo",
-    "id": "bigbraingoldfish/lullabeast",
-    "language": "Python",
-    "name": "bigbraingoldfish/lullabeast",
-    "stars": 11,
-    "updated_at": "2026-07-21T15:54:41Z",
-    "url": "https://github.com/bigbraingoldfish/lullabeast"
-  },
-  {
-    "description": "\u9762\u5411 OA\u3001ERP\u3001CRM\u3001\u5de5\u5355\u7b49\u4f01\u4e1a\u7cfb\u7edf\u5feb\u901f\u6784\u5efa\u667a\u80fd\u4f53\uff0c\u8ba9 AI \u5728\u6743\u9650\u3001\u5ba1\u8ba1\u4e0e\u6cbb\u7406\u7ea6\u675f\u4e0b\u5b89\u5168\u8c03\u7528\u771f\u5b9e\u4e1a\u52a1\u80fd\u529b\u3002Build agents quickly for enterprise systems such as OA, ERP, CR",
-    "id": "w8123/EnterpriseAgentFramework",
-    "language": "Java",
-    "name": "w8123/EnterpriseAgentFramework",
-    "stars": 488,
-    "updated_at": "2026-07-21T15:36:51Z",
-    "url": "https://github.com/w8123/EnterpriseAgentFramework"
   }
 ]
