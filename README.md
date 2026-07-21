@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-21 01:45 UTC
+> ⏰ Last updated: 2026-07-21 02:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,30 +42,30 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7551 | Python | 2026-07-21 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 2 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18677 | Python | 2026-07-21 | AI Agent Framework, the Pydantic way |
-| 3 | [OrlojHQ/orloj](https://github.com/OrlojHQ/orloj) | 109 | Go | 2026-07-21 | An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu |
-| 4 | [john-data-chen/hermes-agent-backup](https://github.com/john-data-chen/hermes-agent-backup) | 2 | TeX | 2026-07-21 | backup of hermes-agent |
-| 5 | [bugsyhewitt/AlienClaw](https://github.com/bugsyhewitt/AlienClaw) | 7 | TypeScript | 2026-07-21 | Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on  |
-| 6 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 313 | Python | 2026-07-21 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
-| 7 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-21 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 8 | [Rahulsanecdote/Forge](https://github.com/Rahulsanecdote/Forge) | 1 | TypeScript | 2026-07-21 | Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off |
-| 9 | [phenomenoner/agent-harness-core](https://github.com/phenomenoner/agent-harness-core) | 0 | Rust | 2026-07-21 | Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact |
-| 10 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-21 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 11 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 27420 | Go | 2026-07-21 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 12 | [Aureliolo/synthorg](https://github.com/Aureliolo/synthorg) | 9 | Python | 2026-07-21 | SynthOrg - Framework for building synthetic organizations with autonomous AI agents |
-| 13 | [Insajin/autopus-adk](https://github.com/Insajin/autopus-adk) | 107 | Go | 2026-07-21 | Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes |
-| 14 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 4870 | Python | 2026-07-21 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
-| 15 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-07-21 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
-| 16 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-21 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 17 | [zizetu/existential-identity-test-engine](https://github.com/zizetu/existential-identity-test-engine) | 1 | Python | 2026-07-21 | Existential Identity Test Engine — EITE Agent Framework |
-| 18 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 4 | Python | 2026-07-21 | Many Agents, one objective... yours  |
-| 19 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 189 | Python | 2026-07-21 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
-| 20 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-07-21 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 21 | [ludex-lab/ludex](https://github.com/ludex-lab/ludex) | 0 | Python | 2026-07-21 | Assemble living AI creatures from biological organ blocks — an AI ethology research platform. Code MIT · sample creature |
-| 22 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 116 | Shell | 2026-07-21 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
-| 23 | [xuiltul/animaworks](https://github.com/xuiltul/animaworks) | 245 | Python | 2026-07-21 | Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model  |
-| 24 | [Dranser/Skills-Graph](https://github.com/Dranser/Skills-Graph) | 0 | PowerShell | 2026-07-21 | Structured skill graph for LLM agents: routing, execution guidance, references, and reusable domain knowledge in JSON. |
+| 1 | [Rahulsanecdote/Forge](https://github.com/Rahulsanecdote/Forge) | 1 | TypeScript | 2026-07-21 | Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off |
+| 2 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 313 | Python | 2026-07-21 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
+| 3 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 27421 | Go | 2026-07-21 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 4 | [Dranser/Skills-Graph](https://github.com/Dranser/Skills-Graph) | 0 | PowerShell | 2026-07-21 | Structured skill graph for LLM agents: routing, execution guidance, references, and reusable domain knowledge in JSON. |
+| 5 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7551 | Python | 2026-07-21 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 6 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-21 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 7 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18677 | Python | 2026-07-21 | AI Agent Framework, the Pydantic way |
+| 8 | [OrlojHQ/orloj](https://github.com/OrlojHQ/orloj) | 109 | Go | 2026-07-21 | An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu |
+| 9 | [john-data-chen/hermes-agent-backup](https://github.com/john-data-chen/hermes-agent-backup) | 3 | TeX | 2026-07-21 | backup of hermes-agent |
+| 10 | [bugsyhewitt/AlienClaw](https://github.com/bugsyhewitt/AlienClaw) | 7 | TypeScript | 2026-07-21 | Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on  |
+| 11 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-21 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 12 | [phenomenoner/agent-harness-core](https://github.com/phenomenoner/agent-harness-core) | 0 | Rust | 2026-07-21 | Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact |
+| 13 | [Aureliolo/synthorg](https://github.com/Aureliolo/synthorg) | 9 | Python | 2026-07-21 | SynthOrg - Framework for building synthetic organizations with autonomous AI agents |
+| 14 | [Insajin/autopus-adk](https://github.com/Insajin/autopus-adk) | 107 | Go | 2026-07-21 | Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes |
+| 15 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 4870 | Python | 2026-07-21 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
+| 16 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 0 | HTML | 2026-07-21 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
+| 17 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-21 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 18 | [zizetu/existential-identity-test-engine](https://github.com/zizetu/existential-identity-test-engine) | 1 | Python | 2026-07-21 | Existential Identity Test Engine — EITE Agent Framework |
+| 19 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 4 | Python | 2026-07-21 | Many Agents, one objective... yours  |
+| 20 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 189 | Python | 2026-07-21 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
+| 21 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-07-21 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 22 | [ludex-lab/ludex](https://github.com/ludex-lab/ludex) | 0 | Python | 2026-07-21 | Assemble living AI creatures from biological organ blocks — an AI ethology research platform. Code MIT · sample creature |
+| 23 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 116 | Shell | 2026-07-21 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
+| 24 | [xuiltul/animaworks](https://github.com/xuiltul/animaworks) | 245 | Python | 2026-07-21 | Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model  |
 | 25 | [saajunaid/junai](https://github.com/saajunaid/junai) | 0 | Python | 2026-07-21 | junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic |
 | 26 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-07-21 | Research framework for adaptive, purposeful agents under uncertainty |
 | 27 | [tylerjrbuell/reactive-agents-ts](https://github.com/tylerjrbuell/reactive-agents-ts) | 16 | TypeScript | 2026-07-21 | A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th |
@@ -91,7 +91,7 @@ expired items removed — so you can rely on what you see being current.
 | 47 | [w8123/EnterpriseAgentFramework](https://github.com/w8123/EnterpriseAgentFramework) | 484 | Java | 2026-07-20 | 面向 OA、ERP、CRM、工单等企业系统快速构建智能体，让 AI 在权限、审计与治理约束下安全调用真实业务能力。Build agents quickly for enterprise systems such as OA, ERP, CR |
 | 48 | [ahwurm/localharness](https://github.com/ahwurm/localharness) | 18 | Python | 2026-07-20 | An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission |
 | 49 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 10 | TypeScript | 2026-07-20 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
-| 50 | [cortexkit/aft](https://github.com/cortexkit/aft) | 208 | Rust | 2026-07-20 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 50 | [cortexkit/aft](https://github.com/cortexkit/aft) | 209 | Rust | 2026-07-20 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
 <!-- TRACKER_TABLE_END -->
 
 ---
