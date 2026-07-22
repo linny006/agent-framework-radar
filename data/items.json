@@ -1,5 +1,86 @@
 [
   {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 107,
+    "updated_at": "2026-07-22T22:29:44Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 313,
+    "updated_at": "2026-07-22T22:28:44Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1264,
+    "updated_at": "2026-07-22T22:28:00Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-22T22:24:50Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
+    "id": "clawboo/clawboo",
+    "language": "TypeScript",
+    "name": "clawboo/clawboo",
+    "stars": 49,
+    "updated_at": "2026-07-22T22:24:36Z",
+    "url": "https://github.com/clawboo/clawboo"
+  },
+  {
+    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
+    "id": "rogerchappel/crewcmd",
+    "language": "TypeScript",
+    "name": "rogerchappel/crewcmd",
+    "stars": 2,
+    "updated_at": "2026-07-22T22:21:58Z",
+    "url": "https://github.com/rogerchappel/crewcmd"
+  },
+  {
+    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
+    "id": "loopedautomation/meet",
+    "language": "TypeScript",
+    "name": "loopedautomation/meet",
+    "stars": 5,
+    "updated_at": "2026-07-22T22:20:08Z",
+    "url": "https://github.com/loopedautomation/meet"
+  },
+  {
+    "description": "Personel Assistant On Telegram",
+    "id": "EmreAka/Assistant",
+    "language": "C#",
+    "name": "EmreAka/Assistant",
+    "stars": 1,
+    "updated_at": "2026-07-22T22:18:00Z",
+    "url": "https://github.com/EmreAka/Assistant"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T22:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -9,22 +90,13 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1264,
-    "updated_at": "2026-07-22T22:11:29Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Personel Assistant On Telegram",
-    "id": "EmreAka/Assistant",
-    "language": "C#",
-    "name": "EmreAka/Assistant",
-    "stars": 1,
-    "updated_at": "2026-07-22T22:08:48Z",
-    "url": "https://github.com/EmreAka/Assistant"
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18737,
+    "updated_at": "2026-07-22T22:11:48Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "",
@@ -72,15 +144,6 @@
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-22T22:13:08Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -88,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T22:01:59Z",
     "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T22:00:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -126,15 +180,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
-    "id": "clawboo/clawboo",
-    "language": "TypeScript",
-    "name": "clawboo/clawboo",
-    "stars": 49,
-    "updated_at": "2026-07-22T21:50:34Z",
-    "url": "https://github.com/clawboo/clawboo"
-  },
-  {
     "description": "High-autonomy config for opencode: ship features end-to-end with one command. 5 models, 5 families, zero interruptions.",
     "id": "vocino/opencode-autonomy",
     "language": "Shell",
@@ -151,15 +196,6 @@
     "stars": 12313,
     "updated_at": "2026-07-22T22:13:36Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18736,
-    "updated_at": "2026-07-22T22:11:48Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "A glass-box, minimal library for building LLM agents \u2014 modern techniques as opt-in primitives, no hidden control flow. P",
@@ -365,7 +401,7 @@
     "language": "Go",
     "name": "amilworks/ultra",
     "stars": 5,
-    "updated_at": "2026-07-22T21:33:26Z",
+    "updated_at": "2026-07-22T22:16:20Z",
     "url": "https://github.com/amilworks/ultra"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/evalstate/fast-agent"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 313,
-    "updated_at": "2026-07-22T19:49:52Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
     "id": "pereirawe/opencode-flow",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T19:47:09Z",
     "url": "https://github.com/pereirawe/opencode-flow"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4787,
-    "updated_at": "2026-07-22T19:45:22Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
-    "id": "Rahulsanecdote/Forge",
-    "language": "TypeScript",
-    "name": "Rahulsanecdote/Forge",
-    "stars": 1,
-    "updated_at": "2026-07-22T19:36:48Z",
-    "url": "https://github.com/Rahulsanecdote/Forge"
-  },
-  {
-    "description": "An open-source operating system for Claude Code \u2014 persistent Obsidian-vault memory, a self-checkpointing two-verb sessio",
-    "id": "wrg32786/aigent-os",
-    "language": "JavaScript",
-    "name": "wrg32786/aigent-os",
-    "stars": 8,
-    "updated_at": "2026-07-22T19:21:54Z",
-    "url": "https://github.com/wrg32786/aigent-os"
   }
 ]
