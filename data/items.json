@@ -1,5 +1,68 @@
 [
   {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 3,
+    "updated_at": "2026-07-22T08:57:50Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
+    "id": "tsingxuanhan/NexusFlow",
+    "language": "Python",
+    "name": "tsingxuanhan/NexusFlow",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:57:44Z",
+    "url": "https://github.com/tsingxuanhan/NexusFlow"
+  },
+  {
+    "description": "14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) \u2014 deploy your virtual C-Suite in one git clone",
+    "id": "aAAaqwq/AGI-Super-Team",
+    "language": "Python",
+    "name": "aAAaqwq/AGI-Super-Team",
+    "stars": 78,
+    "updated_at": "2026-07-22T08:54:32Z",
+    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7606,
+    "updated_at": "2026-07-22T08:59:46Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
+    "id": "moolamai/Sutra",
+    "language": "TypeScript",
+    "name": "moolamai/Sutra",
+    "stars": 4,
+    "updated_at": "2026-07-22T08:49:27Z",
+    "url": "https://github.com/moolamai/Sutra"
+  },
+  {
+    "description": "A file-backed operating model for AI agents: explicit authority, scoped workflows, context routing, source discipline, v",
+    "id": "laurenzpavlosmalisianos/master-prompt-agreement",
+    "language": "Python",
+    "name": "laurenzpavlosmalisianos/master-prompt-agreement",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:48:37Z",
+    "url": "https://github.com/laurenzpavlosmalisianos/master-prompt-agreement"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T08:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
     "id": "zlatko-lakisic/agentic-orchestration",
     "language": "Python",
@@ -7,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T08:44:24Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7605,
-    "updated_at": "2026-07-22T08:44:42Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
@@ -34,15 +88,6 @@
     "stars": 6,
     "updated_at": "2026-07-22T08:40:31Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
-    "id": "tsingxuanhan/NexusFlow",
-    "language": "Python",
-    "name": "tsingxuanhan/NexusFlow",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:37:34Z",
-    "url": "https://github.com/tsingxuanhan/NexusFlow"
   },
   {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
@@ -79,24 +124,6 @@
     "stars": 107,
     "updated_at": "2026-07-22T08:32:15Z",
     "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T08:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Sovereign AI Initiative for Open Autonomous Cognitive Companion",
-    "id": "moolamai/Sutra",
-    "language": "TypeScript",
-    "name": "moolamai/Sutra",
-    "stars": 4,
-    "updated_at": "2026-07-22T08:28:13Z",
-    "url": "https://github.com/moolamai/Sutra"
   },
   {
     "description": "The agent framework where every run is durable, replayable, and resumable by default.",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 214,
-    "updated_at": "2026-07-22T08:24:34Z",
+    "updated_at": "2026-07-22T08:50:21Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 493,
-    "updated_at": "2026-07-22T08:14:23Z",
+    "updated_at": "2026-07-22T08:52:57Z",
     "url": "https://github.com/cordum-io/cordum"
   },
   {
@@ -229,7 +256,7 @@
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 4636,
+    "stars": 4640,
     "updated_at": "2026-07-22T08:01:39Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
@@ -256,7 +283,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27539,
+    "stars": 27540,
     "updated_at": "2026-07-22T07:58:16Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -265,7 +292,7 @@
     "id": "foryourhealth111-pixel/Vibe-Skills",
     "language": "Python",
     "name": "foryourhealth111-pixel/Vibe-Skills",
-    "stars": 2428,
+    "stars": 2429,
     "updated_at": "2026-07-22T07:57:40Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   },
@@ -346,7 +373,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12301,
+    "stars": 12303,
     "updated_at": "2026-07-22T07:13:38Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -391,7 +418,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4874,
+    "stars": 4875,
     "updated_at": "2026-07-22T07:01:51Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T06:54:01Z",
     "url": "https://github.com/achappey/aihappey-agents"
-  },
-  {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 11,
-    "updated_at": "2026-07-22T06:51:10Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "Composable multi-agent framework for GitHub Copilot \u2014 persona grafting, cognitive identity caching, and agent fusion for",
-    "id": "CTOUT/Symdicate",
-    "language": "Shell",
-    "name": "CTOUT/Symdicate",
-    "stars": 1,
-    "updated_at": "2026-07-22T06:51:54Z",
-    "url": "https://github.com/CTOUT/Symdicate"
-  },
-  {
-    "description": "",
-    "id": "romainsantoli-web/setup-vs-agent-firm",
-    "language": "Python",
-    "name": "romainsantoli-web/setup-vs-agent-firm",
-    "stars": 0,
-    "updated_at": "2026-07-22T06:46:51Z",
-    "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
   }
 ]
