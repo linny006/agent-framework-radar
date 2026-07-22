@@ -1,12 +1,21 @@
 [
   {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4877,
-    "updated_at": "2026-07-22T09:43:58Z",
-    "url": "https://github.com/iflytek/skillhub"
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7608,
+    "updated_at": "2026-07-22T09:53:23Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Nuwa - a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
+    "id": "LucioLiu/nuwa",
+    "language": "Python",
+    "name": "LucioLiu/nuwa",
+    "stars": 2,
+    "updated_at": "2026-07-22T09:51:19Z",
+    "url": "https://github.com/LucioLiu/nuwa"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -14,17 +23,35 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 6,
-    "updated_at": "2026-07-22T09:44:02Z",
+    "updated_at": "2026-07-22T09:50:31Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:38:21Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T09:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 9,
+    "updated_at": "2026-07-22T09:45:23Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4877,
+    "updated_at": "2026-07-22T09:53:35Z",
+    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandbox",
@@ -36,13 +63,13 @@
     "url": "https://github.com/vstorm-co/pydantic-deepagents"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7607,
-    "updated_at": "2026-07-22T09:44:27Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-22T09:38:21Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Symbio is an innovative project designed to empower users through seamless interaction with their machines. This flexibl",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T09:31:29Z",
     "url": "https://github.com/LucioLiu/agent-modpack"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T09:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
@@ -279,15 +297,6 @@
     "url": "https://github.com/laurenzpavlosmalisianos/master-prompt-agreement"
   },
   {
-    "description": "Nuwa - a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
-    "id": "LucioLiu/nuwa",
-    "language": "Python",
-    "name": "LucioLiu/nuwa",
-    "stars": 2,
-    "updated_at": "2026-07-22T08:36:16Z",
-    "url": "https://github.com/LucioLiu/nuwa"
-  },
-  {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
     "id": "jiayan-xu/agent-core",
     "language": "Rust",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 94,
-    "updated_at": "2026-07-22T09:29:15Z",
+    "updated_at": "2026-07-22T09:54:29Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2430,
     "updated_at": "2026-07-22T07:57:40Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
-  },
-  {
-    "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
-    "id": "Sheep1433/Noesis",
-    "language": "Python",
-    "name": "Sheep1433/Noesis",
-    "stars": 11,
-    "updated_at": "2026-07-22T07:53:03Z",
-    "url": "https://github.com/Sheep1433/Noesis"
   }
 ]
