@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 04:30 UTC
+> ⏰ Last updated: 2026-07-22 04:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-22 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 2 | [jiayan-xu/agent-core](https://github.com/jiayan-xu/agent-core) | 1 | Rust | 2026-07-22 | Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust. |
-| 3 | [sheawinkler/ContextLattice](https://github.com/sheawinkler/ContextLattice) | 136 | Go | 2026-07-22 | The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and |
-| 4 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 117 | Shell | 2026-07-22 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
-| 5 | [weihuaguo270-ops/react-agent](https://github.com/weihuaguo270-ops/react-agent) | 1 | Python | 2026-07-22 | ReAct Agent 学习实现 — Harness 轨迹 Schema、capability 评测、跨仓闭环 demo（非生产沙箱） |
-| 6 | [hara-cli/hara](https://github.com/hara-cli/hara) | 3 | TypeScript | 2026-07-22 | A coding agent CLI that runs like an engineering org — role routing, plan DAGs, approvals, memory, and a 10-platform cha |
-| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-22 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-22 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-22 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 3 | [jiayan-xu/agent-core](https://github.com/jiayan-xu/agent-core) | 1 | Rust | 2026-07-22 | Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust. |
+| 4 | [sheawinkler/ContextLattice](https://github.com/sheawinkler/ContextLattice) | 136 | Go | 2026-07-22 | The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and |
+| 5 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 117 | Shell | 2026-07-22 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
+| 6 | [weihuaguo270-ops/react-agent](https://github.com/weihuaguo270-ops/react-agent) | 1 | Python | 2026-07-22 | ReAct Agent 学习实现 — Harness 轨迹 Schema、capability 评测、跨仓闭环 demo（非生产沙箱） |
+| 7 | [hara-cli/hara](https://github.com/hara-cli/hara) | 3 | TypeScript | 2026-07-22 | A coding agent CLI that runs like an engineering org — role routing, plan DAGs, approvals, memory, and a 10-platform cha |
 | 8 | [Caprista/KarvyLoop](https://github.com/Caprista/KarvyLoop) | 11 | Python | 2026-07-22 | The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a |
 | 9 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 73 | TypeScript | 2026-07-22 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
 | 10 | [frogbotai/frogbot](https://github.com/frogbotai/frogbot) | 1 | TypeScript | 2026-07-22 | The AI Agent framework for enterprises and agencies |
