@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 01:05 UTC
+> ⏰ Last updated: 2026-07-22 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-22 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-22 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 3 | [Qwixl/Atom](https://github.com/Qwixl/Atom) | 0 | TypeScript | 2026-07-22 | An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog. |
-| 4 | [cortexkit/aft](https://github.com/cortexkit/aft) | 212 | Rust | 2026-07-22 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 5 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7585 | Python | 2026-07-22 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 6 | [Omni-Craft/OmniCraft](https://github.com/Omni-Craft/OmniCraft) | 0 | Python | 2026-07-22 | OmniCraft — meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat · Code · Craftwork. |
-| 7 | [tylerjrbuell/reactive-agents-ts](https://github.com/tylerjrbuell/reactive-agents-ts) | 16 | TypeScript | 2026-07-22 | A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th |
-| 8 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 5 | Python | 2026-07-22 | Many Agents, one objective... yours  |
-| 9 | [Insajin/autopus-adk](https://github.com/Insajin/autopus-adk) | 107 | Go | 2026-07-22 | Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes |
-| 10 | [silver4444-xs/silver_research_bot](https://github.com/silver4444-xs/silver_research_bot) | 0 | Python | 2026-07-22 | 上传 PDF → 全自动 8 阶段深度论文分析。自研框架，集成 LLM 翻译/公式解读/可视化/审稿/审计、混合 RAG、29+ Provider、14 聊天通道。Python + FastAPI + Vue 3 |
-| 11 | [brunogcar/agent](https://github.com/brunogcar/agent) | 1 | Python | 2026-07-22 | Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline  |
-| 12 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18716 | Python | 2026-07-22 | AI Agent Framework, the Pydantic way |
-| 13 | [sytone/botnexus](https://github.com/sytone/botnexus) | 4 | C# | 2026-07-22 | BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in  |
-| 14 | [amilworks/ultra](https://github.com/amilworks/ultra) | 5 | Go | 2026-07-22 | AI research agents + scientific image viewer for bioimaging & neuroimaging — LangGraph agents, GPU inference, and native |
-| 15 | [aAAaqwq/AGI-Super-Team](https://github.com/aAAaqwq/AGI-Super-Team) | 78 | Python | 2026-07-22 | 14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) — deploy your virtual C-Suite in one git clone |
-| 16 | [AgentEra/Agently](https://github.com/AgentEra/Agently) | 1627 | Python | 2026-07-22 | [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent  |
-| 17 | [dryvist/ai-assistant-instructions](https://github.com/dryvist/ai-assistant-instructions) | 9 | Shell | 2026-07-22 | A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions  |
-| 18 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 117 | Shell | 2026-07-22 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
+| 1 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 117 | Shell | 2026-07-22 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
+| 2 | [Omni-Craft/OmniCraft](https://github.com/Omni-Craft/OmniCraft) | 0 | Python | 2026-07-22 | OmniCraft — meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat · Code · Craftwork. |
+| 3 | [brunogcar/agent](https://github.com/brunogcar/agent) | 1 | Python | 2026-07-22 | Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline  |
+| 4 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-22 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 5 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-22 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 6 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18717 | Python | 2026-07-22 | AI Agent Framework, the Pydantic way |
+| 7 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7586 | Python | 2026-07-22 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 8 | [Qwixl/Atom](https://github.com/Qwixl/Atom) | 0 | TypeScript | 2026-07-22 | An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog. |
+| 9 | [cortexkit/aft](https://github.com/cortexkit/aft) | 212 | Rust | 2026-07-22 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 10 | [tylerjrbuell/reactive-agents-ts](https://github.com/tylerjrbuell/reactive-agents-ts) | 16 | TypeScript | 2026-07-22 | A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th |
+| 11 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 5 | Python | 2026-07-22 | Many Agents, one objective... yours  |
+| 12 | [Insajin/autopus-adk](https://github.com/Insajin/autopus-adk) | 107 | Go | 2026-07-22 | Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes |
+| 13 | [silver4444-xs/silver_research_bot](https://github.com/silver4444-xs/silver_research_bot) | 0 | Python | 2026-07-22 | 上传 PDF → 全自动 8 阶段深度论文分析。自研框架，集成 LLM 翻译/公式解读/可视化/审稿/审计、混合 RAG、29+ Provider、14 聊天通道。Python + FastAPI + Vue 3 |
+| 14 | [sytone/botnexus](https://github.com/sytone/botnexus) | 4 | C# | 2026-07-22 | BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in  |
+| 15 | [amilworks/ultra](https://github.com/amilworks/ultra) | 5 | Go | 2026-07-22 | AI research agents + scientific image viewer for bioimaging & neuroimaging — LangGraph agents, GPU inference, and native |
+| 16 | [aAAaqwq/AGI-Super-Team](https://github.com/aAAaqwq/AGI-Super-Team) | 78 | Python | 2026-07-22 | 14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) — deploy your virtual C-Suite in one git clone |
+| 17 | [AgentEra/Agently](https://github.com/AgentEra/Agently) | 1627 | Python | 2026-07-22 | [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent  |
+| 18 | [dryvist/ai-assistant-instructions](https://github.com/dryvist/ai-assistant-instructions) | 9 | Shell | 2026-07-22 | A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions  |
 | 19 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 12287 | Python | 2026-07-22 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
 | 20 | [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) | 346 | Python | 2026-07-22 | This package implements Agent Skills (https://agentskills.io) support with progressive disclosure for Pydantic AI. Suppo |
 | 21 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6663 | Python | 2026-07-22 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
