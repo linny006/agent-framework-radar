@@ -1,5 +1,77 @@
 [
   {
+    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
+    "id": "Omni-Craft/OmniCraft",
+    "language": "Python",
+    "name": "Omni-Craft/OmniCraft",
+    "stars": 0,
+    "updated_at": "2026-07-22T03:00:02Z",
+    "url": "https://github.com/Omni-Craft/OmniCraft"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27502,
+    "updated_at": "2026-07-22T02:58:58Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7590,
+    "updated_at": "2026-07-22T02:53:23Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 107,
+    "updated_at": "2026-07-22T02:49:42Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-22T02:47:02Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-07-22T02:46:06Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T02:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A transparent and controllable AI Agent & Security Agent that breaks free from sandbox limitations, unleashing true auto",
+    "id": "miunasu/Spore",
+    "language": "Python",
+    "name": "miunasu/Spore",
+    "stars": 47,
+    "updated_at": "2026-07-22T02:55:20Z",
+    "url": "https://github.com/miunasu/Spore"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -16,15 +88,6 @@
     "stars": 1575,
     "updated_at": "2026-07-22T02:36:30Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T02:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -45,15 +108,6 @@
     "url": "https://github.com/v2-io/agentic-systems"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7590,
-    "updated_at": "2026-07-22T02:35:36Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18719,
-    "updated_at": "2026-07-22T02:44:39Z",
+    "updated_at": "2026-07-22T02:52:59Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 212,
     "updated_at": "2026-07-22T02:17:25Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 107,
-    "updated_at": "2026-07-22T02:25:00Z",
-    "url": "https://github.com/Insajin/autopus-adk"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -113,7 +158,7 @@
     "language": "Rust",
     "name": "ThousandBirdsInc/chidori",
     "stars": 1359,
-    "updated_at": "2026-07-22T02:13:14Z",
+    "updated_at": "2026-07-22T02:47:00Z",
     "url": "https://github.com/ThousandBirdsInc/chidori"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-22T02:39:58Z",
+    "updated_at": "2026-07-22T02:49:42Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -166,7 +211,7 @@
     "id": "Dranser/skills-graph",
     "language": "PowerShell",
     "name": "Dranser/skills-graph",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-22T02:01:13Z",
     "url": "https://github.com/Dranser/skills-graph"
   },
@@ -198,15 +243,6 @@
     "url": "https://github.com/CronusL-1141/AI-company"
   },
   {
-    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
-    "id": "Omni-Craft/OmniCraft",
-    "language": "Python",
-    "name": "Omni-Craft/OmniCraft",
-    "stars": 0,
-    "updated_at": "2026-07-22T02:45:07Z",
-    "url": "https://github.com/Omni-Craft/OmniCraft"
-  },
-  {
     "description": "Democratizing Reinforcement Learning for LLMs",
     "id": "rllm-org/rllm",
     "language": "Python",
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 73,
-    "updated_at": "2026-07-22T01:39:34Z",
+    "updated_at": "2026-07-22T02:56:18Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -315,20 +351,11 @@
     "url": "https://github.com/Qwixl/Atom"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27502,
-    "updated_at": "2026-07-22T00:56:42Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12289,
+    "stars": 12290,
     "updated_at": "2026-07-22T00:47:42Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T00:02:09Z",
     "url": "https://github.com/saajunaid/junai"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:57:21Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
-    "id": "JohnnyFiv3r/Core-Memory",
-    "language": "Python",
-    "name": "JohnnyFiv3r/Core-Memory",
-    "stars": 20,
-    "updated_at": "2026-07-21T23:46:46Z",
-    "url": "https://github.com/JohnnyFiv3r/Core-Memory"
-  },
-  {
-    "description": "AI AgenticSafe - stop your AI agent from breaking production at 3 a.m. 8 battle-tested doctrines, 3 real post-mortems, z",
-    "id": "Yacineutt/AI-AgenticSafe",
-    "language": "\u2014",
-    "name": "Yacineutt/AI-AgenticSafe",
-    "stars": 1,
-    "updated_at": "2026-07-21T23:42:42Z",
-    "url": "https://github.com/Yacineutt/AI-AgenticSafe"
   }
 ]
