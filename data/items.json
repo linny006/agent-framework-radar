@@ -1,5 +1,59 @@
 [
   {
+    "description": "A C++20 framework for building intelligent agents.",
+    "id": "lkimuk/Wuwe",
+    "language": "C++",
+    "name": "lkimuk/Wuwe",
+    "stars": 0,
+    "updated_at": "2026-07-22T12:58:47Z",
+    "url": "https://github.com/lkimuk/Wuwe"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27547,
+    "updated_at": "2026-07-22T12:56:34Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "One-command assembly for a portable AI agent team you own - Nuwa, templates, team rules and memory, wired with preview/a",
+    "id": "LucioLiu/agent-modpack",
+    "language": "Python",
+    "name": "LucioLiu/agent-modpack",
+    "stars": 0,
+    "updated_at": "2026-07-22T12:53:58Z",
+    "url": "https://github.com/LucioLiu/agent-modpack"
+  },
+  {
+    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
+    "id": "loopedautomation/meet",
+    "language": "TypeScript",
+    "name": "loopedautomation/meet",
+    "stars": 5,
+    "updated_at": "2026-07-22T12:52:33Z",
+    "url": "https://github.com/loopedautomation/meet"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-22T12:49:54Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T12:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
     "id": "jiayan-xu/agent-core",
     "language": "Rust",
@@ -7,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-07-22T12:44:35Z",
     "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18731,
+    "updated_at": "2026-07-22T12:44:23Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Phone local agent",
@@ -41,7 +104,7 @@
     "language": "Rust",
     "name": "RNT56/ThinClaw",
     "stars": 0,
-    "updated_at": "2026-07-22T12:36:46Z",
+    "updated_at": "2026-07-22T12:47:52Z",
     "url": "https://github.com/RNT56/ThinClaw"
   },
   {
@@ -72,15 +135,6 @@
     "url": "https://github.com/cordum-io/cordum"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T12:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -88,24 +142,6 @@
     "stars": 7614,
     "updated_at": "2026-07-22T12:25:44Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18731,
-    "updated_at": "2026-07-22T12:44:23Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
-    "id": "loopedautomation/meet",
-    "language": "TypeScript",
-    "name": "loopedautomation/meet",
-    "stars": 5,
-    "updated_at": "2026-07-22T12:20:27Z",
-    "url": "https://github.com/loopedautomation/meet"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -124,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T12:19:53Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "A C++20 framework for building intelligent agents.",
-    "id": "lkimuk/Wuwe",
-    "language": "C++",
-    "name": "lkimuk/Wuwe",
-    "stars": 0,
-    "updated_at": "2026-07-22T12:18:51Z",
-    "url": "https://github.com/lkimuk/Wuwe"
   },
   {
     "description": "A file-backed operating model for AI agents: explicit authority, scoped workflows, context routing, source discipline, v",
@@ -178,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T11:55:32Z",
     "url": "https://github.com/LucioLiu/nuwa"
-  },
-  {
-    "description": "One-command assembly for a portable AI agent team you own - Nuwa, templates, team rules and memory, wired with preview/a",
-    "id": "LucioLiu/agent-modpack",
-    "language": "Python",
-    "name": "LucioLiu/agent-modpack",
-    "stars": 0,
-    "updated_at": "2026-07-22T11:55:28Z",
-    "url": "https://github.com/LucioLiu/agent-modpack"
   },
   {
     "description": "The zero-trust framework for autonomous AI agents.",
@@ -268,24 +286,6 @@
     "stars": 313,
     "updated_at": "2026-07-22T11:22:37Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27546,
-    "updated_at": "2026-07-22T11:20:40Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-22T11:16:25Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
