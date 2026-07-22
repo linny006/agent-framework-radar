@@ -1,21 +1,12 @@
 [
   {
-    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
-    "id": "substructureai/substructure",
-    "language": "Rust",
-    "name": "substructureai/substructure",
-    "stars": 5,
-    "updated_at": "2026-07-22T13:29:13Z",
-    "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "Deterministic compiler and runtime for autonomous AI agents. Compile reasoning into replayable execution graphs \u2014 audita",
-    "id": "DBarr3/Nano",
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
     "language": "Python",
-    "name": "DBarr3/Nano",
-    "stars": 3,
-    "updated_at": "2026-07-22T13:28:13Z",
-    "url": "https://github.com/DBarr3/Nano"
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-22T13:42:58Z",
+    "url": "https://github.com/brunogcar/agent"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -23,8 +14,107 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 27549,
-    "updated_at": "2026-07-22T13:24:28Z",
+    "updated_at": "2026-07-22T13:42:47Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Lightweight, Open-Source Enterprise AI ecosystem. Workspaces, Agents, RAG, and 2,500+ connectors across 39 categories. S",
+    "id": "openenterprise-info/open-enterprise-community",
+    "language": "JavaScript",
+    "name": "openenterprise-info/open-enterprise-community",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:40:26Z",
+    "url": "https://github.com/openenterprise-info/open-enterprise-community"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 313,
+    "updated_at": "2026-07-22T13:40:01Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 970,
+    "updated_at": "2026-07-22T13:39:39Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "Deterministic compiler and runtime for autonomous AI agents. Compile reasoning into replayable execution graphs \u2014 audita",
+    "id": "DBarr3/Nano",
+    "language": "Python",
+    "name": "DBarr3/Nano",
+    "stars": 3,
+    "updated_at": "2026-07-22T13:38:38Z",
+    "url": "https://github.com/DBarr3/Nano"
+  },
+  {
+    "description": "Lightweight Agent OS framework with Multi-Agent Swarm, DAG Planning, RAG Routing, and Secure Tool Execution.",
+    "id": "bwpows/Small-Agent",
+    "language": "Python",
+    "name": "bwpows/Small-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:36:05Z",
+    "url": "https://github.com/bwpows/Small-Agent"
+  },
+  {
+    "description": "A glass-box, minimal library for building LLM agents \u2014 modern techniques as opt-in primitives, no hidden control flow. P",
+    "id": "DenisDrobyshev/glia",
+    "language": "Python",
+    "name": "DenisDrobyshev/glia",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:43:45Z",
+    "url": "https://github.com/DenisDrobyshev/glia"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T13:30:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Trust and verification for the skills your AI agent installs.",
+    "id": "alexverify/eyebrow",
+    "language": "Go",
+    "name": "alexverify/eyebrow",
+    "stars": 4,
+    "updated_at": "2026-07-22T13:29:22Z",
+    "url": "https://github.com/alexverify/eyebrow"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-07-22T13:29:21Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:29:14Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
+    "id": "substructureai/substructure",
+    "language": "Rust",
+    "name": "substructureai/substructure",
+    "stars": 5,
+    "updated_at": "2026-07-22T13:29:13Z",
+    "url": "https://github.com/substructureai/substructure"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
@@ -45,15 +135,6 @@
     "url": "https://github.com/lkimuk/Wuwe"
   },
   {
-    "description": "Lightweight, Open-Source Enterprise AI ecosystem. Workspaces, Agents, RAG, and 2,500+ connectors across 39 categories. S",
-    "id": "openenterprise-info/open-enterprise-community",
-    "language": "JavaScript",
-    "name": "openenterprise-info/open-enterprise-community",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:20:12Z",
-    "url": "https://github.com/openenterprise-info/open-enterprise-community"
-  },
-  {
     "description": "One-command assembly for a portable AI agent team you own - Nuwa, templates, team rules and memory, wired with preview/a",
     "id": "LucioLiu/agent-modpack",
     "language": "Python",
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T13:19:50Z",
     "url": "https://github.com/LucioLiu/agent-modpack"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T13:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
@@ -144,15 +216,6 @@
     "url": "https://github.com/phenomenoner/agent-harness-core"
   },
   {
-    "description": "A glass-box, minimal library for building LLM agents \u2014 modern techniques as opt-in primitives, no hidden control flow. P",
-    "id": "DenisDrobyshev/glia",
-    "language": "Python",
-    "name": "DenisDrobyshev/glia",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:01:12Z",
-    "url": "https://github.com/DenisDrobyshev/glia"
-  },
-  {
     "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
     "id": "loopedautomation/meet",
     "language": "TypeScript",
@@ -184,7 +247,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18731,
+    "stars": 18732,
     "updated_at": "2026-07-22T12:44:23Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -194,7 +257,7 @@
     "language": "Kotlin",
     "name": "HaohanHe/Opedrgent",
     "stars": 2,
-    "updated_at": "2026-07-22T12:43:27Z",
+    "updated_at": "2026-07-22T13:36:33Z",
     "url": "https://github.com/HaohanHe/Opedrgent"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 117,
-    "updated_at": "2026-07-22T12:38:50Z",
+    "updated_at": "2026-07-22T13:45:00Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -212,7 +275,7 @@
     "language": "Rust",
     "name": "RNT56/ThinClaw",
     "stars": 0,
-    "updated_at": "2026-07-22T13:29:47Z",
+    "updated_at": "2026-07-22T13:40:13Z",
     "url": "https://github.com/RNT56/ThinClaw"
   },
   {
@@ -248,7 +311,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7616,
-    "updated_at": "2026-07-22T12:25:44Z",
+    "updated_at": "2026-07-22T13:44:24Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -378,15 +441,6 @@
     "url": "https://github.com/jaylfc/taOS"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 313,
-    "updated_at": "2026-07-22T11:22:37Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
     "id": "KbWen/agentic-os",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 94,
     "updated_at": "2026-07-22T11:16:38Z",
     "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 3,
-    "updated_at": "2026-07-22T11:15:29Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
-    "id": "achappey/aihappey-chat",
-    "language": "TypeScript",
-    "name": "achappey/aihappey-chat",
-    "stars": 3,
-    "updated_at": "2026-07-22T11:14:27Z",
-    "url": "https://github.com/achappey/aihappey-chat"
-  },
-  {
-    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1264,
-    "updated_at": "2026-07-22T11:52:04Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 2,
-    "updated_at": "2026-07-22T11:08:48Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 153,
-    "updated_at": "2026-07-22T11:08:04Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 153,
-    "updated_at": "2026-07-22T11:05:36Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
   }
 ]
