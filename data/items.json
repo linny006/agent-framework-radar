@@ -1,12 +1,93 @@
 [
   {
+    "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
+    "id": "0xUrsanomics/utopia-os",
+    "language": "Python",
+    "name": "0xUrsanomics/utopia-os",
+    "stars": 0,
+    "updated_at": "2026-07-22T17:28:26Z",
+    "url": "https://github.com/0xUrsanomics/utopia-os"
+  },
+  {
+    "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
+    "id": "achappey/aihappey-chat",
+    "language": "TypeScript",
+    "name": "achappey/aihappey-chat",
+    "stars": 3,
+    "updated_at": "2026-07-22T17:25:52Z",
+    "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
+    "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
+    "id": "cordum-io/cordum",
+    "language": "Go",
+    "name": "cordum-io/cordum",
+    "stars": 493,
+    "updated_at": "2026-07-22T17:27:53Z",
+    "url": "https://github.com/cordum-io/cordum"
+  },
+  {
     "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
     "id": "loopedautomation/meet",
     "language": "TypeScript",
     "name": "loopedautomation/meet",
     "stars": 5,
-    "updated_at": "2026-07-22T17:14:00Z",
+    "updated_at": "2026-07-22T17:21:27Z",
     "url": "https://github.com/loopedautomation/meet"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 313,
+    "updated_at": "2026-07-22T17:20:34Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 338,
+    "updated_at": "2026-07-22T17:20:47Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
+    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
+    "id": "AndersonBY/vv-agent",
+    "language": "Python",
+    "name": "AndersonBY/vv-agent",
+    "stars": 1,
+    "updated_at": "2026-07-22T17:18:38Z",
+    "url": "https://github.com/AndersonBY/vv-agent"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 2,
+    "updated_at": "2026-07-22T17:17:47Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 153,
+    "updated_at": "2026-07-22T17:16:27Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T17:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -68,7 +149,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit-registry",
     "stars": 3,
-    "updated_at": "2026-07-22T17:06:57Z",
+    "updated_at": "2026-07-22T17:21:18Z",
     "url": "https://github.com/AgentsKit-io/agentskit-registry"
   },
   {
@@ -99,15 +180,6 @@
     "url": "https://github.com/Rahulsanecdote/Forge"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T17:00:36Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Expanding Tool",
     "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
     "language": "Python",
@@ -133,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T16:58:23Z",
     "url": "https://github.com/cristofima/maf-graphrag-series"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 313,
-    "updated_at": "2026-07-22T16:52:32Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
@@ -221,7 +284,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 4,
-    "updated_at": "2026-07-22T16:24:06Z",
+    "updated_at": "2026-07-22T17:25:21Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -275,7 +338,7 @@
     "language": "Go",
     "name": "danqing-ai/danqing-teams",
     "stars": 3,
-    "updated_at": "2026-07-22T16:13:18Z",
+    "updated_at": "2026-07-22T17:24:08Z",
     "url": "https://github.com/danqing-ai/danqing-teams"
   },
   {
@@ -302,17 +365,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18736,
-    "updated_at": "2026-07-22T17:14:23Z",
+    "updated_at": "2026-07-22T17:29:35Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
-    "id": "cordum-io/cordum",
-    "language": "Go",
-    "name": "cordum-io/cordum",
-    "stars": 493,
-    "updated_at": "2026-07-22T16:08:16Z",
-    "url": "https://github.com/cordum-io/cordum"
   },
   {
     "description": "A compact Python SDK for strict tool contracts, observable streaming events, and scoped local file capabilities.",
@@ -387,24 +441,6 @@
     "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 2,
-    "updated_at": "2026-07-22T15:41:14Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 153,
-    "updated_at": "2026-07-22T15:40:06Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
     "description": "Self-hosted, privacy-first AI collaborator with durable memory, real tools, channel-native access, routines, and auditab",
     "id": "RNT56/ThinClaw",
     "language": "Rust",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T15:36:18Z",
     "url": "https://github.com/RNT56/ThinClaw"
-  },
-  {
-    "description": "Trust and verification for the skills your AI agent installs.",
-    "id": "alexverify/eyebrow",
-    "language": "Go",
-    "name": "alexverify/eyebrow",
-    "stars": 5,
-    "updated_at": "2026-07-22T15:32:10Z",
-    "url": "https://github.com/alexverify/eyebrow"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1315,
-    "updated_at": "2026-07-22T15:28:00Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
-    "id": "swarmauri/swarmauri-sdk",
-    "language": "Python",
-    "name": "swarmauri/swarmauri-sdk",
-    "stars": 104,
-    "updated_at": "2026-07-22T15:23:38Z",
-    "url": "https://github.com/swarmauri/swarmauri-sdk"
-  },
-  {
-    "description": "A lightweight, protocol-based AI agent framework with LangChain/LangGraph integration, powered by Pico-IoC dependency in",
-    "id": "dperezcabrera/pico-agent",
-    "language": "Python",
-    "name": "dperezcabrera/pico-agent",
-    "stars": 1,
-    "updated_at": "2026-07-22T15:21:03Z",
-    "url": "https://github.com/dperezcabrera/pico-agent"
   }
 ]
