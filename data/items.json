@@ -1,12 +1,84 @@
 [
   {
+    "description": "Run an AgentScope 2.0 agent workbench in minutes \u2014 no model key required. Native AG-UI + assistant-ui scaffold with SSE ",
+    "id": "Ken-LK/agentscope-agui-scaffold",
+    "language": "Python",
+    "name": "Ken-LK/agentscope-agui-scaffold",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:30:10Z",
+    "url": "https://github.com/Ken-LK/agentscope-agui-scaffold"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27550,
+    "updated_at": "2026-07-22T14:27:04Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 7,
+    "updated_at": "2026-07-22T14:26:48Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
+    "id": "Rahulsanecdote/Forge",
+    "language": "TypeScript",
+    "name": "Rahulsanecdote/Forge",
+    "stars": 1,
+    "updated_at": "2026-07-22T14:24:30Z",
+    "url": "https://github.com/Rahulsanecdote/Forge"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 6,
-    "updated_at": "2026-07-22T14:15:23Z",
+    "updated_at": "2026-07-22T14:28:41Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-22T14:17:02Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Structured skill graph for LLM agents: routing, execution guidance, references, and reusable domain knowledge in JSON.",
+    "id": "Dranser/skills-graph",
+    "language": "PowerShell",
+    "name": "Dranser/skills-graph",
+    "stars": 1,
+    "updated_at": "2026-07-22T14:16:56Z",
+    "url": "https://github.com/Dranser/skills-graph"
+  },
+  {
+    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
+    "id": "Omni-Craft/OmniCraft",
+    "language": "Python",
+    "name": "Omni-Craft/OmniCraft",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:15:57Z",
+    "url": "https://github.com/Omni-Craft/OmniCraft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T14:15:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A glass-box, minimal library for building LLM agents \u2014 modern techniques as opt-in primitives, no hidden control flow. P",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T14:09:28Z",
     "url": "https://github.com/DenisDrobyshev/glia"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27550,
-    "updated_at": "2026-07-22T14:09:17Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7618,
-    "updated_at": "2026-07-22T14:05:53Z",
+    "updated_at": "2026-07-22T14:18:27Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -81,15 +144,6 @@
     "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T14:00:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "vortezwohl/EasyHarness",
     "stars": 2,
-    "updated_at": "2026-07-22T13:59:30Z",
+    "updated_at": "2026-07-22T14:29:09Z",
     "url": "https://github.com/vortezwohl/EasyHarness"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 20,
-    "updated_at": "2026-07-22T13:56:27Z",
+    "updated_at": "2026-07-22T14:24:26Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -189,15 +243,6 @@
     "url": "https://github.com/HCF-STUDIOS/openhermit"
   },
   {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-22T13:42:58Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
     "stars": 313,
-    "updated_at": "2026-07-22T13:40:01Z",
+    "updated_at": "2026-07-22T14:30:10Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
@@ -295,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T13:19:50Z",
     "url": "https://github.com/LucioLiu/agent-modpack"
-  },
-  {
-    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
-    "id": "Omni-Craft/OmniCraft",
-    "language": "Python",
-    "name": "Omni-Craft/OmniCraft",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:13:35Z",
-    "url": "https://github.com/Omni-Craft/OmniCraft"
   },
   {
     "description": "Architecture blueprint for accountable AI agents \u2014 a cognitive kernel, fail-closed policy hooks, swappable model provide",
@@ -401,7 +437,7 @@
     "language": "Rust",
     "name": "RNT56/ThinClaw",
     "stars": 0,
-    "updated_at": "2026-07-22T14:12:20Z",
+    "updated_at": "2026-07-22T14:30:10Z",
     "url": "https://github.com/RNT56/ThinClaw"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-22T12:33:55Z",
     "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 1,
-    "updated_at": "2026-07-22T12:33:03Z",
-    "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
-    "id": "cordum-io/cordum",
-    "language": "Go",
-    "name": "cordum-io/cordum",
-    "stars": 493,
-    "updated_at": "2026-07-22T12:30:43Z",
-    "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-22T12:19:53Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-22T12:19:53Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
