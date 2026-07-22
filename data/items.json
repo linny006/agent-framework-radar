@@ -1,5 +1,68 @@
 [
   {
+    "description": "Not just your average Calling Agent. VoicePilot AI is an end-to-end AI sales automation platform that combines voice age",
+    "id": "mfaaizi/VoicePilot-AI",
+    "language": "\u2014",
+    "name": "mfaaizi/VoicePilot-AI",
+    "stars": 2,
+    "updated_at": "2026-07-22T13:07:29Z",
+    "url": "https://github.com/mfaaizi/VoicePilot-AI"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-07-22T13:04:16Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:03:30Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-07-22T13:05:06Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
+    "id": "phenomenoner/agent-harness-core",
+    "language": "Rust",
+    "name": "phenomenoner/agent-harness-core",
+    "stars": 1,
+    "updated_at": "2026-07-22T13:01:46Z",
+    "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "A glass-box, minimal library for building LLM agents \u2014 modern techniques as opt-in primitives, no hidden control flow. P",
+    "id": "DenisDrobyshev/glia",
+    "language": "Python",
+    "name": "DenisDrobyshev/glia",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:01:12Z",
+    "url": "https://github.com/DenisDrobyshev/glia"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T13:00:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A C++20 framework for building intelligent agents.",
     "id": "lkimuk/Wuwe",
     "language": "C++",
@@ -13,7 +76,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27547,
+    "stars": 27549,
     "updated_at": "2026-07-22T12:56:34Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "LucioLiu/agent-modpack",
     "stars": 0,
-    "updated_at": "2026-07-22T12:53:58Z",
+    "updated_at": "2026-07-22T13:00:55Z",
     "url": "https://github.com/LucioLiu/agent-modpack"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T12:49:54Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T12:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
@@ -139,7 +193,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7614,
+    "stars": 7615,
     "updated_at": "2026-07-22T12:25:44Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -266,17 +320,8 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 445,
-    "updated_at": "2026-07-22T12:17:41Z",
+    "updated_at": "2026-07-22T13:02:56Z",
     "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-22T11:28:37Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -403,50 +448,5 @@
     "stars": 12308,
     "updated_at": "2026-07-22T10:53:03Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Hevolve Hive Agentic Runtime OS",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 4,
-    "updated_at": "2026-07-22T11:52:53Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-22T11:35:11Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Not just your average Calling Agent. VoicePilot AI is an end-to-end AI sales automation platform that combines voice age",
-    "id": "mfaaizi/VoicePilot-AI",
-    "language": "\u2014",
-    "name": "mfaaizi/VoicePilot-AI",
-    "stars": 2,
-    "updated_at": "2026-07-22T10:49:26Z",
-    "url": "https://github.com/mfaaizi/VoicePilot-AI"
-  },
-  {
-    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
-    "id": "achappey/aihappey-agents",
-    "language": "C#",
-    "name": "achappey/aihappey-agents",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:49:25Z",
-    "url": "https://github.com/achappey/aihappey-agents"
-  },
-  {
-    "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
-    "id": "amilworks/ultra",
-    "language": "Go",
-    "name": "amilworks/ultra",
-    "stars": 5,
-    "updated_at": "2026-07-22T10:54:08Z",
-    "url": "https://github.com/amilworks/ultra"
   }
 ]
