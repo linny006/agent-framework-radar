@@ -1,12 +1,75 @@
 [
   {
-    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1264,
-    "updated_at": "2026-07-22T19:43:31Z",
-    "url": "https://github.com/Team-Commonly/commonly"
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 12,
+    "updated_at": "2026-07-22T19:59:11Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-22T19:57:33Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 339,
+    "updated_at": "2026-07-22T19:54:41Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18735,
+    "updated_at": "2026-07-22T19:51:55Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-22T19:49:56Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 313,
+    "updated_at": "2026-07-22T19:49:52Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
+    "id": "pereirawe/opencode-flow",
+    "language": "Python",
+    "name": "pereirawe/opencode-flow",
+    "stars": 0,
+    "updated_at": "2026-07-22T19:47:09Z",
+    "url": "https://github.com/pereirawe/opencode-flow"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12312,
+    "updated_at": "2026-07-22T19:46:39Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +77,26 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 2,
-    "updated_at": "2026-07-22T19:41:20Z",
+    "updated_at": "2026-07-22T19:45:24Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4787,
+    "updated_at": "2026-07-22T19:45:22Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra \u2014 self-host in one command, n",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1264,
+    "updated_at": "2026-07-22T19:43:31Z",
+    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
@@ -32,7 +113,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 73,
-    "updated_at": "2026-07-22T19:34:57Z",
+    "updated_at": "2026-07-22T19:46:57Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -50,17 +131,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 6,
-    "updated_at": "2026-07-22T19:29:41Z",
+    "updated_at": "2026-07-22T19:51:06Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12312,
-    "updated_at": "2026-07-22T19:28:30Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "An open-source operating system for Claude Code \u2014 persistent Obsidian-vault memory, a self-checkpointing two-verb sessio",
@@ -135,15 +207,6 @@
     "url": "https://github.com/ChaoYue0307/awesome-graph-engineering"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-22T19:35:57Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -211,7 +274,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27565,
+    "stars": 27566,
     "updated_at": "2026-07-22T18:48:02Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -311,7 +374,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-22T18:18:47Z",
+    "updated_at": "2026-07-22T19:48:05Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -351,15 +414,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 313,
-    "updated_at": "2026-07-22T17:58:16Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
     "id": "cordum-io/cordum",
     "language": "Go",
@@ -367,15 +421,6 @@
     "stars": 493,
     "updated_at": "2026-07-22T17:49:51Z",
     "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4787,
-    "updated_at": "2026-07-22T19:45:21Z",
-    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "Self-hosted, privacy-first AI collaborator with durable memory, real tools, channel-native access, routines, and auditab",
@@ -403,50 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-22T17:42:42Z",
     "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
-    "id": "rameswaran-mohan/project-systemu",
-    "language": "Python",
-    "name": "rameswaran-mohan/project-systemu",
-    "stars": 2,
-    "updated_at": "2026-07-22T17:38:37Z",
-    "url": "https://github.com/rameswaran-mohan/project-systemu"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-07-22T18:44:42Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "AI agent collaboration platform. General-purpose Work Agent with AI coding. Pure LLM-driven orchestration \u2014 no human-mai",
-    "id": "danqing-ai/danqing-teams",
-    "language": "Go",
-    "name": "danqing-ai/danqing-teams",
-    "stars": 3,
-    "updated_at": "2026-07-22T17:31:48Z",
-    "url": "https://github.com/danqing-ai/danqing-teams"
-  },
-  {
-    "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
-    "id": "achappey/aihappey-chat",
-    "language": "TypeScript",
-    "name": "achappey/aihappey-chat",
-    "stars": 3,
-    "updated_at": "2026-07-22T17:25:52Z",
-    "url": "https://github.com/achappey/aihappey-chat"
-  },
-  {
-    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
-    "id": "loopedautomation/meet",
-    "language": "TypeScript",
-    "name": "loopedautomation/meet",
-    "stars": 5,
-    "updated_at": "2026-07-22T17:21:27Z",
-    "url": "https://github.com/loopedautomation/meet"
   }
 ]
