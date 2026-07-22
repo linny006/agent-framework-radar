@@ -1,5 +1,113 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27545,
+    "updated_at": "2026-07-22T10:12:34Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The missing observability layer for AI agents.  Real-time session visualization. Every prompt. Every tool call. Every mo",
+    "id": "hanyo-ai/pulse",
+    "language": "TypeScript",
+    "name": "hanyo-ai/pulse",
+    "stars": 5,
+    "updated_at": "2026-07-22T10:12:03Z",
+    "url": "https://github.com/hanyo-ai/pulse"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-22T10:11:44Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-22T10:11:38Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-22T10:07:37Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
+    "id": "rapidaai/voice-ai",
+    "language": "Go",
+    "name": "rapidaai/voice-ai",
+    "stars": 700,
+    "updated_at": "2026-07-22T10:06:50Z",
+    "url": "https://github.com/rapidaai/voice-ai"
+  },
+  {
+    "description": "One-command assembly for a portable AI agent team you own - Nuwa, templates, team rules and memory, wired with preview/a",
+    "id": "LucioLiu/agent-modpack",
+    "language": "Python",
+    "name": "LucioLiu/agent-modpack",
+    "stars": 0,
+    "updated_at": "2026-07-22T10:09:52Z",
+    "url": "https://github.com/LucioLiu/agent-modpack"
+  },
+  {
+    "description": "Give AI agents hands without handing them the keys: exact one-use approvals and verifiable receipts for registered actio",
+    "id": "AjnasNB/maqam",
+    "language": "JavaScript",
+    "name": "AjnasNB/maqam",
+    "stars": 2,
+    "updated_at": "2026-07-22T10:04:40Z",
+    "url": "https://github.com/AjnasNB/maqam"
+  },
+  {
+    "description": "Task-agnostic Planner\u2013Specialist\u2013Evaluator (PSE) agent framework powered by CrewAI. Register tasks under tasks/ to run v",
+    "id": "erishen/crewai-pse",
+    "language": "Python",
+    "name": "erishen/crewai-pse",
+    "stars": 0,
+    "updated_at": "2026-07-22T10:04:19Z",
+    "url": "https://github.com/erishen/crewai-pse"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T10:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7610,
+    "updated_at": "2026-07-22T10:13:55Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A multi-agent & multi-harness AI agent management and orchestration system",
+    "id": "plmbr/nui",
+    "language": "Go",
+    "name": "plmbr/nui",
+    "stars": 2,
+    "updated_at": "2026-07-22T09:57:30Z",
+    "url": "https://github.com/plmbr/nui"
+  },
+  {
     "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
     "id": "Alexli18/binex",
     "language": "Python",
@@ -9,15 +117,6 @@
     "url": "https://github.com/Alexli18/binex"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T09:54:50Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
     "id": "KbWen/agentic-os",
     "language": "Python",
@@ -25,15 +124,6 @@
     "stars": 94,
     "updated_at": "2026-07-22T09:54:29Z",
     "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7608,
-    "updated_at": "2026-07-22T09:59:09Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Nuwa - a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
@@ -59,7 +149,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 9,
-    "updated_at": "2026-07-22T09:45:23Z",
+    "updated_at": "2026-07-22T10:04:49Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -144,21 +234,12 @@
     "url": "https://github.com/AgentEra/Agently"
   },
   {
-    "description": "One-command assembly for a portable AI agent team you own - Nuwa, templates, team rules and memory, wired with preview/a",
-    "id": "LucioLiu/agent-modpack",
-    "language": "Python",
-    "name": "LucioLiu/agent-modpack",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:31:29Z",
-    "url": "https://github.com/LucioLiu/agent-modpack"
-  },
-  {
     "description": "Hevolve Hive Agentic Runtime OS",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 4,
-    "updated_at": "2026-07-22T09:30:22Z",
+    "updated_at": "2026-07-22T10:03:17Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -169,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T09:29:57Z",
     "url": "https://github.com/tsingxuanhan/NexusFlow"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-22T09:45:12Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -212,17 +284,8 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 493,
-    "updated_at": "2026-07-22T09:22:08Z",
+    "updated_at": "2026-07-22T10:06:02Z",
     "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27544,
-    "updated_at": "2026-07-22T09:20:02Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -378,15 +441,6 @@
     "url": "https://github.com/Qwixl/Atom"
   },
   {
-    "description": "Give AI agents hands without handing them the keys: exact one-use approvals and verifiable receipts for registered actio",
-    "id": "AjnasNB/maqam",
-    "language": "JavaScript",
-    "name": "AjnasNB/maqam",
-    "stars": 1,
-    "updated_at": "2026-07-22T08:22:03Z",
-    "url": "https://github.com/AjnasNB/maqam"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 153,
     "updated_at": "2026-07-22T08:21:57Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-07-22T08:15:55Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:15:48Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
-    "id": "EvoMap/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "EvoMap/awesome-agent-evolution",
-    "stars": 175,
-    "updated_at": "2026-07-22T08:04:56Z",
-    "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "Self-hosted completion gate for coding agents: independent verification before done, durable evidence, CLI and local GUI",
-    "id": "moortekweb-art/agentic-harness",
-    "language": "Python",
-    "name": "moortekweb-art/agentic-harness",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:03:47Z",
-    "url": "https://github.com/moortekweb-art/agentic-harness"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 4641,
-    "updated_at": "2026-07-22T08:01:39Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6669,
-    "updated_at": "2026-07-22T07:59:53Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
