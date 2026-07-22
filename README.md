@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 11:43 UTC
+> ⏰ Last updated: 2026-07-22 11:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [jiayan-xu/agent-core](https://github.com/jiayan-xu/agent-core) | 1 | Rust | 2026-07-22 | Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust. |
-| 2 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 117 | Shell | 2026-07-22 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
-| 3 | [aandbcct/dotClaw](https://github.com/aandbcct/dotClaw) | 9 | Python | 2026-07-22 | 一个轻量级agent harness框架，用于学习与实践个人agent助手架构设计，基于ReAct架构，由中间路由层连接客户端与底层组件，实现了多模型适配、多平台适配和会话管理。 |
-| 4 | [jaylfc/taOS](https://github.com/jaylfc/taOS) | 445 | Python | 2026-07-22 | Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho |
-| 5 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-22 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-22 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [jiayan-xu/agent-core](https://github.com/jiayan-xu/agent-core) | 1 | Rust | 2026-07-22 | Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust. |
+| 3 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 117 | Shell | 2026-07-22 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
+| 4 | [aandbcct/dotClaw](https://github.com/aandbcct/dotClaw) | 9 | Python | 2026-07-22 | 一个轻量级agent harness框架，用于学习与实践个人agent助手架构设计，基于ReAct架构，由中间路由层连接客户端与底层组件，实现了多模型适配、多平台适配和会话管理。 |
+| 5 | [jaylfc/taOS](https://github.com/jaylfc/taOS) | 445 | Python | 2026-07-22 | Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho |
 | 6 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-22 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
 | 7 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 313 | Python | 2026-07-22 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
 | 8 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 27548 | Go | 2026-07-22 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
