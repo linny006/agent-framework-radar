@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 313,
+    "updated_at": "2026-07-22T16:52:32Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
+    "id": "loopedautomation/meet",
+    "language": "TypeScript",
+    "name": "loopedautomation/meet",
+    "stars": 5,
+    "updated_at": "2026-07-22T16:52:54Z",
+    "url": "https://github.com/loopedautomation/meet"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-07-22T16:49:29Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T16:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-22T16:45:01Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -9,20 +54,11 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
-    "id": "loopedautomation/meet",
-    "language": "TypeScript",
-    "name": "loopedautomation/meet",
-    "stars": 5,
-    "updated_at": "2026-07-22T16:45:04Z",
-    "url": "https://github.com/loopedautomation/meet"
-  },
-  {
     "description": "State-first, resumable LLM software-build harness with provider-neutral execution and deterministic verification",
     "id": "Suraj1235/sudarshan-superharness",
     "language": "Python",
     "name": "Suraj1235/sudarshan-superharness",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-22T16:38:34Z",
     "url": "https://github.com/Suraj1235/sudarshan-superharness"
   },
@@ -43,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T16:37:23Z",
     "url": "https://github.com/cristofima/maf-graphrag-series"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T16:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
@@ -126,15 +153,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-07-22T16:17:59Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
     "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
     "id": "akyourowngames/friday",
     "language": "Python",
@@ -184,8 +202,8 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18735,
-    "updated_at": "2026-07-22T16:09:06Z",
+    "stars": 18736,
+    "updated_at": "2026-07-22T16:51:50Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -212,7 +230,7 @@
     "language": "TypeScript",
     "name": "Rahulsanecdote/Forge",
     "stars": 1,
-    "updated_at": "2026-07-22T16:06:27Z",
+    "updated_at": "2026-07-22T16:51:03Z",
     "url": "https://github.com/Rahulsanecdote/Forge"
   },
   {
@@ -229,7 +247,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27555,
+    "stars": 27556,
     "updated_at": "2026-07-22T15:59:34Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -430,23 +448,5 @@
     "stars": 14628,
     "updated_at": "2026-07-22T15:12:55Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-22T16:45:01Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6671,
-    "updated_at": "2026-07-22T16:28:15Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
