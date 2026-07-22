@@ -1,5 +1,68 @@
 [
   {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 245,
+    "updated_at": "2026-07-22T03:14:36Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 73,
+    "updated_at": "2026-07-22T03:14:10Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 45,
+    "updated_at": "2026-07-22T03:13:21Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7590,
+    "updated_at": "2026-07-22T03:08:36Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
+    "id": "ranxi2001/zero2Agent",
+    "language": "HTML",
+    "name": "ranxi2001/zero2Agent",
+    "stars": 182,
+    "updated_at": "2026-07-22T03:03:31Z",
+    "url": "https://github.com/ranxi2001/zero2Agent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27504,
+    "updated_at": "2026-07-22T03:01:50Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T03:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
     "id": "Omni-Craft/OmniCraft",
     "language": "Python",
@@ -9,22 +72,13 @@
     "url": "https://github.com/Omni-Craft/OmniCraft"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27502,
-    "updated_at": "2026-07-22T02:58:58Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7590,
-    "updated_at": "2026-07-22T02:53:23Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "pydantic/pydantic-ai",
+    "stars": 18720,
+    "updated_at": "2026-07-22T02:52:59Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
@@ -54,15 +108,6 @@
     "url": "https://github.com/hara-cli/hara"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T02:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A transparent and controllable AI Agent & Security Agent that breaks free from sandbox limitations, unleashing true auto",
     "id": "miunasu/Spore",
     "language": "Python",
@@ -85,8 +130,8 @@
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
-    "stars": 1575,
-    "updated_at": "2026-07-22T02:36:30Z",
+    "stars": 1576,
+    "updated_at": "2026-07-22T03:13:04Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -117,15 +162,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18719,
-    "updated_at": "2026-07-22T02:52:59Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -140,7 +176,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 117,
-    "updated_at": "2026-07-22T02:16:05Z",
+    "updated_at": "2026-07-22T03:08:23Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -216,15 +252,6 @@
     "url": "https://github.com/Dranser/skills-graph"
   },
   {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 245,
-    "updated_at": "2026-07-22T01:59:14Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
     "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
     "id": "tylerjrbuell/reactive-agents-ts",
     "language": "TypeScript",
@@ -259,15 +286,6 @@
     "stars": 6663,
     "updated_at": "2026-07-22T01:41:54Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 73,
-    "updated_at": "2026-07-22T02:56:18Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -355,7 +373,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12290,
+    "stars": 12291,
     "updated_at": "2026-07-22T00:47:42Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "aAAaqwq/AGI-Super-Team",
     "stars": 78,
-    "updated_at": "2026-07-22T01:34:17Z",
+    "updated_at": "2026-07-22T03:06:57Z",
     "url": "https://github.com/aAAaqwq/AGI-Super-Team"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 6,
-    "updated_at": "2026-07-22T02:39:58Z",
+    "updated_at": "2026-07-22T03:05:28Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-22T00:05:16Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones",
-    "id": "ellmos-ai/clutch",
-    "language": "Python",
-    "name": "ellmos-ai/clutch",
-    "stars": 1,
-    "updated_at": "2026-07-22T00:05:00Z",
-    "url": "https://github.com/ellmos-ai/clutch"
-  },
-  {
-    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
-    "id": "saajunaid/junai",
-    "language": "Python",
-    "name": "saajunaid/junai",
-    "stars": 0,
-    "updated_at": "2026-07-22T00:02:09Z",
-    "url": "https://github.com/saajunaid/junai"
   }
 ]
