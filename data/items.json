@@ -1,5 +1,122 @@
 [
   {
+    "description": "Autonomous AI Robotics Framework. Hormone-Driven Self-Prompting, Optional Proof-of-Power Blockchain, and Self-Evolution",
+    "id": "ai158z/repryntt-public",
+    "language": "Python",
+    "name": "ai158z/repryntt-public",
+    "stars": 0,
+    "updated_at": "2026-07-22T15:14:02Z",
+    "url": "https://github.com/ai158z/repryntt-public"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-22T15:10:44Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6671,
+    "updated_at": "2026-07-22T15:08:01Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 213,
+    "updated_at": "2026-07-22T15:13:44Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\ud83e\udde0 Five-Layer Memory System v4.0.0 - A universal memory skill for AI agents",
+    "id": "juventini10/Five-layer-memory-system",
+    "language": "Python",
+    "name": "juventini10/Five-layer-memory-system",
+    "stars": 1,
+    "updated_at": "2026-07-22T15:14:54Z",
+    "url": "https://github.com/juventini10/Five-layer-memory-system"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 189,
+    "updated_at": "2026-07-22T15:04:35Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 113,
+    "updated_at": "2026-07-22T15:04:14Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7622,
+    "updated_at": "2026-07-22T15:02:38Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27552,
+    "updated_at": "2026-07-22T15:14:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
+    "id": "zizetu/existential-identity-test-engine",
+    "language": "Python",
+    "name": "zizetu/existential-identity-test-engine",
+    "stars": 1,
+    "updated_at": "2026-07-22T15:01:00Z",
+    "url": "https://github.com/zizetu/existential-identity-test-engine"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18733,
+    "updated_at": "2026-07-22T15:00:32Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T15:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 6,
+    "updated_at": "2026-07-22T15:13:12Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
     "id": "aeonfun/aeon",
     "language": "TypeScript",
@@ -18,24 +135,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "\ud83e\udde0 Five-Layer Memory System v4.0.0 - A universal memory skill for AI agents",
-    "id": "juventini10/Five-layer-memory-system",
-    "language": "Python",
-    "name": "juventini10/Five-layer-memory-system",
-    "stars": 1,
-    "updated_at": "2026-07-22T15:00:20Z",
-    "url": "https://github.com/juventini10/Five-layer-memory-system"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18733,
-    "updated_at": "2026-07-22T14:57:34Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "One-command assembly for a portable AI agent team you own - Nuwa, templates, team rules and memory, wired with preview/a",
     "id": "LucioLiu/agent-modpack",
     "language": "Python",
@@ -43,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T14:57:34Z",
     "url": "https://github.com/LucioLiu/agent-modpack"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 6,
-    "updated_at": "2026-07-22T15:00:03Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -108,24 +198,6 @@
     "url": "https://github.com/daretodave/nexus"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T14:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7622,
-    "updated_at": "2026-07-22T15:00:08Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Run an AgentScope 2.0 agent workbench in minutes \u2014 no model key required. Native AG-UI + assistant-ui scaffold with SSE ",
     "id": "Ken-LK/agentscope-agui-scaffold",
     "language": "Python",
@@ -142,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T14:36:39Z",
     "url": "https://github.com/AndersonBY/vv-agent"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 213,
-    "updated_at": "2026-07-22T14:34:51Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
@@ -178,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T14:29:09Z",
     "url": "https://github.com/vortezwohl/EasyHarness"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27550,
-    "updated_at": "2026-07-22T14:27:04Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -252,15 +306,6 @@
     "url": "https://github.com/talu3000/TaluBotSmart"
   },
   {
-    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
-    "id": "jigjoy-ai/mozaik",
-    "language": "TypeScript",
-    "name": "jigjoy-ai/mozaik",
-    "stars": 113,
-    "updated_at": "2026-07-22T14:07:28Z",
-    "url": "https://github.com/jigjoy-ai/mozaik"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -277,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T14:02:30Z",
     "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6671,
-    "updated_at": "2026-07-22T14:00:06Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "The missing observability layer for AI agents.  Real-time session visualization. Every prompt. Every tool call. Every mo",
@@ -320,7 +356,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-22T14:53:18Z",
+    "updated_at": "2026-07-22T15:14:58Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -378,6 +414,15 @@
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4881,
+    "updated_at": "2026-07-22T13:38:40Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
     "description": "A systems language for autonomous artificial intelligence. Compile intent into deterministic execution. Reason probabili",
     "id": "DBarr3/Nano",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-22T13:29:21Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:29:14Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-07-22T13:23:04Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Architecture blueprint for accountable AI agents \u2014 a cognitive kernel, fail-closed policy hooks, swappable model provide",
-    "id": "ElmatadorZ/genesis-os-blueprint",
-    "language": "Python",
-    "name": "ElmatadorZ/genesis-os-blueprint",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:09:39Z",
-    "url": "https://github.com/ElmatadorZ/genesis-os-blueprint"
-  },
-  {
-    "description": "Not just your average Calling Agent. VoicePilot AI is an end-to-end AI sales automation platform that combines voice age",
-    "id": "mfaaizi/VoicePilot-AI",
-    "language": "\u2014",
-    "name": "mfaaizi/VoicePilot-AI",
-    "stars": 2,
-    "updated_at": "2026-07-22T13:07:29Z",
-    "url": "https://github.com/mfaaizi/VoicePilot-AI"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 2,
-    "updated_at": "2026-07-22T13:04:16Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
   }
 ]
