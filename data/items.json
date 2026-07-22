@@ -1,5 +1,32 @@
 [
   {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 601,
+    "updated_at": "2026-07-22T07:15:26Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T07:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7603,
+    "updated_at": "2026-07-22T07:14:19Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Turn any skill into a standalone, runnable RAG-native AI Agent",
     "id": "agenthatch/agenthatch",
     "language": "Python",
@@ -7,6 +34,15 @@
     "stars": 61,
     "updated_at": "2026-07-22T07:13:57Z",
     "url": "https://github.com/agenthatch/agenthatch"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12297,
+    "updated_at": "2026-07-22T07:13:38Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -45,15 +81,6 @@
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 601,
-    "updated_at": "2026-07-22T07:09:50Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -90,15 +117,6 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T07:00:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
     "id": "achappey/aihappey-agents",
     "language": "C#",
@@ -108,15 +126,6 @@
     "url": "https://github.com/achappey/aihappey-agents"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7601,
-    "updated_at": "2026-07-22T07:14:19Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
     "id": "Caprista/KarvyLoop",
     "language": "Python",
@@ -124,15 +133,6 @@
     "stars": 11,
     "updated_at": "2026-07-22T06:51:10Z",
     "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12296,
-    "updated_at": "2026-07-22T07:13:38Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Composable multi-agent framework for GitHub Copilot \u2014 persona grafting, cognitive identity caching, and agent fusion for",
@@ -194,7 +194,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 27529,
-    "updated_at": "2026-07-22T06:38:22Z",
+    "updated_at": "2026-07-22T07:19:18Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -203,7 +203,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1263,
-    "updated_at": "2026-07-22T07:11:31Z",
+    "updated_at": "2026-07-22T07:19:35Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -257,7 +257,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 117,
-    "updated_at": "2026-07-22T06:26:04Z",
+    "updated_at": "2026-07-22T07:19:24Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -275,7 +275,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 94,
-    "updated_at": "2026-07-22T06:53:43Z",
+    "updated_at": "2026-07-22T07:16:22Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
