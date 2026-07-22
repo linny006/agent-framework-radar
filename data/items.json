@@ -1,5 +1,41 @@
 [
   {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 245,
+    "updated_at": "2026-07-22T01:59:14Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
+    "id": "tylerjrbuell/reactive-agents-ts",
+    "language": "TypeScript",
+    "name": "tylerjrbuell/reactive-agents-ts",
+    "stars": 16,
+    "updated_at": "2026-07-22T01:56:36Z",
+    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
+  },
+  {
+    "description": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline wo",
+    "id": "CronusL-1141/AI-company",
+    "language": "Python",
+    "name": "CronusL-1141/AI-company",
+    "stars": 323,
+    "updated_at": "2026-07-22T01:50:12Z",
+    "url": "https://github.com/CronusL-1141/AI-company"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T01:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
     "id": "Omni-Craft/OmniCraft",
     "language": "Python",
@@ -9,13 +45,13 @@
     "url": "https://github.com/Omni-Craft/OmniCraft"
   },
   {
-    "description": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline wo",
-    "id": "CronusL-1141/AI-company",
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
     "language": "Python",
-    "name": "CronusL-1141/AI-company",
-    "stars": 323,
-    "updated_at": "2026-07-22T01:42:54Z",
-    "url": "https://github.com/CronusL-1141/AI-company"
+    "name": "rllm-org/rllm",
+    "stars": 5712,
+    "updated_at": "2026-07-22T01:43:11Z",
+    "url": "https://github.com/rllm-org/rllm"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -45,31 +81,13 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs th",
-    "id": "tylerjrbuell/reactive-agents-ts",
-    "language": "TypeScript",
-    "name": "tylerjrbuell/reactive-agents-ts",
-    "stars": 16,
-    "updated_at": "2026-07-22T01:32:47Z",
-    "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18717,
-    "updated_at": "2026-07-22T01:39:28Z",
+    "updated_at": "2026-07-22T01:59:17Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T01:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Universal Agent Harness",
@@ -121,8 +139,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7587,
-    "updated_at": "2026-07-22T01:18:08Z",
+    "stars": 7588,
+    "updated_at": "2026-07-22T01:53:52Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 107,
-    "updated_at": "2026-07-22T00:36:41Z",
+    "updated_at": "2026-07-22T01:53:05Z",
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
@@ -220,7 +238,7 @@
     "id": "silver4444-xs/silver_research_bot",
     "language": "Python",
     "name": "silver4444-xs/silver_research_bot",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-22T00:33:01Z",
     "url": "https://github.com/silver4444-xs/silver_research_bot"
   },
@@ -405,15 +423,6 @@
     "url": "https://github.com/cristofima/maf-graphrag-series"
   },
   {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 245,
-    "updated_at": "2026-07-21T23:10:31Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
     "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
     "id": "achappey/aihappey-chat",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 3864,
     "updated_at": "2026-07-21T22:50:39Z",
     "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "A general-purpose agentic harness. Structured context slots, observational-memory compaction, tools, permissions, skills",
-    "id": "Craigtut/cortex-mono",
-    "language": "TypeScript",
-    "name": "Craigtut/cortex-mono",
-    "stars": 0,
-    "updated_at": "2026-07-21T22:45:36Z",
-    "url": "https://github.com/Craigtut/cortex-mono"
   }
 ]
