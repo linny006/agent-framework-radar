@@ -1,12 +1,12 @@
 [
   {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
     "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-07-22T16:30:09Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
+    "name": "cortexkit/aft",
+    "stars": 213,
+    "updated_at": "2026-07-22T16:43:41Z",
+    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
@@ -14,8 +14,71 @@
     "language": "TypeScript",
     "name": "loopedautomation/meet",
     "stars": 5,
-    "updated_at": "2026-07-22T16:28:39Z",
+    "updated_at": "2026-07-22T16:45:04Z",
     "url": "https://github.com/loopedautomation/meet"
+  },
+  {
+    "description": "State-first, resumable LLM software-build harness with provider-neutral execution and deterministic verification",
+    "id": "Suraj1235/sudarshan-superharness",
+    "language": "Python",
+    "name": "Suraj1235/sudarshan-superharness",
+    "stars": 0,
+    "updated_at": "2026-07-22T16:38:34Z",
+    "url": "https://github.com/Suraj1235/sudarshan-superharness"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 971,
+    "updated_at": "2026-07-22T16:37:29Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
+    "id": "cristofima/maf-graphrag-series",
+    "language": "Python",
+    "name": "cristofima/maf-graphrag-series",
+    "stars": 2,
+    "updated_at": "2026-07-22T16:37:23Z",
+    "url": "https://github.com/cristofima/maf-graphrag-series"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T16:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
+    "id": "phenomenoner/agent-harness-core",
+    "language": "Rust",
+    "name": "phenomenoner/agent-harness-core",
+    "stars": 1,
+    "updated_at": "2026-07-22T16:29:51Z",
+    "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7626,
+    "updated_at": "2026-07-22T16:29:31Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-07-22T16:45:11Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
@@ -88,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T16:16:45Z",
     "url": "https://github.com/Correctover/security-audit"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T16:15:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent collaboration platform. General-purpose Work Agent with AI coding. Pure LLM-driven orchestration \u2014 no human-mai",
@@ -175,7 +229,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27553,
+    "stars": 27555,
     "updated_at": "2026-07-22T15:59:34Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -196,24 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T16:04:06Z",
     "url": "https://github.com/LucioLiu/agent-modpack"
-  },
-  {
-    "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
-    "id": "cristofima/maf-graphrag-series",
-    "language": "Python",
-    "name": "cristofima/maf-graphrag-series",
-    "stars": 2,
-    "updated_at": "2026-07-22T15:54:09Z",
-    "url": "https://github.com/cristofima/maf-graphrag-series"
-  },
-  {
-    "description": "State-first, resumable LLM software-build harness with provider-neutral execution and deterministic verification",
-    "id": "Suraj1235/sudarshan-superharness",
-    "language": "Python",
-    "name": "Suraj1235/sudarshan-superharness",
-    "stars": 0,
-    "updated_at": "2026-07-22T15:48:45Z",
-    "url": "https://github.com/Suraj1235/sudarshan-superharness"
   },
   {
     "description": "Build distributed, production-grade, long-running agents.",
@@ -306,20 +342,11 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7624,
-    "updated_at": "2026-07-22T16:29:31Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12310,
+    "stars": 12311,
     "updated_at": "2026-07-22T15:25:19Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -396,15 +423,6 @@
     "url": "https://github.com/ai158z/repryntt-public"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 213,
-    "updated_at": "2026-07-22T15:13:44Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
@@ -419,7 +437,7 @@
     "language": "HTML",
     "name": "qadeer-ux/oh-my-codex-remix",
     "stars": 0,
-    "updated_at": "2026-07-22T15:10:44Z",
+    "updated_at": "2026-07-22T16:45:01Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6671,
     "updated_at": "2026-07-22T16:28:15Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 190,
-    "updated_at": "2026-07-22T15:04:35Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
-    "id": "jigjoy-ai/mozaik",
-    "language": "TypeScript",
-    "name": "jigjoy-ai/mozaik",
-    "stars": 113,
-    "updated_at": "2026-07-22T15:04:14Z",
-    "url": "https://github.com/jigjoy-ai/mozaik"
   }
 ]
