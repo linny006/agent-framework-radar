@@ -1,12 +1,30 @@
 [
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7611,
+    "updated_at": "2026-07-22T10:28:33Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
+    "id": "cordum-io/cordum",
     "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27545,
-    "updated_at": "2026-07-22T10:12:34Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "name": "cordum-io/cordum",
+    "stars": 493,
+    "updated_at": "2026-07-22T10:28:16Z",
+    "url": "https://github.com/cordum-io/cordum"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18730,
+    "updated_at": "2026-07-22T10:27:06Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "The missing observability layer for AI agents.  Real-time session visualization. Every prompt. Every tool call. Every mo",
@@ -14,8 +32,80 @@
     "language": "TypeScript",
     "name": "hanyo-ai/pulse",
     "stars": 5,
-    "updated_at": "2026-07-22T10:12:03Z",
+    "updated_at": "2026-07-22T10:26:33Z",
     "url": "https://github.com/hanyo-ai/pulse"
+  },
+  {
+    "description": "A multi-agent & multi-harness AI agent management and orchestration system",
+    "id": "plmbr/nui",
+    "language": "Go",
+    "name": "plmbr/nui",
+    "stars": 3,
+    "updated_at": "2026-07-22T10:26:32Z",
+    "url": "https://github.com/plmbr/nui"
+  },
+  {
+    "description": "Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandbox",
+    "id": "vstorm-co/pydantic-deepagents",
+    "language": "Python",
+    "name": "vstorm-co/pydantic-deepagents",
+    "stars": 987,
+    "updated_at": "2026-07-22T10:25:17Z",
+    "url": "https://github.com/vstorm-co/pydantic-deepagents"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1629,
+    "updated_at": "2026-07-22T10:20:05Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27546,
+    "updated_at": "2026-07-22T10:19:03Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
+    "id": "jiayan-xu/agent-core",
+    "language": "Rust",
+    "name": "jiayan-xu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-07-22T10:19:02Z",
+    "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-07-22T10:18:47Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
+    "id": "phenomenoner/agent-harness-core",
+    "language": "Rust",
+    "name": "phenomenoner/agent-harness-core",
+    "stars": 0,
+    "updated_at": "2026-07-22T10:17:50Z",
+    "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-22T10:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-22T10:07:37Z",
+    "updated_at": "2026-07-22T10:16:33Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -81,33 +171,6 @@
     "url": "https://github.com/erishen/crewai-pse"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-22T10:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7610,
-    "updated_at": "2026-07-22T10:13:55Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "A multi-agent & multi-harness AI agent management and orchestration system",
-    "id": "plmbr/nui",
-    "language": "Go",
-    "name": "plmbr/nui",
-    "stars": 2,
-    "updated_at": "2026-07-22T09:57:30Z",
-    "url": "https://github.com/plmbr/nui"
-  },
-  {
     "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
     "id": "Alexli18/binex",
     "language": "Python",
@@ -122,8 +185,17 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 94,
-    "updated_at": "2026-07-22T09:54:29Z",
+    "updated_at": "2026-07-22T10:20:58Z",
     "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4880,
+    "updated_at": "2026-07-22T09:53:35Z",
+    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "Nuwa - a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
@@ -151,24 +223,6 @@
     "stars": 9,
     "updated_at": "2026-07-22T10:04:49Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4877,
-    "updated_at": "2026-07-22T09:53:35Z",
-    "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandbox",
-    "id": "vstorm-co/pydantic-deepagents",
-    "language": "Python",
-    "name": "vstorm-co/pydantic-deepagents",
-    "stars": 987,
-    "updated_at": "2026-07-22T09:43:55Z",
-    "url": "https://github.com/vstorm-co/pydantic-deepagents"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -203,7 +257,7 @@
     "language": "Go",
     "name": "amilworks/ultra",
     "stars": 5,
-    "updated_at": "2026-07-22T09:59:04Z",
+    "updated_at": "2026-07-22T10:22:47Z",
     "url": "https://github.com/amilworks/ultra"
   },
   {
@@ -221,17 +275,8 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 117,
-    "updated_at": "2026-07-22T09:33:07Z",
+    "updated_at": "2026-07-22T10:24:29Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1629,
-    "updated_at": "2026-07-22T09:38:20Z",
-    "url": "https://github.com/AgentEra/Agently"
   },
   {
     "description": "Hevolve Hive Agentic Runtime OS",
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 4,
-    "updated_at": "2026-07-22T10:03:17Z",
+    "updated_at": "2026-07-22T10:25:36Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -277,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T09:26:23Z",
     "url": "https://github.com/br3eze-code/br3eze-code"
-  },
-  {
-    "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
-    "id": "cordum-io/cordum",
-    "language": "Go",
-    "name": "cordum-io/cordum",
-    "stars": 493,
-    "updated_at": "2026-07-22T10:06:02Z",
-    "url": "https://github.com/cordum-io/cordum"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -387,15 +423,6 @@
     "url": "https://github.com/laurenzpavlosmalisianos/master-prompt-agreement"
   },
   {
-    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
-    "id": "jiayan-xu/agent-core",
-    "language": "Rust",
-    "name": "jiayan-xu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-07-22T08:34:07Z",
-    "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "Insajin/autopus-adk",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-22T08:27:22Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 153,
-    "updated_at": "2026-07-22T08:25:41Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
-    "language": "TypeScript",
-    "name": "Qwixl/Atom",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:25:20Z",
-    "url": "https://github.com/Qwixl/Atom"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 153,
-    "updated_at": "2026-07-22T08:21:57Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
   }
 ]
