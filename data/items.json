@@ -1,11 +1,74 @@
 [
   {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 76,
+    "updated_at": "2026-07-22T18:13:36Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Personel Assistant On Telegram",
+    "id": "EmreAka/Assistant",
+    "language": "C#",
+    "name": "EmreAka/Assistant",
+    "stars": 1,
+    "updated_at": "2026-07-22T18:12:28Z",
+    "url": "https://github.com/EmreAka/Assistant"
+  },
+  {
+    "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
+    "id": "cristofima/maf-graphrag-series",
+    "language": "Python",
+    "name": "cristofima/maf-graphrag-series",
+    "stars": 2,
+    "updated_at": "2026-07-22T18:12:17Z",
+    "url": "https://github.com/cristofima/maf-graphrag-series"
+  },
+  {
+    "description": "One-command assembly for a portable AI agent team you own - Nuwa, templates, team rules and memory, wired with preview/a",
+    "id": "LucioLiu/agent-modpack",
+    "language": "Python",
+    "name": "LucioLiu/agent-modpack",
+    "stars": 0,
+    "updated_at": "2026-07-22T18:10:21Z",
+    "url": "https://github.com/LucioLiu/agent-modpack"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7628,
+    "updated_at": "2026-07-22T18:10:10Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-22T18:10:02Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 8,
+    "updated_at": "2026-07-22T18:07:26Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 2,
-    "updated_at": "2026-07-22T18:00:29Z",
+    "updated_at": "2026-07-22T18:04:17Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/ag2ai/ag2"
   },
   {
-    "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
-    "id": "cristofima/maf-graphrag-series",
-    "language": "Python",
-    "name": "cristofima/maf-graphrag-series",
-    "stars": 2,
-    "updated_at": "2026-07-22T17:47:24Z",
-    "url": "https://github.com/cristofima/maf-graphrag-series"
-  },
-  {
     "description": "Self-hosted, privacy-first AI collaborator with durable memory, real tools, channel-native access, routines, and auditab",
     "id": "RNT56/ThinClaw",
     "language": "Rust",
@@ -86,7 +140,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1264,
-    "updated_at": "2026-07-22T17:55:27Z",
+    "updated_at": "2026-07-22T18:12:05Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 1,
-    "updated_at": "2026-07-22T17:42:06Z",
+    "updated_at": "2026-07-22T18:15:13Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 9,
     "updated_at": "2026-07-22T17:37:39Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 76,
-    "updated_at": "2026-07-22T17:34:53Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
     "description": "AI agent collaboration platform. General-purpose Work Agent with AI coding. Pure LLM-driven orchestration \u2014 no human-mai",
@@ -315,15 +360,6 @@
     "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7628,
-    "updated_at": "2026-07-22T16:58:28Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
     "id": "kh0pper/crow",
     "language": "JavaScript",
@@ -405,15 +441,6 @@
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-22T16:22:05Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
     "id": "akyourowngames/friday",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-22T16:17:01Z",
     "url": "https://github.com/akyourowngames/friday"
-  },
-  {
-    "description": "Correctover security-audit Agent",
-    "id": "Correctover/security-audit",
-    "language": "Python",
-    "name": "Correctover/security-audit",
-    "stars": 0,
-    "updated_at": "2026-07-22T16:16:45Z",
-    "url": "https://github.com/Correctover/security-audit"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18736,
-    "updated_at": "2026-07-22T17:48:34Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "A compact Python SDK for strict tool contracts, observable streaming events, and scoped local file capabilities.",
-    "id": "vortezwohl/EasyHarness",
-    "language": "Python",
-    "name": "vortezwohl/EasyHarness",
-    "stars": 2,
-    "updated_at": "2026-07-22T17:14:14Z",
-    "url": "https://github.com/vortezwohl/EasyHarness"
   }
 ]
