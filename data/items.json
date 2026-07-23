@@ -1,5 +1,41 @@
 [
   {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-07-23T10:14:56Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27630,
+    "updated_at": "2026-07-23T10:12:09Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
+    "id": "0xUrsanomics/utopia-os",
+    "language": "Python",
+    "name": "0xUrsanomics/utopia-os",
+    "stars": 2,
+    "updated_at": "2026-07-23T10:09:02Z",
+    "url": "https://github.com/0xUrsanomics/utopia-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T10:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Local-first AI agent runtime with autonomous context awareness. CLI & desktop, MCP integration, Hooks, Skills, multi-age",
     "id": "keiqkeqi321/somnia",
     "language": "Python",
@@ -18,30 +54,12 @@
     "url": "https://github.com/mfaaizi/VoicePilot-AI"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27630,
-    "updated_at": "2026-07-23T09:49:49Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T09:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
     "id": "hara-cli/hara",
     "language": "TypeScript",
     "name": "hara-cli/hara",
     "stars": 3,
-    "updated_at": "2026-07-23T09:49:44Z",
+    "updated_at": "2026-07-23T10:01:58Z",
     "url": "https://github.com/hara-cli/hara"
   },
   {
@@ -68,7 +86,7 @@
     "language": "TypeScript",
     "name": "loopedautomation/meet",
     "stars": 5,
-    "updated_at": "2026-07-23T09:55:21Z",
+    "updated_at": "2026-07-23T10:12:59Z",
     "url": "https://github.com/loopedautomation/meet"
   },
   {
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7656,
-    "updated_at": "2026-07-23T09:59:53Z",
+    "updated_at": "2026-07-23T10:12:36Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-23T09:21:13Z",
+    "updated_at": "2026-07-23T10:00:54Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -162,13 +180,31 @@
     "url": "https://github.com/AndersonBY/vv-agent"
   },
   {
+    "description": "Agent SDK, CLI, RPC, Desktop in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 8,
+    "updated_at": "2026-07-23T09:14:40Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4813,
+    "stars": 4814,
     "updated_at": "2026-07-23T09:13:59Z",
     "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "Go-first, knowledge-graph-grounded agent platform \u2014 built on toolnexus + ctx-optimize",
+    "id": "muthuishere/agentic-nexus",
+    "language": "Go",
+    "name": "muthuishere/agentic-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-23T09:13:05Z",
+    "url": "https://github.com/muthuishere/agentic-nexus"
   },
   {
     "description": "Examples to demonstrate configuration and usage of basic agents and workflows from Microsoft Agent Framework, supporting",
@@ -230,8 +266,17 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-07-23T09:52:24Z",
+    "updated_at": "2026-07-23T10:03:23Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "Zero-dependency TypeScript SDK for AI agent governance: policy enforcement, injection detection, tamper-evident audit, a",
+    "id": "lua-ai-global/governance",
+    "language": "TypeScript",
+    "name": "lua-ai-global/governance",
+    "stars": 25,
+    "updated_at": "2026-07-23T09:01:00Z",
+    "url": "https://github.com/lua-ai-global/governance"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -239,7 +284,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 73,
-    "updated_at": "2026-07-23T08:59:10Z",
+    "updated_at": "2026-07-23T10:10:52Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -369,15 +414,6 @@
     "url": "https://github.com/CTOUT/Symdicate"
   },
   {
-    "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
-    "id": "0xUrsanomics/utopia-os",
-    "language": "Python",
-    "name": "0xUrsanomics/utopia-os",
-    "stars": 2,
-    "updated_at": "2026-07-23T08:32:23Z",
-    "url": "https://github.com/0xUrsanomics/utopia-os"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -410,43 +446,7 @@
     "language": "JavaScript",
     "name": "EvoMap/evolver",
     "stars": 8870,
-    "updated_at": "2026-07-23T09:26:40Z",
+    "updated_at": "2026-07-23T10:06:05Z",
     "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
-    "id": "achappey/aihappey-agents",
-    "language": "C#",
-    "name": "achappey/aihappey-agents",
-    "stars": 0,
-    "updated_at": "2026-07-23T08:23:34Z",
-    "url": "https://github.com/achappey/aihappey-agents"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-07-23T08:20:41Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-23T08:20:25Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Zero-dependency TypeScript SDK for AI agent governance: policy enforcement, injection detection, tamper-evident audit, a",
-    "id": "lua-ai-global/governance",
-    "language": "TypeScript",
-    "name": "lua-ai-global/governance",
-    "stars": 25,
-    "updated_at": "2026-07-23T09:01:00Z",
-    "url": "https://github.com/lua-ai-global/governance"
   }
 ]
