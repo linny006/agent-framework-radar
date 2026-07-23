@@ -1,11 +1,101 @@
 [
   {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 2,
+    "updated_at": "2026-07-23T16:09:53Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Go SDK contracts for typed, observable, and resumable agent workflows",
+    "id": "gopact-ai/gopact",
+    "language": "Go",
+    "name": "gopact-ai/gopact",
+    "stars": 0,
+    "updated_at": "2026-07-23T16:07:25Z",
+    "url": "https://github.com/gopact-ai/gopact"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7672,
+    "updated_at": "2026-07-23T16:11:37Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
+    "id": "motojinc25/chatwalaau",
+    "language": "Python",
+    "name": "motojinc25/chatwalaau",
+    "stars": 2,
+    "updated_at": "2026-07-23T16:07:08Z",
+    "url": "https://github.com/motojinc25/chatwalaau"
+  },
+  {
+    "description": "Record, replay, and improve AI agents in production, built on ZenML",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 219,
+    "updated_at": "2026-07-23T16:04:10Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and",
+    "id": "sheawinkler/ContextLattice",
+    "language": "Go",
+    "name": "sheawinkler/ContextLattice",
+    "stars": 136,
+    "updated_at": "2026-07-23T16:03:53Z",
+    "url": "https://github.com/sheawinkler/ContextLattice"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12340,
+    "updated_at": "2026-07-23T16:03:00Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-07-23T16:01:56Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Lightweight Agent OS framework with Multi-Agent Swarm, DAG Planning, RAG Routing, and Secure Tool Execution.",
+    "id": "bwpows/Small-Agent",
+    "language": "Python",
+    "name": "bwpows/Small-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-23T16:00:44Z",
+    "url": "https://github.com/bwpows/Small-Agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T16:00:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
     "id": "denisotree/veles",
     "language": "Python",
     "name": "denisotree/veles",
     "stars": 1,
-    "updated_at": "2026-07-23T15:58:38Z",
+    "updated_at": "2026-07-23T16:02:37Z",
     "url": "https://github.com/denisotree/veles"
   },
   {
@@ -14,7 +104,7 @@
     "language": "Jupyter Notebook",
     "name": "LazaUK/MicrosoftAgentFramework-RampUp-AgentsV2",
     "stars": 0,
-    "updated_at": "2026-07-23T15:56:29Z",
+    "updated_at": "2026-07-23T16:12:08Z",
     "url": "https://github.com/LazaUK/MicrosoftAgentFramework-RampUp-AgentsV2"
   },
   {
@@ -41,7 +131,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6645,
-    "updated_at": "2026-07-23T15:55:09Z",
+    "updated_at": "2026-07-23T16:12:39Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -79,33 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T15:50:51Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T15:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7671,
-    "updated_at": "2026-07-23T15:45:12Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Go SDK contracts for typed, observable, and resumable agent workflows",
-    "id": "gopact-ai/gopact",
-    "language": "Go",
-    "name": "gopact-ai/gopact",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:44:26Z",
-    "url": "https://github.com/gopact-ai/gopact"
   },
   {
     "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
@@ -185,17 +248,8 @@
     "language": "TypeScript",
     "name": "loopedautomation/meet",
     "stars": 5,
-    "updated_at": "2026-07-23T15:50:45Z",
+    "updated_at": "2026-07-23T16:09:24Z",
     "url": "https://github.com/loopedautomation/meet"
-  },
-  {
-    "description": "Lightweight Agent OS framework with Multi-Agent Swarm, DAG Planning, RAG Routing, and Secure Tool Execution.",
-    "id": "bwpows/Small-Agent",
-    "language": "Python",
-    "name": "bwpows/Small-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:29:19Z",
-    "url": "https://github.com/bwpows/Small-Agent"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -252,15 +306,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12340,
-    "updated_at": "2026-07-23T15:59:19Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -284,7 +329,7 @@
     "language": "TypeScript",
     "name": "clawsouls/soulclaw",
     "stars": 9,
-    "updated_at": "2026-07-23T15:55:36Z",
+    "updated_at": "2026-07-23T16:04:01Z",
     "url": "https://github.com/clawsouls/soulclaw"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 314,
     "updated_at": "2026-07-23T14:37:41Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
-    "id": "iduyuhe/zhiyan-evolviq",
-    "language": "Python",
-    "name": "iduyuhe/zhiyan-evolviq",
-    "stars": 0,
-    "updated_at": "2026-07-23T14:36:16Z",
-    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
-  },
-  {
-    "description": "\ud83e\udd96 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
-    "id": "yomorun/yomo",
-    "language": "Rust",
-    "name": "yomorun/yomo",
-    "stars": 1917,
-    "updated_at": "2026-07-23T15:23:42Z",
-    "url": "https://github.com/yomorun/yomo"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 2,
-    "updated_at": "2026-07-23T14:34:13Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
-    "id": "thenaxon/somora_agent",
-    "language": "TypeScript",
-    "name": "thenaxon/somora_agent",
-    "stars": 8,
-    "updated_at": "2026-07-23T14:32:23Z",
-    "url": "https://github.com/thenaxon/somora_agent"
-  },
-  {
-    "description": "Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones",
-    "id": "ellmos-ai/clutch",
-    "language": "Python",
-    "name": "ellmos-ai/clutch",
-    "stars": 1,
-    "updated_at": "2026-07-23T14:29:16Z",
-    "url": "https://github.com/ellmos-ai/clutch"
   }
 ]
