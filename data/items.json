@@ -1,5 +1,104 @@
 [
   {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 107,
+    "updated_at": "2026-07-23T01:14:54Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
+    "id": "Omni-Craft/OmniCraft",
+    "language": "Python",
+    "name": "Omni-Craft/OmniCraft",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:13:40Z",
+    "url": "https://github.com/Omni-Craft/OmniCraft"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-23T01:11:55Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-07-23T01:09:08Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
+    "id": "rhein1/agoragentic-integrations",
+    "language": "JavaScript",
+    "name": "rhein1/agoragentic-integrations",
+    "stars": 24,
+    "updated_at": "2026-07-23T01:09:03Z",
+    "url": "https://github.com/rhein1/agoragentic-integrations"
+  },
+  {
+    "description": "14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) \u2014 deploy your virtual C-Suite in one git clone",
+    "id": "aAAaqwq/AGI-Super-Team",
+    "language": "Python",
+    "name": "aAAaqwq/AGI-Super-Team",
+    "stars": 78,
+    "updated_at": "2026-07-23T01:06:56Z",
+    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-07-23T01:04:20Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
+    "id": "jiayan-xu/agent-core",
+    "language": "Rust",
+    "name": "jiayan-xu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:02:15Z",
+    "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-23T01:07:21Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T01:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18740,
+    "updated_at": "2026-07-23T01:12:54Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "Agent SDK, CLI, RPC, Desktop in Rust",
     "id": "Wh1isper/starweaver",
     "language": "Rust",
@@ -18,31 +117,13 @@
     "url": "https://github.com/Correctover/security-audit"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-23T00:57:40Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7638,
-    "updated_at": "2026-07-23T00:55:58Z",
+    "updated_at": "2026-07-23T01:02:34Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18740,
-    "updated_at": "2026-07-23T01:00:08Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -72,15 +153,6 @@
     "url": "https://github.com/CocoRoF/geny-executor"
   },
   {
-    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
-    "id": "Omni-Craft/OmniCraft",
-    "language": "Python",
-    "name": "Omni-Craft/OmniCraft",
-    "stars": 1,
-    "updated_at": "2026-07-23T00:53:37Z",
-    "url": "https://github.com/Omni-Craft/OmniCraft"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -97,15 +169,6 @@
     "stars": 6,
     "updated_at": "2026-07-23T00:48:06Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T00:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 73,
-    "updated_at": "2026-07-23T00:53:41Z",
+    "updated_at": "2026-07-23T01:09:40Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -178,24 +241,6 @@
     "stars": 38,
     "updated_at": "2026-07-23T00:24:40Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
-    "id": "rhein1/agoragentic-integrations",
-    "language": "JavaScript",
-    "name": "rhein1/agoragentic-integrations",
-    "stars": 24,
-    "updated_at": "2026-07-23T00:23:25Z",
-    "url": "https://github.com/rhein1/agoragentic-integrations"
-  },
-  {
-    "description": "14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) \u2014 deploy your virtual C-Suite in one git clone",
-    "id": "aAAaqwq/AGI-Super-Team",
-    "language": "Python",
-    "name": "aAAaqwq/AGI-Super-Team",
-    "stars": 78,
-    "updated_at": "2026-07-23T00:24:17Z",
-    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
   },
   {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
@@ -288,15 +333,6 @@
     "url": "https://github.com/shimo4228/agent-knowledge-cycle"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-22T23:40:04Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
     "id": "SmooAI/smooth-operator",
     "language": "Rust",
@@ -304,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T00:20:03Z",
     "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-07-22T23:34:43Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "A general-purpose agentic harness. Structured context slots, observational-memory compaction, tools, permissions, skills",
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "rllm-org/rllm",
     "stars": 5717,
-    "updated_at": "2026-07-23T00:53:14Z",
+    "updated_at": "2026-07-23T01:03:00Z",
     "url": "https://github.com/rllm-org/rllm"
   },
   {
@@ -414,15 +441,6 @@
     "url": "https://github.com/rxdt/inference_conference"
   },
   {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 107,
-    "updated_at": "2026-07-23T00:48:09Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 313,
     "updated_at": "2026-07-22T22:28:44Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
-    "id": "rogerchappel/crewcmd",
-    "language": "TypeScript",
-    "name": "rogerchappel/crewcmd",
-    "stars": 2,
-    "updated_at": "2026-07-22T22:21:58Z",
-    "url": "https://github.com/rogerchappel/crewcmd"
-  },
-  {
-    "description": "Personel Assistant On Telegram",
-    "id": "EmreAka/Assistant",
-    "language": "C#",
-    "name": "EmreAka/Assistant",
-    "stars": 1,
-    "updated_at": "2026-07-22T22:18:00Z",
-    "url": "https://github.com/EmreAka/Assistant"
   }
 ]
