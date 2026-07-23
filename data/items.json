@@ -1,5 +1,104 @@
 [
   {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 1,
+    "updated_at": "2026-07-23T15:58:38Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": "Jupyter notebooks to ramp up (Level 200: Agents V2) and build practical skills of using Microsoft Agent Framework's Pyth",
+    "id": "LazaUK/MicrosoftAgentFramework-RampUp-AgentsV2",
+    "language": "Jupyter Notebook",
+    "name": "LazaUK/MicrosoftAgentFramework-RampUp-AgentsV2",
+    "stars": 0,
+    "updated_at": "2026-07-23T15:56:29Z",
+    "url": "https://github.com/LazaUK/MicrosoftAgentFramework-RampUp-AgentsV2"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 12,
+    "updated_at": "2026-07-23T15:55:57Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 2,
+    "updated_at": "2026-07-23T15:55:26Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6645,
+    "updated_at": "2026-07-23T15:55:09Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 153,
+    "updated_at": "2026-07-23T15:53:55Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-07-23T15:51:27Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27646,
+    "updated_at": "2026-07-23T15:51:18Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-23T15:50:51Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T15:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7671,
+    "updated_at": "2026-07-23T15:45:12Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Go SDK contracts for typed, observable, and resumable agent workflows",
     "id": "gopact-ai/gopact",
     "language": "Go",
@@ -68,7 +167,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18765,
-    "updated_at": "2026-07-23T15:35:50Z",
+    "updated_at": "2026-07-23T15:50:43Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -86,17 +185,8 @@
     "language": "TypeScript",
     "name": "loopedautomation/meet",
     "stars": 5,
-    "updated_at": "2026-07-23T15:37:39Z",
+    "updated_at": "2026-07-23T15:50:45Z",
     "url": "https://github.com/loopedautomation/meet"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T15:30:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Lightweight Agent OS framework with Multi-Agent Swarm, DAG Planning, RAG Routing, and Secure Tool Execution.",
@@ -115,15 +205,6 @@
     "stars": 6,
     "updated_at": "2026-07-23T15:30:31Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7668,
-    "updated_at": "2026-07-23T15:45:12Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
@@ -162,15 +243,6 @@
     "url": "https://github.com/akshay-birla-03/llm-agent-orchestrator"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27647,
-    "updated_at": "2026-07-23T15:22:45Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -185,7 +257,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12340,
-    "updated_at": "2026-07-23T15:16:23Z",
+    "updated_at": "2026-07-23T15:59:19Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -203,7 +275,7 @@
     "language": "Elixir",
     "name": "agentjido/jido",
     "stars": 1770,
-    "updated_at": "2026-07-23T15:15:22Z",
+    "updated_at": "2026-07-23T15:54:40Z",
     "url": "https://github.com/agentjido/jido"
   },
   {
@@ -212,7 +284,7 @@
     "language": "TypeScript",
     "name": "clawsouls/soulclaw",
     "stars": 9,
-    "updated_at": "2026-07-23T15:11:37Z",
+    "updated_at": "2026-07-23T15:55:36Z",
     "url": "https://github.com/clawsouls/soulclaw"
   },
   {
@@ -342,15 +414,6 @@
     "url": "https://github.com/iduyuhe/zhiyan-evolviq"
   },
   {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 12,
-    "updated_at": "2026-07-23T14:35:16Z",
-    "url": "https://github.com/kdcube/kdcube"
-  },
-  {
     "description": "\ud83e\udd96 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
     "id": "yomorun/yomo",
     "language": "Rust",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T14:29:16Z",
     "url": "https://github.com/ellmos-ai/clutch"
-  },
-  {
-    "description": "Local SQLite memory for LLM agents and cross-agent context sharing",
-    "id": "ellmos-ai/usmc",
-    "language": "Python",
-    "name": "ellmos-ai/usmc",
-    "stars": 1,
-    "updated_at": "2026-07-23T14:29:01Z",
-    "url": "https://github.com/ellmos-ai/usmc"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 578,
-    "updated_at": "2026-07-23T14:25:51Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
-    "id": "jigjoy-ai/mozaik",
-    "language": "TypeScript",
-    "name": "jigjoy-ai/mozaik",
-    "stars": 113,
-    "updated_at": "2026-07-23T14:23:47Z",
-    "url": "https://github.com/jigjoy-ai/mozaik"
-  },
-  {
-    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
-    "id": "jiayan-xu/agent-core",
-    "language": "Rust",
-    "name": "jiayan-xu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-07-23T14:14:21Z",
-    "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "FlowStack Server",
-    "id": "vittoda/flowstack",
-    "language": "Java",
-    "name": "vittoda/flowstack",
-    "stars": 0,
-    "updated_at": "2026-07-23T14:12:46Z",
-    "url": "https://github.com/vittoda/flowstack"
-  },
-  {
-    "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
-    "id": "0xUrsanomics/utopia-os",
-    "language": "Python",
-    "name": "0xUrsanomics/utopia-os",
-    "stars": 2,
-    "updated_at": "2026-07-23T14:11:18Z",
-    "url": "https://github.com/0xUrsanomics/utopia-os"
-  },
-  {
-    "description": "Self-hosted agent workspace for research & coding. LLM-driven orchestration \u2014 no hand-written workflows. Multi-agent wit",
-    "id": "danqing-ai/danqing-teams",
-    "language": "Go",
-    "name": "danqing-ai/danqing-teams",
-    "stars": 3,
-    "updated_at": "2026-07-23T14:07:53Z",
-    "url": "https://github.com/danqing-ai/danqing-teams"
   }
 ]
