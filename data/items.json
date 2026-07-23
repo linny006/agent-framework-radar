@@ -1,5 +1,68 @@
 [
   {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1582,
+    "updated_at": "2026-07-23T08:40:31Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "An open-source operating system for Claude Code \u2014 persistent Obsidian-vault memory, a self-checkpointing two-verb sessio",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 8,
+    "updated_at": "2026-07-23T08:37:33Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "Give AI agents hands without handing them the keys: exact one-use approvals and verifiable receipts for registered actio",
+    "id": "AjnasNB/maqam",
+    "language": "JavaScript",
+    "name": "AjnasNB/maqam",
+    "stars": 2,
+    "updated_at": "2026-07-23T08:36:12Z",
+    "url": "https://github.com/AjnasNB/maqam"
+  },
+  {
+    "description": "\u4e00\u4e2a\u8f7b\u91cf\u7ea7agent harness\u6846\u67b6\uff0c\u7528\u4e8e\u5b66\u4e60\u4e0e\u5b9e\u8df5\u4e2a\u4ebaagent\u52a9\u624b\u67b6\u6784\u8bbe\u8ba1\uff0c\u57fa\u4e8eReAct\u67b6\u6784\uff0c\u7531\u4e2d\u95f4\u8def\u7531\u5c42\u8fde\u63a5\u5ba2\u6237\u7aef\u4e0e\u5e95\u5c42\u7ec4\u4ef6\uff0c\u5b9e\u73b0\u4e86\u591a\u6a21\u578b\u9002\u914d\u3001\u591a\u5e73\u53f0\u9002\u914d\u548c\u4f1a\u8bdd\u7ba1\u7406\u3002",
+    "id": "aandbcct/dotClaw",
+    "language": "Python",
+    "name": "aandbcct/dotClaw",
+    "stars": 9,
+    "updated_at": "2026-07-23T08:38:04Z",
+    "url": "https://github.com/aandbcct/dotClaw"
+  },
+  {
+    "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
+    "id": "0xUrsanomics/utopia-os",
+    "language": "Python",
+    "name": "0xUrsanomics/utopia-os",
+    "stars": 2,
+    "updated_at": "2026-07-23T08:32:23Z",
+    "url": "https://github.com/0xUrsanomics/utopia-os"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 2,
+    "updated_at": "2026-07-23T08:28:10Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8871,
+    "updated_at": "2026-07-23T08:25:29Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
     "description": "Zero-dependency TypeScript SDK for AI agent governance: policy enforcement, injection detection, tamper-evident audit, a",
     "id": "lua-ai-global/governance",
     "language": "TypeScript",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7654,
-    "updated_at": "2026-07-23T08:25:13Z",
+    "updated_at": "2026-07-23T08:42:00Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 18,
-    "updated_at": "2026-07-23T08:23:12Z",
+    "updated_at": "2026-07-23T08:43:23Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/moortekweb-art/agentic-harness"
   },
   {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1582,
-    "updated_at": "2026-07-23T07:45:40Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -131,8 +185,17 @@
     "language": "Python",
     "name": "DenisDrobyshev/glia",
     "stars": 1,
-    "updated_at": "2026-07-23T07:32:48Z",
+    "updated_at": "2026-07-23T08:40:32Z",
     "url": "https://github.com/DenisDrobyshev/glia"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 153,
+    "updated_at": "2026-07-23T07:29:38Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
@@ -140,7 +203,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6645,
-    "updated_at": "2026-07-23T07:53:10Z",
+    "updated_at": "2026-07-23T08:35:03Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -148,9 +211,18 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27623,
+    "stars": 27624,
     "updated_at": "2026-07-23T07:17:28Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-07-23T07:17:15Z",
+    "url": "https://github.com/ellmos-ai/bach"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T07:12:54Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-07-23T07:17:15Z",
-    "url": "https://github.com/ellmos-ai/bach"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -270,15 +333,6 @@
     "url": "https://github.com/keiqkeqi321/somnia"
   },
   {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8870,
-    "updated_at": "2026-07-23T08:25:29Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
     "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
     "id": "bailong-Hakuryu/E.R.I.I",
     "language": "Python",
@@ -292,7 +346,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4887,
+    "stars": 4888,
     "updated_at": "2026-07-23T05:55:55Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -304,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T05:54:31Z",
     "url": "https://github.com/gopact-ai/gopact"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 2,
-    "updated_at": "2026-07-23T08:28:10Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-23T05:34:35Z",
+    "updated_at": "2026-07-23T08:31:32Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -382,7 +427,7 @@
     "id": "rllm-org/rllm",
     "language": "Python",
     "name": "rllm-org/rllm",
-    "stars": 5719,
+    "stars": 5720,
     "updated_at": "2026-07-23T05:30:08Z",
     "url": "https://github.com/rllm-org/rllm"
   },
@@ -396,15 +441,6 @@
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
-    "description": "An open-source operating system for Claude Code \u2014 persistent Obsidian-vault memory, a self-checkpointing two-verb sessio",
-    "id": "wrg32786/aigent-os",
-    "language": "JavaScript",
-    "name": "wrg32786/aigent-os",
-    "stars": 8,
-    "updated_at": "2026-07-23T05:24:15Z",
-    "url": "https://github.com/wrg32786/aigent-os"
-  },
-  {
     "description": "AI agent collaboration platform. General-purpose Work Agent with AI coding. Pure LLM-driven orchestration \u2014 no human-mai",
     "id": "danqing-ai/danqing-teams",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-23T05:18:59Z",
     "url": "https://github.com/danqing-ai/danqing-teams"
-  },
-  {
-    "description": "Hevolve Hive Agentic Runtime OS",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 4,
-    "updated_at": "2026-07-23T07:29:41Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 246,
-    "updated_at": "2026-07-23T05:15:25Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-23T08:07:38Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 2,
-    "updated_at": "2026-07-23T06:46:45Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   }
 ]
