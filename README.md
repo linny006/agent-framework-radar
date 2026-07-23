@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-23 22:29 UTC
+> ⏰ Last updated: 2026-07-23 22:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 314 | Python | 2026-07-23 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
-| 2 | [gopact-ai/gopact-ext](https://github.com/gopact-ai/gopact-ext) | 0 | Go | 2026-07-23 | Official extensions for gopact |
-| 3 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 12344 | Python | 2026-07-23 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
-| 4 | [aomi-labs/aomi](https://github.com/aomi-labs/aomi) | 10 | TypeScript | 2026-07-23 | The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library. |
-| 5 | [sytone/botnexus](https://github.com/sytone/botnexus) | 3 | C# | 2026-07-23 | BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in  |
-| 6 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-23 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-23 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 314 | Python | 2026-07-23 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
+| 3 | [gopact-ai/gopact-ext](https://github.com/gopact-ai/gopact-ext) | 0 | Go | 2026-07-23 | Official extensions for gopact |
+| 4 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 12344 | Python | 2026-07-23 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
+| 5 | [aomi-labs/aomi](https://github.com/aomi-labs/aomi) | 10 | TypeScript | 2026-07-23 | The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library. |
+| 6 | [sytone/botnexus](https://github.com/sytone/botnexus) | 3 | C# | 2026-07-23 | BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in  |
 | 7 | [israriqbal/agent-ecologies](https://github.com/israriqbal/agent-ecologies) | 153 | HTML | 2026-07-23 | Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 |
 | 8 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-07-23 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
 | 9 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 3 | HTML | 2026-07-23 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
