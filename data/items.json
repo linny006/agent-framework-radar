@@ -1,5 +1,113 @@
 [
   {
+    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
+    "id": "Omni-Craft/OmniCraft",
+    "language": "Python",
+    "name": "Omni-Craft/OmniCraft",
+    "stars": 1,
+    "updated_at": "2026-07-23T11:14:01Z",
+    "url": "https://github.com/Omni-Craft/OmniCraft"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1264,
+    "updated_at": "2026-07-23T11:11:07Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1583,
+    "updated_at": "2026-07-23T11:08:53Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Composable multi-agent framework for GitHub Copilot \u2014 persona grafting, cognitive identity caching, and agent fusion for",
+    "id": "CTOUT/Symdicate",
+    "language": "Shell",
+    "name": "CTOUT/Symdicate",
+    "stars": 1,
+    "updated_at": "2026-07-23T11:08:33Z",
+    "url": "https://github.com/CTOUT/Symdicate"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 2,
+    "updated_at": "2026-07-23T11:08:29Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 153,
+    "updated_at": "2026-07-23T11:07:36Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-07-23T11:06:11Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 213,
+    "updated_at": "2026-07-23T11:02:25Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7656,
+    "updated_at": "2026-07-23T11:11:22Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-23T11:13:10Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83d\udd25\ud83d\udd25COLM 2026\ud83d\udd25\ud83d\udd25      CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for au",
+    "id": "Human-Agent-Society/CORAL",
+    "language": "Python",
+    "name": "Human-Agent-Society/CORAL",
+    "stars": 835,
+    "updated_at": "2026-07-23T11:00:36Z",
+    "url": "https://github.com/Human-Agent-Society/CORAL"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T11:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -14,17 +122,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-23T11:00:13Z",
+    "updated_at": "2026-07-23T11:13:27Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7656,
-    "updated_at": "2026-07-23T11:00:12Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Multi-agent engineering framework: evidence packs, runtime validation, task decomposition, cross-window worker execution",
@@ -50,7 +149,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 27634,
-    "updated_at": "2026-07-23T10:56:50Z",
+    "updated_at": "2026-07-23T11:00:43Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -63,13 +162,22 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
+    "id": "0xUrsanomics/utopia-os",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
+    "name": "0xUrsanomics/utopia-os",
     "stars": 2,
-    "updated_at": "2026-07-23T10:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "updated_at": "2026-07-23T10:50:56Z",
+    "url": "https://github.com/0xUrsanomics/utopia-os"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6645,
+    "updated_at": "2026-07-23T10:46:05Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -86,7 +194,7 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 6,
-    "updated_at": "2026-07-23T10:58:14Z",
+    "updated_at": "2026-07-23T11:00:48Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -142,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T10:26:22Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
-    "id": "0xUrsanomics/utopia-os",
-    "language": "Python",
-    "name": "0xUrsanomics/utopia-os",
-    "stars": 2,
-    "updated_at": "2026-07-23T10:50:56Z",
-    "url": "https://github.com/0xUrsanomics/utopia-os"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -234,15 +333,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1582,
-    "updated_at": "2026-07-23T09:52:44Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -279,15 +369,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-07-23T09:17:06Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
     "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
     "id": "AndersonBY/vv-agent",
     "language": "Python",
@@ -302,7 +383,7 @@
     "language": "Rust",
     "name": "Wh1isper/starweaver",
     "stars": 8,
-    "updated_at": "2026-07-23T09:14:40Z",
+    "updated_at": "2026-07-23T11:11:59Z",
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
@@ -342,24 +423,6 @@
     "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-23T10:55:21Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6645,
-    "updated_at": "2026-07-23T10:46:05Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 25,
     "updated_at": "2026-07-23T09:01:00Z",
     "url": "https://github.com/lua-ai-global/governance"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 3,
-    "updated_at": "2026-07-23T08:57:22Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1264,
-    "updated_at": "2026-07-23T10:58:57Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandbox",
-    "id": "vstorm-co/pydantic-deepagents",
-    "language": "Python",
-    "name": "vstorm-co/pydantic-deepagents",
-    "stars": 993,
-    "updated_at": "2026-07-23T08:56:01Z",
-    "url": "https://github.com/vstorm-co/pydantic-deepagents"
-  },
-  {
-    "description": "PurrCat Agent",
-    "id": "PurrPod/purrcat",
-    "language": "Python",
-    "name": "PurrPod/purrcat",
-    "stars": 5,
-    "updated_at": "2026-07-23T08:51:50Z",
-    "url": "https://github.com/PurrPod/purrcat"
-  },
-  {
-    "description": "A glass-box, minimal library for building LLM agents \u2014 modern techniques as opt-in primitives, no hidden control flow. P",
-    "id": "DenisDrobyshev/glia",
-    "language": "Python",
-    "name": "DenisDrobyshev/glia",
-    "stars": 1,
-    "updated_at": "2026-07-23T08:48:47Z",
-    "url": "https://github.com/DenisDrobyshev/glia"
-  },
-  {
-    "description": "One-command assembly for a portable AI agent team you own - Nuwa, templates, team rules and memory, wired with preview/a",
-    "id": "LucioLiu/agent-modpack",
-    "language": "Python",
-    "name": "LucioLiu/agent-modpack",
-    "stars": 1,
-    "updated_at": "2026-07-23T08:46:34Z",
-    "url": "https://github.com/LucioLiu/agent-modpack"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 18,
-    "updated_at": "2026-07-23T08:46:29Z",
-    "url": "https://github.com/roackb2/heddle"
   }
 ]
