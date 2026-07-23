@@ -1,11 +1,101 @@
 [
   {
+    "description": "No-code, local-first studio for building and running production ready AI agents. Inference runs on your machine \u2014 llama.",
+    "id": "al2m4n/TheYgent",
+    "language": "Python",
+    "name": "al2m4n/TheYgent",
+    "stars": 1,
+    "updated_at": "2026-07-23T19:58:07Z",
+    "url": "https://github.com/al2m4n/TheYgent"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 44,
+    "updated_at": "2026-07-23T19:57:21Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 12,
+    "updated_at": "2026-07-23T19:56:30Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
+    "id": "ellmos-ai/ellmos-homebase-mcp",
+    "language": "Python",
+    "name": "ellmos-ai/ellmos-homebase-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-23T19:52:30Z",
+    "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-07-23T19:51:42Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 314,
+    "updated_at": "2026-07-23T19:50:41Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
+    "id": "agentjido/jidoka",
+    "language": "Elixir",
+    "name": "agentjido/jidoka",
+    "stars": 32,
+    "updated_at": "2026-07-23T19:48:07Z",
+    "url": "https://github.com/agentjido/jidoka"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 3,
+    "updated_at": "2026-07-23T19:53:26Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7676,
+    "updated_at": "2026-07-23T19:45:59Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T19:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-23T19:43:25Z",
+    "updated_at": "2026-07-23T19:51:53Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -27,15 +117,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 3,
-    "updated_at": "2026-07-23T19:41:31Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -45,21 +126,12 @@
     "url": "https://github.com/brunogcar/agent"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7676,
-    "updated_at": "2026-07-23T19:45:05Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
     "id": "AndersonBY/vv-agent",
     "language": "Python",
     "name": "AndersonBY/vv-agent",
     "stars": 1,
-    "updated_at": "2026-07-23T19:33:34Z",
+    "updated_at": "2026-07-23T19:49:39Z",
     "url": "https://github.com/AndersonBY/vv-agent"
   },
   {
@@ -79,15 +151,6 @@
     "stars": 1770,
     "updated_at": "2026-07-23T19:32:20Z",
     "url": "https://github.com/agentjido/jido"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T19:30:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18767,
-    "updated_at": "2026-07-23T19:32:05Z",
+    "updated_at": "2026-07-23T20:00:01Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -133,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T19:15:23Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
-    "id": "ellmos-ai/ellmos-homebase-mcp",
-    "language": "Python",
-    "name": "ellmos-ai/ellmos-homebase-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-23T19:14:44Z",
-    "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -230,7 +284,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 73,
-    "updated_at": "2026-07-23T19:18:32Z",
+    "updated_at": "2026-07-23T19:56:39Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -241,15 +295,6 @@
     "stars": 1264,
     "updated_at": "2026-07-23T19:01:11Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 44,
-    "updated_at": "2026-07-23T19:33:09Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
@@ -284,7 +329,7 @@
     "language": "TypeScript",
     "name": "almyty-inc/almyty",
     "stars": 0,
-    "updated_at": "2026-07-23T19:45:06Z",
+    "updated_at": "2026-07-23T19:59:53Z",
     "url": "https://github.com/almyty-inc/almyty"
   },
   {
@@ -297,11 +342,20 @@
     "url": "https://github.com/aeonfun/aeon"
   },
   {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4898,
+    "updated_at": "2026-07-23T18:33:21Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12343,
+    "stars": 12344,
     "updated_at": "2026-07-23T18:32:31Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -351,15 +405,6 @@
     "url": "https://github.com/rhein1/agoragentic-integrations"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-07-23T18:19:05Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 20,
     "updated_at": "2026-07-23T17:52:12Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "FlowStack Server",
-    "id": "vittoda/flowstack",
-    "language": "Java",
-    "name": "vittoda/flowstack",
-    "stars": 0,
-    "updated_at": "2026-07-23T17:48:19Z",
-    "url": "https://github.com/vittoda/flowstack"
-  },
-  {
-    "description": "Trust and verification for the skills your AI agent installs.",
-    "id": "alexverify/eyebrow",
-    "language": "Go",
-    "name": "alexverify/eyebrow",
-    "stars": 5,
-    "updated_at": "2026-07-23T18:15:27Z",
-    "url": "https://github.com/alexverify/eyebrow"
-  },
-  {
-    "description": "Agent orchestration as contract enforcement. Author a writ; mandate, grants, bounds, proof of done and a runtime governs",
-    "id": "sirrobot01/writ",
-    "language": "HTML",
-    "name": "sirrobot01/writ",
-    "stars": 0,
-    "updated_at": "2026-07-23T17:40:40Z",
-    "url": "https://github.com/sirrobot01/writ"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 2,
-    "updated_at": "2026-07-23T17:31:19Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
-    "id": "achappey/aihappey-chat",
-    "language": "TypeScript",
-    "name": "achappey/aihappey-chat",
-    "stars": 3,
-    "updated_at": "2026-07-23T17:29:25Z",
-    "url": "https://github.com/achappey/aihappey-chat"
   }
 ]
