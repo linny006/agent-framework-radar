@@ -1,12 +1,102 @@
 [
   {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6641,
+    "updated_at": "2026-07-23T05:30:07Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:26:27Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
+  },
+  {
+    "description": "An open-source operating system for Claude Code \u2014 persistent Obsidian-vault memory, a self-checkpointing two-verb sessio",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 8,
+    "updated_at": "2026-07-23T05:24:15Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-23T05:29:50Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Production-ready agents, your way.",
+    "id": "Folken2/nuvel",
+    "language": "Python",
+    "name": "Folken2/nuvel",
+    "stars": 2,
+    "updated_at": "2026-07-23T05:20:30Z",
+    "url": "https://github.com/Folken2/nuvel"
+  },
+  {
     "description": "AI agent collaboration platform. General-purpose Work Agent with AI coding. Pure LLM-driven orchestration \u2014 no human-mai",
     "id": "danqing-ai/danqing-teams",
     "language": "Go",
     "name": "danqing-ai/danqing-teams",
     "stars": 3,
-    "updated_at": "2026-07-23T05:14:24Z",
+    "updated_at": "2026-07-23T05:18:59Z",
     "url": "https://github.com/danqing-ai/danqing-teams"
+  },
+  {
+    "description": "Hevolve Hive Agentic Runtime OS",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 4,
+    "updated_at": "2026-07-23T05:18:50Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7648,
+    "updated_at": "2026-07-23T05:21:05Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 73,
+    "updated_at": "2026-07-23T05:21:11Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 246,
+    "updated_at": "2026-07-23T05:15:25Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T05:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -27,24 +117,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Hevolve Hive Agentic Runtime OS",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 4,
-    "updated_at": "2026-07-23T05:10:50Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-23T05:11:19Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
     "id": "zlatko-lakisic/agentic-orchestration",
     "language": "Python",
@@ -52,33 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T05:03:33Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 246,
-    "updated_at": "2026-07-23T05:01:13Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T05:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6641,
-    "updated_at": "2026-07-23T04:59:31Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
@@ -113,7 +158,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1264,
-    "updated_at": "2026-07-23T05:05:35Z",
+    "updated_at": "2026-07-23T05:16:48Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 1581,
     "updated_at": "2026-07-23T05:06:54Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7647,
-    "updated_at": "2026-07-23T05:09:48Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -211,7 +247,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27596,
+    "stars": 27597,
     "updated_at": "2026-07-23T04:31:43Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "rllm-org/rllm",
     "stars": 5718,
-    "updated_at": "2026-07-23T04:00:46Z",
+    "updated_at": "2026-07-23T05:30:08Z",
     "url": "https://github.com/rllm-org/rllm"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/poorani/governed"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 73,
-    "updated_at": "2026-07-23T04:58:05Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
     "id": "ranxi2001/zero2Agent",
     "language": "HTML",
@@ -409,7 +436,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18742,
+    "stars": 18743,
     "updated_at": "2026-07-23T03:17:55Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T03:13:51Z",
     "url": "https://github.com/gopact-ai/gopact"
-  },
-  {
-    "description": "A transparent and controllable AI Agent & Security Agent that breaks free from sandbox limitations, unleashing true auto",
-    "id": "miunasu/Spore",
-    "language": "Python",
-    "name": "miunasu/Spore",
-    "stars": 47,
-    "updated_at": "2026-07-23T03:11:03Z",
-    "url": "https://github.com/miunasu/Spore"
-  },
-  {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 9,
-    "updated_at": "2026-07-23T04:05:22Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 3,
-    "updated_at": "2026-07-23T03:08:15Z",
-    "url": "https://github.com/daretodave/nexus"
   }
 ]
