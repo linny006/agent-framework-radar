@@ -1,5 +1,104 @@
 [
   {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-23T21:00:09Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 153,
+    "updated_at": "2026-07-23T20:59:25Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 3,
+    "updated_at": "2026-07-23T21:00:27Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 577,
+    "updated_at": "2026-07-23T20:56:08Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-07-23T20:56:06Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-23T20:55:55Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-07-23T20:55:20Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-23T20:50:02Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Run AI agents as a governed, multi-session, multi-machine system \u2014 a production implementation of the long-running-agent",
+    "id": "Busa-Legacies/metis-framework",
+    "language": "Python",
+    "name": "Busa-Legacies/metis-framework",
+    "stars": 0,
+    "updated_at": "2026-07-23T20:47:40Z",
+    "url": "https://github.com/Busa-Legacies/metis-framework"
+  },
+  {
+    "description": "Official extensions for gopact",
+    "id": "gopact-ai/gopact-ext",
+    "language": "Go",
+    "name": "gopact-ai/gopact-ext",
+    "stars": 0,
+    "updated_at": "2026-07-23T20:57:52Z",
+    "url": "https://github.com/gopact-ai/gopact-ext"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T20:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Autonomous Go daemon for AI software engineering. 18 specialist agents + 5 reviewers, constitution-bound AI Employees, e",
     "id": "bhodgens/meept",
     "language": "Go",
@@ -14,7 +113,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 73,
-    "updated_at": "2026-07-23T20:42:33Z",
+    "updated_at": "2026-07-23T20:58:36Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -36,15 +135,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Official extensions for gopact",
-    "id": "gopact-ai/gopact-ext",
-    "language": "Go",
-    "name": "gopact-ai/gopact-ext",
-    "stars": 0,
-    "updated_at": "2026-07-23T20:44:30Z",
-    "url": "https://github.com/gopact-ai/gopact-ext"
-  },
-  {
     "description": "Full-stack platform for AI agents. Turn any API into tools, serve them over MCP, A2A, UTCP, and Agent Skills, and run mu",
     "id": "almyty-inc/almyty",
     "language": "TypeScript",
@@ -63,15 +153,6 @@
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T20:30:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -79,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-07-23T20:27:42Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-23T20:28:19Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
@@ -112,7 +184,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7676,
+    "stars": 7677,
     "updated_at": "2026-07-23T20:14:26Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -158,7 +230,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 44,
-    "updated_at": "2026-07-23T20:00:23Z",
+    "updated_at": "2026-07-23T20:49:59Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -180,15 +252,6 @@
     "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-07-23T19:51:42Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -207,15 +270,6 @@
     "url": "https://github.com/agentjido/jidoka"
   },
   {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 3,
-    "updated_at": "2026-07-23T20:43:33Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
     "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
     "id": "loopedautomation/meet",
     "language": "TypeScript",
@@ -223,15 +277,6 @@
     "stars": 5,
     "updated_at": "2026-07-23T19:42:56Z",
     "url": "https://github.com/loopedautomation/meet"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-23T19:39:04Z",
-    "url": "https://github.com/brunogcar/agent"
   },
   {
     "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
@@ -306,15 +351,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 153,
-    "updated_at": "2026-07-23T19:09:31Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
     "description": "Core agent runtime \u2014 event loop, LLM providers (Anthropic, OpenAI), capability system, TUI. Part of the Life Agent OS.",
     "id": "broomva/arcan",
     "language": "Rust",
@@ -349,24 +385,6 @@
     "stars": 2201,
     "updated_at": "2026-07-23T19:06:27Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-07-23T19:05:31Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-23T19:05:23Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
@@ -414,15 +432,6 @@
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 577,
-    "updated_at": "2026-07-23T18:35:39Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 12345,
     "updated_at": "2026-07-23T20:22:13Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
-    "id": "rameswaran-mohan/project-systemu",
-    "language": "Python",
-    "name": "rameswaran-mohan/project-systemu",
-    "stars": 2,
-    "updated_at": "2026-07-23T18:31:58Z",
-    "url": "https://github.com/rameswaran-mohan/project-systemu"
   }
 ]
