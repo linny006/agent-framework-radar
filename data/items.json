@@ -1,21 +1,66 @@
 [
   {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1580,
+    "updated_at": "2026-07-23T04:42:25Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7647,
+    "updated_at": "2026-07-23T04:41:37Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-23T04:39:10Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12322,
-    "updated_at": "2026-07-23T04:29:21Z",
+    "stars": 12323,
+    "updated_at": "2026-07-23T04:36:41Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 4,
-    "updated_at": "2026-07-23T04:28:00Z",
-    "url": "https://github.com/sytone/botnexus"
+    "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
+    "id": "Sheep1433/Noesis",
+    "language": "Python",
+    "name": "Sheep1433/Noesis",
+    "stars": 11,
+    "updated_at": "2026-07-23T04:35:42Z",
+    "url": "https://github.com/Sheep1433/Noesis"
+  },
+  {
+    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
+    "id": "tsingxuanhan/NexusFlow",
+    "language": "Python",
+    "name": "tsingxuanhan/NexusFlow",
+    "stars": 0,
+    "updated_at": "2026-07-23T04:35:21Z",
+    "url": "https://github.com/tsingxuanhan/NexusFlow"
+  },
+  {
+    "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
+    "id": "AmritaBot/AmritaCore",
+    "language": "Python",
+    "name": "AmritaBot/AmritaCore",
+    "stars": 10,
+    "updated_at": "2026-07-23T04:36:29Z",
+    "url": "https://github.com/AmritaBot/AmritaCore"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -23,8 +68,62 @@
     "language": "Python",
     "name": "brunogcar/agent",
     "stars": 1,
-    "updated_at": "2026-07-23T04:25:25Z",
+    "updated_at": "2026-07-23T04:34:36Z",
     "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-23T04:34:27Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-07-23T04:33:37Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 4,
+    "updated_at": "2026-07-23T04:34:40Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27594,
+    "updated_at": "2026-07-23T04:31:43Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T04:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4903,
+    "updated_at": "2026-07-23T04:24:08Z",
+    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "AI-guided onboarding for human-AI collaboration projects",
@@ -61,15 +160,6 @@
     "stars": 19,
     "updated_at": "2026-07-23T04:16:12Z",
     "url": "https://github.com/ulsreall/web3-agent-kit"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T04:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -203,7 +293,7 @@
     "language": "TypeScript",
     "name": "Rahulsanecdote/Forge",
     "stars": 1,
-    "updated_at": "2026-07-23T03:37:11Z",
+    "updated_at": "2026-07-23T04:40:28Z",
     "url": "https://github.com/Rahulsanecdote/Forge"
   },
   {
@@ -225,15 +315,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7645,
-    "updated_at": "2026-07-23T03:49:26Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "A small, explicit framework for goal-directed LLM agents. Every step is a contract the model must satisfy before it can ",
     "id": "poorani/governed",
     "language": "Python",
@@ -241,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T03:27:43Z",
     "url": "https://github.com/poorani/governed"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-23T03:46:51Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-23T02:39:12Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Agent SDK, CLI, RPC, Desktop in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 8,
-    "updated_at": "2026-07-23T02:35:15Z",
-    "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 153,
-    "updated_at": "2026-07-23T02:34:18Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 973,
-    "updated_at": "2026-07-23T02:32:50Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1579,
-    "updated_at": "2026-07-23T04:14:09Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Multi-model adversarial review for catching shared blind spots",
-    "id": "jkraybill/gordo-roundtable",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-roundtable",
-    "stars": 1,
-    "updated_at": "2026-07-23T02:27:13Z",
-    "url": "https://github.com/jkraybill/gordo-roundtable"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 44,
-    "updated_at": "2026-07-23T03:46:31Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 4658,
-    "updated_at": "2026-07-23T02:20:27Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4902,
-    "updated_at": "2026-07-23T04:24:08Z",
-    "url": "https://github.com/iflytek/skillhub"
   }
 ]
