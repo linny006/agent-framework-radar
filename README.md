@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-23 16:12 UTC
+> ⏰ Last updated: 2026-07-23 16:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ellmos-ai/skills](https://github.com/ellmos-ai/skills) | 2 | Python | 2026-07-23 | Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows |
-| 2 | [gopact-ai/gopact](https://github.com/gopact-ai/gopact) | 0 | Go | 2026-07-23 | Go SDK contracts for typed, observable, and resumable agent workflows |
-| 3 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7672 | Python | 2026-07-23 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 4 | [motojinc25/chatwalaau](https://github.com/motojinc25/chatwalaau) | 2 | Python | 2026-07-23 | The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install |
-| 5 | [zenml-io/kitaru](https://github.com/zenml-io/kitaru) | 219 | Python | 2026-07-23 | Record, replay, and improve AI agents in production, built on ZenML |
-| 6 | [sheawinkler/ContextLattice](https://github.com/sheawinkler/ContextLattice) | 136 | Go | 2026-07-23 | The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and |
-| 7 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 12340 | Python | 2026-07-23 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
-| 8 | [kyashrathore/Claxedo](https://github.com/kyashrathore/Claxedo) | 2 | TypeScript | 2026-07-23 | Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products |
-| 9 | [bwpows/Small-Agent](https://github.com/bwpows/Small-Agent) | 0 | Python | 2026-07-23 | Lightweight Agent OS framework with Multi-Agent Swarm, DAG Planning, RAG Routing, and Secure Tool Execution. |
-| 10 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-23 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-23 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7672 | Python | 2026-07-23 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 3 | [ellmos-ai/skills](https://github.com/ellmos-ai/skills) | 2 | Python | 2026-07-23 | Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows |
+| 4 | [gopact-ai/gopact](https://github.com/gopact-ai/gopact) | 0 | Go | 2026-07-23 | Go SDK contracts for typed, observable, and resumable agent workflows |
+| 5 | [motojinc25/chatwalaau](https://github.com/motojinc25/chatwalaau) | 2 | Python | 2026-07-23 | The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install |
+| 6 | [zenml-io/kitaru](https://github.com/zenml-io/kitaru) | 219 | Python | 2026-07-23 | Record, replay, and improve AI agents in production, built on ZenML |
+| 7 | [sheawinkler/ContextLattice](https://github.com/sheawinkler/ContextLattice) | 136 | Go | 2026-07-23 | The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and |
+| 8 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 12340 | Python | 2026-07-23 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
+| 9 | [kyashrathore/Claxedo](https://github.com/kyashrathore/Claxedo) | 2 | TypeScript | 2026-07-23 | Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products |
+| 10 | [bwpows/Small-Agent](https://github.com/bwpows/Small-Agent) | 0 | Python | 2026-07-23 | Lightweight Agent OS framework with Multi-Agent Swarm, DAG Planning, RAG Routing, and Secure Tool Execution. |
 | 11 | [denisotree/veles](https://github.com/denisotree/veles) | 1 | Python | 2026-07-23 | Minimal CLI agent framework with compounding project memory — gets smarter with every session. Clean, modular, any LLM p |
 | 12 | [LazaUK/MicrosoftAgentFramework-RampUp-AgentsV2](https://github.com/LazaUK/MicrosoftAgentFramework-RampUp-AgentsV2) | 0 | Jupyter Notebook | 2026-07-23 | Jupyter notebooks to ramp up (Level 200: Agents V2) and build practical skills of using Microsoft Agent Framework's Pyth |
 | 13 | [kdcube/kdcube](https://github.com/kdcube/kdcube) | 12 | Python | 2026-07-23 | Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w |
@@ -59,7 +59,7 @@ expired items removed — so you can rely on what you see being current.
 | 15 | [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6645 | TypeScript | 2026-07-23 | TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan |
 | 16 | [skerry699/agent-symphony](https://github.com/skerry699/agent-symphony) | 153 | HTML | 2026-07-23 | Multi-Agent AI Task Orchestrator 2026 |
 | 17 | [111nathanlar/Agent-Worlds](https://github.com/111nathanlar/Agent-Worlds) | 1 | HTML | 2026-07-23 |  |
-| 18 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 27646 | Go | 2026-07-23 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 18 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 27647 | Go | 2026-07-23 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | 19 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-23 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 20 | [George-RD/openspine](https://github.com/George-RD/openspine) | 0 | Rust | 2026-07-23 | A safety layer for AI agents; it decides what your agent is allowed to do - and proves it. |
 | 21 | [Omni-Craft/OmniCraft](https://github.com/Omni-Craft/OmniCraft) | 1 | Python | 2026-07-23 | OmniCraft — meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat · Code · Craftwork. |
