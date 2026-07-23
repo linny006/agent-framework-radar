@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
+    "id": "achappey/aihappey-chat",
+    "language": "TypeScript",
+    "name": "achappey/aihappey-chat",
+    "stars": 3,
+    "updated_at": "2026-07-23T13:13:32Z",
+    "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 6,
+    "updated_at": "2026-07-23T13:15:16Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Self-hosted local-first AI research stack with Ollama, n8n, Rinnsal memory, KnowledgeDigest search, and Docker Compose a",
+    "id": "ellmos-ai/ellmos-stack",
+    "language": "Python",
+    "name": "ellmos-ai/ellmos-stack",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:10:56Z",
+    "url": "https://github.com/ellmos-ai/ellmos-stack"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-07-23T13:10:24Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
+    "id": "tsingxuanhan/NexusFlow",
+    "language": "Python",
+    "name": "tsingxuanhan/NexusFlow",
+    "stars": 0,
+    "updated_at": "2026-07-23T13:06:43Z",
+    "url": "https://github.com/tsingxuanhan/NexusFlow"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-23T13:06:28Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-23T13:06:13Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-07-23T13:03:21Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T13:00:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -36,31 +117,13 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "AI agent collaboration platform. General-purpose Work Agent with AI coding. Pure LLM-driven orchestration \u2014 no human-mai",
+    "description": "Self-hosted agent workspace for research & coding. LLM-driven orchestration \u2014 no hand-written workflows. Multi-agent wit",
     "id": "danqing-ai/danqing-teams",
     "language": "Go",
     "name": "danqing-ai/danqing-teams",
     "stars": 3,
     "updated_at": "2026-07-23T12:46:45Z",
     "url": "https://github.com/danqing-ai/danqing-teams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T12:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
-    "id": "tsingxuanhan/NexusFlow",
-    "language": "Python",
-    "name": "tsingxuanhan/NexusFlow",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:44:09Z",
-    "url": "https://github.com/tsingxuanhan/NexusFlow"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
@@ -70,15 +133,6 @@
     "stars": 3868,
     "updated_at": "2026-07-23T12:39:42Z",
     "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-23T12:55:10Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
@@ -166,7 +220,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27639,
+    "stars": 27640,
     "updated_at": "2026-07-23T12:15:25Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -220,7 +274,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12334,
+    "stars": 12335,
     "updated_at": "2026-07-23T12:00:53Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -275,7 +329,7 @@
     "language": "JavaScript",
     "name": "AjnasNB/maqam",
     "stars": 2,
-    "updated_at": "2026-07-23T12:49:03Z",
+    "updated_at": "2026-07-23T13:13:36Z",
     "url": "https://github.com/AjnasNB/maqam"
   },
   {
@@ -306,15 +360,6 @@
     "url": "https://github.com/soumyasurana/Contextra"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 6,
-    "updated_at": "2026-07-23T13:00:02Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
@@ -333,29 +378,11 @@
     "url": "https://github.com/Rahulsanecdote/Forge"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-07-23T11:33:10Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-23T11:29:24Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4891,
+    "stars": 4892,
     "updated_at": "2026-07-23T11:28:43Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -367,15 +394,6 @@
     "stars": 246,
     "updated_at": "2026-07-23T11:26:13Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Self-hosted local-first AI research stack with Ollama, n8n, Rinnsal memory, KnowledgeDigest search, and Docker Compose a",
-    "id": "ellmos-ai/ellmos-stack",
-    "language": "Python",
-    "name": "ellmos-ai/ellmos-stack",
-    "stars": 1,
-    "updated_at": "2026-07-23T12:21:47Z",
-    "url": "https://github.com/ellmos-ai/ellmos-stack"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-23T11:08:29Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 153,
-    "updated_at": "2026-07-23T11:07:36Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-07-23T11:06:11Z",
-    "url": "https://github.com/ggui-ai/ggui"
   }
 ]
