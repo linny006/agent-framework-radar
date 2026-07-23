@@ -1,12 +1,12 @@
 [
   {
-    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
-    "id": "loopedautomation/meet",
-    "language": "TypeScript",
-    "name": "loopedautomation/meet",
-    "stars": 5,
-    "updated_at": "2026-07-23T00:14:06Z",
-    "url": "https://github.com/loopedautomation/meet"
+    "description": "The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and",
+    "id": "sheawinkler/ContextLattice",
+    "language": "Go",
+    "name": "sheawinkler/ContextLattice",
+    "stars": 136,
+    "updated_at": "2026-07-23T00:29:32Z",
+    "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
     "description": "High-autonomy config for opencode: ship features end-to-end with one command. 5 models, 5 families, zero interruptions.",
@@ -14,8 +14,80 @@
     "language": "Shell",
     "name": "vocino/opencode-autonomy",
     "stars": 2,
-    "updated_at": "2026-07-23T00:08:26Z",
+    "updated_at": "2026-07-23T00:28:08Z",
     "url": "https://github.com/vocino/opencode-autonomy"
+  },
+  {
+    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 8,
+    "updated_at": "2026-07-23T00:25:38Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 12,
+    "updated_at": "2026-07-23T00:24:47Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-07-23T00:24:40Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
+    "id": "rhein1/agoragentic-integrations",
+    "language": "JavaScript",
+    "name": "rhein1/agoragentic-integrations",
+    "stars": 24,
+    "updated_at": "2026-07-23T00:23:25Z",
+    "url": "https://github.com/rhein1/agoragentic-integrations"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-23T00:27:01Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 6,
+    "updated_at": "2026-07-23T00:15:32Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T00:15:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
+    "id": "loopedautomation/meet",
+    "language": "TypeScript",
+    "name": "loopedautomation/meet",
+    "stars": 5,
+    "updated_at": "2026-07-23T00:21:09Z",
+    "url": "https://github.com/loopedautomation/meet"
   },
   {
     "description": "14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) \u2014 deploy your virtual C-Suite in one git clone",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "aAAaqwq/AGI-Super-Team",
     "stars": 78,
-    "updated_at": "2026-07-23T00:05:38Z",
+    "updated_at": "2026-07-23T00:24:17Z",
     "url": "https://github.com/aAAaqwq/AGI-Super-Team"
   },
   {
@@ -34,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T00:05:36Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
-    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
-    "id": "rhein1/agoragentic-integrations",
-    "language": "JavaScript",
-    "name": "rhein1/agoragentic-integrations",
-    "stars": 24,
-    "updated_at": "2026-07-23T00:07:21Z",
-    "url": "https://github.com/rhein1/agoragentic-integrations"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -63,13 +126,13 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T00:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "pydantic/pydantic-ai",
+    "stars": 18740,
+    "updated_at": "2026-07-22T23:59:00Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7638,
-    "updated_at": "2026-07-22T23:41:55Z",
+    "updated_at": "2026-07-23T00:22:34Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Rust",
     "name": "SmooAI/smooth-operator",
     "stars": 1,
-    "updated_at": "2026-07-23T00:13:22Z",
+    "updated_at": "2026-07-23T00:20:03Z",
     "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
@@ -189,15 +252,6 @@
     "url": "https://github.com/Craigtut/cortex-mono"
   },
   {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 12,
-    "updated_at": "2026-07-22T23:27:50Z",
-    "url": "https://github.com/kdcube/kdcube"
-  },
-  {
     "description": "Democratizing Reinforcement Learning for LLMs",
     "id": "rllm-org/rllm",
     "language": "Python",
@@ -207,31 +261,13 @@
     "url": "https://github.com/rllm-org/rllm"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 6,
-    "updated_at": "2026-07-22T23:25:53Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-23T00:11:09Z",
+    "updated_at": "2026-07-23T00:21:47Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18739,
-    "updated_at": "2026-07-22T23:59:00Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
@@ -324,15 +360,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-23T00:09:27Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Apache-2.0, self-hostable workspace for human teams and AI agents: channels, tasks, inbox, skills, governance, and OpenC",
     "id": "rogerchappel/crewcmd",
     "language": "TypeScript",
@@ -356,7 +383,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 73,
-    "updated_at": "2026-07-22T22:14:36Z",
+    "updated_at": "2026-07-23T00:22:28Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -391,7 +418,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27573,
+    "stars": 27574,
     "updated_at": "2026-07-22T21:50:32Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -421,32 +448,5 @@
     "stars": 1316,
     "updated_at": "2026-07-22T21:23:00Z",
     "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows,",
-    "id": "cordum-io/cordum",
-    "language": "Go",
-    "name": "cordum-io/cordum",
-    "stars": 494,
-    "updated_at": "2026-07-22T21:21:51Z",
-    "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 44,
-    "updated_at": "2026-07-22T21:16:42Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
-    "id": "jigjoy-ai/mozaik",
-    "language": "TypeScript",
-    "name": "jigjoy-ai/mozaik",
-    "stars": 113,
-    "updated_at": "2026-07-22T21:00:08Z",
-    "url": "https://github.com/jigjoy-ai/mozaik"
   }
 ]
