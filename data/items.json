@@ -1,12 +1,39 @@
 [
   {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 153,
+    "updated_at": "2026-07-23T04:12:17Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
     "description": "Self-hostable AI agents you can actually leave running \u2014 durable crash-resume, governed autonomy, seccomp sandbox, offli",
     "id": "hedypamungkas/koboi-agent",
     "language": "Python",
     "name": "hedypamungkas/koboi-agent",
     "stars": 1,
-    "updated_at": "2026-07-23T03:58:17Z",
+    "updated_at": "2026-07-23T04:05:52Z",
     "url": "https://github.com/hedypamungkas/koboi-agent"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 117,
+    "updated_at": "2026-07-23T04:03:45Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
+    "id": "jiayan-xu/agent-core",
+    "language": "Rust",
+    "name": "jiayan-xu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-07-23T04:02:59Z",
+    "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 75,
-    "updated_at": "2026-07-23T03:57:38Z",
+    "updated_at": "2026-07-23T04:02:28Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T04:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Runnable examples for gopact",
@@ -63,15 +99,6 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T03:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "High-autonomy config for opencode: ship features end-to-end with one command. 5 models, 5 families, zero interruptions.",
     "id": "vocino/opencode-autonomy",
     "language": "Shell",
@@ -86,8 +113,17 @@
     "language": "Python",
     "name": "rllm-org/rllm",
     "stars": 5718,
-    "updated_at": "2026-07-23T03:59:02Z",
+    "updated_at": "2026-07-23T04:00:46Z",
     "url": "https://github.com/rllm-org/rllm"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6641,
+    "updated_at": "2026-07-23T03:40:38Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
@@ -142,15 +178,6 @@
     "stars": 7645,
     "updated_at": "2026-07-23T03:49:26Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
-    "id": "jiayan-xu/agent-core",
-    "language": "Rust",
-    "name": "jiayan-xu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-07-23T03:29:46Z",
-    "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
     "description": "A small, explicit framework for goal-directed LLM agents. Every step is a contract the model must satisfy before it can ",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 9,
-    "updated_at": "2026-07-23T03:59:15Z",
+    "updated_at": "2026-07-23T04:05:22Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -252,15 +279,6 @@
     "url": "https://github.com/Omni-Craft/OmniCraft"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 117,
-    "updated_at": "2026-07-23T03:54:07Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "Insajin/autopus-adk",
     "language": "Go",
@@ -283,7 +301,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12321,
+    "stars": 12322,
     "updated_at": "2026-07-23T02:43:58Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -313,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T02:39:12Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6640,
-    "updated_at": "2026-07-23T03:40:38Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "Agent SDK, CLI, RPC, Desktop in Rust",
@@ -356,7 +365,7 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1579,
-    "updated_at": "2026-07-23T03:40:15Z",
+    "updated_at": "2026-07-23T04:14:09Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T01:29:30Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
-    "id": "zizetu/existential-identity-test-engine",
-    "language": "Python",
-    "name": "zizetu/existential-identity-test-engine",
-    "stars": 1,
-    "updated_at": "2026-07-23T01:26:38Z",
-    "url": "https://github.com/zizetu/existential-identity-test-engine"
   }
 ]
