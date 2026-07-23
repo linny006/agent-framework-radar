@@ -1,5 +1,59 @@
 [
   {
+    "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
+    "id": "0xUrsanomics/utopia-os",
+    "language": "Python",
+    "name": "0xUrsanomics/utopia-os",
+    "stars": 2,
+    "updated_at": "2026-07-23T12:08:42Z",
+    "url": "https://github.com/0xUrsanomics/utopia-os"
+  },
+  {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:08:27Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-23T12:08:02Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 73,
+    "updated_at": "2026-07-23T12:11:47Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T12:00:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Trust and verification for the skills your AI agent installs.",
+    "id": "alexverify/eyebrow",
+    "language": "Go",
+    "name": "alexverify/eyebrow",
+    "stars": 5,
+    "updated_at": "2026-07-23T12:00:18Z",
+    "url": "https://github.com/alexverify/eyebrow"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
@@ -99,15 +153,6 @@
     "url": "https://github.com/ellmos-ai/skills"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T11:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Contextra is a high performance AI context engineering platform built in Rust for document ingestion, retrieval, embeddi",
     "id": "soumyasurana/Contextra",
     "language": "Rust",
@@ -135,15 +180,6 @@
     "url": "https://github.com/Rahulsanecdote/Forge"
   },
   {
-    "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
-    "id": "0xUrsanomics/utopia-os",
-    "language": "Python",
-    "name": "0xUrsanomics/utopia-os",
-    "stars": 2,
-    "updated_at": "2026-07-23T11:37:05Z",
-    "url": "https://github.com/0xUrsanomics/utopia-os"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -169,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T11:29:24Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-23T11:58:23Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -214,15 +241,6 @@
     "stars": 314,
     "updated_at": "2026-07-23T11:22:00Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-07-23T11:49:03Z",
-    "url": "https://github.com/MariusYvard/corparius"
   },
   {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
@@ -319,7 +337,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27636,
+    "stars": 27637,
     "updated_at": "2026-07-23T11:00:43Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12334,
-    "updated_at": "2026-07-23T11:57:32Z",
+    "updated_at": "2026-07-23T12:00:53Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -369,21 +387,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 73,
-    "updated_at": "2026-07-23T11:50:10Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
     "id": "Kortecx/kortecx",
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 6,
-    "updated_at": "2026-07-23T11:00:48Z",
+    "updated_at": "2026-07-23T12:11:38Z",
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
@@ -401,7 +410,7 @@
     "language": "TypeScript",
     "name": "loopedautomation/meet",
     "stars": 5,
-    "updated_at": "2026-07-23T11:57:02Z",
+    "updated_at": "2026-07-23T12:07:08Z",
     "url": "https://github.com/loopedautomation/meet"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 153,
     "updated_at": "2026-07-23T10:17:33Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-07-23T10:16:56Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   }
 ]
