@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-23 14:30 UTC
+> ⏰ Last updated: 2026-07-23 14:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ellmos-ai/gardener](https://github.com/ellmos-ai/gardener) | 1 | Python | 2026-07-23 | Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases |
-| 2 | [wmcmahan/cycgraph](https://github.com/wmcmahan/cycgraph) | 2 | TypeScript | 2026-07-23 | Agent orchestration engine built on a Cyclic State Graph |
-| 3 | [aeonfun/aeon](https://github.com/aeonfun/aeon) | 578 | TypeScript | 2026-07-23 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
-| 4 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7664 | Python | 2026-07-23 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 5 | [jigjoy-ai/mozaik](https://github.com/jigjoy-ai/mozaik) | 113 | TypeScript | 2026-07-23 | Mozaik is a TypeScript runtime for concurrent AI agents |
-| 6 | [ulsreall/web3-agent-kit](https://github.com/ulsreall/web3-agent-kit) | 18 | Python | 2026-07-23 | Open-source toolkit for building AI agents that interact with blockchains — DeFi, restaking, token sniping, portfolio tr |
-| 7 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18763 | Python | 2026-07-23 | AI Agent Framework, the Pydantic way |
-| 8 | [Omni-Craft/OmniCraft](https://github.com/Omni-Craft/OmniCraft) | 1 | Python | 2026-07-23 | OmniCraft — meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat · Code · Craftwork. |
-| 9 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-23 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-23 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [ellmos-ai/gardener](https://github.com/ellmos-ai/gardener) | 1 | Python | 2026-07-23 | Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases |
+| 3 | [wmcmahan/cycgraph](https://github.com/wmcmahan/cycgraph) | 2 | TypeScript | 2026-07-23 | Agent orchestration engine built on a Cyclic State Graph |
+| 4 | [aeonfun/aeon](https://github.com/aeonfun/aeon) | 578 | TypeScript | 2026-07-23 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
+| 5 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7664 | Python | 2026-07-23 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 6 | [jigjoy-ai/mozaik](https://github.com/jigjoy-ai/mozaik) | 113 | TypeScript | 2026-07-23 | Mozaik is a TypeScript runtime for concurrent AI agents |
+| 7 | [ulsreall/web3-agent-kit](https://github.com/ulsreall/web3-agent-kit) | 18 | Python | 2026-07-23 | Open-source toolkit for building AI agents that interact with blockchains — DeFi, restaking, token sniping, portfolio tr |
+| 8 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18763 | Python | 2026-07-23 | AI Agent Framework, the Pydantic way |
+| 9 | [Omni-Craft/OmniCraft](https://github.com/Omni-Craft/OmniCraft) | 1 | Python | 2026-07-23 | OmniCraft — meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat · Code · Craftwork. |
 | 10 | [jiayan-xu/agent-core](https://github.com/jiayan-xu/agent-core) | 1 | Rust | 2026-07-23 | Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust. |
 | 11 | [0xUrsanomics/utopia-os](https://github.com/0xUrsanomics/utopia-os) | 2 | Python | 2026-07-23 | An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se |
 | 12 | [danqing-ai/danqing-teams](https://github.com/danqing-ai/danqing-teams) | 3 | Go | 2026-07-23 | Self-hosted agent workspace for research & coding. LLM-driven orchestration — no hand-written workflows. Multi-agent wit |
