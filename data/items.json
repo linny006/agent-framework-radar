@@ -1,5 +1,59 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7660,
+    "updated_at": "2026-07-23T12:58:48Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
+    "id": "0xUrsanomics/utopia-os",
+    "language": "Python",
+    "name": "0xUrsanomics/utopia-os",
+    "stars": 2,
+    "updated_at": "2026-07-23T12:56:16Z",
+    "url": "https://github.com/0xUrsanomics/utopia-os"
+  },
+  {
+    "description": "A deterministic DSL for replayable, host-governed decision rules.",
+    "id": "DBarr3/Nano",
+    "language": "Python",
+    "name": "DBarr3/Nano",
+    "stars": 4,
+    "updated_at": "2026-07-23T12:49:47Z",
+    "url": "https://github.com/DBarr3/Nano"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 213,
+    "updated_at": "2026-07-23T12:47:20Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "AI agent collaboration platform. General-purpose Work Agent with AI coding. Pure LLM-driven orchestration \u2014 no human-mai",
+    "id": "danqing-ai/danqing-teams",
+    "language": "Go",
+    "name": "danqing-ai/danqing-teams",
+    "stars": 3,
+    "updated_at": "2026-07-23T12:46:45Z",
+    "url": "https://github.com/danqing-ai/danqing-teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T12:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
     "id": "tsingxuanhan/NexusFlow",
     "language": "Python",
@@ -23,17 +77,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-23T12:38:03Z",
+    "updated_at": "2026-07-23T12:55:10Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
-    "id": "0xUrsanomics/utopia-os",
-    "language": "Python",
-    "name": "0xUrsanomics/utopia-os",
-    "stars": 2,
-    "updated_at": "2026-07-23T12:36:35Z",
-    "url": "https://github.com/0xUrsanomics/utopia-os"
   },
   {
     "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
@@ -61,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-07-23T12:35:13Z",
     "url": "https://github.com/akyourowngames/friday"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T12:30:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -113,17 +149,8 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-07-23T12:18:24Z",
+    "updated_at": "2026-07-23T12:57:49Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "A deterministic DSL for replayable, host-governed decision rules.",
-    "id": "DBarr3/Nano",
-    "language": "Python",
-    "name": "DBarr3/Nano",
-    "stars": 4,
-    "updated_at": "2026-07-23T12:40:04Z",
-    "url": "https://github.com/DBarr3/Nano"
   },
   {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
@@ -248,7 +275,7 @@
     "language": "JavaScript",
     "name": "AjnasNB/maqam",
     "stars": 2,
-    "updated_at": "2026-07-23T11:50:14Z",
+    "updated_at": "2026-07-23T12:49:03Z",
     "url": "https://github.com/AjnasNB/maqam"
   },
   {
@@ -259,15 +286,6 @@
     "stars": 5,
     "updated_at": "2026-07-23T11:48:39Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7660,
-    "updated_at": "2026-07-23T11:47:32Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 6,
-    "updated_at": "2026-07-23T11:44:11Z",
+    "updated_at": "2026-07-23T13:00:02Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -378,6 +396,15 @@
     "url": "https://github.com/daretodave/nexus"
   },
   {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14631,
+    "updated_at": "2026-07-23T11:14:10Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
     "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
     "id": "jigjoy-ai/mozaik",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 38,
     "updated_at": "2026-07-23T11:06:11Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-07-23T11:04:44Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-23T11:04:35Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 213,
-    "updated_at": "2026-07-23T11:02:25Z",
-    "url": "https://github.com/cortexkit/aft"
   }
 ]
