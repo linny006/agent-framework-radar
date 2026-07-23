@@ -1,12 +1,39 @@
 [
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 3,
+    "updated_at": "2026-07-23T20:27:42Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7676,
-    "updated_at": "2026-07-23T20:14:26Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-23T20:28:19Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 6,
+    "updated_at": "2026-07-23T20:21:22Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "No-code, local-first studio for building and running production ready AI agents. Inference runs on your machine \u2014 llama.",
+    "id": "al2m4n/TheYgent",
+    "language": "Python",
+    "name": "al2m4n/TheYgent",
+    "stars": 1,
+    "updated_at": "2026-07-23T20:20:05Z",
+    "url": "https://github.com/al2m4n/TheYgent"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -14,8 +41,35 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 73,
-    "updated_at": "2026-07-23T20:14:15Z",
+    "updated_at": "2026-07-23T20:21:01Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Full-stack platform for AI agents. Turn any API into tools, serve them over MCP, A2A, UTCP, and Agent Skills, and run mu",
+    "id": "almyty-inc/almyty",
+    "language": "TypeScript",
+    "name": "almyty-inc/almyty",
+    "stars": 0,
+    "updated_at": "2026-07-23T20:25:35Z",
+    "url": "https://github.com/almyty-inc/almyty"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T20:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7676,
+    "updated_at": "2026-07-23T20:14:26Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
@@ -34,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-07-23T20:08:22Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T20:08:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -81,15 +126,6 @@
     "url": "https://github.com/gopact-ai/gopact-ext"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-23T20:02:28Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
@@ -97,15 +133,6 @@
     "stars": 44,
     "updated_at": "2026-07-23T20:00:23Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "No-code, local-first studio for building and running production ready AI agents. Inference runs on your machine \u2014 llama.",
-    "id": "al2m4n/TheYgent",
-    "language": "Python",
-    "name": "al2m4n/TheYgent",
-    "stars": 1,
-    "updated_at": "2026-07-23T19:58:07Z",
-    "url": "https://github.com/al2m4n/TheYgent"
   },
   {
     "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
@@ -158,7 +185,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 3,
-    "updated_at": "2026-07-23T20:03:13Z",
+    "updated_at": "2026-07-23T20:28:06Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -369,15 +396,6 @@
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
-    "description": "Full-stack platform for AI agents. Turn any API into tools, serve them over MCP, A2A, UTCP, and Agent Skills, and run mu",
-    "id": "almyty-inc/almyty",
-    "language": "TypeScript",
-    "name": "almyty-inc/almyty",
-    "stars": 0,
-    "updated_at": "2026-07-23T20:11:07Z",
-    "url": "https://github.com/almyty-inc/almyty"
-  },
-  {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
     "id": "aeonfun/aeon",
     "language": "TypeScript",
@@ -391,7 +409,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4898,
+    "stars": 4899,
     "updated_at": "2026-07-23T18:33:21Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -401,7 +419,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12345,
-    "updated_at": "2026-07-23T18:32:31Z",
+    "updated_at": "2026-07-23T20:22:13Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6676,
     "updated_at": "2026-07-23T20:10:31Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27653,
-    "updated_at": "2026-07-23T18:24:36Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
-    "id": "rhein1/agoragentic-integrations",
-    "language": "JavaScript",
-    "name": "rhein1/agoragentic-integrations",
-    "stars": 24,
-    "updated_at": "2026-07-23T18:22:33Z",
-    "url": "https://github.com/rhein1/agoragentic-integrations"
   }
 ]
