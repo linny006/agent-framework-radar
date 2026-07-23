@@ -1,5 +1,59 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 73,
+    "updated_at": "2026-07-23T06:40:23Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 3,
+    "updated_at": "2026-07-23T06:40:22Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Production-grade AgentOps control plane for safe AI agent execution. Dual-plane architecture: Rust governance engine + P",
+    "id": "sattyamjjain/ferrumdeck",
+    "language": "TypeScript",
+    "name": "sattyamjjain/ferrumdeck",
+    "stars": 6,
+    "updated_at": "2026-07-23T06:39:47Z",
+    "url": "https://github.com/sattyamjjain/ferrumdeck"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6645,
+    "updated_at": "2026-07-23T06:40:34Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7650,
+    "updated_at": "2026-07-23T06:35:35Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T06:30:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An open-source agentic OS \u2014 infrastructure, not prompt text: multi-member runtime, auto-routed parallel context spaces, ",
     "id": "5000Stadia/Kernos",
     "language": "Python",
@@ -18,15 +72,6 @@
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7650,
-    "updated_at": "2026-07-23T06:27:25Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Local-first AI agent runtime with autonomous context awareness. CLI & desktop, MCP integration, Hooks, Skills, multi-age",
     "id": "keiqkeqi321/somnia",
     "language": "Python",
@@ -34,42 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T06:25:12Z",
     "url": "https://github.com/keiqkeqi321/somnia"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T06:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6644,
-    "updated_at": "2026-07-23T06:18:00Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 3,
-    "updated_at": "2026-07-23T06:07:09Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 73,
-    "updated_at": "2026-07-23T06:23:15Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
@@ -97,6 +106,15 @@
     "stars": 75,
     "updated_at": "2026-07-23T05:56:57Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4887,
+    "updated_at": "2026-07-23T05:55:55Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Go SDK contracts for typed, observable, and resumable agent workflows",
@@ -293,7 +311,7 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1581,
-    "updated_at": "2026-07-23T06:18:52Z",
+    "updated_at": "2026-07-23T06:33:29Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -364,7 +382,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27604,
+    "stars": 27608,
     "updated_at": "2026-07-23T04:31:43Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -373,7 +391,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4906,
+    "stars": 4907,
     "updated_at": "2026-07-23T04:24:08Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T04:05:52Z",
     "url": "https://github.com/hedypamungkas/koboi-agent"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 117,
-    "updated_at": "2026-07-23T04:03:45Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Runnable examples for gopact",
-    "id": "gopact-ai/gopact-examples",
-    "language": "Go",
-    "name": "gopact-ai/gopact-examples",
-    "stars": 0,
-    "updated_at": "2026-07-23T03:59:32Z",
-    "url": "https://github.com/gopact-ai/gopact-examples"
   }
 ]
