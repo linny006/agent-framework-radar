@@ -1,12 +1,48 @@
 [
   {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 117,
+    "updated_at": "2026-07-23T02:00:04Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18740,
+    "updated_at": "2026-07-23T01:57:35Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "AI-guided onboarding for human-AI collaboration projects",
+    "id": "jkraybill/gordo-forge",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-forge",
+    "stars": 3,
+    "updated_at": "2026-07-23T01:50:22Z",
+    "url": "https://github.com/jkraybill/gordo-forge"
+  },
+  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
     "name": "DemonDamon/AgenticX",
     "stars": 190,
-    "updated_at": "2026-07-23T01:44:59Z",
+    "updated_at": "2026-07-23T01:48:02Z",
     "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T01:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "kimtth/azure-openai-llm-wiki",
     "stars": 404,
-    "updated_at": "2026-07-23T01:44:57Z",
+    "updated_at": "2026-07-23T02:00:08Z",
     "url": "https://github.com/kimtth/azure-openai-llm-wiki"
   },
   {
@@ -23,7 +59,7 @@
     "language": "JavaScript",
     "name": "rhein1/agoragentic-integrations",
     "stars": 24,
-    "updated_at": "2026-07-23T01:44:01Z",
+    "updated_at": "2026-07-23T01:46:43Z",
     "url": "https://github.com/rhein1/agoragentic-integrations"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 107,
     "updated_at": "2026-07-23T01:35:01Z",
     "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T01:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -180,15 +207,6 @@
     "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18740,
-    "updated_at": "2026-07-23T01:44:14Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Agent SDK, CLI, RPC, Desktop in Rust",
     "id": "Wh1isper/starweaver",
     "language": "Rust",
@@ -214,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T00:59:06Z",
     "url": "https://github.com/Correctover/security-audit"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 117,
-    "updated_at": "2026-07-23T00:55:44Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "A glass-box, minimal library for building LLM agents \u2014 modern techniques as opt-in primitives, no hidden control flow. P",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-22T23:13:14Z",
     "url": "https://github.com/achappey/aihappey-chat"
-  },
-  {
-    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
-    "id": "clawboo/clawboo",
-    "language": "TypeScript",
-    "name": "clawboo/clawboo",
-    "stars": 49,
-    "updated_at": "2026-07-22T23:04:54Z",
-    "url": "https://github.com/clawboo/clawboo"
   }
 ]
