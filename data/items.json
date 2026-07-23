@@ -1,12 +1,75 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7650,
+    "updated_at": "2026-07-23T06:59:55Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27609,
+    "updated_at": "2026-07-23T06:59:22Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 73,
-    "updated_at": "2026-07-23T06:40:23Z",
+    "updated_at": "2026-07-23T06:57:03Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6645,
+    "updated_at": "2026-07-23T06:50:21Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 341,
+    "updated_at": "2026-07-23T06:51:15Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
+    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
+    "id": "rapidaai/voice-ai",
+    "language": "Go",
+    "name": "rapidaai/voice-ai",
+    "stars": 701,
+    "updated_at": "2026-07-23T06:45:53Z",
+    "url": "https://github.com/rapidaai/voice-ai"
+  },
+  {
+    "description": "",
+    "id": "romainsantoli-web/setup-vs-agent-firm",
+    "language": "Python",
+    "name": "romainsantoli-web/setup-vs-agent-firm",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:45:25Z",
+    "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T06:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -27,31 +90,13 @@
     "url": "https://github.com/sattyamjjain/ferrumdeck"
   },
   {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6645,
-    "updated_at": "2026-07-23T06:40:34Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7650,
-    "updated_at": "2026-07-23T06:35:35Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T06:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1582,
+    "updated_at": "2026-07-23T06:33:29Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
     "description": "An open-source agentic OS \u2014 infrastructure, not prompt text: multi-member runtime, auto-routed parallel context spaces, ",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 1,
-    "updated_at": "2026-07-23T06:27:26Z",
+    "updated_at": "2026-07-23T06:59:24Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -88,6 +133,15 @@
     "stars": 1,
     "updated_at": "2026-07-23T06:01:29Z",
     "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8869,
+    "updated_at": "2026-07-23T06:01:04Z",
+    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "cerredz/Vidbyte-SDK",
     "stars": 0,
-    "updated_at": "2026-07-23T06:29:59Z",
+    "updated_at": "2026-07-23T06:47:01Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
@@ -266,7 +320,7 @@
     "language": "Python",
     "name": "zlatko-lakisic/agentic-orchestration",
     "stars": 2,
-    "updated_at": "2026-07-23T05:03:33Z",
+    "updated_at": "2026-07-23T06:46:45Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   },
   {
@@ -306,20 +360,11 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1581,
-    "updated_at": "2026-07-23T06:33:29Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12325,
+    "stars": 12327,
     "updated_at": "2026-07-23T04:36:41Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -374,17 +419,8 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 4,
-    "updated_at": "2026-07-23T04:34:40Z",
+    "updated_at": "2026-07-23T06:53:34Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27608,
-    "updated_at": "2026-07-23T04:31:43Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T04:17:16Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "ReAct Agent \u5b66\u4e60\u5b9e\u73b0 \u2014 Harness \u8f68\u8ff9 Schema\u3001capability \u8bc4\u6d4b\u3001\u8de8\u4ed3\u95ed\u73af demo\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-07-23T04:16:35Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
-    "id": "ulsreall/web3-agent-kit",
-    "language": "Python",
-    "name": "ulsreall/web3-agent-kit",
-    "stars": 19,
-    "updated_at": "2026-07-23T04:16:12Z",
-    "url": "https://github.com/ulsreall/web3-agent-kit"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 153,
-    "updated_at": "2026-07-23T04:12:17Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Self-hostable AI agents you can actually leave running \u2014 durable crash-resume, governed autonomy, seccomp sandbox, offli",
-    "id": "hedypamungkas/koboi-agent",
-    "language": "Python",
-    "name": "hedypamungkas/koboi-agent",
-    "stars": 1,
-    "updated_at": "2026-07-23T04:05:52Z",
-    "url": "https://github.com/hedypamungkas/koboi-agent"
   }
 ]
