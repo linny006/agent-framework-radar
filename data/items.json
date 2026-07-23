@@ -1,11 +1,47 @@
 [
   {
+    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
+    "id": "thenaxon/somora_agent",
+    "language": "TypeScript",
+    "name": "thenaxon/somora_agent",
+    "stars": 8,
+    "updated_at": "2026-07-23T07:50:14Z",
+    "url": "https://github.com/thenaxon/somora_agent"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 73,
+    "updated_at": "2026-07-23T07:49:11Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12328,
+    "updated_at": "2026-07-23T07:47:22Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T07:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Self-hosted completion gate for coding agents: independent verification before done, durable evidence, CLI and local GUI",
     "id": "moortekweb-art/agentic-harness",
     "language": "Python",
     "name": "moortekweb-art/agentic-harness",
     "stars": 0,
-    "updated_at": "2026-07-23T07:39:47Z",
+    "updated_at": "2026-07-23T07:58:54Z",
     "url": "https://github.com/moortekweb-art/agentic-harness"
   },
   {
@@ -14,7 +50,7 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1582,
-    "updated_at": "2026-07-23T07:35:40Z",
+    "updated_at": "2026-07-23T07:45:40Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -27,21 +63,12 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T07:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6645,
-    "updated_at": "2026-07-23T07:25:32Z",
+    "updated_at": "2026-07-23T07:53:10Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 1,
-    "updated_at": "2026-07-23T07:23:33Z",
+    "updated_at": "2026-07-23T07:57:42Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -58,7 +85,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27612,
+    "stars": 27617,
     "updated_at": "2026-07-23T07:17:28Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -115,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T07:06:55Z",
     "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 73,
-    "updated_at": "2026-07-23T06:57:03Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
@@ -297,6 +315,15 @@
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
+    "language": "Python",
+    "name": "rllm-org/rllm",
+    "stars": 5719,
+    "updated_at": "2026-07-23T05:30:08Z",
+    "url": "https://github.com/rllm-org/rllm"
+  },
+  {
     "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
     "id": "cerredz/Vidbyte-SDK",
     "language": "Python",
@@ -405,15 +432,6 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12327,
-    "updated_at": "2026-07-23T04:36:41Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
     "id": "Sheep1433/Noesis",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 10,
     "updated_at": "2026-07-23T04:36:29Z",
     "url": "https://github.com/AmritaBot/AmritaCore"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-23T04:34:36Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 4,
-    "updated_at": "2026-07-23T07:21:14Z",
-    "url": "https://github.com/sytone/botnexus"
   }
 ]
