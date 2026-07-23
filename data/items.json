@@ -1,12 +1,48 @@
 [
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 73,
+    "updated_at": "2026-07-23T10:44:51Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 6,
+    "updated_at": "2026-07-23T10:44:09Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
+    "id": "thenaxon/somora_agent",
+    "language": "TypeScript",
+    "name": "thenaxon/somora_agent",
+    "stars": 8,
+    "updated_at": "2026-07-23T10:38:58Z",
+    "url": "https://github.com/thenaxon/somora_agent"
+  },
+  {
+    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
+    "id": "loopedautomation/meet",
+    "language": "TypeScript",
+    "name": "loopedautomation/meet",
+    "stars": 5,
+    "updated_at": "2026-07-23T10:45:01Z",
+    "url": "https://github.com/loopedautomation/meet"
+  },
+  {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7656,
-    "updated_at": "2026-07-23T10:32:08Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-07-23T10:34:51Z",
+    "url": "https://github.com/MariusYvard/corparius"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 2,
-    "updated_at": "2026-07-23T10:30:24Z",
+    "updated_at": "2026-07-23T10:34:00Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7656,
+    "updated_at": "2026-07-23T10:37:51Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
@@ -25,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-07-23T10:28:54Z",
     "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
+    "id": "achappey/aihappey-agents",
+    "language": "C#",
+    "name": "achappey/aihappey-agents",
+    "stars": 0,
+    "updated_at": "2026-07-23T10:28:28Z",
+    "url": "https://github.com/achappey/aihappey-agents"
   },
   {
     "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
@@ -45,6 +99,15 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 12,
+    "updated_at": "2026-07-23T10:16:16Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
     "id": "fireflyframework/fireflyframework-agentic",
     "language": "Python",
@@ -58,7 +121,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27633,
+    "stars": 27634,
     "updated_at": "2026-07-23T10:12:09Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -99,15 +162,6 @@
     "url": "https://github.com/vortezwohl/EasyHarness"
   },
   {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 12,
-    "updated_at": "2026-07-23T10:16:16Z",
-    "url": "https://github.com/kdcube/kdcube"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -124,15 +178,6 @@
     "stars": 1582,
     "updated_at": "2026-07-23T09:52:44Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
-    "id": "loopedautomation/meet",
-    "language": "TypeScript",
-    "name": "loopedautomation/meet",
-    "stars": 5,
-    "updated_at": "2026-07-23T10:33:44Z",
-    "url": "https://github.com/loopedautomation/meet"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-23T10:32:04Z",
+    "updated_at": "2026-07-23T10:45:09Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -288,15 +333,6 @@
     "url": "https://github.com/lua-ai-global/governance"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 73,
-    "updated_at": "2026-07-23T10:10:52Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -306,15 +342,6 @@
     "url": "https://github.com/daretodave/nexus"
   },
   {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 6,
-    "updated_at": "2026-07-23T08:59:43Z",
-    "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
@@ -322,6 +349,15 @@
     "stars": 1264,
     "updated_at": "2026-07-23T08:56:09Z",
     "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandbox",
+    "id": "vstorm-co/pydantic-deepagents",
+    "language": "Python",
+    "name": "vstorm-co/pydantic-deepagents",
+    "stars": 993,
+    "updated_at": "2026-07-23T08:56:01Z",
+    "url": "https://github.com/vstorm-co/pydantic-deepagents"
   },
   {
     "description": "PurrCat Agent",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-23T09:46:23Z",
     "url": "https://github.com/br3eze-code/br3eze-code"
-  },
-  {
-    "description": "Composable multi-agent framework for GitHub Copilot \u2014 persona grafting, cognitive identity caching, and agent fusion for",
-    "id": "CTOUT/Symdicate",
-    "language": "Shell",
-    "name": "CTOUT/Symdicate",
-    "stars": 1,
-    "updated_at": "2026-07-23T08:33:15Z",
-    "url": "https://github.com/CTOUT/Symdicate"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 2,
-    "updated_at": "2026-07-23T08:28:10Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "\ud83d\udd25\ud83d\udd25COLM 2026\ud83d\udd25\ud83d\udd25      CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for au",
-    "id": "Human-Agent-Society/CORAL",
-    "language": "Python",
-    "name": "Human-Agent-Society/CORAL",
-    "stars": 835,
-    "updated_at": "2026-07-23T08:27:04Z",
-    "url": "https://github.com/Human-Agent-Society/CORAL"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 153,
-    "updated_at": "2026-07-23T08:26:45Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   }
 ]
