@@ -1,12 +1,57 @@
 [
   {
-    "description": "Official extensions for gopact",
-    "id": "gopact-ai/gopact-ext",
-    "language": "Go",
-    "name": "gopact-ai/gopact-ext",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6678,
+    "updated_at": "2026-07-23T21:44:26Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 577,
+    "updated_at": "2026-07-23T21:44:14Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7677,
+    "updated_at": "2026-07-23T21:44:07Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
     "stars": 0,
-    "updated_at": "2026-07-23T21:28:35Z",
-    "url": "https://github.com/gopact-ai/gopact-ext"
+    "updated_at": "2026-07-23T21:43:58Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
+    "id": "loopedautomation/meet",
+    "language": "TypeScript",
+    "name": "loopedautomation/meet",
+    "stars": 5,
+    "updated_at": "2026-07-23T21:38:41Z",
+    "url": "https://github.com/loopedautomation/meet"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18767,
+    "updated_at": "2026-07-23T21:38:09Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -14,8 +59,35 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 73,
-    "updated_at": "2026-07-23T21:27:14Z",
+    "updated_at": "2026-07-23T21:36:44Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12345,
+    "updated_at": "2026-07-23T21:34:50Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T21:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Official extensions for gopact",
+    "id": "gopact-ai/gopact-ext",
+    "language": "Go",
+    "name": "gopact-ai/gopact-ext",
+    "stars": 0,
+    "updated_at": "2026-07-23T21:37:20Z",
+    "url": "https://github.com/gopact-ai/gopact-ext"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -36,15 +108,6 @@
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-23T21:19:45Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and",
     "id": "sheawinkler/ContextLattice",
     "language": "Go",
@@ -52,15 +115,6 @@
     "stars": 136,
     "updated_at": "2026-07-23T21:17:31Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6676,
-    "updated_at": "2026-07-23T21:13:25Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
@@ -81,15 +135,6 @@
     "url": "https://github.com/sytone/botnexus"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12345,
-    "updated_at": "2026-07-23T21:27:42Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -99,15 +144,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7677,
-    "updated_at": "2026-07-23T21:07:45Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
     "id": "agents-inc/cli",
     "language": "TypeScript",
@@ -115,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-07-23T21:04:00Z",
     "url": "https://github.com/agents-inc/cli"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 577,
-    "updated_at": "2026-07-23T21:03:06Z",
-    "url": "https://github.com/aeonfun/aeon"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -216,15 +243,6 @@
     "url": "https://github.com/bhodgens/meept"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-23T20:42:27Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Full-stack platform for AI agents. Turn any API into tools, serve them over MCP, A2A, UTCP, and Agent Skills, and run mu",
     "id": "almyty-inc/almyty",
     "language": "TypeScript",
@@ -274,7 +292,7 @@
     "id": "agenvoy/Agenvoy",
     "language": "Go",
     "name": "agenvoy/Agenvoy",
-    "stars": 341,
+    "stars": 342,
     "updated_at": "2026-07-23T20:15:16Z",
     "url": "https://github.com/agenvoy/Agenvoy"
   },
@@ -333,15 +351,6 @@
     "url": "https://github.com/agentjido/jidoka"
   },
   {
-    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
-    "id": "loopedautomation/meet",
-    "language": "TypeScript",
-    "name": "loopedautomation/meet",
-    "stars": 5,
-    "updated_at": "2026-07-23T19:42:56Z",
-    "url": "https://github.com/loopedautomation/meet"
-  },
-  {
     "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
     "id": "AndersonBY/vv-agent",
     "language": "Python",
@@ -376,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T19:28:12Z",
     "url": "https://github.com/billybox1926-jpg/Terminai"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18767,
-    "updated_at": "2026-07-23T20:33:04Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Core agent runtime \u2014 event loop, LLM providers (Anthropic, OpenAI), capability system, TUI. Part of the Life Agent OS.",
