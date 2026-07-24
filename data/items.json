@@ -1,5 +1,23 @@
 [
   {
+    "description": "A small, explicit framework for goal-directed LLM agents. Every step is a contract the model must satisfy before it can ",
+    "id": "poorani/governed",
+    "language": "Python",
+    "name": "poorani/governed",
+    "stars": 0,
+    "updated_at": "2026-07-24T00:58:31Z",
+    "url": "https://github.com/poorani/governed"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-24T00:56:55Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent-native, governed AI runtime for Rust, Python, and TypeScript \u2014 native providers, MCP, tools, routing, memory, budg",
     "id": "matakartal/aikit-runtime",
     "language": "Rust",
@@ -54,15 +72,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-24T00:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
     "id": "billybox1926-jpg/Terminai",
     "language": "TypeScript",
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18771,
-    "updated_at": "2026-07-24T00:45:51Z",
+    "updated_at": "2026-07-24T00:57:53Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 314,
     "updated_at": "2026-07-23T22:27:33Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 10,
-    "updated_at": "2026-07-23T22:19:37Z",
-    "url": "https://github.com/aomi-labs/aomi"
   }
 ]
