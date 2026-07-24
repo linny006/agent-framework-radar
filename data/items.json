@@ -1,11 +1,83 @@
 [
   {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12369,
+    "updated_at": "2026-07-24T17:29:48Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 45,
+    "updated_at": "2026-07-24T17:29:17Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 154,
+    "updated_at": "2026-07-24T17:28:43Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Self-hosted AI agents with long-term memory and persistent identity \u2014 living in your Telegram / Discord / Slack. An infr",
+    "id": "AronMav/opex",
+    "language": "Rust",
+    "name": "AronMav/opex",
+    "stars": 6,
+    "updated_at": "2026-07-24T17:28:26Z",
+    "url": "https://github.com/AronMav/opex"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-24T17:30:15Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
+    "id": "0bserver07/chimera",
+    "language": "Python",
+    "name": "0bserver07/chimera",
+    "stars": 2,
+    "updated_at": "2026-07-24T17:27:01Z",
+    "url": "https://github.com/0bserver07/chimera"
+  },
+  {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 3,
+    "updated_at": "2026-07-24T17:26:25Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 154,
+    "updated_at": "2026-07-24T17:26:02Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
     "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
     "id": "pavanbadempet/AI-Healthcare-System",
     "language": "Python",
     "name": "pavanbadempet/AI-Healthcare-System",
     "stars": 36,
-    "updated_at": "2026-07-24T17:22:02Z",
+    "updated_at": "2026-07-24T17:24:55Z",
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
@@ -14,8 +86,17 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-07-24T17:21:59Z",
+    "updated_at": "2026-07-24T17:24:11Z",
     "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-24T17:22:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
@@ -43,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-07-24T17:19:33Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 3,
-    "updated_at": "2026-07-24T17:19:19Z",
-    "url": "https://github.com/NekomyaDev/nudge"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -99,24 +171,6 @@
     "url": "https://github.com/ellmos-ai/rinnsal"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-24T17:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 45,
-    "updated_at": "2026-07-24T17:12:27Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
     "id": "kyashrathore/Claxedo",
     "language": "TypeScript",
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18796,
-    "updated_at": "2026-07-24T17:22:02Z",
+    "updated_at": "2026-07-24T17:29:34Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 36,
     "updated_at": "2026-07-24T16:33:05Z",
     "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:31:57Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:31:30Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:31:11Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-24T16:31:08Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:31:08Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
-    "id": "billybox1926-jpg/Terminai",
-    "language": "TypeScript",
-    "name": "billybox1926-jpg/Terminai",
-    "stars": 1,
-    "updated_at": "2026-07-24T17:19:24Z",
-    "url": "https://github.com/billybox1926-jpg/Terminai"
   }
 ]
