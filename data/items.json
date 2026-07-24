@@ -1,12 +1,12 @@
 [
   {
-    "description": "Official extensions for gopact",
-    "id": "gopact-ai/gopact-ext",
-    "language": "Go",
-    "name": "gopact-ai/gopact-ext",
-    "stars": 0,
-    "updated_at": "2026-07-24T02:44:53Z",
-    "url": "https://github.com/gopact-ai/gopact-ext"
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1322,
+    "updated_at": "2026-07-24T02:56:11Z",
+    "url": "https://github.com/inkeep/agents"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -14,8 +14,53 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-24T02:44:47Z",
+    "updated_at": "2026-07-24T02:55:56Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-24T02:51:47Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Memory-backed autonomous AI agent on the Claude Agent SDK / kagura-brain \u2014 Docker security membrane, per-task credential",
+    "id": "kagura-ai/kagura-agent",
+    "language": "Python",
+    "name": "kagura-ai/kagura-agent",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:49:47Z",
+    "url": "https://github.com/kagura-ai/kagura-agent"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1585,
+    "updated_at": "2026-07-24T02:46:19Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-24T02:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Official extensions for gopact",
+    "id": "gopact-ai/gopact-ext",
+    "language": "Go",
+    "name": "gopact-ai/gopact-ext",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:44:53Z",
+    "url": "https://github.com/gopact-ai/gopact-ext"
   },
   {
     "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7687,
-    "updated_at": "2026-07-24T02:42:47Z",
+    "updated_at": "2026-07-24T02:48:48Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -43,6 +88,15 @@
     "stars": 154,
     "updated_at": "2026-07-24T02:41:53Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18775,
+    "updated_at": "2026-07-24T02:59:40Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
@@ -59,35 +113,8 @@
     "language": "Rust",
     "name": "Kortecx/kortecx",
     "stars": 6,
-    "updated_at": "2026-07-24T02:39:32Z",
+    "updated_at": "2026-07-24T02:54:48Z",
     "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1585,
-    "updated_at": "2026-07-24T02:35:00Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Memory-backed autonomous AI agent on the Claude Agent SDK / kagura-brain \u2014 Docker security membrane, per-task credential",
-    "id": "kagura-ai/kagura-agent",
-    "language": "Python",
-    "name": "kagura-ai/kagura-agent",
-    "stars": 0,
-    "updated_at": "2026-07-24T02:31:29Z",
-    "url": "https://github.com/kagura-ai/kagura-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-24T02:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "DSPy Go implementation",
@@ -117,15 +144,6 @@
     "url": "https://github.com/0bserver07/chimera"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18774,
-    "updated_at": "2026-07-24T02:40:27Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
     "id": "SturdyRobot/kedge",
     "language": "Rust",
@@ -151,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-07-24T02:10:54Z",
     "url": "https://github.com/frogbotai/frogbot"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-24T02:09:39Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
@@ -239,7 +248,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-24T02:23:47Z",
+    "updated_at": "2026-07-24T02:52:15Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -328,7 +337,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27663,
+    "stars": 27664,
     "updated_at": "2026-07-24T01:12:24Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-24T00:17:06Z",
     "url": "https://github.com/ellmos-ai/n8n-manager-mcp"
-  },
-  {
-    "description": "\ud83d\udd25\ud83d\udd25COLM 2026\ud83d\udd25\ud83d\udd25      CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for au",
-    "id": "Human-Agent-Society/CORAL",
-    "language": "Python",
-    "name": "Human-Agent-Society/CORAL",
-    "stars": 838,
-    "updated_at": "2026-07-24T00:15:23Z",
-    "url": "https://github.com/Human-Agent-Society/CORAL"
   }
 ]
