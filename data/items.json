@@ -1,11 +1,74 @@
 [
   {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-07-24T06:14:33Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 74,
+    "updated_at": "2026-07-24T06:09:16Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Agent-native, governed AI runtime for Rust, Python, and TypeScript \u2014 native providers, MCP, tools, routing, memory, budg",
+    "id": "matakartal/aikit-runtime",
+    "language": "Rust",
+    "name": "matakartal/aikit-runtime",
+    "stars": 2,
+    "updated_at": "2026-07-24T06:06:44Z",
+    "url": "https://github.com/matakartal/aikit-runtime"
+  },
+  {
+    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
+    "id": "rameswaran-mohan/project-systemu",
+    "language": "Python",
+    "name": "rameswaran-mohan/project-systemu",
+    "stars": 2,
+    "updated_at": "2026-07-24T06:05:34Z",
+    "url": "https://github.com/rameswaran-mohan/project-systemu"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7694,
+    "updated_at": "2026-07-24T06:02:00Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Official extensions for gopact",
+    "id": "gopact-ai/gopact-ext",
+    "language": "Go",
+    "name": "gopact-ai/gopact-ext",
+    "stars": 0,
+    "updated_at": "2026-07-24T06:00:52Z",
+    "url": "https://github.com/gopact-ai/gopact-ext"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-24T06:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The open composable platform for agent orchestration and human collaboration. With tools, security, memory, cost saving,",
     "id": "amajorai/ryu",
     "language": "HTML",
     "name": "amajorai/ryu",
     "stars": 36,
-    "updated_at": "2026-07-24T06:00:17Z",
+    "updated_at": "2026-07-24T06:15:19Z",
     "url": "https://github.com/amajorai/ryu"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 963,
     "updated_at": "2026-07-24T05:53:54Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7694,
-    "updated_at": "2026-07-24T05:54:14Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
@@ -86,7 +140,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 3,
-    "updated_at": "2026-07-24T05:50:10Z",
+    "updated_at": "2026-07-24T06:02:50Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 154,
     "updated_at": "2026-07-24T05:46:54Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-24T05:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T05:44:08Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Official extensions for gopact",
-    "id": "gopact-ai/gopact-ext",
-    "language": "Go",
-    "name": "gopact-ai/gopact-ext",
-    "stars": 0,
-    "updated_at": "2026-07-24T05:57:02Z",
-    "url": "https://github.com/gopact-ai/gopact-ext"
   },
   {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-07-24T05:59:29Z",
+    "updated_at": "2026-07-24T06:09:19Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -176,7 +212,7 @@
     "language": "TypeScript",
     "name": "almyty-inc/almyty",
     "stars": 0,
-    "updated_at": "2026-07-24T05:30:21Z",
+    "updated_at": "2026-07-24T06:05:13Z",
     "url": "https://github.com/almyty-inc/almyty"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-07-24T05:44:24Z",
+    "updated_at": "2026-07-24T06:04:05Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "rllm-org/rllm",
     "stars": 5725,
-    "updated_at": "2026-07-24T05:56:15Z",
+    "updated_at": "2026-07-24T06:06:47Z",
     "url": "https://github.com/rllm-org/rllm"
   },
   {
@@ -304,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-07-24T05:02:24Z",
     "url": "https://github.com/0bserver07/chimera"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 74,
-    "updated_at": "2026-07-24T05:47:51Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and",
@@ -418,35 +445,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27675,
+    "stars": 27676,
     "updated_at": "2026-07-24T04:16:11Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "      Aeriadne is the first-of-its-kind marketplace for agentic operability. It delivers high-fidelity skills, plugins, ",
-    "id": "calisweetleaf/Marketplace-for-AI-Agentic-Operators",
-    "language": "Python",
-    "name": "calisweetleaf/Marketplace-for-AI-Agentic-Operators",
-    "stars": 3,
-    "updated_at": "2026-07-24T04:15:17Z",
-    "url": "https://github.com/calisweetleaf/Marketplace-for-AI-Agentic-Operators"
-  },
-  {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 9,
-    "updated_at": "2026-07-24T04:01:54Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
-    "id": "clawboo/clawboo",
-    "language": "TypeScript",
-    "name": "clawboo/clawboo",
-    "stars": 52,
-    "updated_at": "2026-07-24T03:51:51Z",
-    "url": "https://github.com/clawboo/clawboo"
   }
 ]
