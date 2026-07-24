@@ -1,5 +1,50 @@
 [
   {
+    "description": "Agent-native, governed AI runtime for Rust, Python, and TypeScript \u2014 native providers, MCP, tools, routing, memory, budg",
+    "id": "matakartal/aikit-runtime",
+    "language": "Rust",
+    "name": "matakartal/aikit-runtime",
+    "stars": 2,
+    "updated_at": "2026-07-24T01:59:01Z",
+    "url": "https://github.com/matakartal/aikit-runtime"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 190,
+    "updated_at": "2026-07-24T01:54:15Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-24T01:52:45Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A deterministic AI agent execution & verification harness in Rust \u2014 ReAct engine, hard budgets, MCP tools, AST-aware con",
+    "id": "SturdyRobot/aegis",
+    "language": "Rust",
+    "name": "SturdyRobot/aegis",
+    "stars": 0,
+    "updated_at": "2026-07-24T01:56:57Z",
+    "url": "https://github.com/SturdyRobot/aegis"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-24T01:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
     "id": "Omni-Craft/OmniCraft",
     "language": "Python",
@@ -9,22 +54,22 @@
     "url": "https://github.com/Omni-Craft/OmniCraft"
   },
   {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1585,
+    "updated_at": "2026-07-24T01:41:28Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
-    "stars": 73,
+    "stars": 74,
     "updated_at": "2026-07-24T01:41:21Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-24T01:42:28Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Official extensions for gopact",
@@ -36,15 +81,6 @@
     "url": "https://github.com/gopact-ai/gopact-ext"
   },
   {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1584,
-    "updated_at": "2026-07-24T01:41:28Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
     "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
     "id": "OrlojHQ/orloj",
     "language": "Go",
@@ -52,24 +88,6 @@
     "stars": 110,
     "updated_at": "2026-07-24T01:38:09Z",
     "url": "https://github.com/OrlojHQ/orloj"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-24T01:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 190,
-    "updated_at": "2026-07-24T01:29:58Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -115,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T01:25:57Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Agent-native, governed AI runtime for Rust, Python, and TypeScript \u2014 native providers, MCP, tools, routing, memory, budg",
-    "id": "matakartal/aikit-runtime",
-    "language": "Rust",
-    "name": "matakartal/aikit-runtime",
-    "stars": 2,
-    "updated_at": "2026-07-24T01:24:40Z",
-    "url": "https://github.com/matakartal/aikit-runtime"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -175,7 +184,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27654,
+    "stars": 27660,
     "updated_at": "2026-07-24T01:12:24Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -185,7 +194,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18772,
-    "updated_at": "2026-07-24T01:39:01Z",
+    "updated_at": "2026-07-24T01:59:06Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -223,6 +232,15 @@
     "stars": 0,
     "updated_at": "2026-07-24T01:04:01Z",
     "url": "https://github.com/gopact-ai/gopact-examples"
+  },
+  {
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
+    "language": "Python",
+    "name": "rllm-org/rllm",
+    "stars": 5724,
+    "updated_at": "2026-07-24T00:55:19Z",
+    "url": "https://github.com/rllm-org/rllm"
   },
   {
     "description": "",
@@ -270,6 +288,15 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
+    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
+    "id": "vstorm-co/full-stack-ai-agent-template",
+    "language": "Python",
+    "name": "vstorm-co/full-stack-ai-agent-template",
+    "stars": 1628,
+    "updated_at": "2026-07-24T00:31:46Z",
+    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
+  },
+  {
     "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4e3aOpenClaw\u5b9e\u4f8b\u63d0\u4f9b\u89c9\u9192\u6846\u67b6\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
     "id": "yuanchuzi2026/silicon-garden",
     "language": "HTML",
@@ -297,6 +324,15 @@
     "url": "https://github.com/ellmos-ai/n8n-manager-mcp"
   },
   {
+    "description": "\ud83d\udd25\ud83d\udd25COLM 2026\ud83d\udd25\ud83d\udd25      CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for au",
+    "id": "Human-Agent-Society/CORAL",
+    "language": "Python",
+    "name": "Human-Agent-Society/CORAL",
+    "stars": 838,
+    "updated_at": "2026-07-24T00:15:23Z",
+    "url": "https://github.com/Human-Agent-Society/CORAL"
+  },
+  {
     "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
     "id": "ellmos-ai/ellmos-homebase-mcp",
     "language": "Python",
@@ -315,21 +351,12 @@
     "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
   },
   {
-    "description": "A deterministic AI agent execution & verification harness in Rust \u2014 ReAct engine, hard budgets, MCP tools, AST-aware con",
-    "id": "SturdyRobot/aegis",
-    "language": "Rust",
-    "name": "SturdyRobot/aegis",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:13:56Z",
-    "url": "https://github.com/SturdyRobot/aegis"
-  },
-  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 3,
-    "updated_at": "2026-07-24T01:27:07Z",
+    "updated_at": "2026-07-24T01:58:12Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -364,7 +391,7 @@
     "id": "inkeep/agents",
     "language": "TypeScript",
     "name": "inkeep/agents",
-    "stars": 1321,
+    "stars": 1322,
     "updated_at": "2026-07-24T00:03:48Z",
     "url": "https://github.com/inkeep/agents"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T23:54:50Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12347,
-    "updated_at": "2026-07-23T23:43:41Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-07-23T23:43:07Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Self-hostable AI agents you can actually leave running \u2014 durable crash-resume, governed autonomy, seccomp sandbox, offli",
-    "id": "hedypamungkas/koboi-agent",
-    "language": "Python",
-    "name": "hedypamungkas/koboi-agent",
-    "stars": 1,
-    "updated_at": "2026-07-23T23:42:04Z",
-    "url": "https://github.com/hedypamungkas/koboi-agent"
   }
 ]
