@@ -1,5 +1,41 @@
 [
   {
+    "description": "      Aeriadne is the first-of-its-kind marketplace for agentic operability. It delivers high-fidelity skills, plugins, ",
+    "id": "calisweetleaf/Marketplace-for-AI-Agentic-Operators",
+    "language": "Python",
+    "name": "calisweetleaf/Marketplace-for-AI-Agentic-Operators",
+    "stars": 3,
+    "updated_at": "2026-07-24T04:15:17Z",
+    "url": "https://github.com/calisweetleaf/Marketplace-for-AI-Agentic-Operators"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7691,
+    "updated_at": "2026-07-24T04:15:16Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-24T04:13:04Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-24T04:12:14Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
     "id": "dshakes/lantern",
     "language": "TypeScript",
@@ -7,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T04:12:03Z",
     "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "      Aeriadne is the first-of-its-kind marketplace for agentic operability. It delivers high-fidelity skills, plugins, ",
-    "id": "calisweetleaf/Marketplace-for-AI-Agentic-Operators",
-    "language": "Python",
-    "name": "calisweetleaf/Marketplace-for-AI-Agentic-Operators",
-    "stars": 3,
-    "updated_at": "2026-07-24T04:11:57Z",
-    "url": "https://github.com/calisweetleaf/Marketplace-for-AI-Agentic-Operators"
   },
   {
     "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
@@ -63,15 +90,6 @@
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-24T04:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
     "id": "0bserver07/chimera",
     "language": "Python",
@@ -97,15 +115,6 @@
     "stars": 314,
     "updated_at": "2026-07-24T03:50:13Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-24T04:07:23Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -259,15 +268,6 @@
     "stars": 5,
     "updated_at": "2026-07-24T03:17:49Z",
     "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7691,
-    "updated_at": "2026-07-24T04:06:45Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
