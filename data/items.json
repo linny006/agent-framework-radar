@@ -1,21 +1,12 @@
 [
   {
-    "description": "Agent-native, governed AI runtime for Rust, Python, and TypeScript \u2014 native providers, MCP, tools, routing, memory, budg",
-    "id": "matakartal/aikit-runtime",
+    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
+    "id": "SturdyRobot/kedge",
     "language": "Rust",
-    "name": "matakartal/aikit-runtime",
-    "stars": 2,
-    "updated_at": "2026-07-24T01:59:01Z",
-    "url": "https://github.com/matakartal/aikit-runtime"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 190,
-    "updated_at": "2026-07-24T01:54:15Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
+    "name": "SturdyRobot/kedge",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:13:52Z",
+    "url": "https://github.com/SturdyRobot/kedge"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -23,17 +14,98 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-24T01:52:45Z",
+    "updated_at": "2026-07-24T02:13:09Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "A deterministic AI agent execution & verification harness in Rust \u2014 ReAct engine, hard budgets, MCP tools, AST-aware con",
-    "id": "SturdyRobot/aegis",
-    "language": "Rust",
-    "name": "SturdyRobot/aegis",
+    "description": "A small, explicit framework for goal-directed LLM agents. Every step is a contract the model must satisfy before it can ",
+    "id": "poorani/governed",
+    "language": "Python",
+    "name": "poorani/governed",
     "stars": 0,
-    "updated_at": "2026-07-24T01:56:57Z",
-    "url": "https://github.com/SturdyRobot/aegis"
+    "updated_at": "2026-07-24T02:11:38Z",
+    "url": "https://github.com/poorani/governed"
+  },
+  {
+    "description": "The AI Agent framework for enterprises and agencies",
+    "id": "frogbotai/frogbot",
+    "language": "TypeScript",
+    "name": "frogbotai/frogbot",
+    "stars": 2,
+    "updated_at": "2026-07-24T02:10:54Z",
+    "url": "https://github.com/frogbotai/frogbot"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-24T02:09:39Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 247,
+    "updated_at": "2026-07-24T02:08:39Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Agent-native, governed AI runtime for Rust, Python, and TypeScript \u2014 native providers, MCP, tools, routing, memory, budg",
+    "id": "matakartal/aikit-runtime",
+    "language": "Rust",
+    "name": "matakartal/aikit-runtime",
+    "stars": 2,
+    "updated_at": "2026-07-24T02:07:37Z",
+    "url": "https://github.com/matakartal/aikit-runtime"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:06:54Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-07-24T02:06:49Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Local-first AI agent runtime with autonomous context awareness. CLI & desktop, MCP integration, Hooks, Skills, multi-age",
+    "id": "keiqkeqi321/somnia",
+    "language": "Python",
+    "name": "keiqkeqi321/somnia",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:01:33Z",
+    "url": "https://github.com/keiqkeqi321/somnia"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-07-24T02:00:52Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7687,
+    "updated_at": "2026-07-24T02:00:37Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -41,8 +113,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 2,
-    "updated_at": "2026-07-24T01:45:20Z",
+    "updated_at": "2026-07-24T02:00:23Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 191,
+    "updated_at": "2026-07-24T01:54:15Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
@@ -59,7 +140,7 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1585,
-    "updated_at": "2026-07-24T01:41:28Z",
+    "updated_at": "2026-07-24T02:08:04Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -85,18 +166,9 @@
     "id": "OrlojHQ/orloj",
     "language": "Go",
     "name": "OrlojHQ/orloj",
-    "stars": 110,
+    "stars": 111,
     "updated_at": "2026-07-24T01:38:09Z",
     "url": "https://github.com/OrlojHQ/orloj"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7687,
-    "updated_at": "2026-07-24T01:28:25Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -135,15 +207,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-24T01:23:12Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Go SDK contracts for typed, observable, and resumable agent workflows",
     "id": "gopact-ai/gopact",
     "language": "Go",
@@ -176,7 +239,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 18,
-    "updated_at": "2026-07-24T01:28:49Z",
+    "updated_at": "2026-07-24T02:03:03Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -184,7 +247,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27660,
+    "stars": 27661,
     "updated_at": "2026-07-24T01:12:24Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -194,17 +257,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18772,
-    "updated_at": "2026-07-24T01:59:06Z",
+    "updated_at": "2026-07-24T02:06:16Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "A small, explicit framework for goal-directed LLM agents. Every step is a contract the model must satisfy before it can ",
-    "id": "poorani/governed",
-    "language": "Python",
-    "name": "poorani/governed",
-    "stars": 0,
-    "updated_at": "2026-07-24T01:08:19Z",
-    "url": "https://github.com/poorani/governed"
   },
   {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
@@ -369,6 +423,15 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 286,
+    "updated_at": "2026-07-24T00:08:43Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -382,71 +445,8 @@
     "id": "sheawinkler/ContextLattice",
     "language": "Go",
     "name": "sheawinkler/ContextLattice",
-    "stars": 136,
+    "stars": 137,
     "updated_at": "2026-07-24T00:05:06Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1322,
-    "updated_at": "2026-07-24T00:03:48Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 2,
-    "updated_at": "2026-07-23T23:59:29Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 153,
-    "updated_at": "2026-07-23T23:58:24Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 153,
-    "updated_at": "2026-07-23T23:56:38Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Memory-backed autonomous AI agent on the Claude Agent SDK / kagura-brain \u2014 Docker security membrane, per-task credential",
-    "id": "kagura-ai/kagura-agent",
-    "language": "Python",
-    "name": "kagura-ai/kagura-agent",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:31:01Z",
-    "url": "https://github.com/kagura-ai/kagura-agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-23T23:54:50Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-07-23T23:54:50Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
   }
 ]
