@@ -1,12 +1,30 @@
 [
   {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
+    "description": "Local-first AI agent runtime with autonomous context awareness. CLI & desktop, MCP integration, Hooks, Skills, multi-age",
+    "id": "keiqkeqi321/somnia",
+    "language": "Python",
+    "name": "keiqkeqi321/somnia",
+    "stars": 0,
+    "updated_at": "2026-07-24T05:14:56Z",
+    "url": "https://github.com/keiqkeqi321/somnia"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 21,
+    "updated_at": "2026-07-24T05:12:34Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
     "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 10,
-    "updated_at": "2026-07-24T04:59:29Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
+    "name": "dshakes/lantern",
+    "stars": 0,
+    "updated_at": "2026-07-24T05:11:00Z",
+    "url": "https://github.com/dshakes/lantern"
   },
   {
     "description": "Self-hosted AI agents with long-term memory and persistent identity \u2014 living in your Telegram / Discord / Slack. An infr",
@@ -14,8 +32,53 @@
     "language": "Rust",
     "name": "AronMav/opex",
     "stars": 5,
-    "updated_at": "2026-07-24T05:00:20Z",
+    "updated_at": "2026-07-24T05:10:24Z",
     "url": "https://github.com/AronMav/opex"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7693,
+    "updated_at": "2026-07-24T05:11:51Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 76,
+    "updated_at": "2026-07-24T05:06:55Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
+    "id": "zachmeador/shrimpy",
+    "language": "TypeScript",
+    "name": "zachmeador/shrimpy",
+    "stars": 1,
+    "updated_at": "2026-07-24T05:02:00Z",
+    "url": "https://github.com/zachmeador/shrimpy"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-24T05:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 10,
+    "updated_at": "2026-07-24T04:59:29Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
     "description": "Pure LLM-driven multi-agent collaboration on one thinking chain. Long-horizon tasks. Tool-call log: resume, replay, visu",
@@ -50,17 +113,8 @@
     "language": "Python",
     "name": "0bserver07/chimera",
     "stars": 2,
-    "updated_at": "2026-07-24T04:57:46Z",
+    "updated_at": "2026-07-24T05:02:24Z",
     "url": "https://github.com/0bserver07/chimera"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7692,
-    "updated_at": "2026-07-24T04:53:40Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Source-available Harness AI / Agent OS for teams building governed agent applications - with Nexus orchestration, policy",
@@ -86,7 +140,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 3,
-    "updated_at": "2026-07-24T04:46:14Z",
+    "updated_at": "2026-07-24T05:15:14Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 137,
     "updated_at": "2026-07-24T04:45:23Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-24T04:45:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
@@ -135,15 +180,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:37:56Z",
-    "url": "https://github.com/dshakes/lantern"
-  },
-  {
     "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
     "id": "SturdyRobot/kedge",
     "language": "Rust",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18778,
-    "updated_at": "2026-07-24T04:29:43Z",
+    "updated_at": "2026-07-24T05:03:54Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -229,7 +265,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27671,
+    "stars": 27672,
     "updated_at": "2026-07-24T04:16:11Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -241,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-07-24T04:15:17Z",
     "url": "https://github.com/calisweetleaf/Marketplace-for-AI-Agentic-Operators"
-  },
-  {
-    "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
-    "id": "zachmeador/shrimpy",
-    "language": "TypeScript",
-    "name": "zachmeador/shrimpy",
-    "stars": 1,
-    "updated_at": "2026-07-24T04:07:32Z",
-    "url": "https://github.com/zachmeador/shrimpy"
   },
   {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
@@ -304,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T03:46:00Z",
     "url": "https://github.com/gopact-ai/gopact"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 21,
-    "updated_at": "2026-07-24T03:35:16Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -410,7 +428,7 @@
     "language": "TypeScript",
     "name": "inkeep/agents",
     "stars": 1322,
-    "updated_at": "2026-07-24T02:56:11Z",
+    "updated_at": "2026-07-24T05:15:16Z",
     "url": "https://github.com/inkeep/agents"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1585,
     "updated_at": "2026-07-24T03:13:24Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Official extensions for gopact",
-    "id": "gopact-ai/gopact-ext",
-    "language": "Go",
-    "name": "gopact-ai/gopact-ext",
-    "stars": 0,
-    "updated_at": "2026-07-24T02:44:53Z",
-    "url": "https://github.com/gopact-ai/gopact-ext"
-  },
-  {
-    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
-    "id": "ulsreall/web3-agent-kit",
-    "language": "Python",
-    "name": "ulsreall/web3-agent-kit",
-    "stars": 18,
-    "updated_at": "2026-07-24T04:05:04Z",
-    "url": "https://github.com/ulsreall/web3-agent-kit"
   }
 ]
