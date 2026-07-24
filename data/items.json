@@ -1,12 +1,66 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 73,
+    "updated_at": "2026-07-24T00:30:04Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7684,
+    "updated_at": "2026-07-24T00:23:56Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 27655,
+    "updated_at": "2026-07-24T00:21:23Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2201,
+    "updated_at": "2026-07-24T00:20:51Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Soul-Driven AI agent framework. Persistent identity, 4-tier memory, 80+ personas, 20+ messaging channels. Built on OpenC",
+    "id": "clawsouls/soulclaw",
+    "language": "TypeScript",
+    "name": "clawsouls/soulclaw",
+    "stars": 9,
+    "updated_at": "2026-07-24T00:20:30Z",
+    "url": "https://github.com/clawsouls/soulclaw"
+  },
+  {
     "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
     "id": "ellmos-ai/n8n-manager-mcp",
     "language": "TypeScript",
     "name": "ellmos-ai/n8n-manager-mcp",
     "stars": 2,
-    "updated_at": "2026-07-24T00:14:30Z",
+    "updated_at": "2026-07-24T00:17:06Z",
     "url": "https://github.com/ellmos-ai/n8n-manager-mcp"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-24T00:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
@@ -27,13 +81,13 @@
     "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 73,
-    "updated_at": "2026-07-24T00:13:12Z",
-    "url": "https://github.com/JKHeadley/instar"
+    "description": "A deterministic AI agent execution & verification harness in Rust \u2014 ReAct engine, hard budgets, MCP tools, AST-aware con",
+    "id": "SturdyRobot/aegis",
+    "language": "Rust",
+    "name": "SturdyRobot/aegis",
+    "stars": 0,
+    "updated_at": "2026-07-24T00:13:56Z",
+    "url": "https://github.com/SturdyRobot/aegis"
   },
   {
     "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "billybox1926-jpg/Terminai",
     "stars": 0,
-    "updated_at": "2026-07-24T00:13:03Z",
+    "updated_at": "2026-07-24T00:27:05Z",
     "url": "https://github.com/billybox1926-jpg/Terminai"
   },
   {
@@ -68,7 +122,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 3,
-    "updated_at": "2026-07-24T00:12:10Z",
+    "updated_at": "2026-07-24T00:24:19Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-07-24T00:11:28Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Soul-Driven AI agent framework. Persistent identity, 4-tier memory, 80+ personas, 20+ messaging channels. Built on OpenC",
-    "id": "clawsouls/soulclaw",
-    "language": "TypeScript",
-    "name": "clawsouls/soulclaw",
-    "stars": 9,
-    "updated_at": "2026-07-24T00:11:07Z",
-    "url": "https://github.com/clawsouls/soulclaw"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -122,17 +167,8 @@
     "language": "Python",
     "name": "brunogcar/agent",
     "stars": 1,
-    "updated_at": "2026-07-24T00:00:43Z",
+    "updated_at": "2026-07-24T00:30:19Z",
     "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-24T00:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -198,31 +234,13 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2201,
-    "updated_at": "2026-07-23T23:50:39Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18770,
-    "updated_at": "2026-07-24T00:12:25Z",
+    "updated_at": "2026-07-24T00:23:12Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7684,
-    "updated_at": "2026-07-23T23:48:02Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T20:47:40Z",
     "url": "https://github.com/Busa-Legacies/metis-framework"
-  },
-  {
-    "description": "Autonomous Go daemon for AI software engineering. 18 specialist agents + 5 reviewers, constitution-bound AI Employees, e",
-    "id": "bhodgens/meept",
-    "language": "Go",
-    "name": "bhodgens/meept",
-    "stars": 0,
-    "updated_at": "2026-07-23T20:43:58Z",
-    "url": "https://github.com/bhodgens/meept"
-  },
-  {
-    "description": "Full-stack platform for AI agents. Turn any API into tools, serve them over MCP, A2A, UTCP, and Agent Skills, and run mu",
-    "id": "almyty-inc/almyty",
-    "language": "TypeScript",
-    "name": "almyty-inc/almyty",
-    "stars": 0,
-    "updated_at": "2026-07-23T20:43:39Z",
-    "url": "https://github.com/almyty-inc/almyty"
   }
 ]
