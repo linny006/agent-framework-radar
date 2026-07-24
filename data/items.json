@@ -1,12 +1,30 @@
 [
   {
-    "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
-    "id": "Sheep1433/Noesis",
+    "description": "Memory-backed autonomous AI agent on the Claude Agent SDK / kagura-brain \u2014 Docker security membrane, per-task credential",
+    "id": "kagura-ai/kagura-agent",
     "language": "Python",
-    "name": "Sheep1433/Noesis",
-    "stars": 11,
-    "updated_at": "2026-07-24T03:29:07Z",
-    "url": "https://github.com/Sheep1433/Noesis"
+    "name": "kagura-ai/kagura-agent",
+    "stars": 0,
+    "updated_at": "2026-07-24T03:45:10Z",
+    "url": "https://github.com/kagura-ai/kagura-agent"
+  },
+  {
+    "description": "Go SDK contracts for typed, observable, and resumable agent workflows",
+    "id": "gopact-ai/gopact",
+    "language": "Go",
+    "name": "gopact-ai/gopact",
+    "stars": 0,
+    "updated_at": "2026-07-24T03:43:54Z",
+    "url": "https://github.com/gopact-ai/gopact"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 3,
+    "updated_at": "2026-07-24T03:41:46Z",
+    "url": "https://github.com/sytone/botnexus"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -14,8 +32,44 @@
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
     "stars": 314,
-    "updated_at": "2026-07-24T03:28:57Z",
+    "updated_at": "2026-07-24T03:40:55Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 21,
+    "updated_at": "2026-07-24T03:35:16Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 2,
+    "updated_at": "2026-07-24T03:33:51Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-24T03:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
+    "id": "Sheep1433/Noesis",
+    "language": "Python",
+    "name": "Sheep1433/Noesis",
+    "stars": 11,
+    "updated_at": "2026-07-24T03:29:07Z",
+    "url": "https://github.com/Sheep1433/Noesis"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -63,6 +117,15 @@
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12348,
+    "updated_at": "2026-07-24T03:25:14Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
     "id": "atliliw/langchainrust",
     "language": "Rust",
@@ -99,15 +162,6 @@
     "url": "https://github.com/substructureai/substructure"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-24T03:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -115,15 +169,6 @@
     "stars": 7690,
     "updated_at": "2026-07-24T03:13:56Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Memory-backed autonomous AI agent on the Claude Agent SDK / kagura-brain \u2014 Docker security membrane, per-task credential",
-    "id": "kagura-ai/kagura-agent",
-    "language": "Python",
-    "name": "kagura-ai/kagura-agent",
-    "stars": 0,
-    "updated_at": "2026-07-24T03:11:42Z",
-    "url": "https://github.com/kagura-ai/kagura-agent"
   },
   {
     "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
@@ -302,7 +347,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-07-24T02:00:52Z",
+    "updated_at": "2026-07-24T03:36:12Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -320,7 +365,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-24T02:52:15Z",
+    "updated_at": "2026-07-24T03:41:02Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-24T01:28:15Z",
+    "updated_at": "2026-07-24T03:42:30Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -367,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T01:25:57Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Go SDK contracts for typed, observable, and resumable agent workflows",
-    "id": "gopact-ai/gopact",
-    "language": "Go",
-    "name": "gopact-ai/gopact",
-    "stars": 0,
-    "updated_at": "2026-07-24T01:23:11Z",
-    "url": "https://github.com/gopact-ai/gopact"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -401,7 +437,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 18,
-    "updated_at": "2026-07-24T03:20:11Z",
+    "updated_at": "2026-07-24T03:35:13Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -409,44 +445,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27665,
+    "stars": 27666,
     "updated_at": "2026-07-24T01:12:24Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 2,
-    "updated_at": "2026-07-24T01:05:36Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-24T01:04:27Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Runnable examples for gopact",
-    "id": "gopact-ai/gopact-examples",
-    "language": "Go",
-    "name": "gopact-ai/gopact-examples",
-    "stars": 0,
-    "updated_at": "2026-07-24T01:04:01Z",
-    "url": "https://github.com/gopact-ai/gopact-examples"
-  },
-  {
-    "description": "Democratizing Reinforcement Learning for LLMs",
-    "id": "rllm-org/rllm",
-    "language": "Python",
-    "name": "rllm-org/rllm",
-    "stars": 5724,
-    "updated_at": "2026-07-24T00:55:19Z",
-    "url": "https://github.com/rllm-org/rllm"
   }
 ]
