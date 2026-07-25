@@ -1,12 +1,21 @@
 [
   {
-    "description": "\u4ee5 tRPC-Agent-Go \u4e3a\u57fa\u51c6\uff0c\u7cfb\u7edf\u7814\u7a76 Agent \u6846\u67b6\u3001Harness \u4e0e Coding Agent\u3002",
-    "id": "Eddiee-Wei/agent-tech-share",
-    "language": "\u2014",
-    "name": "Eddiee-Wei/agent-tech-share",
-    "stars": 0,
-    "updated_at": "2026-07-25T05:15:19Z",
-    "url": "https://github.com/Eddiee-Wei/agent-tech-share"
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-07-25T05:29:16Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 1,
+    "updated_at": "2026-07-25T05:28:10Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
   },
   {
     "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
@@ -14,8 +23,71 @@
     "language": "Python",
     "name": "pavanbadempet/AI-Healthcare-System",
     "stars": 36,
-    "updated_at": "2026-07-25T05:14:58Z",
+    "updated_at": "2026-07-25T05:30:04Z",
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-25T05:28:46Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-25T05:24:28Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "\u4ee5 tRPC-Agent-Go \u4e3a\u57fa\u51c6\uff0c\u7cfb\u7edf\u7814\u7a76 Agent \u6846\u67b6\u3001Harness \u4e0e Coding Agent\u3002",
+    "id": "Eddiee-Wei/agent-tech-share",
+    "language": "SCSS",
+    "name": "Eddiee-Wei/agent-tech-share",
+    "stars": 0,
+    "updated_at": "2026-07-25T05:22:56Z",
+    "url": "https://github.com/Eddiee-Wei/agent-tech-share"
+  },
+  {
+    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 2,
+    "updated_at": "2026-07-25T05:29:05Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 18,
+    "updated_at": "2026-07-25T05:29:16Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Framework for real-time voice agebts built on OpenAI's Realtime API",
+    "id": "mathisarends/rtvoice",
+    "language": "Python",
+    "name": "mathisarends/rtvoice",
+    "stars": 0,
+    "updated_at": "2026-07-25T05:15:59Z",
+    "url": "https://github.com/mathisarends/rtvoice"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-25T05:15:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
@@ -27,33 +99,6 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "Framework for real-time voice agebts built on OpenAI's Realtime API",
-    "id": "mathisarends/rtvoice",
-    "language": "Python",
-    "name": "mathisarends/rtvoice",
-    "stars": 0,
-    "updated_at": "2026-07-25T05:04:58Z",
-    "url": "https://github.com/mathisarends/rtvoice"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 18,
-    "updated_at": "2026-07-25T05:12:32Z",
-    "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 2,
-    "updated_at": "2026-07-25T05:10:09Z",
-    "url": "https://github.com/ionalpha/flynn"
-  },
-  {
     "description": "Hevolve Hive Agentic Runtime OS",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
@@ -63,16 +108,7 @@
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-25T05:00:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Self-hosted AI agent runtime. Define multi-step agents in YAML \u2014 no code, no LangChain. 2,673 enterprise connectors, bui",
+    "description": "Open Enterprise is a self-hosted, open-source Enterprise AI Platform and AI Agent Runtime for building and running auton",
     "id": "openenterprise-info/open-enterprise-community",
     "language": "JavaScript",
     "name": "openenterprise-info/open-enterprise-community",
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "danmo-ai/danmo-work",
     "stars": 3,
-    "updated_at": "2026-07-25T04:32:13Z",
+    "updated_at": "2026-07-25T05:16:15Z",
     "url": "https://github.com/danmo-ai/danmo-work"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 8,
     "updated_at": "2026-07-25T04:03:07Z",
     "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-07-25T04:02:53Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-07-25T04:02:52Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Minimal TypeScript coding agent powered by xAI Grok with REPL, real-time streaming, and 11 pluggable skills (research, v",
-    "id": "jgrana2/xai_ts",
-    "language": "Python",
-    "name": "jgrana2/xai_ts",
-    "stars": 0,
-    "updated_at": "2026-07-25T04:02:24Z",
-    "url": "https://github.com/jgrana2/xai_ts"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-07-25T04:02:18Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
   }
 ]
