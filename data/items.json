@@ -1,11 +1,155 @@
 [
   {
+    "description": "\ud83e\udd16 Build AI agents with Go featuring multi-agent orchestration, planning, tool use, and support for Gemini, OpenAI, Anthr",
+    "id": "Luiz184/gokin-sdk",
+    "language": "Go",
+    "name": "Luiz184/gokin-sdk",
+    "stars": 2,
+    "updated_at": "2026-07-25T15:14:29Z",
+    "url": "https://github.com/Luiz184/gokin-sdk"
+  },
+  {
+    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
+    "id": "tareksyria/SREAgents",
+    "language": "JavaScript",
+    "name": "tareksyria/SREAgents",
+    "stars": 2,
+    "updated_at": "2026-07-25T15:12:13Z",
+    "url": "https://github.com/tareksyria/SREAgents"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 22,
+    "updated_at": "2026-07-25T15:11:04Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "A governed multi-agent framework built on git",
+    "id": "cordfuse/politik",
+    "language": "TypeScript",
+    "name": "cordfuse/politik",
+    "stars": 0,
+    "updated_at": "2026-07-25T15:10:46Z",
+    "url": "https://github.com/cordfuse/politik"
+  },
+  {
+    "description": "Local filesystem MCP server with 44 tools: safe delete, process management, interactive sessions, async search, OCR, ZIP",
+    "id": "ellmos-ai/ellmos-filecommander-mcp",
+    "language": "JavaScript",
+    "name": "ellmos-ai/ellmos-filecommander-mcp",
+    "stars": 4,
+    "updated_at": "2026-07-25T15:10:36Z",
+    "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
+    "id": "RONIN511/alphora",
+    "language": "Python",
+    "name": "RONIN511/alphora",
+    "stars": 2,
+    "updated_at": "2026-07-25T15:09:00Z",
+    "url": "https://github.com/RONIN511/alphora"
+  },
+  {
+    "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
+    "id": "billybox1926-jpg/Terminai",
+    "language": "TypeScript",
+    "name": "billybox1926-jpg/Terminai",
+    "stars": 1,
+    "updated_at": "2026-07-25T15:08:04Z",
+    "url": "https://github.com/billybox1926-jpg/Terminai"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 314,
+    "updated_at": "2026-07-25T15:07:56Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "\ud83d\udcc4 Generate static question banks easily with Python and JSON for fast, SEO-friendly websites hosted on GitHub Pages.",
+    "id": "punkxuxu/bank_soal",
+    "language": "Python",
+    "name": "punkxuxu/bank_soal",
+    "stars": 0,
+    "updated_at": "2026-07-25T15:07:51Z",
+    "url": "https://github.com/punkxuxu/bank_soal"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-25T15:06:38Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 114,
+    "updated_at": "2026-07-25T15:06:18Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "Danmo Work \u2014 Pure LLM-driven multi-agent collaboration on one thinking chain. Long-horizon tasks. MIT.",
+    "id": "danmo-ai/danmo-work",
+    "language": "Go",
+    "name": "danmo-ai/danmo-work",
+    "stars": 3,
+    "updated_at": "2026-07-25T15:03:43Z",
+    "url": "https://github.com/danmo-ai/danmo-work"
+  },
+  {
+    "description": "Open Enterprise is a self-hosted, open-source Enterprise AI Platform and AI Agent Runtime for building and running auton",
+    "id": "openenterprise-info/open-enterprise-community",
+    "language": "JavaScript",
+    "name": "openenterprise-info/open-enterprise-community",
+    "stars": 1,
+    "updated_at": "2026-07-25T15:03:15Z",
+    "url": "https://github.com/openenterprise-info/open-enterprise-community"
+  },
+  {
+    "description": "NT \u2014 a language for agent ecosystems",
+    "id": "kartikmehta8/nt",
+    "language": "TypeScript",
+    "name": "kartikmehta8/nt",
+    "stars": 0,
+    "updated_at": "2026-07-25T15:02:36Z",
+    "url": "https://github.com/kartikmehta8/nt"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 154,
+    "updated_at": "2026-07-25T15:00:55Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-25T15:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-25T14:59:42Z",
+    "updated_at": "2026-07-25T15:14:43Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -36,15 +180,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "A governed multi-agent framework built on git",
-    "id": "cordfuse/politik",
-    "language": "TypeScript",
-    "name": "cordfuse/politik",
-    "stars": 0,
-    "updated_at": "2026-07-25T14:56:44Z",
-    "url": "https://github.com/cordfuse/politik"
-  },
-  {
     "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
     "id": "kaydenplayZ/agent-skills-guide",
     "language": "\u2014",
@@ -59,7 +194,7 @@
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 3,
-    "updated_at": "2026-07-25T14:54:10Z",
+    "updated_at": "2026-07-25T15:02:04Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -81,24 +216,6 @@
     "url": "https://github.com/TonCerqueira/MiroThinker"
   },
   {
-    "description": "Danmo Work \u2014 Pure LLM-driven multi-agent collaboration on one thinking chain. Long-horizon tasks. MIT.",
-    "id": "danmo-ai/danmo-work",
-    "language": "Go",
-    "name": "danmo-ai/danmo-work",
-    "stars": 3,
-    "updated_at": "2026-07-25T14:55:17Z",
-    "url": "https://github.com/danmo-ai/danmo-work"
-  },
-  {
-    "description": "NT \u2014 a language for agent ecosystems",
-    "id": "kartikmehta8/nt",
-    "language": "TypeScript",
-    "name": "kartikmehta8/nt",
-    "stars": 0,
-    "updated_at": "2026-07-25T14:57:29Z",
-    "url": "https://github.com/kartikmehta8/nt"
-  },
-  {
     "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
     "id": "thesiddguy/GenAI",
     "language": "HTML",
@@ -115,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-25T14:46:56Z",
     "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-25T14:45:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
@@ -225,15 +333,6 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
-    "id": "billybox1926-jpg/Terminai",
-    "language": "TypeScript",
-    "name": "billybox1926-jpg/Terminai",
-    "stars": 1,
-    "updated_at": "2026-07-25T14:27:02Z",
-    "url": "https://github.com/billybox1926-jpg/Terminai"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -315,15 +414,6 @@
     "url": "https://github.com/fpytloun/cognis"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 314,
-    "updated_at": "2026-07-25T14:43:01Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
     "id": "truvaagents/truva-g3",
     "language": "Go",
@@ -331,15 +421,6 @@
     "stars": 13,
     "updated_at": "2026-07-25T14:02:42Z",
     "url": "https://github.com/truvaagents/truva-g3"
-  },
-  {
-    "description": "Open Enterprise is a self-hosted, open-source Enterprise AI Platform and AI Agent Runtime for building and running auton",
-    "id": "openenterprise-info/open-enterprise-community",
-    "language": "JavaScript",
-    "name": "openenterprise-info/open-enterprise-community",
-    "stars": 1,
-    "updated_at": "2026-07-25T14:02:02Z",
-    "url": "https://github.com/openenterprise-info/open-enterprise-community"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
@@ -367,86 +448,5 @@
     "stars": 220,
     "updated_at": "2026-07-25T13:56:35Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 6,
-    "updated_at": "2026-07-25T13:54:01Z",
-    "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18807,
-    "updated_at": "2026-07-25T13:52:38Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
-    "id": "bailong-Hakuryu/E.R.I.I",
-    "language": "Python",
-    "name": "bailong-Hakuryu/E.R.I.I",
-    "stars": 2,
-    "updated_at": "2026-07-25T13:51:31Z",
-    "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
-  },
-  {
-    "description": "Hevolve Hive Agentic Runtime OS",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 5,
-    "updated_at": "2026-07-25T13:50:59Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
-    "id": "agenvoy/Agenvoy",
-    "language": "Go",
-    "name": "agenvoy/Agenvoy",
-    "stars": 349,
-    "updated_at": "2026-07-25T13:49:53Z",
-    "url": "https://github.com/agenvoy/Agenvoy"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-07-25T14:56:02Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-25T13:43:15Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Octopus Agent \u2014 \u57fa\u4e8e Harness \u9a7e\u9a6d\u5de5\u7a0b\u601d\u60f3\u7684\u591a\u667a\u80fd\u4f53\u7ba1\u63a7\u8c03\u5ea6\u6846\u67b6",
-    "id": "Asamo096/Octopus-Agent",
-    "language": "Python",
-    "name": "Asamo096/Octopus-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-25T13:42:20Z",
-    "url": "https://github.com/Asamo096/Octopus-Agent"
-  },
-  {
-    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 1,
-    "updated_at": "2026-07-25T13:50:27Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
   }
 ]
