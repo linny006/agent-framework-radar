@@ -5,7 +5,7 @@
     "language": "\u2014",
     "name": "Eddiee-Wei/agent-tech-share",
     "stars": 0,
-    "updated_at": "2026-07-25T04:59:46Z",
+    "updated_at": "2026-07-25T05:15:19Z",
     "url": "https://github.com/Eddiee-Wei/agent-tech-share"
   },
   {
@@ -14,8 +14,62 @@
     "language": "Python",
     "name": "pavanbadempet/AI-Healthcare-System",
     "stars": 36,
-    "updated_at": "2026-07-25T04:59:33Z",
+    "updated_at": "2026-07-25T05:14:58Z",
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-07-25T05:06:57Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Framework for real-time voice agebts built on OpenAI's Realtime API",
+    "id": "mathisarends/rtvoice",
+    "language": "Python",
+    "name": "mathisarends/rtvoice",
+    "stars": 0,
+    "updated_at": "2026-07-25T05:04:58Z",
+    "url": "https://github.com/mathisarends/rtvoice"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 18,
+    "updated_at": "2026-07-25T05:12:32Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 2,
+    "updated_at": "2026-07-25T05:10:09Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Hevolve Hive Agentic Runtime OS",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 4,
+    "updated_at": "2026-07-25T05:00:38Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-25T05:00:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hosted AI agent runtime. Define multi-step agents in YAML \u2014 no code, no LangChain. 2,673 enterprise connectors, bui",
@@ -25,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-25T04:59:33Z",
     "url": "https://github.com/openenterprise-info/open-enterprise-community"
-  },
-  {
-    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 2,
-    "updated_at": "2026-07-25T04:58:00Z",
-    "url": "https://github.com/ionalpha/flynn"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -70,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-25T04:50:50Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Hevolve Hive Agentic Runtime OS",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 4,
-    "updated_at": "2026-07-25T04:45:56Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-25T04:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T04:02:18Z",
     "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-07-25T04:01:59Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
-    "id": "joseym/salvor",
-    "language": "Rust",
-    "name": "joseym/salvor",
-    "stars": 0,
-    "updated_at": "2026-07-25T04:01:08Z",
-    "url": "https://github.com/joseym/salvor"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 2,
-    "updated_at": "2026-07-25T04:00:26Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
   }
 ]
