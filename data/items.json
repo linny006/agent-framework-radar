@@ -1,5 +1,59 @@
 [
   {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 7,
+    "updated_at": "2026-07-25T07:28:11Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-25T07:21:16Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Framework for real-time voice agebts built on OpenAI's Realtime API",
+    "id": "mathisarends/rtvoice",
+    "language": "Python",
+    "name": "mathisarends/rtvoice",
+    "stars": 0,
+    "updated_at": "2026-07-25T07:18:35Z",
+    "url": "https://github.com/mathisarends/rtvoice"
+  },
+  {
+    "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
+    "id": "ellmos-ai/n8n-manager-mcp",
+    "language": "TypeScript",
+    "name": "ellmos-ai/n8n-manager-mcp",
+    "stars": 2,
+    "updated_at": "2026-07-25T07:18:01Z",
+    "url": "https://github.com/ellmos-ai/n8n-manager-mcp"
+  },
+  {
+    "description": "Notes on agent frameworks, runtimes, harnesses, and coding agents.",
+    "id": "Eddiee-Wei/agent-engineering-notes",
+    "language": "SCSS",
+    "name": "Eddiee-Wei/agent-engineering-notes",
+    "stars": 0,
+    "updated_at": "2026-07-25T07:17:00Z",
+    "url": "https://github.com/Eddiee-Wei/agent-engineering-notes"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-25T07:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-25T07:13:30Z",
+    "updated_at": "2026-07-25T07:22:02Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -63,15 +117,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "Notes on agent frameworks, runtimes, harnesses, and coding agents.",
-    "id": "Eddiee-Wei/agent-engineering-notes",
-    "language": "SCSS",
-    "name": "Eddiee-Wei/agent-engineering-notes",
-    "stars": 0,
-    "updated_at": "2026-07-25T07:07:32Z",
-    "url": "https://github.com/Eddiee-Wei/agent-engineering-notes"
-  },
-  {
     "description": "Democratizing Reinforcement Learning for LLMs",
     "id": "rllm-org/rllm",
     "language": "Python",
@@ -97,15 +142,6 @@
     "stars": 7727,
     "updated_at": "2026-07-25T07:04:14Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-25T07:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -175,18 +211,9 @@
     "id": "realbakari/capsule",
     "language": "Python",
     "name": "realbakari/capsule",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-25T06:49:50Z",
     "url": "https://github.com/realbakari/capsule"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 7,
-    "updated_at": "2026-07-25T06:45:02Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-25T06:28:35Z",
     "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 6,
-    "updated_at": "2026-07-25T06:28:13Z",
-    "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "An agent runtime.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 9,
-    "updated_at": "2026-07-25T06:25:52Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 3,
-    "updated_at": "2026-07-25T06:43:42Z",
-    "url": "https://github.com/NekomyaDev/nudge"
   }
 ]
