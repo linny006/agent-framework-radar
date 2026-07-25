@@ -1,5 +1,77 @@
 [
   {
+    "description": "Scale development tasks with a library of hundreds of Claude Code templates, subagents, and MCP servers for Windows.",
+    "id": "Abdullahr487/Claude-Code-Templates-2026",
+    "language": "Python",
+    "name": "Abdullahr487/Claude-Code-Templates-2026",
+    "stars": 0,
+    "updated_at": "2026-07-25T04:23:44Z",
+    "url": "https://github.com/Abdullahr487/Claude-Code-Templates-2026"
+  },
+  {
+    "description": "Search and extract web data locally for AI agents. Run a private intelligence server on your Windows machine with no API",
+    "id": "sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026",
+    "language": "Python",
+    "name": "sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026",
+    "stars": 0,
+    "updated_at": "2026-07-25T04:23:38Z",
+    "url": "https://github.com/sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026"
+  },
+  {
+    "description": "Manage files, run shell commands, and control code tasks with this terminal-based agent for DeepSeek V4 on Windows.",
+    "id": "bahateacher/DeepSeek-TUI-2026",
+    "language": "Python",
+    "name": "bahateacher/DeepSeek-TUI-2026",
+    "stars": 0,
+    "updated_at": "2026-07-25T04:23:35Z",
+    "url": "https://github.com/bahateacher/DeepSeek-TUI-2026"
+  },
+  {
+    "description": "Provide local-first web intelligence for AI agents without API keys, cloud dependencies, or metered billing.",
+    "id": "Dvine6263/wigolo",
+    "language": "\u2014",
+    "name": "Dvine6263/wigolo",
+    "stars": 1,
+    "updated_at": "2026-07-25T04:23:24Z",
+    "url": "https://github.com/Dvine6263/wigolo"
+  },
+  {
+    "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
+    "id": "zerovia/be-a-lucky-block-hub",
+    "language": "HTML",
+    "name": "zerovia/be-a-lucky-block-hub",
+    "stars": 1,
+    "updated_at": "2026-07-25T04:20:44Z",
+    "url": "https://github.com/zerovia/be-a-lucky-block-hub"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 0,
+    "updated_at": "2026-07-25T04:18:32Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "Local filesystem MCP server with 44 tools: safe delete, process management, interactive sessions, async search, OCR, ZIP",
+    "id": "ellmos-ai/ellmos-filecommander-mcp",
+    "language": "JavaScript",
+    "name": "ellmos-ai/ellmos-filecommander-mcp",
+    "stars": 4,
+    "updated_at": "2026-07-25T04:17:02Z",
+    "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-25T04:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
     "id": "Asceticrefractoryperiod28/Foundry",
     "language": "TypeScript",
@@ -216,15 +288,6 @@
     "url": "https://github.com/plain-sleepydick853/feros"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-25T04:01:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
     "id": "joseym/salvor",
     "language": "Rust",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-25T03:49:11Z",
     "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-07-25T03:49:01Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-25T03:48:55Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-07-25T03:48:51Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27739,
-    "updated_at": "2026-07-25T03:48:32Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 0,
-    "updated_at": "2026-07-25T03:48:13Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-07-25T03:47:59Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Local filesystem MCP server with 44 tools: safe delete, process management, interactive sessions, async search, OCR, ZIP",
-    "id": "ellmos-ai/ellmos-filecommander-mcp",
-    "language": "JavaScript",
-    "name": "ellmos-ai/ellmos-filecommander-mcp",
-    "stars": 4,
-    "updated_at": "2026-07-25T03:47:50Z",
-    "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
   }
 ]
