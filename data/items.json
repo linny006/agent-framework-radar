@@ -1,5 +1,104 @@
 [
   {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 191,
+    "updated_at": "2026-07-25T14:14:41Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "A governed multi-agent framework built on git",
+    "id": "cordfuse/politik",
+    "language": "TypeScript",
+    "name": "cordfuse/politik",
+    "stars": 0,
+    "updated_at": "2026-07-25T14:10:39Z",
+    "url": "https://github.com/cordfuse/politik"
+  },
+  {
+    "description": "Agentic OS done right \u2014 create agents, chat, delegate work, stay safe. Self-hosted control plane with pluggable memory, ",
+    "id": "fpytloun/cognis",
+    "language": "Python",
+    "name": "fpytloun/cognis",
+    "stars": 9,
+    "updated_at": "2026-07-25T14:09:00Z",
+    "url": "https://github.com/fpytloun/cognis"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 314,
+    "updated_at": "2026-07-25T14:06:15Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
+    "id": "vstorm-co/full-stack-ai-agent-template",
+    "language": "Python",
+    "name": "vstorm-co/full-stack-ai-agent-template",
+    "stars": 1643,
+    "updated_at": "2026-07-25T14:04:32Z",
+    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-07-25T14:12:15Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
+    "id": "truvaagents/truva-g3",
+    "language": "Go",
+    "name": "truvaagents/truva-g3",
+    "stars": 13,
+    "updated_at": "2026-07-25T14:02:42Z",
+    "url": "https://github.com/truvaagents/truva-g3"
+  },
+  {
+    "description": "Open Enterprise is a self-hosted, open-source Enterprise AI Platform and AI Agent Runtime for building and running auton",
+    "id": "openenterprise-info/open-enterprise-community",
+    "language": "JavaScript",
+    "name": "openenterprise-info/open-enterprise-community",
+    "stars": 1,
+    "updated_at": "2026-07-25T14:02:02Z",
+    "url": "https://github.com/openenterprise-info/open-enterprise-community"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-07-25T14:01:19Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 3,
+    "updated_at": "2026-07-25T14:12:55Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-25T14:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -16,15 +115,6 @@
     "stars": 220,
     "updated_at": "2026-07-25T13:56:35Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-07-25T13:56:12Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
@@ -63,21 +153,12 @@
     "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-25T13:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-07-25T13:58:41Z",
+    "updated_at": "2026-07-25T14:13:57Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -86,7 +167,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-25T13:47:50Z",
+    "updated_at": "2026-07-25T14:01:28Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -108,15 +189,6 @@
     "url": "https://github.com/Asamo096/Octopus-Agent"
   },
   {
-    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 3,
-    "updated_at": "2026-07-25T13:52:22Z",
-    "url": "https://github.com/ionalpha/flynn"
-  },
-  {
     "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
     "id": "yanacuti1121/Yana-AI",
     "language": "Python",
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-25T13:35:22Z",
     "url": "https://github.com/ai158z/repryntt-public"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 191,
-    "updated_at": "2026-07-25T13:32:49Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
@@ -185,7 +248,7 @@
     "language": "TypeScript",
     "name": "kartikmehta8/nt",
     "stars": 0,
-    "updated_at": "2026-07-25T13:19:49Z",
+    "updated_at": "2026-07-25T14:03:48Z",
     "url": "https://github.com/kartikmehta8/nt"
   },
   {
@@ -205,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-07-25T13:15:20Z",
     "url": "https://github.com/zachmeador/shrimpy"
-  },
-  {
-    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
-    "id": "vstorm-co/full-stack-ai-agent-template",
-    "language": "Python",
-    "name": "vstorm-co/full-stack-ai-agent-template",
-    "stars": 1643,
-    "updated_at": "2026-07-25T13:13:50Z",
-    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
   },
   {
     "description": "",
@@ -351,15 +405,6 @@
     "url": "https://github.com/ellmos-ai/bach"
   },
   {
-    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
-    "id": "truvaagents/truva-g3",
-    "language": "Go",
-    "name": "truvaagents/truva-g3",
-    "stars": 13,
-    "updated_at": "2026-07-25T13:45:42Z",
-    "url": "https://github.com/truvaagents/truva-g3"
-  },
-  {
     "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
     "id": "zerovia/be-a-lucky-block-hub",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-25T12:36:59Z",
     "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
-  },
-  {
-    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
-    "id": "dendrux/dendrux",
-    "language": "Python",
-    "name": "dendrux/dendrux",
-    "stars": 11,
-    "updated_at": "2026-07-25T12:35:08Z",
-    "url": "https://github.com/dendrux/dendrux"
-  },
-  {
-    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
-    "id": "salvatoreabient793/cursor-auto-deployment-agent",
-    "language": "\u2014",
-    "name": "salvatoreabient793/cursor-auto-deployment-agent",
-    "stars": 0,
-    "updated_at": "2026-07-25T12:35:03Z",
-    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-07-25T12:33:12Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-07-25T12:32:43Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-07-25T12:32:31Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
