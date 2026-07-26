@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 2,
+    "updated_at": "2026-07-26T07:58:21Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-07-26T07:54:45Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-07-26T07:56:52Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 6,
+    "updated_at": "2026-07-26T07:51:08Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 1,
+    "updated_at": "2026-07-26T07:51:00Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "NT \u2014 a language for agent ecosystems",
+    "id": "kartikmehta8/nt",
+    "language": "TypeScript",
+    "name": "kartikmehta8/nt",
+    "stars": 1,
+    "updated_at": "2026-07-26T07:49:44Z",
+    "url": "https://github.com/kartikmehta8/nt"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 7,
+    "updated_at": "2026-07-26T07:54:53Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-26T07:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Danmo Work \u2014 Pure LLM-driven multi-agent collaboration on one thinking chain. Long-horizon tasks. MIT.",
     "id": "danmo-ai/danmo-work",
     "language": "Go",
@@ -45,21 +117,12 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 7,
-    "updated_at": "2026-07-26T07:33:41Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
     "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
     "id": "JoakimCarlsson/ai",
     "language": "Go",
     "name": "JoakimCarlsson/ai",
     "stars": 35,
-    "updated_at": "2026-07-26T07:32:56Z",
+    "updated_at": "2026-07-26T07:48:29Z",
     "url": "https://github.com/JoakimCarlsson/ai"
   },
   {
@@ -67,18 +130,9 @@
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1101,
+    "stars": 1103,
     "updated_at": "2026-07-26T07:31:33Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-26T07:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-26T07:28:01Z",
+    "updated_at": "2026-07-26T07:59:27Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -126,6 +180,15 @@
     "url": "https://github.com/ellmos-ai/.github"
   },
   {
+    "description": "Build a coding agent from scratch, one harness primitive at a time. 15 chapters (ch-00..ch-14), each green on two gates.",
+    "id": "thecarbonlayer/carbon",
+    "language": "Python",
+    "name": "thecarbonlayer/carbon",
+    "stars": 53,
+    "updated_at": "2026-07-26T07:16:49Z",
+    "url": "https://github.com/thecarbonlayer/carbon"
+  },
+  {
     "description": "kortecx \u2014 the distributed runtime for AI agents. Reliable orchestration for agentic workflows: tasks dispatched, failure",
     "id": "Kortecx/kortecx",
     "language": "Rust",
@@ -151,6 +214,15 @@
     "stars": 6659,
     "updated_at": "2026-07-26T07:06:30Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 350,
+    "updated_at": "2026-07-26T07:05:45Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-26T05:57:56Z",
     "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 154,
-    "updated_at": "2026-07-26T05:57:48Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
-    "id": "salvatoreabient793/cursor-auto-deployment-agent",
-    "language": "\u2014",
-    "name": "salvatoreabient793/cursor-auto-deployment-agent",
-    "stars": 0,
-    "updated_at": "2026-07-26T05:56:13Z",
-    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-07-26T05:54:46Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-26T05:54:38Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-07-26T05:54:30Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-07-26T05:54:02Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-26T05:54:02Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-07-26T05:53:51Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
