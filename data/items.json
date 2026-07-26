@@ -1,11 +1,74 @@
 [
   {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-07-26T01:29:34Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-07-26T01:28:57Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
+    "id": "zachmeador/shrimpy",
+    "language": "TypeScript",
+    "name": "zachmeador/shrimpy",
+    "stars": 1,
+    "updated_at": "2026-07-26T01:28:18Z",
+    "url": "https://github.com/zachmeador/shrimpy"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-26T01:26:14Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "ReAct Agent \u5b66\u4e60\u5b9e\u73b0 \u2014 Harness \u8f68\u8ff9 Schema\u3001capability \u8bc4\u6d4b\u3001\u8de8\u4ed3\u95ed\u73af demo\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-07-26T01:25:36Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-07-26T01:25:11Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 10,
+    "updated_at": "2026-07-26T01:19:28Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 2,
-    "updated_at": "2026-07-26T01:13:53Z",
+    "updated_at": "2026-07-26T01:15:19Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 120,
     "updated_at": "2026-07-26T00:57:03Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 10,
-    "updated_at": "2026-07-26T00:55:42Z",
-    "url": "https://github.com/aomi-labs/aomi"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -135,15 +189,6 @@
     "url": "https://github.com/wxsimon2022/LangWeave"
   },
   {
-    "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
-    "id": "zachmeador/shrimpy",
-    "language": "TypeScript",
-    "name": "zachmeador/shrimpy",
-    "stars": 1,
-    "updated_at": "2026-07-26T00:38:00Z",
-    "url": "https://github.com/zachmeador/shrimpy"
-  },
-  {
     "description": "Scale development tasks with a library of hundreds of Claude Code templates, subagents, and MCP servers for Windows.",
     "id": "Abdullahr487/Claude-Code-Templates-2026",
     "language": "Python",
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T00:30:18Z",
     "url": "https://github.com/iduyuhe/zhiyan-evolviq"
-  },
-  {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-07-26T00:29:48Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
     "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-26T00:10:27Z",
     "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-07-26T00:10:04Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-07-26T00:09:39Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 2,
-    "updated_at": "2026-07-26T00:08:03Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 2,
-    "updated_at": "2026-07-26T00:07:54Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
   }
 ]
