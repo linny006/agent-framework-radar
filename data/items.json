@@ -1,21 +1,66 @@
 [
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-26T07:28:01Z",
-    "url": "https://github.com/tya5/reyn"
+    "description": "Danmo Work \u2014 Pure LLM-driven multi-agent collaboration on one thinking chain. Long-horizon tasks. MIT.",
+    "id": "danmo-ai/danmo-work",
+    "language": "Go",
+    "name": "danmo-ai/danmo-work",
+    "stars": 4,
+    "updated_at": "2026-07-26T07:42:03Z",
+    "url": "https://github.com/danmo-ai/danmo-work"
   },
   {
     "description": "Multi-agent collaboration engine with persistent, searchable, self-compacting memory. Agents research, critique and adju",
     "id": "Abdur-Rafay-AR/athenacore-multiagent",
     "language": "Python",
     "name": "Abdur-Rafay-AR/athenacore-multiagent",
-    "stars": 0,
-    "updated_at": "2026-07-26T07:27:05Z",
+    "stars": 1,
+    "updated_at": "2026-07-26T07:40:04Z",
     "url": "https://github.com/Abdur-Rafay-AR/athenacore-multiagent"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-07-26T07:37:54Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-26T07:37:17Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 2,
+    "updated_at": "2026-07-26T07:36:28Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 7,
+    "updated_at": "2026-07-26T07:33:41Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
+    "id": "JoakimCarlsson/ai",
+    "language": "Go",
+    "name": "JoakimCarlsson/ai",
+    "stars": 35,
+    "updated_at": "2026-07-26T07:32:56Z",
+    "url": "https://github.com/JoakimCarlsson/ai"
   },
   {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
@@ -23,8 +68,26 @@
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
     "stars": 1101,
-    "updated_at": "2026-07-26T07:26:04Z",
+    "updated_at": "2026-07-26T07:31:33Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-26T07:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-26T07:28:01Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
@@ -36,15 +99,6 @@
     "url": "https://github.com/vamsiramakrishnan/gemini-rs"
   },
   {
-    "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
-    "id": "JoakimCarlsson/ai",
-    "language": "Go",
-    "name": "JoakimCarlsson/ai",
-    "stars": 35,
-    "updated_at": "2026-07-26T07:24:55Z",
-    "url": "https://github.com/JoakimCarlsson/ai"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T07:20:21Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-26T07:19:50Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -97,15 +142,6 @@
     "stars": 8,
     "updated_at": "2026-07-26T07:15:55Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-07-26T07:19:11Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-26T05:53:51Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-07-26T05:52:22Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-07-26T05:51:29Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 3,
-    "updated_at": "2026-07-26T05:49:24Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-07-26T05:49:14Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
   }
 ]
