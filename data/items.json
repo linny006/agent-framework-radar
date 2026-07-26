@@ -1,12 +1,165 @@
 [
   {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
+    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
+    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "language": "Python",
+    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "stars": 1,
+    "updated_at": "2026-07-26T17:30:07Z",
+    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
+  },
+  {
+    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
+    "id": "Fast-newengland468/CyberClaw",
+    "language": "\u2014",
+    "name": "Fast-newengland468/CyberClaw",
+    "stars": 0,
+    "updated_at": "2026-07-26T17:30:04Z",
+    "url": "https://github.com/Fast-newengland468/CyberClaw"
+  },
+  {
+    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
+    "id": "plain-sleepydick853/feros",
+    "language": "\u2014",
+    "name": "plain-sleepydick853/feros",
+    "stars": 0,
+    "updated_at": "2026-07-26T17:29:37Z",
+    "url": "https://github.com/plain-sleepydick853/feros"
+  },
+  {
+    "description": "Verifiable multi-agent consensus for Claude. The coordination layer frameworks punted on.",
+    "id": "JordanNewell/claudeway",
+    "language": "Python",
+    "name": "JordanNewell/claudeway",
+    "stars": 1,
+    "updated_at": "2026-07-26T17:28:47Z",
+    "url": "https://github.com/JordanNewell/claudeway"
+  },
+  {
+    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
+    "id": "berrettabadger966/genesis-pantheon",
+    "language": "Python",
+    "name": "berrettabadger966/genesis-pantheon",
     "stars": 2,
-    "updated_at": "2026-07-26T17:15:23Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
+    "updated_at": "2026-07-26T17:27:51Z",
+    "url": "https://github.com/berrettabadger966/genesis-pantheon"
+  },
+  {
+    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
+    "id": "Tamang4607/rustyhand",
+    "language": "Rust",
+    "name": "Tamang4607/rustyhand",
+    "stars": 3,
+    "updated_at": "2026-07-26T17:27:45Z",
+    "url": "https://github.com/Tamang4607/rustyhand"
+  },
+  {
+    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
+    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
+    "language": "TypeScript",
+    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
+    "stars": 1,
+    "updated_at": "2026-07-26T17:27:30Z",
+    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
+  },
+  {
+    "description": "Octopus Agent \u2014 \u57fa\u4e8e Harness \u9a7e\u9a6d\u5de5\u7a0b\u601d\u60f3\u7684\u591a\u667a\u80fd\u4f53\u7ba1\u63a7\u8c03\u5ea6\u6846\u67b6",
+    "id": "Asamo096/Octopus-Agent",
+    "language": "Python",
+    "name": "Asamo096/Octopus-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-26T17:26:49Z",
+    "url": "https://github.com/Asamo096/Octopus-Agent"
+  },
+  {
+    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
+    "id": "vmy41/agent-harness",
+    "language": "\u2014",
+    "name": "vmy41/agent-harness",
+    "stars": 1,
+    "updated_at": "2026-07-26T17:26:33Z",
+    "url": "https://github.com/vmy41/agent-harness"
+  },
+  {
+    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
+    "id": "monahright467/harness-books",
+    "language": "Python",
+    "name": "monahright467/harness-books",
+    "stars": 1,
+    "updated_at": "2026-07-26T17:26:16Z",
+    "url": "https://github.com/monahright467/harness-books"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 314,
+    "updated_at": "2026-07-26T17:25:25Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Deterministic governance engine for AI agents. Enforce rules defined in .md governance files across AI systems.",
+    "id": "NeuroverseOS/Neuroverseos-governance",
+    "language": "TypeScript",
+    "name": "NeuroverseOS/Neuroverseos-governance",
+    "stars": 2,
+    "updated_at": "2026-07-26T17:25:18Z",
+    "url": "https://github.com/NeuroverseOS/Neuroverseos-governance"
+  },
+  {
+    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
+    "id": "jesayas7817/agent-reliability-engineering",
+    "language": "Shell",
+    "name": "jesayas7817/agent-reliability-engineering",
+    "stars": 1,
+    "updated_at": "2026-07-26T17:21:35Z",
+    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
+  },
+  {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 2,
+    "updated_at": "2026-07-26T17:20:38Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
+    "id": "Ansellwaxlike187/cowork-semantic-search",
+    "language": "Python",
+    "name": "Ansellwaxlike187/cowork-semantic-search",
+    "stars": 0,
+    "updated_at": "2026-07-26T17:19:31Z",
+    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
+  },
+  {
+    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
+    "id": "fathirn6263/harness-engineering",
+    "language": "\u2014",
+    "name": "fathirn6263/harness-engineering",
+    "stars": 0,
+    "updated_at": "2026-07-26T17:19:12Z",
+    "url": "https://github.com/fathirn6263/harness-engineering"
+  },
+  {
+    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
+    "id": "Messa8301/quickbench",
+    "language": "\u2014",
+    "name": "Messa8301/quickbench",
+    "stars": 0,
+    "updated_at": "2026-07-26T17:18:41Z",
+    "url": "https://github.com/Messa8301/quickbench"
+  },
+  {
+    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
+    "id": "breastless-andcircuit638/lean-loop",
+    "language": "\u2014",
+    "name": "breastless-andcircuit638/lean-loop",
+    "stars": 1,
+    "updated_at": "2026-07-26T17:17:07Z",
+    "url": "https://github.com/breastless-andcircuit638/lean-loop"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +167,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-07-26T17:15:22Z",
+    "updated_at": "2026-07-26T17:15:42Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
+    "id": "Markusnigerian562/Project-A-MOS-Framework",
+    "language": "Shell",
+    "name": "Markusnigerian562/Project-A-MOS-Framework",
+    "stars": 2,
+    "updated_at": "2026-07-26T17:15:23Z",
+    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
   },
   {
     "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
@@ -108,24 +270,6 @@
     "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
   },
   {
-    "description": "Octopus Agent \u2014 \u57fa\u4e8e Harness \u9a7e\u9a6d\u5de5\u7a0b\u601d\u60f3\u7684\u591a\u667a\u80fd\u4f53\u7ba1\u63a7\u8c03\u5ea6\u6846\u67b6",
-    "id": "Asamo096/Octopus-Agent",
-    "language": "Python",
-    "name": "Asamo096/Octopus-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:12:19Z",
-    "url": "https://github.com/Asamo096/Octopus-Agent"
-  },
-  {
-    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
-    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "language": "Python",
-    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:12:06Z",
-    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
-  },
-  {
     "description": "FlowStack Server",
     "id": "vittoda/parakett",
     "language": "Java",
@@ -169,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T17:06:51Z",
     "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
-    "language": "TypeScript",
-    "name": "Qwixl/Atom",
-    "stars": 2,
-    "updated_at": "2026-07-26T17:06:50Z",
-    "url": "https://github.com/Qwixl/Atom"
   },
   {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
@@ -313,140 +448,5 @@
     "stars": 154,
     "updated_at": "2026-07-26T16:57:47Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Build and manage AI-driven workflows with private data control, multi-provider LLM support, and local-first architecture",
-    "id": "Hundred-praisworthiness384/DomainOS",
-    "language": "TypeScript",
-    "name": "Hundred-praisworthiness384/DomainOS",
-    "stars": 1,
-    "updated_at": "2026-07-26T16:56:57Z",
-    "url": "https://github.com/Hundred-praisworthiness384/DomainOS"
-  },
-  {
-    "description": "Manage autonomous AI agents at scale with persistent sessions, tool access, and safe human oversight in an efficient, sc",
-    "id": "Bohra-Nitin/AgentManager",
-    "language": "\u2014",
-    "name": "Bohra-Nitin/AgentManager",
-    "stars": 1,
-    "updated_at": "2026-07-26T16:56:33Z",
-    "url": "https://github.com/Bohra-Nitin/AgentManager"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 154,
-    "updated_at": "2026-07-26T16:55:14Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "\ud83e\udd16 Build AI agents with Go featuring multi-agent orchestration, planning, tool use, and support for Gemini, OpenAI, Anthr",
-    "id": "Luiz184/gokin-sdk",
-    "language": "Go",
-    "name": "Luiz184/gokin-sdk",
-    "stars": 2,
-    "updated_at": "2026-07-26T16:54:50Z",
-    "url": "https://github.com/Luiz184/gokin-sdk"
-  },
-  {
-    "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
-    "id": "ellmos-ai/ellmos-homebase-mcp",
-    "language": "Python",
-    "name": "ellmos-ai/ellmos-homebase-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-26T16:53:05Z",
-    "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
-    "id": "tareksyria/SREAgents",
-    "language": "JavaScript",
-    "name": "tareksyria/SREAgents",
-    "stars": 2,
-    "updated_at": "2026-07-26T16:52:39Z",
-    "url": "https://github.com/tareksyria/SREAgents"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1113,
-    "updated_at": "2026-07-26T16:50:22Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 314,
-    "updated_at": "2026-07-26T16:50:06Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
-    "id": "RONIN511/alphora",
-    "language": "Python",
-    "name": "RONIN511/alphora",
-    "stars": 2,
-    "updated_at": "2026-07-26T16:49:37Z",
-    "url": "https://github.com/RONIN511/alphora"
-  },
-  {
-    "description": "\ud83d\udcc4 Generate static question banks easily with Python and JSON for fast, SEO-friendly websites hosted on GitHub Pages.",
-    "id": "punkxuxu/bank_soal",
-    "language": "Python",
-    "name": "punkxuxu/bank_soal",
-    "stars": 0,
-    "updated_at": "2026-07-26T16:48:36Z",
-    "url": "https://github.com/punkxuxu/bank_soal"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 4,
-    "updated_at": "2026-07-26T16:48:33Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones",
-    "id": "ellmos-ai/clutch",
-    "language": "Python",
-    "name": "ellmos-ai/clutch",
-    "stars": 1,
-    "updated_at": "2026-07-26T16:48:16Z",
-    "url": "https://github.com/ellmos-ai/clutch"
-  },
-  {
-    "description": "\ud83d\udd78\ufe0f Engineer the organization, not just the agent. 455 curated resources \u00b7 9 design layers \u00b7 11 sections \u00b7 207 papers & p",
-    "id": "ChaoYue0307/awesome-graph-engineering",
-    "language": "Python",
-    "name": "ChaoYue0307/awesome-graph-engineering",
-    "stars": 8,
-    "updated_at": "2026-07-26T16:48:15Z",
-    "url": "https://github.com/ChaoYue0307/awesome-graph-engineering"
-  },
-  {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 459,
-    "updated_at": "2026-07-26T16:45:00Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 2,
-    "updated_at": "2026-07-26T16:43:42Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   }
 ]
