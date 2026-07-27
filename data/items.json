@@ -1,21 +1,111 @@
 [
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 4724,
+    "updated_at": "2026-07-27T09:44:30Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "Orchestrate armies of AI agents from a single prompt. Open-core, bring-your-own-key, and self-hostable \u2014 Orchestrator ro",
+    "id": "Yigtwxx/Maestro",
     "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 7,
-    "updated_at": "2026-07-27T09:29:11Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+    "name": "Yigtwxx/Maestro",
+    "stars": 3,
+    "updated_at": "2026-07-27T09:44:26Z",
+    "url": "https://github.com/Yigtwxx/Maestro"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-07-27T09:43:40Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7796,
+    "updated_at": "2026-07-27T09:43:37Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 12,
+    "updated_at": "2026-07-27T09:41:44Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-07-27T09:41:04Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A self-evolving, AI-native language and platform for intelligent agents and autonomous software.",
+    "id": "AetherraLabs/Aetherra",
+    "language": "Python",
+    "name": "AetherraLabs/Aetherra",
+    "stars": 8,
+    "updated_at": "2026-07-27T09:43:51Z",
+    "url": "https://github.com/AetherraLabs/Aetherra"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
     "name": "hertz-ai/HARTOS",
-    "stars": 42,
-    "updated_at": "2026-07-27T09:27:42Z",
+    "stars": 43,
+    "updated_at": "2026-07-27T09:39:39Z",
     "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-27T09:39:06Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "\u4e00\u4e2a\u8f7b\u91cf\u7ea7agent harness\u6846\u67b6\uff0c\u7528\u4e8e\u5b66\u4e60\u4e0e\u5b9e\u8df5\u4e2a\u4ebaagent\u52a9\u624b\u67b6\u6784\u8bbe\u8ba1\uff0c\u57fa\u4e8eReAct\u67b6\u6784\uff0c\u7531\u4e2d\u95f4\u8def\u7531\u5c42\u8fde\u63a5\u5ba2\u6237\u7aef\u4e0e\u5e95\u5c42\u7ec4\u4ef6\uff0c\u5b9e\u73b0\u4e86\u591a\u6a21\u578b\u9002\u914d\u3001\u591a\u5e73\u53f0\u9002\u914d\u548c\u4f1a\u8bdd\u7ba1\u7406\u3002",
+    "id": "aandbcct/dotClaw",
+    "language": "Python",
+    "name": "aandbcct/dotClaw",
+    "stars": 9,
+    "updated_at": "2026-07-27T09:38:01Z",
+    "url": "https://github.com/aandbcct/dotClaw"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 3,
+    "updated_at": "2026-07-27T09:35:56Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "An agent operating system: a framework-agnostic harness for self-monitoring, self-improving agentic AI.",
+    "id": "Srujan0798/Adaptoid-OS",
+    "language": "Python",
+    "name": "Srujan0798/Adaptoid-OS",
+    "stars": 0,
+    "updated_at": "2026-07-27T09:44:59Z",
+    "url": "https://github.com/Srujan0798/Adaptoid-OS"
   },
   {
     "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
@@ -23,17 +113,53 @@
     "language": "Python",
     "name": "swarmauri/swarmauri-sdk",
     "stars": 104,
-    "updated_at": "2026-07-27T09:25:21Z",
+    "updated_at": "2026-07-27T09:33:23Z",
     "url": "https://github.com/swarmauri/swarmauri-sdk"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
+    "id": "thenaxon/somora_agent",
+    "language": "TypeScript",
+    "name": "thenaxon/somora_agent",
+    "stars": 9,
+    "updated_at": "2026-07-27T09:32:48Z",
+    "url": "https://github.com/thenaxon/somora_agent"
+  },
+  {
+    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
+    "id": "lukeskytorep-bot/echo-claw",
+    "language": "\u2014",
+    "name": "lukeskytorep-bot/echo-claw",
+    "stars": 2,
+    "updated_at": "2026-07-27T09:44:09Z",
+    "url": "https://github.com/lukeskytorep-bot/echo-claw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7795,
-    "updated_at": "2026-07-27T09:26:36Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T09:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 7,
+    "updated_at": "2026-07-27T09:41:42Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46285,
+    "updated_at": "2026-07-27T09:39:06Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -63,24 +189,6 @@
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
-    "description": "Orchestrate armies of AI agents from a single prompt. Open-core, bring-your-own-key, and self-hostable \u2014 Orchestrator ro",
-    "id": "Yigtwxx/Maestro",
-    "language": "Python",
-    "name": "Yigtwxx/Maestro",
-    "stars": 3,
-    "updated_at": "2026-07-27T09:21:08Z",
-    "url": "https://github.com/Yigtwxx/Maestro"
-  },
-  {
-    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
-    "id": "lukeskytorep-bot/echo-claw",
-    "language": "\u2014",
-    "name": "lukeskytorep-bot/echo-claw",
-    "stars": 2,
-    "updated_at": "2026-07-27T09:20:44Z",
-    "url": "https://github.com/lukeskytorep-bot/echo-claw"
-  },
-  {
     "description": "MCP server providing coding standards, skills, and workflows for AI agents",
     "id": "JunMystery/Agent-Guidance-Rust",
     "language": "Rust",
@@ -108,15 +216,6 @@
     "url": "https://github.com/vladkesler/initrunner"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-27T09:29:37Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Open Agent Spec is a declarative YAML standard and CLI for defining and generating AI agents. One spec, any LLM engine (",
     "id": "prime-vector/open-agent-spec",
     "language": "Python",
@@ -126,30 +225,12 @@
     "url": "https://github.com/prime-vector/open-agent-spec"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-07-27T09:25:23Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T09:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
     "id": "loopedautomation/meet",
     "language": "TypeScript",
     "name": "loopedautomation/meet",
     "stars": 5,
-    "updated_at": "2026-07-27T09:22:49Z",
+    "updated_at": "2026-07-27T09:41:10Z",
     "url": "https://github.com/loopedautomation/meet"
   },
   {
@@ -207,6 +288,15 @@
     "url": "https://github.com/edrc-shawn/lingtai-mcp"
   },
   {
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
+    "language": "Python",
+    "name": "rllm-org/rllm",
+    "stars": 5735,
+    "updated_at": "2026-07-27T09:08:07Z",
+    "url": "https://github.com/rllm-org/rllm"
+  },
+  {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
     "id": "GizClaw/flowcraft",
     "language": "Go",
@@ -214,15 +304,6 @@
     "stars": 487,
     "updated_at": "2026-07-27T09:05:01Z",
     "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-07-27T09:04:40Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
@@ -315,15 +396,6 @@
     "url": "https://github.com/amilworks/ultra"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46286,
-    "updated_at": "2026-07-27T09:25:01Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
     "id": "Asceticrefractoryperiod28/Foundry",
     "language": "TypeScript",
@@ -331,15 +403,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T08:41:37Z",
     "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
-  },
-  {
-    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
-    "id": "thenaxon/somora_agent",
-    "language": "TypeScript",
-    "name": "thenaxon/somora_agent",
-    "stars": 9,
-    "updated_at": "2026-07-27T08:40:09Z",
-    "url": "https://github.com/thenaxon/somora_agent"
   },
   {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T08:35:38Z",
     "url": "https://github.com/iduyuhe/zhiyan-evolviq"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-07-27T08:34:50Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "\u53ef\u5d4c\u5165 Python \u4ea7\u54c1\u7684 Agent Runtime\uff0c\u63d0\u4f9b\u5de5\u5177\u6267\u884c\u3001Skills\u3001\u8fd0\u884c\u4e8b\u4ef6\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u6301\u4e45\u5316 Checkpointer\u3002",
-    "id": "Notryag/north-agent",
-    "language": "Python",
-    "name": "Notryag/north-agent",
-    "stars": 1,
-    "updated_at": "2026-07-27T08:34:33Z",
-    "url": "https://github.com/Notryag/north-agent"
-  },
-  {
-    "description": "Give AI agents hands without handing them the keys: exact one-use approvals and verifiable receipts for registered actio",
-    "id": "AjnasNB/maqam",
-    "language": "JavaScript",
-    "name": "AjnasNB/maqam",
-    "stars": 2,
-    "updated_at": "2026-07-27T08:34:13Z",
-    "url": "https://github.com/AjnasNB/maqam"
-  },
-  {
-    "description": "Shared HTTP runtime for Claude Agent SDK agents built on skill plugins: start a run, stream progress, read the result.",
-    "id": "pronoy1004/agent-runtime",
-    "language": "Python",
-    "name": "pronoy1004/agent-runtime",
-    "stars": 0,
-    "updated_at": "2026-07-27T08:34:10Z",
-    "url": "https://github.com/pronoy1004/agent-runtime"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-07-27T08:34:05Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-07-27T08:33:54Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 3,
-    "updated_at": "2026-07-27T08:31:17Z",
-    "url": "https://github.com/Liny9941/projectsmd"
   }
 ]
