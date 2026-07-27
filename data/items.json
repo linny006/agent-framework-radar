@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T18:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
     "id": "Carrara-Labs/delta-harness",
     "language": "TypeScript",
@@ -25,15 +34,6 @@
     "stars": 45,
     "updated_at": "2026-07-27T18:30:41Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T18:30:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Trust infrastructure for AI agents. Know who produced a value, when, and that it hasn't been tampered with. Zero depende",

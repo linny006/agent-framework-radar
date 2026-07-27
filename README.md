@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-27 18:45 UTC
+> ⏰ Last updated: 2026-07-27 18:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Carrara-Labs/delta-harness](https://github.com/Carrara-Labs/delta-harness) | 0 | TypeScript | 2026-07-27 | Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self |
-| 2 | [aeonfun/aeon](https://github.com/aeonfun/aeon) | 577 | TypeScript | 2026-07-27 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
-| 3 | [hertz-ai/HARTOS](https://github.com/hertz-ai/HARTOS) | 45 | Python | 2026-07-27 | An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp |
-| 4 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-07-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-07-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [Carrara-Labs/delta-harness](https://github.com/Carrara-Labs/delta-harness) | 0 | TypeScript | 2026-07-27 | Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self |
+| 3 | [aeonfun/aeon](https://github.com/aeonfun/aeon) | 577 | TypeScript | 2026-07-27 | The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever. |
+| 4 | [hertz-ai/HARTOS](https://github.com/hertz-ai/HARTOS) | 45 | Python | 2026-07-27 | An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp |
 | 5 | [fabio-rovai/tardygrada](https://github.com/fabio-rovai/tardygrada) | 18 | C | 2026-07-27 | Trust infrastructure for AI agents. Know who produced a value, when, and that it hasn't been tampered with. Zero depende |
 | 6 | [billybox1926-jpg/Terminai](https://github.com/billybox1926-jpg/Terminai) | 2 | TypeScript | 2026-07-27 | AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age |
 | 7 | [amajorai/ryu](https://github.com/amajorai/ryu) | 34 | HTML | 2026-07-27 | The fully self-hostable, open composable platform for agent orchestration and human collaboration. With tools, security, |
