@@ -1,5 +1,95 @@
 [
   {
+    "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
+    "id": "bailong-Hakuryu/E.R.I.I",
+    "language": "Python",
+    "name": "bailong-Hakuryu/E.R.I.I",
+    "stars": 1,
+    "updated_at": "2026-07-27T20:14:48Z",
+    "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
+  },
+  {
+    "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
+    "id": "billybox1926-jpg/Terminai",
+    "language": "TypeScript",
+    "name": "billybox1926-jpg/Terminai",
+    "stars": 2,
+    "updated_at": "2026-07-27T20:13:43Z",
+    "url": "https://github.com/billybox1926-jpg/Terminai"
+  },
+  {
+    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 11,
+    "updated_at": "2026-07-27T20:11:11Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
+    "id": "lukeskytorep-bot/echo-claw",
+    "language": "\u2014",
+    "name": "lukeskytorep-bot/echo-claw",
+    "stars": 2,
+    "updated_at": "2026-07-27T20:15:20Z",
+    "url": "https://github.com/lukeskytorep-bot/echo-claw"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 4,
+    "updated_at": "2026-07-27T20:13:37Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
+    "id": "pereirawe/opencode-flow",
+    "language": "Python",
+    "name": "pereirawe/opencode-flow",
+    "stars": 0,
+    "updated_at": "2026-07-27T20:07:40Z",
+    "url": "https://github.com/pereirawe/opencode-flow"
+  },
+  {
+    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
+    "id": "saajunaid/caddis-plugin",
+    "language": "Python",
+    "name": "saajunaid/caddis-plugin",
+    "stars": 1,
+    "updated_at": "2026-07-27T20:01:42Z",
+    "url": "https://github.com/saajunaid/caddis-plugin"
+  },
+  {
+    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
+    "id": "Omni-Craft/OmniCraft",
+    "language": "Python",
+    "name": "Omni-Craft/OmniCraft",
+    "stars": 0,
+    "updated_at": "2026-07-27T20:00:33Z",
+    "url": "https://github.com/Omni-Craft/OmniCraft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T20:00:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12441,
+    "updated_at": "2026-07-27T20:00:29Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -23,7 +113,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-07-27T19:59:46Z",
+    "updated_at": "2026-07-27T20:06:25Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -32,26 +122,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 7,
-    "updated_at": "2026-07-27T19:58:05Z",
+    "updated_at": "2026-07-27T20:14:34Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
-    "id": "lukeskytorep-bot/echo-claw",
-    "language": "\u2014",
-    "name": "lukeskytorep-bot/echo-claw",
-    "stars": 2,
-    "updated_at": "2026-07-27T19:57:13Z",
-    "url": "https://github.com/lukeskytorep-bot/echo-claw"
-  },
-  {
-    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
-    "id": "pereirawe/opencode-flow",
-    "language": "Python",
-    "name": "pereirawe/opencode-flow",
-    "stars": 0,
-    "updated_at": "2026-07-27T19:55:49Z",
-    "url": "https://github.com/pereirawe/opencode-flow"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -90,15 +162,6 @@
     "url": "https://github.com/kdcube/kdcube"
   },
   {
-    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
-    "id": "Omni-Craft/OmniCraft",
-    "language": "Python",
-    "name": "Omni-Craft/OmniCraft",
-    "stars": 0,
-    "updated_at": "2026-07-27T19:49:06Z",
-    "url": "https://github.com/Omni-Craft/OmniCraft"
-  },
-  {
     "description": "OpenSpawn \u2014 An open source multi-agent coordination platform",
     "id": "openspawn/openspawn",
     "language": "TypeScript",
@@ -106,15 +169,6 @@
     "stars": 6,
     "updated_at": "2026-07-27T19:46:47Z",
     "url": "https://github.com/openspawn/openspawn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T19:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
@@ -160,15 +214,6 @@
     "stars": 5,
     "updated_at": "2026-07-27T19:37:10Z",
     "url": "https://github.com/ndolinschi/Flex"
-  },
-  {
-    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
-    "id": "wrg32786/aigent-os",
-    "language": "JavaScript",
-    "name": "wrg32786/aigent-os",
-    "stars": 11,
-    "updated_at": "2026-07-27T19:36:07Z",
-    "url": "https://github.com/wrg32786/aigent-os"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
@@ -275,7 +320,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-07-27T19:15:38Z",
+    "updated_at": "2026-07-27T20:07:24Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -329,7 +374,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-07-27T19:05:30Z",
+    "updated_at": "2026-07-27T20:06:25Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -369,24 +414,6 @@
     "url": "https://github.com/inkeep/agents"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12441,
-    "updated_at": "2026-07-27T20:00:29Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
-    "id": "billybox1926-jpg/Terminai",
-    "language": "TypeScript",
-    "name": "billybox1926-jpg/Terminai",
-    "stars": 2,
-    "updated_at": "2026-07-27T19:06:32Z",
-    "url": "https://github.com/billybox1926-jpg/Terminai"
-  },
-  {
     "description": "The fully self-hostable, open composable platform for agent orchestration and human collaboration. With tools, security,",
     "id": "amajorai/ryu",
     "language": "HTML",
@@ -401,7 +428,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7810,
-    "updated_at": "2026-07-27T18:27:25Z",
+    "updated_at": "2026-07-27T20:02:23Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 154,
     "updated_at": "2026-07-27T18:22:48Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
-    "id": "joseym/salvor",
-    "language": "Rust",
-    "name": "joseym/salvor",
-    "stars": 2,
-    "updated_at": "2026-07-27T18:21:34Z",
-    "url": "https://github.com/joseym/salvor"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-27T18:20:30Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 2,
-    "updated_at": "2026-07-27T18:20:29Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
   }
 ]
