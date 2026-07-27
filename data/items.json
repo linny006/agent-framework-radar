@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 10,
+    "updated_at": "2026-07-27T01:29:28Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "A hyper-scale, ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-m",
+    "id": "Dikhun/Arctus.ai",
     "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 314,
-    "updated_at": "2026-07-27T01:16:38Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
+    "name": "Dikhun/Arctus.ai",
+    "stars": 1,
+    "updated_at": "2026-07-27T01:23:41Z",
+    "url": "https://github.com/Dikhun/Arctus.ai"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7781,
-    "updated_at": "2026-07-27T01:17:02Z",
+    "updated_at": "2026-07-27T01:25:42Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 3,
+    "updated_at": "2026-07-27T01:20:02Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 314,
+    "updated_at": "2026-07-27T01:17:08Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-07-27T01:15:21Z",
+    "updated_at": "2026-07-27T01:17:05Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -113,17 +140,8 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 27,
-    "updated_at": "2026-07-27T01:01:19Z",
+    "updated_at": "2026-07-27T01:30:20Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 10,
-    "updated_at": "2026-07-27T01:13:52Z",
-    "url": "https://github.com/aomi-labs/aomi"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 7,
-    "updated_at": "2026-07-27T01:08:36Z",
+    "updated_at": "2026-07-27T01:26:51Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -230,7 +248,7 @@
     "language": "TypeScript",
     "name": "billybox1926-jpg/Terminai",
     "stars": 2,
-    "updated_at": "2026-07-27T01:12:19Z",
+    "updated_at": "2026-07-27T01:23:49Z",
     "url": "https://github.com/billybox1926-jpg/Terminai"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-26T23:38:57Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-07-26T23:37:24Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-07-26T23:36:33Z",
-    "url": "https://github.com/Smita6756/Hbrain"
   }
 ]
