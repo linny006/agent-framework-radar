@@ -1,5 +1,59 @@
 [
   {
+    "description": "Trust infrastructure for AI agents. Know who produced a value, when, and that it hasn't been tampered with. Zero depende",
+    "id": "fabio-rovai/tardygrada",
+    "language": "C",
+    "name": "fabio-rovai/tardygrada",
+    "stars": 18,
+    "updated_at": "2026-07-27T18:14:03Z",
+    "url": "https://github.com/fabio-rovai/tardygrada"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-27T18:07:34Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 577,
+    "updated_at": "2026-07-27T18:06:47Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
+    "id": "billybox1926-jpg/Terminai",
+    "language": "TypeScript",
+    "name": "billybox1926-jpg/Terminai",
+    "stars": 2,
+    "updated_at": "2026-07-27T18:02:35Z",
+    "url": "https://github.com/billybox1926-jpg/Terminai"
+  },
+  {
+    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
+    "id": "joseym/salvor",
+    "language": "Rust",
+    "name": "joseym/salvor",
+    "stars": 2,
+    "updated_at": "2026-07-27T18:01:33Z",
+    "url": "https://github.com/joseym/salvor"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T18:00:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
     "id": "bailong-Hakuryu/E.R.I.I",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "10xHub/Agentflow",
     "stars": 20,
-    "updated_at": "2026-07-27T17:58:56Z",
+    "updated_at": "2026-07-27T18:02:10Z",
     "url": "https://github.com/10xHub/Agentflow"
   },
   {
@@ -27,31 +81,13 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
-    "id": "billybox1926-jpg/Terminai",
-    "language": "TypeScript",
-    "name": "billybox1926-jpg/Terminai",
-    "stars": 2,
-    "updated_at": "2026-07-27T17:58:14Z",
-    "url": "https://github.com/billybox1926-jpg/Terminai"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7806,
+    "stars": 7807,
     "updated_at": "2026-07-27T17:57:57Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 577,
-    "updated_at": "2026-07-27T17:52:28Z",
-    "url": "https://github.com/aeonfun/aeon"
   },
   {
     "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-07-27T17:56:16Z",
+    "updated_at": "2026-07-27T18:14:50Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -99,15 +135,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T17:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
     "id": "wrg32786/aigent-os",
     "language": "JavaScript",
@@ -115,15 +142,6 @@
     "stars": 11,
     "updated_at": "2026-07-27T17:43:57Z",
     "url": "https://github.com/wrg32786/aigent-os"
-  },
-  {
-    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
-    "id": "joseym/salvor",
-    "language": "Rust",
-    "name": "joseym/salvor",
-    "stars": 2,
-    "updated_at": "2026-07-27T17:42:54Z",
-    "url": "https://github.com/joseym/salvor"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -140,7 +158,7 @@
     "language": "TypeScript",
     "name": "kyashrathore/Claxedo",
     "stars": 2,
-    "updated_at": "2026-07-27T17:40:18Z",
+    "updated_at": "2026-07-27T18:10:29Z",
     "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 7,
-    "updated_at": "2026-07-27T17:52:38Z",
+    "updated_at": "2026-07-27T18:09:04Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -202,7 +220,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18837,
+    "stars": 18838,
     "updated_at": "2026-07-27T17:23:46Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -256,7 +274,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 4940,
+    "stars": 4942,
     "updated_at": "2026-07-27T17:08:01Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -340,15 +358,6 @@
     "stars": 5,
     "updated_at": "2026-07-27T16:34:47Z",
     "url": "https://github.com/ndolinschi/Flex"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-07-27T16:29:32Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -439,14 +448,5 @@
     "stars": 12,
     "updated_at": "2026-07-27T16:10:20Z",
     "url": "https://github.com/kdcube/kdcube"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6705,
-    "updated_at": "2026-07-27T17:43:53Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
