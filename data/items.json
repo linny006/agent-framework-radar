@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 27,
-    "updated_at": "2026-07-27T00:29:23Z",
+    "updated_at": "2026-07-27T00:42:22Z",
     "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
+    "id": "ellmos-ai/MarbleRun",
+    "language": "Python",
+    "name": "ellmos-ai/MarbleRun",
+    "stars": 1,
+    "updated_at": "2026-07-27T00:40:18Z",
+    "url": "https://github.com/ellmos-ai/MarbleRun"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-07-27T00:38:40Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
+    "id": "danmo-ai/danmo-work",
+    "language": "Go",
+    "name": "danmo-ai/danmo-work",
+    "stars": 4,
+    "updated_at": "2026-07-27T00:37:00Z",
+    "url": "https://github.com/danmo-ai/danmo-work"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7780,
+    "updated_at": "2026-07-27T00:42:02Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4799,
+    "updated_at": "2026-07-27T00:31:39Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T00:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -18,31 +72,13 @@
     "url": "https://github.com/brunogcar/agent"
   },
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-07-27T00:26:28Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 7,
-    "updated_at": "2026-07-27T00:25:27Z",
+    "updated_at": "2026-07-27T00:43:29Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
-    "id": "danmo-ai/danmo-work",
-    "language": "Go",
-    "name": "danmo-ai/danmo-work",
-    "stars": 4,
-    "updated_at": "2026-07-27T00:24:48Z",
-    "url": "https://github.com/danmo-ai/danmo-work"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -52,15 +88,6 @@
     "stars": 6,
     "updated_at": "2026-07-27T00:18:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T00:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -81,21 +108,12 @@
     "url": "https://github.com/dsswift/ion"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7779,
-    "updated_at": "2026-07-27T00:10:17Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
     "id": "billybox1926-jpg/Terminai",
     "language": "TypeScript",
     "name": "billybox1926-jpg/Terminai",
     "stars": 2,
-    "updated_at": "2026-07-27T00:25:03Z",
+    "updated_at": "2026-07-27T00:44:01Z",
     "url": "https://github.com/billybox1926-jpg/Terminai"
   },
   {
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-27T00:17:52Z",
+    "updated_at": "2026-07-27T00:45:18Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 5,
     "updated_at": "2026-07-26T23:58:37Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
-    "id": "ellmos-ai/MarbleRun",
-    "language": "Python",
-    "name": "ellmos-ai/MarbleRun",
-    "stars": 1,
-    "updated_at": "2026-07-26T23:58:35Z",
-    "url": "https://github.com/ellmos-ai/MarbleRun"
   },
   {
     "description": "",
@@ -248,7 +257,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-07-26T23:49:25Z",
+    "updated_at": "2026-07-27T00:39:59Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -322,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-07-26T23:39:37Z",
     "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4799,
-    "updated_at": "2026-07-27T00:16:01Z",
-    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
