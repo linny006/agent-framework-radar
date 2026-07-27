@@ -1,12 +1,120 @@
 [
   {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 78,
+    "updated_at": "2026-07-27T19:45:04Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-07-27T19:40:09Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
+    "id": "Carrara-Labs/delta-harness",
+    "language": "TypeScript",
+    "name": "Carrara-Labs/delta-harness",
+    "stars": 0,
+    "updated_at": "2026-07-27T19:39:51Z",
+    "url": "https://github.com/Carrara-Labs/delta-harness"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-07-27T19:44:59Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "A verified runtime for trustworthy AI agents: every claim passes an 8-layer verification pipeline before it counts. Dete",
+    "id": "fabio-rovai/tardygrada",
+    "language": "C",
+    "name": "fabio-rovai/tardygrada",
+    "stars": 18,
+    "updated_at": "2026-07-27T19:38:05Z",
+    "url": "https://github.com/fabio-rovai/tardygrada"
+  },
+  {
+    "description": "An agent-loop engine in Rust \u2014 one interface over LLM APIs and external coding agents, with one typed event stream out.",
+    "id": "ndolinschi/Flex",
+    "language": "Rust",
+    "name": "ndolinschi/Flex",
+    "stars": 5,
+    "updated_at": "2026-07-27T19:37:10Z",
+    "url": "https://github.com/ndolinschi/Flex"
+  },
+  {
+    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 11,
+    "updated_at": "2026-07-27T19:36:07Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3872,
+    "updated_at": "2026-07-27T19:35:53Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 7,
+    "updated_at": "2026-07-27T19:45:04Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Production-ready agents, your way.",
+    "id": "Folken2/nuvel",
+    "language": "Python",
+    "name": "Folken2/nuvel",
+    "stars": 2,
+    "updated_at": "2026-07-27T19:33:38Z",
+    "url": "https://github.com/Folken2/nuvel"
+  },
+  {
     "description": "OpenSpawn \u2014 An open source multi-agent coordination platform",
     "id": "openspawn/openspawn",
     "language": "TypeScript",
     "name": "openspawn/openspawn",
     "stars": 6,
-    "updated_at": "2026-07-27T19:29:12Z",
+    "updated_at": "2026-07-27T19:40:24Z",
     "url": "https://github.com/openspawn/openspawn"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 577,
+    "updated_at": "2026-07-27T19:31:42Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T19:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
@@ -36,24 +144,6 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
-    "id": "Carrara-Labs/delta-harness",
-    "language": "TypeScript",
-    "name": "Carrara-Labs/delta-harness",
-    "stars": 0,
-    "updated_at": "2026-07-27T19:27:20Z",
-    "url": "https://github.com/Carrara-Labs/delta-harness"
-  },
-  {
-    "description": "An agent-loop engine in Rust \u2014 one interface over LLM APIs and external coding agents, with one typed event stream out.",
-    "id": "ndolinschi/Flex",
-    "language": "Rust",
-    "name": "ndolinschi/Flex",
-    "stars": 5,
-    "updated_at": "2026-07-27T19:26:31Z",
-    "url": "https://github.com/ndolinschi/Flex"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -70,6 +160,24 @@
     "stars": 1,
     "updated_at": "2026-07-27T19:20:36Z",
     "url": "https://github.com/ellmos-ai/ellmos-stack"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 4945,
+    "updated_at": "2026-07-27T19:19:51Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46301,
+    "updated_at": "2026-07-27T19:17:57Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -97,33 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T19:15:38Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T19:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-07-27T19:27:32Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Trust infrastructure for AI agents. Know who produced a value, when, and that it hasn't been tampered with. Zero depende",
-    "id": "fabio-rovai/tardygrada",
-    "language": "C",
-    "name": "fabio-rovai/tardygrada",
-    "stars": 18,
-    "updated_at": "2026-07-27T19:11:17Z",
-    "url": "https://github.com/fabio-rovai/tardygrada"
   },
   {
     "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
@@ -171,15 +252,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 7,
-    "updated_at": "2026-07-27T19:28:18Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
@@ -216,15 +288,6 @@
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 577,
-    "updated_at": "2026-07-27T19:27:15Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -248,7 +311,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12441,
-    "updated_at": "2026-07-27T18:45:41Z",
+    "updated_at": "2026-07-27T19:39:54Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -378,75 +441,12 @@
     "url": "https://github.com/go-steer/mast"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46302,
-    "updated_at": "2026-07-27T19:17:57Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-07-27T17:45:27Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
-    "id": "wrg32786/aigent-os",
-    "language": "JavaScript",
-    "name": "wrg32786/aigent-os",
-    "stars": 11,
-    "updated_at": "2026-07-27T18:46:24Z",
-    "url": "https://github.com/wrg32786/aigent-os"
-  },
-  {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
     "id": "kyashrathore/Claxedo",
     "language": "TypeScript",
     "name": "kyashrathore/Claxedo",
     "stars": 2,
-    "updated_at": "2026-07-27T18:10:29Z",
+    "updated_at": "2026-07-27T19:33:48Z",
     "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
-    "id": "ahwurm/localharness",
-    "language": "Python",
-    "name": "ahwurm/localharness",
-    "stars": 18,
-    "updated_at": "2026-07-27T17:27:14Z",
-    "url": "https://github.com/ahwurm/localharness"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18838,
-    "updated_at": "2026-07-27T19:22:16Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Local-first LLM operating-system hub for BACH, Rinnsal, gardener, SQLite agent memory, MCP servers, skills, and multi-ag",
-    "id": "ellmos-ai/ellmos",
-    "language": "\u2014",
-    "name": "ellmos-ai/ellmos",
-    "stars": 2,
-    "updated_at": "2026-07-27T17:20:37Z",
-    "url": "https://github.com/ellmos-ai/ellmos"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 4,
-    "updated_at": "2026-07-27T19:24:56Z",
-    "url": "https://github.com/crewhaus/factory"
   }
 ]
