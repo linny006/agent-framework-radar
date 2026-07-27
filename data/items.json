@@ -1,5 +1,122 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7788,
+    "updated_at": "2026-07-27T06:44:36Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
+    "id": "nlj3/kedge",
+    "language": "Rust",
+    "name": "nlj3/kedge",
+    "stars": 0,
+    "updated_at": "2026-07-27T06:44:30Z",
+    "url": "https://github.com/nlj3/kedge"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-07-27T06:44:22Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 1,
+    "updated_at": "2026-07-27T06:44:08Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Octopus Agent \u2014 \u57fa\u4e8e Harness \u9a7e\u9a6d\u5de5\u7a0b\u601d\u60f3\u7684\u591a\u667a\u80fd\u4f53\u7ba1\u63a7\u8c03\u5ea6\u6846\u67b6",
+    "id": "Asamo096/Octopus-Agent",
+    "language": "Python",
+    "name": "Asamo096/Octopus-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-27T06:45:17Z",
+    "url": "https://github.com/Asamo096/Octopus-Agent"
+  },
+  {
+    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 2,
+    "updated_at": "2026-07-27T06:40:19Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-07-27T06:39:08Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "GitExplain is a production-ready, modular multi-agent system designed to ingest, index, analyze, and explain GitHub repo",
+    "id": "surbhimgr/GitExplain",
+    "language": "Python",
+    "name": "surbhimgr/GitExplain",
+    "stars": 0,
+    "updated_at": "2026-07-27T06:38:23Z",
+    "url": "https://github.com/surbhimgr/GitExplain"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-07-27T06:36:30Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 103,
+    "updated_at": "2026-07-27T06:37:01Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Open Agent Spec is a declarative YAML standard and CLI for defining and generating AI agents. One spec, any LLM engine (",
+    "id": "prime-vector/open-agent-spec",
+    "language": "Python",
+    "name": "prime-vector/open-agent-spec",
+    "stars": 16,
+    "updated_at": "2026-07-27T06:31:54Z",
+    "url": "https://github.com/prime-vector/open-agent-spec"
+  },
+  {
+    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
+    "id": "iduyuhe/zhiyan-evolviq",
+    "language": "Python",
+    "name": "iduyuhe/zhiyan-evolviq",
+    "stars": 2,
+    "updated_at": "2026-07-27T06:31:30Z",
+    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T06:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -9,15 +126,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "Octopus Agent \u2014 \u57fa\u4e8e Harness \u9a7e\u9a6d\u5de5\u7a0b\u601d\u60f3\u7684\u591a\u667a\u80fd\u4f53\u7ba1\u63a7\u8c03\u5ea6\u6846\u67b6",
-    "id": "Asamo096/Octopus-Agent",
-    "language": "Python",
-    "name": "Asamo096/Octopus-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-27T06:28:17Z",
-    "url": "https://github.com/Asamo096/Octopus-Agent"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -25,15 +133,6 @@
     "stars": 154,
     "updated_at": "2026-07-27T06:28:04Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7788,
-    "updated_at": "2026-07-27T06:28:26Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "",
@@ -63,24 +162,6 @@
     "url": "https://github.com/hrabanazviking/hrabanazviking"
   },
   {
-    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 2,
-    "updated_at": "2026-07-27T06:17:38Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T06:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -108,21 +189,12 @@
     "url": "https://github.com/subkoks/agents-md"
   },
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-07-27T06:07:20Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 35,
-    "updated_at": "2026-07-27T06:06:13Z",
+    "updated_at": "2026-07-27T06:44:14Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -162,24 +234,6 @@
     "url": "https://github.com/edrc-shawn/lingtai-mcp"
   },
   {
-    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
-    "id": "nlj3/kedge",
-    "language": "Rust",
-    "name": "nlj3/kedge",
-    "stars": 0,
-    "updated_at": "2026-07-27T05:43:18Z",
-    "url": "https://github.com/nlj3/kedge"
-  },
-  {
-    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
-    "id": "iduyuhe/zhiyan-evolviq",
-    "language": "Python",
-    "name": "iduyuhe/zhiyan-evolviq",
-    "stars": 2,
-    "updated_at": "2026-07-27T05:42:33Z",
-    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
-  },
-  {
     "description": "Build a coding agent from scratch, one harness primitive at a time. 15 chapters (ch-00..ch-14), each green on two gates.",
     "id": "thecarbonlayer/carbon",
     "language": "Python",
@@ -187,15 +241,6 @@
     "stars": 53,
     "updated_at": "2026-07-27T05:42:06Z",
     "url": "https://github.com/thecarbonlayer/carbon"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-07-27T06:17:26Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "\u81ea\u5efa Core \u4f18\u5148\u7684\u751f\u4ea7\u5411 Agent \u8fd0\u884c\u65f6 \u2014 ReAct + Workflow\u3001\u6587\u6863/API \u6392\u969c\u3001\u5206\u5c42\u516c\u5f00 RAG\uff08smoke/hard/held_out\uff09\uff1bLangGraph \u4ec5\u53ef\u9009\u5bf9\u7167",
@@ -293,7 +338,7 @@
     "language": "Rust",
     "name": "jiayan-xu/agent-core",
     "stars": 2,
-    "updated_at": "2026-07-27T05:28:27Z",
+    "updated_at": "2026-07-27T06:45:22Z",
     "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
@@ -340,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T05:18:32Z",
     "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 103,
-    "updated_at": "2026-07-27T06:12:11Z",
-    "url": "https://github.com/KbWen/agentic-os"
   },
   {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T05:14:00Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Markdown Agent Studio is a workspace where agents develop specialization through their own experience.",
-    "id": "RobThePCGuy/markdown-agent-studio",
-    "language": "TypeScript",
-    "name": "RobThePCGuy/markdown-agent-studio",
-    "stars": 2,
-    "updated_at": "2026-07-27T05:14:10Z",
-    "url": "https://github.com/RobThePCGuy/markdown-agent-studio"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 3,
-    "updated_at": "2026-07-27T05:11:35Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:11:22Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-07-27T05:09:36Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
   }
 ]
