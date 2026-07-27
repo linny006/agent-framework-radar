@@ -1,11 +1,65 @@
 [
   {
+    "description": "Flutter AI agent template with Hermes Agent, Composio (1000+ apps), and graph loop architecture. Build mobile-native age",
+    "id": "dan-labs-agi/flutter-claw",
+    "language": "\u2014",
+    "name": "dan-labs-agi/flutter-claw",
+    "stars": 0,
+    "updated_at": "2026-07-27T21:42:16Z",
+    "url": "https://github.com/dan-labs-agi/flutter-claw"
+  },
+  {
+    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
+    "id": "George-RD/openspine",
+    "language": "Rust",
+    "name": "George-RD/openspine",
+    "stars": 0,
+    "updated_at": "2026-07-27T21:42:12Z",
+    "url": "https://github.com/George-RD/openspine"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-27T21:40:51Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Product Build Gate (hplan) + 5 agent-PM lifecycle plugins \u2014 6 plugins, 43 skills, 18 commands for PMs who decide what, w",
+    "id": "kimsanguine/hplan",
+    "language": "Python",
+    "name": "kimsanguine/hplan",
+    "stars": 1,
+    "updated_at": "2026-07-27T21:39:37Z",
+    "url": "https://github.com/kimsanguine/hplan"
+  },
+  {
+    "description": "A tiny but mighty agent that runs in your browser, on your phone, or at the edge.",
+    "id": "nanocodana/nanocodana",
+    "language": "TypeScript",
+    "name": "nanocodana/nanocodana",
+    "stars": 0,
+    "updated_at": "2026-07-27T21:39:24Z",
+    "url": "https://github.com/nanocodana/nanocodana"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T21:35:54Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
     "id": "Eliyce/paqad-ai",
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 7,
-    "updated_at": "2026-07-27T21:34:06Z",
+    "updated_at": "2026-07-27T21:43:46Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18842,
-    "updated_at": "2026-07-27T21:33:41Z",
+    "updated_at": "2026-07-27T21:39:23Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -36,15 +90,6 @@
     "url": "https://github.com/billybox1926-jpg/Terminai"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T21:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -54,21 +99,12 @@
     "url": "https://github.com/crewhaus/factory"
   },
   {
-    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
-    "id": "George-RD/openspine",
-    "language": "Rust",
-    "name": "George-RD/openspine",
-    "stars": 0,
-    "updated_at": "2026-07-27T21:23:49Z",
-    "url": "https://github.com/George-RD/openspine"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 7,
-    "updated_at": "2026-07-27T21:32:37Z",
+    "updated_at": "2026-07-27T21:44:17Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T21:18:55Z",
     "url": "https://github.com/0bserver07/chimera"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-27T21:18:50Z",
-    "url": "https://github.com/brunogcar/agent"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12444,
-    "updated_at": "2026-07-27T20:40:55Z",
+    "updated_at": "2026-07-27T21:36:08Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-07-27T20:36:59Z",
+    "updated_at": "2026-07-27T21:43:50Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
@@ -401,7 +428,7 @@
     "language": "JavaScript",
     "name": "wrg32786/aigent-os",
     "stars": 11,
-    "updated_at": "2026-07-27T20:11:11Z",
+    "updated_at": "2026-07-27T21:44:16Z",
     "url": "https://github.com/wrg32786/aigent-os"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T20:01:42Z",
     "url": "https://github.com/saajunaid/caddis-plugin"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 321,
-    "updated_at": "2026-07-27T19:59:58Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6706,
-    "updated_at": "2026-07-27T20:39:07Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4946,
-    "updated_at": "2026-07-27T20:28:09Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   }
 ]
