@@ -1,5 +1,68 @@
 [
   {
+    "description": "Octopus Agent \u2014 \u57fa\u4e8e Harness \u9a7e\u9a6d\u5de5\u7a0b\u601d\u60f3\u7684\u591a\u667a\u80fd\u4f53\u7ba1\u63a7\u8c03\u5ea6\u6846\u67b6",
+    "id": "Asamo096/Octopus-Agent",
+    "language": "Python",
+    "name": "Asamo096/Octopus-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-27T05:59:20Z",
+    "url": "https://github.com/Asamo096/Octopus-Agent"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-07-27T05:58:10Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 10,
+    "updated_at": "2026-07-27T05:57:27Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-27T05:56:33Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 8,
+    "updated_at": "2026-07-27T05:52:50Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Self-evolving knowledge management system: Obsidian vault + a zero-dependency MCP server (86 tools). Refines raw materia",
+    "id": "edrc-shawn/lingtai-mcp",
+    "language": "Python",
+    "name": "edrc-shawn/lingtai-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-27T05:45:58Z",
+    "url": "https://github.com/edrc-shawn/lingtai-mcp"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T05:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
     "id": "nlj3/kedge",
     "language": "Rust",
@@ -32,7 +95,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-07-27T05:41:49Z",
+    "updated_at": "2026-07-27T06:00:02Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7788,
-    "updated_at": "2026-07-27T05:45:14Z",
+    "updated_at": "2026-07-27T05:48:53Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -58,18 +121,9 @@
     "id": "hertz-ai/HARTOS",
     "language": "Python",
     "name": "hertz-ai/HARTOS",
-    "stars": 31,
+    "stars": 32,
     "updated_at": "2026-07-27T05:40:36Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Octopus Agent \u2014 \u57fa\u4e8e Harness \u9a7e\u9a6d\u5de5\u7a0b\u601d\u60f3\u7684\u591a\u667a\u80fd\u4f53\u7ba1\u63a7\u8c03\u5ea6\u6846\u67b6",
-    "id": "Asamo096/Octopus-Agent",
-    "language": "Python",
-    "name": "Asamo096/Octopus-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-27T05:44:59Z",
-    "url": "https://github.com/Asamo096/Octopus-Agent"
   },
   {
     "description": "zero-setup live telemetry for AI agent tool calls \u2014 npx maindala tail",
@@ -104,7 +158,7 @@
     "language": "Rust",
     "name": "aomi-labs/aomi-sdk",
     "stars": 5,
-    "updated_at": "2026-07-27T05:35:19Z",
+    "updated_at": "2026-07-27T05:59:34Z",
     "url": "https://github.com/aomi-labs/aomi-sdk"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/plaited/plaited"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T05:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Scale development tasks with a library of hundreds of Claude Code templates, subagents, and MCP servers for Windows.",
     "id": "Abdullahr487/Claude-Code-Templates-2026",
     "language": "Python",
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T05:29:34Z",
     "url": "https://github.com/Abdullahr487/Claude-Code-Templates-2026"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 10,
-    "updated_at": "2026-07-27T05:44:23Z",
-    "url": "https://github.com/aomi-labs/aomi"
   },
   {
     "description": "Search and extract web data locally for AI agents. Run a private intelligence server on your Windows machine with no API",
@@ -194,7 +230,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 4,
-    "updated_at": "2026-07-27T05:21:15Z",
+    "updated_at": "2026-07-27T05:53:57Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "yanacuti1121/Yana-AI",
     "stars": 2,
-    "updated_at": "2026-07-27T05:37:31Z",
+    "updated_at": "2026-07-27T05:50:18Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T05:06:20Z",
     "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:06:03Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:05:17Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Agent SDK, CLI, RPC, Desktop in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 8,
-    "updated_at": "2026-07-27T05:05:42Z",
-    "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:04:53Z",
-    "url": "https://github.com/monahright467/harness-books"
   }
 ]
