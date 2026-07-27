@@ -1,11 +1,56 @@
 [
   {
+    "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
+    "id": "Carrara-Labs/delta-harness",
+    "language": "TypeScript",
+    "name": "Carrara-Labs/delta-harness",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:43:54Z",
+    "url": "https://github.com/Carrara-Labs/delta-harness"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 577,
+    "updated_at": "2026-07-27T18:45:18Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 45,
+    "updated_at": "2026-07-27T18:30:41Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T18:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Trust infrastructure for AI agents. Know who produced a value, when, and that it hasn't been tampered with. Zero depende",
+    "id": "fabio-rovai/tardygrada",
+    "language": "C",
+    "name": "fabio-rovai/tardygrada",
+    "stars": 18,
+    "updated_at": "2026-07-27T18:28:54Z",
+    "url": "https://github.com/fabio-rovai/tardygrada"
+  },
+  {
     "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
     "id": "billybox1926-jpg/Terminai",
     "language": "TypeScript",
     "name": "billybox1926-jpg/Terminai",
     "stars": 2,
-    "updated_at": "2026-07-27T18:28:51Z",
+    "updated_at": "2026-07-27T18:33:26Z",
     "url": "https://github.com/billybox1926-jpg/Terminai"
   },
   {
@@ -23,17 +68,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 7,
-    "updated_at": "2026-07-27T18:25:22Z",
+    "updated_at": "2026-07-27T18:38:09Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Trust infrastructure for AI agents. Know who produced a value, when, and that it hasn't been tampered with. Zero depende",
-    "id": "fabio-rovai/tardygrada",
-    "language": "C",
-    "name": "fabio-rovai/tardygrada",
-    "stars": 18,
-    "updated_at": "2026-07-27T18:28:54Z",
-    "url": "https://github.com/fabio-rovai/tardygrada"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -95,17 +131,8 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-07-27T18:18:45Z",
+    "updated_at": "2026-07-27T18:33:34Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 577,
-    "updated_at": "2026-07-27T18:18:07Z",
-    "url": "https://github.com/aeonfun/aeon"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -115,15 +142,6 @@
     "stars": 6,
     "updated_at": "2026-07-27T18:15:55Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T18:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -275,17 +293,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18838,
-    "updated_at": "2026-07-27T17:23:46Z",
+    "updated_at": "2026-07-27T18:37:57Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 45,
-    "updated_at": "2026-07-27T18:22:22Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "Local-first LLM operating-system hub for BACH, Rinnsal, gardener, SQLite agent memory, MCP servers, skills, and multi-ag",
@@ -302,7 +311,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 4,
-    "updated_at": "2026-07-27T18:25:41Z",
+    "updated_at": "2026-07-27T18:42:17Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T16:13:30Z",
     "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 248,
-    "updated_at": "2026-07-27T16:12:51Z",
-    "url": "https://github.com/xuiltul/animaworks"
   }
 ]
