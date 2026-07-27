@@ -1,12 +1,75 @@
 [
   {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 10,
+    "updated_at": "2026-07-27T15:26:14Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 248,
+    "updated_at": "2026-07-27T15:21:32Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 319,
+    "updated_at": "2026-07-27T15:18:55Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 0,
+    "updated_at": "2026-07-27T15:16:43Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-07-27T15:14:37Z",
+    "updated_at": "2026-07-27T15:15:28Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 16,
+    "updated_at": "2026-07-27T15:19:34Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Source-available Harness AI / Agent OS for teams building governed agent applications - with Nexus orchestration, policy",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 4,
+    "updated_at": "2026-07-27T15:13:48Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46300,
+    "updated_at": "2026-07-27T15:13:15Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
@@ -36,6 +99,15 @@
     "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
   },
   {
+    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
+    "id": "jiayan-xu/agent-core",
+    "language": "Rust",
+    "name": "jiayan-xu/agent-core",
+    "stars": 2,
+    "updated_at": "2026-07-27T15:11:25Z",
+    "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
     "id": "Ecro/harness-maker",
     "language": "Python",
@@ -63,21 +135,12 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 248,
-    "updated_at": "2026-07-27T15:03:15Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-27T15:02:16Z",
+    "updated_at": "2026-07-27T15:27:56Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -85,7 +148,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27891,
+    "stars": 27893,
     "updated_at": "2026-07-27T15:00:53Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -106,15 +169,6 @@
     "stars": 348,
     "updated_at": "2026-07-27T14:55:25Z",
     "url": "https://github.com/agenvoy/Agenvoy"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 0,
-    "updated_at": "2026-07-27T15:13:55Z",
-    "url": "https://github.com/go-steer/mast"
   },
   {
     "description": "Agent-agnostic base image for putting any terminal AI coding agent (claude-code, pi, opencode...) on the network. Bolt o",
@@ -158,7 +212,7 @@
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 8,
-    "updated_at": "2026-07-27T15:10:04Z",
+    "updated_at": "2026-07-27T15:16:11Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
@@ -184,7 +238,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7801,
+    "stars": 7802,
     "updated_at": "2026-07-27T14:27:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 44,
-    "updated_at": "2026-07-27T14:48:20Z",
+    "updated_at": "2026-07-27T15:29:28Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -250,15 +304,6 @@
     "stars": 1127,
     "updated_at": "2026-07-27T14:10:04Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
-    "id": "jiayan-xu/agent-core",
-    "language": "Rust",
-    "name": "jiayan-xu/agent-core",
-    "stars": 2,
-    "updated_at": "2026-07-27T15:11:25Z",
-    "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -338,7 +383,7 @@
     "language": "Go",
     "name": "dsswift/ion",
     "stars": 4,
-    "updated_at": "2026-07-27T13:46:32Z",
+    "updated_at": "2026-07-27T15:26:49Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -349,15 +394,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T13:44:24Z",
     "url": "https://github.com/rameswaran-mohan/project-systemu"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46298,
-    "updated_at": "2026-07-27T15:13:15Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T13:35:00Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
-    "language": "TypeScript",
-    "name": "Qwixl/Atom",
-    "stars": 2,
-    "updated_at": "2026-07-27T15:00:35Z",
-    "url": "https://github.com/Qwixl/Atom"
-  },
-  {
-    "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
-    "id": "Dikhun/Arctus.ai",
-    "language": "Python",
-    "name": "Dikhun/Arctus.ai",
-    "stars": 1,
-    "updated_at": "2026-07-27T13:22:13Z",
-    "url": "https://github.com/Dikhun/Arctus.ai"
-  },
-  {
-    "description": "Provider-neutral bounded agent runtime for Android/JVM: controlled context (trust/priority/budgets), profile-scoped tool",
-    "id": "susyimes/android-agent-harness",
-    "language": "Kotlin",
-    "name": "susyimes/android-agent-harness",
-    "stars": 2,
-    "updated_at": "2026-07-27T13:56:03Z",
-    "url": "https://github.com/susyimes/android-agent-harness"
-  },
-  {
-    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
-    "id": "saajunaid/caddis-plugin",
-    "language": "Python",
-    "name": "saajunaid/caddis-plugin",
-    "stars": 1,
-    "updated_at": "2026-07-27T13:20:12Z",
-    "url": "https://github.com/saajunaid/caddis-plugin"
   }
 ]
