@@ -1,12 +1,75 @@
 [
   {
+    "description": "A curated, opinionated set of OpenCode plugins for spec-first, review-driven, safer agentic development.",
+    "id": "osovv/vv-opencode",
+    "language": "TypeScript",
+    "name": "osovv/vv-opencode",
+    "stars": 10,
+    "updated_at": "2026-07-27T06:14:59Z",
+    "url": "https://github.com/osovv/vv-opencode"
+  },
+  {
+    "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
+    "id": "subkoks/agents-md",
+    "language": "Shell",
+    "name": "subkoks/agents-md",
+    "stars": 0,
+    "updated_at": "2026-07-27T06:10:52Z",
+    "url": "https://github.com/subkoks/agents-md"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-07-27T06:07:20Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7788,
+    "updated_at": "2026-07-27T06:09:51Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-27T06:15:03Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 34,
+    "updated_at": "2026-07-27T06:06:13Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
     "description": "Octopus Agent \u2014 \u57fa\u4e8e Harness \u9a7e\u9a6d\u5de5\u7a0b\u601d\u60f3\u7684\u591a\u667a\u80fd\u4f53\u7ba1\u63a7\u8c03\u5ea6\u6846\u67b6",
     "id": "Asamo096/Octopus-Agent",
     "language": "Python",
     "name": "Asamo096/Octopus-Agent",
     "stars": 0,
-    "updated_at": "2026-07-27T05:59:20Z",
+    "updated_at": "2026-07-27T06:05:10Z",
     "url": "https://github.com/Asamo096/Octopus-Agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T06:00:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -23,17 +86,8 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 10,
-    "updated_at": "2026-07-27T05:57:27Z",
+    "updated_at": "2026-07-27T06:11:00Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 6,
-    "updated_at": "2026-07-27T05:56:33Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T05:45:58Z",
     "url": "https://github.com/edrc-shawn/lingtai-mcp"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T05:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
@@ -99,15 +144,6 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7788,
-    "updated_at": "2026-07-27T05:48:53Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "\u81ea\u5efa Core \u4f18\u5148\u7684\u751f\u4ea7\u5411 Agent \u8fd0\u884c\u65f6 \u2014 ReAct + Workflow\u3001\u6587\u6863/API \u6392\u969c\u3001\u5206\u5c42\u516c\u5f00 RAG\uff08smoke/hard/held_out\uff09\uff1bLangGraph \u4ec5\u53ef\u9009\u5bf9\u7167",
     "id": "weihuaguo270-ops/react-agent",
     "language": "Python",
@@ -115,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T05:41:00Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 32,
-    "updated_at": "2026-07-27T05:40:36Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "zero-setup live telemetry for AI agent tool calls \u2014 npx maindala tail",
@@ -158,7 +185,7 @@
     "language": "Rust",
     "name": "aomi-labs/aomi-sdk",
     "stars": 5,
-    "updated_at": "2026-07-27T05:59:34Z",
+    "updated_at": "2026-07-27T06:04:22Z",
     "url": "https://github.com/aomi-labs/aomi-sdk"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 103,
-    "updated_at": "2026-07-27T05:17:50Z",
+    "updated_at": "2026-07-27T06:12:11Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T05:50:18Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "A hyper-scale, ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-m",
-    "id": "Dikhun/Arctus.ai",
-    "language": "Python",
-    "name": "Dikhun/Arctus.ai",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:06:54Z",
-    "url": "https://github.com/Dikhun/Arctus.ai"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 3,
-    "updated_at": "2026-07-27T05:06:28Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 2,
-    "updated_at": "2026-07-27T05:06:20Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
   }
 ]
