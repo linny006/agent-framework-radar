@@ -1,12 +1,111 @@
 [
   {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-07-27T22:58:24Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Flutter AI agent template with Hermes Agent, Composio (1000+ apps), and graph loop architecture. Build mobile-native age",
+    "id": "dan-labs-agi/flutter-claw",
+    "language": "\u2014",
+    "name": "dan-labs-agi/flutter-claw",
+    "stars": 0,
+    "updated_at": "2026-07-27T22:57:36Z",
+    "url": "https://github.com/dan-labs-agi/flutter-claw"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 154,
+    "updated_at": "2026-07-27T22:57:21Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 45,
+    "updated_at": "2026-07-27T22:56:06Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18843,
+    "updated_at": "2026-07-27T22:56:18Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-07-27T22:51:54Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 10,
+    "updated_at": "2026-07-27T22:52:40Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
+    "id": "nlj3/kedge",
+    "language": "Rust",
+    "name": "nlj3/kedge",
+    "stars": 0,
+    "updated_at": "2026-07-27T22:51:51Z",
+    "url": "https://github.com/nlj3/kedge"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-27T22:51:09Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-07-27T22:43:21Z",
+    "updated_at": "2026-07-27T22:51:05Z",
     "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 2,
+    "updated_at": "2026-07-27T22:49:07Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6709,
+    "updated_at": "2026-07-27T22:47:03Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-07-27T22:40:07Z",
+    "updated_at": "2026-07-27T22:45:24Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -32,17 +131,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7812,
-    "updated_at": "2026-07-27T22:39:06Z",
+    "updated_at": "2026-07-27T23:00:21Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
-    "id": "nlj3/kedge",
-    "language": "Rust",
-    "name": "nlj3/kedge",
-    "stars": 0,
-    "updated_at": "2026-07-27T22:35:45Z",
-    "url": "https://github.com/nlj3/kedge"
   },
   {
     "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
@@ -58,7 +148,7 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 322,
+    "stars": 323,
     "updated_at": "2026-07-27T22:30:10Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -68,7 +158,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 45,
-    "updated_at": "2026-07-27T22:29:53Z",
+    "updated_at": "2026-07-27T22:51:43Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -86,17 +176,8 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-07-27T22:26:41Z",
+    "updated_at": "2026-07-27T22:55:40Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18843,
-    "updated_at": "2026-07-27T22:43:50Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -104,7 +185,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-27T22:37:08Z",
+    "updated_at": "2026-07-27T22:51:18Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -153,15 +234,6 @@
     "url": "https://github.com/nanocodana/nanocodana"
   },
   {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-27T22:11:31Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -187,24 +259,6 @@
     "stars": 3,
     "updated_at": "2026-07-27T22:06:42Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
-    "language": "TypeScript",
-    "name": "Qwixl/Atom",
-    "stars": 2,
-    "updated_at": "2026-07-27T22:42:33Z",
-    "url": "https://github.com/Qwixl/Atom"
-  },
-  {
-    "description": "Flutter AI agent template with Hermes Agent, Composio (1000+ apps), and graph loop architecture. Build mobile-native age",
-    "id": "dan-labs-agi/flutter-claw",
-    "language": "\u2014",
-    "name": "dan-labs-agi/flutter-claw",
-    "stars": 0,
-    "updated_at": "2026-07-27T22:06:34Z",
-    "url": "https://github.com/dan-labs-agi/flutter-claw"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -279,33 +333,6 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-07-27T22:32:10Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-07-27T21:52:58Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 45,
-    "updated_at": "2026-07-27T21:50:38Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "Local-first Python toolkit for parallel Claude and LLM agent orchestration: consensus voting, stigmergy, boss-worker swa",
     "id": "ellmos-ai/swarm-ai",
     "language": "Python",
@@ -347,7 +374,7 @@
     "language": "Rust",
     "name": "George-RD/openspine",
     "stars": 0,
-    "updated_at": "2026-07-27T22:20:29Z",
+    "updated_at": "2026-07-27T22:59:35Z",
     "url": "https://github.com/George-RD/openspine"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 154,
-    "updated_at": "2026-07-27T21:06:14Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
     "description": "Orchestrate armies of AI agents from a single prompt. Open-core, bring-your-own-key, and self-hostable \u2014 Orchestrator ro",
     "id": "Yigtwxx/Maestro",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T21:02:21Z",
     "url": "https://github.com/Folken2/nuvel"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1141,
-    "updated_at": "2026-07-27T20:58:34Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
-    "id": "lukeskytorep-bot/echo-claw",
-    "language": "\u2014",
-    "name": "lukeskytorep-bot/echo-claw",
-    "stars": 2,
-    "updated_at": "2026-07-27T20:58:04Z",
-    "url": "https://github.com/lukeskytorep-bot/echo-claw"
   }
 ]
