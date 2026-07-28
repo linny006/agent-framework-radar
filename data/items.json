@@ -1,12 +1,57 @@
 [
   {
+    "description": "SDK de c\u00f3digo abierto en Python para el patr\u00f3n Backend for Agents (BFA), extendido como un servidor de enrutamiento din\u00e1",
+    "id": "SandroG1977/bfa-sdk",
+    "language": "Python",
+    "name": "SandroG1977/bfa-sdk",
+    "stars": 1,
+    "updated_at": "2026-07-28T19:59:18Z",
+    "url": "https://github.com/SandroG1977/bfa-sdk"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 324,
+    "updated_at": "2026-07-28T19:56:22Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 16,
+    "updated_at": "2026-07-28T19:52:39Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-07-28T19:50:04Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
     "id": "ucsandman/DashClaw",
     "language": "TypeScript",
     "name": "ucsandman/DashClaw",
     "stars": 287,
-    "updated_at": "2026-07-28T19:42:57Z",
+    "updated_at": "2026-07-28T19:48:29Z",
     "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T19:45:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
@@ -14,7 +59,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4928,
-    "updated_at": "2026-07-28T19:37:47Z",
+    "updated_at": "2026-07-28T19:56:25Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 7,
-    "updated_at": "2026-07-28T19:40:45Z",
+    "updated_at": "2026-07-28T20:00:21Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -59,7 +104,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-28T19:44:03Z",
+    "updated_at": "2026-07-28T19:55:10Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -67,7 +112,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 5120,
+    "stars": 5125,
     "updated_at": "2026-07-28T19:32:07Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -77,17 +122,8 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 1,
-    "updated_at": "2026-07-28T19:31:21Z",
+    "updated_at": "2026-07-28T19:59:34Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T19:30:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -124,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T19:21:31Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "SDK de c\u00f3digo abierto en Python para el patr\u00f3n Backend for Agents (BFA), extendido como un servidor de enrutamiento din\u00e1",
-    "id": "SandroG1977/bfa-sdk",
-    "language": "Python",
-    "name": "SandroG1977/bfa-sdk",
-    "stars": 1,
-    "updated_at": "2026-07-28T19:33:00Z",
-    "url": "https://github.com/SandroG1977/bfa-sdk"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -229,7 +256,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12472,
+    "stars": 12473,
     "updated_at": "2026-07-28T19:00:43Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -270,15 +297,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-07-28T19:38:07Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "The AI automation platform, self-hosted. Describe the job in chat and LiveContext builds it: readable workflows, scoped ",
     "id": "livecontext-ai/livecontext-ce",
     "language": "Java",
@@ -295,15 +313,6 @@
     "stars": 27954,
     "updated_at": "2026-07-28T18:31:43Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 16,
-    "updated_at": "2026-07-28T19:41:55Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "Universal Agent Harness",
@@ -338,7 +347,7 @@
     "language": "HTML",
     "name": "qadeer-ux/oh-my-codex-remix",
     "stars": 1,
-    "updated_at": "2026-07-28T18:24:27Z",
+    "updated_at": "2026-07-28T19:59:23Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T18:05:37Z",
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
-  },
-  {
-    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
-    "id": "Omni-Craft/OmniCraft",
-    "language": "Python",
-    "name": "Omni-Craft/OmniCraft",
-    "stars": 0,
-    "updated_at": "2026-07-28T17:50:26Z",
-    "url": "https://github.com/Omni-Craft/OmniCraft"
   }
 ]
