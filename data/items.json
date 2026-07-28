@@ -1,10 +1,82 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7847,
+    "updated_at": "2026-07-28T21:12:01Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-28T21:11:16Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18868,
+    "updated_at": "2026-07-28T21:13:34Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 2,
+    "updated_at": "2026-07-28T21:06:16Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12473,
+    "updated_at": "2026-07-28T21:12:59Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 154,
+    "updated_at": "2026-07-28T21:04:43Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 287,
+    "updated_at": "2026-07-28T21:00:58Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T21:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Zero-dependency TypeScript framework for production AI agents: durable execution, long-term memory, hybrid RAG, MCP tool",
     "id": "Deuz-AI/Deuz-SDK",
     "language": "TypeScript",
     "name": "Deuz-AI/Deuz-SDK",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-07-28T20:59:59Z",
     "url": "https://github.com/Deuz-AI/Deuz-SDK"
   },
@@ -40,7 +112,7 @@
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
     "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-28T20:56:34Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
@@ -49,7 +121,7 @@
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-07-28T20:56:14Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
@@ -59,26 +131,8 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 16,
-    "updated_at": "2026-07-28T20:58:19Z",
+    "updated_at": "2026-07-28T21:14:13Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 287,
-    "updated_at": "2026-07-28T20:55:10Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18868,
-    "updated_at": "2026-07-28T20:55:16Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
@@ -108,33 +162,6 @@
     "url": "https://github.com/tachyon-r/maximal-utility-agent-soul"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-28T20:47:20Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7847,
-    "updated_at": "2026-07-28T20:45:26Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T20:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
     "id": "aomi-labs/aomi",
     "language": "TypeScript",
@@ -148,7 +175,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 5138,
+    "stars": 5141,
     "updated_at": "2026-07-28T20:35:14Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 7,
-    "updated_at": "2026-07-28T20:59:06Z",
+    "updated_at": "2026-07-28T21:09:35Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -320,26 +347,8 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 3,
-    "updated_at": "2026-07-28T20:55:38Z",
+    "updated_at": "2026-07-28T21:14:44Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 2,
-    "updated_at": "2026-07-28T19:21:31Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 154,
-    "updated_at": "2026-07-28T19:20:18Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -387,15 +396,6 @@
     "url": "https://github.com/bryansparks/armature"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12473,
-    "updated_at": "2026-07-28T20:49:13Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
     "id": "Jovancoding/Network-AI",
     "language": "TypeScript",
@@ -419,7 +419,7 @@
     "language": "TypeScript",
     "name": "billybox1926-jpg/Terminai",
     "stars": 2,
-    "updated_at": "2026-07-28T20:53:20Z",
+    "updated_at": "2026-07-28T21:11:33Z",
     "url": "https://github.com/billybox1926-jpg/Terminai"
   },
   {
@@ -436,7 +436,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27955,
+    "stars": 27954,
     "updated_at": "2026-07-28T18:31:43Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
