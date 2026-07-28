@@ -1,5 +1,59 @@
 [
   {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 46,
+    "updated_at": "2026-07-28T07:13:14Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
+    "id": "Carrara-Labs/delta-harness",
+    "language": "TypeScript",
+    "name": "Carrara-Labs/delta-harness",
+    "stars": 0,
+    "updated_at": "2026-07-28T07:11:11Z",
+    "url": "https://github.com/Carrara-Labs/delta-harness"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-07-28T07:10:40Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Core engine for the autonomous development factory platform with workflow orchestration",
+    "id": "Raphasha27/autonomous-dev-factory-core",
+    "language": "Python",
+    "name": "Raphasha27/autonomous-dev-factory-core",
+    "stars": 2,
+    "updated_at": "2026-07-28T07:09:45Z",
+    "url": "https://github.com/Raphasha27/autonomous-dev-factory-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T07:09:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Framework for real-time voice agents built on OpenAI's Realtime API",
+    "id": "mathisarends/rtvoice",
+    "language": "Python",
+    "name": "mathisarends/rtvoice",
+    "stars": 0,
+    "updated_at": "2026-07-28T07:08:29Z",
+    "url": "https://github.com/mathisarends/rtvoice"
+  },
+  {
     "description": "AI agent with zero dependencies, bring your own bun",
     "id": "devoidfury/hotdog",
     "language": "TypeScript",
@@ -32,7 +86,7 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 7,
-    "updated_at": "2026-07-28T07:08:34Z",
+    "updated_at": "2026-07-28T07:12:58Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -72,24 +126,6 @@
     "url": "https://github.com/iduyuhe/zhiyan-evolviq"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 46,
-    "updated_at": "2026-07-28T07:01:06Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T07:00:34Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
     "id": "Dikhun/Arctus.ai",
     "language": "Python",
@@ -124,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T06:56:33Z",
     "url": "https://github.com/W117C/DeepseekNova"
-  },
-  {
-    "description": "Framework for real-time voice agents built on OpenAI's Realtime API",
-    "id": "mathisarends/rtvoice",
-    "language": "Python",
-    "name": "mathisarends/rtvoice",
-    "stars": 0,
-    "updated_at": "2026-07-28T07:08:29Z",
-    "url": "https://github.com/mathisarends/rtvoice"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 46318,
-    "updated_at": "2026-07-28T06:35:19Z",
+    "updated_at": "2026-07-28T07:12:37Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -274,7 +301,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27924,
+    "stars": 27925,
     "updated_at": "2026-07-28T06:19:02Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -351,6 +378,15 @@
     "url": "https://github.com/NSIETeam/Mira"
   },
   {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18851,
+    "updated_at": "2026-07-28T05:42:37Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -376,15 +412,6 @@
     "stars": 1921,
     "updated_at": "2026-07-28T06:29:20Z",
     "url": "https://github.com/yomorun/yomo"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18850,
-    "updated_at": "2026-07-28T05:42:37Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -421,32 +448,5 @@
     "stars": 4949,
     "updated_at": "2026-07-28T05:17:51Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 463,
-    "updated_at": "2026-07-28T06:01:06Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "Agent SDK, CLI, RPC, Computer-use in Rust",
-    "id": "Wh1isper/starweaver",
-    "language": "Rust",
-    "name": "Wh1isper/starweaver",
-    "stars": 8,
-    "updated_at": "2026-07-28T04:58:59Z",
-    "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 287,
-    "updated_at": "2026-07-28T04:56:29Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   }
 ]
