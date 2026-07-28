@@ -1,5 +1,50 @@
 [
   {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 1,
+    "updated_at": "2026-07-28T07:28:36Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 7,
+    "updated_at": "2026-07-28T07:29:20Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
+    "id": "AmritaBot/AmritaCore",
+    "language": "Python",
+    "name": "AmritaBot/AmritaCore",
+    "stars": 10,
+    "updated_at": "2026-07-28T07:16:56Z",
+    "url": "https://github.com/AmritaBot/AmritaCore"
+  },
+  {
+    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
+    "id": "jiayan-xu/agent-core",
+    "language": "Rust",
+    "name": "jiayan-xu/agent-core",
+    "stars": 2,
+    "updated_at": "2026-07-28T07:15:45Z",
+    "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T07:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
@@ -36,15 +81,6 @@
     "url": "https://github.com/Raphasha27/autonomous-dev-factory-core"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T07:09:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Framework for real-time voice agents built on OpenAI's Realtime API",
     "id": "mathisarends/rtvoice",
     "language": "Python",
@@ -76,18 +112,9 @@
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1151,
+    "stars": 1152,
     "updated_at": "2026-07-28T07:06:04Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 7,
-    "updated_at": "2026-07-28T07:12:58Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7825,
-    "updated_at": "2026-07-28T07:04:28Z",
+    "updated_at": "2026-07-28T07:27:42Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 46318,
-    "updated_at": "2026-07-28T07:12:37Z",
+    "updated_at": "2026-07-28T07:23:50Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4925,
-    "updated_at": "2026-07-28T06:26:51Z",
+    "updated_at": "2026-07-28T07:22:40Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-28T07:07:15Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 487,
-    "updated_at": "2026-07-28T05:22:04Z",
-    "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 1,
-    "updated_at": "2026-07-28T05:21:10Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 4949,
-    "updated_at": "2026-07-28T05:17:51Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   }
 ]
