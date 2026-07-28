@@ -1,12 +1,48 @@
 [
   {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18868,
+    "updated_at": "2026-07-28T20:27:40Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation \u2014 out of one git rep",
+    "id": "jamillazarev/opsinist",
+    "language": "Python",
+    "name": "jamillazarev/opsinist",
+    "stars": 0,
+    "updated_at": "2026-07-28T20:27:28Z",
+    "url": "https://github.com/jamillazarev/opsinist"
+  },
+  {
+    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
+    "id": "joseym/salvor",
+    "language": "Rust",
+    "name": "joseym/salvor",
+    "stars": 3,
+    "updated_at": "2026-07-28T20:25:39Z",
+    "url": "https://github.com/joseym/salvor"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 5131,
+    "updated_at": "2026-07-28T20:19:39Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 154,
-    "updated_at": "2026-07-28T20:13:47Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-07-28T20:18:05Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-07-28T20:12:46Z",
+    "updated_at": "2026-07-28T20:15:31Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 74,
+    "updated_at": "2026-07-28T20:13:48Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 154,
+    "updated_at": "2026-07-28T20:13:47Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
     "description": "",
@@ -86,7 +140,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 16,
-    "updated_at": "2026-07-28T19:52:39Z",
+    "updated_at": "2026-07-28T20:23:11Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -113,17 +167,8 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4928,
-    "updated_at": "2026-07-28T19:56:25Z",
+    "updated_at": "2026-07-28T20:23:14Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18867,
-    "updated_at": "2026-07-28T19:45:03Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 7,
-    "updated_at": "2026-07-28T20:00:21Z",
+    "updated_at": "2026-07-28T20:30:19Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -151,24 +196,6 @@
     "stars": 25,
     "updated_at": "2026-07-28T19:33:47Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 74,
-    "updated_at": "2026-07-28T20:13:48Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 5125,
-    "updated_at": "2026-07-28T19:32:07Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
@@ -194,7 +221,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 3,
-    "updated_at": "2026-07-28T19:23:55Z",
+    "updated_at": "2026-07-28T20:29:39Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4809,
-    "updated_at": "2026-07-28T20:05:31Z",
+    "updated_at": "2026-07-28T20:27:58Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -346,7 +373,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27954,
+    "stars": 27955,
     "updated_at": "2026-07-28T18:31:43Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -405,15 +432,6 @@
     "url": "https://github.com/sweatco/archie-hq"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-07-28T18:17:22Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
     "id": "BrainoutputHQ/brainoutput-community",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 29,
     "updated_at": "2026-07-28T18:10:33Z",
     "url": "https://github.com/shisa-ai/shisad"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 7,
-    "updated_at": "2026-07-28T18:17:09Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
-    "id": "Dream-Pixels-Forge/memorius",
-    "language": "Python",
-    "name": "Dream-Pixels-Forge/memorius",
-    "stars": 1,
-    "updated_at": "2026-07-28T18:05:37Z",
-    "url": "https://github.com/Dream-Pixels-Forge/memorius"
   }
 ]
