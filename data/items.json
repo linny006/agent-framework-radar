@@ -5,26 +5,89 @@
     "language": "Python",
     "name": "NSIETeam/Mira",
     "stars": 1,
-    "updated_at": "2026-07-28T15:44:54Z",
+    "updated_at": "2026-07-28T15:59:25Z",
     "url": "https://github.com/NSIETeam/Mira"
+  },
+  {
+    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
+    "id": "junebuild/june",
+    "language": "TypeScript",
+    "name": "junebuild/june",
+    "stars": 3,
+    "updated_at": "2026-07-28T15:54:56Z",
+    "url": "https://github.com/junebuild/june"
+  },
+  {
+    "description": "A lightweight, protocol-based AI agent framework with LangChain/LangGraph integration, powered by Pico-IoC dependency in",
+    "id": "dperezcabrera/pico-agent",
+    "language": "Python",
+    "name": "dperezcabrera/pico-agent",
+    "stars": 1,
+    "updated_at": "2026-07-28T15:51:44Z",
+    "url": "https://github.com/dperezcabrera/pico-agent"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-07-28T15:56:48Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Expanding Tool",
+    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
+    "language": "Python",
+    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
+    "stars": 0,
+    "updated_at": "2026-07-28T15:51:21Z",
+    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12471,
+    "updated_at": "2026-07-28T15:51:03Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 11,
+    "updated_at": "2026-07-28T15:47:57Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7837,
-    "updated_at": "2026-07-28T15:42:57Z",
+    "stars": 7838,
+    "updated_at": "2026-07-28T15:53:10Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
     "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18861,
-    "updated_at": "2026-07-28T15:42:13Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
+    "name": "strands-agents/harness-sdk",
+    "stars": 6720,
+    "updated_at": "2026-07-28T15:46:57Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T15:45:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -32,17 +95,26 @@
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
     "stars": 324,
-    "updated_at": "2026-07-28T15:44:05Z",
+    "updated_at": "2026-07-28T15:57:09Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12470,
-    "updated_at": "2026-07-28T15:39:52Z",
-    "url": "https://github.com/microsoft/agent-framework"
+    "name": "pydantic/pydantic-ai",
+    "stars": 18862,
+    "updated_at": "2026-07-28T15:46:59Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 48,
+    "updated_at": "2026-07-28T15:40:44Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
@@ -81,21 +153,12 @@
     "url": "https://github.com/iflytek/skillhub"
   },
   {
-    "description": "A lightweight, protocol-based AI agent framework with LangChain/LangGraph integration, powered by Pico-IoC dependency in",
-    "id": "dperezcabrera/pico-agent",
-    "language": "Python",
-    "name": "dperezcabrera/pico-agent",
-    "stars": 1,
-    "updated_at": "2026-07-28T15:33:42Z",
-    "url": "https://github.com/dperezcabrera/pico-agent"
-  },
-  {
     "description": "A compact Python SDK for strict tool contracts, observable streaming events, and scoped local file capabilities.",
     "id": "vortezwohl/EasyHarness",
     "language": "Python",
     "name": "vortezwohl/EasyHarness",
     "stars": 2,
-    "updated_at": "2026-07-28T15:32:13Z",
+    "updated_at": "2026-07-28T15:58:58Z",
     "url": "https://github.com/vortezwohl/EasyHarness"
   },
   {
@@ -117,21 +180,12 @@
     "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T15:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 7,
-    "updated_at": "2026-07-28T15:41:14Z",
+    "updated_at": "2026-07-28T15:59:31Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Go",
     "name": "danmo-ai/danmo-work",
     "stars": 3,
-    "updated_at": "2026-07-28T15:43:43Z",
+    "updated_at": "2026-07-28T15:59:55Z",
     "url": "https://github.com/danmo-ai/danmo-work"
   },
   {
@@ -149,7 +203,7 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 7,
-    "updated_at": "2026-07-28T15:41:03Z",
+    "updated_at": "2026-07-28T15:58:16Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -230,7 +284,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-28T15:12:08Z",
+    "updated_at": "2026-07-28T15:57:59Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -315,15 +369,6 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 48,
-    "updated_at": "2026-07-28T15:40:44Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -346,7 +391,7 @@
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1162,
+    "stars": 1163,
     "updated_at": "2026-07-28T14:45:47Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "akyourowngames/friday",
     "stars": 5,
-    "updated_at": "2026-07-28T14:43:02Z",
+    "updated_at": "2026-07-28T15:47:12Z",
     "url": "https://github.com/akyourowngames/friday"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-28T14:29:07Z",
     "url": "https://github.com/joseym/salvor"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 13,
-    "updated_at": "2026-07-28T14:22:23Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-28T14:19:55Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-07-28T14:18:36Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 1,
-    "updated_at": "2026-07-28T14:13:54Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
-    "id": "substructureai/substructure",
-    "language": "Rust",
-    "name": "substructureai/substructure",
-    "stars": 5,
-    "updated_at": "2026-07-28T14:10:06Z",
-    "url": "https://github.com/substructureai/substructure"
   }
 ]
