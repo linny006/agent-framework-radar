@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "databricks-solutions/consort",
     "stars": 2,
-    "updated_at": "2026-07-28T17:30:16Z",
+    "updated_at": "2026-07-28T17:39:26Z",
     "url": "https://github.com/databricks-solutions/consort"
   },
   {
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "NSIETeam/Mira",
     "stars": 1,
-    "updated_at": "2026-07-28T17:29:54Z",
+    "updated_at": "2026-07-28T17:39:20Z",
     "url": "https://github.com/NSIETeam/Mira"
+  },
+  {
+    "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
+    "id": "trbearth/fieldwork-agent-os",
+    "language": "CSS",
+    "name": "trbearth/fieldwork-agent-os",
+    "stars": 0,
+    "updated_at": "2026-07-28T17:31:39Z",
+    "url": "https://github.com/trbearth/fieldwork-agent-os"
+  },
+  {
+    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
+    "id": "sweatco/archie-hq",
+    "language": "TypeScript",
+    "name": "sweatco/archie-hq",
+    "stars": 16,
+    "updated_at": "2026-07-28T17:31:28Z",
+    "url": "https://github.com/sweatco/archie-hq"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T17:30:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 287,
+    "updated_at": "2026-07-28T17:30:24Z",
+    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-28T17:23:33Z",
+    "updated_at": "2026-07-28T17:39:14Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -135,15 +171,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T17:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -158,7 +185,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 3,
-    "updated_at": "2026-07-28T17:14:07Z",
+    "updated_at": "2026-07-28T17:39:24Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 7,
-    "updated_at": "2026-07-28T17:29:34Z",
+    "updated_at": "2026-07-28T17:39:50Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T17:28:21Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 287,
-    "updated_at": "2026-07-28T17:30:24Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
@@ -284,7 +302,7 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 7,
-    "updated_at": "2026-07-28T16:59:34Z",
+    "updated_at": "2026-07-28T17:35:47Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -310,7 +328,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4928,
+    "stars": 4927,
     "updated_at": "2026-07-28T16:42:28Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6721,
-    "updated_at": "2026-07-28T16:22:52Z",
+    "updated_at": "2026-07-28T17:37:29Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-28T16:03:48Z",
     "url": "https://github.com/vortezwohl/EasyHarness"
-  },
-  {
-    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
-    "id": "junebuild/june",
-    "language": "TypeScript",
-    "name": "junebuild/june",
-    "stars": 3,
-    "updated_at": "2026-07-28T15:54:56Z",
-    "url": "https://github.com/junebuild/june"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7842,
-    "updated_at": "2026-07-28T15:53:10Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   }
 ]
