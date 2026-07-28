@@ -1,11 +1,83 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7846,
+    "updated_at": "2026-07-28T20:44:52Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 287,
+    "updated_at": "2026-07-28T20:44:47Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 10,
+    "updated_at": "2026-07-28T20:43:48Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 5137,
+    "updated_at": "2026-07-28T20:35:14Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 3,
+    "updated_at": "2026-07-28T20:34:10Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Security-first AI agent daemon \u2014 the model proposes actions, the runtime decides what execute",
+    "id": "shisa-ai/shisad",
+    "language": "Python",
+    "name": "shisa-ai/shisad",
+    "stars": 29,
+    "updated_at": "2026-07-28T20:33:26Z",
+    "url": "https://github.com/shisa-ai/shisad"
+  },
+  {
+    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
+    "id": "Omni-Craft/OmniCraft",
+    "language": "Python",
+    "name": "Omni-Craft/OmniCraft",
+    "stars": 0,
+    "updated_at": "2026-07-28T20:32:14Z",
+    "url": "https://github.com/Omni-Craft/OmniCraft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T20:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18868,
-    "updated_at": "2026-07-28T20:27:40Z",
+    "updated_at": "2026-07-28T20:42:53Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -27,15 +99,6 @@
     "url": "https://github.com/joseym/salvor"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 5131,
-    "updated_at": "2026-07-28T20:19:39Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T20:18:05Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T20:15:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -140,7 +194,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 16,
-    "updated_at": "2026-07-28T20:23:11Z",
+    "updated_at": "2026-07-28T20:33:39Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -149,17 +203,8 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-07-28T19:50:04Z",
+    "updated_at": "2026-07-28T20:42:42Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 287,
-    "updated_at": "2026-07-28T19:48:29Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
@@ -169,15 +214,6 @@
     "stars": 4928,
     "updated_at": "2026-07-28T20:23:14Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 10,
-    "updated_at": "2026-07-28T19:37:01Z",
-    "url": "https://github.com/aomi-labs/aomi"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -261,15 +297,6 @@
     "url": "https://github.com/MariusYvard/corparius"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7846,
-    "updated_at": "2026-07-28T19:11:55Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
     "id": "ag2ai/ag2",
     "language": "Python",
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-28T19:02:19Z",
+    "updated_at": "2026-07-28T20:42:16Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6670,
     "updated_at": "2026-07-28T18:22:50Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
-    "id": "sweatco/archie-hq",
-    "language": "TypeScript",
-    "name": "sweatco/archie-hq",
-    "stars": 16,
-    "updated_at": "2026-07-28T20:14:50Z",
-    "url": "https://github.com/sweatco/archie-hq"
-  },
-  {
-    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
-    "id": "BrainoutputHQ/brainoutput-community",
-    "language": "JavaScript",
-    "name": "BrainoutputHQ/brainoutput-community",
-    "stars": 1,
-    "updated_at": "2026-07-28T18:17:10Z",
-    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
-  },
-  {
-    "description": "Security-first AI agent daemon \u2014 the model proposes actions, the runtime decides what execute",
-    "id": "shisa-ai/shisad",
-    "language": "Python",
-    "name": "shisa-ai/shisad",
-    "stars": 29,
-    "updated_at": "2026-07-28T18:10:33Z",
-    "url": "https://github.com/shisa-ai/shisad"
   }
 ]
