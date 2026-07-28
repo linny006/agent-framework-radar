@@ -1,12 +1,66 @@
 [
   {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 9,
+    "updated_at": "2026-07-28T03:25:39Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 191,
+    "updated_at": "2026-07-28T03:24:56Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
+    "id": "danmo-ai/danmo-work",
+    "language": "Go",
+    "name": "danmo-ai/danmo-work",
+    "stars": 3,
+    "updated_at": "2026-07-28T03:22:28Z",
+    "url": "https://github.com/danmo-ai/danmo-work"
+  },
+  {
+    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
+    "id": "pereirawe/opencode-flow",
+    "language": "Python",
+    "name": "pereirawe/opencode-flow",
+    "stars": 0,
+    "updated_at": "2026-07-28T03:21:19Z",
+    "url": "https://github.com/pereirawe/opencode-flow"
+  },
+  {
+    "description": "A reasoning-first idle engine for persistent LLM agents. Behaviour emerges from the agent reasoning about its idle state",
+    "id": "freeze1999/reverie-automata",
+    "language": "Python",
+    "name": "freeze1999/reverie-automata",
+    "stars": 1,
+    "updated_at": "2026-07-28T03:21:06Z",
+    "url": "https://github.com/freeze1999/reverie-automata"
+  },
+  {
     "description": "Self-evolving knowledge management system: Obsidian vault + a zero-dependency MCP server (86 tools). Refines raw materia",
     "id": "edrc-shawn/lingtai-mcp",
     "language": "Python",
     "name": "edrc-shawn/lingtai-mcp",
     "stars": 0,
-    "updated_at": "2026-07-28T03:14:21Z",
+    "updated_at": "2026-07-28T03:19:27Z",
     "url": "https://github.com/edrc-shawn/lingtai-mcp"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T03:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 46314,
-    "updated_at": "2026-07-28T03:07:58Z",
+    "updated_at": "2026-07-28T03:29:57Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T03:03:30Z",
     "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T03:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18847,
-    "updated_at": "2026-07-28T03:14:22Z",
+    "updated_at": "2026-07-28T03:29:52Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T02:49:21Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "A reasoning-first idle engine for persistent LLM agents. Behaviour emerges from the agent reasoning about its idle state",
-    "id": "freeze1999/reverie-automata",
-    "language": "Python",
-    "name": "freeze1999/reverie-automata",
-    "stars": 1,
-    "updated_at": "2026-07-28T02:49:19Z",
-    "url": "https://github.com/freeze1999/reverie-automata"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -124,15 +160,6 @@
     "stars": 326,
     "updated_at": "2026-07-28T02:38:55Z",
     "url": "https://github.com/CronusL-1141/AI-company"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 191,
-    "updated_at": "2026-07-28T02:37:30Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "",
@@ -176,7 +203,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-07-28T02:31:26Z",
+    "updated_at": "2026-07-28T03:23:01Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -189,11 +216,20 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7822,
+    "updated_at": "2026-07-28T02:27:00Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Build distributed, production-grade, long-running agents.",
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 4739,
+    "stars": 4740,
     "updated_at": "2026-07-28T02:25:55Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
@@ -221,7 +257,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-07-28T02:59:16Z",
+    "updated_at": "2026-07-28T03:22:34Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -232,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T02:10:03Z",
     "url": "https://github.com/openenterprise-info/open-enterprise-community"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7821,
-    "updated_at": "2026-07-28T02:27:00Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -378,15 +405,6 @@
     "url": "https://github.com/dan-labs-agi/flutter-claw"
   },
   {
-    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
-    "id": "danmo-ai/danmo-work",
-    "language": "Go",
-    "name": "danmo-ai/danmo-work",
-    "stars": 3,
-    "updated_at": "2026-07-28T03:04:21Z",
-    "url": "https://github.com/danmo-ai/danmo-work"
-  },
-  {
     "description": "The agentic runtime to build production-grade AI agents at scale.",
     "id": "Kortecx/kortecx",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 1276,
     "updated_at": "2026-07-28T00:47:20Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-28T00:59:04Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-07-28T00:13:52Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   }
 ]
