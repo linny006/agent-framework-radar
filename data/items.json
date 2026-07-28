@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
+    "id": "iduyuhe/zhiyan-evolviq",
+    "language": "Python",
+    "name": "iduyuhe/zhiyan-evolviq",
+    "stars": 2,
+    "updated_at": "2026-07-28T08:12:04Z",
+    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7827,
+    "updated_at": "2026-07-28T08:09:00Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Official documentation for Agentflow, built with Docusaurus and structured via the Divio system: tutorials, how-to guide",
+    "id": "10xHub/agentflow-docs",
+    "language": "TypeScript",
+    "name": "10xHub/agentflow-docs",
+    "stars": 2,
+    "updated_at": "2026-07-28T08:07:19Z",
+    "url": "https://github.com/10xHub/agentflow-docs"
+  },
+  {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 2,
+    "updated_at": "2026-07-28T08:00:56Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T08:00:36Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Orchestrate armies of AI agents from a single prompt. Open-core, bring-your-own-key, and self-hostable \u2014 Orchestrator ro",
     "id": "Yigtwxx/Maestro",
     "language": "Python",
@@ -14,24 +59,15 @@
     "language": "TypeScript",
     "name": "openma-ai/open-managed-agents",
     "stars": 212,
-    "updated_at": "2026-07-28T07:57:58Z",
+    "updated_at": "2026-07-28T08:05:57Z",
     "url": "https://github.com/openma-ai/open-managed-agents"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7825,
-    "updated_at": "2026-07-28T08:00:20Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
     "name": "hertz-ai/HARTOS",
-    "stars": 46,
+    "stars": 48,
     "updated_at": "2026-07-28T07:47:35Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
@@ -49,27 +85,9 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46319,
+    "stars": 46322,
     "updated_at": "2026-07-28T07:45:34Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T07:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
-    "language": "TypeScript",
-    "name": "Qwixl/Atom",
-    "stars": 2,
-    "updated_at": "2026-07-28T07:58:09Z",
-    "url": "https://github.com/Qwixl/Atom"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -104,17 +122,8 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 1,
-    "updated_at": "2026-07-28T07:42:10Z",
+    "updated_at": "2026-07-28T08:06:44Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
-    "id": "iduyuhe/zhiyan-evolviq",
-    "language": "Python",
-    "name": "iduyuhe/zhiyan-evolviq",
-    "stars": 2,
-    "updated_at": "2026-07-28T07:39:45Z",
-    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "DemonDamon/AgenticX",
     "stars": 191,
-    "updated_at": "2026-07-28T07:38:15Z",
+    "updated_at": "2026-07-28T08:08:59Z",
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
@@ -256,7 +265,7 @@
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1152,
+    "stars": 1153,
     "updated_at": "2026-07-28T07:06:04Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
@@ -418,7 +427,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27932,
+    "stars": 27934,
     "updated_at": "2026-07-28T06:19:02Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-28T06:12:20Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "An agent operating system: a framework-agnostic harness for self-monitoring, self-improving agentic AI.",
-    "id": "Srujan0798/Adaptoid-OS",
-    "language": "Python",
-    "name": "Srujan0798/Adaptoid-OS",
-    "stars": 0,
-    "updated_at": "2026-07-28T06:02:08Z",
-    "url": "https://github.com/Srujan0798/Adaptoid-OS"
   }
 ]
