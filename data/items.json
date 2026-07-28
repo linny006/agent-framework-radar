@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-28T11:47:45Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T11:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An agent-loop engine in Rust \u2014 one interface over LLM APIs and external coding agents, with one typed event stream out.",
     "id": "ndolinschi/Flex",
     "language": "Rust",
@@ -7,15 +25,6 @@
     "stars": 6,
     "updated_at": "2026-07-28T11:42:04Z",
     "url": "https://github.com/ndolinschi/Flex"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-28T11:44:18Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Self-evolving knowledge management system: Obsidian vault + a zero-dependency MCP server (86 tools). Refines raw materia",
@@ -99,15 +108,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T11:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
     "id": "ellmos-ai/MarbleRun",
     "language": "Python",
@@ -122,7 +122,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 7,
-    "updated_at": "2026-07-28T11:27:32Z",
+    "updated_at": "2026-07-28T11:51:23Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -158,7 +158,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7831,
-    "updated_at": "2026-07-28T11:33:24Z",
+    "updated_at": "2026-07-28T11:47:50Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -185,7 +185,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 46323,
-    "updated_at": "2026-07-28T11:15:50Z",
+    "updated_at": "2026-07-28T11:50:04Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -230,7 +230,7 @@
     "language": "TypeScript",
     "name": "sweatco/archie-hq",
     "stars": 16,
-    "updated_at": "2026-07-28T11:26:21Z",
+    "updated_at": "2026-07-28T11:50:37Z",
     "url": "https://github.com/sweatco/archie-hq"
   },
   {
@@ -257,7 +257,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 48,
-    "updated_at": "2026-07-28T11:19:40Z",
+    "updated_at": "2026-07-28T11:51:30Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -275,7 +275,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-07-28T10:53:32Z",
+    "updated_at": "2026-07-28T11:46:28Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
