@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T09:45:36Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
     "id": "ulsreall/web3-agent-kit",
     "language": "Python",
     "name": "ulsreall/web3-agent-kit",
     "stars": 18,
-    "updated_at": "2026-07-28T09:44:32Z",
+    "updated_at": "2026-07-28T09:45:43Z",
     "url": "https://github.com/ulsreall/web3-agent-kit"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 48,
     "updated_at": "2026-07-28T09:32:24Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T09:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",

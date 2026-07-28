@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ulsreall/web3-agent-kit](https://github.com/ulsreall/web3-agent-kit) | 18 | Python | 2026-07-28 | Open-source toolkit for building AI agents that interact with blockchains — DeFi, restaking, token sniping, portfolio tr |
-| 2 | [10xHub/agentflow-docs](https://github.com/10xHub/agentflow-docs) | 2 | TypeScript | 2026-07-28 | Official documentation for Agentflow, built with Docusaurus and structured via the Divio system: tutorials, how-to guide |
-| 3 | [iflytek/skillhub](https://github.com/iflytek/skillhub) | 4924 | Java | 2026-07-28 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au |
-| 4 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 46320 | Python | 2026-07-28 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
-| 5 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 74 | TypeScript | 2026-07-28 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 6 | [ayman3000/SwiftAgentKit](https://github.com/ayman3000/SwiftAgentKit) | 0 | Swift | 2026-07-28 | Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit. |
-| 7 | [iduyuhe/zhiyan-evolviq](https://github.com/iduyuhe/zhiyan-evolviq) | 4 | Python | 2026-07-28 | 智衍 EvolvIQ —— 面向制造业的工业 AI 原生智能体平台。基座 + 11 个工业 Agent（供应链/良率/质量追溯/DFM/OEE/设备维护等），支持 MCP 能力联邦、OPC-UA/Modbus/MQTT 工业协议网关与 Ne |
-| 8 | [israriqbal/agent-ecologies](https://github.com/israriqbal/agent-ecologies) | 154 | HTML | 2026-07-28 | Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 |
-| 9 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 7 | Python | 2026-07-28 | Many Agents, one objective... yours  |
-| 10 | [hertz-ai/HARTOS](https://github.com/hertz-ai/HARTOS) | 48 | Python | 2026-07-28 | An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp |
-| 11 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-07-28 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-07-28 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [ulsreall/web3-agent-kit](https://github.com/ulsreall/web3-agent-kit) | 18 | Python | 2026-07-28 | Open-source toolkit for building AI agents that interact with blockchains — DeFi, restaking, token sniping, portfolio tr |
+| 3 | [10xHub/agentflow-docs](https://github.com/10xHub/agentflow-docs) | 2 | TypeScript | 2026-07-28 | Official documentation for Agentflow, built with Docusaurus and structured via the Divio system: tutorials, how-to guide |
+| 4 | [iflytek/skillhub](https://github.com/iflytek/skillhub) | 4924 | Java | 2026-07-28 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au |
+| 5 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 46320 | Python | 2026-07-28 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
+| 6 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 74 | TypeScript | 2026-07-28 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 7 | [ayman3000/SwiftAgentKit](https://github.com/ayman3000/SwiftAgentKit) | 0 | Swift | 2026-07-28 | Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit. |
+| 8 | [iduyuhe/zhiyan-evolviq](https://github.com/iduyuhe/zhiyan-evolviq) | 4 | Python | 2026-07-28 | 智衍 EvolvIQ —— 面向制造业的工业 AI 原生智能体平台。基座 + 11 个工业 Agent（供应链/良率/质量追溯/DFM/OEE/设备维护等），支持 MCP 能力联邦、OPC-UA/Modbus/MQTT 工业协议网关与 Ne |
+| 9 | [israriqbal/agent-ecologies](https://github.com/israriqbal/agent-ecologies) | 154 | HTML | 2026-07-28 | Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 |
+| 10 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 7 | Python | 2026-07-28 | Many Agents, one objective... yours  |
+| 11 | [hertz-ai/HARTOS](https://github.com/hertz-ai/HARTOS) | 48 | Python | 2026-07-28 | An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp |
 | 12 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-07-28 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
 | 13 | [Qwixl/Atom](https://github.com/Qwixl/Atom) | 2 | TypeScript | 2026-07-28 | An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog. |
 | 14 | [JayRHa/foundry-agent-patterns](https://github.com/JayRHa/foundry-agent-patterns) | 0 | Python | 2026-07-28 | Runnable Microsoft Agent Framework orchestration patterns (sequential, concurrent, group chat, handoff, magentic) wired  |
