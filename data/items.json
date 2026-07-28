@@ -5,17 +5,116 @@
     "language": "Go",
     "name": "sirrobot01/writ",
     "stars": 2,
-    "updated_at": "2026-07-28T14:29:42Z",
+    "updated_at": "2026-07-28T14:45:04Z",
     "url": "https://github.com/sirrobot01/writ"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4926,
+    "updated_at": "2026-07-28T14:44:56Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
+    "id": "0bserver07/chimera",
+    "language": "Python",
+    "name": "0bserver07/chimera",
+    "stars": 2,
+    "updated_at": "2026-07-28T14:41:25Z",
+    "url": "https://github.com/0bserver07/chimera"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7834,
-    "updated_at": "2026-07-28T14:28:19Z",
+    "stars": 7835,
+    "updated_at": "2026-07-28T14:40:24Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 2,
+    "updated_at": "2026-07-28T14:37:48Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "Notes on agent frameworks, runtimes, harnesses, and coding agents.",
+    "id": "Eddiee-Wei/agent-engineering-notes",
+    "language": "SCSS",
+    "name": "Eddiee-Wei/agent-engineering-notes",
+    "stars": 0,
+    "updated_at": "2026-07-28T14:31:42Z",
+    "url": "https://github.com/Eddiee-Wei/agent-engineering-notes"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46330,
+    "updated_at": "2026-07-28T14:31:37Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T14:30:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
+    "id": "Zchary1106/Myrmecia",
+    "language": "TypeScript",
+    "name": "Zchary1106/Myrmecia",
+    "stars": 2,
+    "updated_at": "2026-07-28T14:42:20Z",
+    "url": "https://github.com/Zchary1106/Myrmecia"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 8,
+    "updated_at": "2026-07-28T14:29:24Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
+    "id": "joseym/salvor",
+    "language": "Rust",
+    "name": "joseym/salvor",
+    "stars": 3,
+    "updated_at": "2026-07-28T14:29:07Z",
+    "url": "https://github.com/joseym/salvor"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-28T14:36:48Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18861,
+    "updated_at": "2026-07-28T14:42:36Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
@@ -36,15 +135,6 @@
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46328,
-    "updated_at": "2026-07-28T14:20:44Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -52,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T14:19:55Z",
     "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
-    "language": "TypeScript",
-    "name": "Qwixl/Atom",
-    "stars": 2,
-    "updated_at": "2026-07-28T14:29:02Z",
-    "url": "https://github.com/Qwixl/Atom"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -81,24 +162,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 8,
-    "updated_at": "2026-07-28T14:29:24Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T14:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
     "id": "codewandler/flux",
     "language": "Rust",
@@ -106,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T14:13:54Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-28T14:29:07Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
@@ -142,15 +196,6 @@
     "stars": 5,
     "updated_at": "2026-07-28T14:08:47Z",
     "url": "https://github.com/amitpatole/verel"
-  },
-  {
-    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
-    "id": "0bserver07/chimera",
-    "language": "Python",
-    "name": "0bserver07/chimera",
-    "stars": 2,
-    "updated_at": "2026-07-28T14:13:10Z",
-    "url": "https://github.com/0bserver07/chimera"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -252,24 +297,6 @@
     "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4926,
-    "updated_at": "2026-07-28T13:41:05Z",
-    "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18861,
-    "updated_at": "2026-07-28T14:23:25Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
     "id": "aomi-labs/aomi",
     "language": "TypeScript",
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 223,
-    "updated_at": "2026-07-28T13:32:25Z",
+    "updated_at": "2026-07-28T14:42:51Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-28T13:55:45Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 2,
-    "updated_at": "2026-07-28T12:52:23Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 5,
-    "updated_at": "2026-07-28T12:51:47Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 154,
-    "updated_at": "2026-07-28T12:51:45Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   }
 ]
