@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T13:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
     "id": "amitpatole/verel",
     "language": "Python",
@@ -16,6 +25,15 @@
     "stars": 1,
     "updated_at": "2026-07-28T13:43:36Z",
     "url": "https://github.com/NSIETeam/Mira"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-07-28T13:41:48Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -50,7 +68,7 @@
     "language": "Go",
     "name": "danmo-ai/danmo-work",
     "stars": 3,
-    "updated_at": "2026-07-28T13:32:43Z",
+    "updated_at": "2026-07-28T13:47:02Z",
     "url": "https://github.com/danmo-ai/danmo-work"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 9,
     "updated_at": "2026-07-28T13:32:24Z",
     "url": "https://github.com/aandbcct/dotClaw"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T13:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
@@ -140,7 +149,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-28T13:28:37Z",
+    "updated_at": "2026-07-28T13:46:42Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-28T13:32:39Z",
     "url": "https://github.com/loopedautomation/meet"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 608,
-    "updated_at": "2026-07-28T11:34:05Z",
-    "url": "https://github.com/framerslab/agentos"
   }
 ]
