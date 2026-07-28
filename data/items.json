@@ -1,21 +1,12 @@
 [
   {
-    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
-    "id": "danmo-ai/danmo-work",
-    "language": "Go",
-    "name": "danmo-ai/danmo-work",
-    "stars": 3,
-    "updated_at": "2026-07-28T01:01:05Z",
-    "url": "https://github.com/danmo-ai/danmo-work"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T01:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
+    "id": "zachmeador/shrimpy",
+    "language": "TypeScript",
+    "name": "zachmeador/shrimpy",
+    "stars": 1,
+    "updated_at": "2026-07-28T01:15:03Z",
+    "url": "https://github.com/zachmeador/shrimpy"
   },
   {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
@@ -23,8 +14,89 @@
     "language": "Python",
     "name": "Dream-Pixels-Forge/memorius",
     "stars": 1,
-    "updated_at": "2026-07-28T00:59:05Z",
+    "updated_at": "2026-07-28T01:14:05Z",
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "Build and ship hosted AI agents on Azure AI Foundry with GitHub Copilot. Two working agents, a 10-module lab, eval suite",
+    "id": "xavierxmorris/ghcp-demo-07-foundry-hosted-agents",
+    "language": "Python",
+    "name": "xavierxmorris/ghcp-demo-07-foundry-hosted-agents",
+    "stars": 0,
+    "updated_at": "2026-07-28T01:13:00Z",
+    "url": "https://github.com/xavierxmorris/ghcp-demo-07-foundry-hosted-agents"
+  },
+  {
+    "description": "Flutter AI agent template with Hermes Agent, Composio (1000+ apps), and graph loop architecture. Build mobile-native age",
+    "id": "dan-labs-agi/flutter-claw",
+    "language": "\u2014",
+    "name": "dan-labs-agi/flutter-claw",
+    "stars": 0,
+    "updated_at": "2026-07-28T01:11:58Z",
+    "url": "https://github.com/dan-labs-agi/flutter-claw"
+  },
+  {
+    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
+    "id": "danmo-ai/danmo-work",
+    "language": "Go",
+    "name": "danmo-ai/danmo-work",
+    "stars": 3,
+    "updated_at": "2026-07-28T01:11:00Z",
+    "url": "https://github.com/danmo-ai/danmo-work"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-07-28T01:10:29Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
+    "id": "0bserver07/chimera",
+    "language": "Python",
+    "name": "0bserver07/chimera",
+    "stars": 2,
+    "updated_at": "2026-07-28T01:14:32Z",
+    "url": "https://github.com/0bserver07/chimera"
+  },
+  {
+    "description": "The agentic runtime to build production-grade AI agents at scale.",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 6,
+    "updated_at": "2026-07-28T01:09:03Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-07-28T01:05:09Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-07-28T01:04:28Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T01:04:12Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -34,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T00:58:30Z",
     "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
-    "id": "zachmeador/shrimpy",
-    "language": "TypeScript",
-    "name": "zachmeador/shrimpy",
-    "stars": 1,
-    "updated_at": "2026-07-28T00:57:37Z",
-    "url": "https://github.com/zachmeador/shrimpy"
   },
   {
     "description": "A Self-Hosted, Open-Source Enterprise AI Platform and AI Agent Runtime for building and running autonomous AI agents wit",
@@ -76,18 +139,9 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7817,
+    "stars": 7818,
     "updated_at": "2026-07-28T00:46:47Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-07-28T00:45:56Z",
-    "url": "https://github.com/codewandler/flux"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -122,7 +176,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-07-28T00:23:42Z",
+    "updated_at": "2026-07-28T01:13:42Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18843,
-    "updated_at": "2026-07-28T00:57:23Z",
+    "updated_at": "2026-07-28T01:15:10Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -158,7 +212,7 @@
     "language": "TypeScript",
     "name": "Qwixl/Atom",
     "stars": 2,
-    "updated_at": "2026-07-28T00:12:04Z",
+    "updated_at": "2026-07-28T01:14:51Z",
     "url": "https://github.com/Qwixl/Atom"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 6709,
     "updated_at": "2026-07-27T23:04:36Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Flutter AI agent template with Hermes Agent, Composio (1000+ apps), and graph loop architecture. Build mobile-native age",
-    "id": "dan-labs-agi/flutter-claw",
-    "language": "\u2014",
-    "name": "dan-labs-agi/flutter-claw",
-    "stars": 0,
-    "updated_at": "2026-07-27T22:57:36Z",
-    "url": "https://github.com/dan-labs-agi/flutter-claw"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 45,
-    "updated_at": "2026-07-28T00:52:53Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 10,
-    "updated_at": "2026-07-27T22:52:40Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
-    "id": "nlj3/kedge",
-    "language": "Rust",
-    "name": "nlj3/kedge",
-    "stars": 0,
-    "updated_at": "2026-07-27T22:51:51Z",
-    "url": "https://github.com/nlj3/kedge"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-07-27T22:51:05Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
-    "id": "0bserver07/chimera",
-    "language": "Python",
-    "name": "0bserver07/chimera",
-    "stars": 2,
-    "updated_at": "2026-07-27T22:39:31Z",
-    "url": "https://github.com/0bserver07/chimera"
   }
 ]
