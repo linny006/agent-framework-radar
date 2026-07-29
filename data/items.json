@@ -1,5 +1,104 @@
 [
   {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 3,
+    "updated_at": "2026-07-29T15:48:03Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 45,
+    "updated_at": "2026-07-29T15:45:35Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-07-29T15:45:20Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "The micrograd of AI agents: a tiny, dependency-free, from-scratch agent framework for understanding how agents really wo",
+    "id": "rahul1368/microagent",
+    "language": "Python",
+    "name": "rahul1368/microagent",
+    "stars": 0,
+    "updated_at": "2026-07-29T15:43:23Z",
+    "url": "https://github.com/rahul1368/microagent"
+  },
+  {
+    "description": "A Self-Hosted, Open-Source Enterprise AI Platform and AI Agent Runtime for building and running autonomous AI agents wit",
+    "id": "openenterprise-info/open-enterprise-community",
+    "language": "JavaScript",
+    "name": "openenterprise-info/open-enterprise-community",
+    "stars": 1,
+    "updated_at": "2026-07-29T15:42:44Z",
+    "url": "https://github.com/openenterprise-info/open-enterprise-community"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12485,
+    "updated_at": "2026-07-29T15:42:26Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 5435,
+    "updated_at": "2026-07-29T15:40:29Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
+    "id": "JunMystery/Agent-Guidance-Rust",
+    "language": "Rust",
+    "name": "JunMystery/Agent-Guidance-Rust",
+    "stars": 0,
+    "updated_at": "2026-07-29T15:39:08Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-07-29T15:38:37Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 2,
+    "updated_at": "2026-07-29T15:31:57Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-29T15:30:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Source-available Harness AI / Agent OS for teams building governed agent applications - with Nexus orchestration, policy",
     "id": "jakbuczarnecki/intergrax",
     "language": "Python",
@@ -9,12 +108,21 @@
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-29T15:27:21Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "Local-first AI Employee OS: discover, hire, supervise, verify evidence, and grow AI employees.",
     "id": "staruhub/CrewClaw",
     "language": "JavaScript",
     "name": "staruhub/CrewClaw",
     "stars": 20,
-    "updated_at": "2026-07-29T15:27:12Z",
+    "updated_at": "2026-07-29T15:46:34Z",
     "url": "https://github.com/staruhub/CrewClaw"
   },
   {
@@ -36,15 +144,6 @@
     "url": "https://github.com/japo0nn/jumabek"
   },
   {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-07-29T15:23:17Z",
-    "url": "https://github.com/MariusYvard/corparius"
-  },
-  {
     "description": "Agent-native, governed AI runtime for Rust, Python, and TypeScript \u2014 native providers, MCP, tools, routing, memory, budg",
     "id": "matakartal/aikit-runtime",
     "language": "Rust",
@@ -59,35 +158,17 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 6,
-    "updated_at": "2026-07-29T15:26:04Z",
+    "updated_at": "2026-07-29T15:38:10Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 3,
-    "updated_at": "2026-07-29T15:21:08Z",
-    "url": "https://github.com/NekomyaDev/nudge"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27999,
+    "stars": 28000,
     "updated_at": "2026-07-29T15:20:13Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
-    "id": "JunMystery/Agent-Guidance-Rust",
-    "language": "Rust",
-    "name": "JunMystery/Agent-Guidance-Rust",
-    "stars": 0,
-    "updated_at": "2026-07-29T15:19:41Z",
-    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -103,18 +184,9 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46379,
+    "stars": 46378,
     "updated_at": "2026-07-29T15:15:45Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-29T15:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -185,7 +257,7 @@
     "language": "Python",
     "name": "zlatko-lakisic/agentic-orchestration",
     "stars": 2,
-    "updated_at": "2026-07-29T15:00:58Z",
+    "updated_at": "2026-07-29T15:47:08Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   },
   {
@@ -225,24 +297,6 @@
     "url": "https://github.com/HCF-STUDIOS/openhermit"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 45,
-    "updated_at": "2026-07-29T14:41:53Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "The micrograd of AI agents: a tiny, dependency-free, from-scratch agent framework for understanding how agents really wo",
-    "id": "rahul1368/microagent",
-    "language": "Python",
-    "name": "rahul1368/microagent",
-    "stars": 0,
-    "updated_at": "2026-07-29T14:40:57Z",
-    "url": "https://github.com/rahul1368/microagent"
-  },
-  {
     "description": "A Blazor Web App playground for quickly testing agents built with Microsoft Agent Framework",
     "id": "marcominerva/AgentPlayground",
     "language": "HTML",
@@ -250,15 +304,6 @@
     "stars": 17,
     "updated_at": "2026-07-29T14:39:35Z",
     "url": "https://github.com/marcominerva/AgentPlayground"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12485,
-    "updated_at": "2026-07-29T15:25:10Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18878,
-    "updated_at": "2026-07-29T15:10:14Z",
+    "updated_at": "2026-07-29T15:43:30Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -340,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T14:25:19Z",
     "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-07-29T14:25:05Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
@@ -410,43 +446,7 @@
     "language": "HTML",
     "name": "111nathanlar/Agent-Worlds",
     "stars": 2,
-    "updated_at": "2026-07-29T13:55:29Z",
+    "updated_at": "2026-07-29T15:47:30Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 1,
-    "updated_at": "2026-07-29T13:43:49Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "Apple MLX LM backend for the Agent Framework.",
-    "id": "filipw/agent-framework-mlx",
-    "language": "Python",
-    "name": "filipw/agent-framework-mlx",
-    "stars": 7,
-    "updated_at": "2026-07-29T13:31:55Z",
-    "url": "https://github.com/filipw/agent-framework-mlx"
-  },
-  {
-    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
-    "id": "Omni-Craft/OmniCraft",
-    "language": "Python",
-    "name": "Omni-Craft/OmniCraft",
-    "stars": 1,
-    "updated_at": "2026-07-29T13:28:29Z",
-    "url": "https://github.com/Omni-Craft/OmniCraft"
-  },
-  {
-    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
-    "id": "Dream-Pixels-Forge/memorius",
-    "language": "Python",
-    "name": "Dream-Pixels-Forge/memorius",
-    "stars": 1,
-    "updated_at": "2026-07-29T13:26:52Z",
-    "url": "https://github.com/Dream-Pixels-Forge/memorius"
   }
 ]
