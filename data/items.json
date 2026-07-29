@@ -1,12 +1,75 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 74,
+    "updated_at": "2026-07-29T13:41:04Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 6,
+    "updated_at": "2026-07-29T13:44:03Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46374,
+    "updated_at": "2026-07-29T13:37:11Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
     "id": "jiayan-xu/agent-core",
     "language": "Rust",
     "name": "jiayan-xu/agent-core",
     "stars": 2,
-    "updated_at": "2026-07-29T13:27:40Z",
+    "updated_at": "2026-07-29T13:36:53Z",
     "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "Local-first AI Employee OS: discover, hire, supervise, verify evidence, and grow AI employees.",
+    "id": "staruhub/CrewClaw",
+    "language": "JavaScript",
+    "name": "staruhub/CrewClaw",
+    "stars": 20,
+    "updated_at": "2026-07-29T13:32:52Z",
+    "url": "https://github.com/staruhub/CrewClaw"
+  },
+  {
+    "description": "Apple MLX LM backend for the Agent Framework.",
+    "id": "filipw/agent-framework-mlx",
+    "language": "Python",
+    "name": "filipw/agent-framework-mlx",
+    "stars": 7,
+    "updated_at": "2026-07-29T13:31:55Z",
+    "url": "https://github.com/filipw/agent-framework-mlx"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-29T13:30:34Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
+    "id": "Omni-Craft/OmniCraft",
+    "language": "Python",
+    "name": "Omni-Craft/OmniCraft",
+    "stars": 1,
+    "updated_at": "2026-07-29T13:28:29Z",
+    "url": "https://github.com/Omni-Craft/OmniCraft"
   },
   {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
@@ -22,7 +85,7 @@
     "id": "kdcube/kdcube",
     "language": "Python",
     "name": "kdcube/kdcube",
-    "stars": 11,
+    "stars": 13,
     "updated_at": "2026-07-29T13:26:11Z",
     "url": "https://github.com/kdcube/kdcube"
   },
@@ -32,17 +95,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7880,
-    "updated_at": "2026-07-29T13:28:48Z",
+    "updated_at": "2026-07-29T13:43:17Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 74,
-    "updated_at": "2026-07-29T13:24:34Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-29T13:22:04Z",
+    "updated_at": "2026-07-29T13:41:39Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -108,15 +162,6 @@
     "url": "https://github.com/wrg32786/aigent-os"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-29T13:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The micrograd of AI agents: a tiny, dependency-free, from-scratch agent framework for understanding how agents really wo",
     "id": "rahul1368/microagent",
     "language": "Python",
@@ -131,17 +176,8 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 1,
-    "updated_at": "2026-07-29T13:06:53Z",
+    "updated_at": "2026-07-29T13:43:49Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46374,
-    "updated_at": "2026-07-29T13:03:38Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "MCP server providing coding standards, skills, and workflows for AI agents",
@@ -160,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T13:02:18Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Local-first AI Employee OS: discover, hire, supervise, verify evidence, and grow AI employees.",
-    "id": "staruhub/CrewClaw",
-    "language": "JavaScript",
-    "name": "staruhub/CrewClaw",
-    "stars": 20,
-    "updated_at": "2026-07-29T13:02:10Z",
-    "url": "https://github.com/staruhub/CrewClaw"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-29T12:18:43Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 3,
-    "updated_at": "2026-07-29T12:17:08Z",
-    "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-29T12:13:18Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 154,
-    "updated_at": "2026-07-29T11:59:12Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   }
 ]
