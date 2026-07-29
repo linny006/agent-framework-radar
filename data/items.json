@@ -1,12 +1,57 @@
 [
   {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
+    "description": "Portable YAML agents for TypeScript and Python, with embedded execution, hosted APIs, evals, traces, and durable memory.",
+    "id": "aparry3/agntz",
+    "language": "TypeScript",
+    "name": "aparry3/agntz",
+    "stars": 1,
+    "updated_at": "2026-07-29T14:11:50Z",
+    "url": "https://github.com/aparry3/agntz"
+  },
+  {
+    "description": "The micrograd of AI agents: a tiny, dependency-free, from-scratch agent framework for understanding how agents really wo",
+    "id": "rahul1368/microagent",
+    "language": "Python",
+    "name": "rahul1368/microagent",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:03:24Z",
+    "url": "https://github.com/rahul1368/microagent"
+  },
+  {
+    "description": "Lightweight Agent OS framework with Multi-Agent Swarm, DAG Planning, RAG Routing, and Secure Tool Execution.",
+    "id": "bwpows/Small-Agent",
+    "language": "Python",
+    "name": "bwpows/Small-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:02:59Z",
+    "url": "https://github.com/bwpows/Small-Agent"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
     "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 154,
+    "updated_at": "2026-07-29T14:02:10Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
     "stars": 2,
-    "updated_at": "2026-07-29T13:55:29Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
+    "updated_at": "2026-07-29T14:00:45Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A comprehensive, cross-platform AI agent builder \u2014 design, build, test, and deploy AI agents with any LLM provider. 6 pr",
+    "id": "ssevera1/Agent-Builder",
+    "language": "TypeScript",
+    "name": "ssevera1/Agent-Builder",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:07:18Z",
+    "url": "https://github.com/ssevera1/Agent-Builder"
   },
   {
     "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
@@ -16,6 +61,15 @@
     "stars": 3,
     "updated_at": "2026-07-29T13:59:30Z",
     "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 2,
+    "updated_at": "2026-07-29T13:55:29Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
     "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
@@ -50,7 +104,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-29T13:46:47Z",
+    "updated_at": "2026-07-29T14:07:51Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-29T13:46:46Z",
+    "updated_at": "2026-07-29T14:13:54Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -68,17 +122,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7880,
-    "updated_at": "2026-07-29T13:50:17Z",
+    "updated_at": "2026-07-29T14:10:44Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-29T13:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
@@ -153,6 +198,15 @@
     "url": "https://github.com/kdcube/kdcube"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6729,
+    "updated_at": "2026-07-29T13:25:04Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T13:24:02Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6728,
-    "updated_at": "2026-07-29T13:25:04Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
@@ -205,15 +250,6 @@
     "stars": 12,
     "updated_at": "2026-07-29T13:18:18Z",
     "url": "https://github.com/wrg32786/aigent-os"
-  },
-  {
-    "description": "The micrograd of AI agents: a tiny, dependency-free, from-scratch agent framework for understanding how agents really wo",
-    "id": "rahul1368/microagent",
-    "language": "Python",
-    "name": "rahul1368/microagent",
-    "stars": 0,
-    "updated_at": "2026-07-29T13:08:45Z",
-    "url": "https://github.com/rahul1368/microagent"
   },
   {
     "description": "MCP server providing coding standards, skills, and workflows for AI agents",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T12:34:24Z",
     "url": "https://github.com/achappey/aihappey-agents"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 16,
-    "updated_at": "2026-07-29T12:32:07Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
-    "id": "japo0nn/jumabek",
-    "language": "Rust",
-    "name": "japo0nn/jumabek",
-    "stars": 0,
-    "updated_at": "2026-07-29T12:29:00Z",
-    "url": "https://github.com/japo0nn/jumabek"
-  },
-  {
-    "description": "Functional Python agent framework with MCP support, enterprise security, immutable state, and production-ready observabi",
-    "id": "xynehq/jaf-py",
-    "language": "Python",
-    "name": "xynehq/jaf-py",
-    "stars": 9,
-    "updated_at": "2026-07-29T12:27:30Z",
-    "url": "https://github.com/xynehq/jaf-py"
-  },
-  {
-    "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 338,
-    "updated_at": "2026-07-29T12:25:28Z",
-    "url": "https://github.com/shibing624/agentica"
   }
 ]
