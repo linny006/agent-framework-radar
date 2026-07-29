@@ -1,5 +1,104 @@
 [
   {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 9,
+    "updated_at": "2026-07-29T06:10:48Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7859,
+    "updated_at": "2026-07-29T06:14:06Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 48,
+    "updated_at": "2026-07-29T06:09:14Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
+    "id": "achappey/aihappey-agents",
+    "language": "C#",
+    "name": "achappey/aihappey-agents",
+    "stars": 0,
+    "updated_at": "2026-07-29T06:08:33Z",
+    "url": "https://github.com/achappey/aihappey-agents"
+  },
+  {
+    "description": "Self-hosted AI agents with a web UI \u2014 extend with Python/JS tools & MCP, schedule with cron Jobs, publish as public chat",
+    "id": "phamvanquyit/raw-agents",
+    "language": "TypeScript",
+    "name": "phamvanquyit/raw-agents",
+    "stars": 0,
+    "updated_at": "2026-07-29T06:07:07Z",
+    "url": "https://github.com/phamvanquyit/raw-agents"
+  },
+  {
+    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
+    "id": "iduyuhe/zhiyan-evolviq",
+    "language": "Python",
+    "name": "iduyuhe/zhiyan-evolviq",
+    "stars": 4,
+    "updated_at": "2026-07-29T06:07:00Z",
+    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 3,
+    "updated_at": "2026-07-29T06:15:08Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1166,
+    "updated_at": "2026-07-29T06:03:47Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "A lightweight, protocol-based AI agent framework with LangChain/LangGraph integration, powered by Pico-IoC dependency in",
+    "id": "dperezcabrera/pico-agent",
+    "language": "Python",
+    "name": "dperezcabrera/pico-agent",
+    "stars": 2,
+    "updated_at": "2026-07-29T06:02:56Z",
+    "url": "https://github.com/dperezcabrera/pico-agent"
+  },
+  {
+    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
+    "id": "Thepizzapie/BuildersGate",
+    "language": "Python",
+    "name": "Thepizzapie/BuildersGate",
+    "stars": 2,
+    "updated_at": "2026-07-29T06:02:07Z",
+    "url": "https://github.com/Thepizzapie/BuildersGate"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T06:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -36,15 +135,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 48,
-    "updated_at": "2026-07-29T05:52:30Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
@@ -70,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T05:52:14Z",
     "url": "https://github.com/0bserver07/chimera"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7859,
-    "updated_at": "2026-07-29T05:51:40Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -108,15 +189,6 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T05:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c\u3001\u56db\u5957\u79bb\u7ebf eval\u3001Harness \u8f68\u8ff9\u3001\u8de8\u4ed3\u95ed\u73af\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
     "id": "weihuaguo270-ops/react-agent",
     "language": "Python",
@@ -131,7 +203,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-29T05:53:02Z",
+    "updated_at": "2026-07-29T06:10:59Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -266,7 +338,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-29T04:47:38Z",
+    "updated_at": "2026-07-29T06:14:23Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -360,24 +432,6 @@
     "url": "https://github.com/aparry3/agntz"
   },
   {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1166,
-    "updated_at": "2026-07-29T03:47:21Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
-    "id": "Thepizzapie/BuildersGate",
-    "language": "Python",
-    "name": "Thepizzapie/BuildersGate",
-    "stars": 2,
-    "updated_at": "2026-07-29T03:35:21Z",
-    "url": "https://github.com/Thepizzapie/BuildersGate"
-  },
-  {
     "description": "EviBack: Reinforcement Learning Search Agents via Evidence-Constrained Teacher Backoff",
     "id": "chery-nextai/eviback",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T03:24:36Z",
     "url": "https://github.com/gopact-ai/gopact-ext"
-  },
-  {
-    "description": "Turn any skill into a standalone, runnable RAG-native AI Agent",
-    "id": "agenthatch/agenthatch",
-    "language": "Python",
-    "name": "agenthatch/agenthatch",
-    "stars": 61,
-    "updated_at": "2026-07-29T03:23:57Z",
-    "url": "https://github.com/agenthatch/agenthatch"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 10,
-    "updated_at": "2026-07-29T03:27:03Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6673,
-    "updated_at": "2026-07-29T03:21:27Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Self-hosted, privacy-first AI collaborator with durable memory, real tools, channel-native access, routines, and auditab",
-    "id": "RNT56/ThinClaw",
-    "language": "Rust",
-    "name": "RNT56/ThinClaw",
-    "stars": 1,
-    "updated_at": "2026-07-29T03:21:46Z",
-    "url": "https://github.com/RNT56/ThinClaw"
-  },
-  {
-    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
-    "id": "joseym/salvor",
-    "language": "Rust",
-    "name": "joseym/salvor",
-    "stars": 3,
-    "updated_at": "2026-07-29T03:20:45Z",
-    "url": "https://github.com/joseym/salvor"
-  },
-  {
-    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
-    "id": "ulsreall/web3-agent-kit",
-    "language": "Python",
-    "name": "ulsreall/web3-agent-kit",
-    "stars": 18,
-    "updated_at": "2026-07-29T03:19:00Z",
-    "url": "https://github.com/ulsreall/web3-agent-kit"
   }
 ]
