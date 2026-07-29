@@ -1,11 +1,92 @@
 [
   {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 2,
+    "updated_at": "2026-07-29T22:29:54Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 0,
+    "updated_at": "2026-07-29T22:27:58Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7890,
+    "updated_at": "2026-07-29T22:26:24Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 580,
+    "updated_at": "2026-07-29T22:24:05Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 1,
+    "updated_at": "2026-07-29T22:23:42Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Local-first Python toolkit for parallel Claude and LLM agent orchestration: consensus voting, stigmergy, boss-worker swa",
+    "id": "ellmos-ai/swarm-ai",
+    "language": "Python",
+    "name": "ellmos-ai/swarm-ai",
+    "stars": 2,
+    "updated_at": "2026-07-29T22:21:15Z",
+    "url": "https://github.com/ellmos-ai/swarm-ai"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 6,
+    "updated_at": "2026-07-29T22:23:35Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 330,
+    "updated_at": "2026-07-29T22:16:55Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-29T22:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 3,
-    "updated_at": "2026-07-29T22:13:29Z",
+    "updated_at": "2026-07-29T22:24:08Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -36,58 +117,13 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 0,
-    "updated_at": "2026-07-29T22:07:47Z",
-    "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 2,
-    "updated_at": "2026-07-29T22:07:40Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 1,
-    "updated_at": "2026-07-29T22:06:55Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 45,
-    "updated_at": "2026-07-29T22:03:05Z",
+    "updated_at": "2026-07-29T22:24:13Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-29T22:03:00Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7889,
-    "updated_at": "2026-07-29T22:03:49Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -160,15 +196,6 @@
     "stars": 5,
     "updated_at": "2026-07-29T21:54:42Z",
     "url": "https://github.com/agents-inc/cli"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 6,
-    "updated_at": "2026-07-29T22:14:11Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Cotrex is an open-source AI execution engine that enables LLMs to securely use tools, execute tasks, and automate real-w",
@@ -252,13 +279,13 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 580,
-    "updated_at": "2026-07-29T21:18:35Z",
-    "url": "https://github.com/aeonfun/aeon"
+    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 610,
+    "updated_at": "2026-07-29T21:05:03Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
@@ -387,15 +414,6 @@
     "url": "https://github.com/hustfreefly/deepflow"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 330,
-    "updated_at": "2026-07-29T19:49:26Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
     "id": "pavanbadempet/AI-Healthcare-System",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-29T19:39:30Z",
     "url": "https://github.com/joseym/salvor"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18880,
-    "updated_at": "2026-07-29T22:05:14Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
-    "id": "Omni-Craft/OmniCraft",
-    "language": "Python",
-    "name": "Omni-Craft/OmniCraft",
-    "stars": 1,
-    "updated_at": "2026-07-29T19:25:23Z",
-    "url": "https://github.com/Omni-Craft/OmniCraft"
   }
 ]
