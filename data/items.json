@@ -1,30 +1,84 @@
 [
   {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
     "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4812,
-    "updated_at": "2026-07-29T09:28:54Z",
-    "url": "https://github.com/ag2ai/ag2"
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-29T09:40:42Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 4788,
-    "updated_at": "2026-07-29T09:30:16Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 1,
+    "updated_at": "2026-07-29T09:40:26Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 154,
+    "updated_at": "2026-07-29T09:35:34Z",
+    "url": "https://github.com/skerry699/agent-symphony"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7872,
-    "updated_at": "2026-07-29T09:26:51Z",
+    "stars": 7873,
+    "updated_at": "2026-07-29T09:30:33Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
+    "id": "Carrara-Labs/delta-harness",
+    "language": "TypeScript",
+    "name": "Carrara-Labs/delta-harness",
+    "stars": 0,
+    "updated_at": "2026-07-29T09:30:31Z",
+    "url": "https://github.com/Carrara-Labs/delta-harness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T09:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 4789,
+    "updated_at": "2026-07-29T09:30:16Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-29T09:30:03Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4812,
+    "updated_at": "2026-07-29T09:31:43Z",
+    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
@@ -50,7 +104,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-29T09:21:48Z",
+    "updated_at": "2026-07-29T09:45:19Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -90,21 +144,12 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T09:15:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-29T09:15:08Z",
+    "updated_at": "2026-07-29T09:43:34Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 7,
-    "updated_at": "2026-07-29T09:12:52Z",
+    "updated_at": "2026-07-29T09:43:50Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "NSIETeam/Mira",
     "stars": 1,
-    "updated_at": "2026-07-29T09:20:01Z",
+    "updated_at": "2026-07-29T09:43:28Z",
     "url": "https://github.com/NSIETeam/Mira"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 17,
     "updated_at": "2026-07-29T08:42:15Z",
     "url": "https://github.com/staruhub/CrewClaw"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-29T09:27:40Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
@@ -320,7 +356,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4933,
-    "updated_at": "2026-07-29T07:51:44Z",
+    "updated_at": "2026-07-29T09:41:21Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -401,7 +437,7 @@
     "language": "TypeScript",
     "name": "ggui-ai/ggui",
     "stars": 38,
-    "updated_at": "2026-07-29T07:26:48Z",
+    "updated_at": "2026-07-29T09:44:22Z",
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-29T07:23:53Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "The agent framework where every run is durable, replayable, and resumable by default.",
-    "id": "ThousandBirdsInc/chidori",
-    "language": "Rust",
-    "name": "ThousandBirdsInc/chidori",
-    "stars": 1362,
-    "updated_at": "2026-07-29T07:20:01Z",
-    "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
-    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
-    "id": "BrainoutputHQ/brainoutput-community",
-    "language": "JavaScript",
-    "name": "BrainoutputHQ/brainoutput-community",
-    "stars": 1,
-    "updated_at": "2026-07-29T07:17:55Z",
-    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
-  },
-  {
-    "description": "Persistent memory and context management for AI agents. Enable long-term recall, session continuity, and consistent beha",
-    "id": "emsoftanalytics/MARK-SDK",
-    "language": "Python",
-    "name": "emsoftanalytics/MARK-SDK",
-    "stars": 1,
-    "updated_at": "2026-07-29T07:15:10Z",
-    "url": "https://github.com/emsoftanalytics/MARK-SDK"
-  },
-  {
-    "description": "Provider-neutral bounded agent runtime for Android/JVM: controlled context (trust/priority/budgets), profile-scoped tool",
-    "id": "susyimes/android-agent-harness",
-    "language": "Kotlin",
-    "name": "susyimes/android-agent-harness",
-    "stars": 13,
-    "updated_at": "2026-07-29T07:13:34Z",
-    "url": "https://github.com/susyimes/android-agent-harness"
   }
 ]
