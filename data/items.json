@@ -1,11 +1,74 @@
 [
   {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 7,
+    "updated_at": "2026-07-29T04:44:42Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7857,
+    "updated_at": "2026-07-29T04:43:40Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4812,
+    "updated_at": "2026-07-29T04:43:07Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18873,
+    "updated_at": "2026-07-29T04:43:04Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
+    "id": "NSIETeam/Mira",
+    "language": "Python",
+    "name": "NSIETeam/Mira",
+    "stars": 1,
+    "updated_at": "2026-07-29T04:41:53Z",
+    "url": "https://github.com/NSIETeam/Mira"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 8,
+    "updated_at": "2026-07-29T04:36:49Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-07-29T04:31:06Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-07-29T04:29:01Z",
+    "updated_at": "2026-07-29T04:30:35Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -54,15 +117,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
-    "id": "NSIETeam/Mira",
-    "language": "Python",
-    "name": "NSIETeam/Mira",
-    "stars": 1,
-    "updated_at": "2026-07-29T04:13:32Z",
-    "url": "https://github.com/NSIETeam/Mira"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -81,15 +135,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18873,
-    "updated_at": "2026-07-29T04:07:49Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T04:07:38Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 8,
-    "updated_at": "2026-07-29T04:07:23Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
@@ -153,15 +189,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7857,
-    "updated_at": "2026-07-29T04:18:14Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
@@ -176,7 +203,7 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1603,
-    "updated_at": "2026-07-29T03:37:14Z",
+    "updated_at": "2026-07-29T04:39:48Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -369,15 +396,6 @@
     "url": "https://github.com/Omni-Craft/OmniCraft"
   },
   {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4812,
-    "updated_at": "2026-07-29T02:58:38Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
     "description": "COMA is an LLM agent harness written entirely in Zig.",
     "id": "mrazza/coma",
     "language": "Zig",
@@ -419,7 +437,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 45,
-    "updated_at": "2026-07-29T03:45:21Z",
+    "updated_at": "2026-07-29T04:42:48Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 154,
     "updated_at": "2026-07-29T02:13:15Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
-    "id": "ayman3000/SwiftAgentKit",
-    "language": "Swift",
-    "name": "ayman3000/SwiftAgentKit",
-    "stars": 0,
-    "updated_at": "2026-07-29T02:40:57Z",
-    "url": "https://github.com/ayman3000/SwiftAgentKit"
-  },
-  {
-    "description": "A reasoning-first idle engine for persistent LLM agents. Behaviour emerges from the agent reasoning about its idle state",
-    "id": "freeze1999/reverie-automata",
-    "language": "Python",
-    "name": "freeze1999/reverie-automata",
-    "stars": 2,
-    "updated_at": "2026-07-29T02:04:30Z",
-    "url": "https://github.com/freeze1999/reverie-automata"
   }
 ]
