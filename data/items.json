@@ -1,12 +1,75 @@
 [
   {
+    "description": "14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) \u2014 deploy your virtual C-Suite in one git clone",
+    "id": "aAAaqwq/AGI-Super-Team",
+    "language": "Python",
+    "name": "aAAaqwq/AGI-Super-Team",
+    "stars": 80,
+    "updated_at": "2026-07-29T03:59:28Z",
+    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 8,
+    "updated_at": "2026-07-29T03:55:38Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 287,
+    "updated_at": "2026-07-29T03:55:04Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
     "description": "Portable YAML agents for TypeScript and Python, with embedded execution, hosted APIs, evals, traces, and durable memory.",
     "id": "aparry3/agntz",
     "language": "TypeScript",
     "name": "aparry3/agntz",
     "stars": 0,
-    "updated_at": "2026-07-29T03:45:24Z",
+    "updated_at": "2026-07-29T03:58:04Z",
     "url": "https://github.com/aparry3/agntz"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 48,
+    "updated_at": "2026-07-29T03:51:11Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 74,
+    "updated_at": "2026-07-29T03:53:42Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 326,
+    "updated_at": "2026-07-29T03:46:02Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T03:45:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7857,
-    "updated_at": "2026-07-29T03:44:28Z",
+    "updated_at": "2026-07-29T03:52:58Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18873,
-    "updated_at": "2026-07-29T03:42:35Z",
+    "updated_at": "2026-07-29T03:47:22Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
     "stars": 1166,
-    "updated_at": "2026-07-29T03:41:28Z",
+    "updated_at": "2026-07-29T03:47:21Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/chery-nextai/eviback"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T03:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
     "id": "NSIETeam/Mira",
     "language": "Python",
@@ -88,15 +142,6 @@
     "stars": 12476,
     "updated_at": "2026-07-29T03:27:48Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) \u2014 deploy your virtual C-Suite in one git clone",
-    "id": "aAAaqwq/AGI-Super-Team",
-    "language": "Python",
-    "name": "aAAaqwq/AGI-Super-Team",
-    "stars": 80,
-    "updated_at": "2026-07-29T03:26:07Z",
-    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
   },
   {
     "description": "Official extensions for gopact",
@@ -220,7 +265,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4928,
+    "stars": 4929,
     "updated_at": "2026-07-29T03:08:15Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -252,15 +297,6 @@
     "url": "https://github.com/sweatco/archie-hq"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 326,
-    "updated_at": "2026-07-29T02:59:56Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
     "id": "Omni-Craft/OmniCraft",
     "language": "Python",
@@ -279,15 +315,6 @@
     "url": "https://github.com/ag2ai/ag2"
   },
   {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 287,
-    "updated_at": "2026-07-29T02:55:29Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
     "description": "COMA is an LLM agent harness written entirely in Zig.",
     "id": "mrazza/coma",
     "language": "Zig",
@@ -301,7 +328,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46349,
+    "stars": 46351,
     "updated_at": "2026-07-29T02:38:16Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -349,24 +376,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T02:40:57Z",
     "url": "https://github.com/ayman3000/SwiftAgentKit"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 8,
-    "updated_at": "2026-07-29T02:09:12Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 74,
-    "updated_at": "2026-07-29T03:36:22Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "A reasoning-first idle engine for persistent LLM agents. Behaviour emerges from the agent reasoning about its idle state",
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-29T01:38:41Z",
     "url": "https://github.com/aandbcct/dotClaw"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2216,
-    "updated_at": "2026-07-29T01:28:47Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   }
 ]
