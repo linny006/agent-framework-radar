@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-29 04:28 UTC
+> ⏰ Last updated: 2026-07-29 04:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [rhein1/agoragentic-integrations](https://github.com/rhein1/agoragentic-integrations) | 26 | JavaScript | 2026-07-29 | Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w |
-| 2 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 74 | TypeScript | 2026-07-29 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 3 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-07-29 | Research framework for adaptive, purposeful agents under uncertainty |
-| 4 | [ellmos-ai/ellmos-tests](https://github.com/ellmos-ai/ellmos-tests) | 2 | Python | 2026-07-29 | B/O/E evaluation framework for SKILL.md-based LLM operating systems and agent hubs |
-| 5 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-07-29 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-07-29 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [rhein1/agoragentic-integrations](https://github.com/rhein1/agoragentic-integrations) | 26 | JavaScript | 2026-07-29 | Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w |
+| 3 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 74 | TypeScript | 2026-07-29 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 4 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-07-29 | Research framework for adaptive, purposeful agents under uncertainty |
+| 5 | [ellmos-ai/ellmos-tests](https://github.com/ellmos-ai/ellmos-tests) | 2 | Python | 2026-07-29 | B/O/E evaluation framework for SKILL.md-based LLM operating systems and agent hubs |
 | 6 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 1 | HTML | 2026-07-29 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
 | 7 | [NSIETeam/Mira](https://github.com/NSIETeam/Mira) | 1 | Python | 2026-07-29 | Mira — Lightweight AI Agent Execution Kernel \| 轻量级 AI Agent 执行内核。自托管、多模型、多通道、工具调用、持久记忆、定时自动化。 |
 | 8 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-07-29 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
