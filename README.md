@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-29 12:15 UTC
+> ⏰ Last updated: 2026-07-29 12:18 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 74 | TypeScript | 2026-07-29 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 2 | [brunogcar/agent](https://github.com/brunogcar/agent) | 1 | Python | 2026-07-29 | Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline  |
-| 3 | [japo0nn/jumabek](https://github.com/japo0nn/jumabek) | 0 | Rust | 2026-07-29 | A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones  |
-| 4 | [NekomyaDev/nudge](https://github.com/NekomyaDev/nudge) | 3 | Rust | 2026-07-29 | Nudge — a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a |
-| 5 | [iduyuhe/zhiyan-evolviq](https://github.com/iduyuhe/zhiyan-evolviq) | 4 | Python | 2026-07-29 | 智衍 EvolvIQ —— 面向制造业的工业 AI 原生智能体平台。基座 + 11 个工业 Agent（供应链/良率/质量追溯/DFM/OEE/设备维护等），支持 MCP 能力联邦、OPC-UA/Modbus/MQTT 工业协议网关与 Ne |
-| 6 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 4788 | Java | 2026-07-29 | Build distributed, production-grade, long-running agents. |
-| 7 | [codewandler/flux](https://github.com/codewandler/flux) | 1 | Rust | 2026-07-29 | A Rust agent SDK, harness, and coding agent — safe by construction (non-bypassable authorization → approval → guarded IO |
-| 8 | [jiayan-xu/agent-core](https://github.com/jiayan-xu/agent-core) | 2 | Rust | 2026-07-29 | Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust. |
-| 9 | [achappey/aihappey-chat](https://github.com/achappey/aihappey-chat) | 3 | TypeScript | 2026-07-29 | Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a |
-| 10 | [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) | 1172 | Python | 2026-07-29 | Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model. |
-| 11 | [edrc-shawn/lingtai-mcp](https://github.com/edrc-shawn/lingtai-mcp) | 1 | Python | 2026-07-29 | Self-evolving knowledge management system: Obsidian vault + a zero-dependency MCP server (86 tools). Refines raw materia |
-| 12 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18877 | Python | 2026-07-29 | AI Agent Framework, the Pydantic way |
-| 13 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 327 | Python | 2026-07-29 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
-| 14 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6729 | Python | 2026-07-29 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 15 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-29 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 2 | Python | 2026-07-29 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [jiayan-xu/agent-core](https://github.com/jiayan-xu/agent-core) | 2 | Rust | 2026-07-29 | Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust. |
+| 3 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 74 | TypeScript | 2026-07-29 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 4 | [brunogcar/agent](https://github.com/brunogcar/agent) | 1 | Python | 2026-07-29 | Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline  |
+| 5 | [japo0nn/jumabek](https://github.com/japo0nn/jumabek) | 0 | Rust | 2026-07-29 | A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones  |
+| 6 | [NekomyaDev/nudge](https://github.com/NekomyaDev/nudge) | 3 | Rust | 2026-07-29 | Nudge — a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a |
+| 7 | [iduyuhe/zhiyan-evolviq](https://github.com/iduyuhe/zhiyan-evolviq) | 4 | Python | 2026-07-29 | 智衍 EvolvIQ —— 面向制造业的工业 AI 原生智能体平台。基座 + 11 个工业 Agent（供应链/良率/质量追溯/DFM/OEE/设备维护等），支持 MCP 能力联邦、OPC-UA/Modbus/MQTT 工业协议网关与 Ne |
+| 8 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 4788 | Java | 2026-07-29 | Build distributed, production-grade, long-running agents. |
+| 9 | [codewandler/flux](https://github.com/codewandler/flux) | 1 | Rust | 2026-07-29 | A Rust agent SDK, harness, and coding agent — safe by construction (non-bypassable authorization → approval → guarded IO |
+| 10 | [achappey/aihappey-chat](https://github.com/achappey/aihappey-chat) | 3 | TypeScript | 2026-07-29 | Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a |
+| 11 | [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) | 1172 | Python | 2026-07-29 | Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model. |
+| 12 | [edrc-shawn/lingtai-mcp](https://github.com/edrc-shawn/lingtai-mcp) | 1 | Python | 2026-07-29 | Self-evolving knowledge management system: Obsidian vault + a zero-dependency MCP server (86 tools). Refines raw materia |
+| 13 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 18877 | Python | 2026-07-29 | AI Agent Framework, the Pydantic way |
+| 14 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 327 | Python | 2026-07-29 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
+| 15 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6729 | Python | 2026-07-29 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 16 | [skerry699/agent-symphony](https://github.com/skerry699/agent-symphony) | 154 | HTML | 2026-07-29 | Multi-Agent AI Task Orchestrator 2026 |
 | 17 | [Caprista/KarvyLoop](https://github.com/Caprista/KarvyLoop) | 10 | Python | 2026-07-29 | The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a |
 | 18 | [Carrara-Labs/delta-harness](https://github.com/Carrara-Labs/delta-harness) | 0 | TypeScript | 2026-07-29 | Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self |
@@ -85,7 +85,7 @@ expired items removed — so you can rely on what you see being current.
 | 41 | [fablerlabs/mainspring](https://github.com/fablerlabs/mainspring) | 3 | TypeScript | 2026-07-29 | An open-source operating system for long-lived, autonomous, revenue-generating agent businesses — memory, money, and gov |
 | 42 | [Yigtwxx/Maestro](https://github.com/Yigtwxx/Maestro) | 3 | Python | 2026-07-29 | Orchestrate armies of AI agents from a single prompt. Open-core, bring-your-own-key, and self-hostable — Orchestrator ro |
 | 43 | [bbvch-ai/aihub-core](https://github.com/bbvch-ai/aihub-core) | 9 | Python | 2026-07-29 | The open-source AI infrastructure stack for Swiss enterprises. |
-| 44 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 46369 | Python | 2026-07-29 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
+| 44 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 46370 | Python | 2026-07-29 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
 | 45 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 1 | HTML | 2026-07-29 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
 | 46 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 2 | HTML | 2026-07-29 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
 | 47 | [ownware-ai/ownware](https://github.com/ownware-ai/ownware) | 5 | TypeScript | 2026-07-29 | The open, model-agnostic platform to build your own AI agent and run it everywhere — self-hosted, safe by default. |
