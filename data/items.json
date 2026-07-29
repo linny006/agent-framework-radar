@@ -1,12 +1,75 @@
 [
   {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 3,
+    "updated_at": "2026-07-29T23:27:53Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
     "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
     "id": "danmo-ai/danmo-work",
     "language": "Go",
     "name": "danmo-ai/danmo-work",
     "stars": 3,
-    "updated_at": "2026-07-29T23:14:46Z",
+    "updated_at": "2026-07-29T23:29:40Z",
     "url": "https://github.com/danmo-ai/danmo-work"
+  },
+  {
+    "description": "Agent orchestration engine built on a Cyclic State Graph",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 2,
+    "updated_at": "2026-07-29T23:22:36Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 45,
+    "updated_at": "2026-07-29T23:21:15Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 6,
+    "updated_at": "2026-07-29T23:29:34Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-07-29T23:16:09Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 9,
+    "updated_at": "2026-07-29T23:16:00Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
+    "id": "open1s/bos",
+    "language": "Rust",
+    "name": "open1s/bos",
+    "stars": 1,
+    "updated_at": "2026-07-29T23:15:56Z",
+    "url": "https://github.com/open1s/bos"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 2,
-    "updated_at": "2026-07-29T23:12:11Z",
+    "updated_at": "2026-07-29T23:15:27Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -59,17 +122,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18881,
-    "updated_at": "2026-07-29T23:10:39Z",
+    "updated_at": "2026-07-29T23:27:57Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 6,
-    "updated_at": "2026-07-29T23:05:12Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -88,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T22:57:49Z",
     "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 2,
-    "updated_at": "2026-07-29T22:56:46Z",
-    "url": "https://github.com/ellmos-ai/skills"
   },
   {
     "description": "",
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7892,
-    "updated_at": "2026-07-29T23:08:39Z",
+    "updated_at": "2026-07-29T23:28:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -221,7 +266,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 3,
-    "updated_at": "2026-07-29T22:24:08Z",
+    "updated_at": "2026-07-29T23:28:57Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -234,15 +279,6 @@
     "url": "https://github.com/brunogcar/agent"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-07-29T22:12:29Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -250,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T22:08:02Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 45,
-    "updated_at": "2026-07-29T22:24:13Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12489,
-    "updated_at": "2026-07-29T23:14:23Z",
+    "updated_at": "2026-07-29T23:17:22Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-29T20:24:28Z",
     "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "Ready-to-use AI agents for AgentsKit \u2014 shadcn-style: copy the source into your project. registry.agentskit.io",
-    "id": "AgentsKit-io/agentskit-registry",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit-registry",
-    "stars": 4,
-    "updated_at": "2026-07-29T20:14:55Z",
-    "url": "https://github.com/AgentsKit-io/agentskit-registry"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 4,
-    "updated_at": "2026-07-29T20:04:22Z",
-    "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 284,
-    "updated_at": "2026-07-29T19:59:26Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   }
 ]
