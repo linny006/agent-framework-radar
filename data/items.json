@@ -1,5 +1,104 @@
 [
   {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 2,
+    "updated_at": "2026-07-29T08:26:18Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
+    "id": "NSIETeam/Mira",
+    "language": "Python",
+    "name": "NSIETeam/Mira",
+    "stars": 1,
+    "updated_at": "2026-07-29T08:25:04Z",
+    "url": "https://github.com/NSIETeam/Mira"
+  },
+  {
+    "description": "CrewClaw is the digital worker for your workspace",
+    "id": "staruhub/CrewClaw",
+    "language": "JavaScript",
+    "name": "staruhub/CrewClaw",
+    "stars": 17,
+    "updated_at": "2026-07-29T08:24:43Z",
+    "url": "https://github.com/staruhub/CrewClaw"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7866,
+    "updated_at": "2026-07-29T08:29:38Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Orchestrate armies of AI agents from a single prompt. Open-core, bring-your-own-key, and self-hostable \u2014 Orchestrator ro",
+    "id": "Yigtwxx/Maestro",
+    "language": "Python",
+    "name": "Yigtwxx/Maestro",
+    "stars": 3,
+    "updated_at": "2026-07-29T08:24:31Z",
+    "url": "https://github.com/Yigtwxx/Maestro"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 48,
+    "updated_at": "2026-07-29T08:22:52Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 8,
+    "updated_at": "2026-07-29T08:22:51Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 7,
+    "updated_at": "2026-07-29T08:22:29Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 177,
+    "updated_at": "2026-07-29T08:15:37Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T08:15:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18875,
+    "updated_at": "2026-07-29T08:29:07Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
@@ -18,33 +117,6 @@
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
-    "description": "CrewClaw is the digital worker for your workspace",
-    "id": "staruhub/CrewClaw",
-    "language": "JavaScript",
-    "name": "staruhub/CrewClaw",
-    "stars": 17,
-    "updated_at": "2026-07-29T08:05:14Z",
-    "url": "https://github.com/staruhub/CrewClaw"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 48,
-    "updated_at": "2026-07-29T08:03:23Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T08:00:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -52,33 +124,6 @@
     "stars": 6727,
     "updated_at": "2026-07-29T08:00:07Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7866,
-    "updated_at": "2026-07-29T08:14:17Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 7,
-    "updated_at": "2026-07-29T07:56:41Z",
-    "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "Orchestrate armies of AI agents from a single prompt. Open-core, bring-your-own-key, and self-hostable \u2014 Orchestrator ro",
-    "id": "Yigtwxx/Maestro",
-    "language": "Python",
-    "name": "Yigtwxx/Maestro",
-    "stars": 3,
-    "updated_at": "2026-07-29T07:54:18Z",
-    "url": "https://github.com/Yigtwxx/Maestro"
   },
   {
     "description": "Self-hosted AI agents with a web UI \u2014 extend with Python/JS tools & MCP, schedule with cron Jobs, publish as public chat",
@@ -94,7 +139,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46358,
+    "stars": 46359,
     "updated_at": "2026-07-29T07:53:04Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -115,15 +160,6 @@
     "stars": 608,
     "updated_at": "2026-07-29T07:49:16Z",
     "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
-    "id": "NSIETeam/Mira",
-    "language": "Python",
-    "name": "NSIETeam/Mira",
-    "stars": 1,
-    "updated_at": "2026-07-29T07:46:43Z",
-    "url": "https://github.com/NSIETeam/Mira"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -194,7 +230,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-29T08:12:43Z",
+    "updated_at": "2026-07-29T08:25:00Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -274,18 +310,9 @@
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 4784,
+    "stars": 4785,
     "updated_at": "2026-07-29T07:14:39Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 8,
-    "updated_at": "2026-07-29T07:14:24Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "Provider-neutral bounded agent runtime for Android/JVM: controlled context (trust/priority/budgets), profile-scoped tool",
@@ -311,7 +338,7 @@
     "language": "TypeScript",
     "name": "junebuild/june",
     "stars": 3,
-    "updated_at": "2026-07-29T07:04:24Z",
+    "updated_at": "2026-07-29T08:29:05Z",
     "url": "https://github.com/junebuild/june"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T06:08:33Z",
     "url": "https://github.com/achappey/aihappey-agents"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 3,
-    "updated_at": "2026-07-29T07:26:59Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1166,
-    "updated_at": "2026-07-29T06:18:53Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "A lightweight, protocol-based AI agent framework with LangChain/LangGraph integration, powered by Pico-IoC dependency in",
-    "id": "dperezcabrera/pico-agent",
-    "language": "Python",
-    "name": "dperezcabrera/pico-agent",
-    "stars": 2,
-    "updated_at": "2026-07-29T06:02:56Z",
-    "url": "https://github.com/dperezcabrera/pico-agent"
   }
 ]
