@@ -1,12 +1,39 @@
 [
   {
-    "description": "Ready-to-use AI agents for AgentsKit \u2014 shadcn-style: copy the source into your project. registry.agentskit.io",
-    "id": "AgentsKit-io/agentskit-registry",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit-registry",
-    "stars": 4,
-    "updated_at": "2026-07-29T20:14:55Z",
-    "url": "https://github.com/AgentsKit-io/agentskit-registry"
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 2,
+    "updated_at": "2026-07-29T20:28:26Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7889,
+    "updated_at": "2026-07-29T20:28:13Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Multi-agent orchestration framework \u2014 design AI teams in YAML, route tasks to cheap or expensive models by role",
+    "id": "ErfanMomeniii/openswarm",
+    "language": "Python",
+    "name": "ErfanMomeniii/openswarm",
+    "stars": 2,
+    "updated_at": "2026-07-29T20:27:23Z",
+    "url": "https://github.com/ErfanMomeniii/openswarm"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-07-29T20:24:28Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
     "description": "An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation \u2014 out of one git rep",
@@ -14,8 +41,35 @@
     "language": "Python",
     "name": "jamillazarev/opsinist",
     "stars": 0,
-    "updated_at": "2026-07-29T20:13:42Z",
+    "updated_at": "2026-07-29T20:20:23Z",
     "url": "https://github.com/jamillazarev/opsinist"
+  },
+  {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 3,
+    "updated_at": "2026-07-29T20:20:10Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-29T20:15:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Ready-to-use AI agents for AgentsKit \u2014 shadcn-style: copy the source into your project. registry.agentskit.io",
+    "id": "AgentsKit-io/agentskit-registry",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit-registry",
+    "stars": 4,
+    "updated_at": "2026-07-29T20:14:55Z",
+    "url": "https://github.com/AgentsKit-io/agentskit-registry"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -49,8 +103,8 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12487,
-    "updated_at": "2026-07-29T20:07:15Z",
+    "stars": 12488,
+    "updated_at": "2026-07-29T20:23:42Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -90,15 +144,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-29T20:00:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
     "id": "ucsandman/DashClaw",
     "language": "TypeScript",
@@ -115,15 +160,6 @@
     "stars": 6,
     "updated_at": "2026-07-29T19:58:38Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 3,
-    "updated_at": "2026-07-29T20:14:11Z",
-    "url": "https://github.com/NekomyaDev/nudge"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18880,
-    "updated_at": "2026-07-29T19:58:21Z",
+    "updated_at": "2026-07-29T20:22:42Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T19:18:46Z",
     "url": "https://github.com/guygrigsby/claude-plugins"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-07-29T20:02:47Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
     "description": "The fully self-hostable, open composable platform for agent orchestration and human collaboration. With tools, security,",
@@ -328,7 +355,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 5449,
+    "stars": 5450,
     "updated_at": "2026-07-29T19:03:10Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -349,15 +376,6 @@
     "stars": 7,
     "updated_at": "2026-07-29T19:01:18Z",
     "url": "https://github.com/sattyamjjain/ferrumdeck"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7887,
-    "updated_at": "2026-07-29T20:11:14Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A comprehensive, cross-platform AI agent builder \u2014 design, build, test, and deploy AI agents with any LLM provider. 6 pr",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-29T18:16:48Z",
     "url": "https://github.com/Abdur-Rafay-AR/crucible"
-  },
-  {
-    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
-    "id": "truvaagents/truva-g3",
-    "language": "Go",
-    "name": "truvaagents/truva-g3",
-    "stars": 13,
-    "updated_at": "2026-07-29T18:12:55Z",
-    "url": "https://github.com/truvaagents/truva-g3"
-  },
-  {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 2,
-    "updated_at": "2026-07-29T18:09:03Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   }
 ]
