@@ -1,11 +1,38 @@
 [
   {
+    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 12,
+    "updated_at": "2026-07-29T17:40:16Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-07-29T17:37:00Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-29T17:36:03Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 5445,
-    "updated_at": "2026-07-29T17:35:51Z",
+    "updated_at": "2026-07-29T17:38:28Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -14,17 +41,17 @@
     "language": "Rust",
     "name": "RNT56/ThinClaw",
     "stars": 1,
-    "updated_at": "2026-07-29T17:35:17Z",
+    "updated_at": "2026-07-29T17:39:35Z",
     "url": "https://github.com/RNT56/ThinClaw"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-29T17:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "Aureliolo/synthorg",
+    "stars": 8,
+    "updated_at": "2026-07-29T17:34:02Z",
+    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -112,7 +139,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46379,
+    "stars": 46380,
     "updated_at": "2026-07-29T17:13:38Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -131,7 +158,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 45,
-    "updated_at": "2026-07-29T17:10:56Z",
+    "updated_at": "2026-07-29T17:43:30Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -198,15 +225,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 8,
-    "updated_at": "2026-07-29T17:34:02Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18880,
-    "updated_at": "2026-07-29T17:31:47Z",
+    "updated_at": "2026-07-29T17:43:09Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Go",
     "name": "KPO-Tech/seshat",
     "stars": 5,
-    "updated_at": "2026-07-29T17:33:11Z",
+    "updated_at": "2026-07-29T17:43:19Z",
     "url": "https://github.com/KPO-Tech/seshat"
   },
   {
@@ -387,15 +405,6 @@
     "url": "https://github.com/Omni-Craft/OmniCraft"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-07-29T16:07:30Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 24,
     "updated_at": "2026-07-29T15:53:16Z",
     "url": "https://github.com/WhitzardAgent/qitos"
-  },
-  {
-    "description": "A deterministic DSL for replayable, host-governed decision rules.",
-    "id": "AetherAI3/Nano",
-    "language": "Python",
-    "name": "AetherAI3/Nano",
-    "stars": 4,
-    "updated_at": "2026-07-29T15:52:04Z",
-    "url": "https://github.com/AetherAI3/Nano"
   }
 ]
