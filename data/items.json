@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "NSIETeam/Mira",
     "stars": 1,
-    "updated_at": "2026-07-29T00:58:48Z",
+    "updated_at": "2026-07-29T01:07:22Z",
     "url": "https://github.com/NSIETeam/Mira"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-07-29T01:05:37Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T01:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4928,
+    "updated_at": "2026-07-29T01:00:19Z",
+    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7854,
-    "updated_at": "2026-07-29T00:56:07Z",
+    "updated_at": "2026-07-29T01:03:23Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -85,7 +112,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 5194,
+    "stars": 5198,
     "updated_at": "2026-07-29T00:51:31Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-29T00:56:31Z",
+    "updated_at": "2026-07-29T01:06:05Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 2216,
     "updated_at": "2026-07-29T00:47:50Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T00:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "DemonDamon/AgenticX",
     "stars": 196,
-    "updated_at": "2026-07-29T00:10:01Z",
+    "updated_at": "2026-07-29T01:07:20Z",
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1166,
     "updated_at": "2026-07-28T22:48:28Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 325,
-    "updated_at": "2026-07-28T22:28:43Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
-    "id": "danmo-ai/danmo-work",
-    "language": "Go",
-    "name": "danmo-ai/danmo-work",
-    "stars": 3,
-    "updated_at": "2026-07-28T22:22:15Z",
-    "url": "https://github.com/danmo-ai/danmo-work"
   }
 ]
