@@ -1,12 +1,84 @@
 [
   {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
+    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
+    "id": "NSIETeam/Mira",
+    "language": "Python",
+    "name": "NSIETeam/Mira",
+    "stars": 1,
+    "updated_at": "2026-07-29T01:30:16Z",
+    "url": "https://github.com/NSIETeam/Mira"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
     "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 287,
-    "updated_at": "2026-07-29T01:15:05Z",
-    "url": "https://github.com/ucsandman/DashClaw"
+    "name": "JKHeadley/instar",
+    "stars": 74,
+    "updated_at": "2026-07-29T01:29:06Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2216,
+    "updated_at": "2026-07-29T01:28:47Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 16,
+    "updated_at": "2026-07-29T01:28:53Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
+    "id": "Thepizzapie/BuildersGate",
+    "language": "Python",
+    "name": "Thepizzapie/BuildersGate",
+    "stars": 0,
+    "updated_at": "2026-07-29T01:24:42Z",
+    "url": "https://github.com/Thepizzapie/BuildersGate"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1166,
+    "updated_at": "2026-07-29T01:23:52Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 2,
+    "updated_at": "2026-07-29T01:22:49Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 3,
+    "updated_at": "2026-07-29T01:22:29Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Framework-agnostic Markdown + JSON Schema specifications for AI Agent tools \u2014 compatible with LangChain, CrewAI, OpenAI ",
+    "id": "iszgroup/ai-agent-skills-spec",
+    "language": "\u2014",
+    "name": "iszgroup/ai-agent-skills-spec",
+    "stars": 0,
+    "updated_at": "2026-07-29T01:22:27Z",
+    "url": "https://github.com/iszgroup/ai-agent-skills-spec"
   },
   {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
@@ -14,8 +86,26 @@
     "language": "Python",
     "name": "Dream-Pixels-Forge/memorius",
     "stars": 1,
-    "updated_at": "2026-07-29T01:14:56Z",
+    "updated_at": "2026-07-29T01:22:15Z",
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
+    "id": "truvaagents/truva-g3",
+    "language": "Go",
+    "name": "truvaagents/truva-g3",
+    "stars": 13,
+    "updated_at": "2026-07-29T01:22:47Z",
+    "url": "https://github.com/truvaagents/truva-g3"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7854,
+    "updated_at": "2026-07-29T01:29:11Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
@@ -23,8 +113,35 @@
     "language": "Python",
     "name": "ellmos-ai/ellmos-homebase-mcp",
     "stars": 1,
-    "updated_at": "2026-07-29T01:14:44Z",
+    "updated_at": "2026-07-29T01:18:39Z",
     "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 325,
+    "updated_at": "2026-07-29T01:16:44Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T01:15:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 287,
+    "updated_at": "2026-07-29T01:15:05Z",
+    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -36,24 +153,6 @@
     "url": "https://github.com/sytone/botnexus"
   },
   {
-    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
-    "id": "NSIETeam/Mira",
-    "language": "Python",
-    "name": "NSIETeam/Mira",
-    "stars": 1,
-    "updated_at": "2026-07-29T01:11:53Z",
-    "url": "https://github.com/NSIETeam/Mira"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 74,
-    "updated_at": "2026-07-29T01:13:27Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -61,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T01:09:39Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T01:07:37Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -117,15 +207,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7854,
-    "updated_at": "2026-07-29T01:03:23Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
     "id": "Caprista/KarvyLoop",
     "language": "Python",
@@ -133,15 +214,6 @@
     "stars": 11,
     "updated_at": "2026-07-29T00:53:35Z",
     "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
-    "id": "truvaagents/truva-g3",
-    "language": "Go",
-    "name": "truvaagents/truva-g3",
-    "stars": 13,
-    "updated_at": "2026-07-29T01:00:15Z",
-    "url": "https://github.com/truvaagents/truva-g3"
   },
   {
     "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
@@ -166,27 +238,9 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 5203,
+    "stars": 5212,
     "updated_at": "2026-07-29T00:51:31Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
-    "id": "Thepizzapie/BuildersGate",
-    "language": "Python",
-    "name": "Thepizzapie/BuildersGate",
-    "stars": 0,
-    "updated_at": "2026-07-29T00:48:14Z",
-    "url": "https://github.com/Thepizzapie/BuildersGate"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2216,
-    "updated_at": "2026-07-29T00:47:50Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 48,
-    "updated_at": "2026-07-29T00:37:40Z",
+    "updated_at": "2026-07-29T01:21:13Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -211,7 +265,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27954,
+    "stars": 27955,
     "updated_at": "2026-07-29T00:33:49Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -279,15 +333,6 @@
     "url": "https://github.com/SandroG1977/bfa-sdk"
   },
   {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 16,
-    "updated_at": "2026-07-29T01:08:02Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -338,7 +383,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 45,
-    "updated_at": "2026-07-29T01:11:14Z",
+    "updated_at": "2026-07-29T01:18:43Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -367,24 +412,6 @@
     "stars": 7,
     "updated_at": "2026-07-28T23:52:12Z",
     "url": "https://github.com/beogip/code-first-agents-tool"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 2,
-    "updated_at": "2026-07-28T23:48:27Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 3,
-    "updated_at": "2026-07-28T23:48:18Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
@@ -421,32 +448,5 @@
     "stars": 10,
     "updated_at": "2026-07-28T23:21:59Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
-    "id": "saajunaid/caddis-plugin",
-    "language": "Python",
-    "name": "saajunaid/caddis-plugin",
-    "stars": 1,
-    "updated_at": "2026-07-28T23:16:12Z",
-    "url": "https://github.com/saajunaid/caddis-plugin"
-  },
-  {
-    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
-    "id": "iduyuhe/zhiyan-evolviq",
-    "language": "Python",
-    "name": "iduyuhe/zhiyan-evolviq",
-    "stars": 4,
-    "updated_at": "2026-07-28T23:11:38Z",
-    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 2,
-    "updated_at": "2026-07-28T23:00:43Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
   }
 ]
