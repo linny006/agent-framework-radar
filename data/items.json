@@ -1,12 +1,75 @@
 [
   {
-    "description": "Portable YAML agents for TypeScript and Python, with embedded execution, hosted APIs, evals, traces, and durable memory.",
-    "id": "aparry3/agntz",
-    "language": "TypeScript",
-    "name": "aparry3/agntz",
+    "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
+    "id": "japo0nn/jumabek",
+    "language": "Rust",
+    "name": "japo0nn/jumabek",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:27:33Z",
+    "url": "https://github.com/japo0nn/jumabek"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 2,
+    "updated_at": "2026-07-29T14:27:10Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
     "stars": 1,
-    "updated_at": "2026-07-29T14:11:50Z",
-    "url": "https://github.com/aparry3/agntz"
+    "updated_at": "2026-07-29T14:25:19Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 3,
+    "updated_at": "2026-07-29T14:25:14Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 327,
+    "updated_at": "2026-07-29T14:23:25Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
+    "id": "joseym/salvor",
+    "language": "Rust",
+    "name": "joseym/salvor",
+    "stars": 2,
+    "updated_at": "2026-07-29T14:22:01Z",
+    "url": "https://github.com/joseym/salvor"
+  },
+  {
+    "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
+    "id": "trbearth/fieldwork-agent-os",
+    "language": "CSS",
+    "name": "trbearth/fieldwork-agent-os",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:21:38Z",
+    "url": "https://github.com/trbearth/fieldwork-agent-os"
+  },
+  {
+    "description": "Workflow transpilation and execution framework - import LangChain, Airflow, GitHub Actions, Kubernetes, Docker Compose",
+    "id": "Michael-A-Kuykendall/rustchain",
+    "language": "Rust",
+    "name": "Michael-A-Kuykendall/rustchain",
+    "stars": 25,
+    "updated_at": "2026-07-29T14:21:19Z",
+    "url": "https://github.com/Michael-A-Kuykendall/rustchain"
   },
   {
     "description": "The micrograd of AI agents: a tiny, dependency-free, from-scratch agent framework for understanding how agents really wo",
@@ -14,8 +77,26 @@
     "language": "Python",
     "name": "rahul1368/microagent",
     "stars": 0,
-    "updated_at": "2026-07-29T14:03:24Z",
+    "updated_at": "2026-07-29T14:27:14Z",
     "url": "https://github.com/rahul1368/microagent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-29T14:15:36Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Portable YAML agents for TypeScript and Python, with embedded execution, hosted APIs, evals, traces, and durable memory.",
+    "id": "aparry3/agntz",
+    "language": "TypeScript",
+    "name": "aparry3/agntz",
+    "stars": 1,
+    "updated_at": "2026-07-29T14:20:54Z",
+    "url": "https://github.com/aparry3/agntz"
   },
   {
     "description": "Lightweight Agent OS framework with Multi-Agent Swarm, DAG Planning, RAG Routing, and Secure Tool Execution.",
@@ -36,31 +117,13 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-29T14:00:45Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A comprehensive, cross-platform AI agent builder \u2014 design, build, test, and deploy AI agents with any LLM provider. 6 pr",
     "id": "ssevera1/Agent-Builder",
     "language": "TypeScript",
     "name": "ssevera1/Agent-Builder",
     "stars": 0,
-    "updated_at": "2026-07-29T14:07:18Z",
+    "updated_at": "2026-07-29T14:27:20Z",
     "url": "https://github.com/ssevera1/Agent-Builder"
-  },
-  {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 3,
-    "updated_at": "2026-07-29T13:59:30Z",
-    "url": "https://github.com/NekomyaDev/nudge"
   },
   {
     "description": "",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T13:54:01Z",
     "url": "https://github.com/MariusYvard/corparius"
-  },
-  {
-    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
-    "id": "joseym/salvor",
-    "language": "Rust",
-    "name": "joseym/salvor",
-    "stars": 2,
-    "updated_at": "2026-07-29T13:53:48Z",
-    "url": "https://github.com/joseym/salvor"
   },
   {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-29T14:13:54Z",
+    "updated_at": "2026-07-29T14:19:47Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7880,
-    "updated_at": "2026-07-29T14:10:44Z",
+    "updated_at": "2026-07-29T14:30:07Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -216,15 +270,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
-    "stars": 1,
-    "updated_at": "2026-07-29T13:21:19Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
     "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
     "id": "Zchary1106/Myrmecia",
     "language": "TypeScript",
@@ -297,15 +342,6 @@
     "url": "https://github.com/Dikhun/Arctus.ai"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 327,
-    "updated_at": "2026-07-29T12:55:26Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 3,
-    "updated_at": "2026-07-29T13:11:10Z",
+    "updated_at": "2026-07-29T14:15:39Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-29T12:42:22Z",
     "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 106,
-    "updated_at": "2026-07-29T12:37:55Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Self-evolving knowledge management system: Obsidian vault + a zero-dependency MCP server (86 tools). Refines raw materia",
-    "id": "edrc-shawn/lingtai-mcp",
-    "language": "Python",
-    "name": "edrc-shawn/lingtai-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-29T12:36:33Z",
-    "url": "https://github.com/edrc-shawn/lingtai-mcp"
-  },
-  {
-    "description": "The boring machinery around your agents: an orchestrator, parallel workers, a gate, a dead-letter queue, a failure locat",
-    "id": "regardo911/boring-machinery",
-    "language": "Python",
-    "name": "regardo911/boring-machinery",
-    "stars": 0,
-    "updated_at": "2026-07-29T12:35:53Z",
-    "url": "https://github.com/regardo911/boring-machinery"
-  },
-  {
-    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
-    "id": "achappey/aihappey-agents",
-    "language": "C#",
-    "name": "achappey/aihappey-agents",
-    "stars": 0,
-    "updated_at": "2026-07-29T12:34:24Z",
-    "url": "https://github.com/achappey/aihappey-agents"
   }
 ]
