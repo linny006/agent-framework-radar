@@ -1,5 +1,104 @@
 [
   {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 8,
+    "updated_at": "2026-07-29T17:30:20Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "A code-first framework for building deterministic CLI tools that LLM agents can discover, validate, and invoke with zero",
+    "id": "beogip/code-first-agents-tool",
+    "language": "TypeScript",
+    "name": "beogip/code-first-agents-tool",
+    "stars": 7,
+    "updated_at": "2026-07-29T17:28:07Z",
+    "url": "https://github.com/beogip/code-first-agents-tool"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 2,
+    "updated_at": "2026-07-29T17:27:46Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
+    "id": "ellmos-ai/ellmos-homebase-mcp",
+    "language": "Python",
+    "name": "ellmos-ai/ellmos-homebase-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-29T17:21:53Z",
+    "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
+  },
+  {
+    "description": "Run Claude Code as an autonomous agent that remembers. Free core of the Agent Autopilot kit: persistent memory, a consti",
+    "id": "Scn64/agent-autopilot",
+    "language": "\u2014",
+    "name": "Scn64/agent-autopilot",
+    "stars": 0,
+    "updated_at": "2026-07-29T17:21:23Z",
+    "url": "https://github.com/Scn64/agent-autopilot"
+  },
+  {
+    "description": "Cotrex is an open-source AI execution engine that enables LLMs to securely use tools, execute tasks, and automate real-w",
+    "id": "pamod-madubashana/cotrex-ai",
+    "language": "Rust",
+    "name": "pamod-madubashana/cotrex-ai",
+    "stars": 2,
+    "updated_at": "2026-07-29T17:19:23Z",
+    "url": "https://github.com/pamod-madubashana/cotrex-ai"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 329,
+    "updated_at": "2026-07-29T17:19:06Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-07-29T17:18:34Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-07-29T17:16:04Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-29T17:15:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46379,
+    "updated_at": "2026-07-29T17:13:38Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -81,24 +180,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-29T17:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 329,
-    "updated_at": "2026-07-29T16:58:52Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
@@ -106,6 +187,15 @@
     "stars": 8,
     "updated_at": "2026-07-29T16:57:51Z",
     "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7885,
+    "updated_at": "2026-07-29T16:56:51Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -162,30 +252,12 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 11,
-    "updated_at": "2026-07-29T16:58:25Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 2,
-    "updated_at": "2026-07-29T17:09:02Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12485,
-    "updated_at": "2026-07-29T16:38:27Z",
+    "updated_at": "2026-07-29T17:27:12Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -234,15 +306,6 @@
     "url": "https://github.com/joelaniol/nova"
   },
   {
-    "description": "Cotrex is an open-source AI execution engine that enables LLMs to securely use tools, execute tasks, and automate real-w",
-    "id": "pamod-madubashana/cotrex-ai",
-    "language": "Rust",
-    "name": "pamod-madubashana/cotrex-ai",
-    "stars": 2,
-    "updated_at": "2026-07-29T17:15:02Z",
-    "url": "https://github.com/pamod-madubashana/cotrex-ai"
-  },
-  {
     "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
     "id": "NekomyaDev/nudge",
     "language": "Rust",
@@ -257,7 +320,7 @@
     "language": "Go",
     "name": "KPO-Tech/seshat",
     "stars": 5,
-    "updated_at": "2026-07-29T17:09:48Z",
+    "updated_at": "2026-07-29T17:28:27Z",
     "url": "https://github.com/KPO-Tech/seshat"
   },
   {
@@ -306,15 +369,6 @@
     "url": "https://github.com/danmo-ai/danmo-work"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 8,
-    "updated_at": "2026-07-29T16:11:40Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
     "id": "Omni-Craft/OmniCraft",
     "language": "Python",
@@ -349,15 +403,6 @@
     "stars": 80,
     "updated_at": "2026-07-29T16:02:39Z",
     "url": "https://github.com/aAAaqwq/AGI-Super-Team"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46379,
-    "updated_at": "2026-07-29T17:13:38Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
@@ -396,15 +441,6 @@
     "url": "https://github.com/AetherAI3/Nano"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-07-29T15:50:19Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T15:49:57Z",
     "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 10,
-    "updated_at": "2026-07-29T16:55:01Z",
-    "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
-    "id": "japo0nn/jumabek",
-    "language": "Rust",
-    "name": "japo0nn/jumabek",
-    "stars": 0,
-    "updated_at": "2026-07-29T15:49:17Z",
-    "url": "https://github.com/japo0nn/jumabek"
-  },
-  {
-    "description": "Local-first AI Employee OS: discover, hire, supervise, verify evidence, and grow AI employees.",
-    "id": "staruhub/CrewClaw",
-    "language": "JavaScript",
-    "name": "staruhub/CrewClaw",
-    "stars": 20,
-    "updated_at": "2026-07-29T15:46:34Z",
-    "url": "https://github.com/staruhub/CrewClaw"
-  },
-  {
-    "description": "A Self-Hosted, Open-Source Enterprise AI Platform and AI Agent Runtime for building and running autonomous AI agents wit",
-    "id": "openenterprise-info/open-enterprise-community",
-    "language": "JavaScript",
-    "name": "openenterprise-info/open-enterprise-community",
-    "stars": 1,
-    "updated_at": "2026-07-29T15:42:44Z",
-    "url": "https://github.com/openenterprise-info/open-enterprise-community"
   }
 ]
