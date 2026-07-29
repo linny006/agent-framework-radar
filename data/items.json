@@ -1,5 +1,68 @@
 [
   {
+    "description": "Eco Agent - \u9762\u5411\u672a\u6765\u7684\u5f00\u6e90\u81ea\u4e3bAI\u667a\u80fd\u4f53\u7cfb\u7edf / \u4e94\u5c42\u5d4c\u5957\u751f\u547d\u8282\u5f8b\u67b6\u6784 / \u5bf9\u6807Claude/Codex/Hermes/OpenClaw/OpenHuman",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 0,
+    "updated_at": "2026-07-29T02:44:20Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12474,
+    "updated_at": "2026-07-29T02:38:18Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46345,
+    "updated_at": "2026-07-29T02:38:16Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-07-29T02:37:20Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 25,
+    "updated_at": "2026-07-29T02:35:32Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T02:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18870,
+    "updated_at": "2026-07-29T02:29:45Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
     "id": "ucsandman/DashClaw",
     "language": "TypeScript",
@@ -9,24 +72,6 @@
     "url": "https://github.com/ucsandman/DashClaw"
   },
   {
-    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 25,
-    "updated_at": "2026-07-29T02:28:02Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18869,
-    "updated_at": "2026-07-29T02:29:45Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
@@ -34,15 +79,6 @@
     "stars": 6673,
     "updated_at": "2026-07-29T02:30:21Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T02:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -68,7 +104,7 @@
     "language": "Swift",
     "name": "ayman3000/SwiftAgentKit",
     "stars": 0,
-    "updated_at": "2026-07-29T02:11:32Z",
+    "updated_at": "2026-07-29T02:40:57Z",
     "url": "https://github.com/ayman3000/SwiftAgentKit"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 8,
     "updated_at": "2026-07-29T02:09:12Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-07-29T02:26:30Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -184,7 +211,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27962,
+    "stars": 27963,
     "updated_at": "2026-07-29T01:41:45Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -241,6 +268,15 @@
     "stars": 1,
     "updated_at": "2026-07-29T01:24:42Z",
     "url": "https://github.com/Thepizzapie/BuildersGate"
+  },
+  {
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
+    "language": "Python",
+    "name": "rllm-org/rllm",
+    "stars": 5741,
+    "updated_at": "2026-07-29T01:24:25Z",
+    "url": "https://github.com/rllm-org/rllm"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -338,7 +374,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4928,
-    "updated_at": "2026-07-29T02:24:36Z",
+    "updated_at": "2026-07-29T02:45:05Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -382,7 +418,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 5241,
+    "stars": 5250,
     "updated_at": "2026-07-29T00:51:31Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -401,7 +437,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 48,
-    "updated_at": "2026-07-29T01:53:59Z",
+    "updated_at": "2026-07-29T02:44:13Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 248,
     "updated_at": "2026-07-29T00:24:32Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "LAAP AGI - Zero-LLM Cognitive Architecture for Digital Lifeforms. Rust PSI core at 2000Hz, QRE quantum reasoning, Episod",
-    "id": "lorryjovens-hub/laap-AGI",
-    "language": "Python",
-    "name": "lorryjovens-hub/laap-AGI",
-    "stars": 67,
-    "updated_at": "2026-07-29T00:20:36Z",
-    "url": "https://github.com/lorryjovens-hub/laap-AGI"
-  },
-  {
-    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
-    "id": "firatcand/roster",
-    "language": "TypeScript",
-    "name": "firatcand/roster",
-    "stars": 15,
-    "updated_at": "2026-07-29T00:18:34Z",
-    "url": "https://github.com/firatcand/roster"
-  },
-  {
-    "description": "Lightweight TypeScript framework for building agentic tools.",
-    "id": "Tom-R-Main/openFunctions",
-    "language": "TypeScript",
-    "name": "Tom-R-Main/openFunctions",
-    "stars": 3,
-    "updated_at": "2026-07-29T00:16:19Z",
-    "url": "https://github.com/Tom-R-Main/openFunctions"
-  },
-  {
-    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
-    "id": "motojinc25/chatwalaau",
-    "language": "Python",
-    "name": "motojinc25/chatwalaau",
-    "stars": 2,
-    "updated_at": "2026-07-29T00:12:38Z",
-    "url": "https://github.com/motojinc25/chatwalaau"
   }
 ]
