@@ -1,5 +1,77 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7862,
+    "updated_at": "2026-07-29T06:58:14Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 327,
+    "updated_at": "2026-07-29T06:50:55Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "",
+    "id": "romainsantoli-web/setup-vs-agent-firm",
+    "language": "Python",
+    "name": "romainsantoli-web/setup-vs-agent-firm",
+    "stars": 0,
+    "updated_at": "2026-07-29T06:48:40Z",
+    "url": "https://github.com/romainsantoli-web/setup-vs-agent-firm"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 8,
+    "updated_at": "2026-07-29T06:47:55Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
+    "id": "NSIETeam/Mira",
+    "language": "Python",
+    "name": "NSIETeam/Mira",
+    "stars": 1,
+    "updated_at": "2026-07-29T06:45:53Z",
+    "url": "https://github.com/NSIETeam/Mira"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-29T06:45:36Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T06:45:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-07-29T06:44:37Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
     "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
     "id": "kimtth/azure-openai-llm-wiki",
     "language": "Python",
@@ -9,6 +81,15 @@
     "url": "https://github.com/kimtth/azure-openai-llm-wiki"
   },
   {
+    "description": "ADK Agentic Pattern with Memory & MCP",
+    "id": "shahidattar7777/agent-mcp",
+    "language": "Python",
+    "name": "shahidattar7777/agent-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-29T06:43:13Z",
+    "url": "https://github.com/shahidattar7777/agent-mcp"
+  },
+  {
     "description": "The agent framework where every run is durable, replayable, and resumable by default.",
     "id": "ThousandBirdsInc/chidori",
     "language": "Rust",
@@ -16,15 +97,6 @@
     "stars": 1363,
     "updated_at": "2026-07-29T06:41:57Z",
     "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
-    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
-    "id": "NSIETeam/Mira",
-    "language": "Python",
-    "name": "NSIETeam/Mira",
-    "stars": 1,
-    "updated_at": "2026-07-29T06:37:39Z",
-    "url": "https://github.com/NSIETeam/Mira"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -40,27 +112,9 @@
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 4777,
+    "stars": 4778,
     "updated_at": "2026-07-29T06:32:30Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7859,
-    "updated_at": "2026-07-29T06:45:25Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T06:30:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -103,7 +157,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 27978,
+    "stars": 27980,
     "updated_at": "2026-07-29T06:17:07Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -180,15 +234,6 @@
     "url": "https://github.com/dperezcabrera/pico-agent"
   },
   {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 5,
-    "updated_at": "2026-07-29T06:44:37Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
     "description": "Multi-agent orchestration for Orca, as code \u2014 LLM-authored plans that fan out worker agents.",
     "id": "RubinCarter/orcast",
     "language": "JavaScript",
@@ -232,15 +277,6 @@
     "stars": 154,
     "updated_at": "2026-07-29T05:47:51Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 327,
-    "updated_at": "2026-07-29T05:46:14Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "",
@@ -351,15 +387,6 @@
     "url": "https://github.com/devoidfury/hotdog"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 8,
-    "updated_at": "2026-07-29T04:36:49Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -392,7 +419,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-29T06:38:56Z",
+    "updated_at": "2026-07-29T06:51:46Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T04:14:19Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-07-29T04:13:01Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 2,
-    "updated_at": "2026-07-29T04:10:21Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-29T04:07:38Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
