@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 284,
+    "updated_at": "2026-07-29T19:29:56Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation \u2014 out of one git rep",
+    "id": "jamillazarev/opsinist",
+    "language": "Python",
+    "name": "jamillazarev/opsinist",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:25:34Z",
+    "url": "https://github.com/jamillazarev/opsinist"
+  },
+  {
+    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
+    "id": "Omni-Craft/OmniCraft",
+    "language": "Python",
+    "name": "Omni-Craft/OmniCraft",
+    "stars": 1,
+    "updated_at": "2026-07-29T19:25:23Z",
+    "url": "https://github.com/Omni-Craft/OmniCraft"
+  },
+  {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 3,
+    "updated_at": "2026-07-29T19:22:42Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-07-29T19:22:23Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 50,
+    "updated_at": "2026-07-29T19:19:41Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Claude plugin for agentic spec driven development",
+    "id": "guygrigsby/claude-plugins",
+    "language": "TypeScript",
+    "name": "guygrigsby/claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:18:46Z",
+    "url": "https://github.com/guygrigsby/claude-plugins"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-07-29T19:21:13Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "The fully self-hostable, open composable platform for agent orchestration and human collaboration. With tools, security,",
+    "id": "amajorai/ryu",
+    "language": "HTML",
+    "name": "amajorai/ryu",
+    "stars": 34,
+    "updated_at": "2026-07-29T19:16:06Z",
+    "url": "https://github.com/amajorai/ryu"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-29T19:15:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
+    "id": "ellmos-ai/MarbleRun",
+    "language": "Python",
+    "name": "ellmos-ai/MarbleRun",
+    "stars": 1,
+    "updated_at": "2026-07-29T19:15:29Z",
+    "url": "https://github.com/ellmos-ai/MarbleRun"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 10,
+    "updated_at": "2026-07-29T19:15:10Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -9,13 +117,13 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 284,
-    "updated_at": "2026-07-29T19:12:24Z",
-    "url": "https://github.com/ucsandman/DashClaw"
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 1,
+    "updated_at": "2026-07-29T19:12:13Z",
+    "url": "https://github.com/codewandler/flux"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -23,7 +131,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18881,
-    "updated_at": "2026-07-29T19:10:03Z",
+    "updated_at": "2026-07-29T19:25:34Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -34,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T19:07:24Z",
     "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation \u2014 out of one git rep",
-    "id": "jamillazarev/opsinist",
-    "language": "Python",
-    "name": "jamillazarev/opsinist",
-    "stars": 0,
-    "updated_at": "2026-07-29T19:05:52Z",
-    "url": "https://github.com/jamillazarev/opsinist"
   },
   {
     "description": "",
@@ -81,24 +180,6 @@
     "url": "https://github.com/sattyamjjain/ferrumdeck"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-29T19:00:37Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 50,
-    "updated_at": "2026-07-29T19:14:58Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
@@ -115,15 +196,6 @@
     "stars": 7887,
     "updated_at": "2026-07-29T19:11:36Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 3,
-    "updated_at": "2026-07-29T19:13:30Z",
-    "url": "https://github.com/NekomyaDev/nudge"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -184,7 +256,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 608,
+    "stars": 609,
     "updated_at": "2026-07-29T18:40:09Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -225,15 +297,6 @@
     "url": "https://github.com/joseym/salvor"
   },
   {
-    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
-    "id": "Omni-Craft/OmniCraft",
-    "language": "Python",
-    "name": "Omni-Craft/OmniCraft",
-    "stars": 1,
-    "updated_at": "2026-07-29T18:20:18Z",
-    "url": "https://github.com/Omni-Craft/OmniCraft"
-  },
-  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
@@ -259,15 +322,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T18:16:48Z",
     "url": "https://github.com/Abdur-Rafay-AR/crucible"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-07-29T19:03:00Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
     "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
@@ -360,15 +414,6 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 10,
-    "updated_at": "2026-07-29T19:15:10Z",
-    "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
     "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
     "id": "wrg32786/aigent-os",
     "language": "JavaScript",
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-29T17:28:07Z",
     "url": "https://github.com/beogip/code-first-agents-tool"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12487,
-    "updated_at": "2026-07-29T17:27:12Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
-    "id": "ellmos-ai/ellmos-homebase-mcp",
-    "language": "Python",
-    "name": "ellmos-ai/ellmos-homebase-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-29T17:21:53Z",
-    "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
-  },
-  {
-    "description": "Run Claude Code as an autonomous agent that remembers. Free core of the Agent Autopilot kit: persistent memory, a consti",
-    "id": "Scn64/agent-autopilot",
-    "language": "\u2014",
-    "name": "Scn64/agent-autopilot",
-    "stars": 0,
-    "updated_at": "2026-07-29T17:21:23Z",
-    "url": "https://github.com/Scn64/agent-autopilot"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 330,
-    "updated_at": "2026-07-29T17:19:06Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-07-29T17:18:34Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   }
 ]
