@@ -1,5 +1,104 @@
 [
   {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-30T07:57:14Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6734,
+    "updated_at": "2026-07-30T07:55:29Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
+    "id": "rapidaai/voice-ai",
+    "language": "Go",
+    "name": "rapidaai/voice-ai",
+    "stars": 705,
+    "updated_at": "2026-07-30T07:54:11Z",
+    "url": "https://github.com/rapidaai/voice-ai"
+  },
+  {
+    "description": "A minimal agent kernel in Go \u2014 five primitives (State \u00b7 Step \u00b7 Router \u00b7 Graph \u00b7 Store), a ~700-line kernel, deterministi",
+    "id": "jinyitao123/loom",
+    "language": "Go",
+    "name": "jinyitao123/loom",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:51:20Z",
+    "url": "https://github.com/jinyitao123/loom"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-07-30T07:57:09Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-07-30T07:49:04Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible;",
+    "id": "openma-ai/open-managed-agents",
+    "language": "TypeScript",
+    "name": "openma-ai/open-managed-agents",
+    "stars": 212,
+    "updated_at": "2026-07-30T07:48:07Z",
+    "url": "https://github.com/openma-ai/open-managed-agents"
+  },
+  {
+    "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
+    "id": "Carrara-Labs/delta-harness",
+    "language": "TypeScript",
+    "name": "Carrara-Labs/delta-harness",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:47:36Z",
+    "url": "https://github.com/Carrara-Labs/delta-harness"
+  },
+  {
+    "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
+    "id": "bailong-Hakuryu/E.R.I.I",
+    "language": "Python",
+    "name": "bailong-Hakuryu/E.R.I.I",
+    "stars": 1,
+    "updated_at": "2026-07-30T07:45:42Z",
+    "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T07:45:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 338,
+    "updated_at": "2026-07-30T07:45:22Z",
+    "url": "https://github.com/shibing624/agentica"
+  },
+  {
     "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
     "id": "Caprista/KarvyLoop",
     "language": "Python",
@@ -16,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-07-30T07:41:22Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
-    "id": "bailong-Hakuryu/E.R.I.I",
-    "language": "Python",
-    "name": "bailong-Hakuryu/E.R.I.I",
-    "stars": 1,
-    "updated_at": "2026-07-30T07:40:19Z",
-    "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -58,18 +148,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28028,
+    "stars": 28029,
     "updated_at": "2026-07-30T07:38:55Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
-    "id": "Carrara-Labs/delta-harness",
-    "language": "TypeScript",
-    "name": "Carrara-Labs/delta-harness",
-    "stars": 0,
-    "updated_at": "2026-07-30T07:38:36Z",
-    "url": "https://github.com/Carrara-Labs/delta-harness"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -99,15 +180,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "A minimal agent kernel in Go \u2014 five primitives (State \u00b7 Step \u00b7 Router \u00b7 Graph \u00b7 Store), a ~700-line kernel, deterministi",
-    "id": "jinyitao123/loom",
-    "language": "Go",
-    "name": "jinyitao123/loom",
-    "stars": 0,
-    "updated_at": "2026-07-30T07:34:18Z",
-    "url": "https://github.com/jinyitao123/loom"
-  },
-  {
     "description": "Notes on agent frameworks, runtimes, harnesses, and coding agents.",
     "id": "Eddiee-Wei/agent-engineering-notes",
     "language": "SCSS",
@@ -124,15 +196,6 @@
     "stars": 36,
     "updated_at": "2026-07-30T07:32:41Z",
     "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T07:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -180,15 +243,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-07-30T07:25:23Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -196,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-07-30T07:25:08Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible;",
-    "id": "openma-ai/open-managed-agents",
-    "language": "TypeScript",
-    "name": "openma-ai/open-managed-agents",
-    "stars": 212,
-    "updated_at": "2026-07-30T07:30:53Z",
-    "url": "https://github.com/openma-ai/open-managed-agents"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -220,7 +265,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7904,
+    "stars": 7905,
     "updated_at": "2026-07-30T07:19:18Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -229,7 +274,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18887,
+    "stars": 18888,
     "updated_at": "2026-07-30T07:16:05Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -238,7 +283,7 @@
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 4803,
+    "stars": 4804,
     "updated_at": "2026-07-30T07:15:09Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12498,
-    "updated_at": "2026-07-30T07:43:56Z",
+    "updated_at": "2026-07-30T07:59:46Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T06:15:12Z",
     "url": "https://github.com/ZhangHalfGod/Agents-Skill-Site"
-  },
-  {
-    "description": "Local-first Python toolkit for parallel Claude and LLM agent orchestration: consensus voting, stigmergy, boss-worker swa",
-    "id": "ellmos-ai/swarm-ai",
-    "language": "Python",
-    "name": "ellmos-ai/swarm-ai",
-    "stars": 2,
-    "updated_at": "2026-07-30T06:14:11Z",
-    "url": "https://github.com/ellmos-ai/swarm-ai"
-  },
-  {
-    "description": "Lightweight local-first LLM agent infrastructure: SQLite memory, tasks, connectors, and chain automation",
-    "id": "ellmos-ai/rinnsal",
-    "language": "Python",
-    "name": "ellmos-ai/rinnsal",
-    "stars": 1,
-    "updated_at": "2026-07-30T06:13:59Z",
-    "url": "https://github.com/ellmos-ai/rinnsal"
-  },
-  {
-    "description": "Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases",
-    "id": "ellmos-ai/gardener",
-    "language": "Python",
-    "name": "ellmos-ai/gardener",
-    "stars": 1,
-    "updated_at": "2026-07-30T06:13:38Z",
-    "url": "https://github.com/ellmos-ai/gardener"
-  },
-  {
-    "description": "B/O/E evaluation framework for SKILL.md-based LLM operating systems and agent hubs",
-    "id": "ellmos-ai/ellmos-tests",
-    "language": "Python",
-    "name": "ellmos-ai/ellmos-tests",
-    "stars": 1,
-    "updated_at": "2026-07-30T06:13:35Z",
-    "url": "https://github.com/ellmos-ai/ellmos-tests"
-  },
-  {
-    "description": "Self-hosted local-first AI research stack with Ollama, n8n, Rinnsal memory, KnowledgeDigest search, and Docker Compose a",
-    "id": "ellmos-ai/ellmos-stack",
-    "language": "Python",
-    "name": "ellmos-ai/ellmos-stack",
-    "stars": 1,
-    "updated_at": "2026-07-30T06:13:32Z",
-    "url": "https://github.com/ellmos-ai/ellmos-stack"
   }
 ]
