@@ -1,5 +1,59 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7916,
+    "updated_at": "2026-07-30T15:08:20Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Open-source, enterprise-grade autonomous AI agent ecosystem & declarative mesh workflow engine (DAM v3.0, DWM v1.0)",
+    "id": "seismael/aeromesh",
+    "language": "Python",
+    "name": "seismael/aeromesh",
+    "stars": 0,
+    "updated_at": "2026-07-30T15:07:10Z",
+    "url": "https://github.com/seismael/aeromesh"
+  },
+  {
+    "description": " Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution.",
+    "id": "longyijdos/kana",
+    "language": "TypeScript",
+    "name": "longyijdos/kana",
+    "stars": 2,
+    "updated_at": "2026-07-30T15:05:51Z",
+    "url": "https://github.com/longyijdos/kana"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-30T15:05:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46422,
+    "updated_at": "2026-07-30T15:04:58Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-30T15:03:01Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
     "id": "ellmos-ai/skills",
     "language": "JavaScript",
@@ -7,6 +61,15 @@
     "stars": 3,
     "updated_at": "2026-07-30T15:02:16Z",
     "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-07-30T15:02:05Z",
+    "url": "https://github.com/Birfy/agentdescent"
   },
   {
     "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
@@ -18,13 +81,13 @@
     "url": "https://github.com/saajunaid/caddis-plugin"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-30T15:00:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-07-30T14:59:34Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-30T14:58:34Z",
+    "updated_at": "2026-07-30T15:09:15Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18906,
-    "updated_at": "2026-07-30T14:58:02Z",
+    "updated_at": "2026-07-30T15:10:12Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -95,7 +158,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-30T14:54:38Z",
+    "updated_at": "2026-07-30T15:07:12Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -117,15 +180,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Open-source, enterprise-grade autonomous AI agent ecosystem & declarative mesh workflow engine (DAM v3.0, DWM v1.0)",
-    "id": "seismael/aeromesh",
-    "language": "Python",
-    "name": "seismael/aeromesh",
-    "stars": 0,
-    "updated_at": "2026-07-30T14:44:20Z",
-    "url": "https://github.com/seismael/aeromesh"
-  },
-  {
     "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
     "id": "substructureai/substructure",
     "language": "Rust",
@@ -142,15 +196,6 @@
     "stars": 1189,
     "updated_at": "2026-07-30T14:43:14Z",
     "url": "https://github.com/wanxingai/LightAgent"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46421,
-    "updated_at": "2026-07-30T15:04:58Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -171,21 +216,12 @@
     "url": "https://github.com/kestiny18/Noval"
   },
   {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-07-30T15:02:05Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
     "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
     "id": "MariusYvard/corparius",
     "language": "Python",
     "name": "MariusYvard/corparius",
     "stars": 0,
-    "updated_at": "2026-07-30T14:32:21Z",
+    "updated_at": "2026-07-30T15:14:30Z",
     "url": "https://github.com/MariusYvard/corparius"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6735,
-    "updated_at": "2026-07-30T14:01:56Z",
+    "updated_at": "2026-07-30T15:13:10Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -313,15 +349,6 @@
     "stars": 4811,
     "updated_at": "2026-07-30T13:53:02Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7916,
-    "updated_at": "2026-07-30T14:58:21Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T13:02:53Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 5,
-    "updated_at": "2026-07-30T13:02:21Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
-    "id": "jiayan-xu/agent-core",
-    "language": "Rust",
-    "name": "jiayan-xu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-07-30T13:00:40Z",
-    "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-30T12:57:37Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   }
 ]
