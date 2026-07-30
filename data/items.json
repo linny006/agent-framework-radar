@@ -1,11 +1,56 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7895,
+    "updated_at": "2026-07-30T03:29:23Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 4,
+    "updated_at": "2026-07-30T03:28:50Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "Mobile-native agent SDK for building on-device AI agents with sandboxed execution, extensible tools, and x-app / x-agent",
+    "id": "antgroup/Napaxi",
+    "language": "Rust",
+    "name": "antgroup/Napaxi",
+    "stars": 26,
+    "updated_at": "2026-07-30T03:29:29Z",
+    "url": "https://github.com/antgroup/Napaxi"
+  },
+  {
+    "description": " AI Code Governance",
+    "id": "ZhangHalfGod/Agents-Skill-Site",
+    "language": "JavaScript",
+    "name": "ZhangHalfGod/Agents-Skill-Site",
+    "stars": 0,
+    "updated_at": "2026-07-30T03:25:40Z",
+    "url": "https://github.com/ZhangHalfGod/Agents-Skill-Site"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T03:25:01Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Portable YAML agents for TypeScript and Python, with embedded execution, hosted APIs, evals, traces, and durable memory.",
     "id": "aparry3/agntz",
     "language": "TypeScript",
     "name": "aparry3/agntz",
     "stars": 1,
-    "updated_at": "2026-07-30T03:22:56Z",
+    "updated_at": "2026-07-30T03:28:26Z",
     "url": "https://github.com/aparry3/agntz"
   },
   {
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T03:21:57Z",
     "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 4,
-    "updated_at": "2026-07-30T03:20:23Z",
-    "url": "https://github.com/databricks-solutions/consort"
   },
   {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
@@ -72,15 +108,6 @@
     "url": "https://github.com/chery-nextai/eviback"
   },
   {
-    "description": " AI Code Governance",
-    "id": "ZhangHalfGod/Agents-Skill-Site",
-    "language": "JavaScript",
-    "name": "ZhangHalfGod/Agents-Skill-Site",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:16:32Z",
-    "url": "https://github.com/ZhangHalfGod/Agents-Skill-Site"
-  },
-  {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
     "id": "Marssssss/OneAI",
     "language": "Rust",
@@ -97,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T03:15:33Z",
     "url": "https://github.com/ellmos-ai/rinnsal"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T03:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
@@ -234,15 +252,6 @@
     "url": "https://github.com/billybox1926-jpg/Terminai"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7895,
-    "updated_at": "2026-07-30T02:37:54Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
@@ -347,7 +356,7 @@
     "language": "Rust",
     "name": "macanderson/context-graph-protocol",
     "stars": 1,
-    "updated_at": "2026-07-30T03:05:14Z",
+    "updated_at": "2026-07-30T03:28:51Z",
     "url": "https://github.com/macanderson/context-graph-protocol"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-30T01:30:58Z",
     "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "Open Agent Spec is a declarative YAML standard and CLI for defining and generating AI agents. One spec, any LLM engine (",
-    "id": "prime-vector/open-agent-spec",
-    "language": "Python",
-    "name": "prime-vector/open-agent-spec",
-    "stars": 17,
-    "updated_at": "2026-07-30T01:29:00Z",
-    "url": "https://github.com/prime-vector/open-agent-spec"
   }
 ]
