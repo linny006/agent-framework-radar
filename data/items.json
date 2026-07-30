@@ -1,10 +1,91 @@
 [
   {
+    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 357,
+    "updated_at": "2026-07-30T12:41:45Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "JavaScript",
+    "name": "ellmos-ai/skills",
+    "stars": 3,
+    "updated_at": "2026-07-30T12:41:38Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:41:30Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 13,
+    "updated_at": "2026-07-30T12:40:09Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 15,
+    "updated_at": "2026-07-30T12:36:59Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4883,
+    "updated_at": "2026-07-30T12:33:34Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18901,
+    "updated_at": "2026-07-30T12:43:46Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1113,
+    "updated_at": "2026-07-30T12:28:44Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
     "description": "A human-like AI agent built on nanobot, combining Jungian psychology, cognitive functions, affective dynamics, human-ins",
     "id": "incredibledays/Jung",
     "language": "Python",
     "name": "incredibledays/Jung",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-30T12:24:43Z",
     "url": "https://github.com/incredibledays/Jung"
   },
@@ -49,7 +130,7 @@
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 3,
+    "stars": 2,
     "updated_at": "2026-07-30T12:21:40Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
@@ -58,7 +139,7 @@
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
     "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 2,
+    "stars": 1,
     "updated_at": "2026-07-30T12:21:39Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
@@ -77,35 +158,8 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 1,
-    "updated_at": "2026-07-30T12:20:08Z",
+    "updated_at": "2026-07-30T12:42:55Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:15:46Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T12:15:37Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18900,
-    "updated_at": "2026-07-30T12:13:22Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -115,15 +169,6 @@
     "stars": 7911,
     "updated_at": "2026-07-30T12:20:26Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 16,
-    "updated_at": "2026-07-30T12:08:45Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -144,15 +189,6 @@
     "url": "https://github.com/roackb2/heddle"
   },
   {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4881,
-    "updated_at": "2026-07-30T12:20:47Z",
-    "url": "https://github.com/iflytek/skillhub"
-  },
-  {
     "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
     "id": "achappey/aihappey-chat",
     "language": "TypeScript",
@@ -166,7 +202,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46413,
+    "stars": 46414,
     "updated_at": "2026-07-30T11:55:20Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -185,7 +221,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-30T11:49:16Z",
+    "updated_at": "2026-07-30T12:30:41Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-07-30T11:47:54Z",
+    "updated_at": "2026-07-30T12:38:10Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -292,7 +328,7 @@
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
     "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
+    "stars": 2,
     "updated_at": "2026-07-30T11:18:11Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
@@ -310,9 +346,27 @@
     "id": "SourceShift/mini-ork",
     "language": "Python",
     "name": "SourceShift/mini-ork",
-    "stars": 6,
+    "stars": 5,
     "updated_at": "2026-07-30T11:15:41Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
+    "id": "danmo-ai/danmo-work",
+    "language": "Go",
+    "name": "danmo-ai/danmo-work",
+    "stars": 2,
+    "updated_at": "2026-07-30T11:15:21Z",
+    "url": "https://github.com/danmo-ai/danmo-work"
+  },
+  {
+    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 1,
+    "updated_at": "2026-07-30T11:13:58Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
     "description": "14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) \u2014 deploy your virtual C-Suite in one git clone",
@@ -322,15 +376,6 @@
     "stars": 80,
     "updated_at": "2026-07-30T11:12:50Z",
     "url": "https://github.com/aAAaqwq/AGI-Super-Team"
-  },
-  {
-    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
-    "id": "danmo-ai/danmo-work",
-    "language": "Go",
-    "name": "danmo-ai/danmo-work",
-    "stars": 3,
-    "updated_at": "2026-07-30T11:15:21Z",
-    "url": "https://github.com/danmo-ai/danmo-work"
   },
   {
     "description": "Self-hosted completion gate for coding agents: independent verification before done, durable evidence, CLI and local GUI",
@@ -346,7 +391,7 @@
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
     "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 2,
+    "stars": 1,
     "updated_at": "2026-07-30T11:07:18Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
@@ -400,53 +445,8 @@
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
     "name": "111nathanlar/Agent-Worlds",
-    "stars": 2,
+    "stars": 1,
     "updated_at": "2026-07-30T11:01:45Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1113,
-    "updated_at": "2026-07-30T12:28:44Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "A from-scratch, event-sourced, safe-by-default AI agent harness.",
-    "id": "LittleChenLiya/admires-ai-harness",
-    "language": "Python",
-    "name": "LittleChenLiya/admires-ai-harness",
-    "stars": 1,
-    "updated_at": "2026-07-30T10:58:20Z",
-    "url": "https://github.com/LittleChenLiya/admires-ai-harness"
-  },
-  {
-    "description": "The agentic runtime to build production-grade AI agents at scale.",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 6,
-    "updated_at": "2026-07-30T11:54:57Z",
-    "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12504,
-    "updated_at": "2026-07-30T10:51:43Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
-    "stars": 2,
-    "updated_at": "2026-07-30T10:47:47Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
   }
 ]
