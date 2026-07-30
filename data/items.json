@@ -1,5 +1,68 @@
 [
   {
+    "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
+    "id": "Zchary1106/Myrmecia",
+    "language": "TypeScript",
+    "name": "Zchary1106/Myrmecia",
+    "stars": 2,
+    "updated_at": "2026-07-30T17:10:36Z",
+    "url": "https://github.com/Zchary1106/Myrmecia"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-07-30T17:13:42Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6735,
+    "updated_at": "2026-07-30T17:06:38Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-07-30T17:12:05Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7919,
+    "updated_at": "2026-07-30T17:01:49Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 1,
+    "updated_at": "2026-07-30T17:01:48Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-30T17:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source, enterprise-grade autonomous AI agent ecosystem & declarative mesh workflow engine (DAM v3.0, DWM v1.0)",
     "id": "seismael/aeromesh",
     "language": "Python",
@@ -59,17 +122,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-30T16:47:14Z",
+    "updated_at": "2026-07-30T17:15:23Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-30T16:47:05Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
@@ -79,15 +133,6 @@
     "stars": 4884,
     "updated_at": "2026-07-30T16:58:20Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-30T16:46:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 50,
-    "updated_at": "2026-07-30T16:42:32Z",
+    "updated_at": "2026-07-30T17:10:47Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T16:37:31Z",
     "url": "https://github.com/jamillazarev/opsinist"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7919,
-    "updated_at": "2026-07-30T16:34:52Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Self-hosted completion gate for coding agents: independent verification before done, durable evidence, CLI and local GUI",
@@ -243,15 +279,6 @@
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6735,
-    "updated_at": "2026-07-30T16:19:03Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
     "id": "Dream-Pixels-Forge/memorius",
     "language": "Python",
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-30T16:43:01Z",
+    "updated_at": "2026-07-30T17:00:35Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -284,7 +311,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 16,
-    "updated_at": "2026-07-30T16:01:30Z",
+    "updated_at": "2026-07-30T17:08:23Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -295,15 +322,6 @@
     "stars": 20,
     "updated_at": "2026-07-30T16:00:40Z",
     "url": "https://github.com/staruhub/CrewClaw"
-  },
-  {
-    "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
-    "id": "Zchary1106/Myrmecia",
-    "language": "TypeScript",
-    "name": "Zchary1106/Myrmecia",
-    "stars": 2,
-    "updated_at": "2026-07-30T15:58:47Z",
-    "url": "https://github.com/Zchary1106/Myrmecia"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -392,7 +410,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-30T16:51:43Z",
+    "updated_at": "2026-07-30T17:14:11Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T15:13:43Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-30T15:03:01Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
-    "id": "saajunaid/caddis-plugin",
-    "language": "Python",
-    "name": "saajunaid/caddis-plugin",
-    "stars": 0,
-    "updated_at": "2026-07-30T15:01:52Z",
-    "url": "https://github.com/saajunaid/caddis-plugin"
   }
 ]
