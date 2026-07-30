@@ -1,6 +1,87 @@
 [
   {
-    "description": "A Self-Hosted, Open-Source Enterprise AI Platform and AI Agent Runtime for building and running autonomous AI agents wit",
+    "description": "Self-hosted AI agents with a web UI \u2014 extend with Python/JS tools & MCP, schedule with cron Jobs, publish as public chat",
+    "id": "phamvanquyit/raw-agents",
+    "language": "TypeScript",
+    "name": "phamvanquyit/raw-agents",
+    "stars": 1,
+    "updated_at": "2026-07-30T01:57:31Z",
+    "url": "https://github.com/phamvanquyit/raw-agents"
+  },
+  {
+    "description": "Local-first AI Employee OS: discover, hire, supervise, verify evidence, and grow AI employees.",
+    "id": "staruhub/CrewClaw",
+    "language": "JavaScript",
+    "name": "staruhub/CrewClaw",
+    "stars": 20,
+    "updated_at": "2026-07-30T01:56:45Z",
+    "url": "https://github.com/staruhub/CrewClaw"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4938,
+    "updated_at": "2026-07-30T01:56:01Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 10,
+    "updated_at": "2026-07-30T01:55:15Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation \u2014 out of one git rep",
+    "id": "jamillazarev/opsinist",
+    "language": "Python",
+    "name": "jamillazarev/opsinist",
+    "stars": 0,
+    "updated_at": "2026-07-30T01:54:44Z",
+    "url": "https://github.com/jamillazarev/opsinist"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-30T01:52:00Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 45,
+    "updated_at": "2026-07-30T01:57:08Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 5465,
+    "updated_at": "2026-07-30T01:54:29Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T01:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A Self-Hosted, Open-Source Enterprise AI Platform for building and running autonomous AI agents without writing code. De",
     "id": "openenterprise-info/open-enterprise-ai-platform",
     "language": "JavaScript",
     "name": "openenterprise-info/open-enterprise-ai-platform",
@@ -9,39 +90,12 @@
     "url": "https://github.com/openenterprise-info/open-enterprise-ai-platform"
   },
   {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 10,
-    "updated_at": "2026-07-30T01:44:22Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 5465,
-    "updated_at": "2026-07-30T01:42:40Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation \u2014 out of one git rep",
-    "id": "jamillazarev/opsinist",
-    "language": "Python",
-    "name": "jamillazarev/opsinist",
-    "stars": 0,
-    "updated_at": "2026-07-30T01:44:26Z",
-    "url": "https://github.com/jamillazarev/opsinist"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7893,
-    "updated_at": "2026-07-30T01:41:38Z",
+    "updated_at": "2026-07-30T01:56:15Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 249,
     "updated_at": "2026-07-30T01:31:50Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T01:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18882,
-    "updated_at": "2026-07-30T01:29:14Z",
+    "updated_at": "2026-07-30T01:59:06Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -121,7 +166,7 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 331,
+    "stars": 332,
     "updated_at": "2026-07-30T01:16:02Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -151,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-07-30T01:13:15Z",
     "url": "https://github.com/chery-nextai/eviback"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4937,
-    "updated_at": "2026-07-30T01:13:11Z",
-    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "NSIETeam/Mira",
     "stars": 1,
-    "updated_at": "2026-07-30T01:36:13Z",
+    "updated_at": "2026-07-30T01:55:05Z",
     "url": "https://github.com/NSIETeam/Mira"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-30T01:09:28Z",
+    "updated_at": "2026-07-30T01:58:12Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -275,7 +311,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-30T00:23:18Z",
+    "updated_at": "2026-07-30T01:47:49Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 20,
     "updated_at": "2026-07-30T00:11:34Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-30T00:08:44Z",
-    "url": "https://github.com/brunogcar/agent"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -374,7 +401,7 @@
     "language": "Rust",
     "name": "macanderson/context-graph-protocol",
     "stars": 1,
-    "updated_at": "2026-07-30T01:37:06Z",
+    "updated_at": "2026-07-30T01:52:25Z",
     "url": "https://github.com/macanderson/context-graph-protocol"
   },
   {
@@ -382,7 +409,7 @@
     "id": "Thepizzapie/BuildersGate",
     "language": "Python",
     "name": "Thepizzapie/BuildersGate",
-    "stars": 9,
+    "stars": 10,
     "updated_at": "2026-07-29T23:49:24Z",
     "url": "https://github.com/Thepizzapie/BuildersGate"
   },
@@ -414,15 +441,6 @@
     "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 45,
-    "updated_at": "2026-07-30T01:45:14Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "AI agent with zero dependencies, bring your own bun",
     "id": "devoidfury/hotdog",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-29T23:16:00Z",
     "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
-    "id": "open1s/bos",
-    "language": "Rust",
-    "name": "open1s/bos",
-    "stars": 1,
-    "updated_at": "2026-07-29T23:31:32Z",
-    "url": "https://github.com/open1s/bos"
-  },
-  {
-    "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
-    "id": "billybox1926-jpg/Terminai",
-    "language": "TypeScript",
-    "name": "billybox1926-jpg/Terminai",
-    "stars": 2,
-    "updated_at": "2026-07-30T01:30:51Z",
-    "url": "https://github.com/billybox1926-jpg/Terminai"
   }
 ]
