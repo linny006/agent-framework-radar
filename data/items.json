@@ -1,12 +1,102 @@
 [
   {
+    "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
+    "id": "Dikhun/Arctus.ai",
+    "language": "Python",
+    "name": "Dikhun/Arctus.ai",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:29:18Z",
+    "url": "https://github.com/Dikhun/Arctus.ai"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-07-30T13:27:15Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:27:14Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 2,
+    "updated_at": "2026-07-30T13:25:05Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1113,
+    "updated_at": "2026-07-30T13:23:23Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6735,
+    "updated_at": "2026-07-30T13:22:58Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
     "id": "yanacuti1121/Yana-AI",
     "language": "Python",
     "name": "yanacuti1121/Yana-AI",
     "stars": 1,
-    "updated_at": "2026-07-30T13:10:08Z",
+    "updated_at": "2026-07-30T13:21:59Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "An agent-loop engine in Rust \u2014 one interface over LLM APIs and external coding agents, with one typed event stream out.",
+    "id": "ndolinschi/Flex",
+    "language": "Rust",
+    "name": "ndolinschi/Flex",
+    "stars": 7,
+    "updated_at": "2026-07-30T13:19:59Z",
+    "url": "https://github.com/ndolinschi/Flex"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-07-30T13:19:57Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7912,
+    "updated_at": "2026-07-30T13:19:14Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:15:37Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -22,18 +112,9 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12505,
+    "stars": 12506,
     "updated_at": "2026-07-30T13:09:42Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
-    "id": "Dikhun/Arctus.ai",
-    "language": "Python",
-    "name": "Dikhun/Arctus.ai",
-    "stars": 1,
-    "updated_at": "2026-07-30T13:08:53Z",
-    "url": "https://github.com/Dikhun/Arctus.ai"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -41,17 +122,8 @@
     "language": "Python",
     "name": "DemonDamon/AgenticX",
     "stars": 202,
-    "updated_at": "2026-07-30T13:07:36Z",
+    "updated_at": "2026-07-30T13:16:29Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-07-30T13:04:35Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -81,15 +153,6 @@
     "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-30T13:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -99,15 +162,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 2,
-    "updated_at": "2026-07-30T13:12:43Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
     "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
     "id": "kdcube/kdcube",
     "language": "Python",
@@ -115,24 +169,6 @@
     "stars": 13,
     "updated_at": "2026-07-30T12:56:34Z",
     "url": "https://github.com/kdcube/kdcube"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-07-30T12:54:03Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-07-30T13:13:25Z",
-    "url": "https://github.com/Birfy/agentdescent"
   },
   {
     "description": " Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution.",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18903,
-    "updated_at": "2026-07-30T12:43:46Z",
+    "updated_at": "2026-07-30T13:27:47Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -238,18 +274,9 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4883,
+    "stars": 4884,
     "updated_at": "2026-07-30T12:33:34Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1113,
-    "updated_at": "2026-07-30T12:28:44Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
     "description": "A human-like AI agent built on nanobot, combining Jungian psychology, cognitive functions, affective dynamics, human-ins",
@@ -279,15 +306,6 @@
     "url": "https://github.com/akyourowngames/friday"
   },
   {
-    "description": "An agent-loop engine in Rust \u2014 one interface over LLM APIs and external coding agents, with one typed event stream out.",
-    "id": "ndolinschi/Flex",
-    "language": "Rust",
-    "name": "ndolinschi/Flex",
-    "stars": 7,
-    "updated_at": "2026-07-30T13:15:00Z",
-    "url": "https://github.com/ndolinschi/Flex"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -315,15 +333,6 @@
     "url": "https://github.com/evalstate/fast-agent"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7912,
-    "updated_at": "2026-07-30T13:02:48Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
     "id": "codewandler/flux",
     "language": "Rust",
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 49,
-    "updated_at": "2026-07-30T13:11:54Z",
+    "updated_at": "2026-07-30T13:25:14Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "AgentEra/Agently",
     "stars": 1634,
-    "updated_at": "2026-07-30T11:45:31Z",
+    "updated_at": "2026-07-30T13:29:34Z",
     "url": "https://github.com/AgentEra/Agently"
   },
   {
@@ -392,7 +401,7 @@
     "language": "TypeScript",
     "name": "Carrara-Labs/delta-harness",
     "stars": 0,
-    "updated_at": "2026-07-30T13:14:27Z",
+    "updated_at": "2026-07-30T13:25:02Z",
     "url": "https://github.com/Carrara-Labs/delta-harness"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-30T11:17:59Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
-    "id": "danmo-ai/danmo-work",
-    "language": "Go",
-    "name": "danmo-ai/danmo-work",
-    "stars": 2,
-    "updated_at": "2026-07-30T11:15:21Z",
-    "url": "https://github.com/danmo-ai/danmo-work"
   }
 ]
