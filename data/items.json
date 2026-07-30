@@ -1,12 +1,48 @@
 [
   {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
+    "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 338,
+    "updated_at": "2026-07-30T08:57:24Z",
+    "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "Kaiban Distributed - Distributed Agentic AI Platform - Actor Model Kanban Framework Implementation with Enterprise Messa",
+    "id": "andreibesleaga/kaiban-distributed",
+    "language": "TypeScript",
+    "name": "andreibesleaga/kaiban-distributed",
+    "stars": 4,
+    "updated_at": "2026-07-30T08:56:56Z",
+    "url": "https://github.com/andreibesleaga/kaiban-distributed"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-30T08:51:31Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
     "stars": 1,
-    "updated_at": "2026-07-30T08:46:37Z",
-    "url": "https://github.com/codewandler/flux"
+    "updated_at": "2026-07-30T08:50:58Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7907,
+    "updated_at": "2026-07-30T08:50:32Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 2,
-    "updated_at": "2026-07-30T08:45:25Z",
+    "updated_at": "2026-07-30T08:46:48Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 1,
+    "updated_at": "2026-07-30T08:46:37Z",
+    "url": "https://github.com/codewandler/flux"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -54,15 +99,6 @@
     "url": "https://github.com/Caprista/KarvyLoop"
   },
   {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-07-30T08:38:44Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -88,6 +124,15 @@
     "stars": 9,
     "updated_at": "2026-07-30T08:28:39Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18892,
+    "updated_at": "2026-07-30T08:27:40Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) \u2014 deploy your virtual C-Suite in one git clone",
@@ -126,13 +171,13 @@
     "url": "https://github.com/ellmos-ai/gardener"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18890,
-    "updated_at": "2026-07-30T08:27:40Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4946,
+    "updated_at": "2026-07-30T08:52:32Z",
+    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
@@ -153,15 +198,6 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7905,
-    "updated_at": "2026-07-30T08:33:22Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -176,7 +212,7 @@
     "language": "Rust",
     "name": "George-RD/openspine",
     "stars": 0,
-    "updated_at": "2026-07-30T08:46:11Z",
+    "updated_at": "2026-07-30T09:00:00Z",
     "url": "https://github.com/George-RD/openspine"
   },
   {
@@ -279,15 +315,6 @@
     "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
   },
   {
-    "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 338,
-    "updated_at": "2026-07-30T07:45:22Z",
-    "url": "https://github.com/shibing624/agentica"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -328,7 +355,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28030,
+    "stars": 28031,
     "updated_at": "2026-07-30T07:38:55Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-30T08:28:20Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 4806,
-    "updated_at": "2026-07-30T07:15:09Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46398,
-    "updated_at": "2026-07-30T07:06:38Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 2,
-    "updated_at": "2026-07-30T07:04:19Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
   }
 ]
