@@ -1,5 +1,95 @@
 [
   {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 50,
+    "updated_at": "2026-07-30T05:57:31Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
+    "id": "CocoRoF/geny-executor",
+    "language": "Python",
+    "name": "CocoRoF/geny-executor",
+    "stars": 2,
+    "updated_at": "2026-07-30T05:54:48Z",
+    "url": "https://github.com/CocoRoF/geny-executor"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-07-30T05:54:43Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
+    "id": "JunMystery/Agent-Guidance-Rust",
+    "language": "Rust",
+    "name": "JunMystery/Agent-Guidance-Rust",
+    "stars": 0,
+    "updated_at": "2026-07-30T05:51:59Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-07-30T05:51:01Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-07-30T05:49:28Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 36,
+    "updated_at": "2026-07-30T05:47:01Z",
+    "url": "https://github.com/Marssssss/OneAI"
+  },
+  {
+    "description": "Local filesystem MCP server with 44 tools: safe delete, process management, interactive sessions, async search, OCR, ZIP",
+    "id": "ellmos-ai/ellmos-filecommander-mcp",
+    "language": "JavaScript",
+    "name": "ellmos-ai/ellmos-filecommander-mcp",
+    "stars": 5,
+    "updated_at": "2026-07-30T05:46:31Z",
+    "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T05:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12496,
+    "updated_at": "2026-07-30T05:59:05Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
     "id": "substructureai/substructure",
     "language": "Rust",
@@ -9,13 +99,13 @@
     "url": "https://github.com/substructureai/substructure"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
     "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 50,
-    "updated_at": "2026-07-30T05:43:03Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
+    "name": "HKUDS/nanobot",
+    "stars": 46394,
+    "updated_at": "2026-07-30T05:59:57Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -23,7 +113,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 28019,
-    "updated_at": "2026-07-30T05:40:22Z",
+    "updated_at": "2026-07-30T05:50:13Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -99,40 +189,13 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-07-30T05:32:35Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T05:30:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 332,
+    "stars": 333,
     "updated_at": "2026-07-30T05:27:20Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12495,
-    "updated_at": "2026-07-30T05:43:47Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -140,8 +203,17 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7898,
-    "updated_at": "2026-07-30T05:35:10Z",
+    "updated_at": "2026-07-30T05:56:08Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1180,
+    "updated_at": "2026-07-30T05:20:40Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -180,15 +252,6 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46393,
-    "updated_at": "2026-07-30T05:42:20Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "EviBack: Reinforcement Learning Search Agents via Evidence-Constrained Teacher Backoff",
     "id": "chery-nextai/eviback",
     "language": "Python",
@@ -212,17 +275,8 @@
     "language": "Python",
     "name": "0bserver07/chimera",
     "stars": 2,
-    "updated_at": "2026-07-30T05:44:15Z",
+    "updated_at": "2026-07-30T05:59:11Z",
     "url": "https://github.com/0bserver07/chimera"
-  },
-  {
-    "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
-    "id": "CocoRoF/geny-executor",
-    "language": "Python",
-    "name": "CocoRoF/geny-executor",
-    "stars": 2,
-    "updated_at": "2026-07-30T04:59:21Z",
-    "url": "https://github.com/CocoRoF/geny-executor"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -234,21 +288,12 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1179,
-    "updated_at": "2026-07-30T05:20:40Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18886,
-    "updated_at": "2026-07-30T05:39:15Z",
+    "updated_at": "2026-07-30T05:51:39Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 5474,
-    "updated_at": "2026-07-30T05:41:41Z",
+    "updated_at": "2026-07-30T05:58:01Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-30T03:36:10Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 4,
-    "updated_at": "2026-07-30T03:28:50Z",
-    "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "Mobile-native agent SDK for building on-device AI agents with sandboxed execution, extensible tools, and x-app / x-agent",
-    "id": "antgroup/Napaxi",
-    "language": "Rust",
-    "name": "antgroup/Napaxi",
-    "stars": 26,
-    "updated_at": "2026-07-30T03:29:29Z",
-    "url": "https://github.com/antgroup/Napaxi"
-  },
-  {
-    "description": " AI Code Governance",
-    "id": "ZhangHalfGod/Agents-Skill-Site",
-    "language": "JavaScript",
-    "name": "ZhangHalfGod/Agents-Skill-Site",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:25:40Z",
-    "url": "https://github.com/ZhangHalfGod/Agents-Skill-Site"
-  },
-  {
-    "description": "Portable YAML agents for TypeScript and Python, with embedded execution, hosted APIs, evals, traces, and durable memory.",
-    "id": "aparry3/agntz",
-    "language": "TypeScript",
-    "name": "aparry3/agntz",
-    "stars": 1,
-    "updated_at": "2026-07-30T03:38:19Z",
-    "url": "https://github.com/aparry3/agntz"
-  },
-  {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:35:37Z",
-    "url": "https://github.com/dshakes/lantern"
   }
 ]
