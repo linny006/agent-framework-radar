@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-30T05:13:04Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 2,
+    "updated_at": "2026-07-30T05:12:43Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "An agent-loop engine in Rust \u2014 one interface over LLM APIs and external coding agents, with one typed event stream out.",
+    "id": "ndolinschi/Flex",
+    "language": "Rust",
+    "name": "ndolinschi/Flex",
+    "stars": 7,
+    "updated_at": "2026-07-30T05:12:41Z",
+    "url": "https://github.com/ndolinschi/Flex"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-07-30T05:10:43Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "EviBack: Reinforcement Learning Search Agents via Evidence-Constrained Teacher Backoff",
+    "id": "chery-nextai/eviback",
+    "language": "Python",
+    "name": "chery-nextai/eviback",
+    "stars": 3,
+    "updated_at": "2026-07-30T05:05:41Z",
+    "url": "https://github.com/chery-nextai/eviback"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-07-30T05:09:16Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Self-hosted AI agents with a web UI \u2014 extend with Python/JS tools & MCP, schedule with cron Jobs, publish as public chat",
+    "id": "phamvanquyit/raw-agents",
+    "language": "TypeScript",
+    "name": "phamvanquyit/raw-agents",
+    "stars": 1,
+    "updated_at": "2026-07-30T05:03:55Z",
+    "url": "https://github.com/phamvanquyit/raw-agents"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 332,
+    "updated_at": "2026-07-30T05:03:04Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 36,
+    "updated_at": "2026-07-30T05:02:04Z",
+    "url": "https://github.com/Marssssss/OneAI"
+  },
+  {
+    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
+    "id": "0bserver07/chimera",
+    "language": "Python",
+    "name": "0bserver07/chimera",
+    "stars": 2,
+    "updated_at": "2026-07-30T05:01:22Z",
+    "url": "https://github.com/0bserver07/chimera"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T05:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
     "id": "CocoRoF/geny-executor",
     "language": "Python",
@@ -27,31 +126,13 @@
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-07-30T04:55:53Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "EviBack: Reinforcement Learning Search Agents via Evidence-Constrained Teacher Backoff",
-    "id": "chery-nextai/eviback",
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "chery-nextai/eviback",
-    "stars": 3,
-    "updated_at": "2026-07-30T04:46:34Z",
-    "url": "https://github.com/chery-nextai/eviback"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T04:45:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "pydantic/pydantic-ai",
+    "stars": 18886,
+    "updated_at": "2026-07-30T04:56:20Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -72,24 +153,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-30T04:43:12Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-07-30T04:42:11Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -99,21 +162,12 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
-    "id": "0bserver07/chimera",
-    "language": "Python",
-    "name": "0bserver07/chimera",
-    "stars": 2,
-    "updated_at": "2026-07-30T04:37:43Z",
-    "url": "https://github.com/0bserver07/chimera"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 5474,
-    "updated_at": "2026-07-30T04:46:26Z",
+    "updated_at": "2026-07-30T05:15:02Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -135,6 +189,15 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1605,
+    "updated_at": "2026-07-30T04:22:32Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
     "id": "bbvch-ai/aihub-core",
     "language": "Python",
@@ -144,20 +207,11 @@
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-07-30T04:20:04Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
     "description": "Build distributed, production-grade, long-running agents.",
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 4796,
+    "stars": 4795,
     "updated_at": "2026-07-30T04:19:17Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
@@ -238,7 +292,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28017,
+    "stars": 28018,
     "updated_at": "2026-07-30T03:52:10Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 46392,
-    "updated_at": "2026-07-30T03:51:13Z",
+    "updated_at": "2026-07-30T05:06:30Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -259,15 +313,6 @@
     "stars": 80,
     "updated_at": "2026-07-30T03:39:39Z",
     "url": "https://github.com/aAAaqwq/AGI-Super-Team"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 332,
-    "updated_at": "2026-07-30T03:38:00Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-30T02:50:57Z",
     "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
-    "description": "AutoGen Studio \u2014 Microsoft no-code GUI for building multi-agent AutoGen workflows",
-    "id": "api-evangelist/autogen-studio",
-    "language": "\u2014",
-    "name": "api-evangelist/autogen-studio",
-    "stars": 0,
-    "updated_at": "2026-07-30T02:49:19Z",
-    "url": "https://github.com/api-evangelist/autogen-studio"
-  },
-  {
-    "description": "The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and",
-    "id": "sheawinkler/ContextLattice",
-    "language": "Go",
-    "name": "sheawinkler/ContextLattice",
-    "stars": 141,
-    "updated_at": "2026-07-30T02:48:53Z",
-    "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-30T02:43:20Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
-    "id": "billybox1926-jpg/Terminai",
-    "language": "TypeScript",
-    "name": "billybox1926-jpg/Terminai",
-    "stars": 2,
-    "updated_at": "2026-07-30T03:05:19Z",
-    "url": "https://github.com/billybox1926-jpg/Terminai"
-  },
-  {
-    "description": "\ud83e\udd16 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 \u2014 the year agents went mainstream",
-    "id": "Zijian-Ni/awesome-ai-agents-2026",
-    "language": "Python",
-    "name": "Zijian-Ni/awesome-ai-agents-2026",
-    "stars": 202,
-    "updated_at": "2026-07-30T02:31:05Z",
-    "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026"
   }
 ]
