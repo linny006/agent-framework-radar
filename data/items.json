@@ -1,12 +1,66 @@
 [
   {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-30T21:59:01Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 74,
+    "updated_at": "2026-07-30T21:57:01Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-07-30T21:57:00Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-07-30T21:56:53Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 1,
+    "updated_at": "2026-07-30T21:55:55Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg",
+    "id": "macanderson/context-graph-protocol",
+    "language": "Rust",
+    "name": "macanderson/context-graph-protocol",
+    "stars": 1,
+    "updated_at": "2026-07-30T21:55:54Z",
+    "url": "https://github.com/macanderson/context-graph-protocol"
+  },
+  {
+    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
+    "id": "sarptandoven/doppl-multiplayer",
     "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1120,
-    "updated_at": "2026-07-30T21:44:40Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+    "name": "sarptandoven/doppl-multiplayer",
+    "stars": 0,
+    "updated_at": "2026-07-30T21:55:23Z",
+    "url": "https://github.com/sarptandoven/doppl-multiplayer"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -14,8 +68,53 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18909,
-    "updated_at": "2026-07-30T21:44:24Z",
+    "updated_at": "2026-07-30T21:58:10Z",
     "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Minimal provider-agnostic AI agent framework. Tool loops, budget control, multi-model routing in ~200 lines core.",
+    "id": "breakingthecloud/tinkuy",
+    "language": "TypeScript",
+    "name": "breakingthecloud/tinkuy",
+    "stars": 0,
+    "updated_at": "2026-07-30T21:53:39Z",
+    "url": "https://github.com/breakingthecloud/tinkuy"
+  },
+  {
+    "description": "Example agents built with the Tinkuy framework \u2014 FinOps, streaming, budget control",
+    "id": "breakingthecloud/tinkuylabs",
+    "language": "TypeScript",
+    "name": "breakingthecloud/tinkuylabs",
+    "stars": 1,
+    "updated_at": "2026-07-30T21:53:37Z",
+    "url": "https://github.com/breakingthecloud/tinkuylabs"
+  },
+  {
+    "description": "An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation \u2014 out of one git rep",
+    "id": "jamillazarev/opsinist",
+    "language": "Python",
+    "name": "jamillazarev/opsinist",
+    "stars": 0,
+    "updated_at": "2026-07-30T21:51:19Z",
+    "url": "https://github.com/jamillazarev/opsinist"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-30T21:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1120,
+    "updated_at": "2026-07-30T21:44:40Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
     "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
@@ -41,26 +140,8 @@
     "language": "Python",
     "name": "dmirain/OctoForge",
     "stars": 17,
-    "updated_at": "2026-07-30T21:41:39Z",
+    "updated_at": "2026-07-30T21:47:06Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 1,
-    "updated_at": "2026-07-30T21:41:34Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
-    "id": "sarptandoven/doppl-multiplayer",
-    "language": "Python",
-    "name": "sarptandoven/doppl-multiplayer",
-    "stars": 0,
-    "updated_at": "2026-07-30T21:40:47Z",
-    "url": "https://github.com/sarptandoven/doppl-multiplayer"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-07-30T21:41:50Z",
+    "updated_at": "2026-07-30T21:55:11Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -95,7 +176,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 45,
-    "updated_at": "2026-07-30T21:38:41Z",
+    "updated_at": "2026-07-30T21:54:07Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -144,15 +225,6 @@
     "url": "https://github.com/aeonfun/aeon"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-30T21:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Cotrex is an open-source AI execution engine that enables LLMs to securely use tools, execute tasks, and automate real-w",
     "id": "pamod-madubashana/cotrex-ai",
     "language": "Rust",
@@ -169,15 +241,6 @@
     "stars": 5,
     "updated_at": "2026-07-30T21:30:05Z",
     "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 74,
-    "updated_at": "2026-07-30T21:26:47Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -324,15 +387,6 @@
     "url": "https://github.com/mcheemaa/mistri"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-07-30T20:52:58Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and",
     "id": "sheawinkler/ContextLattice",
     "language": "Go",
@@ -369,24 +423,6 @@
     "url": "https://github.com/hara-cli/hara"
   },
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-07-30T20:09:55Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-07-30T20:09:53Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Ops harness for Claude Code \u2014 5 install profiles, 7 shipped skills, full session rituals. Apache 2.0.",
     "id": "cerebrocybersolutions/libro",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-30T21:41:28Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-07-30T19:47:29Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "Framework probado en producci\u00f3n para trabajar con Claude Code como un equipo de agentes especializados \u2014 onboarding auto",
-    "id": "fegone/claude-agent-starter",
-    "language": "HTML",
-    "name": "fegone/claude-agent-starter",
-    "stars": 0,
-    "updated_at": "2026-07-30T19:33:11Z",
-    "url": "https://github.com/fegone/claude-agent-starter"
-  },
-  {
-    "description": "Local-first AI Employee OS: discover, hire, supervise, verify evidence, and grow AI employees.",
-    "id": "staruhub/CrewClaw",
-    "language": "JavaScript",
-    "name": "staruhub/CrewClaw",
-    "stars": 20,
-    "updated_at": "2026-07-30T19:26:44Z",
-    "url": "https://github.com/staruhub/CrewClaw"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 50,
-    "updated_at": "2026-07-30T21:06:07Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   }
 ]
