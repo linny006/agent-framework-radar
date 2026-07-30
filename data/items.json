@@ -1,12 +1,66 @@
 [
   {
-    "description": "Open-source, enterprise-grade autonomous AI agent ecosystem & declarative mesh workflow engine (DAM v3.0, DWM v1.0)",
-    "id": "seismael/aeromesh",
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 45,
+    "updated_at": "2026-07-30T17:58:34Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "The agentic runtime to build production-grade AI agents at scale.",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 6,
+    "updated_at": "2026-07-30T17:58:04Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
     "language": "Python",
-    "name": "seismael/aeromesh",
-    "stars": 0,
-    "updated_at": "2026-07-30T17:44:11Z",
-    "url": "https://github.com/seismael/aeromesh"
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-07-30T17:57:57Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 3,
+    "updated_at": "2026-07-30T17:55:01Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
+    "id": "Thepizzapie/BuildersGate",
+    "language": "Python",
+    "name": "Thepizzapie/BuildersGate",
+    "stars": 12,
+    "updated_at": "2026-07-30T17:54:45Z",
+    "url": "https://github.com/Thepizzapie/BuildersGate"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-07-30T17:51:02Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7919,
+    "updated_at": "2026-07-30T17:50:44Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -14,8 +68,26 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-30T17:42:19Z",
+    "updated_at": "2026-07-30T17:52:52Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-30T17:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source, enterprise-grade autonomous AI agent ecosystem & declarative mesh workflow engine (DAM v3.0, DWM v1.0)",
+    "id": "seismael/aeromesh",
+    "language": "Python",
+    "name": "seismael/aeromesh",
+    "stars": 0,
+    "updated_at": "2026-07-30T17:44:11Z",
+    "url": "https://github.com/seismael/aeromesh"
   },
   {
     "description": "Run Claude Code as an autonomous agent that remembers. Free core of the Agent Autopilot kit: persistent memory, a consti",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 50,
-    "updated_at": "2026-07-30T17:40:39Z",
+    "updated_at": "2026-07-30T17:59:31Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -54,21 +126,12 @@
     "url": "https://github.com/Leartin-Lab/aigineering"
   },
   {
-    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
-    "id": "Thepizzapie/BuildersGate",
-    "language": "Python",
-    "name": "Thepizzapie/BuildersGate",
-    "stars": 12,
-    "updated_at": "2026-07-30T17:31:25Z",
-    "url": "https://github.com/Thepizzapie/BuildersGate"
-  },
-  {
     "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
     "id": "loopedautomation/meet",
     "language": "TypeScript",
     "name": "loopedautomation/meet",
     "stars": 5,
-    "updated_at": "2026-07-30T17:34:18Z",
+    "updated_at": "2026-07-30T17:48:46Z",
     "url": "https://github.com/loopedautomation/meet"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-07-30T17:30:41Z",
     "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-30T17:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
@@ -133,15 +187,6 @@
     "stars": 154,
     "updated_at": "2026-07-30T17:24:53Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-07-30T17:24:36Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -198,15 +243,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7919,
-    "updated_at": "2026-07-30T17:31:53Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
     "id": "codewandler/flux",
     "language": "Rust",
@@ -256,7 +292,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12508,
+    "stars": 12509,
     "updated_at": "2026-07-30T16:49:24Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -266,7 +302,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4884,
-    "updated_at": "2026-07-30T17:37:37Z",
+    "updated_at": "2026-07-30T17:52:10Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 46430,
-    "updated_at": "2026-07-30T17:42:43Z",
+    "updated_at": "2026-07-30T17:59:57Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -401,7 +437,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-30T17:00:35Z",
+    "updated_at": "2026-07-30T17:55:54Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-30T16:04:44Z",
     "url": "https://github.com/longyijdos/kana"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 16,
-    "updated_at": "2026-07-30T17:08:23Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "Local-first AI Employee OS: discover, hire, supervise, verify evidence, and grow AI employees.",
-    "id": "staruhub/CrewClaw",
-    "language": "JavaScript",
-    "name": "staruhub/CrewClaw",
-    "stars": 20,
-    "updated_at": "2026-07-30T17:35:43Z",
-    "url": "https://github.com/staruhub/CrewClaw"
-  },
-  {
-    "description": "Self-hosted, privacy-first AI collaborator with durable memory, real tools, channel-native access, routines, and auditab",
-    "id": "RNT56/ThinClaw",
-    "language": "Rust",
-    "name": "RNT56/ThinClaw",
-    "stars": 0,
-    "updated_at": "2026-07-30T16:06:29Z",
-    "url": "https://github.com/RNT56/ThinClaw"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-07-30T15:38:57Z",
-    "url": "https://github.com/Birfy/agentdescent"
   }
 ]
