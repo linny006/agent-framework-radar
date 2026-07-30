@@ -1,5 +1,50 @@
 [
   {
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 36,
+    "updated_at": "2026-07-30T00:26:00Z",
+    "url": "https://github.com/Marssssss/OneAI"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-30T00:29:56Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 6,
+    "updated_at": "2026-07-30T00:30:00Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 74,
+    "updated_at": "2026-07-30T00:23:18Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T00:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -16,15 +61,6 @@
     "stars": 20,
     "updated_at": "2026-07-30T00:11:34Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T00:09:48Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -99,15 +135,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 6,
-    "updated_at": "2026-07-30T00:02:19Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -140,7 +167,7 @@
     "language": "Rust",
     "name": "macanderson/context-graph-protocol",
     "stars": 1,
-    "updated_at": "2026-07-30T00:04:03Z",
+    "updated_at": "2026-07-30T00:25:28Z",
     "url": "https://github.com/macanderson/context-graph-protocol"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7893,
-    "updated_at": "2026-07-30T00:14:22Z",
+    "updated_at": "2026-07-30T00:25:52Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -187,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T23:34:58Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-30T00:14:17Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Agent orchestration engine built on a Cyclic State Graph",
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "billybox1926-jpg/Terminai",
     "stars": 2,
-    "updated_at": "2026-07-29T23:11:25Z",
+    "updated_at": "2026-07-30T00:27:58Z",
     "url": "https://github.com/billybox1926-jpg/Terminai"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18881,
-    "updated_at": "2026-07-30T00:14:04Z",
+    "updated_at": "2026-07-30T00:29:43Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -356,7 +374,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 3,
-    "updated_at": "2026-07-29T23:35:00Z",
+    "updated_at": "2026-07-30T00:27:36Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6732,
     "updated_at": "2026-07-29T21:35:16Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 610,
-    "updated_at": "2026-07-29T21:05:03Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
-    "id": "ellmos-ai/ellmos-homebase-mcp",
-    "language": "Python",
-    "name": "ellmos-ai/ellmos-homebase-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-29T21:03:03Z",
-    "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
   }
 ]
