@@ -1,12 +1,102 @@
 [
   {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18908,
+    "updated_at": "2026-07-30T19:45:13Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 3,
+    "updated_at": "2026-07-30T19:44:42Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 74,
+    "updated_at": "2026-07-30T19:43:14Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
     "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
     "id": "sarptandoven/doppl-multiplayer",
     "language": "Python",
     "name": "sarptandoven/doppl-multiplayer",
     "stars": 0,
-    "updated_at": "2026-07-30T19:30:03Z",
+    "updated_at": "2026-07-30T19:42:56Z",
     "url": "https://github.com/sarptandoven/doppl-multiplayer"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-07-30T19:38:39Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-30T19:38:24Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "The agent harness for Ruby applications. Durable sessions, streaming, human-in-the-loop approval, compaction, structured",
+    "id": "mcheemaa/mistri",
+    "language": "Ruby",
+    "name": "mcheemaa/mistri",
+    "stars": 15,
+    "updated_at": "2026-07-30T19:37:40Z",
+    "url": "https://github.com/mcheemaa/mistri"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-07-30T19:38:42Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6738,
+    "updated_at": "2026-07-30T19:34:26Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Framework probado en producci\u00f3n para trabajar con Claude Code como un equipo de agentes especializados \u2014 onboarding auto",
+    "id": "fegone/claude-agent-starter",
+    "language": "HTML",
+    "name": "fegone/claude-agent-starter",
+    "stars": 0,
+    "updated_at": "2026-07-30T19:33:11Z",
+    "url": "https://github.com/fegone/claude-agent-starter"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-30T19:30:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
@@ -27,15 +117,6 @@
     "url": "https://github.com/MariusYvard/corparius"
   },
   {
-    "description": "The agent harness for Ruby applications. Durable sessions, streaming, human-in-the-loop approval, compaction, structured",
-    "id": "mcheemaa/mistri",
-    "language": "Ruby",
-    "name": "mcheemaa/mistri",
-    "stars": 15,
-    "updated_at": "2026-07-30T19:30:11Z",
-    "url": "https://github.com/mcheemaa/mistri"
-  },
-  {
     "description": "Local-first AI Employee OS: discover, hire, supervise, verify evidence, and grow AI employees.",
     "id": "staruhub/CrewClaw",
     "language": "JavaScript",
@@ -43,24 +124,6 @@
     "stars": 20,
     "updated_at": "2026-07-30T19:26:44Z",
     "url": "https://github.com/staruhub/CrewClaw"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18908,
-    "updated_at": "2026-07-30T19:25:25Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Framework probado en producci\u00f3n para trabajar con Claude Code como un equipo de agentes especializados \u2014 onboarding auto",
-    "id": "fegone/claude-agent-starter",
-    "language": "HTML",
-    "name": "fegone/claude-agent-starter",
-    "stars": 0,
-    "updated_at": "2026-07-30T19:24:38Z",
-    "url": "https://github.com/fegone/claude-agent-starter"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -90,15 +153,6 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 74,
-    "updated_at": "2026-07-30T19:23:46Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
@@ -126,15 +180,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-30T19:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
     "id": "pavanbadempet/AI-Healthcare-System",
     "language": "Python",
@@ -142,15 +187,6 @@
     "stars": 36,
     "updated_at": "2026-07-30T19:10:08Z",
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
-    "stars": 2,
-    "updated_at": "2026-07-30T19:09:26Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -167,7 +203,7 @@
     "language": "TypeScript",
     "name": "Qwixl/Atom",
     "stars": 1,
-    "updated_at": "2026-07-30T19:07:07Z",
+    "updated_at": "2026-07-30T19:42:20Z",
     "url": "https://github.com/Qwixl/Atom"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-07-30T19:06:46Z",
     "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 3,
-    "updated_at": "2026-07-30T19:04:17Z",
-    "url": "https://github.com/sytone/botnexus"
   },
   {
     "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
@@ -315,15 +342,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6738,
-    "updated_at": "2026-07-30T18:16:34Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -374,7 +392,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 10,
-    "updated_at": "2026-07-30T19:13:19Z",
+    "updated_at": "2026-07-30T19:36:17Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -383,7 +401,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 45,
-    "updated_at": "2026-07-30T19:13:45Z",
+    "updated_at": "2026-07-30T19:44:40Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -403,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T17:41:11Z",
     "url": "https://github.com/Scn64/agent-autopilot"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-30T17:39:13Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "Zero Trust agent runtime for auditable AI-assisted engineering and research.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-30T17:28:36Z",
     "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-30T17:27:16Z",
-    "url": "https://github.com/tya5/reyn"
   }
 ]
