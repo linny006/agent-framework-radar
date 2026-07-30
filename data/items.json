@@ -1,12 +1,21 @@
 [
   {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 4,
+    "updated_at": "2026-07-30T02:59:57Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "Agentic Medical RAG: Agentic memory-augmented retrieval and evidence grounding for medical question-answering tasks",
+    "id": "SuperBruceJia/Medical-Agentic-RAG",
     "language": "Python",
-    "name": "brunogcar/agent",
+    "name": "SuperBruceJia/Medical-Agentic-RAG",
     "stars": 1,
-    "updated_at": "2026-07-30T02:43:20Z",
-    "url": "https://github.com/brunogcar/agent"
+    "updated_at": "2026-07-30T02:59:18Z",
+    "url": "https://github.com/SuperBruceJia/Medical-Agentic-RAG"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-30T02:42:44Z",
+    "updated_at": "2026-07-30T02:58:38Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -23,8 +32,89 @@
     "language": "Rust",
     "name": "JunMystery/Agent-Guidance-Rust",
     "stars": 0,
-    "updated_at": "2026-07-30T02:42:26Z",
+    "updated_at": "2026-07-30T02:58:04Z",
     "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "COMA is an LLM agent harness written entirely in Zig.",
+    "id": "mrazza/coma",
+    "language": "Zig",
+    "name": "mrazza/coma",
+    "stars": 0,
+    "updated_at": "2026-07-30T02:56:50Z",
+    "url": "https://github.com/mrazza/coma"
+  },
+  {
+    "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c\u3001Harness/StepWatcher\u3001\u56db\u5957\u79bb\u7ebf eval\u3001\u8de8\u4ed3\u95ed\u73af\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-07-30T02:54:10Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-07-30T02:50:57Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "AutoGen Studio \u2014 Microsoft no-code GUI for building multi-agent AutoGen workflows",
+    "id": "api-evangelist/autogen-studio",
+    "language": "\u2014",
+    "name": "api-evangelist/autogen-studio",
+    "stars": 0,
+    "updated_at": "2026-07-30T02:49:19Z",
+    "url": "https://github.com/api-evangelist/autogen-studio"
+  },
+  {
+    "description": "The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and",
+    "id": "sheawinkler/ContextLattice",
+    "language": "Go",
+    "name": "sheawinkler/ContextLattice",
+    "stars": 141,
+    "updated_at": "2026-07-30T02:48:53Z",
+    "url": "https://github.com/sheawinkler/ContextLattice"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 9,
+    "updated_at": "2026-07-30T02:58:20Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46389,
+    "updated_at": "2026-07-30T02:45:45Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T02:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-30T02:43:20Z",
+    "url": "https://github.com/brunogcar/agent"
   },
   {
     "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
@@ -49,18 +139,18 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7893,
+    "stars": 7894,
     "updated_at": "2026-07-30T02:37:54Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 9,
-    "updated_at": "2026-07-30T02:36:56Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 5468,
+    "updated_at": "2026-07-30T02:34:07Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": " AI Code Governance",
@@ -81,24 +171,6 @@
     "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T02:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
-    "stars": 2,
-    "updated_at": "2026-07-30T02:27:45Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -106,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-07-30T02:26:10Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46388,
-    "updated_at": "2026-07-30T02:25:22Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -130,7 +193,7 @@
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1178,
+    "stars": 1179,
     "updated_at": "2026-07-30T02:21:53Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
@@ -160,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T02:17:33Z",
     "url": "https://github.com/ellmos-ai/gardener"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 5467,
-    "updated_at": "2026-07-30T02:34:07Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "\ud83c\udfc6 Curated, ranked list of AI agent harnesses (100+) \u2014 plus an MCP server, llms.txt & JSON so agents can recommend them t",
@@ -212,7 +266,7 @@
     "language": "Rust",
     "name": "macanderson/context-graph-protocol",
     "stars": 1,
-    "updated_at": "2026-07-30T02:29:09Z",
+    "updated_at": "2026-07-30T02:47:07Z",
     "url": "https://github.com/macanderson/context-graph-protocol"
   },
   {
@@ -238,7 +292,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18883,
+    "stars": 18884,
     "updated_at": "2026-07-30T01:59:06Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -265,7 +319,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4941,
+    "stars": 4944,
     "updated_at": "2026-07-30T01:56:01Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T00:59:17Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
-    "id": "zachmeador/shrimpy",
-    "language": "TypeScript",
-    "name": "zachmeador/shrimpy",
-    "stars": 1,
-    "updated_at": "2026-07-30T00:50:09Z",
-    "url": "https://github.com/zachmeador/shrimpy"
-  },
-  {
-    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
-    "id": "jiayan-xu/agent-core",
-    "language": "Rust",
-    "name": "jiayan-xu/agent-core",
-    "stars": 2,
-    "updated_at": "2026-07-30T00:47:34Z",
-    "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
-    "id": "NSIETeam/Mira",
-    "language": "Python",
-    "name": "NSIETeam/Mira",
-    "stars": 1,
-    "updated_at": "2026-07-30T02:31:23Z",
-    "url": "https://github.com/NSIETeam/Mira"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 3,
-    "updated_at": "2026-07-30T01:02:10Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12493,
-    "updated_at": "2026-07-30T00:38:11Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-07-30T00:26:00Z",
-    "url": "https://github.com/Marssssss/OneAI"
   }
 ]
