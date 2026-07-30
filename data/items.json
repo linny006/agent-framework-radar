@@ -1,12 +1,30 @@
 [
   {
-    "description": "Your Rails app is already an agent runtime \u2014 durable AI agents on Rails: exactly-once tool ledger, park-at-zero human-in",
-    "id": "danielstpaul/silas",
-    "language": "Ruby",
-    "name": "danielstpaul/silas",
-    "stars": 1,
-    "updated_at": "2026-07-30T22:08:29Z",
-    "url": "https://github.com/danielstpaul/silas"
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18909,
+    "updated_at": "2026-07-30T22:12:44Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
+    "id": "ellmos-ai/.github",
+    "language": "\u2014",
+    "name": "ellmos-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-07-30T22:12:09Z",
+    "url": "https://github.com/ellmos-ai/.github"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 0,
+    "updated_at": "2026-07-30T22:11:42Z",
+    "url": "https://github.com/go-steer/mast"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -14,8 +32,35 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 45,
-    "updated_at": "2026-07-30T22:07:58Z",
+    "updated_at": "2026-07-30T22:11:39Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 581,
+    "updated_at": "2026-07-30T22:09:44Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-30T22:08:51Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Your Rails app is already an agent runtime \u2014 durable AI agents on Rails: exactly-once tool ledger, park-at-zero human-in",
+    "id": "danielstpaul/silas",
+    "language": "Ruby",
+    "name": "danielstpaul/silas",
+    "stars": 1,
+    "updated_at": "2026-07-30T22:08:29Z",
+    "url": "https://github.com/danielstpaul/silas"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -52,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T22:01:47Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-30T22:00:57Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T21:55:23Z",
     "url": "https://github.com/sarptandoven/doppl-multiplayer"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18909,
-    "updated_at": "2026-07-30T22:05:33Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation \u2014 out of one git rep",
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "Thepizzapie/BuildersGate",
     "stars": 12,
-    "updated_at": "2026-07-30T21:35:33Z",
+    "updated_at": "2026-07-30T22:11:04Z",
     "url": "https://github.com/Thepizzapie/BuildersGate"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T21:31:36Z",
     "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 581,
-    "updated_at": "2026-07-30T22:08:15Z",
-    "url": "https://github.com/aeonfun/aeon"
   },
   {
     "description": "Cotrex is an open-source AI execution engine that enables LLMs to securely use tools, execute tasks, and automate real-w",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T20:07:14Z",
     "url": "https://github.com/cerebrocybersolutions/libro"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 335,
-    "updated_at": "2026-07-30T19:57:12Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 3,
-    "updated_at": "2026-07-30T21:41:28Z",
-    "url": "https://github.com/sytone/botnexus"
   }
 ]
