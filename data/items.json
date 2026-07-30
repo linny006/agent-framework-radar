@@ -1,11 +1,56 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7918,
+    "updated_at": "2026-07-30T15:43:54Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 2,
+    "updated_at": "2026-07-30T15:39:44Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-07-30T15:38:57Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 13,
+    "updated_at": "2026-07-30T15:35:44Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 74,
+    "updated_at": "2026-07-30T15:31:37Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
     "description": "Define AI agent roles in YAML and run them anywhere: CLI, API server, or autonomous daemon",
     "id": "vladkesler/initrunner",
     "language": "Python",
     "name": "vladkesler/initrunner",
     "stars": 39,
-    "updated_at": "2026-07-30T15:27:22Z",
+    "updated_at": "2026-07-30T15:31:27Z",
     "url": "https://github.com/vladkesler/initrunner"
   },
   {
@@ -14,8 +59,35 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 49,
-    "updated_at": "2026-07-30T15:25:33Z",
+    "updated_at": "2026-07-30T15:30:55Z",
     "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-07-30T15:30:37Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-30T15:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-07-30T15:28:33Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "Build distributed, production-grade, long-running agents.",
@@ -34,15 +106,6 @@
     "stars": 338,
     "updated_at": "2026-07-30T15:23:12Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7917,
-    "updated_at": "2026-07-30T15:27:35Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -81,24 +144,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-30T15:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-07-30T15:14:30Z",
-    "url": "https://github.com/MariusYvard/corparius"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -130,8 +175,8 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46422,
-    "updated_at": "2026-07-30T15:04:58Z",
+    "stars": 46423,
+    "updated_at": "2026-07-30T15:45:10Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-07-30T15:02:16Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-07-30T15:02:05Z",
-    "url": "https://github.com/Birfy/agentdescent"
   },
   {
     "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
@@ -203,17 +239,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18906,
-    "updated_at": "2026-07-30T15:30:09Z",
+    "updated_at": "2026-07-30T15:37:17Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-07-30T15:28:33Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T14:55:30Z",
     "url": "https://github.com/Carrara-Labs/delta-harness"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 74,
-    "updated_at": "2026-07-30T15:27:37Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
@@ -293,7 +311,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-30T15:23:00Z",
+    "updated_at": "2026-07-30T15:38:43Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -379,12 +397,12 @@
   },
   {
     "description": "Agentic Medical RAG: Agentic memory-augmented retrieval and evidence grounding for medical question-answering tasks",
-    "id": "SuperBruceJia/Medical-Agentic-RAG",
+    "id": "vkola-lab/Medical-Agentic-RAG",
     "language": "Python",
-    "name": "SuperBruceJia/Medical-Agentic-RAG",
+    "name": "vkola-lab/Medical-Agentic-RAG",
     "stars": 1,
     "updated_at": "2026-07-30T13:55:22Z",
-    "url": "https://github.com/SuperBruceJia/Medical-Agentic-RAG"
+    "url": "https://github.com/vkola-lab/Medical-Agentic-RAG"
   },
   {
     "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T13:45:00Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 13,
-    "updated_at": "2026-07-30T13:44:25Z",
-    "url": "https://github.com/kdcube/kdcube"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1116,
-    "updated_at": "2026-07-30T13:35:35Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
   }
 ]
