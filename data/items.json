@@ -1,5 +1,95 @@
 [
   {
+    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:10:08Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 74,
+    "updated_at": "2026-07-30T13:09:55Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12505,
+    "updated_at": "2026-07-30T13:09:42Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
+    "id": "Dikhun/Arctus.ai",
+    "language": "Python",
+    "name": "Dikhun/Arctus.ai",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:08:53Z",
+    "url": "https://github.com/Dikhun/Arctus.ai"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 202,
+    "updated_at": "2026-07-30T13:07:36Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-07-30T13:04:35Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:02:53Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 5,
+    "updated_at": "2026-07-30T13:02:21Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
+    "id": "jiayan-xu/agent-core",
+    "language": "Rust",
+    "name": "jiayan-xu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:00:40Z",
+    "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "zlatko-lakisic/agentic-orchestration",
     "stars": 2,
-    "updated_at": "2026-07-30T12:57:14Z",
+    "updated_at": "2026-07-30T13:12:43Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   },
   {
@@ -36,40 +126,13 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
-    "id": "jiayan-xu/agent-core",
-    "language": "Rust",
-    "name": "jiayan-xu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:53:56Z",
-    "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
     "id": "Birfy/agentdescent",
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 1,
-    "updated_at": "2026-07-30T12:53:37Z",
+    "updated_at": "2026-07-30T13:13:25Z",
     "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-07-30T12:53:01Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:52:34Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": " Terminal-native AI agent with a custom TUI, local sessions, persistent memory, Skills, and transparent tool execution.",
@@ -139,7 +202,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18901,
+    "stars": 18903,
     "updated_at": "2026-07-30T12:43:46Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -221,7 +284,7 @@
     "language": "Rust",
     "name": "ndolinschi/Flex",
     "stars": 7,
-    "updated_at": "2026-07-30T12:50:54Z",
+    "updated_at": "2026-07-30T13:15:00Z",
     "url": "https://github.com/ndolinschi/Flex"
   },
   {
@@ -257,7 +320,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7912,
-    "updated_at": "2026-07-30T12:20:26Z",
+    "updated_at": "2026-07-30T13:02:48Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -275,7 +338,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 49,
-    "updated_at": "2026-07-30T12:07:21Z",
+    "updated_at": "2026-07-30T13:11:54Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -301,18 +364,9 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46419,
+    "stars": 46420,
     "updated_at": "2026-07-30T11:55:20Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 74,
-    "updated_at": "2026-07-30T12:47:28Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -333,21 +387,12 @@
     "url": "https://github.com/AgentEra/Agently"
   },
   {
-    "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
-    "id": "Dikhun/Arctus.ai",
-    "language": "Python",
-    "name": "Dikhun/Arctus.ai",
-    "stars": 1,
-    "updated_at": "2026-07-30T11:45:22Z",
-    "url": "https://github.com/Dikhun/Arctus.ai"
-  },
-  {
     "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
     "id": "Carrara-Labs/delta-harness",
     "language": "TypeScript",
     "name": "Carrara-Labs/delta-harness",
     "stars": 0,
-    "updated_at": "2026-07-30T11:43:01Z",
+    "updated_at": "2026-07-30T13:14:27Z",
     "url": "https://github.com/Carrara-Labs/delta-harness"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-07-30T11:24:05Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
     "id": "saajunaid/caddis-plugin",
     "language": "Python",
@@ -405,15 +441,6 @@
     "url": "https://github.com/daretodave/nexus"
   },
   {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 5,
-    "updated_at": "2026-07-30T11:15:41Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
     "id": "danmo-ai/danmo-work",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-30T11:15:21Z",
     "url": "https://github.com/danmo-ai/danmo-work"
-  },
-  {
-    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:51:49Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) \u2014 deploy your virtual C-Suite in one git clone",
-    "id": "aAAaqwq/AGI-Super-Team",
-    "language": "Python",
-    "name": "aAAaqwq/AGI-Super-Team",
-    "stars": 80,
-    "updated_at": "2026-07-30T11:12:50Z",
-    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
-  },
-  {
-    "description": "Self-hosted completion gate for coding agents: independent verification before done, durable evidence, CLI and local GUI",
-    "id": "moortekweb-art/agentic-harness",
-    "language": "Python",
-    "name": "moortekweb-art/agentic-harness",
-    "stars": 1,
-    "updated_at": "2026-07-30T11:11:14Z",
-    "url": "https://github.com/moortekweb-art/agentic-harness"
   }
 ]
