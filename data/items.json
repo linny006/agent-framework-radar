@@ -1,12 +1,21 @@
 [
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7893,
-    "updated_at": "2026-07-30T02:29:25Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-30T02:43:20Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-30T02:42:44Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "MCP server providing coding standards, skills, and workflows for AI agents",
@@ -14,8 +23,71 @@
     "language": "Rust",
     "name": "JunMystery/Agent-Guidance-Rust",
     "stars": 0,
-    "updated_at": "2026-07-30T02:28:24Z",
+    "updated_at": "2026-07-30T02:42:26Z",
     "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
+    "id": "billybox1926-jpg/Terminai",
+    "language": "TypeScript",
+    "name": "billybox1926-jpg/Terminai",
+    "stars": 2,
+    "updated_at": "2026-07-30T02:41:40Z",
+    "url": "https://github.com/billybox1926-jpg/Terminai"
+  },
+  {
+    "description": "EviBack: Reinforcement Learning Search Agents via Evidence-Constrained Teacher Backoff",
+    "id": "chery-nextai/eviback",
+    "language": "Python",
+    "name": "chery-nextai/eviback",
+    "stars": 3,
+    "updated_at": "2026-07-30T02:40:43Z",
+    "url": "https://github.com/chery-nextai/eviback"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7893,
+    "updated_at": "2026-07-30T02:37:54Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 9,
+    "updated_at": "2026-07-30T02:36:56Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": " AI Code Governance",
+    "id": "ZhangHalfGod/Agents-Skill-Site",
+    "language": "JavaScript",
+    "name": "ZhangHalfGod/Agents-Skill-Site",
+    "stars": 0,
+    "updated_at": "2026-07-30T02:33:47Z",
+    "url": "https://github.com/ZhangHalfGod/Agents-Skill-Site"
+  },
+  {
+    "description": "\ud83e\udd16 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 \u2014 the year agents went mainstream",
+    "id": "Zijian-Ni/awesome-ai-agents-2026",
+    "language": "Python",
+    "name": "Zijian-Ni/awesome-ai-agents-2026",
+    "stars": 202,
+    "updated_at": "2026-07-30T02:31:05Z",
+    "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T02:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
@@ -40,7 +112,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46387,
+    "stars": 46388,
     "updated_at": "2026-07-30T02:25:22Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 5467,
-    "updated_at": "2026-07-30T02:17:29Z",
+    "updated_at": "2026-07-30T02:34:07Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -106,15 +178,6 @@
     "stars": 416,
     "updated_at": "2026-07-30T02:16:41Z",
     "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T02:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation \u2014 out of one git rep",
@@ -162,15 +225,6 @@
     "url": "https://github.com/v2-io/agentic-systems"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-30T02:06:38Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
     "id": "Omni-Craft/OmniCraft",
     "language": "Python",
@@ -178,6 +232,15 @@
     "stars": 1,
     "updated_at": "2026-07-30T02:05:33Z",
     "url": "https://github.com/Omni-Craft/OmniCraft"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18883,
+    "updated_at": "2026-07-30T01:59:06Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Self-hosted AI agents with a web UI \u2014 extend with Python/JS tools & MCP, schedule with cron Jobs, publish as public chat",
@@ -202,7 +265,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4940,
+    "stars": 4941,
     "updated_at": "2026-07-30T01:56:01Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -214,15 +277,6 @@
     "stars": 10,
     "updated_at": "2026-07-30T01:55:15Z",
     "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-30T01:52:00Z",
-    "url": "https://github.com/brunogcar/agent"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -259,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-07-30T01:30:58Z",
     "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18882,
-    "updated_at": "2026-07-30T01:59:06Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Open Agent Spec is a declarative YAML standard and CLI for defining and generating AI agents. One spec, any LLM engine (",
@@ -324,15 +369,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "EviBack: Reinforcement Learning Search Agents via Evidence-Constrained Teacher Backoff",
-    "id": "chery-nextai/eviback",
-    "language": "\u2014",
-    "name": "chery-nextai/eviback",
-    "stars": 3,
-    "updated_at": "2026-07-30T01:13:15Z",
-    "url": "https://github.com/chery-nextai/eviback"
-  },
-  {
     "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
     "id": "0bserver07/chimera",
     "language": "Python",
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "NSIETeam/Mira",
     "stars": 1,
-    "updated_at": "2026-07-30T02:17:21Z",
+    "updated_at": "2026-07-30T02:31:23Z",
     "url": "https://github.com/NSIETeam/Mira"
   },
   {
@@ -400,7 +436,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12492,
+    "stars": 12493,
     "updated_at": "2026-07-30T00:38:11Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -412,41 +448,5 @@
     "stars": 36,
     "updated_at": "2026-07-30T00:26:00Z",
     "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 6,
-    "updated_at": "2026-07-30T02:01:53Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-07-30T00:14:44Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-07-30T00:11:34Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 3,
-    "updated_at": "2026-07-30T00:08:14Z",
-    "url": "https://github.com/ellmos-ai/skills"
   }
 ]
