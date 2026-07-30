@@ -1,5 +1,32 @@
 [
   {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-07-30T19:47:38Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 17,
+    "updated_at": "2026-07-30T19:46:46Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-30T19:45:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-30T19:43:14Z",
+    "updated_at": "2026-07-30T19:46:03Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -68,7 +95,7 @@
     "language": "Shell",
     "name": "dryvist/ai-assistant-instructions",
     "stars": 9,
-    "updated_at": "2026-07-30T19:38:42Z",
+    "updated_at": "2026-07-30T19:47:29Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
@@ -90,15 +117,6 @@
     "url": "https://github.com/fegone/claude-agent-starter"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-30T19:30:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
     "id": "codewandler/flux",
     "language": "Rust",
@@ -106,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T19:28:45Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-07-30T19:27:46Z",
-    "url": "https://github.com/MariusYvard/corparius"
   },
   {
     "description": "Local-first AI Employee OS: discover, hire, supervise, verify evidence, and grow AI employees.",
@@ -286,15 +295,6 @@
     "stars": 46434,
     "updated_at": "2026-07-30T18:36:49Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 16,
-    "updated_at": "2026-07-30T18:35:48Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
