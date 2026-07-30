@@ -1,11 +1,101 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-30T04:11:47Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 10,
+    "updated_at": "2026-07-30T04:10:25Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-07-30T04:08:54Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-07-30T04:08:44Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-07-30T04:08:33Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg",
+    "id": "macanderson/context-graph-protocol",
+    "language": "Rust",
+    "name": "macanderson/context-graph-protocol",
+    "stars": 1,
+    "updated_at": "2026-07-30T04:07:44Z",
+    "url": "https://github.com/macanderson/context-graph-protocol"
+  },
+  {
+    "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c\u3001Harness/StepWatcher\u3001\u56db\u5957\u79bb\u7ebf eval\u3001\u8de8\u4ed3\u95ed\u73af\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-07-30T04:07:12Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-30T04:07:02Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 5471,
+    "updated_at": "2026-07-30T04:12:46Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T04:00:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-30T03:57:19Z",
+    "updated_at": "2026-07-30T04:02:20Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -31,18 +121,9 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46391,
+    "stars": 46392,
     "updated_at": "2026-07-30T03:51:13Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T03:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "EviBack: Reinforcement Learning Search Agents via Evidence-Constrained Teacher Backoff",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7895,
-    "updated_at": "2026-07-30T03:51:53Z",
+    "updated_at": "2026-07-30T04:07:12Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -88,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-07-30T03:36:10Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 5471,
-    "updated_at": "2026-07-30T03:49:59Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
@@ -176,7 +248,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 9,
-    "updated_at": "2026-07-30T03:52:03Z",
+    "updated_at": "2026-07-30T04:14:12Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -234,15 +306,6 @@
     "url": "https://github.com/0bserver07/chimera"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-30T03:04:47Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "\ud83c\udfc6 Curated, ranked list of AI agent harnesses (100+) \u2014 plus an MCP server, llms.txt & JSON so agents can recommend them t",
     "id": "RyanAlberts/best-of-Agent-Harnesses",
     "language": "Python",
@@ -259,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T02:56:50Z",
     "url": "https://github.com/mrazza/coma"
-  },
-  {
-    "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c\u3001Harness/StepWatcher\u3001\u56db\u5957\u79bb\u7ebf eval\u3001\u8de8\u4ed3\u95ed\u73af\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-07-30T02:54:10Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
     "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
@@ -383,7 +437,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-30T03:53:43Z",
+    "updated_at": "2026-07-30T04:00:45Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 154,
     "updated_at": "2026-07-30T02:10:46Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg",
-    "id": "macanderson/context-graph-protocol",
-    "language": "Rust",
-    "name": "macanderson/context-graph-protocol",
-    "stars": 1,
-    "updated_at": "2026-07-30T03:28:51Z",
-    "url": "https://github.com/macanderson/context-graph-protocol"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-07-30T02:09:47Z",
-    "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18885,
-    "updated_at": "2026-07-30T03:50:44Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Self-hosted AI agents with a web UI \u2014 extend with Python/JS tools & MCP, schedule with cron Jobs, publish as public chat",
-    "id": "phamvanquyit/raw-agents",
-    "language": "TypeScript",
-    "name": "phamvanquyit/raw-agents",
-    "stars": 1,
-    "updated_at": "2026-07-30T01:57:31Z",
-    "url": "https://github.com/phamvanquyit/raw-agents"
-  },
-  {
-    "description": "Local-first AI Employee OS: discover, hire, supervise, verify evidence, and grow AI employees.",
-    "id": "staruhub/CrewClaw",
-    "language": "JavaScript",
-    "name": "staruhub/CrewClaw",
-    "stars": 20,
-    "updated_at": "2026-07-30T01:56:45Z",
-    "url": "https://github.com/staruhub/CrewClaw"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4944,
-    "updated_at": "2026-07-30T01:56:01Z",
-    "url": "https://github.com/iflytek/skillhub"
   }
 ]
