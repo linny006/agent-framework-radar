@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 9,
-    "updated_at": "2026-07-31T03:58:19Z",
-    "url": "https://github.com/devoidfury/hotdog"
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 36,
+    "updated_at": "2026-07-31T04:12:28Z",
+    "url": "https://github.com/Marssssss/OneAI"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -14,8 +14,80 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 50,
-    "updated_at": "2026-07-31T03:58:22Z",
+    "updated_at": "2026-07-31T04:12:13Z",
     "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 10,
+    "updated_at": "2026-07-31T04:07:39Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "Governed AI agent workforce operating system. 164-entry specialist roster, SHACKLE governance (SP/1.0 conformance-verifi",
+    "id": "Fame510/ONITSIR-WORKFORCE",
+    "language": "TypeScript",
+    "name": "Fame510/ONITSIR-WORKFORCE",
+    "stars": 0,
+    "updated_at": "2026-07-31T04:04:43Z",
+    "url": "https://github.com/Fame510/ONITSIR-WORKFORCE"
+  },
+  {
+    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
+    "id": "JunMystery/Agent-Guidance-Rust",
+    "language": "Rust",
+    "name": "JunMystery/Agent-Guidance-Rust",
+    "stars": 0,
+    "updated_at": "2026-07-31T04:02:46Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
+    "id": "NSIETeam/Mira",
+    "language": "Python",
+    "name": "NSIETeam/Mira",
+    "stars": 1,
+    "updated_at": "2026-07-31T04:09:51Z",
+    "url": "https://github.com/NSIETeam/Mira"
+  },
+  {
+    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
+    "id": "sarptandoven/doppl-multiplayer",
+    "language": "Python",
+    "name": "sarptandoven/doppl-multiplayer",
+    "stars": 0,
+    "updated_at": "2026-07-31T04:02:00Z",
+    "url": "https://github.com/sarptandoven/doppl-multiplayer"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 9,
+    "updated_at": "2026-07-31T04:06:07Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T04:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7939,
+    "updated_at": "2026-07-31T04:10:53Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -25,15 +97,6 @@
     "stars": 338,
     "updated_at": "2026-07-31T03:56:29Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Governed AI agent workforce operating system. 164-entry specialist roster, SHACKLE governance (SP/1.0 conformance-verifi",
-    "id": "Fame510/ONITSIR-WORKFORCE",
-    "language": "TypeScript",
-    "name": "Fame510/ONITSIR-WORKFORCE",
-    "stars": 0,
-    "updated_at": "2026-07-31T03:59:51Z",
-    "url": "https://github.com/Fame510/ONITSIR-WORKFORCE"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -63,15 +126,6 @@
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
-    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
-    "id": "NSIETeam/Mira",
-    "language": "Python",
-    "name": "NSIETeam/Mira",
-    "stars": 1,
-    "updated_at": "2026-07-31T03:54:07Z",
-    "url": "https://github.com/NSIETeam/Mira"
-  },
-  {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
@@ -86,7 +140,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-31T03:56:01Z",
+    "updated_at": "2026-07-31T04:12:57Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T03:48:04Z",
     "url": "https://github.com/mrazza/coma"
-  },
-  {
-    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
-    "id": "JunMystery/Agent-Guidance-Rust",
-    "language": "Rust",
-    "name": "JunMystery/Agent-Guidance-Rust",
-    "stars": 0,
-    "updated_at": "2026-07-31T03:46:51Z",
-    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -124,24 +169,6 @@
     "stars": 29,
     "updated_at": "2026-07-31T03:45:21Z",
     "url": "https://github.com/shisa-ai/shisad"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T03:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7939,
-    "updated_at": "2026-07-31T03:56:58Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
@@ -169,24 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T03:32:14Z",
     "url": "https://github.com/billybox1926-jpg/Terminai"
-  },
-  {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-07-31T03:28:01Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 10,
-    "updated_at": "2026-07-31T03:27:29Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -230,7 +239,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4889,
-    "updated_at": "2026-07-31T03:22:21Z",
+    "updated_at": "2026-07-31T04:06:21Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -239,7 +248,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-07-31T03:22:06Z",
+    "updated_at": "2026-07-31T04:13:36Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -250,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T03:21:58Z",
     "url": "https://github.com/incredibledays/Jung"
-  },
-  {
-    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
-    "id": "sarptandoven/doppl-multiplayer",
-    "language": "Python",
-    "name": "sarptandoven/doppl-multiplayer",
-    "stars": 0,
-    "updated_at": "2026-07-31T03:20:54Z",
-    "url": "https://github.com/sarptandoven/doppl-multiplayer"
   },
   {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
