@@ -1,11 +1,65 @@
 [
   {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 46,
+    "updated_at": "2026-07-31T19:49:18Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-07-31T19:49:11Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "\ud83d\udc1d \u5f15\u5de2 \u00b7 ZyHive | AI \u56e2\u961f\u64cd\u4f5c\u7cfb\u7edf \u2014 \u4e3a AI \u6210\u5458\u6ce8\u5165\u7075\u9b42\uff0c\u53ef\u89c6\u5316\u7ba1\u7406\u591a\u667a\u80fd\u4f53\u56e2\u961f\u3002Self-hosted AI Team OS \u00b7 Go + Vue 3 \u00b7 One-click deploy",
+    "id": "Zyling-ai/ZyHive",
+    "language": "Go",
+    "name": "Zyling-ai/ZyHive",
+    "stars": 19,
+    "updated_at": "2026-07-31T19:47:59Z",
+    "url": "https://github.com/Zyling-ai/ZyHive"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-07-31T19:47:01Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T19:45:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A structured agent runtime for LLMs \u2014 context memory, multi-stage workflows, and ECS-based orchestration in a single bin",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-07-31T19:46:33Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12519,
-    "updated_at": "2026-07-31T19:44:50Z",
+    "updated_at": "2026-07-31T19:45:51Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -27,15 +81,6 @@
     "url": "https://github.com/jamillazarev/opsinist"
   },
   {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-07-31T19:41:41Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -50,7 +95,7 @@
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 3,
-    "updated_at": "2026-07-31T19:38:29Z",
+    "updated_at": "2026-07-31T19:49:10Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -63,29 +108,11 @@
     "url": "https://github.com/ardhaecosystem/fable-method"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T19:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A structured agent runtime for LLMs \u2014 context memory, multi-stage workflows, and ECS-based orchestration in a single bin",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-07-31T19:45:02Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28231,
+    "stars": 28232,
     "updated_at": "2026-07-31T19:28:03Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -153,13 +180,13 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "\ud83d\udc1d \u5f15\u5de2 \u00b7 ZyHive | AI \u56e2\u961f\u64cd\u4f5c\u7cfb\u7edf \u2014 \u4e3a AI \u6210\u5458\u6ce8\u5165\u7075\u9b42\uff0c\u53ef\u89c6\u5316\u7ba1\u7406\u591a\u667a\u80fd\u4f53\u56e2\u961f\u3002Self-hosted AI Team OS \u00b7 Go + Vue 3 \u00b7 One-click deploy",
-    "id": "Zyling-ai/ZyHive",
-    "language": "Go",
-    "name": "Zyling-ai/ZyHive",
-    "stars": 19,
-    "updated_at": "2026-07-31T19:20:45Z",
-    "url": "https://github.com/Zyling-ai/ZyHive"
+    "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 22 crates, CLI/TUI/Desktop, agentic tool loop + graph retrieval + ",
+    "id": "W117C/DeepseekNova",
+    "language": "Rust",
+    "name": "W117C/DeepseekNova",
+    "stars": 3,
+    "updated_at": "2026-07-31T19:47:40Z",
+    "url": "https://github.com/W117C/DeepseekNova"
   },
   {
     "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
@@ -229,7 +256,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7979,
+    "stars": 7980,
     "updated_at": "2026-07-31T19:13:37Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -279,13 +306,13 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 46,
-    "updated_at": "2026-07-31T19:40:58Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 5532,
+    "updated_at": "2026-07-31T19:02:02Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T18:13:41Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-31T18:12:33Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 203,
-    "updated_at": "2026-07-31T18:12:18Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 664,
-    "updated_at": "2026-07-31T18:23:39Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
   }
 ]
