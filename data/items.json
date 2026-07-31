@@ -1,5 +1,104 @@
 [
   {
+    "description": "Source-available Harness AI / Agent OS for teams building governed agent applications - with Nexus orchestration, policy",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 3,
+    "updated_at": "2026-07-31T14:14:05Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
+    "id": "WhitzardAgent/qitos",
+    "language": "Python",
+    "name": "WhitzardAgent/qitos",
+    "stars": 24,
+    "updated_at": "2026-07-31T14:11:39Z",
+    "url": "https://github.com/WhitzardAgent/qitos"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-31T14:11:03Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:09:37Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7965,
+    "updated_at": "2026-07-31T14:15:23Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-07-31T14:09:14Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:09:02Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "OpenHermit is the open-source platform for deploying fleets of AI agents as production services \u2014 durable state, sandbox",
+    "id": "HCF-STUDIOS/openhermit",
+    "language": "TypeScript",
+    "name": "HCF-STUDIOS/openhermit",
+    "stars": 49,
+    "updated_at": "2026-07-31T14:07:16Z",
+    "url": "https://github.com/HCF-STUDIOS/openhermit"
+  },
+  {
+    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 658,
+    "updated_at": "2026-07-31T14:09:47Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 154,
+    "updated_at": "2026-07-31T14:02:01Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T14:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udc1d \u5f15\u5de2 \u00b7 ZyHive | AI \u56e2\u961f\u64cd\u4f5c\u7cfb\u7edf \u2014 \u4e3a AI \u6210\u5458\u6ce8\u5165\u7075\u9b42\uff0c\u53ef\u89c6\u5316\u7ba1\u7406\u591a\u667a\u80fd\u4f53\u56e2\u961f\u3002Self-hosted AI Team OS \u00b7 Go + Vue 3 \u00b7 One-click deploy",
     "id": "Zyling-ai/ZyHive",
     "language": "Go",
@@ -36,15 +135,6 @@
     "url": "https://github.com/aeonfun/aeon"
   },
   {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
-    "stars": 2,
-    "updated_at": "2026-07-31T13:56:14Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
     "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
     "id": "zizetu/existential-identity-test-engine",
     "language": "Python",
@@ -63,31 +153,13 @@
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-31T13:53:43Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
     "id": "Marssssss/OneAI",
     "language": "Rust",
     "name": "Marssssss/OneAI",
-    "stars": 36,
+    "stars": 37,
     "updated_at": "2026-07-31T13:51:49Z",
     "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 658,
-    "updated_at": "2026-07-31T13:58:40Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
@@ -108,39 +180,12 @@
     "url": "https://github.com/Thepizzapie/BuildersGate"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T13:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7965,
-    "updated_at": "2026-07-31T14:00:21Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
-    "id": "WhitzardAgent/qitos",
-    "language": "Python",
-    "name": "WhitzardAgent/qitos",
-    "stars": 24,
-    "updated_at": "2026-07-31T13:40:52Z",
-    "url": "https://github.com/WhitzardAgent/qitos"
-  },
-  {
     "description": "UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Expanding Tool",
     "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
     "language": "Python",
     "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
     "stars": 0,
-    "updated_at": "2026-07-31T13:40:21Z",
+    "updated_at": "2026-07-31T14:14:04Z",
     "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4826,
-    "updated_at": "2026-07-31T13:33:26Z",
+    "updated_at": "2026-07-31T14:03:46Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Rust",
     "name": "George-RD/openspine",
     "stars": 0,
-    "updated_at": "2026-07-31T13:29:08Z",
+    "updated_at": "2026-07-31T14:15:28Z",
     "url": "https://github.com/George-RD/openspine"
   },
   {
@@ -198,15 +243,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-07-31T13:26:03Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
     "description": "Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones",
     "id": "ellmos-ai/clutch",
     "language": "Python",
@@ -220,7 +256,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2220,
+    "stars": 2221,
     "updated_at": "2026-07-31T13:19:18Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6747,
-    "updated_at": "2026-07-31T13:08:18Z",
+    "updated_at": "2026-07-31T14:01:16Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-31T12:57:43Z",
+    "updated_at": "2026-07-31T14:14:43Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -275,8 +311,17 @@
     "language": "Go",
     "name": "go-steer/mast",
     "stars": 0,
-    "updated_at": "2026-07-31T12:57:47Z",
+    "updated_at": "2026-07-31T14:15:15Z",
     "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14709,
+    "updated_at": "2026-07-31T12:54:50Z",
+    "url": "https://github.com/eigent-ai/eigent"
   },
   {
     "description": "Build distributed, production-grade, long-running agents.",
@@ -400,53 +445,8 @@
     "id": "foryourhealth111-pixel/Vibe-Skills",
     "language": "Python",
     "name": "foryourhealth111-pixel/Vibe-Skills",
-    "stars": 2542,
+    "stars": 2543,
     "updated_at": "2026-07-31T12:22:22Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-31T12:21:38Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
-    "id": "junebuild/june",
-    "language": "TypeScript",
-    "name": "junebuild/june",
-    "stars": 3,
-    "updated_at": "2026-07-31T12:45:31Z",
-    "url": "https://github.com/junebuild/june"
-  },
-  {
-    "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
-    "id": "achappey/aihappey-chat",
-    "language": "TypeScript",
-    "name": "achappey/aihappey-chat",
-    "stars": 3,
-    "updated_at": "2026-07-31T12:16:14Z",
-    "url": "https://github.com/achappey/aihappey-chat"
-  },
-  {
-    "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 21 crates, 3 frontends (CLI/TUI/Desktop), GOAP planning + swarm co",
-    "id": "W117C/DeepseekNova",
-    "language": "Rust",
-    "name": "W117C/DeepseekNova",
-    "stars": 3,
-    "updated_at": "2026-07-31T12:04:13Z",
-    "url": "https://github.com/W117C/DeepseekNova"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-31T12:03:25Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   }
 ]
