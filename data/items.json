@@ -1,5 +1,77 @@
 [
   {
+    "description": "Cotrex is an open-source AI execution engine that enables LLMs to securely use tools, execute tasks, and automate real-w",
+    "id": "pamod-madubashana/cotrex-ai",
+    "language": "Rust",
+    "name": "pamod-madubashana/cotrex-ai",
+    "stars": 1,
+    "updated_at": "2026-07-31T11:13:37Z",
+    "url": "https://github.com/pamod-madubashana/cotrex-ai"
+  },
+  {
+    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
+    "id": "junebuild/june",
+    "language": "TypeScript",
+    "name": "junebuild/june",
+    "stars": 3,
+    "updated_at": "2026-07-31T11:12:55Z",
+    "url": "https://github.com/junebuild/june"
+  },
+  {
+    "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 21 crates, 3 frontends (CLI/TUI/Desktop), GOAP planning + swarm co",
+    "id": "W117C/DeepseekNova",
+    "language": "Rust",
+    "name": "W117C/DeepseekNova",
+    "stars": 3,
+    "updated_at": "2026-07-31T11:06:04Z",
+    "url": "https://github.com/W117C/DeepseekNova"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:05:38Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
+    "id": "substructureai/substructure",
+    "language": "Rust",
+    "name": "substructureai/substructure",
+    "stars": 5,
+    "updated_at": "2026-07-31T11:03:48Z",
+    "url": "https://github.com/substructureai/substructure"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-07-31T11:01:58Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:01:49Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T11:00:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\u57fa\u4e8e\u751f\u547d\u5468\u671f\u94a9\u5b50\u7684\u8f7b\u91cf\u7ea7 AI Agent \u6846\u67b6 \u2014 \u63d2\u4ef6\u5373\u6587\u4ef6\uff0c\u5168\u5f02\u6b65\uff0c\u96f6 SDK \u4f9d\u8d56",
     "id": "zpb911km/fp-agent",
     "language": "Python",
@@ -13,18 +85,9 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7956,
-    "updated_at": "2026-07-31T10:58:28Z",
+    "stars": 7957,
+    "updated_at": "2026-07-31T11:15:19Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 21 crates, 3 frontends (CLI/TUI/Desktop), GOAP planning + swarm co",
-    "id": "W117C/DeepseekNova",
-    "language": "Rust",
-    "name": "W117C/DeepseekNova",
-    "stars": 3,
-    "updated_at": "2026-07-31T10:52:17Z",
-    "url": "https://github.com/W117C/DeepseekNova"
   },
   {
     "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T10:55:32Z",
     "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-07-31T11:00:22Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
@@ -72,21 +126,12 @@
     "url": "https://github.com/Yigtwxx/Maestro"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T10:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
     "id": "Birfy/agentdescent",
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 1,
-    "updated_at": "2026-07-31T10:45:01Z",
+    "updated_at": "2026-07-31T11:11:46Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -117,6 +162,15 @@
     "url": "https://github.com/Marssssss/OneAI"
   },
   {
+    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 656,
+    "updated_at": "2026-07-31T10:43:39Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -124,15 +178,6 @@
     "stars": 7,
     "updated_at": "2026-07-31T10:41:24Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 654,
-    "updated_at": "2026-07-31T10:43:39Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "Memory patterns, context strategies, and persistence recipes for AI agents. Sliding window, vector recall, hybrid memory",
@@ -178,15 +223,6 @@
     "stars": 6,
     "updated_at": "2026-07-31T10:35:10Z",
     "url": "https://github.com/calebfaruki/sycophant"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-07-31T10:34:37Z",
-    "url": "https://github.com/MariusYvard/corparius"
   },
   {
     "description": "",
@@ -410,43 +446,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4826,
-    "updated_at": "2026-07-31T10:29:40Z",
+    "updated_at": "2026-07-31T11:09:50Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation \u2014 out of one git rep",
-    "id": "jamillazarev/opsinist",
-    "language": "Shell",
-    "name": "jamillazarev/opsinist",
-    "stars": 0,
-    "updated_at": "2026-07-31T09:14:01Z",
-    "url": "https://github.com/jamillazarev/opsinist"
-  },
-  {
-    "description": "Cotrex is an open-source AI execution engine that enables LLMs to securely use tools, execute tasks, and automate real-w",
-    "id": "pamod-madubashana/cotrex-ai",
-    "language": "Rust",
-    "name": "pamod-madubashana/cotrex-ai",
-    "stars": 1,
-    "updated_at": "2026-07-31T09:08:29Z",
-    "url": "https://github.com/pamod-madubashana/cotrex-ai"
-  },
-  {
-    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 1,
-    "updated_at": "2026-07-31T09:27:12Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6688,
-    "updated_at": "2026-07-31T09:05:32Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
   }
 ]
