@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18933,
+    "updated_at": "2026-07-31T22:28:58Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-31T22:27:35Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 342,
+    "updated_at": "2026-07-31T22:27:15Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/cli",
+    "language": "TypeScript",
+    "name": "agents-inc/cli",
+    "stars": 5,
+    "updated_at": "2026-07-31T22:25:36Z",
+    "url": "https://github.com/agents-inc/cli"
+  },
+  {
+    "description": "Autonomous Go daemon for AI software engineering. 18 specialist agents + 5 reviewers, constitution-bound AI Employees, e",
+    "id": "bhodgens/meept",
+    "language": "Go",
+    "name": "bhodgens/meept",
+    "stars": 0,
+    "updated_at": "2026-07-31T22:24:24Z",
+    "url": "https://github.com/bhodgens/meept"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-07-31T22:23:59Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
+    "id": "sarptandoven/doppl-multiplayer",
+    "language": "Python",
+    "name": "sarptandoven/doppl-multiplayer",
+    "stars": 0,
+    "updated_at": "2026-07-31T22:19:48Z",
+    "url": "https://github.com/sarptandoven/doppl-multiplayer"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-07-31T22:28:39Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T22:15:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -9,13 +90,13 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-07-31T22:14:33Z",
-    "url": "https://github.com/JKHeadley/instar"
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7985,
+    "updated_at": "2026-07-31T22:13:47Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
@@ -90,15 +171,6 @@
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T22:01:46Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DSPy Go implementation",
     "id": "XiaoConstantine/dspy-go",
     "language": "Go",
@@ -122,7 +194,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 46,
-    "updated_at": "2026-07-31T21:57:32Z",
+    "updated_at": "2026-07-31T22:26:20Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -130,7 +202,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 669,
+    "stars": 672,
     "updated_at": "2026-07-31T21:56:00Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -225,15 +297,6 @@
     "url": "https://github.com/KrakenNet/stargraph"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18933,
-    "updated_at": "2026-07-31T22:15:12Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Orchestrate armies of AI agents from a single prompt. Open-core, bring-your-own-key, and self-hostable \u2014 Orchestrator ro",
     "id": "Yigtwxx/Maestro",
     "language": "Python",
@@ -275,7 +338,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-07-31T21:30:40Z",
+    "updated_at": "2026-07-31T22:21:10Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -286,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T21:25:27Z",
     "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-07-31T21:19:42Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -313,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T21:10:08Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
-    "id": "sarptandoven/doppl-multiplayer",
-    "language": "Python",
-    "name": "sarptandoven/doppl-multiplayer",
-    "stars": 0,
-    "updated_at": "2026-07-31T21:42:46Z",
-    "url": "https://github.com/sarptandoven/doppl-multiplayer"
   },
   {
     "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 5534,
-    "updated_at": "2026-07-31T22:12:27Z",
+    "updated_at": "2026-07-31T22:28:21Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-31T20:46:19Z",
     "url": "https://github.com/ionalpha/flynn"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-07-31T20:58:06Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 3,
-    "updated_at": "2026-07-31T20:33:54Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 22 crates, CLI/TUI/Desktop, agentic tool loop + graph retrieval + ",
-    "id": "W117C/DeepseekNova",
-    "language": "Rust",
-    "name": "W117C/DeepseekNova",
-    "stars": 3,
-    "updated_at": "2026-07-31T20:12:10Z",
-    "url": "https://github.com/W117C/DeepseekNova"
-  },
-  {
-    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
-    "id": "BrainoutputHQ/brainoutput-community",
-    "language": "JavaScript",
-    "name": "BrainoutputHQ/brainoutput-community",
-    "stars": 0,
-    "updated_at": "2026-07-31T20:05:15Z",
-    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
-  },
-  {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3872,
-    "updated_at": "2026-07-31T20:49:16Z",
-    "url": "https://github.com/evalstate/fast-agent"
   }
 ]
