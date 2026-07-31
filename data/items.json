@@ -1,12 +1,30 @@
 [
   {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 36,
+    "updated_at": "2026-07-31T05:59:58Z",
+    "url": "https://github.com/Marssssss/OneAI"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7945,
+    "updated_at": "2026-07-31T06:00:18Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A working, teachable example of what an AI coding-agent harness actually is - an outer harness (policy, permissions, bou",
+    "id": "mohd-raza/copilot-harness-lab",
     "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 5,
-    "updated_at": "2026-07-31T05:45:06Z",
-    "url": "https://github.com/databricks-solutions/consort"
+    "name": "mohd-raza/copilot-harness-lab",
+    "stars": 0,
+    "updated_at": "2026-07-31T05:57:02Z",
+    "url": "https://github.com/mohd-raza/copilot-harness-lab"
   },
   {
     "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
@@ -14,17 +32,26 @@
     "language": "JavaScript",
     "name": "BrainoutputHQ/brainoutput-community",
     "stars": 0,
-    "updated_at": "2026-07-31T05:43:01Z",
+    "updated_at": "2026-07-31T05:55:15Z",
     "url": "https://github.com/BrainoutputHQ/brainoutput-community"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7944,
-    "updated_at": "2026-07-31T05:45:19Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-07-31T05:54:16Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-07-31T05:53:57Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Governed AI agent workforce operating system. 164-entry specialist roster, SHACKLE governance (SP/1.0 conformance-verifi",
@@ -32,17 +59,8 @@
     "language": "TypeScript",
     "name": "Fame510/ONITSIR-WORKFORCE",
     "stars": 0,
-    "updated_at": "2026-07-31T05:39:35Z",
+    "updated_at": "2026-07-31T05:52:15Z",
     "url": "https://github.com/Fame510/ONITSIR-WORKFORCE"
-  },
-  {
-    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
-    "id": "NSIETeam/Mira",
-    "language": "Python",
-    "name": "NSIETeam/Mira",
-    "stars": 1,
-    "updated_at": "2026-07-31T05:43:08Z",
-    "url": "https://github.com/NSIETeam/Mira"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -50,8 +68,53 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 50,
-    "updated_at": "2026-07-31T05:41:03Z",
+    "updated_at": "2026-07-31T05:52:10Z",
     "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
+    "id": "NSIETeam/Mira",
+    "language": "Python",
+    "name": "NSIETeam/Mira",
+    "stars": 1,
+    "updated_at": "2026-07-31T05:53:55Z",
+    "url": "https://github.com/NSIETeam/Mira"
+  },
+  {
+    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
+    "id": "sarptandoven/doppl-multiplayer",
+    "language": "Python",
+    "name": "sarptandoven/doppl-multiplayer",
+    "stars": 0,
+    "updated_at": "2026-07-31T05:48:29Z",
+    "url": "https://github.com/sarptandoven/doppl-multiplayer"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-07-31T05:46:15Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T05:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 5,
+    "updated_at": "2026-07-31T05:45:06Z",
+    "url": "https://github.com/databricks-solutions/consort"
   },
   {
     "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
@@ -63,21 +126,12 @@
     "url": "https://github.com/Thepizzapie/BuildersGate"
   },
   {
-    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
-    "id": "sarptandoven/doppl-multiplayer",
-    "language": "Python",
-    "name": "sarptandoven/doppl-multiplayer",
-    "stars": 0,
-    "updated_at": "2026-07-31T05:34:59Z",
-    "url": "https://github.com/sarptandoven/doppl-multiplayer"
-  },
-  {
     "description": "\ud83e\udded Find any agent asset for any agent. Host-neutral locator for skills, worktrees, instructions, and agent.3md across Cla",
     "id": "CorvidLabs/let",
     "language": "TypeScript",
     "name": "CorvidLabs/let",
     "stars": 0,
-    "updated_at": "2026-07-31T05:32:33Z",
+    "updated_at": "2026-07-31T05:56:45Z",
     "url": "https://github.com/CorvidLabs/let"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 338,
     "updated_at": "2026-07-31T05:31:41Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T05:30:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -158,8 +203,17 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-31T05:38:04Z",
+    "updated_at": "2026-07-31T06:00:18Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "An open-source, PyTorch-like runtime for dynamic multi-agent and multi-session workflows.",
+    "id": "Rath-Team/OpenRath",
+    "language": "Python",
+    "name": "Rath-Team/OpenRath",
+    "stars": 1097,
+    "updated_at": "2026-07-31T05:04:23Z",
+    "url": "https://github.com/Rath-Team/OpenRath"
   },
   {
     "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
@@ -169,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T05:03:03Z",
     "url": "https://github.com/0bserver07/chimera"
-  },
-  {
-    "description": "An open-source, PyTorch-like runtime for dynamic multi-agent and multi-session workflows.",
-    "id": "Rath-Team/OpenRath",
-    "language": "Python",
-    "name": "Rath-Team/OpenRath",
-    "stars": 1096,
-    "updated_at": "2026-07-31T05:04:23Z",
-    "url": "https://github.com/Rath-Team/OpenRath"
   },
   {
     "description": "Lightweight AI coding agent \u2014 Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4819,
-    "updated_at": "2026-07-31T05:11:38Z",
+    "updated_at": "2026-07-31T06:00:05Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -211,7 +256,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 5509,
+    "stars": 5510,
     "updated_at": "2026-07-31T04:46:46Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -315,15 +360,6 @@
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-07-31T04:12:28Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
     "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
     "id": "Caprista/KarvyLoop",
     "language": "Python",
@@ -396,15 +432,6 @@
     "url": "https://github.com/shisa-ai/shisad"
   },
   {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
-    "stars": 2,
-    "updated_at": "2026-07-31T03:41:58Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
     "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
     "id": "billybox1926-jpg/Terminai",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T03:26:08Z",
     "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
-    "id": "Omni-Craft/OmniCraft",
-    "language": "Python",
-    "name": "Omni-Craft/OmniCraft",
-    "stars": 1,
-    "updated_at": "2026-07-31T03:25:35Z",
-    "url": "https://github.com/Omni-Craft/OmniCraft"
-  },
-  {
-    "description": "Encre \u2014 A Python agent framework, a Rust native core, and an Electron desktop app, all developed together in one reposit",
-    "id": "mf2023/Encre",
-    "language": "Python",
-    "name": "mf2023/Encre",
-    "stars": 1,
-    "updated_at": "2026-07-31T03:24:06Z",
-    "url": "https://github.com/mf2023/Encre"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-31T03:22:28Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   }
 ]
