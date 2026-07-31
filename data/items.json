@@ -1,12 +1,30 @@
 [
   {
-    "description": "\ud83e\udded Find any agent asset for any agent. Host-neutral locator for skills, worktrees, instructions, and agent.3md across Cla",
-    "id": "CorvidLabs/let",
-    "language": "TypeScript",
-    "name": "CorvidLabs/let",
-    "stars": 0,
-    "updated_at": "2026-07-31T16:40:41Z",
-    "url": "https://github.com/CorvidLabs/let"
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 203,
+    "updated_at": "2026-07-31T16:44:27Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-07-31T16:44:04Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 154,
+    "updated_at": "2026-07-31T16:42:17Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7974,
-    "updated_at": "2026-07-31T16:40:52Z",
+    "updated_at": "2026-07-31T16:41:50Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T16:41:01Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udded Find any agent asset for any agent. Host-neutral locator for skills, worktrees, instructions, and agent.3md across Cla",
+    "id": "CorvidLabs/let",
+    "language": "TypeScript",
+    "name": "CorvidLabs/let",
+    "stars": 0,
+    "updated_at": "2026-07-31T16:40:41Z",
+    "url": "https://github.com/CorvidLabs/let"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "Sun-Forge-AI/leviath",
     "stars": 0,
-    "updated_at": "2026-07-31T16:37:46Z",
+    "updated_at": "2026-07-31T16:43:27Z",
     "url": "https://github.com/Sun-Forge-AI/leviath"
   },
   {
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-07-31T16:35:47Z",
+    "updated_at": "2026-07-31T16:45:21Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -58,7 +94,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 5527,
+    "stars": 5528,
     "updated_at": "2026-07-31T16:35:17Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -70,15 +106,6 @@
     "stars": 28213,
     "updated_at": "2026-07-31T16:32:10Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T16:30:39Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -392,7 +419,7 @@
     "language": "Python",
     "name": "maref-org/maref",
     "stars": 7,
-    "updated_at": "2026-07-31T16:40:36Z",
+    "updated_at": "2026-07-31T16:42:32Z",
     "url": "https://github.com/maref-org/maref"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T15:23:20Z",
     "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "Agentic Medical RAG: Agentic memory-augmented retrieval and evidence grounding for medical question-answering tasks",
-    "id": "vkola-lab/Medical-Agentic-RAG",
-    "language": "Python",
-    "name": "vkola-lab/Medical-Agentic-RAG",
-    "stars": 2,
-    "updated_at": "2026-07-31T14:50:03Z",
-    "url": "https://github.com/vkola-lab/Medical-Agentic-RAG"
-  },
-  {
-    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
-    "id": "Thepizzapie/BuildersGate",
-    "language": "Python",
-    "name": "Thepizzapie/BuildersGate",
-    "stars": 13,
-    "updated_at": "2026-07-31T14:47:43Z",
-    "url": "https://github.com/Thepizzapie/BuildersGate"
-  },
-  {
-    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
-    "id": "George-RD/openspine",
-    "language": "Rust",
-    "name": "George-RD/openspine",
-    "stars": 0,
-    "updated_at": "2026-07-31T14:44:38Z",
-    "url": "https://github.com/George-RD/openspine"
   }
 ]
