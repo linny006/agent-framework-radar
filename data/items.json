@@ -1,5 +1,86 @@
 [
   {
+    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
+    "id": "sarptandoven/doppl-multiplayer",
+    "language": "Python",
+    "name": "sarptandoven/doppl-multiplayer",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:12:35Z",
+    "url": "https://github.com/sarptandoven/doppl-multiplayer"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7960,
+    "updated_at": "2026-07-31T12:12:02Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-07-31T12:11:36Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
+    "id": "junebuild/june",
+    "language": "TypeScript",
+    "name": "junebuild/june",
+    "stars": 3,
+    "updated_at": "2026-07-31T12:09:35Z",
+    "url": "https://github.com/junebuild/june"
+  },
+  {
+    "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 21 crates, 3 frontends (CLI/TUI/Desktop), GOAP planning + swarm co",
+    "id": "W117C/DeepseekNova",
+    "language": "Rust",
+    "name": "W117C/DeepseekNova",
+    "stars": 3,
+    "updated_at": "2026-07-31T12:04:13Z",
+    "url": "https://github.com/W117C/DeepseekNova"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:03:25Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-07-31T12:13:00Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T12:00:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-07-31T11:59:41Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -13,7 +94,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18925,
+    "stars": 18926,
     "updated_at": "2026-07-31T11:58:27Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -25,15 +106,6 @@
     "stars": 154,
     "updated_at": "2026-07-31T11:58:01Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:59:41Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
@@ -58,18 +130,18 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46467,
+    "stars": 46468,
     "updated_at": "2026-07-31T11:55:23Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7960,
-    "updated_at": "2026-07-31T11:55:05Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "description": "Unofficial C# port of the T-Search agentic-search harness, on Microsoft Agent Framework. Byte-faithful to the upstream P",
+    "id": "Neftedollar/t-search-harness-dotnet",
+    "language": "C#",
+    "name": "Neftedollar/t-search-harness-dotnet",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:09:50Z",
+    "url": "https://github.com/Neftedollar/t-search-harness-dotnet"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -90,15 +162,6 @@
     "url": "https://github.com/AgentEra/Agently"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-07-31T12:00:12Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
     "id": "MariusYvard/corparius",
     "language": "Python",
@@ -117,15 +180,6 @@
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T11:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -133,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T11:39:11Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
-    "id": "sarptandoven/doppl-multiplayer",
-    "language": "Python",
-    "name": "sarptandoven/doppl-multiplayer",
-    "stars": 0,
-    "updated_at": "2026-07-31T11:36:58Z",
-    "url": "https://github.com/sarptandoven/doppl-multiplayer"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 1,
-    "updated_at": "2026-07-31T11:32:28Z",
+    "updated_at": "2026-07-31T12:14:53Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -223,24 +268,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T11:13:37Z",
     "url": "https://github.com/pamod-madubashana/cotrex-ai"
-  },
-  {
-    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
-    "id": "junebuild/june",
-    "language": "TypeScript",
-    "name": "junebuild/june",
-    "stars": 3,
-    "updated_at": "2026-07-31T11:58:37Z",
-    "url": "https://github.com/junebuild/june"
-  },
-  {
-    "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 21 crates, 3 frontends (CLI/TUI/Desktop), GOAP planning + swarm co",
-    "id": "W117C/DeepseekNova",
-    "language": "Rust",
-    "name": "W117C/DeepseekNova",
-    "stars": 3,
-    "updated_at": "2026-07-31T11:06:04Z",
-    "url": "https://github.com/W117C/DeepseekNova"
   },
   {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-07-31T10:41:24Z",
+    "updated_at": "2026-07-31T12:13:40Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T10:07:30Z",
     "url": "https://github.com/japo0nn/jumabek"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 74,
-    "updated_at": "2026-07-31T09:58:39Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-31T09:48:13Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "\ud83d\udc1d \u5f15\u5de2 \u00b7 ZyHive | AI \u56e2\u961f\u64cd\u4f5c\u7cfb\u7edf \u2014 \u4e3a AI \u6210\u5458\u6ce8\u5165\u7075\u9b42\uff0c\u53ef\u89c6\u5316\u7ba1\u7406\u591a\u667a\u80fd\u4f53\u56e2\u961f\u3002Self-hosted AI Team OS \u00b7 Go + Vue 3 \u00b7 One-click deploy",
-    "id": "Zyling-ai/ZyHive",
-    "language": "Go",
-    "name": "Zyling-ai/ZyHive",
-    "stars": 19,
-    "updated_at": "2026-07-31T09:52:04Z",
-    "url": "https://github.com/Zyling-ai/ZyHive"
   }
 ]
