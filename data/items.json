@@ -1,5 +1,77 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7977,
+    "updated_at": "2026-07-31T17:57:17Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 3,
+    "updated_at": "2026-07-31T17:59:04Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6751,
+    "updated_at": "2026-07-31T17:49:32Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Cotrex is an open-source AI execution engine that enables LLMs to securely use tools, execute tasks, and automate real-w",
+    "id": "pamod-madubashana/cotrex-ai",
+    "language": "Rust",
+    "name": "pamod-madubashana/cotrex-ai",
+    "stars": 1,
+    "updated_at": "2026-07-31T17:49:08Z",
+    "url": "https://github.com/pamod-madubashana/cotrex-ai"
+  },
+  {
+    "description": "Agent-agnostic base image for putting any terminal AI coding agent (claude-code, pi, opencode...) on the network. Bolt o",
+    "id": "psyb0t/docker-aicodebox",
+    "language": "Python",
+    "name": "psyb0t/docker-aicodebox",
+    "stars": 0,
+    "updated_at": "2026-07-31T17:48:36Z",
+    "url": "https://github.com/psyb0t/docker-aicodebox"
+  },
+  {
+    "description": "A structured agent runtime for LLMs \u2014 context memory, multi-stage workflows, and ECS-based orchestration in a single bin",
+    "id": "Sun-Forge-AI/leviath",
+    "language": "Rust",
+    "name": "Sun-Forge-AI/leviath",
+    "stars": 0,
+    "updated_at": "2026-07-31T17:57:10Z",
+    "url": "https://github.com/Sun-Forge-AI/leviath"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 28219,
+    "updated_at": "2026-07-31T17:46:50Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T17:45:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -27,6 +99,15 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 5530,
+    "updated_at": "2026-07-31T17:37:56Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
     "id": "dmirain/OctoForge",
     "language": "Python",
@@ -36,33 +117,6 @@
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7976,
-    "updated_at": "2026-07-31T17:41:15Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "A structured agent runtime for LLMs \u2014 context memory, multi-stage workflows, and ECS-based orchestration in a single bin",
-    "id": "Sun-Forge-AI/leviath",
-    "language": "Rust",
-    "name": "Sun-Forge-AI/leviath",
-    "stars": 0,
-    "updated_at": "2026-07-31T17:33:12Z",
-    "url": "https://github.com/Sun-Forge-AI/leviath"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T17:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
     "id": "xiejianjun000/eco-agent",
     "language": "Python",
@@ -70,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T17:29:34Z",
     "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28216,
-    "updated_at": "2026-07-31T17:26:09Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "The zero-trust framework for autonomous AI agents.",
@@ -189,15 +234,6 @@
     "url": "https://github.com/amajorai/ryu"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 5529,
-    "updated_at": "2026-07-31T17:37:56Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -212,7 +248,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-31T17:08:00Z",
+    "updated_at": "2026-07-31T17:56:13Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-07-31T17:02:11Z",
+    "updated_at": "2026-07-31T17:52:51Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 663,
-    "updated_at": "2026-07-31T16:52:45Z",
+    "updated_at": "2026-07-31T17:55:07Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-31T16:23:57Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-07-31T17:35:18Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-07-31T16:19:00Z",
-    "url": "https://github.com/MariusYvard/corparius"
-  },
-  {
-    "description": "Security-first AI agent daemon \u2014 the model proposes actions, the runtime decides what execute",
-    "id": "shisa-ai/shisad",
-    "language": "Python",
-    "name": "shisa-ai/shisad",
-    "stars": 29,
-    "updated_at": "2026-07-31T16:15:16Z",
-    "url": "https://github.com/shisa-ai/shisad"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-31T16:14:56Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   }
 ]
