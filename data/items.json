@@ -1,21 +1,48 @@
 [
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 74,
-    "updated_at": "2026-07-31T07:31:52Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7949,
-    "updated_at": "2026-07-31T07:32:38Z",
+    "updated_at": "2026-07-31T07:43:37Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 10,
+    "updated_at": "2026-07-31T07:41:15Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4891,
+    "updated_at": "2026-07-31T07:40:31Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-31T07:37:29Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83e\udd16 Industrial-Grade Universal Autonomous AI Agent Framework: Mid-Flight Steering, MD5 Hashline Precision Edits, Auto Mode",
+    "id": "dylanma8232-art/Daming-Agent",
+    "language": "Python",
+    "name": "dylanma8232-art/Daming-Agent",
+    "stars": 1,
+    "updated_at": "2026-07-31T07:33:49Z",
+    "url": "https://github.com/dylanma8232-art/Daming-Agent"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-07-31T07:30:27Z",
+    "updated_at": "2026-07-31T07:33:15Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 74,
+    "updated_at": "2026-07-31T07:31:52Z",
+    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -59,7 +95,7 @@
     "language": "Rust",
     "name": "open1s/bos",
     "stars": 1,
-    "updated_at": "2026-07-31T07:27:23Z",
+    "updated_at": "2026-07-31T07:42:19Z",
     "url": "https://github.com/open1s/bos"
   },
   {
@@ -99,15 +135,6 @@
     "url": "https://github.com/susyimes/android-agent-harness"
   },
   {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 10,
-    "updated_at": "2026-07-31T07:19:32Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
     "id": "jiayan-xu/agent-core",
     "language": "Rust",
@@ -130,7 +157,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 5512,
+    "stars": 5513,
     "updated_at": "2026-07-31T07:17:08Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -259,24 +286,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T06:38:05Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83e\udd16 Industrial-Grade Universal Autonomous AI Agent Framework: Mid-Flight Steering, MD5 Hashline Precision Edits, Auto Mode",
-    "id": "dylanma8232-art/Daming-Agent",
-    "language": "Python",
-    "name": "dylanma8232-art/Daming-Agent",
-    "stars": 1,
-    "updated_at": "2026-07-31T06:37:16Z",
-    "url": "https://github.com/dylanma8232-art/Daming-Agent"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4891,
-    "updated_at": "2026-07-31T06:35:33Z",
-    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T05:56:45Z",
     "url": "https://github.com/CorvidLabs/let"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 2,
-    "updated_at": "2026-07-31T05:28:08Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
   }
 ]
