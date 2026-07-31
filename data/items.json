@@ -1,21 +1,102 @@
 [
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
+    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
+    "id": "BrainoutputHQ/brainoutput-community",
+    "language": "JavaScript",
+    "name": "BrainoutputHQ/brainoutput-community",
+    "stars": 0,
+    "updated_at": "2026-07-31T08:58:09Z",
+    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
     "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-31T08:44:17Z",
-    "url": "https://github.com/tya5/reyn"
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-07-31T08:56:30Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 36,
+    "updated_at": "2026-07-31T08:55:44Z",
+    "url": "https://github.com/Marssssss/OneAI"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7950,
-    "updated_at": "2026-07-31T08:45:18Z",
+    "stars": 7951,
+    "updated_at": "2026-07-31T08:59:13Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-07-31T08:55:27Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation \u2014 out of one git rep",
+    "id": "jamillazarev/opsinist",
+    "language": "Shell",
+    "name": "jamillazarev/opsinist",
+    "stars": 0,
+    "updated_at": "2026-07-31T08:53:45Z",
+    "url": "https://github.com/jamillazarev/opsinist"
+  },
+  {
+    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
+    "id": "JunMystery/Agent-Guidance-Rust",
+    "language": "Rust",
+    "name": "JunMystery/Agent-Guidance-Rust",
+    "stars": 0,
+    "updated_at": "2026-07-31T08:53:33Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "\ud83d\udc1d \u5f15\u5de2 \u00b7 ZyHive | AI \u56e2\u961f\u64cd\u4f5c\u7cfb\u7edf \u2014 \u4e3a AI \u6210\u5458\u6ce8\u5165\u7075\u9b42\uff0c\u53ef\u89c6\u5316\u7ba1\u7406\u591a\u667a\u80fd\u4f53\u56e2\u961f\u3002Self-hosted AI Team OS \u00b7 Go + Vue 3 \u00b7 One-click deploy",
+    "id": "Zyling-ai/ZyHive",
+    "language": "Go",
+    "name": "Zyling-ai/ZyHive",
+    "stars": 19,
+    "updated_at": "2026-07-31T08:55:12Z",
+    "url": "https://github.com/Zyling-ai/ZyHive"
+  },
+  {
+    "description": "Turn any skill into a standalone, runnable RAG-native AI Agent",
+    "id": "agenthatch/agenthatch",
+    "language": "Python",
+    "name": "agenthatch/agenthatch",
+    "stars": 61,
+    "updated_at": "2026-07-31T08:47:49Z",
+    "url": "https://github.com/agenthatch/agenthatch"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T08:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-31T08:56:14Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and",
@@ -25,15 +106,6 @@
     "stars": 141,
     "updated_at": "2026-07-31T08:44:09Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
-    "id": "JunMystery/Agent-Guidance-Rust",
-    "language": "Rust",
-    "name": "JunMystery/Agent-Guidance-Rust",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:37:36Z",
-    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
   },
   {
     "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
@@ -59,7 +131,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6688,
-    "updated_at": "2026-07-31T08:44:32Z",
+    "updated_at": "2026-07-31T08:52:19Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -81,20 +153,11 @@
     "url": "https://github.com/speleoalex/myagent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T08:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18924,
+    "stars": 18923,
     "updated_at": "2026-07-31T08:30:15Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -130,7 +193,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4826,
+    "stars": 4825,
     "updated_at": "2026-07-31T08:24:50Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -151,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T08:21:27Z",
     "url": "https://github.com/sarptandoven/doppl-multiplayer"
-  },
-  {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
-    "stars": 2,
-    "updated_at": "2026-07-31T08:18:51Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
   },
   {
     "description": "An agent-loop engine in Rust \u2014 one interface over LLM APIs and external coding agents, with one typed event stream out.",
@@ -189,13 +243,13 @@
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
-    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
-    "id": "BrainoutputHQ/brainoutput-community",
-    "language": "JavaScript",
-    "name": "BrainoutputHQ/brainoutput-community",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:09:08Z",
-    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 203,
+    "updated_at": "2026-07-31T08:09:10Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "Orchestrate armies of AI agents from a single prompt. Open-core, bring-your-own-key, and self-hostable \u2014 Orchestrator ro",
@@ -232,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T07:54:38Z",
     "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-07-31T07:48:21Z",
-    "url": "https://github.com/Marssssss/OneAI"
   },
   {
     "description": "",
@@ -355,7 +400,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46457,
+    "stars": 46458,
     "updated_at": "2026-07-31T07:08:07Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 50,
-    "updated_at": "2026-07-31T07:04:10Z",
+    "updated_at": "2026-07-31T08:55:44Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T06:38:05Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Democratizing Reinforcement Learning for LLMs",
-    "id": "rllm-org/rllm",
-    "language": "Python",
-    "name": "rllm-org/rllm",
-    "stars": 5750,
-    "updated_at": "2026-07-31T06:34:02Z",
-    "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
-    "id": "NSIETeam/Mira",
-    "language": "Python",
-    "name": "NSIETeam/Mira",
-    "stars": 1,
-    "updated_at": "2026-07-31T06:31:27Z",
-    "url": "https://github.com/NSIETeam/Mira"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 5,
-    "updated_at": "2026-07-31T06:29:04Z",
-    "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f AEGIS v15.0 \u2014 AI Agent Team Framework for Claude Code | 11 Marvel Personas \u2022 37 Skills \u2022 16 Commands \u2022 14 Hooks \u2022 60+",
-    "id": "phariyawitjiap-aeternix/AEGIS-Team",
-    "language": "Shell",
-    "name": "phariyawitjiap-aeternix/AEGIS-Team",
-    "stars": 0,
-    "updated_at": "2026-07-31T06:25:07Z",
-    "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 8,
-    "updated_at": "2026-07-31T08:24:11Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   }
 ]
