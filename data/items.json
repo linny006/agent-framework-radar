@@ -1,11 +1,110 @@
 [
   {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-31T22:14:22Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-07-31T22:14:33Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-07-31T22:11:19Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
+    "id": "loopedautomation/meet",
+    "language": "TypeScript",
+    "name": "loopedautomation/meet",
+    "stars": 6,
+    "updated_at": "2026-07-31T22:09:40Z",
+    "url": "https://github.com/loopedautomation/meet"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-07-31T22:07:36Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-31T22:06:56Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Vendor-neutral conversion, compatibility, and testing for reusable AI agent skills.",
+    "id": "gwolf2025/SkillBridge",
+    "language": "TypeScript",
+    "name": "gwolf2025/SkillBridge",
+    "stars": 0,
+    "updated_at": "2026-07-31T22:06:20Z",
+    "url": "https://github.com/gwolf2025/SkillBridge"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-07-31T22:04:33Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 154,
+    "updated_at": "2026-07-31T22:03:36Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-07-31T22:02:31Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T22:01:46Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DSPy Go implementation",
     "id": "XiaoConstantine/dspy-go",
     "language": "Go",
     "name": "XiaoConstantine/dspy-go",
     "stars": 192,
-    "updated_at": "2026-07-31T22:01:31Z",
+    "updated_at": "2026-07-31T22:03:10Z",
     "url": "https://github.com/XiaoConstantine/dspy-go"
   },
   {
@@ -16,15 +115,6 @@
     "stars": 154,
     "updated_at": "2026-07-31T22:00:45Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T22:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -40,7 +130,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 667,
+    "stars": 669,
     "updated_at": "2026-07-31T21:56:00Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -77,7 +167,7 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 0,
-    "updated_at": "2026-07-31T21:52:25Z",
+    "updated_at": "2026-07-31T22:12:39Z",
     "url": "https://github.com/codewandler/flux"
   },
   {
@@ -90,15 +180,6 @@
     "url": "https://github.com/Zyling-ai/ZyHive"
   },
   {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-07-31T21:53:14Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
     "description": "9-step autonomous agent task scheduling & skill crystallization engine \u2014 cron/event-driven pipeline with SQLite persiste",
     "id": "zijing271-dot/agent-factory",
     "language": "Python",
@@ -108,21 +189,12 @@
     "url": "https://github.com/zijing271-dot/agent-factory"
   },
   {
-    "description": "Vendor-neutral conversion, compatibility, and testing for reusable AI agent skills.",
-    "id": "gwolf2025/SkillBridge",
-    "language": "TypeScript",
-    "name": "gwolf2025/SkillBridge",
-    "stars": 0,
-    "updated_at": "2026-07-31T21:48:05Z",
-    "url": "https://github.com/gwolf2025/SkillBridge"
-  },
-  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 8,
-    "updated_at": "2026-07-31T21:45:26Z",
+    "updated_at": "2026-07-31T22:03:27Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "KrakenNet/stargraph",
     "stars": 3,
-    "updated_at": "2026-07-31T21:42:04Z",
+    "updated_at": "2026-07-31T22:12:03Z",
     "url": "https://github.com/KrakenNet/stargraph"
   },
   {
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18933,
-    "updated_at": "2026-07-31T21:59:25Z",
+    "updated_at": "2026-07-31T22:15:12Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -171,15 +243,6 @@
     "url": "https://github.com/Yigtwxx/Maestro"
   },
   {
-    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
-    "id": "loopedautomation/meet",
-    "language": "TypeScript",
-    "name": "loopedautomation/meet",
-    "stars": 6,
-    "updated_at": "2026-07-31T21:43:48Z",
-    "url": "https://github.com/loopedautomation/meet"
-  },
-  {
     "description": "The zero-trust framework for autonomous AI agents.",
     "id": "calebfaruki/sycophant",
     "language": "Rust",
@@ -187,24 +250,6 @@
     "stars": 6,
     "updated_at": "2026-07-31T21:35:58Z",
     "url": "https://github.com/calebfaruki/sycophant"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-07-31T21:35:07Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-07-31T21:53:17Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
@@ -288,15 +333,6 @@
     "url": "https://github.com/NirDiamant/agents-towards-production"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-31T21:05:52Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Core Rust harness primitives for disciplined, replayable agent execution.",
     "id": "referential-ai/platonic-core",
     "language": "Rust",
@@ -306,30 +342,12 @@
     "url": "https://github.com/referential-ai/platonic-core"
   },
   {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-07-31T20:58:01Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-31T20:57:56Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 5534,
-    "updated_at": "2026-07-31T21:33:57Z",
+    "updated_at": "2026-07-31T22:12:27Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Shell",
     "name": "DYAI2025/Plumbline",
     "stars": 6,
-    "updated_at": "2026-07-31T20:46:44Z",
+    "updated_at": "2026-07-31T22:02:55Z",
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
@@ -403,24 +421,6 @@
     "stars": 3,
     "updated_at": "2026-07-31T20:33:54Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-07-31T20:19:32Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 154,
-    "updated_at": "2026-07-31T20:18:37Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   },
   {
     "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 22 crates, CLI/TUI/Desktop, agentic tool loop + graph retrieval + ",
