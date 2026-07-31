@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-31 07:30 UTC
+> ⏰ Last updated: 2026-07-31 07:33 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | 1610 | Go | 2026-07-31 | A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a |
-| 2 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 120 | Shell | 2026-07-31 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
-| 3 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 74 | TypeScript | 2026-07-31 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 4 | [open1s/bos](https://github.com/open1s/bos) | 1 | Rust | 2026-07-31 | AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills — in Rust, Python & JavaScript. |
-| 5 | [BrainoutputHQ/brainoutput-community](https://github.com/BrainoutputHQ/brainoutput-community) | 0 | JavaScript | 2026-07-31 | An AI company you run yourself — agents with roles, approval gates and a Work Twin per person, on your own free / local  |
-| 6 | [sarptandoven/doppl-multiplayer](https://github.com/sarptandoven/doppl-multiplayer) | 0 | Python | 2026-07-31 | People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu |
-| 7 | [fierceX/mink](https://github.com/fierceX/mink) | 0 | Rust | 2026-07-31 | Lightweight AI coding agent — Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp |
-| 8 | [susyimes/android-agent-harness](https://github.com/susyimes/android-agent-harness) | 24 | Kotlin | 2026-07-31 | Provider-neutral bounded agent runtime for Android/JVM: controlled context (trust/priority/budgets), profile-scoped tool |
-| 9 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 10 | Python | 2026-07-31 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. |
-| 10 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7948 | Python | 2026-07-31 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 11 | [jiayan-xu/agent-core](https://github.com/jiayan-xu/agent-core) | 1 | Rust | 2026-07-31 | Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust. |
-| 12 | [substructureai/substructure](https://github.com/substructureai/substructure) | 5 | Rust | 2026-07-31 | Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre |
-| 13 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 5512 | Python | 2026-07-31 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
-| 14 | [kyashrathore/Claxedo](https://github.com/kyashrathore/Claxedo) | 2 | TypeScript | 2026-07-31 | Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products |
-| 15 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-31 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 16 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-07-31 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 1 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 74 | TypeScript | 2026-07-31 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 2 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7949 | Python | 2026-07-31 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 3 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-31 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 4 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-07-31 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 5 | [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | 1610 | Go | 2026-07-31 | A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a |
+| 6 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 120 | Shell | 2026-07-31 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
+| 7 | [open1s/bos](https://github.com/open1s/bos) | 1 | Rust | 2026-07-31 | AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills — in Rust, Python & JavaScript. |
+| 8 | [BrainoutputHQ/brainoutput-community](https://github.com/BrainoutputHQ/brainoutput-community) | 0 | JavaScript | 2026-07-31 | An AI company you run yourself — agents with roles, approval gates and a Work Twin per person, on your own free / local  |
+| 9 | [sarptandoven/doppl-multiplayer](https://github.com/sarptandoven/doppl-multiplayer) | 0 | Python | 2026-07-31 | People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu |
+| 10 | [fierceX/mink](https://github.com/fierceX/mink) | 0 | Rust | 2026-07-31 | Lightweight AI coding agent — Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp |
+| 11 | [susyimes/android-agent-harness](https://github.com/susyimes/android-agent-harness) | 24 | Kotlin | 2026-07-31 | Provider-neutral bounded agent runtime for Android/JVM: controlled context (trust/priority/budgets), profile-scoped tool |
+| 12 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 10 | Python | 2026-07-31 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. |
+| 13 | [jiayan-xu/agent-core](https://github.com/jiayan-xu/agent-core) | 1 | Rust | 2026-07-31 | Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust. |
+| 14 | [substructureai/substructure](https://github.com/substructureai/substructure) | 5 | Rust | 2026-07-31 | Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre |
+| 15 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 5512 | Python | 2026-07-31 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
+| 16 | [kyashrathore/Claxedo](https://github.com/kyashrathore/Claxedo) | 2 | TypeScript | 2026-07-31 | Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products |
 | 17 | [ZhangHalfGod/Agents-Skill-Site](https://github.com/ZhangHalfGod/Agents-Skill-Site) | 0 | JavaScript | 2026-07-31 |  AI Code Governance |
 | 18 | [opencue/cuecards](https://github.com/opencue/cuecards) | 4 | TypeScript | 2026-07-31 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
 | 19 | [xuiltul/animaworks](https://github.com/xuiltul/animaworks) | 250 | Python | 2026-07-31 | Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model  |
