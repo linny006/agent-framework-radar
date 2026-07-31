@@ -1,5 +1,122 @@
 [
   {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 46,
+    "updated_at": "2026-07-31T18:59:10Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-07-31T18:58:29Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-07-31T18:57:55Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation \u2014 out of one git rep",
+    "id": "jamillazarev/opsinist",
+    "language": "Shell",
+    "name": "jamillazarev/opsinist",
+    "stars": 0,
+    "updated_at": "2026-07-31T18:57:32Z",
+    "url": "https://github.com/jamillazarev/opsinist"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 74,
+    "updated_at": "2026-07-31T18:57:26Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
+    "id": "agentjido/jidoka",
+    "language": "Elixir",
+    "name": "agentjido/jidoka",
+    "stars": 32,
+    "updated_at": "2026-07-31T18:58:54Z",
+    "url": "https://github.com/agentjido/jidoka"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 582,
+    "updated_at": "2026-07-31T18:56:54Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6752,
+    "updated_at": "2026-07-31T18:52:46Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7977,
+    "updated_at": "2026-07-31T18:52:45Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Self-hosted, privacy-first AI collaborator with durable memory, real tools, channel-native access, routines, and auditab",
+    "id": "RNT56/ThinClaw",
+    "language": "Rust",
+    "name": "RNT56/ThinClaw",
+    "stars": 0,
+    "updated_at": "2026-07-31T18:49:24Z",
+    "url": "https://github.com/RNT56/ThinClaw"
+  },
+  {
+    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 3,
+    "updated_at": "2026-07-31T18:55:19Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
+    "id": "danmo-ai/danmo-work",
+    "language": "Go",
+    "name": "danmo-ai/danmo-work",
+    "stars": 2,
+    "updated_at": "2026-07-31T18:47:24Z",
+    "url": "https://github.com/danmo-ai/danmo-work"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T18:45:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -23,35 +140,8 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-07-31T18:39:35Z",
+    "updated_at": "2026-07-31T18:55:48Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 3,
-    "updated_at": "2026-07-31T18:38:05Z",
-    "url": "https://github.com/ionalpha/flynn"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6752,
-    "updated_at": "2026-07-31T18:36:19Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
-    "id": "danmo-ai/danmo-work",
-    "language": "Go",
-    "name": "danmo-ai/danmo-work",
-    "stars": 2,
-    "updated_at": "2026-07-31T18:35:18Z",
-    "url": "https://github.com/danmo-ai/danmo-work"
   },
   {
     "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
@@ -61,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T18:43:34Z",
     "url": "https://github.com/billybox1926-jpg/Terminai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T18:30:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
@@ -130,7 +211,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28224,
+    "stars": 28227,
     "updated_at": "2026-07-31T18:19:19Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -196,15 +277,6 @@
     "stars": 203,
     "updated_at": "2026-07-31T18:12:18Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7977,
-    "updated_at": "2026-07-31T18:12:07Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
@@ -279,15 +351,6 @@
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
-    "stars": 2,
-    "updated_at": "2026-07-31T17:29:34Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
     "description": "The zero-trust framework for autonomous AI agents.",
     "id": "calebfaruki/sycophant",
     "language": "Rust",
@@ -322,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T17:23:03Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-07-31T18:43:02Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -394,59 +448,5 @@
     "stars": 34,
     "updated_at": "2026-07-31T17:13:51Z",
     "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 74,
-    "updated_at": "2026-07-31T18:34:59Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
-    "id": "bailong-Hakuryu/E.R.I.I",
-    "language": "Python",
-    "name": "bailong-Hakuryu/E.R.I.I",
-    "stars": 1,
-    "updated_at": "2026-07-31T17:06:14Z",
-    "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
-  },
-  {
-    "description": "\ud83e\udded Find any agent asset for any agent. Host-neutral locator for skills, worktrees, instructions, and agent.3md across Cla",
-    "id": "CorvidLabs/let",
-    "language": "TypeScript",
-    "name": "CorvidLabs/let",
-    "stars": 0,
-    "updated_at": "2026-07-31T17:03:03Z",
-    "url": "https://github.com/CorvidLabs/let"
-  },
-  {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 2,
-    "updated_at": "2026-07-31T17:01:49Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 340,
-    "updated_at": "2026-07-31T16:59:46Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 46,
-    "updated_at": "2026-07-31T18:40:10Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   }
 ]
