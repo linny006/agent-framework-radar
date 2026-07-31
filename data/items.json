@@ -1,12 +1,102 @@
 [
   {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 8,
+    "updated_at": "2026-07-31T21:45:20Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "Self-hosted, privacy-first AI collaborator with durable memory, real tools, channel-native access, routines, and auditab",
+    "id": "RNT56/ThinClaw",
+    "language": "Rust",
+    "name": "RNT56/ThinClaw",
+    "stars": 0,
+    "updated_at": "2026-07-31T21:44:27Z",
+    "url": "https://github.com/RNT56/ThinClaw"
+  },
+  {
+    "description": "\ud83d\udc1d \u5f15\u5de2 \u00b7 ZyHive | AI \u56e2\u961f\u64cd\u4f5c\u7cfb\u7edf \u2014 \u4e3a AI \u6210\u5458\u6ce8\u5165\u7075\u9b42\uff0c\u53ef\u89c6\u5316\u7ba1\u7406\u591a\u667a\u80fd\u4f53\u56e2\u961f\u3002Self-hosted AI Team OS \u00b7 Go + Vue 3 \u00b7 One-click deploy",
+    "id": "Zyling-ai/ZyHive",
+    "language": "Go",
+    "name": "Zyling-ai/ZyHive",
+    "stars": 19,
+    "updated_at": "2026-07-31T21:42:37Z",
+    "url": "https://github.com/Zyling-ai/ZyHive"
+  },
+  {
+    "description": "Stateful agent-graph framework with deterministic governance \u2014 rules route transitions, not the LLM. Auditable, replayab",
+    "id": "KrakenNet/stargraph",
+    "language": "Python",
+    "name": "KrakenNet/stargraph",
+    "stars": 3,
+    "updated_at": "2026-07-31T21:42:04Z",
+    "url": "https://github.com/KrakenNet/stargraph"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18933,
+    "updated_at": "2026-07-31T21:39:09Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Orchestrate armies of AI agents from a single prompt. Open-core, bring-your-own-key, and self-hostable \u2014 Orchestrator ro",
+    "id": "Yigtwxx/Maestro",
+    "language": "Python",
+    "name": "Yigtwxx/Maestro",
+    "stars": 2,
+    "updated_at": "2026-07-31T21:37:20Z",
+    "url": "https://github.com/Yigtwxx/Maestro"
+  },
+  {
+    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
+    "id": "loopedautomation/meet",
+    "language": "TypeScript",
+    "name": "loopedautomation/meet",
+    "stars": 6,
+    "updated_at": "2026-07-31T21:43:48Z",
+    "url": "https://github.com/loopedautomation/meet"
+  },
+  {
+    "description": "The zero-trust framework for autonomous AI agents.",
+    "id": "calebfaruki/sycophant",
+    "language": "Rust",
+    "name": "calebfaruki/sycophant",
+    "stars": 6,
+    "updated_at": "2026-07-31T21:35:58Z",
+    "url": "https://github.com/calebfaruki/sycophant"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-07-31T21:35:07Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-07-31T21:28:54Z",
+    "updated_at": "2026-07-31T21:32:37Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 12,
+    "updated_at": "2026-07-31T21:31:33Z",
+    "url": "https://github.com/wrg32786/aigent-os"
   },
   {
     "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
@@ -14,8 +104,26 @@
     "language": "TypeScript",
     "name": "Qwixl/Atom",
     "stars": 1,
-    "updated_at": "2026-07-31T21:28:33Z",
+    "updated_at": "2026-07-31T21:31:10Z",
     "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-07-31T21:30:40Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T21:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
@@ -32,7 +140,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 46,
-    "updated_at": "2026-07-31T21:28:49Z",
+    "updated_at": "2026-07-31T21:31:52Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -43,33 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T21:19:42Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T21:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
-    "id": "wrg32786/aigent-os",
-    "language": "JavaScript",
-    "name": "wrg32786/aigent-os",
-    "stars": 12,
-    "updated_at": "2026-07-31T21:24:06Z",
-    "url": "https://github.com/wrg32786/aigent-os"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-07-31T21:10:49Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -95,7 +176,7 @@
     "language": "Python",
     "name": "sarptandoven/doppl-multiplayer",
     "stars": 0,
-    "updated_at": "2026-07-31T21:09:15Z",
+    "updated_at": "2026-07-31T21:42:46Z",
     "url": "https://github.com/sarptandoven/doppl-multiplayer"
   },
   {
@@ -158,8 +239,17 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 5534,
-    "updated_at": "2026-07-31T21:28:18Z",
+    "updated_at": "2026-07-31T21:33:57Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Vendor-neutral conversion, compatibility, and testing for reusable AI agent skills.",
+    "id": "gwolf2025/SkillBridge",
+    "language": "TypeScript",
+    "name": "gwolf2025/SkillBridge",
+    "stars": 0,
+    "updated_at": "2026-07-31T20:53:34Z",
+    "url": "https://github.com/gwolf2025/SkillBridge"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -167,7 +257,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12522,
-    "updated_at": "2026-07-31T20:53:16Z",
+    "updated_at": "2026-07-31T21:42:05Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -234,15 +324,6 @@
     "url": "https://github.com/agentjido/jidoka"
   },
   {
-    "description": "\ud83d\udc1d \u5f15\u5de2 \u00b7 ZyHive | AI \u56e2\u961f\u64cd\u4f5c\u7cfb\u7edf \u2014 \u4e3a AI \u6210\u5458\u6ce8\u5165\u7075\u9b42\uff0c\u53ef\u89c6\u5316\u7ba1\u7406\u591a\u667a\u80fd\u4f53\u56e2\u961f\u3002Self-hosted AI Team OS \u00b7 Go + Vue 3 \u00b7 One-click deploy",
-    "id": "Zyling-ai/ZyHive",
-    "language": "Go",
-    "name": "Zyling-ai/ZyHive",
-    "stars": 19,
-    "updated_at": "2026-07-31T20:40:49Z",
-    "url": "https://github.com/Zyling-ai/ZyHive"
-  },
-  {
     "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
     "id": "ionalpha/flynn",
     "language": "Go",
@@ -268,15 +349,6 @@
     "stars": 3,
     "updated_at": "2026-07-31T20:33:54Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-07-31T21:16:52Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -311,7 +383,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-07-31T20:31:10Z",
+    "updated_at": "2026-07-31T21:44:06Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -322,15 +394,6 @@
     "stars": 3,
     "updated_at": "2026-07-31T20:12:10Z",
     "url": "https://github.com/W117C/DeepseekNova"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18933,
-    "updated_at": "2026-07-31T20:08:29Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T20:32:41Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "\ud83e\udded Find any agent asset for any agent. Host-neutral locator for skills, worktrees, instructions, and agent.3md across Cla",
-    "id": "CorvidLabs/let",
-    "language": "TypeScript",
-    "name": "CorvidLabs/let",
-    "stars": 0,
-    "updated_at": "2026-07-31T19:43:39Z",
-    "url": "https://github.com/CorvidLabs/let"
-  },
-  {
-    "description": "The Fable Method: a structured problem-solving loop that gives any model Fable 5 grade thinking. Four Hermes Agent skill",
-    "id": "ardhaecosystem/fable-method",
-    "language": "Python",
-    "name": "ardhaecosystem/fable-method",
-    "stars": 0,
-    "updated_at": "2026-07-31T19:35:13Z",
-    "url": "https://github.com/ardhaecosystem/fable-method"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28234,
-    "updated_at": "2026-07-31T19:28:03Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
-    "id": "Thepizzapie/BuildersGate",
-    "language": "Python",
-    "name": "Thepizzapie/BuildersGate",
-    "stars": 14,
-    "updated_at": "2026-07-31T19:27:36Z",
-    "url": "https://github.com/Thepizzapie/BuildersGate"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-31T19:22:54Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-07-31T19:22:46Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 5,
-    "updated_at": "2026-07-31T19:22:19Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   }
 ]
