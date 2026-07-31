@@ -1,5 +1,95 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7939,
+    "updated_at": "2026-07-31T03:44:31Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-07-31T03:41:58Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "COMA is an LLM agent harness written entirely in Zig.",
+    "id": "mrazza/coma",
+    "language": "Zig",
+    "name": "mrazza/coma",
+    "stars": 0,
+    "updated_at": "2026-07-31T03:41:50Z",
+    "url": "https://github.com/mrazza/coma"
+  },
+  {
+    "description": "Governed AI agent workforce operating system. 164-entry specialist roster, SHACKLE governance (SP/1.0 conformance-verifi",
+    "id": "Fame510/ONITSIR-WORKFORCE",
+    "language": "TypeScript",
+    "name": "Fame510/ONITSIR-WORKFORCE",
+    "stars": 0,
+    "updated_at": "2026-07-31T03:41:13Z",
+    "url": "https://github.com/Fame510/ONITSIR-WORKFORCE"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 9,
+    "updated_at": "2026-07-31T03:40:17Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
+    "id": "NSIETeam/Mira",
+    "language": "Python",
+    "name": "NSIETeam/Mira",
+    "stars": 1,
+    "updated_at": "2026-07-31T03:44:22Z",
+    "url": "https://github.com/NSIETeam/Mira"
+  },
+  {
+    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
+    "id": "BrainoutputHQ/brainoutput-community",
+    "language": "JavaScript",
+    "name": "BrainoutputHQ/brainoutput-community",
+    "stars": 0,
+    "updated_at": "2026-07-31T03:36:35Z",
+    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 74,
+    "updated_at": "2026-07-31T03:45:18Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
+    "id": "billybox1926-jpg/Terminai",
+    "language": "Python",
+    "name": "billybox1926-jpg/Terminai",
+    "stars": 1,
+    "updated_at": "2026-07-31T03:32:14Z",
+    "url": "https://github.com/billybox1926-jpg/Terminai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T03:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "MCP server providing coding standards, skills, and workflows for AI agents",
     "id": "JunMystery/Agent-Guidance-Rust",
     "language": "Rust",
@@ -27,15 +117,6 @@
     "url": "https://github.com/Caprista/KarvyLoop"
   },
   {
-    "description": "Mira \u2014 Lightweight AI Agent Execution Kernel | \u8f7b\u91cf\u7ea7 AI Agent \u6267\u884c\u5185\u6838\u3002\u81ea\u6258\u7ba1\u3001\u591a\u6a21\u578b\u3001\u591a\u901a\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001\u6301\u4e45\u8bb0\u5fc6\u3001\u5b9a\u65f6\u81ea\u52a8\u5316\u3002",
-    "id": "NSIETeam/Mira",
-    "language": "Python",
-    "name": "NSIETeam/Mira",
-    "stars": 1,
-    "updated_at": "2026-07-31T03:26:54Z",
-    "url": "https://github.com/NSIETeam/Mira"
-  },
-  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -43,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T03:26:08Z",
     "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
-    "id": "billybox1926-jpg/Terminai",
-    "language": "Python",
-    "name": "billybox1926-jpg/Terminai",
-    "stars": 1,
-    "updated_at": "2026-07-31T03:25:42Z",
-    "url": "https://github.com/billybox1926-jpg/Terminai"
   },
   {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
@@ -122,35 +194,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18914,
-    "updated_at": "2026-07-31T03:20:29Z",
+    "updated_at": "2026-07-31T03:36:37Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7938,
-    "updated_at": "2026-07-31T03:27:05Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T03:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
-    "id": "BrainoutputHQ/brainoutput-community",
-    "language": "JavaScript",
-    "name": "BrainoutputHQ/brainoutput-community",
-    "stars": 0,
-    "updated_at": "2026-07-31T03:14:38Z",
-    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
   },
   {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
@@ -160,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T03:13:31Z",
     "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 9,
-    "updated_at": "2026-07-31T03:11:32Z",
-    "url": "https://github.com/devoidfury/hotdog"
   },
   {
     "description": "Self-hosted AI agents with a web UI \u2014 extend with Python/JS tools & MCP, schedule with cron Jobs, publish as public chat",
@@ -229,7 +265,7 @@
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
-    "stars": 1608,
+    "stars": 1610,
     "updated_at": "2026-07-31T02:58:20Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
@@ -275,17 +311,8 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 5502,
-    "updated_at": "2026-07-31T02:59:05Z",
+    "updated_at": "2026-07-31T03:33:43Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
-    "stars": 2,
-    "updated_at": "2026-07-31T02:34:04Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -421,32 +448,5 @@
     "stars": 75,
     "updated_at": "2026-07-31T01:31:46Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Async-first Python SDK for multi-provider AI systems, durable agents, tools, workflows, safety, and observability.",
-    "id": "Zhivex/zhivex-ai-sdk-py",
-    "language": "Python",
-    "name": "Zhivex/zhivex-ai-sdk-py",
-    "stars": 0,
-    "updated_at": "2026-07-31T01:35:00Z",
-    "url": "https://github.com/Zhivex/zhivex-ai-sdk-py"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-07-31T01:25:26Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 338,
-    "updated_at": "2026-07-31T01:22:38Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   }
 ]
