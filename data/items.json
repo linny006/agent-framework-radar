@@ -1,11 +1,74 @@
 [
   {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 45,
+    "updated_at": "2026-07-31T10:30:04Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
+    "id": "sarptandoven/doppl-multiplayer",
+    "language": "Python",
+    "name": "sarptandoven/doppl-multiplayer",
+    "stars": 0,
+    "updated_at": "2026-07-31T10:25:59Z",
+    "url": "https://github.com/sarptandoven/doppl-multiplayer"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-31T10:24:34Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-07-31T10:20:20Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-07-31T10:18:48Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7954,
+    "updated_at": "2026-07-31T10:29:55Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-31T10:15:35Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-07-31T10:14:05Z",
+    "updated_at": "2026-07-31T10:15:28Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -18,15 +81,6 @@
     "url": "https://github.com/hara-cli/hara"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7954,
-    "updated_at": "2026-07-31T10:12:43Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Self-hosted AI agents with a web UI \u2014 extend with Python/JS tools & MCP, schedule with cron Jobs, publish as public chat",
     "id": "phamvanquyit/raw-agents",
     "language": "TypeScript",
@@ -34,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T10:12:13Z",
     "url": "https://github.com/phamvanquyit/raw-agents"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-07-31T10:14:06Z",
-    "url": "https://github.com/MariusYvard/corparius"
   },
   {
     "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-07-31T10:01:16Z",
+    "updated_at": "2026-07-31T10:28:57Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -180,15 +225,6 @@
     "url": "https://github.com/GopherSecurity/gopher-mcp-python"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-31T09:32:39Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
     "id": "vamsiramakrishnan/gemini-rs",
     "language": "Rust",
@@ -248,26 +284,8 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4826,
-    "updated_at": "2026-07-31T09:52:25Z",
+    "updated_at": "2026-07-31T10:29:40Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
-    "id": "sarptandoven/doppl-multiplayer",
-    "language": "Python",
-    "name": "sarptandoven/doppl-multiplayer",
-    "stars": 0,
-    "updated_at": "2026-07-31T09:17:25Z",
-    "url": "https://github.com/sarptandoven/doppl-multiplayer"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-07-31T10:13:40Z",
-    "url": "https://github.com/Birfy/agentdescent"
   },
   {
     "description": "Memory patterns, context strategies, and persistence recipes for AI agents. Sliding window, vector recall, hybrid memory",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T09:39:33Z",
     "url": "https://github.com/ZhangHalfGod/Agents-Skill-Site"
-  },
-  {
-    "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
-    "id": "speleoalex/myagent",
-    "language": "Python",
-    "name": "speleoalex/myagent",
-    "stars": 1,
-    "updated_at": "2026-07-31T08:33:22Z",
-    "url": "https://github.com/speleoalex/myagent"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18925,
-    "updated_at": "2026-07-31T08:30:15Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   }
 ]
