@@ -1,21 +1,75 @@
 [
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T23:14:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-07-31T23:14:20Z",
+    "updated_at": "2026-07-31T23:28:09Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 1,
+    "updated_at": "2026-07-31T23:28:23Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-07-31T23:27:26Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-07-31T23:25:31Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Vendor-neutral conversion, compatibility, and testing for reusable AI agent skills.",
+    "id": "gwolf2025/SkillBridge",
+    "language": "TypeScript",
+    "name": "gwolf2025/SkillBridge",
+    "stars": 0,
+    "updated_at": "2026-07-31T23:19:03Z",
+    "url": "https://github.com/gwolf2025/SkillBridge"
+  },
+  {
+    "description": "Cotrex is an open-source AI execution engine that enables LLMs to securely use tools, execute tasks, and automate real-w",
+    "id": "pamod-madubashana/cotrex-ai",
+    "language": "Rust",
+    "name": "pamod-madubashana/cotrex-ai",
+    "stars": 1,
+    "updated_at": "2026-07-31T23:15:35Z",
+    "url": "https://github.com/pamod-madubashana/cotrex-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T23:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
+    "id": "ellmos-ai/.github",
+    "language": "\u2014",
+    "name": "ellmos-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-07-31T23:14:51Z",
+    "url": "https://github.com/ellmos-ai/.github"
   },
   {
     "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18933,
-    "updated_at": "2026-07-31T23:08:46Z",
+    "updated_at": "2026-07-31T23:25:25Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -144,12 +198,21 @@
     "url": "https://github.com/psyb0t/docker-aicodebox"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7986,
+    "updated_at": "2026-07-31T22:41:48Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-07-31T22:31:25Z",
+    "updated_at": "2026-07-31T23:22:12Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -189,24 +252,6 @@
     "url": "https://github.com/sarptandoven/doppl-multiplayer"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-07-31T22:14:22Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7985,
-    "updated_at": "2026-07-31T22:41:48Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
     "id": "telus-labs/stagecraft",
     "language": "JavaScript",
@@ -220,7 +265,7 @@
     "id": "loopedautomation/meet",
     "language": "TypeScript",
     "name": "loopedautomation/meet",
-    "stars": 6,
+    "stars": 7,
     "updated_at": "2026-07-31T22:09:40Z",
     "url": "https://github.com/loopedautomation/meet"
   },
@@ -241,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T22:06:56Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Vendor-neutral conversion, compatibility, and testing for reusable AI agent skills.",
-    "id": "gwolf2025/SkillBridge",
-    "language": "TypeScript",
-    "name": "gwolf2025/SkillBridge",
-    "stars": 0,
-    "updated_at": "2026-07-31T22:06:20Z",
-    "url": "https://github.com/gwolf2025/SkillBridge"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -396,15 +432,6 @@
     "url": "https://github.com/wrg32786/aigent-os"
   },
   {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
-    "language": "TypeScript",
-    "name": "Qwixl/Atom",
-    "stars": 1,
-    "updated_at": "2026-07-31T21:50:14Z",
-    "url": "https://github.com/Qwixl/Atom"
-  },
-  {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
     "id": "dshakes/lantern",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 6753,
     "updated_at": "2026-07-31T21:10:30Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
-    "id": "NirDiamant/agents-towards-production",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/agents-towards-production",
-    "stars": 21218,
-    "updated_at": "2026-07-31T21:07:09Z",
-    "url": "https://github.com/NirDiamant/agents-towards-production"
-  },
-  {
-    "description": "Core Rust harness primitives for disciplined, replayable agent execution.",
-    "id": "referential-ai/platonic-core",
-    "language": "Rust",
-    "name": "referential-ai/platonic-core",
-    "stars": 0,
-    "updated_at": "2026-07-31T21:22:10Z",
-    "url": "https://github.com/referential-ai/platonic-core"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 5534,
-    "updated_at": "2026-07-31T22:35:14Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   }
 ]
