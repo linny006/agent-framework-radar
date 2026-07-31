@@ -1,5 +1,59 @@
 [
   {
+    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
+    "id": "JunMystery/Agent-Guidance-Rust",
+    "language": "Rust",
+    "name": "JunMystery/Agent-Guidance-Rust",
+    "stars": 0,
+    "updated_at": "2026-07-31T04:35:59Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 50,
+    "updated_at": "2026-07-31T04:35:55Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7942,
+    "updated_at": "2026-07-31T04:35:45Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Lightweight AI coding agent \u2014 Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp",
+    "id": "fierceX/mink",
+    "language": "Rust",
+    "name": "fierceX/mink",
+    "stars": 0,
+    "updated_at": "2026-07-31T04:31:23Z",
+    "url": "https://github.com/fierceX/mink"
+  },
+  {
+    "description": "An open-source, PyTorch-like runtime for dynamic multi-agent and multi-session workflows.",
+    "id": "Rath-Team/OpenRath",
+    "language": "Python",
+    "name": "Rath-Team/OpenRath",
+    "stars": 1096,
+    "updated_at": "2026-07-31T04:30:31Z",
+    "url": "https://github.com/Rath-Team/OpenRath"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T04:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent SDK, CLI, RPC, Computer-use in Rust",
     "id": "Wh1isper/starweaver",
     "language": "Rust",
@@ -9,21 +63,12 @@
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7941,
-    "updated_at": "2026-07-31T04:27:17Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-31T04:25:19Z",
+    "updated_at": "2026-07-31T04:33:48Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -99,15 +144,6 @@
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T04:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
     "id": "Marssssss/OneAI",
     "language": "Rust",
@@ -115,15 +151,6 @@
     "stars": 36,
     "updated_at": "2026-07-31T04:12:28Z",
     "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 50,
-    "updated_at": "2026-07-31T04:12:13Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T04:04:43Z",
     "url": "https://github.com/Fame510/ONITSIR-WORKFORCE"
-  },
-  {
-    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
-    "id": "JunMystery/Agent-Guidance-Rust",
-    "language": "Rust",
-    "name": "JunMystery/Agent-Guidance-Rust",
-    "stars": 0,
-    "updated_at": "2026-07-31T04:02:46Z",
-    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
   },
   {
     "description": "AI agent with zero dependencies, bring your own bun",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T02:25:45Z",
     "url": "https://github.com/zachmeador/shrimpy"
-  },
-  {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 0,
-    "updated_at": "2026-07-31T04:24:33Z",
-    "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "Agentic Medical RAG: Agentic memory-augmented retrieval and evidence grounding for medical question-answering tasks",
-    "id": "vkola-lab/Medical-Agentic-RAG",
-    "language": "Python",
-    "name": "vkola-lab/Medical-Agentic-RAG",
-    "stars": 2,
-    "updated_at": "2026-07-31T02:17:17Z",
-    "url": "https://github.com/vkola-lab/Medical-Agentic-RAG"
   }
 ]
