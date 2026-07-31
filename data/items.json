@@ -1,5 +1,140 @@
 [
   {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-07-31T19:14:31Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
+    "id": "ellmos-ai/ellmos-homebase-mcp",
+    "language": "Python",
+    "name": "ellmos-ai/ellmos-homebase-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-31T19:14:30Z",
+    "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 28228,
+    "updated_at": "2026-07-31T19:14:12Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation \u2014 out of one git rep",
+    "id": "jamillazarev/opsinist",
+    "language": "Shell",
+    "name": "jamillazarev/opsinist",
+    "stars": 0,
+    "updated_at": "2026-07-31T19:13:41Z",
+    "url": "https://github.com/jamillazarev/opsinist"
+  },
+  {
+    "description": "\ud83d\udc1d \u5f15\u5de2 \u00b7 ZyHive | AI \u56e2\u961f\u64cd\u4f5c\u7cfb\u7edf \u2014 \u4e3a AI \u6210\u5458\u6ce8\u5165\u7075\u9b42\uff0c\u53ef\u89c6\u5316\u7ba1\u7406\u591a\u667a\u80fd\u4f53\u56e2\u961f\u3002Self-hosted AI Team OS \u00b7 Go + Vue 3 \u00b7 One-click deploy",
+    "id": "Zyling-ai/ZyHive",
+    "language": "Go",
+    "name": "Zyling-ai/ZyHive",
+    "stars": 19,
+    "updated_at": "2026-07-31T19:13:27Z",
+    "url": "https://github.com/Zyling-ai/ZyHive"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-07-31T19:13:27Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Agent-agnostic base image for putting any terminal AI coding agent (claude-code, pi, opencode...) on the network. Bolt o",
+    "id": "psyb0t/docker-aicodebox",
+    "language": "Python",
+    "name": "psyb0t/docker-aicodebox",
+    "stars": 0,
+    "updated_at": "2026-07-31T19:12:42Z",
+    "url": "https://github.com/psyb0t/docker-aicodebox"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 74,
+    "updated_at": "2026-07-31T19:15:11Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
+    "id": "agentjido/jidoka",
+    "language": "Elixir",
+    "name": "agentjido/jidoka",
+    "stars": 32,
+    "updated_at": "2026-07-31T19:11:14Z",
+    "url": "https://github.com/agentjido/jidoka"
+  },
+  {
+    "description": "A structured agent runtime for LLMs \u2014 context memory, multi-stage workflows, and ECS-based orchestration in a single bin",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-07-31T19:14:53Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "NT \u2014 a language for agent ecosystems",
+    "id": "kartikmehta8/nt",
+    "language": "TypeScript",
+    "name": "kartikmehta8/nt",
+    "stars": 1,
+    "updated_at": "2026-07-31T19:10:20Z",
+    "url": "https://github.com/kartikmehta8/nt"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 3,
+    "updated_at": "2026-07-31T19:06:41Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-07-31T19:04:09Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-07-31T19:03:56Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T19:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
@@ -27,33 +162,6 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation \u2014 out of one git rep",
-    "id": "jamillazarev/opsinist",
-    "language": "Shell",
-    "name": "jamillazarev/opsinist",
-    "stars": 0,
-    "updated_at": "2026-07-31T18:57:32Z",
-    "url": "https://github.com/jamillazarev/opsinist"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 74,
-    "updated_at": "2026-07-31T18:57:26Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
-    "id": "agentjido/jidoka",
-    "language": "Elixir",
-    "name": "agentjido/jidoka",
-    "stars": 32,
-    "updated_at": "2026-07-31T18:58:54Z",
-    "url": "https://github.com/agentjido/jidoka"
-  },
-  {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
     "id": "aeonfun/aeon",
     "language": "TypeScript",
@@ -76,8 +184,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7977,
-    "updated_at": "2026-07-31T18:52:45Z",
+    "stars": 7978,
+    "updated_at": "2026-07-31T19:13:37Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -86,7 +194,7 @@
     "language": "Rust",
     "name": "RNT56/ThinClaw",
     "stars": 0,
-    "updated_at": "2026-07-31T18:49:24Z",
+    "updated_at": "2026-07-31T19:07:53Z",
     "url": "https://github.com/RNT56/ThinClaw"
   },
   {
@@ -95,7 +203,7 @@
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 3,
-    "updated_at": "2026-07-31T18:55:19Z",
+    "updated_at": "2026-07-31T19:07:28Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -108,15 +216,6 @@
     "url": "https://github.com/danmo-ai/danmo-work"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T18:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -124,24 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T18:43:04Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-07-31T18:40:57Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
-    "description": "A structured agent runtime for LLMs \u2014 context memory, multi-stage workflows, and ECS-based orchestration in a single bin",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-07-31T18:55:48Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
@@ -162,15 +243,6 @@
     "url": "https://github.com/achappey/aihappey-chat"
   },
   {
-    "description": "NT \u2014 a language for agent ecosystems",
-    "id": "kartikmehta8/nt",
-    "language": "TypeScript",
-    "name": "kartikmehta8/nt",
-    "stars": 1,
-    "updated_at": "2026-07-31T18:23:17Z",
-    "url": "https://github.com/kartikmehta8/nt"
-  },
-  {
     "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
     "id": "agents-inc/cli",
     "language": "TypeScript",
@@ -189,15 +261,6 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
-    "id": "ellmos-ai/ellmos-homebase-mcp",
-    "language": "Python",
-    "name": "ellmos-ai/ellmos-homebase-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-31T18:19:37Z",
-    "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -207,21 +270,12 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28227,
-    "updated_at": "2026-07-31T18:19:19Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-07-31T18:19:02Z",
+    "updated_at": "2026-07-31T19:10:07Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -297,15 +351,6 @@
     "url": "https://github.com/pamod-madubashana/cotrex-ai"
   },
   {
-    "description": "Agent-agnostic base image for putting any terminal AI coding agent (claude-code, pi, opencode...) on the network. Bolt o",
-    "id": "psyb0t/docker-aicodebox",
-    "language": "Python",
-    "name": "psyb0t/docker-aicodebox",
-    "stars": 0,
-    "updated_at": "2026-07-31T17:48:36Z",
-    "url": "https://github.com/psyb0t/docker-aicodebox"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -338,7 +383,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 5531,
-    "updated_at": "2026-07-31T17:37:56Z",
+    "updated_at": "2026-07-31T19:02:02Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-31T17:18:05Z",
     "url": "https://github.com/hustfreefly/deepflow"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6690,
-    "updated_at": "2026-07-31T17:16:43Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Run Claude Code as a scheduled agent that remembers. Free MIT core of the Agent Autopilot kit: persistent memory across ",
-    "id": "Scn64/agent-autopilot",
-    "language": "\u2014",
-    "name": "Scn64/agent-autopilot",
-    "stars": 0,
-    "updated_at": "2026-07-31T17:16:36Z",
-    "url": "https://github.com/Scn64/agent-autopilot"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-07-31T17:15:42Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-07-31T17:15:42Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The fully self-hostable, open composable platform for agent orchestration and human collaboration. With tools, security,",
-    "id": "amajorai/ryu",
-    "language": "Rust",
-    "name": "amajorai/ryu",
-    "stars": 34,
-    "updated_at": "2026-07-31T17:13:51Z",
-    "url": "https://github.com/amajorai/ryu"
   }
 ]
