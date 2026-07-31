@@ -1,12 +1,84 @@
 [
   {
+    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
+    "id": "achappey/aihappey-agents",
+    "language": "C#",
+    "name": "achappey/aihappey-agents",
+    "stars": 0,
+    "updated_at": "2026-07-31T07:59:11Z",
+    "url": "https://github.com/achappey/aihappey-agents"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-07-31T07:54:38Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
+    "id": "BrainoutputHQ/brainoutput-community",
+    "language": "JavaScript",
+    "name": "BrainoutputHQ/brainoutput-community",
+    "stars": 0,
+    "updated_at": "2026-07-31T07:52:52Z",
+    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18922,
+    "updated_at": "2026-07-31T07:50:03Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 36,
+    "updated_at": "2026-07-31T07:48:21Z",
+    "url": "https://github.com/Marssssss/OneAI"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7949,
-    "updated_at": "2026-07-31T07:43:37Z",
+    "updated_at": "2026-07-31T08:00:13Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-07-31T07:46:42Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-31T07:46:36Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T07:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -23,7 +95,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4891,
-    "updated_at": "2026-07-31T07:40:31Z",
+    "updated_at": "2026-07-31T07:52:32Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -45,21 +117,12 @@
     "url": "https://github.com/dylanma8232-art/Daming-Agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T07:33:15Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 74,
-    "updated_at": "2026-07-31T07:31:52Z",
+    "updated_at": "2026-07-31T07:58:22Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -76,7 +139,7 @@
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
-    "stars": 1610,
+    "stars": 1611,
     "updated_at": "2026-07-31T07:28:52Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
@@ -97,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T07:42:19Z",
     "url": "https://github.com/open1s/bos"
-  },
-  {
-    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
-    "id": "BrainoutputHQ/brainoutput-community",
-    "language": "JavaScript",
-    "name": "BrainoutputHQ/brainoutput-community",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:25:54Z",
-    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
   },
   {
     "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
@@ -162,15 +216,6 @@
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-07-31T07:16:17Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
     "description": " AI Code Governance",
     "id": "ZhangHalfGod/Agents-Skill-Site",
     "language": "JavaScript",
@@ -198,21 +243,12 @@
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-07-31T07:11:12Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
     "description": "An agent-loop engine in Rust \u2014 one interface over LLM APIs and external coding agents, with one typed event stream out.",
     "id": "ndolinschi/Flex",
     "language": "Rust",
     "name": "ndolinschi/Flex",
     "stars": 7,
-    "updated_at": "2026-07-31T07:12:17Z",
+    "updated_at": "2026-07-31T07:59:47Z",
     "url": "https://github.com/ndolinschi/Flex"
   },
   {
@@ -229,7 +265,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46459,
+    "stars": 46458,
     "updated_at": "2026-07-31T07:08:07Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -286,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T06:38:05Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18920,
-    "updated_at": "2026-07-31T07:07:03Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Democratizing Reinforcement Learning for LLMs",
@@ -396,15 +423,6 @@
     "url": "https://github.com/wxhcore/bumblehive"
   },
   {
-    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
-    "id": "achappey/aihappey-agents",
-    "language": "C#",
-    "name": "achappey/aihappey-agents",
-    "stars": 0,
-    "updated_at": "2026-07-31T06:02:37Z",
-    "url": "https://github.com/achappey/aihappey-agents"
-  },
-  {
     "description": "A working, teachable example of what an AI coding-agent harness actually is - an outer harness (policy, permissions, bou",
     "id": "mohd-raza/copilot-harness-lab",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-31T05:53:57Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
-    "id": "Thepizzapie/BuildersGate",
-    "language": "Python",
-    "name": "Thepizzapie/BuildersGate",
-    "stars": 12,
-    "updated_at": "2026-07-31T05:36:43Z",
-    "url": "https://github.com/Thepizzapie/BuildersGate"
-  },
-  {
-    "description": "\ud83e\udded Find any agent asset for any agent. Host-neutral locator for skills, worktrees, instructions, and agent.3md across Cla",
-    "id": "CorvidLabs/let",
-    "language": "TypeScript",
-    "name": "CorvidLabs/let",
-    "stars": 0,
-    "updated_at": "2026-07-31T05:56:45Z",
-    "url": "https://github.com/CorvidLabs/let"
   }
 ]
