@@ -1,30 +1,57 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7963,
+    "updated_at": "2026-07-31T13:15:15Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
+    "id": "JoakimCarlsson/ai",
+    "language": "Go",
+    "name": "JoakimCarlsson/ai",
+    "stars": 35,
+    "updated_at": "2026-07-31T13:12:06Z",
+    "url": "https://github.com/JoakimCarlsson/ai"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-07-31T13:10:27Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
+    "id": "WhitzardAgent/qitos",
+    "language": "Python",
+    "name": "WhitzardAgent/qitos",
+    "stars": 24,
+    "updated_at": "2026-07-31T13:08:38Z",
+    "url": "https://github.com/WhitzardAgent/qitos"
+  },
+  {
     "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
     "id": "shipiit/shipit_agent",
     "language": "Python",
     "name": "shipiit/shipit_agent",
     "stars": 2,
-    "updated_at": "2026-07-31T12:58:08Z",
+    "updated_at": "2026-07-31T13:15:26Z",
     "url": "https://github.com/shipiit/shipit_agent"
   },
   {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 0,
-    "updated_at": "2026-07-31T12:57:47Z",
-    "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7961,
-    "updated_at": "2026-07-31T13:00:10Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "strands-agents/harness-sdk",
+    "stars": 6747,
+    "updated_at": "2026-07-31T13:08:18Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\ud83d\udc1d \u5f15\u5de2 \u00b7 ZyHive | AI \u56e2\u961f\u64cd\u4f5c\u7cfb\u7edf \u2014 \u4e3a AI \u6210\u5458\u6ce8\u5165\u7075\u9b42\uff0c\u53ef\u89c6\u5316\u7ba1\u7406\u591a\u667a\u80fd\u4f53\u56e2\u961f\u3002Self-hosted AI Team OS \u00b7 Go + Vue 3 \u00b7 One-click deploy",
@@ -32,8 +59,26 @@
     "language": "Go",
     "name": "Zyling-ai/ZyHive",
     "stars": 19,
-    "updated_at": "2026-07-31T12:55:46Z",
+    "updated_at": "2026-07-31T13:02:50Z",
     "url": "https://github.com/Zyling-ai/ZyHive"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 582,
+    "updated_at": "2026-07-31T13:11:33Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T13:00:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
@@ -43,6 +88,24 @@
     "stars": 2,
     "updated_at": "2026-07-31T12:59:38Z",
     "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-31T12:57:43Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:57:47Z",
+    "url": "https://github.com/go-steer/mast"
   },
   {
     "description": "Build distributed, production-grade, long-running agents.",
@@ -81,15 +144,6 @@
     "url": "https://github.com/fabio-rovai/tardygrada"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T12:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Production-grade AgentOps control plane for safe AI agent execution. Dual-plane architecture: Rust governance engine + P",
     "id": "sattyamjjain/ferrumdeck",
     "language": "TypeScript",
@@ -117,21 +171,12 @@
     "url": "https://github.com/longyijdos/kana"
   },
   {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
-    "stars": 2,
-    "updated_at": "2026-07-31T12:40:14Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 1563,
-    "updated_at": "2026-07-31T12:39:08Z",
+    "updated_at": "2026-07-31T13:14:59Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "MariusYvard/corparius",
     "stars": 0,
-    "updated_at": "2026-07-31T12:24:51Z",
+    "updated_at": "2026-07-31T13:15:29Z",
     "url": "https://github.com/MariusYvard/corparius"
   },
   {
@@ -234,21 +279,12 @@
     "url": "https://github.com/junebuild/june"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-31T12:57:43Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 658,
-    "updated_at": "2026-07-31T12:16:29Z",
+    "updated_at": "2026-07-31T13:15:12Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-07-31T12:11:36Z",
+    "updated_at": "2026-07-31T13:01:59Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-31T11:19:38Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 250,
-    "updated_at": "2026-07-31T11:17:48Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-07-31T11:16:05Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:15:34Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Cotrex is an open-source AI execution engine that enables LLMs to securely use tools, execute tasks, and automate real-w",
-    "id": "pamod-madubashana/cotrex-ai",
-    "language": "Rust",
-    "name": "pamod-madubashana/cotrex-ai",
-    "stars": 1,
-    "updated_at": "2026-07-31T11:13:37Z",
-    "url": "https://github.com/pamod-madubashana/cotrex-ai"
   }
 ]
