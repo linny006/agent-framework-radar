@@ -1,12 +1,66 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-31T11:39:11Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-07-31T11:44:48Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
+    "id": "sarptandoven/doppl-multiplayer",
+    "language": "Python",
+    "name": "sarptandoven/doppl-multiplayer",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:36:58Z",
+    "url": "https://github.com/sarptandoven/doppl-multiplayer"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 339,
+    "updated_at": "2026-07-31T11:36:51Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
     "id": "kyashrathore/Claxedo",
     "language": "TypeScript",
     "name": "kyashrathore/Claxedo",
     "stars": 2,
-    "updated_at": "2026-07-31T11:29:20Z",
+    "updated_at": "2026-07-31T11:34:02Z",
     "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-07-31T11:32:28Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T11:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
@@ -31,8 +85,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 7959,
-    "updated_at": "2026-07-31T11:21:37Z",
+    "stars": 7960,
+    "updated_at": "2026-07-31T11:40:32Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -72,15 +126,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T11:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Cotrex is an open-source AI execution engine that enables LLMs to securely use tools, execute tasks, and automate real-w",
     "id": "pamod-madubashana/cotrex-ai",
     "language": "Rust",
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "junebuild/june",
     "stars": 3,
-    "updated_at": "2026-07-31T11:24:38Z",
+    "updated_at": "2026-07-31T11:45:12Z",
     "url": "https://github.com/junebuild/june"
   },
   {
@@ -124,15 +169,6 @@
     "stars": 5,
     "updated_at": "2026-07-31T11:03:48Z",
     "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-07-31T11:01:58Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
@@ -180,15 +216,6 @@
     "url": "https://github.com/Yigtwxx/Maestro"
   },
   {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-07-31T11:26:42Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
     "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
     "id": "hara-cli/hara",
     "language": "TypeScript",
@@ -203,7 +230,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-07-31T11:00:22Z",
+    "updated_at": "2026-07-31T11:37:05Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 657,
-    "updated_at": "2026-07-31T10:43:39Z",
+    "updated_at": "2026-07-31T11:40:08Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
@@ -306,15 +333,6 @@
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
-    "id": "sarptandoven/doppl-multiplayer",
-    "language": "Python",
-    "name": "sarptandoven/doppl-multiplayer",
-    "stars": 0,
-    "updated_at": "2026-07-31T10:25:59Z",
-    "url": "https://github.com/sarptandoven/doppl-multiplayer"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -367,15 +385,6 @@
     "stars": 19,
     "updated_at": "2026-07-31T09:52:04Z",
     "url": "https://github.com/Zyling-ai/ZyHive"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 339,
-    "updated_at": "2026-07-31T09:44:45Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "The fully self-hostable, open composable platform for agent orchestration and human collaboration. With tools, security,",
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-31T09:33:56Z",
     "url": "https://github.com/GopherSecurity/gopher-mcp-python"
-  },
-  {
-    "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
-    "id": "vamsiramakrishnan/gemini-rs",
-    "language": "Rust",
-    "name": "vamsiramakrishnan/gemini-rs",
-    "stars": 3,
-    "updated_at": "2026-07-31T09:31:30Z",
-    "url": "https://github.com/vamsiramakrishnan/gemini-rs"
   }
 ]
