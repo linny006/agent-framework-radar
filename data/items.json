@@ -1,12 +1,21 @@
 [
   {
-    "description": " AI Code Governance",
-    "id": "ZhangHalfGod/Agents-Skill-Site",
-    "language": "JavaScript",
-    "name": "ZhangHalfGod/Agents-Skill-Site",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:13:45Z",
-    "url": "https://github.com/ZhangHalfGod/Agents-Skill-Site"
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-07-31T08:29:41Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-07-31T08:28:42Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -14,8 +23,107 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7950,
-    "updated_at": "2026-07-31T08:13:42Z",
+    "updated_at": "2026-07-31T08:28:26Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4882,
+    "updated_at": "2026-07-31T08:24:50Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
+    "id": "JunMystery/Agent-Guidance-Rust",
+    "language": "Rust",
+    "name": "JunMystery/Agent-Guidance-Rust",
+    "stars": 0,
+    "updated_at": "2026-07-31T08:22:44Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 74,
+    "updated_at": "2026-07-31T08:21:36Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
+    "id": "sarptandoven/doppl-multiplayer",
+    "language": "Python",
+    "name": "sarptandoven/doppl-multiplayer",
+    "stars": 0,
+    "updated_at": "2026-07-31T08:21:27Z",
+    "url": "https://github.com/sarptandoven/doppl-multiplayer"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-07-31T08:20:23Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-07-31T08:18:51Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Industrial-Grade Universal Autonomous AI Agent Framework: Mid-Flight Steering, MD5 Hashline Precision Edits, Auto Mode",
+    "id": "dylanma8232-art/Daming-Agent",
+    "language": "Python",
+    "name": "dylanma8232-art/Daming-Agent",
+    "stars": 1,
+    "updated_at": "2026-07-31T08:18:01Z",
+    "url": "https://github.com/dylanma8232-art/Daming-Agent"
+  },
+  {
+    "description": "An agent-loop engine in Rust \u2014 one interface over LLM APIs and external coding agents, with one typed event stream out.",
+    "id": "ndolinschi/Flex",
+    "language": "Rust",
+    "name": "ndolinschi/Flex",
+    "stars": 7,
+    "updated_at": "2026-07-31T08:17:40Z",
+    "url": "https://github.com/ndolinschi/Flex"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 10,
+    "updated_at": "2026-07-31T08:17:37Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T08:15:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": " AI Code Governance",
+    "id": "ZhangHalfGod/Agents-Skill-Site",
+    "language": "JavaScript",
+    "name": "ZhangHalfGod/Agents-Skill-Site",
+    "stars": 0,
+    "updated_at": "2026-07-31T08:13:45Z",
+    "url": "https://github.com/ZhangHalfGod/Agents-Skill-Site"
   },
   {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
@@ -36,15 +144,6 @@
     "url": "https://github.com/BrainoutputHQ/brainoutput-community"
   },
   {
-    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
-    "id": "JunMystery/Agent-Guidance-Rust",
-    "language": "Rust",
-    "name": "JunMystery/Agent-Guidance-Rust",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:13:05Z",
-    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
-  },
-  {
     "description": "Orchestrate armies of AI agents from a single prompt. Open-core, bring-your-own-key, and self-hostable \u2014 Orchestrator ro",
     "id": "Yigtwxx/Maestro",
     "language": "Python",
@@ -59,17 +158,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18923,
-    "updated_at": "2026-07-31T08:02:01Z",
+    "updated_at": "2026-07-31T08:30:15Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T08:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
@@ -117,24 +207,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 10,
-    "updated_at": "2026-07-31T07:41:15Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4891,
-    "updated_at": "2026-07-31T07:52:32Z",
-    "url": "https://github.com/iflytek/skillhub"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -142,33 +214,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T07:37:29Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udd16 Industrial-Grade Universal Autonomous AI Agent Framework: Mid-Flight Steering, MD5 Hashline Precision Edits, Auto Mode",
-    "id": "dylanma8232-art/Daming-Agent",
-    "language": "Python",
-    "name": "dylanma8232-art/Daming-Agent",
-    "stars": 1,
-    "updated_at": "2026-07-31T07:33:49Z",
-    "url": "https://github.com/dylanma8232-art/Daming-Agent"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 74,
-    "updated_at": "2026-07-31T07:58:22Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-07-31T08:11:04Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
@@ -180,15 +225,6 @@
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-07-31T07:28:26Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
     "id": "open1s/bos",
     "language": "Rust",
@@ -196,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T07:42:19Z",
     "url": "https://github.com/open1s/bos"
-  },
-  {
-    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
-    "id": "sarptandoven/doppl-multiplayer",
-    "language": "Python",
-    "name": "sarptandoven/doppl-multiplayer",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:24:37Z",
-    "url": "https://github.com/sarptandoven/doppl-multiplayer"
   },
   {
     "description": "Lightweight AI coding agent \u2014 Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp",
@@ -247,7 +274,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 5514,
+    "stars": 5515,
     "updated_at": "2026-07-31T07:17:08Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -270,20 +297,11 @@
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
-    "description": "An agent-loop engine in Rust \u2014 one interface over LLM APIs and external coding agents, with one typed event stream out.",
-    "id": "ndolinschi/Flex",
-    "language": "Rust",
-    "name": "ndolinschi/Flex",
-    "stars": 7,
-    "updated_at": "2026-07-31T08:14:10Z",
-    "url": "https://github.com/ndolinschi/Flex"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46457,
+    "stars": 46456,
     "updated_at": "2026-07-31T07:08:07Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -322,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T06:47:49Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
-    "stars": 2,
-    "updated_at": "2026-07-31T06:39:15Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -383,7 +392,7 @@
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 8,
-    "updated_at": "2026-07-31T08:08:05Z",
+    "updated_at": "2026-07-31T08:24:11Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-31T06:03:36Z",
     "url": "https://github.com/wxhcore/bumblehive"
-  },
-  {
-    "description": "A working, teachable example of what an AI coding-agent harness actually is - an outer harness (policy, permissions, bou",
-    "id": "mohd-raza/copilot-harness-lab",
-    "language": "TypeScript",
-    "name": "mohd-raza/copilot-harness-lab",
-    "stars": 0,
-    "updated_at": "2026-07-31T05:57:02Z",
-    "url": "https://github.com/mohd-raza/copilot-harness-lab"
   }
 ]
