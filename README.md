@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-31 18:00 UTC
+> ⏰ Last updated: 2026-07-31 18:09 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7977 | Python | 2026-07-31 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 2 | [ionalpha/flynn](https://github.com/ionalpha/flynn) | 3 | Go | 2026-07-31 | A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at |
-| 3 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6751 | Python | 2026-07-31 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 4 | [pamod-madubashana/cotrex-ai](https://github.com/pamod-madubashana/cotrex-ai) | 1 | Rust | 2026-07-31 | Cotrex is an open-source AI execution engine that enables LLMs to securely use tools, execute tasks, and automate real-w |
-| 5 | [psyb0t/docker-aicodebox](https://github.com/psyb0t/docker-aicodebox) | 0 | Python | 2026-07-31 | Agent-agnostic base image for putting any terminal AI coding agent (claude-code, pi, opencode...) on the network. Bolt o |
-| 6 | [Sun-Forge-AI/leviath](https://github.com/Sun-Forge-AI/leviath) | 0 | Rust | 2026-07-31 | A structured agent runtime for LLMs — context memory, multi-stage workflows, and ECS-based orchestration in a single bin |
-| 7 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 28219 | Go | 2026-07-31 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-31 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [ionalpha/flynn](https://github.com/ionalpha/flynn) | 3 | Go | 2026-07-31 | A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-07-31 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7977 | Python | 2026-07-31 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 4 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6751 | Python | 2026-07-31 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 5 | [pamod-madubashana/cotrex-ai](https://github.com/pamod-madubashana/cotrex-ai) | 1 | Rust | 2026-07-31 | Cotrex is an open-source AI execution engine that enables LLMs to securely use tools, execute tasks, and automate real-w |
+| 6 | [psyb0t/docker-aicodebox](https://github.com/psyb0t/docker-aicodebox) | 0 | Python | 2026-07-31 | Agent-agnostic base image for putting any terminal AI coding agent (claude-code, pi, opencode...) on the network. Bolt o |
+| 7 | [Sun-Forge-AI/leviath](https://github.com/Sun-Forge-AI/leviath) | 0 | Rust | 2026-07-31 | A structured agent runtime for LLMs — context memory, multi-stage workflows, and ECS-based orchestration in a single bin |
+| 8 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 28219 | Go | 2026-07-31 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | 9 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-07-31 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
 | 10 | [Carrara-Labs/delta-harness](https://github.com/Carrara-Labs/delta-harness) | 0 | TypeScript | 2026-07-31 | Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self |
 | 11 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-31 | Template for building protoLabs A2A agents on LangGraph — fork me |
@@ -89,7 +89,7 @@ expired items removed — so you can rely on what you see being current.
 | 45 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 11 | Rust | 2026-07-31 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
 | 46 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2221 | JavaScript | 2026-07-31 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
 | 47 | [databricks-solutions/consort](https://github.com/databricks-solutions/consort) | 5 | TypeScript | 2026-07-31 | Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv |
-| 48 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 46476 | Python | 2026-07-31 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
+| 48 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 46475 | Python | 2026-07-31 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
 | 49 | [msoedov/agentic_security](https://github.com/msoedov/agentic_security) | 1945 | Python | 2026-07-31 | Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪 |
 | 50 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-07-31 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
 <!-- TRACKER_TABLE_END -->

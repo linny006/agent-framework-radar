@@ -1,5 +1,23 @@
 [
   {
+    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 3,
+    "updated_at": "2026-07-31T18:08:40Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-07-31T18:00:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 7977,
     "updated_at": "2026-07-31T17:57:17Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 3,
-    "updated_at": "2026-07-31T17:59:04Z",
-    "url": "https://github.com/ionalpha/flynn"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -50,7 +59,7 @@
     "language": "Rust",
     "name": "Sun-Forge-AI/leviath",
     "stars": 0,
-    "updated_at": "2026-07-31T17:57:10Z",
+    "updated_at": "2026-07-31T18:00:46Z",
     "url": "https://github.com/Sun-Forge-AI/leviath"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 28219,
     "updated_at": "2026-07-31T17:46:50Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-07-31T17:45:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -427,7 +427,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46476,
+    "stars": 46475,
     "updated_at": "2026-07-31T16:28:22Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
