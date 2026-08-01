@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-08-01T08:44:52Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 1,
+    "updated_at": "2026-08-01T08:43:22Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
+    "id": "PiyotaHu/Voxa",
+    "language": "Rust",
+    "name": "PiyotaHu/Voxa",
+    "stars": 1,
+    "updated_at": "2026-08-01T08:40:34Z",
+    "url": "https://github.com/PiyotaHu/Voxa"
+  },
+  {
+    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
+    "id": "BrainoutputHQ/brainoutput-community",
+    "language": "JavaScript",
+    "name": "BrainoutputHQ/brainoutput-community",
+    "stars": 0,
+    "updated_at": "2026-08-01T08:40:12Z",
+    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-01T08:38:15Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
+    "id": "devpilgrin/berimor",
+    "language": "Rust",
+    "name": "devpilgrin/berimor",
+    "stars": 0,
+    "updated_at": "2026-08-01T08:37:17Z",
+    "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
     "id": "Ecro/harness-maker",
     "language": "Python",
@@ -18,24 +72,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
-    "id": "PiyotaHu/Voxa",
-    "language": "Rust",
-    "name": "PiyotaHu/Voxa",
-    "stars": 1,
-    "updated_at": "2026-08-01T08:30:57Z",
-    "url": "https://github.com/PiyotaHu/Voxa"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-01T08:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
     "id": "Caprista/KarvyLoop",
     "language": "Python",
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T08:27:35Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
-    "id": "BrainoutputHQ/brainoutput-community",
-    "language": "JavaScript",
-    "name": "BrainoutputHQ/brainoutput-community",
-    "stars": 0,
-    "updated_at": "2026-08-01T08:25:12Z",
-    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
   },
   {
     "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
@@ -106,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T08:20:48Z",
     "url": "https://github.com/kartikmehta8/nt"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-08-01T08:16:40Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -225,15 +243,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
-    "language": "TypeScript",
-    "name": "Qwixl/Atom",
-    "stars": 1,
-    "updated_at": "2026-08-01T08:21:52Z",
-    "url": "https://github.com/Qwixl/Atom"
-  },
-  {
     "description": "\ud83d\udc1d \u5f15\u5de2 \u00b7 ZyHive | AI \u56e2\u961f\u64cd\u4f5c\u7cfb\u7edf \u2014 \u4e3a AI \u6210\u5458\u6ce8\u5165\u7075\u9b42\uff0c\u53ef\u89c6\u5316\u7ba1\u7406\u591a\u667a\u80fd\u4f53\u56e2\u961f\u3002Self-hosted AI Team OS \u00b7 Go + Vue 3 \u00b7 One-click deploy",
     "id": "Zyling-ai/ZyHive",
     "language": "Go",
@@ -257,7 +266,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-08-01T07:48:45Z",
+    "updated_at": "2026-08-01T08:39:19Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18939,
-    "updated_at": "2026-08-01T08:35:27Z",
+    "updated_at": "2026-08-01T08:40:31Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -409,7 +418,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28353,
+    "stars": 28355,
     "updated_at": "2026-08-01T06:54:58Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 25,
     "updated_at": "2026-08-01T06:39:32Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:32:50Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   }
 ]
