@@ -1,12 +1,102 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-01T05:15:05Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 7,
+    "updated_at": "2026-08-01T05:13:44Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
     "id": "SourceShift/mini-ork",
     "language": "Python",
     "name": "SourceShift/mini-ork",
-    "stars": 10,
-    "updated_at": "2026-08-01T04:58:46Z",
+    "stars": 13,
+    "updated_at": "2026-08-01T05:11:36Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
+    "id": "BrainoutputHQ/brainoutput-community",
+    "language": "JavaScript",
+    "name": "BrainoutputHQ/brainoutput-community",
+    "stars": 0,
+    "updated_at": "2026-08-01T05:11:20Z",
+    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
+  },
+  {
+    "description": "A Self-Hosted, Open-Source Enterprise AI Platform for building and running autonomous AI agents without writing code. De",
+    "id": "openenterprise-info/open-enterprise-ai-platform",
+    "language": "JavaScript",
+    "name": "openenterprise-info/open-enterprise-ai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-01T05:10:49Z",
+    "url": "https://github.com/openenterprise-info/open-enterprise-ai-platform"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 18,
+    "updated_at": "2026-08-01T05:06:54Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
+    "id": "PiyotaHu/Voxa",
+    "language": "Rust",
+    "name": "PiyotaHu/Voxa",
+    "stars": 1,
+    "updated_at": "2026-08-01T05:05:58Z",
+    "url": "https://github.com/PiyotaHu/Voxa"
+  },
+  {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "\u2014",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 2,
+    "updated_at": "2026-08-01T05:03:40Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "Self-hosted, privacy-first AI collaborator with durable memory, real tools, channel-native access, routines, and auditab",
+    "id": "RNT56/ThinClaw",
+    "language": "Rust",
+    "name": "RNT56/ThinClaw",
+    "stars": 0,
+    "updated_at": "2026-08-01T05:03:48Z",
+    "url": "https://github.com/RNT56/ThinClaw"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 28313,
+    "updated_at": "2026-08-01T05:01:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-01T05:00:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
@@ -54,15 +144,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-01T04:45:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 22 crates, CLI/TUI/Desktop, agentic tool loop + graph retrieval + ",
     "id": "W117C/DeepseekNova",
     "language": "Rust",
@@ -81,31 +162,13 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
-    "id": "BrainoutputHQ/brainoutput-community",
-    "language": "JavaScript",
-    "name": "BrainoutputHQ/brainoutput-community",
-    "stars": 0,
-    "updated_at": "2026-08-01T04:39:34Z",
-    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
-  },
-  {
     "description": "VibeSkills is a general-purpose Skill that automatically routes local Skills and intelligently orchestrates harness work",
     "id": "foryourhealth111-pixel/Vibe-Skills",
     "language": "Python",
     "name": "foryourhealth111-pixel/Vibe-Skills",
     "stars": 2554,
-    "updated_at": "2026-08-01T04:46:48Z",
+    "updated_at": "2026-08-01T05:10:55Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
-  },
-  {
-    "description": "A Self-Hosted, Open-Source Enterprise AI Platform for building and running autonomous AI agents without writing code. De",
-    "id": "openenterprise-info/open-enterprise-ai-platform",
-    "language": "JavaScript",
-    "name": "openenterprise-info/open-enterprise-ai-platform",
-    "stars": 1,
-    "updated_at": "2026-08-01T04:35:55Z",
-    "url": "https://github.com/openenterprise-info/open-enterprise-ai-platform"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "CodeSoul-co/Hypha",
     "stars": 7,
-    "updated_at": "2026-08-01T04:59:16Z",
+    "updated_at": "2026-08-01T05:11:51Z",
     "url": "https://github.com/CodeSoul-co/Hypha"
   },
   {
@@ -142,15 +205,6 @@
     "stars": 18936,
     "updated_at": "2026-08-01T04:46:56Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
-    "id": "PiyotaHu/Voxa",
-    "language": "Rust",
-    "name": "PiyotaHu/Voxa",
-    "stars": 1,
-    "updated_at": "2026-08-01T04:28:15Z",
-    "url": "https://github.com/PiyotaHu/Voxa"
   },
   {
     "description": "Agent SDK, CLI, RPC, Computer-use in Rust",
@@ -185,7 +239,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 6,
-    "updated_at": "2026-08-01T04:23:40Z",
+    "updated_at": "2026-08-01T05:12:08Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -250,15 +304,6 @@
     "stars": 37,
     "updated_at": "2026-08-01T04:11:05Z",
     "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28312,
-    "updated_at": "2026-08-01T04:08:55Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
@@ -329,7 +374,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-01T05:00:05Z",
+    "updated_at": "2026-08-01T05:07:13Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 154,
     "updated_at": "2026-08-01T03:27:29Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
-    "id": "ranxi2001/zero2Agent",
-    "language": "HTML",
-    "name": "ranxi2001/zero2Agent",
-    "stars": 199,
-    "updated_at": "2026-08-01T03:26:38Z",
-    "url": "https://github.com/ranxi2001/zero2Agent"
-  },
-  {
-    "description": "Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones",
-    "id": "ellmos-ai/clutch",
-    "language": "Python",
-    "name": "ellmos-ai/clutch",
-    "stars": 2,
-    "updated_at": "2026-08-01T03:26:37Z",
-    "url": "https://github.com/ellmos-ai/clutch"
-  },
-  {
-    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
-    "id": "ellmos-ai/.github",
-    "language": "HTML",
-    "name": "ellmos-ai/.github",
-    "stars": 0,
-    "updated_at": "2026-08-01T03:24:03Z",
-    "url": "https://github.com/ellmos-ai/.github"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 3,
-    "updated_at": "2026-08-01T03:22:21Z",
-    "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-01T03:21:24Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   }
 ]
