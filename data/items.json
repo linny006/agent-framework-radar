@@ -1,21 +1,12 @@
 [
   {
-    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
-    "id": "yanacuti1121/Yana-AI",
+    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
+    "id": "saajunaid/caddis-plugin",
     "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 1,
-    "updated_at": "2026-08-01T00:45:13Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28256,
-    "updated_at": "2026-08-01T00:43:18Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "name": "saajunaid/caddis-plugin",
+    "stars": 0,
+    "updated_at": "2026-08-01T00:57:55Z",
+    "url": "https://github.com/saajunaid/caddis-plugin"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -23,17 +14,98 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-01T00:44:48Z",
+    "updated_at": "2026-08-01T00:56:23Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
-    "id": "saajunaid/caddis-plugin",
-    "language": "Python",
-    "name": "saajunaid/caddis-plugin",
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-08-01T00:56:00Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 46,
+    "updated_at": "2026-08-01T00:59:02Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 1,
+    "updated_at": "2026-08-01T00:52:49Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
+    "id": "PiyotaHu/Voxa",
+    "language": "Rust",
+    "name": "PiyotaHu/Voxa",
     "stars": 0,
-    "updated_at": "2026-08-01T00:33:56Z",
-    "url": "https://github.com/saajunaid/caddis-plugin"
+    "updated_at": "2026-08-01T00:50:03Z",
+    "url": "https://github.com/PiyotaHu/Voxa"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 5537,
+    "updated_at": "2026-08-01T00:57:46Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-08-01T00:48:05Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-08-01T00:47:17Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-01T00:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 1,
+    "updated_at": "2026-08-01T00:59:10Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 28261,
+    "updated_at": "2026-08-01T00:43:18Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -45,33 +117,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
-    "stars": 2,
-    "updated_at": "2026-08-01T00:31:37Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-01T00:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:30:00Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -79,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T00:29:42Z",
     "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 46,
-    "updated_at": "2026-08-01T00:41:58Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
@@ -104,17 +140,8 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-08-01T00:38:30Z",
+    "updated_at": "2026-08-01T00:49:52Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
-    "id": "PiyotaHu/Voxa",
-    "language": "Rust",
-    "name": "PiyotaHu/Voxa",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:16:45Z",
-    "url": "https://github.com/PiyotaHu/Voxa"
   },
   {
     "description": "Self-hosted, privacy-first AI collaborator with durable memory, real tools, channel-native access, routines, and auditab",
@@ -225,15 +252,6 @@
     "url": "https://github.com/agents-inc/cli"
   },
   {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
-    "language": "TypeScript",
-    "name": "Qwixl/Atom",
-    "stars": 1,
-    "updated_at": "2026-08-01T00:40:56Z",
-    "url": "https://github.com/Qwixl/Atom"
-  },
-  {
     "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
     "id": "amilworks/ultra",
     "language": "TypeScript",
@@ -241,15 +259,6 @@
     "stars": 5,
     "updated_at": "2026-07-31T23:56:09Z",
     "url": "https://github.com/amilworks/ultra"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 5535,
-    "updated_at": "2026-08-01T00:39:58Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7986,
-    "updated_at": "2026-07-31T22:41:48Z",
+    "updated_at": "2026-08-01T00:57:11Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-31T22:09:40Z",
     "url": "https://github.com/loopedautomation/meet"
-  },
-  {
-    "description": "DSPy Go implementation",
-    "id": "XiaoConstantine/dspy-go",
-    "language": "Go",
-    "name": "XiaoConstantine/dspy-go",
-    "stars": 192,
-    "updated_at": "2026-07-31T22:03:10Z",
-    "url": "https://github.com/XiaoConstantine/dspy-go"
   }
 ]
