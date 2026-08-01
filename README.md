@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-01 18:30 UTC
+> ⏰ Last updated: 2026-08-01 18:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [macanderson/context-graph-protocol](https://github.com/macanderson/context-graph-protocol) | 1 | Rust | 2026-08-01 | The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg |
-| 2 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 28507 | Go | 2026-08-01 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 3 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 5 | Python | 2026-08-01 | Many Agents, one objective... yours  |
-| 4 | [loopedautomation/meet](https://github.com/loopedautomation/meet) | 6 | TypeScript | 2026-08-01 | Dial your agent into your next meeting - powered by the Looped Agent Framework |
-| 5 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 75 | TypeScript | 2026-08-01 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 6 | [rundesk-ai/rundesk-cli](https://github.com/rundesk-ai/rundesk-cli) | 1 | Python | 2026-08-01 | Persistent self-improving AI teammates with memory, skills, and schedules. |
-| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-08-01 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 28507 | Go | 2026-08-01 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-08-01 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [macanderson/context-graph-protocol](https://github.com/macanderson/context-graph-protocol) | 1 | Rust | 2026-08-01 | The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg |
+| 4 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 5 | Python | 2026-08-01 | Many Agents, one objective... yours  |
+| 5 | [loopedautomation/meet](https://github.com/loopedautomation/meet) | 6 | TypeScript | 2026-08-01 | Dial your agent into your next meeting - powered by the Looped Agent Framework |
+| 6 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 75 | TypeScript | 2026-08-01 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 7 | [rundesk-ai/rundesk-cli](https://github.com/rundesk-ai/rundesk-cli) | 1 | Python | 2026-08-01 | Persistent self-improving AI teammates with memory, skills, and schedules. |
 | 8 | [zachmeador/shrimpy](https://github.com/zachmeador/shrimpy) | 1 | TypeScript | 2026-08-01 | Shrimpy is a home-agent framework built on Pi. Keep it Shrimple. |
 | 9 | [CorvidLabs/let](https://github.com/CorvidLabs/let) | 0 | TypeScript | 2026-08-01 | 🧭 Find any agent asset for any agent. Host-neutral locator for skills, worktrees, instructions, and agent.3md across Cla |
 | 10 | [111nathanlar/Agent-Worlds](https://github.com/111nathanlar/Agent-Worlds) | 1 | HTML | 2026-08-01 |  |
