@@ -1,5 +1,104 @@
 [
   {
+    "description": "A Self-Hosted, Open-Source Enterprise AI Platform for building and running autonomous AI agents without writing code. De",
+    "id": "openenterprise-info/open-enterprise-ai-platform",
+    "language": "JavaScript",
+    "name": "openenterprise-info/open-enterprise-ai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-01T03:59:52Z",
+    "url": "https://github.com/openenterprise-info/open-enterprise-ai-platform"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6693,
+    "updated_at": "2026-08-01T03:59:14Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 346,
+    "updated_at": "2026-08-01T03:56:48Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-08-01T03:55:25Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-01T03:54:23Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46484,
+    "updated_at": "2026-08-01T03:56:18Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Persistent self-improving AI teammates with memory, skills, and schedules.",
+    "id": "rundesk-ai/rundesk-cli",
+    "language": "Python",
+    "name": "rundesk-ai/rundesk-cli",
+    "stars": 1,
+    "updated_at": "2026-08-01T03:52:58Z",
+    "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 8,
+    "updated_at": "2026-08-01T03:52:48Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
+    "id": "rhein1/agoragentic-integrations",
+    "language": "JavaScript",
+    "name": "rhein1/agoragentic-integrations",
+    "stars": 26,
+    "updated_at": "2026-08-01T03:48:48Z",
+    "url": "https://github.com/rhein1/agoragentic-integrations"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-01T03:48:16Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-01T03:48:13Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
     "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
     "id": "PiyotaHu/Voxa",
     "language": "Rust",
@@ -9,21 +108,12 @@
     "url": "https://github.com/PiyotaHu/Voxa"
   },
   {
-    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
-    "id": "rhein1/agoragentic-integrations",
-    "language": "JavaScript",
-    "name": "rhein1/agoragentic-integrations",
-    "stars": 26,
-    "updated_at": "2026-08-01T03:46:35Z",
-    "url": "https://github.com/rhein1/agoragentic-integrations"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
     "name": "DemonDamon/AgenticX",
     "stars": 203,
-    "updated_at": "2026-08-01T03:45:43Z",
+    "updated_at": "2026-08-01T03:55:21Z",
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
@@ -34,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T03:45:25Z",
     "url": "https://github.com/BrainoutputHQ/brainoutput-community"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-01T03:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
@@ -72,15 +153,6 @@
     "url": "https://github.com/codewandler/flux"
   },
   {
-    "description": "Persistent self-improving AI teammates with memory, skills, and schedules.",
-    "id": "rundesk-ai/rundesk-cli",
-    "language": "Python",
-    "name": "rundesk-ai/rundesk-cli",
-    "stars": 1,
-    "updated_at": "2026-08-01T03:45:38Z",
-    "url": "https://github.com/rundesk-ai/rundesk-cli"
-  },
-  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
@@ -97,15 +169,6 @@
     "stars": 5,
     "updated_at": "2026-08-01T03:42:28Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "A Self-Hosted, Open-Source Enterprise AI Platform for building and running autonomous AI agents without writing code. De",
-    "id": "openenterprise-info/open-enterprise-ai-platform",
-    "language": "JavaScript",
-    "name": "openenterprise-info/open-enterprise-ai-platform",
-    "stars": 1,
-    "updated_at": "2026-08-01T03:42:25Z",
-    "url": "https://github.com/openenterprise-info/open-enterprise-ai-platform"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -171,15 +234,6 @@
     "url": "https://github.com/ellmos-ai/clutch"
   },
   {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6693,
-    "updated_at": "2026-08-01T03:24:14Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
     "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
     "id": "ellmos-ai/.github",
     "language": "HTML",
@@ -225,15 +279,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 11,
-    "updated_at": "2026-08-01T03:35:13Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -241,15 +286,6 @@
     "stars": 3,
     "updated_at": "2026-08-01T03:11:23Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-01T03:48:13Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
@@ -347,7 +383,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-01T03:02:22Z",
+    "updated_at": "2026-08-01T03:52:50Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-01T02:12:56Z",
     "url": "https://github.com/wmcmahan/cycgraph"
-  },
-  {
-    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
-    "id": "we-are-singular/aml",
-    "language": "TypeScript",
-    "name": "we-are-singular/aml",
-    "stars": 6,
-    "updated_at": "2026-08-01T02:10:43Z",
-    "url": "https://github.com/we-are-singular/aml"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28302,
-    "updated_at": "2026-08-01T02:05:30Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-01T03:43:36Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Self-hosted local-first AI research stack with Ollama, n8n, Rinnsal memory, KnowledgeDigest search, and Docker Compose a",
-    "id": "ellmos-ai/ellmos-stack",
-    "language": "Python",
-    "name": "ellmos-ai/ellmos-stack",
-    "stars": 1,
-    "updated_at": "2026-08-01T01:44:47Z",
-    "url": "https://github.com/ellmos-ai/ellmos-stack"
   }
 ]
