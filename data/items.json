@@ -1,5 +1,59 @@
 [
   {
+    "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
+    "id": "PiyotaHu/Voxa",
+    "language": "Rust",
+    "name": "PiyotaHu/Voxa",
+    "stars": 1,
+    "updated_at": "2026-08-01T01:59:31Z",
+    "url": "https://github.com/PiyotaHu/Voxa"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 46,
+    "updated_at": "2026-08-01T01:59:59Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
+    "id": "ellmos-ai/.github",
+    "language": "Python",
+    "name": "ellmos-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-08-01T01:57:50Z",
+    "url": "https://github.com/ellmos-ai/.github"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-01T01:57:16Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-08-01T01:49:49Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-01T01:45:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Self-hosted local-first AI research stack with Ollama, n8n, Rinnsal memory, KnowledgeDigest search, and Docker Compose a",
     "id": "ellmos-ai/ellmos-stack",
     "language": "Python",
@@ -7,6 +61,24 @@
     "stars": 1,
     "updated_at": "2026-08-01T01:44:47Z",
     "url": "https://github.com/ellmos-ai/ellmos-stack"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7990,
+    "updated_at": "2026-08-01T01:44:46Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 28276,
+    "updated_at": "2026-08-01T01:44:45Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -23,7 +95,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-01T01:45:13Z",
+    "updated_at": "2026-08-01T01:59:59Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -36,24 +108,6 @@
     "url": "https://github.com/agents-inc/cli"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28274,
-    "updated_at": "2026-08-01T01:44:45Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-01T01:42:34Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
     "id": "sarptandoven/doppl-multiplayer",
     "language": "Python",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T01:33:57Z",
     "url": "https://github.com/sarptandoven/doppl-multiplayer"
-  },
-  {
-    "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
-    "id": "PiyotaHu/Voxa",
-    "language": "Rust",
-    "name": "PiyotaHu/Voxa",
-    "stars": 1,
-    "updated_at": "2026-08-01T01:32:53Z",
-    "url": "https://github.com/PiyotaHu/Voxa"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -86,7 +131,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 6,
-    "updated_at": "2026-08-01T01:32:00Z",
+    "updated_at": "2026-08-01T01:55:17Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T01:33:12Z",
     "url": "https://github.com/jamillazarev/opsinist"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-01T01:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -124,15 +160,6 @@
     "stars": 6,
     "updated_at": "2026-08-01T01:29:54Z",
     "url": "https://github.com/Wh1isper/starweaver"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7988,
-    "updated_at": "2026-08-01T01:44:46Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
@@ -176,7 +203,7 @@
     "language": "TypeScript",
     "name": "amilworks/ultra",
     "stars": 5,
-    "updated_at": "2026-08-01T01:19:28Z",
+    "updated_at": "2026-08-01T01:49:56Z",
     "url": "https://github.com/amilworks/ultra"
   },
   {
@@ -187,24 +214,6 @@
     "stars": 75,
     "updated_at": "2026-08-01T01:12:06Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 46,
-    "updated_at": "2026-08-01T01:33:41Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
-    "id": "ellmos-ai/.github",
-    "language": "\u2014",
-    "name": "ellmos-ai/.github",
-    "stars": 0,
-    "updated_at": "2026-08-01T01:09:21Z",
-    "url": "https://github.com/ellmos-ai/.github"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -295,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T00:48:05Z",
     "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-08-01T01:08:25Z",
-    "url": "https://github.com/codewandler/flux"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
