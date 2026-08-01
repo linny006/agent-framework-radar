@@ -1,12 +1,48 @@
 [
   {
+    "description": "The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg",
+    "id": "macanderson/context-graph-protocol",
+    "language": "Rust",
+    "name": "macanderson/context-graph-protocol",
+    "stars": 1,
+    "updated_at": "2026-08-01T18:30:12Z",
+    "url": "https://github.com/macanderson/context-graph-protocol"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 28507,
+    "updated_at": "2026-08-01T18:29:25Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-01T18:15:21Z",
+    "updated_at": "2026-08-01T18:26:29Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
+    "id": "loopedautomation/meet",
+    "language": "TypeScript",
+    "name": "loopedautomation/meet",
+    "stars": 6,
+    "updated_at": "2026-08-01T18:24:38Z",
+    "url": "https://github.com/loopedautomation/meet"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-08-01T18:24:25Z",
+    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Persistent self-improving AI teammates with memory, skills, and schedules.",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 1,
-    "updated_at": "2026-08-01T18:13:59Z",
+    "updated_at": "2026-08-01T18:22:38Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-01T18:15:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
@@ -27,15 +72,6 @@
     "url": "https://github.com/zachmeador/shrimpy"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28505,
-    "updated_at": "2026-08-01T18:06:52Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "\ud83e\udded Find any agent asset for any agent. Host-neutral locator for skills, worktrees, instructions, and agent.3md across Cla",
     "id": "CorvidLabs/let",
     "language": "TypeScript",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T18:05:02Z",
     "url": "https://github.com/CorvidLabs/let"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-01T18:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18954,
-    "updated_at": "2026-08-01T17:48:11Z",
+    "updated_at": "2026-08-01T18:27:49Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -207,15 +234,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-08-01T17:51:03Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -239,7 +257,7 @@
     "language": "Go",
     "name": "KPO-Tech/seshat",
     "stars": 4,
-    "updated_at": "2026-08-01T17:50:14Z",
+    "updated_at": "2026-08-01T18:24:53Z",
     "url": "https://github.com/KPO-Tech/seshat"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Rust",
     "name": "W117C/DeepseekNova",
     "stars": 3,
-    "updated_at": "2026-08-01T17:16:23Z",
+    "updated_at": "2026-08-01T18:29:53Z",
     "url": "https://github.com/W117C/DeepseekNova"
   },
   {
@@ -328,7 +346,7 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 353,
+    "stars": 355,
     "updated_at": "2026-08-01T16:25:59Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T15:33:22Z",
     "url": "https://github.com/Qwixl/Atom"
-  },
-  {
-    "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
-    "id": "Carrara-Labs/delta-harness",
-    "language": "TypeScript",
-    "name": "Carrara-Labs/delta-harness",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:32:43Z",
-    "url": "https://github.com/Carrara-Labs/delta-harness"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 78,
-    "updated_at": "2026-08-01T15:29:42Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
   }
 ]
