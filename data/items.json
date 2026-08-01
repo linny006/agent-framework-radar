@@ -1,12 +1,84 @@
 [
   {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-08-01T19:44:35Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 25,
+    "updated_at": "2026-08-01T19:39:58Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-01T19:44:06Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 356,
+    "updated_at": "2026-08-01T19:39:06Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8002,
+    "updated_at": "2026-08-01T19:39:04Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "\ud83d\udc1d \u5f15\u5de2 \u00b7 ZyHive | AI \u56e2\u961f\u64cd\u4f5c\u7cfb\u7edf \u2014 \u4e3a AI \u6210\u5458\u6ce8\u5165\u7075\u9b42\uff0c\u53ef\u89c6\u5316\u7ba1\u7406\u591a\u667a\u80fd\u4f53\u56e2\u961f\u3002Self-hosted AI Team OS \u00b7 Go + Vue 3 \u00b7 One-click deploy",
     "id": "Zyling-ai/ZyHive",
     "language": "Go",
     "name": "Zyling-ai/ZyHive",
     "stars": 19,
-    "updated_at": "2026-08-01T19:27:57Z",
+    "updated_at": "2026-08-01T19:43:22Z",
     "url": "https://github.com/Zyling-ai/ZyHive"
+  },
+  {
+    "description": "Async-first Python SDK for multi-provider AI systems, durable agents, tools, workflows, safety, and observability.",
+    "id": "Zhivex/zhivex-ai-sdk-py",
+    "language": "Python",
+    "name": "Zhivex/zhivex-ai-sdk-py",
+    "stars": 0,
+    "updated_at": "2026-08-01T19:33:44Z",
+    "url": "https://github.com/Zhivex/zhivex-ai-sdk-py"
+  },
+  {
+    "description": "A Node runtime for long-running LLM agents that author their own prompts. Each cycle the model writes its own next promp",
+    "id": "sdeture/metaprompt-harness",
+    "language": "JavaScript",
+    "name": "sdeture/metaprompt-harness",
+    "stars": 0,
+    "updated_at": "2026-08-01T19:30:46Z",
+    "url": "https://github.com/sdeture/metaprompt-harness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-01T19:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 46,
-    "updated_at": "2026-08-01T19:26:28Z",
+    "updated_at": "2026-08-01T19:45:14Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T19:22:53Z",
     "url": "https://github.com/Qwixl/Atom"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 25,
-    "updated_at": "2026-08-01T19:23:10Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Local-first Python toolkit for parallel Claude and LLM agent orchestration: consensus voting, stigmergy, boss-worker swa",
@@ -52,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T19:21:08Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-01T19:20:47Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -90,15 +144,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-01T19:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 1,
-    "updated_at": "2026-08-01T19:14:10Z",
+    "updated_at": "2026-08-01T19:41:39Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
@@ -121,7 +166,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28513,
+    "stars": 28514,
     "updated_at": "2026-08-01T19:10:56Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -160,15 +205,6 @@
     "stars": 4,
     "updated_at": "2026-08-01T19:02:16Z",
     "url": "https://github.com/KPO-Tech/seshat"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-08-01T19:00:15Z",
-    "url": "https://github.com/codewandler/flux"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -248,7 +284,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-08-01T18:41:27Z",
+    "updated_at": "2026-08-01T19:37:55Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -297,15 +333,6 @@
     "url": "https://github.com/ellmos-ai/gardener"
   },
   {
-    "description": "A Node runtime for long-running LLM agents that author their own prompts. Each cycle the model writes its own next promp",
-    "id": "sdeture/metaprompt-harness",
-    "language": "JavaScript",
-    "name": "sdeture/metaprompt-harness",
-    "stars": 0,
-    "updated_at": "2026-08-01T18:33:17Z",
-    "url": "https://github.com/sdeture/metaprompt-harness"
-  },
-  {
     "description": "The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg",
     "id": "macanderson/context-graph-protocol",
     "language": "Rust",
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18956,
-    "updated_at": "2026-08-01T19:12:43Z",
+    "updated_at": "2026-08-01T19:42:35Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 34,
     "updated_at": "2026-08-01T16:58:04Z",
     "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "\ud83d\udd25\ud83d\udd25COLM 2026\ud83d\udd25\ud83d\udd25      CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for au",
-    "id": "Human-Agent-Society/CORAL",
-    "language": "Python",
-    "name": "Human-Agent-Society/CORAL",
-    "stars": 865,
-    "updated_at": "2026-08-01T16:47:33Z",
-    "url": "https://github.com/Human-Agent-Society/CORAL"
-  },
-  {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-08-01T16:44:26Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
-    "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 22 crates, CLI/TUI/Desktop, agentic tool loop + graph retrieval + ",
-    "id": "W117C/DeepseekNova",
-    "language": "Rust",
-    "name": "W117C/DeepseekNova",
-    "stars": 3,
-    "updated_at": "2026-08-01T19:13:07Z",
-    "url": "https://github.com/W117C/DeepseekNova"
   }
 ]
