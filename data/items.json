@@ -1,12 +1,66 @@
 [
   {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
     "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 9,
-    "updated_at": "2026-08-01T10:59:20Z",
-    "url": "https://github.com/devoidfury/hotdog"
+    "name": "Qwixl/Atom",
+    "stars": 1,
+    "updated_at": "2026-08-01T11:14:45Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-01T11:14:25Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 154,
+    "updated_at": "2026-08-01T11:13:18Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-01T11:12:38Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 28396,
+    "updated_at": "2026-08-01T11:08:08Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Contract-bounded autonomy for LLM agents: five small primitives that make an agent safe to leave alone. Deterministic sp",
+    "id": "scholih/bounded-agent",
+    "language": "Python",
+    "name": "scholih/bounded-agent",
+    "stars": 0,
+    "updated_at": "2026-08-01T11:07:54Z",
+    "url": "https://github.com/scholih/bounded-agent"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 10,
+    "updated_at": "2026-08-01T11:06:36Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -14,17 +68,62 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 46,
-    "updated_at": "2026-08-01T10:58:24Z",
+    "updated_at": "2026-08-01T11:05:36Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7997,
+    "updated_at": "2026-08-01T11:13:19Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
+    "id": "vstorm-co/full-stack-ai-agent-template",
+    "language": "Python",
+    "name": "vstorm-co/full-stack-ai-agent-template",
+    "stars": 1676,
+    "updated_at": "2026-08-01T11:04:53Z",
+    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 3,
+    "updated_at": "2026-08-01T11:02:24Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
     "language": "TypeScript",
-    "name": "Qwixl/Atom",
+    "name": "devoidfury/hotdog",
+    "stars": 9,
+    "updated_at": "2026-08-01T11:01:56Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "\ud83d\udc1d \u5f15\u5de2 \u00b7 ZyHive | AI \u56e2\u961f\u64cd\u4f5c\u7cfb\u7edf \u2014 \u4e3a AI \u6210\u5458\u6ce8\u5165\u7075\u9b42\uff0c\u53ef\u89c6\u5316\u7ba1\u7406\u591a\u667a\u80fd\u4f53\u56e2\u961f\u3002Self-hosted AI Team OS \u00b7 Go + Vue 3 \u00b7 One-click deploy",
+    "id": "Zyling-ai/ZyHive",
+    "language": "Go",
+    "name": "Zyling-ai/ZyHive",
+    "stars": 19,
+    "updated_at": "2026-08-01T11:13:43Z",
+    "url": "https://github.com/Zyling-ai/ZyHive"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
     "stars": 1,
-    "updated_at": "2026-08-01T10:59:40Z",
-    "url": "https://github.com/Qwixl/Atom"
+    "updated_at": "2026-08-01T11:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -72,15 +171,6 @@
     "url": "https://github.com/codewandler/flux"
   },
   {
-    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
-    "id": "vstorm-co/full-stack-ai-agent-template",
-    "language": "Python",
-    "name": "vstorm-co/full-stack-ai-agent-template",
-    "stars": 1676,
-    "updated_at": "2026-08-01T10:52:53Z",
-    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -117,15 +207,6 @@
     "url": "https://github.com/tsingxuanhan/NexusFlow"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7997,
-    "updated_at": "2026-08-01T10:57:10Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
     "id": "roackb2/heddle",
     "language": "TypeScript",
@@ -133,24 +214,6 @@
     "stars": 18,
     "updated_at": "2026-08-01T10:46:21Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-01T10:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 10,
-    "updated_at": "2026-08-01T10:42:11Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
   },
   {
     "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
@@ -207,15 +270,6 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "Contract-bounded autonomy for LLM agents: five small primitives that make an agent safe to leave alone. Deterministic sp",
-    "id": "scholih/bounded-agent",
-    "language": "Python",
-    "name": "scholih/bounded-agent",
-    "stars": 0,
-    "updated_at": "2026-08-01T10:31:16Z",
-    "url": "https://github.com/scholih/bounded-agent"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -223,15 +277,6 @@
     "stars": 18941,
     "updated_at": "2026-08-01T10:30:24Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28389,
-    "updated_at": "2026-08-01T10:52:29Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandbox",
@@ -252,24 +297,6 @@
     "url": "https://github.com/maref-org/maref"
   },
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-01T09:58:29Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-01T09:57:58Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -277,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T09:57:29Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "\ud83d\udc1d \u5f15\u5de2 \u00b7 ZyHive | AI \u56e2\u961f\u64cd\u4f5c\u7cfb\u7edf \u2014 \u4e3a AI \u6210\u5458\u6ce8\u5165\u7075\u9b42\uff0c\u53ef\u89c6\u5316\u7ba1\u7406\u591a\u667a\u80fd\u4f53\u56e2\u961f\u3002Self-hosted AI Team OS \u00b7 Go + Vue 3 \u00b7 One-click deploy",
-    "id": "Zyling-ai/ZyHive",
-    "language": "Go",
-    "name": "Zyling-ai/ZyHive",
-    "stars": 19,
-    "updated_at": "2026-08-01T10:58:32Z",
-    "url": "https://github.com/Zyling-ai/ZyHive"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -302,7 +320,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-08-01T09:56:07Z",
+    "updated_at": "2026-08-01T11:14:08Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -405,15 +423,6 @@
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 154,
-    "updated_at": "2026-08-01T09:02:29Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
     "description": "Source-available Harness AI / Agent OS for teams building governed agent applications - with Nexus orchestration, policy",
     "id": "jakbuczarnecki/intergrax",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T08:55:42Z",
     "url": "https://github.com/ellmos-ai/.github"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 3,
-    "updated_at": "2026-08-01T08:49:46Z",
-    "url": "https://github.com/daretodave/nexus"
   }
 ]
