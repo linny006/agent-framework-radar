@@ -1,12 +1,57 @@
 [
   {
+    "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 5,
+    "updated_at": "2026-08-01T12:30:28Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 46,
+    "updated_at": "2026-08-01T12:30:14Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 46489,
-    "updated_at": "2026-08-01T12:14:28Z",
+    "updated_at": "2026-08-01T12:25:59Z",
     "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-08-01T12:22:13Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 203,
+    "updated_at": "2026-08-01T12:23:41Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2221,
+    "updated_at": "2026-08-01T12:21:45Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -14,8 +59,44 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 7998,
-    "updated_at": "2026-08-01T12:11:32Z",
+    "updated_at": "2026-08-01T12:27:56Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases",
+    "id": "ellmos-ai/gardener",
+    "language": "Python",
+    "name": "ellmos-ai/gardener",
+    "stars": 1,
+    "updated_at": "2026-08-01T12:18:19Z",
+    "url": "https://github.com/ellmos-ai/gardener"
+  },
+  {
+    "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
+    "id": "PiyotaHu/Voxa",
+    "language": "Rust",
+    "name": "PiyotaHu/Voxa",
+    "stars": 1,
+    "updated_at": "2026-08-01T12:18:51Z",
+    "url": "https://github.com/PiyotaHu/Voxa"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-01T12:15:41Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-01T12:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
@@ -31,7 +112,7 @@
     "id": "Qwixl/Atom",
     "language": "TypeScript",
     "name": "Qwixl/Atom",
-    "stars": 1,
+    "stars": 0,
     "updated_at": "2026-08-01T12:07:43Z",
     "url": "https://github.com/Qwixl/Atom"
   },
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T12:00:56Z",
     "url": "https://github.com/Carrara-Labs/delta-harness"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-01T12:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -121,7 +193,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28408,
+    "stars": 28411,
     "updated_at": "2026-08-01T11:52:22Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -131,7 +203,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-08-01T11:51:13Z",
+    "updated_at": "2026-08-01T12:27:23Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -142,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T11:48:18Z",
     "url": "https://github.com/ellmos-ai/MarbleRun"
-  },
-  {
-    "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
-    "id": "PiyotaHu/Voxa",
-    "language": "Rust",
-    "name": "PiyotaHu/Voxa",
-    "stars": 1,
-    "updated_at": "2026-08-01T11:47:24Z",
-    "url": "https://github.com/PiyotaHu/Voxa"
   },
   {
     "description": "\u57fa\u4e8e TRSS-Yunzai \u7684 AI Agent \u63d2\u4ef6\u6846\u67b6\uff1aLLM \u5bf9\u8bdd\u00b7\u5de5\u5177\u8c03\u7528\u00b7\u957f\u671f\u8bb0\u5fc6\u00b7MCP\u00b7\u5de5\u5177\u8fdb\u5316 | A modular AI Agent runtime for TRSS-Yunzai with self-evolving",
@@ -169,15 +232,6 @@
     "stars": 712,
     "updated_at": "2026-08-01T11:45:32Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-08-01T11:41:25Z",
-    "url": "https://github.com/codewandler/flux"
   },
   {
     "description": "Local SQLite memory for LLM agents and cross-agent context sharing",
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "yanacuti1121/Yana-AI",
     "stars": 1,
-    "updated_at": "2026-08-01T11:32:22Z",
+    "updated_at": "2026-08-01T12:25:35Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
@@ -214,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T11:32:06Z",
     "url": "https://github.com/tsingxuanhan/NexusFlow"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 46,
-    "updated_at": "2026-08-01T11:31:12Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
@@ -239,7 +284,7 @@
     "language": "TypeScript",
     "name": "firatcand/roster",
     "stars": 16,
-    "updated_at": "2026-08-01T11:28:41Z",
+    "updated_at": "2026-08-01T12:23:25Z",
     "url": "https://github.com/firatcand/roster"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T11:25:31Z",
     "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 203,
-    "updated_at": "2026-08-01T11:43:31Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -351,15 +387,6 @@
     "url": "https://github.com/devoidfury/hotdog"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-01T12:08:50Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "VibeSkills is a general-purpose Skill that automatically routes local Skills and intelligently orchestrates harness work",
     "id": "foryourhealth111-pixel/Vibe-Skills",
     "language": "Python",
@@ -396,15 +423,6 @@
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
-    "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 5,
-    "updated_at": "2026-08-01T10:32:05Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-01T10:04:07Z",
     "url": "https://github.com/maref-org/maref"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 0,
-    "updated_at": "2026-08-01T10:42:39Z",
-    "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "Self-hosted, privacy-first AI collaborator with durable memory, real tools, channel-native access, routines, and auditab",
-    "id": "RNT56/ThinClaw",
-    "language": "Rust",
-    "name": "RNT56/ThinClaw",
-    "stars": 0,
-    "updated_at": "2026-08-01T10:05:10Z",
-    "url": "https://github.com/RNT56/ThinClaw"
   }
 ]
