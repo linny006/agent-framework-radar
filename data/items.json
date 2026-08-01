@@ -1,12 +1,102 @@
 [
   {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
+    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
+    "id": "JunMystery/Agent-Guidance-Rust",
+    "language": "Rust",
+    "name": "JunMystery/Agent-Guidance-Rust",
+    "stars": 0,
+    "updated_at": "2026-08-01T15:45:12Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 78,
-    "updated_at": "2026-08-01T15:29:42Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
+    "name": "pydantic/pydantic-ai",
+    "stars": 18950,
+    "updated_at": "2026-08-01T15:43:12Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-01T15:42:17Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Harness-oriented agent system framework for production-grade LLM agent applications",
+    "id": "CodeSoul-co/Hypha",
+    "language": "TypeScript",
+    "name": "CodeSoul-co/Hypha",
+    "stars": 7,
+    "updated_at": "2026-08-01T15:42:16Z",
+    "url": "https://github.com/CodeSoul-co/Hypha"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-08-01T15:40:48Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
+    "id": "iduyuhe/zhiyan-evolviq",
+    "language": "Python",
+    "name": "iduyuhe/zhiyan-evolviq",
+    "stars": 4,
+    "updated_at": "2026-08-01T15:39:11Z",
+    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-01T15:38:49Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "The fully self-hostable, open composable platform for agent orchestration and human collaboration. With tools, security,",
+    "id": "amajorai/ryu",
+    "language": "Rust",
+    "name": "amajorai/ryu",
+    "stars": 34,
+    "updated_at": "2026-08-01T15:37:10Z",
+    "url": "https://github.com/amajorai/ryu"
+  },
+  {
+    "description": "Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases",
+    "id": "ellmos-ai/gardener",
+    "language": "Python",
+    "name": "ellmos-ai/gardener",
+    "stars": 1,
+    "updated_at": "2026-08-01T15:35:52Z",
+    "url": "https://github.com/ellmos-ai/gardener"
+  },
+  {
+    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
+    "id": "AndersonBY/vv-agent",
+    "language": "Python",
+    "name": "AndersonBY/vv-agent",
+    "stars": 1,
+    "updated_at": "2026-08-01T15:34:31Z",
+    "url": "https://github.com/AndersonBY/vv-agent"
+  },
+  {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 0,
+    "updated_at": "2026-08-01T15:33:22Z",
+    "url": "https://github.com/Qwixl/Atom"
   },
   {
     "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
@@ -14,8 +104,35 @@
     "language": "TypeScript",
     "name": "Carrara-Labs/delta-harness",
     "stars": 0,
-    "updated_at": "2026-08-01T15:28:49Z",
+    "updated_at": "2026-08-01T15:32:43Z",
     "url": "https://github.com/Carrara-Labs/delta-harness"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-01T15:32:26Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-01T15:31:03Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 78,
+    "updated_at": "2026-08-01T15:29:42Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
@@ -54,24 +171,6 @@
     "url": "https://github.com/hara-cli/hara"
   },
   {
-    "description": "The fully self-hostable, open composable platform for agent orchestration and human collaboration. With tools, security,",
-    "id": "amajorai/ryu",
-    "language": "Rust",
-    "name": "amajorai/ryu",
-    "stars": 34,
-    "updated_at": "2026-08-01T15:21:51Z",
-    "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "Harness-oriented agent system framework for production-grade LLM agent applications",
-    "id": "CodeSoul-co/Hypha",
-    "language": "TypeScript",
-    "name": "CodeSoul-co/Hypha",
-    "stars": 7,
-    "updated_at": "2026-08-01T15:30:17Z",
-    "url": "https://github.com/CodeSoul-co/Hypha"
-  },
-  {
     "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
     "id": "firatcand/roster",
     "language": "TypeScript",
@@ -81,24 +180,6 @@
     "url": "https://github.com/firatcand/roster"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-01T15:17:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-01T15:18:34Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -106,24 +187,6 @@
     "stars": 46496,
     "updated_at": "2026-08-01T15:11:53Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-08-01T15:07:29Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
-    "description": "Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases",
-    "id": "ellmos-ai/gardener",
-    "language": "Python",
-    "name": "ellmos-ai/gardener",
-    "stars": 1,
-    "updated_at": "2026-08-01T15:05:55Z",
-    "url": "https://github.com/ellmos-ai/gardener"
   },
   {
     "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T15:03:41Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
-    "id": "JunMystery/Agent-Guidance-Rust",
-    "language": "Rust",
-    "name": "JunMystery/Agent-Guidance-Rust",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:01:31Z",
-    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -196,15 +250,6 @@
     "stars": 154,
     "updated_at": "2026-08-01T14:56:47Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18948,
-    "updated_at": "2026-08-01T15:22:19Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "",
@@ -270,15 +315,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-01T14:38:23Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
     "id": "ellmos-ai/bach",
     "language": "Python",
@@ -297,15 +333,6 @@
     "url": "https://github.com/daretodave/nexus"
   },
   {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
-    "language": "TypeScript",
-    "name": "Qwixl/Atom",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:29:23Z",
-    "url": "https://github.com/Qwixl/Atom"
-  },
-  {
     "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
     "id": "vstorm-co/full-stack-ai-agent-template",
     "language": "Python",
@@ -313,15 +340,6 @@
     "stars": 1676,
     "updated_at": "2026-08-01T14:36:43Z",
     "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
-  },
-  {
-    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
-    "id": "iduyuhe/zhiyan-evolviq",
-    "language": "Python",
-    "name": "iduyuhe/zhiyan-evolviq",
-    "stars": 4,
-    "updated_at": "2026-08-01T14:23:46Z",
-    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
   },
   {
     "description": "A Self-Hosted Web Based AI Platform for building and running autonomous AI agents without writing code. Deploy it on you",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T14:08:00Z",
     "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8002,
-    "updated_at": "2026-08-01T14:07:42Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Open-source, enterprise-grade autonomous AI agent ecosystem & declarative mesh workflow engine (DAM v3.0, DWM v1.0)",
-    "id": "seismael/aeromesh",
-    "language": "Python",
-    "name": "seismael/aeromesh",
-    "stars": 0,
-    "updated_at": "2026-08-01T14:04:30Z",
-    "url": "https://github.com/seismael/aeromesh"
   }
 ]
