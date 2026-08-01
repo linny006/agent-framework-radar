@@ -1,5 +1,41 @@
 [
   {
+    "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
+    "id": "ellmos-ai/MarbleRun",
+    "language": "Python",
+    "name": "ellmos-ai/MarbleRun",
+    "stars": 1,
+    "updated_at": "2026-08-01T06:21:15Z",
+    "url": "https://github.com/ellmos-ai/MarbleRun"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 10,
+    "updated_at": "2026-08-01T06:20:45Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "Embeddable agent kernel for durable, provider-neutral LLM agents with permissions, pluggable tools, observability, and s",
+    "id": "hoonseokyoon/monoid-agent-kernel",
+    "language": "Python",
+    "name": "hoonseokyoon/monoid-agent-kernel",
+    "stars": 1,
+    "updated_at": "2026-08-01T06:19:51Z",
+    "url": "https://github.com/hoonseokyoon/monoid-agent-kernel"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-01T06:15:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
@@ -54,15 +90,6 @@
     "url": "https://github.com/opencue/cuecards"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-01T06:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A Self-Hosted, Open-Source Enterprise AI Platform for building and running autonomous AI agents without writing code. De",
     "id": "openenterprise-info/open-enterprise-ai-platform",
     "language": "JavaScript",
@@ -113,7 +140,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 6,
-    "updated_at": "2026-08-01T05:52:54Z",
+    "updated_at": "2026-08-01T06:20:19Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -230,7 +257,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 18,
-    "updated_at": "2026-08-01T05:06:54Z",
+    "updated_at": "2026-08-01T06:21:43Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -265,18 +292,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28320,
+    "stars": 28322,
     "updated_at": "2026-08-01T05:01:32Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
-    "id": "Caprista/KarvyLoop",
-    "language": "Python",
-    "name": "Caprista/KarvyLoop",
-    "stars": 10,
-    "updated_at": "2026-08-01T04:57:07Z",
-    "url": "https://github.com/Caprista/KarvyLoop"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
@@ -347,7 +365,7 @@
     "language": "TypeScript",
     "name": "CodeSoul-co/Hypha",
     "stars": 7,
-    "updated_at": "2026-08-01T06:14:17Z",
+    "updated_at": "2026-08-01T06:20:07Z",
     "url": "https://github.com/CodeSoul-co/Hypha"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T04:16:37Z",
     "url": "https://github.com/dylanma8232-art/Daming-Agent"
-  },
-  {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 37,
-    "updated_at": "2026-08-01T04:11:05Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6695,
-    "updated_at": "2026-08-01T03:59:14Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
   }
 ]
