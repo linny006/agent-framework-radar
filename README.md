@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-01 02:15 UTC
+> ⏰ Last updated: 2026-08-01 02:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,30 +43,30 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 46 | TypeScript | 2026-08-01 | Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo |
-| 2 | [wmcmahan/cycgraph](https://github.com/wmcmahan/cycgraph) | 2 | TypeScript | 2026-08-01 | Agent context compressor and memory persistent orchestration |
-| 3 | [xiejianjun000/eco-agent](https://github.com/xiejianjun000/eco-agent) | 2 | Python | 2026-08-01 | Eco Agent - 五层循环驱动的开源自主 AI 智能体系统 / 持续自我进化 / 多智能体协作 / 8 平台统一网关 |
-| 4 | [PiyotaHu/Voxa](https://github.com/PiyotaHu/Voxa) | 1 | Rust | 2026-08-01 | Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n |
-| 5 | [we-are-singular/aml](https://github.com/we-are-singular/aml) | 6 | TypeScript | 2026-08-01 | Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows. |
-| 6 | [agents-inc/cli](https://github.com/agents-inc/cli) | 5 | TypeScript | 2026-08-01 | An agent composition framework that builds stacks and compiles specialized subagents for Claude Code |
-| 7 | [codewandler/flux](https://github.com/codewandler/flux) | 0 | Rust | 2026-08-01 | A Rust agent SDK, harness, and coding agent — safe by construction (non-bypassable authorization → approval → guarded IO |
-| 8 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 28280 | Go | 2026-08-01 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 9 | [ellmos-ai/.github](https://github.com/ellmos-ai/.github) | 0 | HTML | 2026-08-01 | ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media  |
-| 10 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-08-01 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 11 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-08-01 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 12 | [ellmos-ai/ellmos-stack](https://github.com/ellmos-ai/ellmos-stack) | 1 | Python | 2026-08-01 | Self-hosted local-first AI research stack with Ollama, n8n, Rinnsal memory, KnowledgeDigest search, and Docker Compose a |
-| 13 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7990 | Python | 2026-08-01 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 14 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 1 | HTML | 2026-08-01 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
-| 15 | [sytone/botnexus](https://github.com/sytone/botnexus) | 2 | C# | 2026-08-01 | BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in  |
-| 16 | [sarptandoven/doppl-multiplayer](https://github.com/sarptandoven/doppl-multiplayer) | 0 | Python | 2026-08-01 | People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu |
-| 17 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 120 | Shell | 2026-08-01 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
-| 18 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 6 | JavaScript | 2026-08-01 | Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API |
-| 19 | [jamillazarev/opsinist](https://github.com/jamillazarev/opsinist) | 0 | Shell | 2026-08-01 | An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation — out of one git rep |
-| 20 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-01 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 21 | [Wh1isper/starweaver](https://github.com/Wh1isper/starweaver) | 6 | Rust | 2026-08-01 | Agent SDK, CLI, RPC, Computer-use in Rust |
-| 22 | [ellmos-ai/MarbleRun](https://github.com/ellmos-ai/MarbleRun) | 1 | Python | 2026-08-01 | MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains |
-| 23 | [ellmos-ai/swarm-ai](https://github.com/ellmos-ai/swarm-ai) | 2 | Python | 2026-08-01 | Local-first Python toolkit for parallel Claude and LLM agent orchestration: consensus voting, stigmergy, boss-worker swa |
-| 24 | [ellmos-ai/clutch](https://github.com/ellmos-ai/clutch) | 2 | Python | 2026-08-01 | Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones |
-| 25 | [ellmos-ai/rinnsal](https://github.com/ellmos-ai/rinnsal) | 1 | Python | 2026-08-01 | Lightweight local-first LLM agent infrastructure: SQLite memory, tasks, connectors, and chain automation |
+| 2 | [codewandler/flux](https://github.com/codewandler/flux) | 0 | Rust | 2026-08-01 | A Rust agent SDK, harness, and coding agent — safe by construction (non-bypassable authorization → approval → guarded IO |
+| 3 | [ellmos-ai/MarbleRun](https://github.com/ellmos-ai/MarbleRun) | 1 | Python | 2026-08-01 | MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains |
+| 4 | [ellmos-ai/.github](https://github.com/ellmos-ai/.github) | 0 | HTML | 2026-08-01 | ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media  |
+| 5 | [sytone/botnexus](https://github.com/sytone/botnexus) | 2 | C# | 2026-08-01 | BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in  |
+| 6 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 7990 | Python | 2026-08-01 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 7 | [ellmos-ai/rinnsal](https://github.com/ellmos-ai/rinnsal) | 1 | Python | 2026-08-01 | Lightweight local-first LLM agent infrastructure: SQLite memory, tasks, connectors, and chain automation |
+| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-08-01 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 9 | [wmcmahan/cycgraph](https://github.com/wmcmahan/cycgraph) | 2 | TypeScript | 2026-08-01 | Agent context compressor and memory persistent orchestration |
+| 10 | [xiejianjun000/eco-agent](https://github.com/xiejianjun000/eco-agent) | 2 | Python | 2026-08-01 | Eco Agent - 五层循环驱动的开源自主 AI 智能体系统 / 持续自我进化 / 多智能体协作 / 8 平台统一网关 |
+| 11 | [PiyotaHu/Voxa](https://github.com/PiyotaHu/Voxa) | 1 | Rust | 2026-08-01 | Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n |
+| 12 | [we-are-singular/aml](https://github.com/we-are-singular/aml) | 6 | TypeScript | 2026-08-01 | Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows. |
+| 13 | [agents-inc/cli](https://github.com/agents-inc/cli) | 5 | TypeScript | 2026-08-01 | An agent composition framework that builds stacks and compiles specialized subagents for Claude Code |
+| 14 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 28285 | Go | 2026-08-01 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 15 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-08-01 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 16 | [ellmos-ai/ellmos-stack](https://github.com/ellmos-ai/ellmos-stack) | 1 | Python | 2026-08-01 | Self-hosted local-first AI research stack with Ollama, n8n, Rinnsal memory, KnowledgeDigest search, and Docker Compose a |
+| 17 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 1 | HTML | 2026-08-01 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
+| 18 | [sarptandoven/doppl-multiplayer](https://github.com/sarptandoven/doppl-multiplayer) | 0 | Python | 2026-08-01 | People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu |
+| 19 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 120 | Shell | 2026-08-01 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
+| 20 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 6 | JavaScript | 2026-08-01 | Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API |
+| 21 | [jamillazarev/opsinist](https://github.com/jamillazarev/opsinist) | 0 | Shell | 2026-08-01 | An operations department for AI coding agents, in files. Roles, work, cost, evidence and escalation — out of one git rep |
+| 22 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-01 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 23 | [Wh1isper/starweaver](https://github.com/Wh1isper/starweaver) | 6 | Rust | 2026-08-01 | Agent SDK, CLI, RPC, Computer-use in Rust |
+| 24 | [ellmos-ai/swarm-ai](https://github.com/ellmos-ai/swarm-ai) | 2 | Python | 2026-08-01 | Local-first Python toolkit for parallel Claude and LLM agent orchestration: consensus voting, stigmergy, boss-worker swa |
+| 25 | [ellmos-ai/clutch](https://github.com/ellmos-ai/clutch) | 2 | Python | 2026-08-01 | Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones |
 | 26 | [amilworks/ultra](https://github.com/amilworks/ultra) | 5 | TypeScript | 2026-08-01 | AI research agents + scientific image viewer for bioimaging & neuroimaging — LangGraph agents, GPU inference, and native |
 | 27 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 75 | TypeScript | 2026-08-01 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
 | 28 | [brunogcar/agent](https://github.com/brunogcar/agent) | 1 | Python | 2026-08-01 | Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline  |

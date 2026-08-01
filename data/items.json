@@ -5,8 +5,71 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 46,
-    "updated_at": "2026-08-01T02:14:37Z",
+    "updated_at": "2026-08-01T02:29:51Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-08-01T02:29:26Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
+    "id": "ellmos-ai/MarbleRun",
+    "language": "Python",
+    "name": "ellmos-ai/MarbleRun",
+    "stars": 1,
+    "updated_at": "2026-08-01T02:29:10Z",
+    "url": "https://github.com/ellmos-ai/MarbleRun"
+  },
+  {
+    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
+    "id": "ellmos-ai/.github",
+    "language": "HTML",
+    "name": "ellmos-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-08-01T02:27:50Z",
+    "url": "https://github.com/ellmos-ai/.github"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-08-01T02:26:12Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7990,
+    "updated_at": "2026-08-01T02:23:27Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Lightweight local-first LLM agent infrastructure: SQLite memory, tasks, connectors, and chain automation",
+    "id": "ellmos-ai/rinnsal",
+    "language": "Python",
+    "name": "ellmos-ai/rinnsal",
+    "stars": 1,
+    "updated_at": "2026-08-01T02:21:25Z",
+    "url": "https://github.com/ellmos-ai/rinnsal"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-01T02:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent context compressor and memory persistent orchestration",
@@ -54,40 +117,13 @@
     "url": "https://github.com/agents-inc/cli"
   },
   {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-08-01T02:06:37Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28280,
+    "stars": 28285,
     "updated_at": "2026-08-01T02:05:30Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
-    "id": "ellmos-ai/.github",
-    "language": "HTML",
-    "name": "ellmos-ai/.github",
-    "stars": 0,
-    "updated_at": "2026-08-01T02:01:13Z",
-    "url": "https://github.com/ellmos-ai/.github"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-01T02:00:37Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -108,15 +144,6 @@
     "url": "https://github.com/ellmos-ai/ellmos-stack"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 7990,
-    "updated_at": "2026-08-01T01:44:46Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -124,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T01:43:31Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-08-01T02:01:25Z",
-    "url": "https://github.com/sytone/botnexus"
   },
   {
     "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
@@ -149,7 +167,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-08-01T01:32:43Z",
+    "updated_at": "2026-08-01T02:23:00Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -189,15 +207,6 @@
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
-    "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
-    "id": "ellmos-ai/MarbleRun",
-    "language": "Python",
-    "name": "ellmos-ai/MarbleRun",
-    "stars": 1,
-    "updated_at": "2026-08-01T01:26:06Z",
-    "url": "https://github.com/ellmos-ai/MarbleRun"
-  },
-  {
     "description": "Local-first Python toolkit for parallel Claude and LLM agent orchestration: consensus voting, stigmergy, boss-worker swa",
     "id": "ellmos-ai/swarm-ai",
     "language": "Python",
@@ -214,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T01:25:40Z",
     "url": "https://github.com/ellmos-ai/clutch"
-  },
-  {
-    "description": "Lightweight local-first LLM agent infrastructure: SQLite memory, tasks, connectors, and chain automation",
-    "id": "ellmos-ai/rinnsal",
-    "language": "Python",
-    "name": "ellmos-ai/rinnsal",
-    "stars": 1,
-    "updated_at": "2026-08-01T01:23:23Z",
-    "url": "https://github.com/ellmos-ai/rinnsal"
   },
   {
     "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
@@ -329,7 +329,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 18934,
-    "updated_at": "2026-08-01T01:17:01Z",
+    "updated_at": "2026-08-01T02:27:46Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
