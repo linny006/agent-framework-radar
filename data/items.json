@@ -1,11 +1,119 @@
 [
   {
+    "description": "Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones",
+    "id": "ellmos-ai/clutch",
+    "language": "Python",
+    "name": "ellmos-ai/clutch",
+    "stars": 2,
+    "updated_at": "2026-08-01T08:14:39Z",
+    "url": "https://github.com/ellmos-ai/clutch"
+  },
+  {
+    "description": "Self-hosted completion gate for coding agents: independent verification before done, durable evidence, CLI and local GUI",
+    "id": "moortekweb-art/agentic-harness",
+    "language": "Python",
+    "name": "moortekweb-art/agentic-harness",
+    "stars": 1,
+    "updated_at": "2026-08-01T08:14:35Z",
+    "url": "https://github.com/moortekweb-art/agentic-harness"
+  },
+  {
+    "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-08-01T08:13:58Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 348,
+    "updated_at": "2026-08-01T08:13:41Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-08-01T08:11:51Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "The agentic runtime to build production-grade AI agents at scale.",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 6,
+    "updated_at": "2026-08-01T08:11:12Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-01T08:10:36Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-01T08:10:22Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 1,
+    "updated_at": "2026-08-01T08:07:14Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-08-01T08:01:26Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
+    "id": "open1s/bos",
+    "language": "Rust",
+    "name": "open1s/bos",
+    "stars": 1,
+    "updated_at": "2026-08-01T08:01:08Z",
+    "url": "https://github.com/open1s/bos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-01T08:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
     "id": "Carrara-Labs/delta-harness",
     "language": "TypeScript",
     "name": "Carrara-Labs/delta-harness",
     "stars": 0,
-    "updated_at": "2026-08-01T08:00:01Z",
+    "updated_at": "2026-08-01T08:15:17Z",
     "url": "https://github.com/Carrara-Labs/delta-harness"
   },
   {
@@ -32,7 +140,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-01T07:56:59Z",
+    "updated_at": "2026-08-01T08:07:09Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -50,7 +158,7 @@
     "language": "Go",
     "name": "Zyling-ai/ZyHive",
     "stars": 19,
-    "updated_at": "2026-08-01T07:55:45Z",
+    "updated_at": "2026-08-01T08:02:47Z",
     "url": "https://github.com/Zyling-ai/ZyHive"
   },
   {
@@ -81,15 +189,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-01T07:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
     "id": "BrainoutputHQ/brainoutput-community",
     "language": "JavaScript",
@@ -108,21 +207,12 @@
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
-    "description": "Self-hosted completion gate for coding agents: independent verification before done, durable evidence, CLI and local GUI",
-    "id": "moortekweb-art/agentic-harness",
-    "language": "Python",
-    "name": "moortekweb-art/agentic-harness",
-    "stars": 1,
-    "updated_at": "2026-08-01T07:38:18Z",
-    "url": "https://github.com/moortekweb-art/agentic-harness"
-  },
-  {
     "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 22 crates, CLI/TUI/Desktop, agentic tool loop + graph retrieval + ",
     "id": "W117C/DeepseekNova",
     "language": "Rust",
     "name": "W117C/DeepseekNova",
     "stars": 3,
-    "updated_at": "2026-08-01T07:36:45Z",
+    "updated_at": "2026-08-01T08:15:08Z",
     "url": "https://github.com/W117C/DeepseekNova"
   },
   {
@@ -144,15 +234,6 @@
     "url": "https://github.com/codewandler/flux"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 348,
-    "updated_at": "2026-08-01T07:34:03Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
     "id": "PiyotaHu/Voxa",
     "language": "Rust",
@@ -160,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T07:32:16Z",
     "url": "https://github.com/PiyotaHu/Voxa"
-  },
-  {
-    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 1,
-    "updated_at": "2026-08-01T07:31:55Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
     "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
@@ -193,7 +265,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18937,
+    "stars": 18938,
     "updated_at": "2026-08-01T07:26:51Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -241,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T07:36:20Z",
     "url": "https://github.com/RNT56/ThinClaw"
-  },
-  {
-    "description": "The agentic runtime to build production-grade AI agents at scale.",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 6,
-    "updated_at": "2026-08-01T07:33:45Z",
-    "url": "https://github.com/Kortecx/kortecx"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -328,7 +391,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28346,
+    "stars": 28350,
     "updated_at": "2026-08-01T06:54:58Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -338,7 +401,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 18,
-    "updated_at": "2026-08-01T06:51:37Z",
+    "updated_at": "2026-08-01T08:11:35Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 154,
     "updated_at": "2026-08-01T06:24:52Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-08-01T07:18:10Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
-    "id": "ellmos-ai/MarbleRun",
-    "language": "Python",
-    "name": "ellmos-ai/MarbleRun",
-    "stars": 1,
-    "updated_at": "2026-08-01T06:21:15Z",
-    "url": "https://github.com/ellmos-ai/MarbleRun"
-  },
-  {
-    "description": "Embeddable agent kernel for durable, provider-neutral LLM agents with permissions, pluggable tools, observability, and s",
-    "id": "hoonseokyoon/monoid-agent-kernel",
-    "language": "Python",
-    "name": "hoonseokyoon/monoid-agent-kernel",
-    "stars": 1,
-    "updated_at": "2026-08-01T07:56:19Z",
-    "url": "https://github.com/hoonseokyoon/monoid-agent-kernel"
-  },
-  {
-    "description": "Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones",
-    "id": "ellmos-ai/clutch",
-    "language": "Python",
-    "name": "ellmos-ai/clutch",
-    "stars": 2,
-    "updated_at": "2026-08-01T06:05:21Z",
-    "url": "https://github.com/ellmos-ai/clutch"
-  },
-  {
-    "description": "BACH v3.12.4-earth: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers,",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-08-01T06:03:53Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Standalone AI agent executor for Windows, Linux & macOS. Run declarative YAML agents against 2,600+ enterprise connector",
-    "id": "openenterprise-info/open-enterprise-ai-agent-runtime",
-    "language": "JavaScript",
-    "name": "openenterprise-info/open-enterprise-ai-agent-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:00:30Z",
-    "url": "https://github.com/openenterprise-info/open-enterprise-ai-agent-runtime"
-  },
-  {
-    "description": "A Self-Hosted, Open-Source Enterprise AI Platform for building and running autonomous AI agents without writing code. De",
-    "id": "openenterprise-info/open-enterprise-ai-platform",
-    "language": "JavaScript",
-    "name": "openenterprise-info/open-enterprise-ai-platform",
-    "stars": 1,
-    "updated_at": "2026-08-01T06:00:22Z",
-    "url": "https://github.com/openenterprise-info/open-enterprise-ai-platform"
   }
 ]
