@@ -1,5 +1,68 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-08-02T05:29:24Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
+    "id": "amilworks/ultra",
+    "language": "TypeScript",
+    "name": "amilworks/ultra",
+    "stars": 5,
+    "updated_at": "2026-08-02T05:27:50Z",
+    "url": "https://github.com/amilworks/ultra"
+  },
+  {
+    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
+    "id": "danmo-ai/danmo-work",
+    "language": "Go",
+    "name": "danmo-ai/danmo-work",
+    "stars": 2,
+    "updated_at": "2026-08-02T05:26:58Z",
+    "url": "https://github.com/danmo-ai/danmo-work"
+  },
+  {
+    "description": "The agentic runtime to build production-grade AI agents at scale.",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 6,
+    "updated_at": "2026-08-02T05:24:46Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-08-02T05:24:05Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 0,
+    "updated_at": "2026-08-02T05:18:35Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-02T05:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -18,15 +81,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 0,
-    "updated_at": "2026-08-02T05:12:39Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
     "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
     "id": "yanacuti1121/Yana-AI",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T05:08:53Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
-    "id": "danmo-ai/danmo-work",
-    "language": "Go",
-    "name": "danmo-ai/danmo-work",
-    "stars": 2,
-    "updated_at": "2026-08-02T05:06:41Z",
-    "url": "https://github.com/danmo-ai/danmo-work"
   },
   {
     "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
@@ -63,15 +108,6 @@
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-02T05:01:40Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
@@ -90,15 +126,6 @@
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-08-02T04:51:25Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -115,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T04:44:56Z",
     "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-08-02T05:05:07Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -148,8 +166,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8014,
-    "updated_at": "2026-08-02T04:35:57Z",
+    "stars": 8016,
+    "updated_at": "2026-08-02T05:27:55Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -203,7 +221,7 @@
     "language": "JavaScript",
     "name": "enthrium/open-enthrium-ai-agent-runtime",
     "stars": 0,
-    "updated_at": "2026-08-02T04:26:53Z",
+    "updated_at": "2026-08-02T05:24:48Z",
     "url": "https://github.com/enthrium/open-enthrium-ai-agent-runtime"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "hoonseokyoon/monoid-agent-kernel",
     "stars": 1,
-    "updated_at": "2026-08-02T05:01:13Z",
+    "updated_at": "2026-08-02T05:29:01Z",
     "url": "https://github.com/hoonseokyoon/monoid-agent-kernel"
   },
   {
@@ -419,7 +437,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-08-02T02:51:13Z",
+    "updated_at": "2026-08-02T05:19:38Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 154,
     "updated_at": "2026-08-02T02:43:26Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
-    "id": "Thepizzapie/BuildersGate",
-    "language": "Python",
-    "name": "Thepizzapie/BuildersGate",
-    "stars": 16,
-    "updated_at": "2026-08-02T02:41:26Z",
-    "url": "https://github.com/Thepizzapie/BuildersGate"
-  },
-  {
-    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
-    "id": "rapidaai/voice-ai",
-    "language": "Go",
-    "name": "rapidaai/voice-ai",
-    "stars": 707,
-    "updated_at": "2026-08-02T04:30:11Z",
-    "url": "https://github.com/rapidaai/voice-ai"
   }
 ]
