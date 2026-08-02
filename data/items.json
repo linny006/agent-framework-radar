@@ -1,12 +1,57 @@
 [
   {
+    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
+    "id": "danmo-ai/danmo-work",
+    "language": "Go",
+    "name": "danmo-ai/danmo-work",
+    "stars": 2,
+    "updated_at": "2026-08-02T03:45:12Z",
+    "url": "https://github.com/danmo-ai/danmo-work"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-08-02T03:45:08Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-02T03:44:37Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
     "description": "A standalone AI agent runtime for Windows, Linux, and macOS. Execute declarative YAML agents with built-in access to 2,6",
     "id": "enthrium/open-enthrium-ai-agent-runtime",
     "language": "JavaScript",
     "name": "enthrium/open-enthrium-ai-agent-runtime",
     "stars": 0,
-    "updated_at": "2026-08-02T03:28:05Z",
+    "updated_at": "2026-08-02T03:39:46Z",
     "url": "https://github.com/enthrium/open-enthrium-ai-agent-runtime"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-08-02T03:40:53Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-02T03:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent self-improving AI teammates with memory, skills, and schedules.",
@@ -45,15 +90,6 @@
     "url": "https://github.com/substructureai/substructure"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-02T03:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -72,15 +108,6 @@
     "url": "https://github.com/wrg32786/aigent-os"
   },
   {
-    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
-    "id": "danmo-ai/danmo-work",
-    "language": "Go",
-    "name": "danmo-ai/danmo-work",
-    "stars": 2,
-    "updated_at": "2026-08-02T03:09:55Z",
-    "url": "https://github.com/danmo-ai/danmo-work"
-  },
-  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -94,7 +121,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8010,
+    "stars": 8011,
     "updated_at": "2026-08-02T03:09:10Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -115,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T03:06:01Z",
     "url": "https://github.com/PiyotaHu/Voxa"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-08-02T03:05:57Z",
-    "url": "https://github.com/codewandler/flux"
   },
   {
     "description": "A self-hosted, web-based AI platform for building, deploying, and running autonomous AI agents. Connect to 2,600+ enterp",
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-02T03:22:59Z",
+    "updated_at": "2026-08-02T03:41:59Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -256,7 +274,7 @@
     "id": "Thepizzapie/BuildersGate",
     "language": "Python",
     "name": "Thepizzapie/BuildersGate",
-    "stars": 15,
+    "stars": 16,
     "updated_at": "2026-08-02T02:41:26Z",
     "url": "https://github.com/Thepizzapie/BuildersGate"
   },
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "billybox1926-jpg/Terminai",
     "stars": 1,
-    "updated_at": "2026-08-02T01:56:31Z",
+    "updated_at": "2026-08-02T03:35:38Z",
     "url": "https://github.com/billybox1926-jpg/Terminai"
   },
   {
@@ -410,17 +428,8 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 468,
-    "updated_at": "2026-08-02T03:30:13Z",
+    "updated_at": "2026-08-02T03:33:50Z",
     "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-08-02T03:22:16Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-02T01:28:25Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18963,
-    "updated_at": "2026-08-02T02:59:32Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   }
 ]
