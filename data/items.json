@@ -1,12 +1,102 @@
 [
   {
+    "description": "A tiny, framework-agnostic tool registry for LLM agents: typed tools with zod, JSON Schema for function calling, validat",
+    "id": "marcelogdomingues/agent-toolbelt",
+    "language": "TypeScript",
+    "name": "marcelogdomingues/agent-toolbelt",
+    "stars": 0,
+    "updated_at": "2026-08-02T23:13:08Z",
+    "url": "https://github.com/marcelogdomingues/agent-toolbelt"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f \u901a\u7528\u578bAI\u8ba4\u77e5\u67b6\u6784 \u00b7 \u8bfa\u4e9a\u4e09\u4ee3\u4e8c\u578b \u2014 \u62bd\u5c49\u7ea7\u8054\u4e0a\u4e0b\u6587\u7ba1\u7406 / \u8bb0\u5fc6\u95ed\u73af(Mnemosyne) / \u81ea\u4e3b\u8fdb\u5316\u3002\u5b9e\u6218\u8403\u53d6\uff0cMIT\u5f00\u6e90",
+    "id": "gymaira1990-jpg/noah-gen3-type2",
+    "language": "Python",
+    "name": "gymaira1990-jpg/noah-gen3-type2",
+    "stars": 6,
+    "updated_at": "2026-08-02T23:12:18Z",
+    "url": "https://github.com/gymaira1990-jpg/noah-gen3-type2"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-08-02T23:08:26Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-02T22:59:25Z",
+    "updated_at": "2026-08-02T23:15:13Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 49,
+    "updated_at": "2026-08-02T23:08:09Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-02T23:08:02Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2224,
+    "updated_at": "2026-08-02T23:07:20Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-02T23:06:51Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 2,
+    "updated_at": "2026-08-02T23:05:56Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3875,
+    "updated_at": "2026-08-02T23:05:01Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-02T23:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -72,21 +162,12 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-02T22:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Persistent self-improving AI teammates with memory, skills, and schedules.",
     "id": "rundesk-ai/rundesk-cli",
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 1,
-    "updated_at": "2026-08-02T22:44:38Z",
+    "updated_at": "2026-08-02T23:07:34Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
@@ -158,7 +239,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-08-02T22:32:30Z",
+    "updated_at": "2026-08-02T23:02:23Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -189,15 +270,6 @@
     "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2224,
-    "updated_at": "2026-08-02T22:11:54Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
     "id": "devpilgrin/berimor",
     "language": "Rust",
@@ -205,24 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T22:08:24Z",
     "url": "https://github.com/devpilgrin/berimor"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-02T22:07:31Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-08-02T22:05:51Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -247,7 +301,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29018,
+    "stars": 29023,
     "updated_at": "2026-08-02T22:00:46Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -266,7 +320,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 468,
-    "updated_at": "2026-08-02T22:18:57Z",
+    "updated_at": "2026-08-02T23:07:37Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 34,
     "updated_at": "2026-08-02T20:09:58Z",
     "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "The only open-source AI orchestrator that replaces $50k/yr enterprise tools. 8 autonomous agents, 7 languages, Vision-to",
-    "id": "ParthivPandya/multi-agent-orchestrator",
-    "language": "TypeScript",
-    "name": "ParthivPandya/multi-agent-orchestrator",
-    "stars": 4,
-    "updated_at": "2026-08-02T20:04:25Z",
-    "url": "https://github.com/ParthivPandya/multi-agent-orchestrator"
-  },
-  {
-    "description": "Agents should not relearn workflows. Myelin turns repeated agent behavior into reusable procedures via MCP.",
-    "id": "Niraven/myelin",
-    "language": "Python",
-    "name": "Niraven/myelin",
-    "stars": 1,
-    "updated_at": "2026-08-02T19:59:56Z",
-    "url": "https://github.com/Niraven/myelin"
-  },
-  {
-    "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
-    "id": "bailong-Hakuryu/E.R.I.I",
-    "language": "Python",
-    "name": "bailong-Hakuryu/E.R.I.I",
-    "stars": 1,
-    "updated_at": "2026-08-02T19:58:53Z",
-    "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
-  },
-  {
-    "description": "An agent runtime designed for tool-driven loop engineering.",
-    "id": "wxhcore/bumblehive",
-    "language": "Python",
-    "name": "wxhcore/bumblehive",
-    "stars": 6,
-    "updated_at": "2026-08-02T19:40:37Z",
-    "url": "https://github.com/wxhcore/bumblehive"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 49,
-    "updated_at": "2026-08-02T21:27:02Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-08-02T21:46:35Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   }
 ]
