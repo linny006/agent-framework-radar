@@ -5,8 +5,80 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 0,
-    "updated_at": "2026-08-02T00:30:12Z",
+    "updated_at": "2026-08-02T00:44:10Z",
     "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
+    "id": "Omni-Craft/OmniCraft",
+    "language": "Python",
+    "name": "Omni-Craft/OmniCraft",
+    "stars": 1,
+    "updated_at": "2026-08-02T00:43:12Z",
+    "url": "https://github.com/Omni-Craft/OmniCraft"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 28538,
+    "updated_at": "2026-08-02T00:42:37Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-08-02T00:41:07Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 13,
+    "updated_at": "2026-08-02T00:37:17Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-08-02T00:35:20Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-08-02T00:34:36Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
+    "id": "bailong-Hakuryu/E.R.I.I",
+    "language": "Python",
+    "name": "bailong-Hakuryu/E.R.I.I",
+    "stars": 1,
+    "updated_at": "2026-08-02T00:32:08Z",
+    "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-02T00:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
@@ -68,17 +140,8 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 46,
-    "updated_at": "2026-08-02T00:21:44Z",
+    "updated_at": "2026-08-02T00:40:50Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-02T00:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -106,15 +169,6 @@
     "stars": 9,
     "updated_at": "2026-08-02T00:04:48Z",
     "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
-    "id": "wrg32786/aigent-os",
-    "language": "JavaScript",
-    "name": "wrg32786/aigent-os",
-    "stars": 13,
-    "updated_at": "2026-08-02T00:01:53Z",
-    "url": "https://github.com/wrg32786/aigent-os"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -266,8 +320,17 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 1,
-    "updated_at": "2026-08-02T00:19:21Z",
+    "updated_at": "2026-08-02T00:45:00Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 18959,
+    "updated_at": "2026-08-01T22:31:12Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
@@ -311,7 +374,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1283,
-    "updated_at": "2026-08-02T00:29:33Z",
+    "updated_at": "2026-08-02T00:42:16Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -351,15 +414,6 @@
     "url": "https://github.com/Qwixl/Atom"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 18958,
-    "updated_at": "2026-08-01T22:31:12Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
     "id": "dmirain/OctoForge",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 25,
     "updated_at": "2026-08-01T21:08:24Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Remolt Mission Control \u2014 build your own AI mission control. A lightweight Next.js gateway your agents operate, extend, a",
-    "id": "SebastianColon/remolt",
-    "language": "\u2014",
-    "name": "SebastianColon/remolt",
-    "stars": 0,
-    "updated_at": "2026-08-01T21:04:31Z",
-    "url": "https://github.com/SebastianColon/remolt"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-08-02T00:29:32Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
-    "id": "bailong-Hakuryu/E.R.I.I",
-    "language": "Python",
-    "name": "bailong-Hakuryu/E.R.I.I",
-    "stars": 1,
-    "updated_at": "2026-08-01T20:54:55Z",
-    "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
-  },
-  {
-    "description": "People and agents, building together. An open-source collaborative workspace and meta-harness for Claude Code, Codex, Cu",
-    "id": "sarptandoven/doppl-multiplayer",
-    "language": "Python",
-    "name": "sarptandoven/doppl-multiplayer",
-    "stars": 0,
-    "updated_at": "2026-08-01T20:53:40Z",
-    "url": "https://github.com/sarptandoven/doppl-multiplayer"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-08-01T23:53:45Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "AI-powered mobile terminal and build dashboard for local-first Android development, artifact telemetry, and headless age",
-    "id": "billybox1926-jpg/Terminai",
-    "language": "Python",
-    "name": "billybox1926-jpg/Terminai",
-    "stars": 1,
-    "updated_at": "2026-08-01T20:41:23Z",
-    "url": "https://github.com/billybox1926-jpg/Terminai"
   }
 ]
