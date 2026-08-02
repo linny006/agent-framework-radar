@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-02 17:12 UTC
+> ⏰ Last updated: 2026-08-02 17:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [hertz-ai/HARTOS](https://github.com/hertz-ai/HARTOS) | 49 | Python | 2026-08-02 | An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp |
-| 2 | [streamcoreai/streamcore-server](https://github.com/streamcoreai/streamcore-server) | 80 | Go | 2026-08-02 | Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst |
-| 3 | [skerry699/agent-symphony](https://github.com/skerry699/agent-symphony) | 154 | HTML | 2026-08-02 | Multi-Agent AI Task Orchestrator 2026 |
-| 4 | [111nathanlar/Agent-Worlds](https://github.com/111nathanlar/Agent-Worlds) | 1 | HTML | 2026-08-02 |  |
-| 5 | [codewandler/flux](https://github.com/codewandler/flux) | 0 | Rust | 2026-08-02 | A Rust agent SDK, harness, and coding agent — safe by construction (non-bypassable authorization → approval → guarded IO |
-| 6 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-02 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 7 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-08-02 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
-| 8 | [wrg32786/aigent-os](https://github.com/wrg32786/aigent-os) | 13 | JavaScript | 2026-08-02 | aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it |
-| 9 | [dshakes/lantern](https://github.com/dshakes/lantern) | 0 | TypeScript | 2026-08-02 | Production runtime for AI agents — run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S |
-| 10 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 120 | Shell | 2026-08-02 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
-| 11 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-08-02 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 12 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 28924 | Go | 2026-08-02 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 1 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 28925 | Go | 2026-08-02 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 1 | Python | 2026-08-02 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [hertz-ai/HARTOS](https://github.com/hertz-ai/HARTOS) | 49 | Python | 2026-08-02 | An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp |
+| 4 | [streamcoreai/streamcore-server](https://github.com/streamcoreai/streamcore-server) | 80 | Go | 2026-08-02 | Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst |
+| 5 | [skerry699/agent-symphony](https://github.com/skerry699/agent-symphony) | 154 | HTML | 2026-08-02 | Multi-Agent AI Task Orchestrator 2026 |
+| 6 | [111nathanlar/Agent-Worlds](https://github.com/111nathanlar/Agent-Worlds) | 1 | HTML | 2026-08-02 |  |
+| 7 | [codewandler/flux](https://github.com/codewandler/flux) | 0 | Rust | 2026-08-02 | A Rust agent SDK, harness, and coding agent — safe by construction (non-bypassable authorization → approval → guarded IO |
+| 8 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-02 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 9 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-08-02 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
+| 10 | [wrg32786/aigent-os](https://github.com/wrg32786/aigent-os) | 13 | JavaScript | 2026-08-02 | aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it |
+| 11 | [dshakes/lantern](https://github.com/dshakes/lantern) | 0 | TypeScript | 2026-08-02 | Production runtime for AI agents — run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S |
+| 12 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 120 | Shell | 2026-08-02 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
 | 13 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 1 | HTML | 2026-08-02 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
 | 14 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 19 | Python | 2026-08-02 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
 | 15 | [MariusYvard/corparius](https://github.com/MariusYvard/corparius) | 0 | Python | 2026-08-02 | Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as  |
