@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u5f00\u6e90\u672c\u5730\u4f18\u5148 AI Agent \u6846\u67b6 \u00b7 139 \u5185\u7f6e\u5de5\u5177 / 82 \u8def\u7531 \u00b7 \u6a21\u578b\u81ea\u914d \u00b7 \u6280\u80fd\u81ea\u6269\u5c55",
+    "id": "zhikekj-ui/LUMU",
+    "language": "Python",
+    "name": "zhikekj-ui/LUMU",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:43:52Z",
+    "url": "https://github.com/zhikekj-ui/LUMU"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-02T18:43:21Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:41:17Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-02T18:44:04Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "A tiny, framework-agnostic tool registry for LLM agents: typed tools with zod, JSON Schema for function calling, validat",
+    "id": "marcelogdomingues/agent-toolbelt",
+    "language": "TypeScript",
+    "name": "marcelogdomingues/agent-toolbelt",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:39:05Z",
+    "url": "https://github.com/marcelogdomingues/agent-toolbelt"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-08-02T18:34:42Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
+    "id": "speleoalex/myagent",
+    "language": "Python",
+    "name": "speleoalex/myagent",
+    "stars": 1,
+    "updated_at": "2026-08-02T18:31:44Z",
+    "url": "https://github.com/speleoalex/myagent"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 78,
+    "updated_at": "2026-08-02T18:31:12Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-02T18:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
     "id": "agents-inc/cli",
     "language": "TypeScript",
@@ -22,7 +103,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28953,
+    "stars": 28959,
     "updated_at": "2026-08-02T18:26:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -41,35 +122,8 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-02T18:16:06Z",
+    "updated_at": "2026-08-02T18:39:45Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "\u5f00\u6e90\u672c\u5730\u4f18\u5148 AI Agent \u6846\u67b6 \u00b7 139 \u5185\u7f6e\u5de5\u5177 / 82 \u8def\u7531 \u00b7 \u6a21\u578b\u81ea\u914d \u00b7 \u6280\u80fd\u81ea\u6269\u5c55",
-    "id": "zhikekj-ui/LUMU",
-    "language": "Python",
-    "name": "zhikekj-ui/LUMU",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:15:39Z",
-    "url": "https://github.com/zhikekj-ui/LUMU"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-02T18:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-02T18:29:46Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
@@ -79,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T18:10:44Z",
     "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "A tiny, framework-agnostic tool registry for LLM agents: typed tools with zod, JSON Schema for function calling, validat",
-    "id": "marcelogdomingues/agent-toolbelt",
-    "language": "TypeScript",
-    "name": "marcelogdomingues/agent-toolbelt",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:06:58Z",
-    "url": "https://github.com/marcelogdomingues/agent-toolbelt"
   },
   {
     "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
@@ -113,7 +158,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 46,
-    "updated_at": "2026-08-02T18:23:44Z",
+    "updated_at": "2026-08-02T18:38:18Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -180,15 +225,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 78,
-    "updated_at": "2026-08-02T17:48:28Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
     "id": "codewandler/flux",
     "language": "Rust",
@@ -198,15 +234,6 @@
     "url": "https://github.com/codewandler/flux"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-02T17:43:53Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
     "id": "ulsreall/web3-agent-kit",
     "language": "Python",
@@ -214,15 +241,6 @@
     "stars": 19,
     "updated_at": "2026-08-02T17:43:24Z",
     "url": "https://github.com/ulsreall/web3-agent-kit"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-08-02T17:38:41Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Rails Agent (gem: rails-agent-stack) \u2014 fullstack agentic platform for Ruby on Rails. Production AI agents with /agents d",
@@ -430,23 +448,5 @@
     "stars": 75,
     "updated_at": "2026-08-02T17:17:19Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Your messenger for AI agents. Self-hosted chat PWA with push, QR pairing, and pluggable agent-framework connectors. MIT.",
-    "id": "cloudsignal/raccoon",
-    "language": "TypeScript",
-    "name": "cloudsignal/raccoon",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:20:46Z",
-    "url": "https://github.com/cloudsignal/raccoon"
-  },
-  {
-    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
-    "id": "firatcand/roster",
-    "language": "TypeScript",
-    "name": "firatcand/roster",
-    "stars": 17,
-    "updated_at": "2026-08-02T16:14:53Z",
-    "url": "https://github.com/firatcand/roster"
   }
 ]
