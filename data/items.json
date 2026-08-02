@@ -1,5 +1,23 @@
 [
   {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-08-02T20:31:55Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-02T20:30:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Plain-text, model-agnostic AI agent development harness with 3-mode autonomy, GitNexus integration, and multi-environmen",
     "id": "3rdAI-admin/th3rdai-harness",
     "language": "Python",
@@ -25,15 +43,6 @@
     "stars": 19,
     "updated_at": "2026-08-02T20:20:10Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-02T20:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-02T20:29:06Z",
+    "updated_at": "2026-08-02T20:32:42Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -184,7 +193,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8035,
+    "stars": 8036,
     "updated_at": "2026-08-02T19:54:11Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -400,7 +409,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28986,
+    "stars": 28987,
     "updated_at": "2026-08-02T18:26:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 364,
     "updated_at": "2026-08-02T18:03:30Z",
     "url": "https://github.com/agenvoy/Agenvoy"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 8,
-    "updated_at": "2026-08-02T17:56:12Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   }
 ]
