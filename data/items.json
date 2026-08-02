@@ -1,12 +1,84 @@
 [
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "description": "Cotrex is an open-source AI execution engine that enables LLMs to securely use tools, execute tasks, and automate real-w",
+    "id": "pamod-madubashana/cotrex-ai",
+    "language": "Rust",
+    "name": "pamod-madubashana/cotrex-ai",
+    "stars": 1,
+    "updated_at": "2026-08-02T13:28:31Z",
+    "url": "https://github.com/pamod-madubashana/cotrex-ai"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
     "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-02T13:14:20Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-02T13:29:42Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-02T13:22:42Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
+    "id": "danmo-ai/danmo-work",
+    "language": "Go",
+    "name": "danmo-ai/danmo-work",
+    "stars": 2,
+    "updated_at": "2026-08-02T13:21:49Z",
+    "url": "https://github.com/danmo-ai/danmo-work"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-08-02T13:22:47Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-02T13:21:48Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 19,
+    "updated_at": "2026-08-02T13:20:55Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-08-02T13:20:22Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8029,
+    "updated_at": "2026-08-02T13:22:02Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Persistent self-improving AI teammates with memory, skills, and schedules.",
@@ -14,8 +86,53 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 1,
-    "updated_at": "2026-08-02T13:14:31Z",
+    "updated_at": "2026-08-02T13:18:30Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-02T13:18:11Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-02T13:27:05Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "The agentic runtime to build production-grade AI agents at scale.",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 6,
+    "updated_at": "2026-08-02T13:16:01Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-02T13:15:27Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-02T13:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
@@ -54,15 +171,6 @@
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-02T13:00:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4e3aOpenClaw\u5b9e\u4f8b\u63d0\u4f9b\u89c9\u9192\u6846\u67b6\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
     "id": "yuanchuzi2026/silicon-garden",
     "language": "HTML",
@@ -76,7 +184,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28759,
+    "stars": 28771,
     "updated_at": "2026-08-02T12:55:56Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -126,24 +234,6 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-02T13:15:14Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 19,
-    "updated_at": "2026-08-02T12:38:11Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
     "id": "Marssssss/OneAI",
     "language": "Rust",
@@ -187,15 +277,6 @@
     "stars": 75,
     "updated_at": "2026-08-02T12:54:57Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-02T13:02:30Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
@@ -243,24 +324,6 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-02T11:57:38Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-02T11:57:29Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
     "id": "kdcube/kdcube",
     "language": "Python",
@@ -268,15 +331,6 @@
     "stars": 14,
     "updated_at": "2026-08-02T11:52:05Z",
     "url": "https://github.com/kdcube/kdcube"
-  },
-  {
-    "description": "The agentic runtime to build production-grade AI agents at scale.",
-    "id": "Kortecx/kortecx",
-    "language": "Rust",
-    "name": "Kortecx/kortecx",
-    "stars": 6,
-    "updated_at": "2026-08-02T12:35:42Z",
-    "url": "https://github.com/Kortecx/kortecx"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -333,15 +387,6 @@
     "url": "https://github.com/Qwixl/Atom"
   },
   {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-02T11:15:02Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
@@ -355,7 +400,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 18984,
+    "stars": 18985,
     "updated_at": "2026-08-02T10:57:23Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -387,15 +432,6 @@
     "url": "https://github.com/saajunaid/caddis-plugin"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8029,
-    "updated_at": "2026-08-02T12:58:27Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "A self-hosted, web-based AI platform for building, deploying, and running autonomous AI agents. Connect to 2,600+ enterp",
     "id": "enthrium/open-enthrium-ai-platform",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T10:12:32Z",
     "url": "https://github.com/enthrium/open-enthrium-ai-agent-runtime"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f \u901a\u7528\u578bAI\u8ba4\u77e5\u67b6\u6784 \u00b7 \u8bfa\u4e9a\u4e09\u4ee3\u4e8c\u578b \u2014 \u62bd\u5c49\u7ea7\u8054\u4e0a\u4e0b\u6587\u7ba1\u7406 / \u8bb0\u5fc6\u95ed\u73af(Mnemosyne) / \u81ea\u4e3b\u8fdb\u5316\u3002\u5b9e\u6218\u8403\u53d6\uff0cMIT\u5f00\u6e90",
-    "id": "gymaira1990-jpg/noah-gen3-type2",
-    "language": "Python",
-    "name": "gymaira1990-jpg/noah-gen3-type2",
-    "stars": 6,
-    "updated_at": "2026-08-02T10:10:19Z",
-    "url": "https://github.com/gymaira1990-jpg/noah-gen3-type2"
-  },
-  {
-    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
-    "id": "substructureai/substructure",
-    "language": "Rust",
-    "name": "substructureai/substructure",
-    "stars": 5,
-    "updated_at": "2026-08-02T10:02:27Z",
-    "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 3,
-    "updated_at": "2026-08-02T09:58:42Z",
-    "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "Production-grade AgentOps control plane for safe AI agent execution. Dual-plane architecture: Rust governance engine + P",
-    "id": "sattyamjjain/ferrumdeck",
-    "language": "TypeScript",
-    "name": "sattyamjjain/ferrumdeck",
-    "stars": 7,
-    "updated_at": "2026-08-02T09:50:09Z",
-    "url": "https://github.com/sattyamjjain/ferrumdeck"
   }
 ]
