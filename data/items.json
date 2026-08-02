@@ -1,5 +1,59 @@
 [
   {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 3,
+    "updated_at": "2026-08-02T09:58:42Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "Production-grade AgentOps control plane for safe AI agent execution. Dual-plane architecture: Rust governance engine + P",
+    "id": "sattyamjjain/ferrumdeck",
+    "language": "TypeScript",
+    "name": "sattyamjjain/ferrumdeck",
+    "stars": 7,
+    "updated_at": "2026-08-02T09:50:09Z",
+    "url": "https://github.com/sattyamjjain/ferrumdeck"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 49,
+    "updated_at": "2026-08-02T09:47:27Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "A standalone AI agent runtime for Windows, Linux, and macOS. Execute declarative YAML agents with built-in access to 2,6",
+    "id": "enthrium/open-enthrium-ai-agent-runtime",
+    "language": "JavaScript",
+    "name": "enthrium/open-enthrium-ai-agent-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:47:13Z",
+    "url": "https://github.com/enthrium/open-enthrium-ai-agent-runtime"
+  },
+  {
+    "description": "A self-hosted, web-based AI platform for building, deploying, and running autonomous AI agents. Connect to 2,600+ enterp",
+    "id": "enthrium/open-enthrium-ai-platform",
+    "language": "JavaScript",
+    "name": "enthrium/open-enthrium-ai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-02T09:47:12Z",
+    "url": "https://github.com/enthrium/open-enthrium-ai-platform"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-02T09:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
@@ -18,15 +72,6 @@
     "url": "https://github.com/Carrara-Labs/delta-harness"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 50,
-    "updated_at": "2026-08-02T09:43:07Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "The agentic runtime to build production-grade AI agents at scale.",
     "id": "Kortecx/kortecx",
     "language": "Rust",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "dmirain/OctoForge",
     "stars": 18,
-    "updated_at": "2026-08-02T09:38:32Z",
+    "updated_at": "2026-08-02T10:00:03Z",
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-02T09:38:41Z",
+    "updated_at": "2026-08-02T09:57:27Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 75,
     "updated_at": "2026-08-02T09:30:51Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-02T09:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A 7\u00d76 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified eng",
@@ -108,15 +144,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "A standalone AI agent runtime for Windows, Linux, and macOS. Execute declarative YAML agents with built-in access to 2,6",
-    "id": "enthrium/open-enthrium-ai-agent-runtime",
-    "language": "JavaScript",
-    "name": "enthrium/open-enthrium-ai-agent-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-02T09:14:11Z",
-    "url": "https://github.com/enthrium/open-enthrium-ai-agent-runtime"
-  },
-  {
     "description": "A reasoning-first idle engine for persistent LLM agents. Behaviour emerges from the agent reasoning about its idle state",
     "id": "freeze1999/reverie-automata",
     "language": "Python",
@@ -124,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T09:14:10Z",
     "url": "https://github.com/freeze1999/reverie-automata"
-  },
-  {
-    "description": "A self-hosted, web-based AI platform for building, deploying, and running autonomous AI agents. Connect to 2,600+ enterp",
-    "id": "enthrium/open-enthrium-ai-platform",
-    "language": "JavaScript",
-    "name": "enthrium/open-enthrium-ai-platform",
-    "stars": 1,
-    "updated_at": "2026-08-02T09:14:06Z",
-    "url": "https://github.com/enthrium/open-enthrium-ai-platform"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -176,7 +194,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-08-02T09:04:03Z",
+    "updated_at": "2026-08-02T09:55:46Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -211,7 +229,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28666,
+    "stars": 28671,
     "updated_at": "2026-08-02T08:57:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -230,17 +248,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8025,
-    "updated_at": "2026-08-02T08:56:16Z",
+    "updated_at": "2026-08-02T09:58:27Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 3,
-    "updated_at": "2026-08-02T09:00:38Z",
-    "url": "https://github.com/Ecro/harness-maker"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-02T07:31:53Z",
     "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
-    "id": "iduyuhe/zhiyan-evolviq",
-    "language": "Python",
-    "name": "iduyuhe/zhiyan-evolviq",
-    "stars": 4,
-    "updated_at": "2026-08-02T07:30:09Z",
-    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
   }
 ]
