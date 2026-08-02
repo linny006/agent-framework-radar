@@ -1,12 +1,75 @@
 [
   {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 8,
+    "updated_at": "2026-08-02T14:44:28Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 46,
+    "updated_at": "2026-08-02T14:41:58Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-08-02T14:41:40Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "AutoGen Studio \u2014 Microsoft no-code GUI for building multi-agent AutoGen workflows",
+    "id": "api-evangelist/autogen-studio",
+    "language": "\u2014",
+    "name": "api-evangelist/autogen-studio",
+    "stars": 0,
+    "updated_at": "2026-08-02T14:37:42Z",
+    "url": "https://github.com/api-evangelist/autogen-studio"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-02T14:29:00Z",
+    "updated_at": "2026-08-02T14:35:51Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
+    "id": "joseym/salvor",
+    "language": "Rust",
+    "name": "joseym/salvor",
+    "stars": 1,
+    "updated_at": "2026-08-02T14:35:13Z",
+    "url": "https://github.com/joseym/salvor"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-02T14:35:45Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-02T14:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -18,13 +81,13 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
+    "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
+    "id": "agenvoy/Agenvoy",
     "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 8,
-    "updated_at": "2026-08-02T14:26:26Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
+    "name": "agenvoy/Agenvoy",
+    "stars": 364,
+    "updated_at": "2026-08-02T14:24:47Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
@@ -81,22 +144,13 @@
     "url": "https://github.com/PiyotaHu/Voxa"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "\ud83c\udfc6 Curated, ranked list of AI agent harnesses (100+) \u2014 plus an MCP server, llms.txt & JSON so agents can recommend them t",
+    "id": "RyanAlberts/best-of-Agent-Harnesses",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-02T14:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
-    "id": "joseym/salvor",
-    "language": "Rust",
-    "name": "joseym/salvor",
-    "stars": 1,
-    "updated_at": "2026-08-02T14:14:04Z",
-    "url": "https://github.com/joseym/salvor"
+    "name": "RyanAlberts/best-of-Agent-Harnesses",
+    "stars": 444,
+    "updated_at": "2026-08-02T14:12:32Z",
+    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
   },
   {
     "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
@@ -112,16 +166,25 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28817,
+    "stars": 28828,
     "updated_at": "2026-08-02T14:07:52Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46513,
+    "updated_at": "2026-08-02T14:06:19Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 364,
+    "stars": 365,
     "updated_at": "2026-08-02T14:03:30Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 1,
-    "updated_at": "2026-08-02T13:51:27Z",
+    "updated_at": "2026-08-02T14:45:11Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
@@ -243,15 +306,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-02T13:39:54Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "\u57fa\u4e8e Claude Code \u67b6\u6784\u7cbe\u7b80\u7684 AI Agent \u6846\u67b6 | 7\u5c42\u67b6\u6784 Agentic Loop + 6\u4e2a\u5185\u7f6e\u5de5\u5177 + \u4e09\u7ea7\u6743\u9650\u63a7\u5236 + \u52a8\u6001System Prompt | \u53ef\u4ee5\u66f4\u52a0\u8be6\u7ec6\u7684\u5b66\u4e60\u5de5\u7a0b\u7ea7\u67b6\u6784,\u4e5f\u53ef\u4ee5\u81ea\u5b9a\u4e49\u5185\u7f6e\u5de5\u5177\u4f7f\u7528",
     "id": "jycicy/minicode",
     "language": "Python",
@@ -259,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T13:30:50Z",
     "url": "https://github.com/jycicy/minicode"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46512,
-    "updated_at": "2026-08-02T14:06:19Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Cotrex is an open-source AI execution engine that enables LLMs to securely use tools, execute tasks, and automate real-w",
@@ -288,13 +333,13 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-08-02T14:21:50Z",
-    "url": "https://github.com/Aureliolo/synthorg"
+    "name": "omnigent-ai/omnigent",
+    "stars": 8030,
+    "updated_at": "2026-08-02T13:22:02Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -322,15 +367,6 @@
     "stars": 6,
     "updated_at": "2026-08-02T13:20:22Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8029,
-    "updated_at": "2026-08-02T13:22:02Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T12:52:29Z",
     "url": "https://github.com/KuiChi-x/graphloom"
-  },
-  {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 37,
-    "updated_at": "2026-08-02T12:34:03Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "Multi-Agent Reasoning Systems",
-    "id": "rezaho/MARSYS",
-    "language": "Python",
-    "name": "rezaho/MARSYS",
-    "stars": 23,
-    "updated_at": "2026-08-02T12:21:22Z",
-    "url": "https://github.com/rezaho/MARSYS"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 11,
-    "updated_at": "2026-08-02T12:20:19Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-08-02T12:06:12Z",
-    "url": "https://github.com/codewandler/flux"
   }
 ]
