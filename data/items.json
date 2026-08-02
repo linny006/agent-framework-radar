@@ -1,5 +1,68 @@
 [
   {
+    "description": "An agent runtime designed for tool-driven loop engineering.",
+    "id": "wxhcore/bumblehive",
+    "language": "Python",
+    "name": "wxhcore/bumblehive",
+    "stars": 6,
+    "updated_at": "2026-08-02T19:40:37Z",
+    "url": "https://github.com/wxhcore/bumblehive"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 365,
+    "updated_at": "2026-08-02T19:39:37Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
+    "id": "devpilgrin/berimor",
+    "language": "Rust",
+    "name": "devpilgrin/berimor",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:38:40Z",
+    "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:37:22Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 49,
+    "updated_at": "2026-08-02T19:31:58Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-02T19:31:53Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19001,
+    "updated_at": "2026-08-02T19:31:37Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
@@ -9,15 +72,6 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-02T19:30:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
     "id": "Qwixl/Atom",
     "language": "TypeScript",
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T19:30:24Z",
     "url": "https://github.com/Qwixl/Atom"
-  },
-  {
-    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
-    "id": "devpilgrin/berimor",
-    "language": "Rust",
-    "name": "devpilgrin/berimor",
-    "stars": 0,
-    "updated_at": "2026-08-02T19:29:48Z",
-    "url": "https://github.com/devpilgrin/berimor"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -52,24 +97,6 @@
     "stars": 9,
     "updated_at": "2026-08-02T19:27:27Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 0,
-    "updated_at": "2026-08-02T19:26:01Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19000,
-    "updated_at": "2026-08-02T19:31:37Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -265,7 +292,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28968,
+    "stars": 28974,
     "updated_at": "2026-08-02T18:26:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -378,15 +405,6 @@
     "url": "https://github.com/Scn64/agent-autopilot"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 49,
-    "updated_at": "2026-08-02T19:17:58Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T17:01:48Z",
     "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 19,
-    "updated_at": "2026-08-02T16:56:33Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8033,
-    "updated_at": "2026-08-02T16:46:15Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   }
 ]
