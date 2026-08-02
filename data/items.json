@@ -1,12 +1,57 @@
 [
   {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-02T21:29:57Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 46,
+    "updated_at": "2026-08-02T21:28:55Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
     "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
     "id": "devpilgrin/berimor",
     "language": "Rust",
     "name": "devpilgrin/berimor",
     "stars": 0,
-    "updated_at": "2026-08-02T21:11:32Z",
+    "updated_at": "2026-08-02T21:24:17Z",
     "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
+    "description": "Example agents built with the Tinkuy framework \u2014 FinOps, streaming, budget control",
+    "id": "breakingthecloud/tinkuylabs",
+    "language": "TypeScript",
+    "name": "breakingthecloud/tinkuylabs",
+    "stars": 1,
+    "updated_at": "2026-08-02T21:16:23Z",
+    "url": "https://github.com/breakingthecloud/tinkuylabs"
+  },
+  {
+    "description": "Minimal provider-agnostic AI agent framework. Tool loops, budget control, multi-model routing in ~200 lines core.",
+    "id": "breakingthecloud/tinkuy",
+    "language": "TypeScript",
+    "name": "breakingthecloud/tinkuy",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:16:13Z",
+    "url": "https://github.com/breakingthecloud/tinkuy"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-02T21:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
@@ -27,15 +72,6 @@
     "url": "https://github.com/Yigtwxx/Maestro"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-02T21:13:24Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
@@ -52,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T21:03:04Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-02T21:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -90,15 +117,6 @@
     "url": "https://github.com/Qwixl/Atom"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 46,
-    "updated_at": "2026-08-02T21:07:29Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T20:52:57Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "Example agents built with the Tinkuy framework \u2014 FinOps, streaming, budget control",
-    "id": "breakingthecloud/tinkuylabs",
-    "language": "TypeScript",
-    "name": "breakingthecloud/tinkuylabs",
-    "stars": 1,
-    "updated_at": "2026-08-02T20:52:37Z",
-    "url": "https://github.com/breakingthecloud/tinkuylabs"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -211,7 +220,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19004,
+    "stars": 19005,
     "updated_at": "2026-08-02T20:11:11Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -288,15 +297,6 @@
     "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
   },
   {
-    "description": "Minimal provider-agnostic AI agent framework. Tool loops, budget control, multi-model routing in ~200 lines core.",
-    "id": "breakingthecloud/tinkuy",
-    "language": "TypeScript",
-    "name": "breakingthecloud/tinkuy",
-    "stars": 0,
-    "updated_at": "2026-08-02T19:56:36Z",
-    "url": "https://github.com/breakingthecloud/tinkuy"
-  },
-  {
     "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
     "id": "BrainoutputHQ/brainoutput-community",
     "language": "JavaScript",
@@ -338,7 +338,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 49,
-    "updated_at": "2026-08-02T19:31:58Z",
+    "updated_at": "2026-08-02T21:27:02Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -445,7 +445,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28998,
+    "stars": 29003,
     "updated_at": "2026-08-02T18:26:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   }
