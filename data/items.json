@@ -1,21 +1,57 @@
 [
   {
-    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
-    "id": "iduyuhe/zhiyan-evolviq",
-    "language": "Python",
-    "name": "iduyuhe/zhiyan-evolviq",
-    "stars": 4,
-    "updated_at": "2026-08-02T11:01:49Z",
-    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-08-02T11:14:00Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-08-02T11:09:39Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
+    "id": "Qwixl/Atom",
+    "language": "TypeScript",
+    "name": "Qwixl/Atom",
+    "stars": 0,
+    "updated_at": "2026-08-02T11:15:20Z",
+    "url": "https://github.com/Qwixl/Atom"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-02T11:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-02T11:09:12Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-02T11:06:04Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 18,
+    "updated_at": "2026-08-02T11:05:27Z",
+    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
@@ -23,8 +59,26 @@
     "language": "Python",
     "name": "tsingxuanhan/NexusFlow",
     "stars": 0,
-    "updated_at": "2026-08-02T10:59:11Z",
+    "updated_at": "2026-08-02T11:04:30Z",
     "url": "https://github.com/tsingxuanhan/NexusFlow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-02T11:02:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
+    "id": "iduyuhe/zhiyan-evolviq",
+    "language": "Python",
+    "name": "iduyuhe/zhiyan-evolviq",
+    "stars": 4,
+    "updated_at": "2026-08-02T11:15:06Z",
+    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
   },
   {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
     "stars": 1148,
-    "updated_at": "2026-08-02T10:57:46Z",
+    "updated_at": "2026-08-02T11:11:19Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-02T10:54:34Z",
+    "updated_at": "2026-08-02T11:10:41Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -70,24 +124,6 @@
     "stars": 363,
     "updated_at": "2026-08-02T10:53:51Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "An open, user-owned shell for the agent web - An uncoupled agent UI composition layer, rendering from a trusted catalog.",
-    "id": "Qwixl/Atom",
-    "language": "TypeScript",
-    "name": "Qwixl/Atom",
-    "stars": 0,
-    "updated_at": "2026-08-02T10:51:45Z",
-    "url": "https://github.com/Qwixl/Atom"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-02T10:56:19Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -103,7 +139,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 28694,
+    "stars": 28699,
     "updated_at": "2026-08-02T10:45:28Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -133,24 +169,6 @@
     "stars": 154,
     "updated_at": "2026-08-02T10:37:30Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-08-02T10:56:55Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 18,
-    "updated_at": "2026-08-02T10:29:36Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "",
@@ -234,15 +252,6 @@
     "url": "https://github.com/gymaira1990-jpg/noah-gen3-type2"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-02T10:56:06Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
     "id": "substructureai/substructure",
     "language": "Rust",
@@ -320,7 +329,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-08-02T09:30:51Z",
+    "updated_at": "2026-08-02T11:08:28Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -365,7 +374,7 @@
     "language": "HTML",
     "name": "LovaHuguel/Khala-Orchestrator-Core",
     "stars": 1,
-    "updated_at": "2026-08-02T09:07:19Z",
+    "updated_at": "2026-08-02T11:15:02Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 250,
     "updated_at": "2026-08-02T08:33:31Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "\u5206\u5c42\u5b50\u4ee3\u7406\u8def\u7531 + \u6301\u4e45\u8bb0\u5fc6\uff1a\u4e3a Claude Code \u548c Codex \u964d\u4f4e\u4e3b\u4ee3\u7406\u4e0a\u4e0b\u6587\u4e0e\u6210\u672c",
-    "id": "whystars/subagents-workflow",
-    "language": "JavaScript",
-    "name": "whystars/subagents-workflow",
-    "stars": 2,
-    "updated_at": "2026-08-02T08:31:12Z",
-    "url": "https://github.com/whystars/subagents-workflow"
   }
 ]
