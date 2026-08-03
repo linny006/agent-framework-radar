@@ -1,5 +1,95 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8061,
+    "updated_at": "2026-08-03T13:11:14Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\u5f00\u6e90\u672c\u5730\u4f18\u5148 AI Agent \u6846\u67b6 \u00b7 139 \u5185\u7f6e\u5de5\u5177 / 82 \u8def\u7531 \u00b7 \u6a21\u578b\u81ea\u914d \u00b7 \u6280\u80fd\u81ea\u6269\u5c55",
+    "id": "zhikekj-ui/LUMU",
+    "language": "Python",
+    "name": "zhikekj-ui/LUMU",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:10:58Z",
+    "url": "https://github.com/zhikekj-ui/LUMU"
+  },
+  {
+    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
+    "id": "danmo-ai/danmo-work",
+    "language": "Go",
+    "name": "danmo-ai/danmo-work",
+    "stars": 2,
+    "updated_at": "2026-08-03T13:09:52Z",
+    "url": "https://github.com/danmo-ai/danmo-work"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-08-03T13:14:59Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-03T13:04:55Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-08-03T13:04:20Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Composable agentic substrate (skills + MCP tools + harness + governance) running on a single laptop. 14 live business do",
+    "id": "arturcrmbot/zava-control-plane",
+    "language": "Python",
+    "name": "arturcrmbot/zava-control-plane",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:03:38Z",
+    "url": "https://github.com/arturcrmbot/zava-control-plane"
+  },
+  {
+    "description": "Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext. ",
+    "id": "agoradynamics/wick",
+    "language": "JavaScript",
+    "name": "agoradynamics/wick",
+    "stars": 3,
+    "updated_at": "2026-08-03T13:01:25Z",
+    "url": "https://github.com/agoradynamics/wick"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T13:00:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26098,
+    "updated_at": "2026-08-03T12:59:49Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
     "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
     "id": "denisotree/veles",
     "language": "Python",
@@ -54,15 +144,6 @@
     "url": "https://github.com/openma-ai/open-managed-agents"
   },
   {
-    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
-    "id": "danmo-ai/danmo-work",
-    "language": "Go",
-    "name": "danmo-ai/danmo-work",
-    "stars": 2,
-    "updated_at": "2026-08-03T12:46:51Z",
-    "url": "https://github.com/danmo-ai/danmo-work"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -72,15 +153,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T12:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -88,15 +160,6 @@
     "stars": 8,
     "updated_at": "2026-08-03T12:45:07Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8061,
-    "updated_at": "2026-08-03T12:44:34Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
@@ -180,15 +243,6 @@
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-08-03T12:30:39Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -202,7 +256,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46559,
+    "stars": 46560,
     "updated_at": "2026-08-03T12:28:19Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -214,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T12:28:10Z",
     "url": "https://github.com/Dikhun/Arctus.ai"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26098,
-    "updated_at": "2026-08-03T12:59:49Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
@@ -274,7 +319,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29612,
+    "stars": 29619,
     "updated_at": "2026-08-03T12:11:22Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -333,20 +378,11 @@
     "url": "https://github.com/lukeskytorep-bot/echo-claw"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-03T12:30:47Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 807,
+    "stars": 808,
     "updated_at": "2026-08-03T11:34:09Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -396,15 +432,6 @@
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
-    "description": "\u5f00\u6e90\u672c\u5730\u4f18\u5148 AI Agent \u6846\u67b6 \u00b7 139 \u5185\u7f6e\u5de5\u5177 / 82 \u8def\u7531 \u00b7 \u6a21\u578b\u81ea\u914d \u00b7 \u6280\u80fd\u81ea\u6269\u5c55",
-    "id": "zhikekj-ui/LUMU",
-    "language": "Python",
-    "name": "zhikekj-ui/LUMU",
-    "stars": 0,
-    "updated_at": "2026-08-03T11:11:56Z",
-    "url": "https://github.com/zhikekj-ui/LUMU"
-  },
-  {
     "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
     "id": "kdcube/kdcube",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-03T11:04:38Z",
     "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 4862,
-    "updated_at": "2026-08-03T10:57:35Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
-    "id": "George-RD/openspine",
-    "language": "Rust",
-    "name": "George-RD/openspine",
-    "stars": 0,
-    "updated_at": "2026-08-03T10:56:50Z",
-    "url": "https://github.com/George-RD/openspine"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-08-03T10:56:40Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   }
 ]
