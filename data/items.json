@@ -1,11 +1,47 @@
 [
   {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46543,
+    "updated_at": "2026-08-03T08:20:23Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 29441,
+    "updated_at": "2026-08-03T08:19:17Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-03T08:16:06Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T08:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-03T08:09:43Z",
+    "updated_at": "2026-08-03T08:19:41Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8057,
-    "updated_at": "2026-08-03T08:11:57Z",
+    "updated_at": "2026-08-03T08:15:38Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -32,17 +68,8 @@
     "language": "TypeScript",
     "name": "clawboo/clawboo",
     "stars": 57,
-    "updated_at": "2026-08-03T08:15:01Z",
+    "updated_at": "2026-08-03T08:15:53Z",
     "url": "https://github.com/clawboo/clawboo"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T08:01:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Trust and verification for the skills your AI agent installs.",
@@ -59,17 +86,8 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26094,
-    "updated_at": "2026-08-03T08:05:25Z",
+    "updated_at": "2026-08-03T08:22:11Z",
     "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46543,
-    "updated_at": "2026-08-03T08:11:18Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -124,15 +142,6 @@
     "stars": 4858,
     "updated_at": "2026-08-03T07:42:59Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29436,
-    "updated_at": "2026-08-03T07:41:34Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83e\udd16 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 \u2014 the year agents went mainstream",
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-03T06:23:24Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-08-03T06:51:13Z",
-    "url": "https://github.com/sytone/botnexus"
   }
 ]
