@@ -1,5 +1,50 @@
 [
   {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12547,
+    "updated_at": "2026-08-03T01:43:21Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
+    "id": "danmo-ai/danmo-work",
+    "language": "Go",
+    "name": "danmo-ai/danmo-work",
+    "stars": 2,
+    "updated_at": "2026-08-03T01:41:14Z",
+    "url": "https://github.com/danmo-ai/danmo-work"
+  },
+  {
+    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
+    "id": "iduyuhe/zhiyan-evolviq",
+    "language": "Python",
+    "name": "iduyuhe/zhiyan-evolviq",
+    "stars": 4,
+    "updated_at": "2026-08-03T01:38:29Z",
+    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-03T01:36:37Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T01:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -32,7 +77,7 @@
     "language": "TypeScript",
     "name": "footprintjs/agentfootprint",
     "stars": 10,
-    "updated_at": "2026-08-03T01:26:29Z",
+    "updated_at": "2026-08-03T01:30:31Z",
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T01:23:09Z",
     "url": "https://github.com/devpilgrin/berimor"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-03T01:22:58Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -68,7 +104,7 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 0,
-    "updated_at": "2026-08-03T01:20:39Z",
+    "updated_at": "2026-08-03T01:41:37Z",
     "url": "https://github.com/codewandler/flux"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-03T01:27:49Z",
+    "updated_at": "2026-08-03T01:42:05Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T01:15:48Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T01:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\u5f00\u6e90\u672c\u5730\u4f18\u5148 AI Agent \u6846\u67b6 \u00b7 139 \u5185\u7f6e\u5de5\u5177 / 82 \u8def\u7531 \u00b7 \u6a21\u578b\u81ea\u914d \u00b7 \u6280\u80fd\u81ea\u6269\u5c55",
@@ -167,7 +194,7 @@
     "language": "TypeScript",
     "name": "dshakes/lantern",
     "stars": 0,
-    "updated_at": "2026-08-03T01:21:27Z",
+    "updated_at": "2026-08-03T01:44:25Z",
     "url": "https://github.com/dshakes/lantern"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8050,
-    "updated_at": "2026-08-03T01:29:38Z",
+    "updated_at": "2026-08-03T01:43:47Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -193,7 +220,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19010,
+    "stars": 19011,
     "updated_at": "2026-08-03T00:40:39Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -212,7 +239,7 @@
     "language": "Rust",
     "name": "PiyotaHu/Voxa",
     "stars": 1,
-    "updated_at": "2026-08-03T01:10:05Z",
+    "updated_at": "2026-08-03T01:35:40Z",
     "url": "https://github.com/PiyotaHu/Voxa"
   },
   {
@@ -293,7 +320,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 46,
-    "updated_at": "2026-08-02T23:47:17Z",
+    "updated_at": "2026-08-03T01:42:29Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 1,
-    "updated_at": "2026-08-03T01:24:56Z",
+    "updated_at": "2026-08-03T01:44:57Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
@@ -337,7 +364,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2224,
+    "stars": 2225,
     "updated_at": "2026-08-02T23:07:20Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -421,32 +448,5 @@
     "stars": 59,
     "updated_at": "2026-08-02T22:03:33Z",
     "url": "https://github.com/HumphreySun98/Smart-Study-Agent"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29082,
-    "updated_at": "2026-08-02T22:00:46Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4829,
-    "updated_at": "2026-08-03T00:07:46Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 468,
-    "updated_at": "2026-08-03T01:30:15Z",
-    "url": "https://github.com/jaylfc/taOS"
   }
 ]
