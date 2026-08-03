@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
+    "id": "qbtrix/ripple-iui",
+    "language": "Svelte",
+    "name": "qbtrix/ripple-iui",
+    "stars": 4,
+    "updated_at": "2026-08-03T05:29:39Z",
+    "url": "https://github.com/qbtrix/ripple-iui"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8052,
+    "updated_at": "2026-08-03T05:28:46Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-08-03T05:28:07Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-03T05:27:58Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-03T05:27:55Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "22-agent Mixture-of-Agents pipeline with LongLoop for 24h autonomous iteration: smart routing sends easy tasks to Flash,",
+    "id": "ZenHG/opencode-moa",
+    "language": "PowerShell",
+    "name": "ZenHG/opencode-moa",
+    "stars": 3,
+    "updated_at": "2026-08-03T05:27:33Z",
+    "url": "https://github.com/ZenHG/opencode-moa"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 49,
+    "updated_at": "2026-08-03T05:30:16Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-08-03T05:21:13Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-03T05:15:55Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T05:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Markdown Agent Studio is a workspace where agents develop specialization through their own experience.",
     "id": "RobThePCGuy/markdown-agent-studio",
     "language": "TypeScript",
@@ -27,15 +117,6 @@
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 49,
-    "updated_at": "2026-08-03T05:10:49Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "Claude plugin for agentic spec driven development",
     "id": "guygrigsby/claude-plugins",
     "language": "TypeScript",
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-03T05:09:42Z",
+    "updated_at": "2026-08-03T05:17:59Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -61,24 +142,6 @@
     "stars": 74,
     "updated_at": "2026-08-03T05:01:32Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8052,
-    "updated_at": "2026-08-03T05:13:01Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T05:00:37Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
@@ -121,7 +184,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29283,
+    "stars": 29290,
     "updated_at": "2026-08-03T04:52:43Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -157,7 +220,7 @@
     "id": "foryourhealth111-pixel/Vibe-Skills",
     "language": "Python",
     "name": "foryourhealth111-pixel/Vibe-Skills",
-    "stars": 2578,
+    "stars": 2579,
     "updated_at": "2026-08-03T04:44:21Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   },
@@ -257,17 +320,8 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 0,
-    "updated_at": "2026-08-03T04:28:11Z",
+    "updated_at": "2026-08-03T05:26:18Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-03T05:06:50Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "\u62df\u4eba\u5316AI\u89d2\u8272\u5f15\u64ce\uff1a\u57fa\u4e8eSPL\u5ba1\u8ba1\u5f15\u64ce\u7684\u6807\u51c6\u5316\u667a\u80fd\u4f53\u6a21\u677f\uff0c\u5feb\u901f\u751f\u6210\u9ad8\u4e00\u81f4\u6027AI\u89d2\u8272\uff0c\u901a\u8fc7\u56e0\u679c\u951a\u5b9a\u4e0e\u5168\u903b\u8f91\u5ba1\u8ba1\u5f7b\u5e95\u6d88\u9664OOC\u3001\u60c5\u611f\u6f02\u79fb\u548c\u8bb0\u5fc6\u4e22\u5931\uff0c\u4e3aAI\u966a\u4f34\u3001\u6570\u5b57\u4eba\u3001\u4ea4\u4e92\u53d9\u4e8b\u3001\u667a\u80fd\u5ba2\u670d\u3001\u865a\u62df\u5076\u50cf\u63d0\u4f9b\u53ef\u9760\u5e95\u5c42\u6846\u67b6\u3002",
@@ -286,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T04:09:31Z",
     "url": "https://github.com/BrainoutputHQ/brainoutput-community"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-08-03T04:57:22Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-03T03:27:46Z",
     "url": "https://github.com/stempeck/agentfactory"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 154,
-    "updated_at": "2026-08-03T03:23:52Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12550,
-    "updated_at": "2026-08-03T03:17:30Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 205,
-    "updated_at": "2026-08-03T03:46:47Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 9,
-    "updated_at": "2026-08-03T04:52:51Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 0,
-    "updated_at": "2026-08-03T03:03:21Z",
-    "url": "https://github.com/ludex-lab/ludex"
   }
 ]
