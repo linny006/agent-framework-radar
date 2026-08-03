@@ -1,21 +1,111 @@
 [
   {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
+    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
+    "id": "George-RD/openspine",
+    "language": "Rust",
+    "name": "George-RD/openspine",
+    "stars": 0,
+    "updated_at": "2026-08-03T10:56:50Z",
+    "url": "https://github.com/George-RD/openspine"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
     "stars": 2,
-    "updated_at": "2026-08-03T10:42:16Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
+    "updated_at": "2026-08-03T10:56:40Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 4861,
+    "updated_at": "2026-08-03T10:57:35Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29542,
-    "updated_at": "2026-08-03T10:42:07Z",
+    "stars": 29547,
+    "updated_at": "2026-08-03T10:54:20Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-08-03T10:51:48Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 20,
+    "updated_at": "2026-08-03T10:49:01Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
+    "id": "substructureai/substructure",
+    "language": "Rust",
+    "name": "substructureai/substructure",
+    "stars": 5,
+    "updated_at": "2026-08-03T10:47:48Z",
+    "url": "https://github.com/substructureai/substructure"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 154,
+    "updated_at": "2026-08-03T10:47:01Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8059,
+    "updated_at": "2026-08-03T10:45:45Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-03T10:45:33Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T10:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 10,
+    "updated_at": "2026-08-03T10:49:44Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
     "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
@@ -34,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T10:41:04Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
-    "id": "George-RD/openspine",
-    "language": "Rust",
-    "name": "George-RD/openspine",
-    "stars": 0,
-    "updated_at": "2026-08-03T10:43:52Z",
-    "url": "https://github.com/George-RD/openspine"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -77,26 +158,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-03T10:43:24Z",
+    "updated_at": "2026-08-03T10:57:39Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T10:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-03T10:31:40Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
@@ -104,17 +167,8 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 113,
-    "updated_at": "2026-08-03T10:29:41Z",
+    "updated_at": "2026-08-03T10:58:06Z",
     "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 20,
-    "updated_at": "2026-08-03T10:24:33Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "The fullstack framework for building AI Agents in Ruby on Rails. Build, test, deploy, and monitor in one platform. Advan",
@@ -149,17 +203,8 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 10,
-    "updated_at": "2026-08-03T10:21:17Z",
+    "updated_at": "2026-08-03T10:45:52Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8058,
-    "updated_at": "2026-08-03T10:18:17Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "The agentic runtime to build production-grade AI agents at scale.",
@@ -176,7 +221,7 @@
     "language": "Go",
     "name": "danmo-ai/danmo-work",
     "stars": 2,
-    "updated_at": "2026-08-03T10:29:34Z",
+    "updated_at": "2026-08-03T10:50:20Z",
     "url": "https://github.com/danmo-ai/danmo-work"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19022,
-    "updated_at": "2026-08-03T10:10:00Z",
+    "updated_at": "2026-08-03T10:59:57Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -295,15 +340,6 @@
     "stars": 8,
     "updated_at": "2026-08-03T09:42:51Z",
     "url": "https://github.com/AetherraLabs/Aetherra"
-  },
-  {
-    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
-    "id": "substructureai/substructure",
-    "language": "Rust",
-    "name": "substructureai/substructure",
-    "stars": 5,
-    "updated_at": "2026-08-03T09:40:36Z",
-    "url": "https://github.com/substructureai/substructure"
   },
   {
     "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T08:52:20Z",
     "url": "https://github.com/YQteam-dyq/yq-nova-agent"
-  },
-  {
-    "description": "Blades is a Go-based multimodal AI Agent framework.",
-    "id": "go-kratos/blades",
-    "language": "Go",
-    "name": "go-kratos/blades",
-    "stars": 807,
-    "updated_at": "2026-08-03T08:52:12Z",
-    "url": "https://github.com/go-kratos/blades"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1632,
-    "updated_at": "2026-08-03T08:43:28Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
-    "id": "amilworks/ultra",
-    "language": "TypeScript",
-    "name": "amilworks/ultra",
-    "stars": 6,
-    "updated_at": "2026-08-03T09:28:47Z",
-    "url": "https://github.com/amilworks/ultra"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-08-03T08:34:25Z",
-    "url": "https://github.com/JKHeadley/instar"
   }
 ]
