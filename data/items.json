@@ -1,21 +1,93 @@
 [
   {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 49,
+    "updated_at": "2026-08-03T18:13:25Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 22 crates, CLI/TUI/Desktop, agentic tool loop + graph retrieval + ",
+    "id": "W117C/DeepseekNova",
+    "language": "Rust",
+    "name": "W117C/DeepseekNova",
+    "stars": 3,
+    "updated_at": "2026-08-03T18:11:54Z",
+    "url": "https://github.com/W117C/DeepseekNova"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29777,
-    "updated_at": "2026-08-03T17:59:03Z",
+    "stars": 29784,
+    "updated_at": "2026-08-03T18:10:30Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
+    "id": "speleoalex/myagent",
+    "language": "Python",
+    "name": "speleoalex/myagent",
+    "stars": 1,
+    "updated_at": "2026-08-03T18:09:22Z",
+    "url": "https://github.com/speleoalex/myagent"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 5591,
-    "updated_at": "2026-08-03T17:58:44Z",
+    "stars": 5592,
+    "updated_at": "2026-08-03T18:11:27Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-08-03T18:06:20Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
+    "id": "saajunaid/caddis-plugin",
+    "language": "Python",
+    "name": "saajunaid/caddis-plugin",
+    "stars": 0,
+    "updated_at": "2026-08-03T18:05:39Z",
+    "url": "https://github.com/saajunaid/caddis-plugin"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-08-03T18:02:14Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T18:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-08-03T17:59:16Z",
+    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -32,17 +104,8 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 0,
-    "updated_at": "2026-08-03T17:56:36Z",
+    "updated_at": "2026-08-03T18:13:13Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 36,
-    "updated_at": "2026-08-03T17:56:29Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -54,21 +117,12 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
-    "id": "saajunaid/caddis-plugin",
-    "language": "Python",
-    "name": "saajunaid/caddis-plugin",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:53:31Z",
-    "url": "https://github.com/saajunaid/caddis-plugin"
-  },
-  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 46,
-    "updated_at": "2026-08-03T17:55:15Z",
+    "updated_at": "2026-08-03T18:06:20Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -81,21 +135,12 @@
     "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T17:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19030,
-    "updated_at": "2026-08-03T17:44:34Z",
+    "updated_at": "2026-08-03T18:10:33Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -135,6 +180,15 @@
     "url": "https://github.com/YQteam-dyq/yq-nova-agent"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8069,
+    "updated_at": "2026-08-03T17:32:25Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
     "id": "polymind-inc/agent-framework-js",
     "language": "TypeScript",
@@ -151,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T17:29:58Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8069,
-    "updated_at": "2026-08-03T17:32:25Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\u5f00\u6e90\u672c\u5730\u4f18\u5148 AI Agent \u6846\u67b6 \u00b7 139 \u5185\u7f6e\u5de5\u5177 / 82 \u8def\u7531 \u00b7 \u6a21\u578b\u81ea\u914d \u00b7 \u6280\u80fd\u81ea\u6269\u5c55",
@@ -239,7 +284,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-03T17:11:10Z",
+    "updated_at": "2026-08-03T18:06:58Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -286,15 +331,6 @@
     "stars": 5,
     "updated_at": "2026-08-03T17:15:25Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 22 crates, CLI/TUI/Desktop, agentic tool loop + graph retrieval + ",
-    "id": "W117C/DeepseekNova",
-    "language": "Rust",
-    "name": "W117C/DeepseekNova",
-    "stars": 3,
-    "updated_at": "2026-08-03T16:50:52Z",
-    "url": "https://github.com/W117C/DeepseekNova"
   },
   {
     "description": "Lightweight AI coding agent \u2014 Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp",
@@ -412,41 +448,5 @@
     "stars": 6778,
     "updated_at": "2026-08-03T17:38:41Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 19,
-    "updated_at": "2026-08-03T17:27:20Z",
-    "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
-    "id": "Gald3r-Labs/gald3r",
-    "language": "Python",
-    "name": "Gald3r-Labs/gald3r",
-    "stars": 23,
-    "updated_at": "2026-08-03T16:19:07Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 3,
-    "updated_at": "2026-08-03T16:18:19Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-03T16:17:53Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
   }
 ]
