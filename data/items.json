@@ -1,12 +1,93 @@
 [
   {
+    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
+    "id": "devpilgrin/berimor",
+    "language": "Rust",
+    "name": "devpilgrin/berimor",
+    "stars": 0,
+    "updated_at": "2026-08-03T00:13:28Z",
+    "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-03T00:12:33Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-08-03T00:11:46Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
+    "id": "PiyotaHu/Voxa",
+    "language": "Rust",
+    "name": "PiyotaHu/Voxa",
+    "stars": 1,
+    "updated_at": "2026-08-03T00:10:19Z",
+    "url": "https://github.com/PiyotaHu/Voxa"
+  },
+  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 49,
-    "updated_at": "2026-08-02T23:59:47Z",
+    "updated_at": "2026-08-03T00:10:30Z",
     "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-03T00:08:09Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-08-03T00:06:08Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "\u5f00\u6e90\u672c\u5730\u4f18\u5148 AI Agent \u6846\u67b6 \u00b7 139 \u5185\u7f6e\u5de5\u5177 / 82 \u8def\u7531 \u00b7 \u6a21\u578b\u81ea\u914d \u00b7 \u6280\u80fd\u81ea\u6269\u5c55",
+    "id": "zhikekj-ui/LUMU",
+    "language": "Python",
+    "name": "zhikekj-ui/LUMU",
+    "stars": 0,
+    "updated_at": "2026-08-03T00:04:39Z",
+    "url": "https://github.com/zhikekj-ui/LUMU"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-03T00:01:11Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T00:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -63,15 +144,6 @@
     "url": "https://github.com/streamcoreai/streamcore-server"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-02T23:51:13Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -108,15 +180,6 @@
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-02T23:45:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -126,21 +189,12 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "\u5f00\u6e90\u672c\u5730\u4f18\u5148 AI Agent \u6846\u67b6 \u00b7 139 \u5185\u7f6e\u5de5\u5177 / 82 \u8def\u7531 \u00b7 \u6a21\u578b\u81ea\u914d \u00b7 \u6280\u80fd\u81ea\u6269\u5c55",
-    "id": "zhikekj-ui/LUMU",
-    "language": "Python",
-    "name": "zhikekj-ui/LUMU",
-    "stars": 0,
-    "updated_at": "2026-08-02T23:41:12Z",
-    "url": "https://github.com/zhikekj-ui/LUMU"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-02T23:57:20Z",
+    "updated_at": "2026-08-03T00:10:17Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 1,
-    "updated_at": "2026-08-02T23:35:49Z",
+    "updated_at": "2026-08-03T00:11:40Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
@@ -178,24 +232,6 @@
     "stars": 6,
     "updated_at": "2026-08-02T23:12:18Z",
     "url": "https://github.com/gymaira1990-jpg/noah-gen3-type2"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-08-02T23:08:26Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-02T23:59:25Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -283,7 +319,7 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 366,
+    "stars": 367,
     "updated_at": "2026-08-02T22:13:51Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -306,24 +342,6 @@
     "url": "https://github.com/vstorm-co/pydantic-deepagents"
   },
   {
-    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
-    "id": "devpilgrin/berimor",
-    "language": "Rust",
-    "name": "devpilgrin/berimor",
-    "stars": 0,
-    "updated_at": "2026-08-02T22:08:24Z",
-    "url": "https://github.com/devpilgrin/berimor"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-02T22:04:14Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "The AI study agent that learns how you learn \u2014 RL picks the action, FSRS picks the timing, the LLM only writes the quizz",
     "id": "HumphreySun98/Smart-Study-Agent",
     "language": "JavaScript",
@@ -337,7 +355,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29041,
+    "stars": 29045,
     "updated_at": "2026-08-02T22:00:46Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4829,
-    "updated_at": "2026-08-02T21:59:52Z",
+    "updated_at": "2026-08-03T00:07:46Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 468,
-    "updated_at": "2026-08-02T23:28:36Z",
+    "updated_at": "2026-08-03T00:10:23Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T20:52:57Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
-    "id": "joseym/salvor",
-    "language": "Rust",
-    "name": "joseym/salvor",
-    "stars": 1,
-    "updated_at": "2026-08-02T20:45:28Z",
-    "url": "https://github.com/joseym/salvor"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-08-02T23:22:04Z",
-    "url": "https://github.com/codewandler/flux"
   }
 ]
