@@ -1,5 +1,86 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 29686,
+    "updated_at": "2026-08-03T15:14:45Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-08-03T15:10:17Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8064,
+    "updated_at": "2026-08-03T15:08:02Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\u5f00\u6e90\u672c\u5730\u4f18\u5148 AI Agent \u6846\u67b6 \u00b7 139 \u5185\u7f6e\u5de5\u5177 / 82 \u8def\u7531 \u00b7 \u6a21\u578b\u81ea\u914d \u00b7 \u6280\u80fd\u81ea\u6269\u5c55",
+    "id": "zhikekj-ui/LUMU",
+    "language": "Python",
+    "name": "zhikekj-ui/LUMU",
+    "stars": 0,
+    "updated_at": "2026-08-03T15:06:00Z",
+    "url": "https://github.com/zhikekj-ui/LUMU"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-03T15:04:34Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
+    "id": "tsingxuanhan/NexusFlow",
+    "language": "Python",
+    "name": "tsingxuanhan/NexusFlow",
+    "stars": 0,
+    "updated_at": "2026-08-03T15:02:59Z",
+    "url": "https://github.com/tsingxuanhan/NexusFlow"
+  },
+  {
+    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
+    "id": "clawboo/clawboo",
+    "language": "TypeScript",
+    "name": "clawboo/clawboo",
+    "stars": 57,
+    "updated_at": "2026-08-03T15:02:43Z",
+    "url": "https://github.com/clawboo/clawboo"
+  },
+  {
+    "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
+    "id": "atliliw/langchainrust",
+    "language": "Rust",
+    "name": "atliliw/langchainrust",
+    "stars": 13,
+    "updated_at": "2026-08-03T15:01:54Z",
+    "url": "https://github.com/atliliw/langchainrust"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T15:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
@@ -9,31 +90,31 @@
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29679,
-    "updated_at": "2026-08-03T14:57:11Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
-    "id": "tsingxuanhan/NexusFlow",
-    "language": "Python",
-    "name": "tsingxuanhan/NexusFlow",
-    "stars": 0,
-    "updated_at": "2026-08-03T14:56:05Z",
-    "url": "https://github.com/tsingxuanhan/NexusFlow"
-  },
-  {
     "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
     "id": "Ash20pk/BerthOS",
     "language": "TypeScript",
     "name": "Ash20pk/BerthOS",
     "stars": 0,
-    "updated_at": "2026-08-03T14:59:22Z",
+    "updated_at": "2026-08-03T15:13:58Z",
     "url": "https://github.com/Ash20pk/BerthOS"
+  },
+  {
+    "description": " SQLite-backed task coordination for AI agents. No server. No daemon. No queues. Just a shared database file agents use ",
+    "id": "mrSamDev/agentic-kanban",
+    "language": "Go",
+    "name": "mrSamDev/agentic-kanban",
+    "stars": 0,
+    "updated_at": "2026-08-03T14:57:46Z",
+    "url": "https://github.com/mrSamDev/agentic-kanban"
+  },
+  {
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 37,
+    "updated_at": "2026-08-03T14:56:07Z",
+    "url": "https://github.com/Marssssss/OneAI"
   },
   {
     "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
@@ -50,7 +131,7 @@
     "language": "TypeScript",
     "name": "dshakes/lantern",
     "stars": 0,
-    "updated_at": "2026-08-03T14:55:01Z",
+    "updated_at": "2026-08-03T15:05:34Z",
     "url": "https://github.com/dshakes/lantern"
   },
   {
@@ -81,15 +162,6 @@
     "url": "https://github.com/devpilgrin/berimor"
   },
   {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-08-03T14:50:36Z",
-    "url": "https://github.com/MariusYvard/corparius"
-  },
-  {
     "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
     "id": "trbearth/fieldwork-agent-os",
     "language": "CSS",
@@ -106,24 +178,6 @@
     "stars": 8,
     "updated_at": "2026-08-03T14:46:15Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T14:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8064,
-    "updated_at": "2026-08-03T14:44:45Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -153,15 +207,6 @@
     "url": "https://github.com/streamcoreai/streamcore-server"
   },
   {
-    "description": " SQLite-backed task coordination for AI agents. No server. No daemon. No queues. Just a shared database file agents use ",
-    "id": "mrSamDev/agentic-kanban",
-    "language": "Go",
-    "name": "mrSamDev/agentic-kanban",
-    "stars": 0,
-    "updated_at": "2026-08-03T14:57:46Z",
-    "url": "https://github.com/mrSamDev/agentic-kanban"
-  },
-  {
     "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
     "id": "joseym/salvor",
     "language": "Rust",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 1,
-    "updated_at": "2026-08-03T14:47:51Z",
+    "updated_at": "2026-08-03T15:05:41Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 588,
     "updated_at": "2026-08-03T14:36:59Z",
     "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-03T14:58:08Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -225,21 +261,12 @@
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
-    "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
-    "id": "atliliw/langchainrust",
-    "language": "Rust",
-    "name": "atliliw/langchainrust",
-    "stars": 13,
-    "updated_at": "2026-08-03T14:57:54Z",
-    "url": "https://github.com/atliliw/langchainrust"
-  },
-  {
     "description": "A self-hosted, web-based AI platform for building, deploying, and running autonomous AI agents. Connect to 2,600+ enterp",
     "id": "enthrium/open-enthrium-ai-platform",
     "language": "JavaScript",
     "name": "enthrium/open-enthrium-ai-platform",
     "stars": 1,
-    "updated_at": "2026-08-03T14:32:15Z",
+    "updated_at": "2026-08-03T15:10:14Z",
     "url": "https://github.com/enthrium/open-enthrium-ai-platform"
   },
   {
@@ -248,17 +275,8 @@
     "language": "JavaScript",
     "name": "enthrium/open-enthrium-ai-agent-runtime",
     "stars": 0,
-    "updated_at": "2026-08-03T14:32:15Z",
+    "updated_at": "2026-08-03T15:10:14Z",
     "url": "https://github.com/enthrium/open-enthrium-ai-agent-runtime"
-  },
-  {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 37,
-    "updated_at": "2026-08-03T14:56:07Z",
-    "url": "https://github.com/Marssssss/OneAI"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-03T14:39:31Z",
+    "updated_at": "2026-08-03T15:14:41Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -297,20 +315,11 @@
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
-    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
-    "id": "clawboo/clawboo",
-    "language": "TypeScript",
-    "name": "clawboo/clawboo",
-    "stars": 57,
-    "updated_at": "2026-08-03T14:59:37Z",
-    "url": "https://github.com/clawboo/clawboo"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6777,
+    "stars": 6778,
     "updated_at": "2026-08-03T14:16:49Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-03T14:44:33Z",
+    "updated_at": "2026-08-03T15:07:21Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -430,15 +439,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T14:03:53Z",
     "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "\u5f00\u6e90\u672c\u5730\u4f18\u5148 AI Agent \u6846\u67b6 \u00b7 139 \u5185\u7f6e\u5de5\u5177 / 82 \u8def\u7531 \u00b7 \u6a21\u578b\u81ea\u914d \u00b7 \u6280\u80fd\u81ea\u6269\u5c55",
-    "id": "zhikekj-ui/LUMU",
-    "language": "Python",
-    "name": "zhikekj-ui/LUMU",
-    "stars": 0,
-    "updated_at": "2026-08-03T13:52:31Z",
-    "url": "https://github.com/zhikekj-ui/LUMU"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
