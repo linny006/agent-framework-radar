@@ -1,21 +1,66 @@
 [
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-08-03T08:29:39Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
     "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46543,
-    "updated_at": "2026-08-03T08:20:23Z",
-    "url": "https://github.com/HKUDS/nanobot"
+    "name": "dmirain/OctoForge",
+    "stars": 19,
+    "updated_at": "2026-08-03T08:29:06Z",
+    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29441,
-    "updated_at": "2026-08-03T08:19:17Z",
+    "stars": 29445,
+    "updated_at": "2026-08-03T08:28:16Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-03T08:23:18Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8057,
+    "updated_at": "2026-08-03T08:23:18Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T08:23:18Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46544,
+    "updated_at": "2026-08-03T08:20:23Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -25,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T08:16:06Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T08:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -52,15 +88,6 @@
     "stars": 8,
     "updated_at": "2026-08-03T08:08:18Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8057,
-    "updated_at": "2026-08-03T08:15:38Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26094,
-    "updated_at": "2026-08-03T08:22:11Z",
+    "updated_at": "2026-08-03T08:27:53Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19020,
-    "updated_at": "2026-08-03T07:53:27Z",
+    "updated_at": "2026-08-03T08:29:03Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -106,15 +133,6 @@
     "stars": 10,
     "updated_at": "2026-08-03T07:49:29Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 19,
-    "updated_at": "2026-08-03T07:52:25Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Go-based AI Agent microservice platform with multi-agent orchestration, RAG retrieval, persistent memory, MCP tool integ",
@@ -241,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T07:23:37Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-03T08:13:21Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "\u4e0d\u6b7b\u9e1f Phoenix \u2014 Hermes Agent \u63d2\u4ef6\uff1a\u8def\u7531\u5206\u6863/\u98ce\u9669\u9632\u7ebf/\u81ea\u6108/\u5b58\u6863\u70b9\u63d0\u9192/\u5ba1\u6279\u7b56\u7565\u81ea\u9002\u5e94\uff0c\u5b98\u65b9\u94a9\u5b50\u63a5\u5165\uff0c\u4e0d\u6539 Hermes \u6838\u5fc3\u4ee3\u7801",
@@ -394,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T06:28:03Z",
     "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-08-03T07:53:47Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
