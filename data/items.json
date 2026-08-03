@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-08-03T17:44:29Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-03T17:44:27Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-03T17:44:16Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The agent that grows with you 300+ SKILLS",
+    "id": "JaneHax/JanexAgent",
+    "language": "TypeScript",
+    "name": "JaneHax/JanexAgent",
+    "stars": 1,
+    "updated_at": "2026-08-03T17:42:53Z",
+    "url": "https://github.com/JaneHax/JanexAgent"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19029,
+    "updated_at": "2026-08-03T17:44:34Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 5590,
+    "updated_at": "2026-08-03T17:41:18Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Lightweight, single-file Agent memory & state layer with semantic search, graph traversal, and remember/recall/forget AP",
+    "id": "YQteam-dyq/yq-nova-agent",
+    "language": "Rust",
+    "name": "YQteam-dyq/yq-nova-agent",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:37:27Z",
+    "url": "https://github.com/YQteam-dyq/yq-nova-agent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 29772,
+    "updated_at": "2026-08-03T17:36:01Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
+    "id": "polymind-inc/agent-framework-js",
+    "language": "TypeScript",
+    "name": "polymind-inc/agent-framework-js",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:33:56Z",
+    "url": "https://github.com/polymind-inc/agent-framework-js"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T17:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Persistent self-improving AI teammates with memory, skills, and schedules.",
     "id": "rundesk-ai/rundesk-cli",
     "language": "Python",
@@ -9,31 +99,13 @@
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 5590,
-    "updated_at": "2026-08-03T17:28:22Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Lightweight, single-file Agent memory & state layer with semantic search, graph traversal, and remember/recall/forget AP",
-    "id": "YQteam-dyq/yq-nova-agent",
-    "language": "Rust",
-    "name": "YQteam-dyq/yq-nova-agent",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:27:27Z",
-    "url": "https://github.com/YQteam-dyq/yq-nova-agent"
-  },
-  {
-    "description": "The agent that grows with you with 300+ SKILLS",
-    "id": "JaneHax/JanexAgent",
-    "language": "TypeScript",
-    "name": "JaneHax/JanexAgent",
-    "stars": 1,
-    "updated_at": "2026-08-03T17:25:28Z",
-    "url": "https://github.com/JaneHax/JanexAgent"
+    "name": "omnigent-ai/omnigent",
+    "stars": 8069,
+    "updated_at": "2026-08-03T17:32:25Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\u5f00\u6e90\u672c\u5730\u4f18\u5148 AI Agent \u6846\u67b6 \u00b7 139 \u5185\u7f6e\u5de5\u5177 / 82 \u8def\u7531 \u00b7 \u6a21\u578b\u81ea\u914d \u00b7 \u6280\u80fd\u81ea\u6269\u5c55",
@@ -58,7 +130,7 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 380,
+    "stars": 381,
     "updated_at": "2026-08-03T17:22:11Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -70,24 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T17:21:43Z",
     "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29762,
-    "updated_at": "2026-08-03T17:21:19Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19029,
-    "updated_at": "2026-08-03T17:26:17Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -113,17 +167,8 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 0,
-    "updated_at": "2026-08-03T17:16:50Z",
+    "updated_at": "2026-08-03T17:33:06Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T17:15:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -178,15 +223,6 @@
     "stars": 24,
     "updated_at": "2026-08-03T16:59:37Z",
     "url": "https://github.com/WhitzardAgent/qitos"
-  },
-  {
-    "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
-    "id": "polymind-inc/agent-framework-js",
-    "language": "TypeScript",
-    "name": "polymind-inc/agent-framework-js",
-    "stars": 0,
-    "updated_at": "2026-08-03T16:58:10Z",
-    "url": "https://github.com/polymind-inc/agent-framework-js"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -256,7 +292,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46569,
+    "stars": 46570,
     "updated_at": "2026-08-03T16:38:42Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-03T16:47:14Z",
+    "updated_at": "2026-08-03T17:34:52Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -304,15 +340,6 @@
     "stars": 20,
     "updated_at": "2026-08-03T16:35:19Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8069,
-    "updated_at": "2026-08-03T17:29:45Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
@@ -365,7 +392,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6778,
-    "updated_at": "2026-08-03T16:38:31Z",
+    "updated_at": "2026-08-03T17:38:41Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 75,
     "updated_at": "2026-08-03T16:10:46Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-08-03T16:10:06Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26100,
-    "updated_at": "2026-08-03T16:00:21Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-08-03T16:19:15Z",
-    "url": "https://github.com/Birfy/agentdescent"
   }
 ]
