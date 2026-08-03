@@ -1,12 +1,39 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6779,
+    "updated_at": "2026-08-03T20:16:30Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 1612,
-    "updated_at": "2026-08-03T20:13:09Z",
+    "updated_at": "2026-08-03T20:15:34Z",
     "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19032,
+    "updated_at": "2026-08-03T20:15:32Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T20:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 5592,
-    "updated_at": "2026-08-03T20:08:18Z",
+    "updated_at": "2026-08-03T20:17:26Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -79,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T20:02:10Z",
     "url": "https://github.com/Ash20pk/BerthOS"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19032,
-    "updated_at": "2026-08-03T20:12:04Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T20:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -225,15 +234,6 @@
     "url": "https://github.com/speleoalex/myagent"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6779,
-    "updated_at": "2026-08-03T19:56:35Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
     "id": "sauravbhattacharya001/agentlens",
     "language": "JavaScript",
@@ -248,7 +248,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 6,
-    "updated_at": "2026-08-03T19:43:23Z",
+    "updated_at": "2026-08-03T20:16:22Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -382,7 +382,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29829,
+    "stars": 29830,
     "updated_at": "2026-08-03T18:29:05Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
