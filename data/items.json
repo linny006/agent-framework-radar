@@ -5,17 +5,107 @@
     "language": "Svelte",
     "name": "qbtrix/ripple-iui",
     "stars": 4,
-    "updated_at": "2026-08-03T05:29:39Z",
+    "updated_at": "2026-08-03T05:43:39Z",
     "url": "https://github.com/qbtrix/ripple-iui"
+  },
+  {
+    "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
+    "id": "kimtth/azure-openai-llm-wiki",
+    "language": "Python",
+    "name": "kimtth/azure-openai-llm-wiki",
+    "stars": 405,
+    "updated_at": "2026-08-03T05:43:52Z",
+    "url": "https://github.com/kimtth/azure-openai-llm-wiki"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8052,
-    "updated_at": "2026-08-03T05:28:46Z",
+    "stars": 8053,
+    "updated_at": "2026-08-03T05:45:15Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "22-agent Mixture-of-Agents pipeline with LongLoop for 24h autonomous iteration: smart routing sends easy tasks to Flash,",
+    "id": "ZenHG/opencode-moa",
+    "language": "PowerShell",
+    "name": "ZenHG/opencode-moa",
+    "stars": 3,
+    "updated_at": "2026-08-03T05:40:30Z",
+    "url": "https://github.com/ZenHG/opencode-moa"
+  },
+  {
+    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
+    "id": "devpilgrin/berimor",
+    "language": "Rust",
+    "name": "devpilgrin/berimor",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:40:27Z",
+    "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
+    "description": "A deterministic execution harness for AI agents, in Rust. Preview mutating tool calls before they run, journal every ste",
+    "id": "nlj3/kedge",
+    "language": "Rust",
+    "name": "nlj3/kedge",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:38:35Z",
+    "url": "https://github.com/nlj3/kedge"
+  },
+  {
+    "description": "Self-hosted completion gate for coding agents: independent verification before done, durable evidence, CLI and local GUI",
+    "id": "moortekweb-art/agentic-harness",
+    "language": "Python",
+    "name": "moortekweb-art/agentic-harness",
+    "stars": 1,
+    "updated_at": "2026-08-03T05:36:58Z",
+    "url": "https://github.com/moortekweb-art/agentic-harness"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 49,
+    "updated_at": "2026-08-03T05:37:44Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 36,
+    "updated_at": "2026-08-03T05:34:38Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
+    "id": "substructureai/substructure",
+    "language": "Rust",
+    "name": "substructureai/substructure",
+    "stars": 5,
+    "updated_at": "2026-08-03T05:33:44Z",
+    "url": "https://github.com/substructureai/substructure"
+  },
+  {
+    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
+    "id": "Ash20pk/BerthOS",
+    "language": "TypeScript",
+    "name": "Ash20pk/BerthOS",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:32:40Z",
+    "url": "https://github.com/Ash20pk/BerthOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T05:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
@@ -45,24 +135,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "22-agent Mixture-of-Agents pipeline with LongLoop for 24h autonomous iteration: smart routing sends easy tasks to Flash,",
-    "id": "ZenHG/opencode-moa",
-    "language": "PowerShell",
-    "name": "ZenHG/opencode-moa",
-    "stars": 3,
-    "updated_at": "2026-08-03T05:27:33Z",
-    "url": "https://github.com/ZenHG/opencode-moa"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 49,
-    "updated_at": "2026-08-03T05:30:16Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -81,15 +153,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T05:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Markdown Agent Studio is a workspace where agents develop specialization through their own experience.",
     "id": "RobThePCGuy/markdown-agent-studio",
     "language": "TypeScript",
@@ -97,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T05:12:22Z",
     "url": "https://github.com/RobThePCGuy/markdown-agent-studio"
-  },
-  {
-    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
-    "id": "devpilgrin/berimor",
-    "language": "Rust",
-    "name": "devpilgrin/berimor",
-    "stars": 0,
-    "updated_at": "2026-08-03T05:12:02Z",
-    "url": "https://github.com/devpilgrin/berimor"
   },
   {
     "description": "The agentic runtime to build production-grade AI agents at scale.",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-03T05:17:59Z",
+    "updated_at": "2026-08-03T05:31:20Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 74,
     "updated_at": "2026-08-03T05:01:32Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
-    "id": "Ash20pk/BerthOS",
-    "language": "TypeScript",
-    "name": "Ash20pk/BerthOS",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:56:58Z",
-    "url": "https://github.com/Ash20pk/BerthOS"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "clawboo/clawboo",
     "stars": 57,
-    "updated_at": "2026-08-03T04:56:16Z",
+    "updated_at": "2026-08-03T05:32:43Z",
     "url": "https://github.com/clawboo/clawboo"
   },
   {
@@ -184,7 +229,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29290,
+    "stars": 29299,
     "updated_at": "2026-08-03T04:52:43Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -324,7 +369,7 @@
     "url": "https://github.com/codewandler/flux"
   },
   {
-    "description": "\u62df\u4eba\u5316AI\u89d2\u8272\u5f15\u64ce\uff1a\u57fa\u4e8eSPL\u5ba1\u8ba1\u5f15\u64ce\u7684\u6807\u51c6\u5316\u667a\u80fd\u4f53\u6a21\u677f\uff0c\u5feb\u901f\u751f\u6210\u9ad8\u4e00\u81f4\u6027AI\u89d2\u8272\uff0c\u901a\u8fc7\u56e0\u679c\u951a\u5b9a\u4e0e\u5168\u903b\u8f91\u5ba1\u8ba1\u5f7b\u5e95\u6d88\u9664OOC\u3001\u60c5\u611f\u6f02\u79fb\u548c\u8bb0\u5fc6\u4e22\u5931\uff0c\u4e3aAI\u966a\u4f34\u3001\u6570\u5b57\u4eba\u3001\u4ea4\u4e92\u53d9\u4e8b\u3001\u667a\u80fd\u5ba2\u670d\u3001\u865a\u62df\u5076\u50cf\u63d0\u4f9b\u53ef\u9760\u5e95\u5c42\u6846\u67b6\u3002",
+    "description": "Anthropomorphic AI Character Engine: a standardized agent template based on the SPL audit engine for fast, consistent AI",
     "id": "nohn3043-arch/Anthropomorphic-Agent-Engine",
     "language": "Python",
     "name": "nohn3043-arch/Anthropomorphic-Agent-Engine",
@@ -392,7 +437,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-03T04:40:43Z",
+    "updated_at": "2026-08-03T05:36:20Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T03:50:47Z",
     "url": "https://github.com/Jettlin927/harness-for-myself"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-03T03:44:10Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Self-hosted AI agents with a web UI \u2014 extend with Python/JS tools & MCP, schedule with cron Jobs, publish as public chat",
-    "id": "phamvanquyit/raw-agents",
-    "language": "TypeScript",
-    "name": "phamvanquyit/raw-agents",
-    "stars": 2,
-    "updated_at": "2026-08-03T03:35:59Z",
-    "url": "https://github.com/phamvanquyit/raw-agents"
-  },
-  {
-    "description": "An agent runtime.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 7,
-    "updated_at": "2026-08-03T03:33:50Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46528,
-    "updated_at": "2026-08-03T03:33:03Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Multi-agent orchestration CLI for Claude Code \u2014 declarative TOML workflows, autonomous agents, context-compression recov",
-    "id": "stempeck/agentfactory",
-    "language": "Go",
-    "name": "stempeck/agentfactory",
-    "stars": 2,
-    "updated_at": "2026-08-03T03:27:46Z",
-    "url": "https://github.com/stempeck/agentfactory"
   }
 ]
