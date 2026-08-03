@@ -1,11 +1,65 @@
 [
   {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 181,
+    "updated_at": "2026-08-03T12:12:59Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 29585,
+    "updated_at": "2026-08-03T12:11:22Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
+    "id": "10xHub/Agentflow",
+    "language": "Python",
+    "name": "10xHub/Agentflow",
+    "stars": 22,
+    "updated_at": "2026-08-03T12:09:50Z",
+    "url": "https://github.com/10xHub/Agentflow"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-03T12:07:57Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-08-03T12:07:45Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T12:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8060,
-    "updated_at": "2026-08-03T11:59:28Z",
+    "updated_at": "2026-08-03T12:13:33Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 1,
-    "updated_at": "2026-08-03T11:56:18Z",
+    "updated_at": "2026-08-03T12:12:50Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -23,17 +77,8 @@
     "language": "TypeScript",
     "name": "footprintjs/agentfootprint",
     "stars": 10,
-    "updated_at": "2026-08-03T11:55:50Z",
+    "updated_at": "2026-08-03T12:00:32Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T11:53:59Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -117,21 +162,12 @@
     "url": "https://github.com/lukeskytorep-bot/echo-claw"
   },
   {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-08-03T11:36:27Z",
-    "url": "https://github.com/MariusYvard/corparius"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-03T11:51:51Z",
+    "updated_at": "2026-08-03T12:11:02Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -151,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T11:33:51Z",
     "url": "https://github.com/CocoRoF/geny-executor"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-03T11:32:56Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
@@ -198,15 +225,6 @@
     "url": "https://github.com/Eddiee-Wei/agent-engineering-notes"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29573,
-    "updated_at": "2026-08-03T11:26:36Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -214,15 +232,6 @@
     "stars": 19023,
     "updated_at": "2026-08-03T11:23:53Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "AI Team Platform \u2014 sun'iy intellekt agentlari hamkorligini boshqarish, workflowlarni avtomatlashtirish va AI tizimlarini",
-    "id": "2013abror-rtu/ai-team-platform",
-    "language": "Python",
-    "name": "2013abror-rtu/ai-team-platform",
-    "stars": 0,
-    "updated_at": "2026-08-03T11:22:03Z",
-    "url": "https://github.com/2013abror-rtu/ai-team-platform"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -418,7 +427,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46555,
+    "stars": 46557,
     "updated_at": "2026-08-03T10:06:45Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T09:54:34Z",
     "url": "https://github.com/fierceX/mink"
-  },
-  {
-    "description": "Loop + Wiki agent framework \u2014 the wiki is the agent's mind. Identity, memory & capabilities live in plain markdown, load",
-    "id": "hanyo-ai/taus",
-    "language": "Python",
-    "name": "hanyo-ai/taus",
-    "stars": 1,
-    "updated_at": "2026-08-03T09:53:48Z",
-    "url": "https://github.com/hanyo-ai/taus"
   }
 ]
