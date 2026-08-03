@@ -1,5 +1,41 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8060,
+    "updated_at": "2026-08-03T11:59:28Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-08-03T11:56:18Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 10,
+    "updated_at": "2026-08-03T11:55:50Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T11:53:59Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "wxhcore/bumblehive",
     "stars": 6,
-    "updated_at": "2026-08-03T11:51:48Z",
+    "updated_at": "2026-08-03T11:56:28Z",
     "url": "https://github.com/wxhcore/bumblehive"
   },
   {
@@ -54,22 +90,13 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T11:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8060,
-    "updated_at": "2026-08-03T11:39:41Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "deepset-ai/haystack",
+    "stars": 26097,
+    "updated_at": "2026-08-03T11:40:30Z",
+    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Agent SDK, CLI, RPC, Computer-use in Rust",
@@ -88,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T11:37:53Z",
     "url": "https://github.com/lukeskytorep-bot/echo-claw"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26096,
-    "updated_at": "2026-08-03T11:40:30Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
@@ -121,7 +139,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 803,
+    "stars": 804,
     "updated_at": "2026-08-03T11:34:09Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -184,9 +202,27 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29571,
+    "stars": 29573,
     "updated_at": "2026-08-03T11:26:36Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19023,
+    "updated_at": "2026-08-03T11:23:53Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "AI Team Platform \u2014 sun'iy intellekt agentlari hamkorligini boshqarish, workflowlarni avtomatlashtirish va AI tizimlarini",
+    "id": "2013abror-rtu/ai-team-platform",
+    "language": "Python",
+    "name": "2013abror-rtu/ai-team-platform",
+    "stars": 0,
+    "updated_at": "2026-08-03T11:22:03Z",
+    "url": "https://github.com/2013abror-rtu/ai-team-platform"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -288,15 +324,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 10,
-    "updated_at": "2026-08-03T10:49:44Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
     "id": "codewandler/flux",
     "language": "Rust",
@@ -369,15 +396,6 @@
     "url": "https://github.com/Kortecx/kortecx"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19022,
-    "updated_at": "2026-08-03T11:23:53Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "AI agent with zero dependencies, bring your own bun",
     "id": "devoidfury/hotdog",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T09:53:48Z",
     "url": "https://github.com/hanyo-ai/taus"
-  },
-  {
-    "description": "\u4e0d\u6b7b\u9e1f Phoenix \u2014 Hermes Agent \u63d2\u4ef6\uff1a\u8def\u7531\u5206\u6863/\u98ce\u9669\u9632\u7ebf/\u81ea\u6108/\u5b58\u6863\u70b9\u63d0\u9192/\u5ba1\u6279\u7b56\u7565\u81ea\u9002\u5e94\uff0c\u5b98\u65b9\u94a9\u5b50\u63a5\u5165\uff0c\u4e0d\u6539 Hermes \u6838\u5fc3\u4ee3\u7801",
-    "id": "xyaz1313/phoenix",
-    "language": "Python",
-    "name": "xyaz1313/phoenix",
-    "stars": 71,
-    "updated_at": "2026-08-03T09:44:10Z",
-    "url": "https://github.com/xyaz1313/phoenix"
-  },
-  {
-    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
-    "id": "streamcoreai/streamcore-server",
-    "language": "Go",
-    "name": "streamcoreai/streamcore-server",
-    "stars": 87,
-    "updated_at": "2026-08-03T09:43:18Z",
-    "url": "https://github.com/streamcoreai/streamcore-server"
   }
 ]
