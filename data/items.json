@@ -1,11 +1,29 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T23:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
+    "id": "devpilgrin/berimor",
+    "language": "Rust",
+    "name": "devpilgrin/berimor",
+    "stars": 0,
+    "updated_at": "2026-08-03T23:45:21Z",
+    "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 6,
-    "updated_at": "2026-08-03T23:44:33Z",
+    "updated_at": "2026-08-03T23:45:45Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -59,7 +77,7 @@
     "language": "Go",
     "name": "danmo-ai/danmo-work",
     "stars": 3,
-    "updated_at": "2026-08-03T23:43:52Z",
+    "updated_at": "2026-08-03T23:45:30Z",
     "url": "https://github.com/danmo-ai/danmo-work"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-08-03T23:30:38Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T23:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T22:02:10Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
-    "id": "zachmeador/shrimpy",
-    "language": "TypeScript",
-    "name": "zachmeador/shrimpy",
-    "stars": 1,
-    "updated_at": "2026-08-03T21:51:38Z",
-    "url": "https://github.com/zachmeador/shrimpy"
   }
 ]
