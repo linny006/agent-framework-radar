@@ -1,12 +1,93 @@
 [
   {
+    "description": "The fully self-hostable, open composable platform for agent orchestration and human collaboration. With tools, security,",
+    "id": "amajorai/ryu",
+    "language": "Rust",
+    "name": "amajorai/ryu",
+    "stars": 34,
+    "updated_at": "2026-08-03T13:39:58Z",
+    "url": "https://github.com/amajorai/ryu"
+  },
+  {
+    "description": "Modular Python framework for LLM agents with multiple agent patterns, memory, RAG, MCP, and context engineering.",
+    "id": "Ling-ye/Lingye_Agent",
+    "language": "Python",
+    "name": "Ling-ye/Lingye_Agent",
+    "stars": 3,
+    "updated_at": "2026-08-03T13:39:45Z",
+    "url": "https://github.com/Ling-ye/Lingye_Agent"
+  },
+  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 8,
-    "updated_at": "2026-08-03T13:27:33Z",
+    "updated_at": "2026-08-03T13:39:37Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 154,
+    "updated_at": "2026-08-03T13:39:23Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 154,
+    "updated_at": "2026-08-03T13:37:54Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "\u5f00\u6e90\u672c\u5730\u4f18\u5148 AI Agent \u6846\u67b6 \u00b7 139 \u5185\u7f6e\u5de5\u5177 / 82 \u8def\u7531 \u00b7 \u6a21\u578b\u81ea\u914d \u00b7 \u6280\u80fd\u81ea\u6269\u5c55",
+    "id": "zhikekj-ui/LUMU",
+    "language": "Python",
+    "name": "zhikekj-ui/LUMU",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:37:47Z",
+    "url": "https://github.com/zhikekj-ui/LUMU"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-03T13:35:43Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:35:38Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 10,
+    "updated_at": "2026-08-03T13:35:03Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T13:30:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8061,
-    "updated_at": "2026-08-03T13:29:25Z",
+    "updated_at": "2026-08-03T13:36:17Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "pavanbadempet/AI-Healthcare-System",
     "stars": 36,
-    "updated_at": "2026-08-03T13:25:24Z",
+    "updated_at": "2026-08-03T13:42:29Z",
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
@@ -86,26 +167,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-03T13:15:38Z",
+    "updated_at": "2026-08-03T13:35:47Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T13:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "\u5f00\u6e90\u672c\u5730\u4f18\u5148 AI Agent \u6846\u67b6 \u00b7 139 \u5185\u7f6e\u5de5\u5177 / 82 \u8def\u7531 \u00b7 \u6a21\u578b\u81ea\u914d \u00b7 \u6280\u80fd\u81ea\u6269\u5c55",
-    "id": "zhikekj-ui/LUMU",
-    "language": "Python",
-    "name": "zhikekj-ui/LUMU",
-    "stars": 0,
-    "updated_at": "2026-08-03T13:10:58Z",
-    "url": "https://github.com/zhikekj-ui/LUMU"
   },
   {
     "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
@@ -158,7 +221,7 @@
     "language": "Rust",
     "name": "Wh1isper/starweaver",
     "stars": 6,
-    "updated_at": "2026-08-03T12:53:58Z",
+    "updated_at": "2026-08-03T13:42:43Z",
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
@@ -169,15 +232,6 @@
     "stars": 120,
     "updated_at": "2026-08-03T12:52:39Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 10,
-    "updated_at": "2026-08-03T12:58:31Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
     "description": "Async-first Python SDK for multi-provider AI systems, durable agents, tools, workflows, safety, and observability.",
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19024,
-    "updated_at": "2026-08-03T12:48:14Z",
+    "updated_at": "2026-08-03T13:45:06Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -355,7 +409,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29627,
+    "stars": 29635,
     "updated_at": "2026-08-03T12:11:22Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -394,59 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-03T11:56:28Z",
     "url": "https://github.com/wxhcore/bumblehive"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-03T11:48:00Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
-    "id": "lukeskytorep-bot/echo-claw",
-    "language": "\u2014",
-    "name": "lukeskytorep-bot/echo-claw",
-    "stars": 1,
-    "updated_at": "2026-08-03T11:37:53Z",
-    "url": "https://github.com/lukeskytorep-bot/echo-claw"
-  },
-  {
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 808,
-    "updated_at": "2026-08-03T11:34:09Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 378,
-    "updated_at": "2026-08-03T11:29:17Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "\u4e00\u4e2a\u8f7b\u91cf\u7ea7agent harness\u6846\u67b6\uff0c\u7528\u4e8e\u5b66\u4e60\u4e0e\u5b9e\u8df5\u4e2a\u4ebaagent\u52a9\u624b\u67b6\u6784\u8bbe\u8ba1\uff0c\u57fa\u4e8eReAct\u67b6\u6784\uff0c\u7531\u4e2d\u95f4\u8def\u7531\u5c42\u8fde\u63a5\u5ba2\u6237\u7aef\u4e0e\u5e95\u5c42\u7ec4\u4ef6\uff0c\u5b9e\u73b0\u4e86\u591a\u6a21\u578b\u9002\u914d\u3001\u591a\u5e73\u53f0\u9002\u914d\u548c\u4f1a\u8bdd\u7ba1\u7406\u3002",
-    "id": "aandbcct/dotClaw",
-    "language": "Python",
-    "name": "aandbcct/dotClaw",
-    "stars": 9,
-    "updated_at": "2026-08-03T12:30:10Z",
-    "url": "https://github.com/aandbcct/dotClaw"
-  },
-  {
-    "description": "Notes on agent frameworks, runtimes, harnesses, and coding agents.",
-    "id": "Eddiee-Wei/agent-engineering-notes",
-    "language": "SCSS",
-    "name": "Eddiee-Wei/agent-engineering-notes",
-    "stars": 0,
-    "updated_at": "2026-08-03T11:27:23Z",
-    "url": "https://github.com/Eddiee-Wei/agent-engineering-notes"
   }
 ]
