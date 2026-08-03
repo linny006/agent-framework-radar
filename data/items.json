@@ -1,28 +1,118 @@
 [
   {
-    "description": "Go-based AI Agent microservice platform with multi-agent orchestration, RAG retrieval, persistent memory, MCP tool integ",
-    "id": "atliliw/agent-platform",
-    "language": "Go",
-    "name": "atliliw/agent-platform",
-    "stars": 1,
-    "updated_at": "2026-08-03T07:43:07Z",
-    "url": "https://github.com/atliliw/agent-platform"
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8057,
+    "updated_at": "2026-08-03T07:58:38Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
+    "id": "clawboo/clawboo",
+    "language": "TypeScript",
+    "name": "clawboo/clawboo",
+    "stars": 57,
+    "updated_at": "2026-08-03T08:00:38Z",
+    "url": "https://github.com/clawboo/clawboo"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26094,
+    "updated_at": "2026-08-03T08:00:45Z",
+    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46540,
-    "updated_at": "2026-08-03T07:44:57Z",
+    "stars": 46541,
+    "updated_at": "2026-08-03T08:00:39Z",
     "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 19,
+    "updated_at": "2026-08-03T07:52:25Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Go-based AI Agent microservice platform with multi-agent orchestration, RAG retrieval, persistent memory, MCP tool integ",
+    "id": "atliliw/agent-platform",
+    "language": "Go",
+    "name": "atliliw/agent-platform",
+    "stars": 1,
+    "updated_at": "2026-08-03T07:48:54Z",
+    "url": "https://github.com/atliliw/agent-platform"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 9,
+    "updated_at": "2026-08-03T07:49:29Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 4,
+    "updated_at": "2026-08-03T07:47:01Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 8,
+    "updated_at": "2026-08-03T07:46:56Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19019,
+    "updated_at": "2026-08-03T07:53:27Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T07:46:08Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 4858,
+    "updated_at": "2026-08-03T07:42:59Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29412,
+    "stars": 29425,
     "updated_at": "2026-08-03T07:41:34Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -90,24 +180,6 @@
     "url": "https://github.com/atliliw/langchainrust"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T07:31:03Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 9,
-    "updated_at": "2026-08-03T07:31:01Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
     "description": "GitHub Copilot App \u3068 Microsoft Foundry Canvas \u3067\u30de\u30eb\u30c1\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8 AI \u3092 90 \u5206\u3067\u4f5c\u308b\u30cf\u30f3\u30ba\u30aa\u30f3\u6559\u6750 / Hands-on tutorial for building multi-agen",
     "id": "matakeda1/foundry-canvas-multiagent-handson",
     "language": "PowerShell",
@@ -124,15 +196,6 @@
     "stars": 377,
     "updated_at": "2026-08-03T07:28:42Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26094,
-    "updated_at": "2026-08-03T07:40:21Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
@@ -169,15 +232,6 @@
     "stars": 69,
     "updated_at": "2026-08-03T07:17:13Z",
     "url": "https://github.com/xyaz1313/phoenix"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8056,
-    "updated_at": "2026-08-03T07:45:26Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible;",
@@ -279,15 +333,6 @@
     "url": "https://github.com/xynehq/jaf-py"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 8,
-    "updated_at": "2026-08-03T06:43:27Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "AI Agent initialization and evolution management skill for building structured agent workflows.",
     "id": "H3108/agent-evolution-bootstrap",
     "language": "\u2014",
@@ -310,18 +355,9 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12557,
+    "stars": 12558,
     "updated_at": "2026-08-03T06:32:48Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 4,
-    "updated_at": "2026-08-03T06:29:50Z",
-    "url": "https://github.com/opencue/cuecards"
   },
   {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
@@ -338,7 +374,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-08-03T07:13:45Z",
+    "updated_at": "2026-08-03T07:53:47Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -387,24 +423,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 4856,
-    "updated_at": "2026-08-03T07:42:59Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
-    "id": "clawboo/clawboo",
-    "language": "TypeScript",
-    "name": "clawboo/clawboo",
-    "stars": 57,
-    "updated_at": "2026-08-03T07:30:32Z",
-    "url": "https://github.com/clawboo/clawboo"
-  },
-  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T05:58:03Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 9,
-    "updated_at": "2026-08-03T05:51:29Z",
-    "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "Anthropomorphic AI Character Engine: a standardized agent template based on the SPL audit engine for fast, consistent AI",
-    "id": "nohn3043-arch/Anthropomorphic-Agent-Engine",
-    "language": "Python",
-    "name": "nohn3043-arch/Anthropomorphic-Agent-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-03T05:50:14Z",
-    "url": "https://github.com/nohn3043-arch/Anthropomorphic-Agent-Engine"
   }
 ]
