@@ -1,11 +1,137 @@
 [
   {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-03T10:29:47Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 113,
+    "updated_at": "2026-08-03T10:29:41Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 29534,
+    "updated_at": "2026-08-03T10:28:27Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-03T10:28:18Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 20,
+    "updated_at": "2026-08-03T10:24:33Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 801,
+    "updated_at": "2026-08-03T10:29:42Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Rails Agent (gem: rails-agent-stack) \u2014 fullstack agentic platform for Ruby on Rails 6.1+. ActiveAgent & RubyLLM alternat",
+    "id": "Tiny-Bubble-Company/rails-agents",
+    "language": "Ruby",
+    "name": "Tiny-Bubble-Company/rails-agents",
+    "stars": 0,
+    "updated_at": "2026-08-03T10:21:15Z",
+    "url": "https://github.com/Tiny-Bubble-Company/rails-agents"
+  },
+  {
+    "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
+    "id": "speleoalex/myagent",
+    "language": "Python",
+    "name": "speleoalex/myagent",
+    "stars": 1,
+    "updated_at": "2026-08-03T10:20:52Z",
+    "url": "https://github.com/speleoalex/myagent"
+  },
+  {
+    "description": "Agent SDK, CLI, RPC, Computer-use in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 6,
+    "updated_at": "2026-08-03T10:19:17Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 10,
+    "updated_at": "2026-08-03T10:21:17Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8058,
+    "updated_at": "2026-08-03T10:18:17Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The agentic runtime to build production-grade AI agents at scale.",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 6,
+    "updated_at": "2026-08-03T10:17:49Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
+    "id": "George-RD/openspine",
+    "language": "Rust",
+    "name": "George-RD/openspine",
+    "stars": 0,
+    "updated_at": "2026-08-03T10:24:25Z",
+    "url": "https://github.com/George-RD/openspine"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T10:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
     "id": "danmo-ai/danmo-work",
     "language": "Go",
     "name": "danmo-ai/danmo-work",
     "stars": 2,
-    "updated_at": "2026-08-03T10:13:25Z",
+    "updated_at": "2026-08-03T10:29:34Z",
     "url": "https://github.com/danmo-ai/danmo-work"
   },
   {
@@ -18,20 +144,11 @@
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29519,
-    "updated_at": "2026-08-03T10:15:20Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19021,
+    "stars": 19022,
     "updated_at": "2026-08-03T10:10:00Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -43,15 +160,6 @@
     "stars": 378,
     "updated_at": "2026-08-03T10:09:38Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 799,
-    "updated_at": "2026-08-03T10:09:35Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "AI agent with zero dependencies, bring your own bun",
@@ -76,7 +184,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46549,
+    "stars": 46550,
     "updated_at": "2026-08-03T10:06:45Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -88,33 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T10:01:01Z",
     "url": "https://github.com/ludex-lab/ludex"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T10:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-03T10:01:45Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 113,
-    "updated_at": "2026-08-03T10:07:52Z",
-    "url": "https://github.com/KbWen/agentic-os"
   },
   {
     "description": "Lightweight AI coding agent \u2014 Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp",
@@ -180,15 +261,6 @@
     "url": "https://github.com/substructureai/substructure"
   },
   {
-    "description": "Rails Agent (gem: rails-agent-stack) \u2014 fullstack agentic platform for Ruby on Rails 6.1+. ActiveAgent & RubyLLM alternat",
-    "id": "Tiny-Bubble-Company/rails-agents",
-    "language": "Ruby",
-    "name": "Tiny-Bubble-Company/rails-agents",
-    "stars": 0,
-    "updated_at": "2026-08-03T09:40:03Z",
-    "url": "https://github.com/Tiny-Bubble-Company/rails-agents"
-  },
-  {
     "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
     "id": "MariusYvard/corparius",
     "language": "Python",
@@ -223,24 +295,6 @@
     "stars": 3,
     "updated_at": "2026-08-03T09:29:19Z",
     "url": "https://github.com/ZenHG/opencode-moa"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 20,
-    "updated_at": "2026-08-03T09:26:56Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-03T09:26:05Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline wo",
@@ -333,15 +387,6 @@
     "url": "https://github.com/go-kratos/blades"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8057,
-    "updated_at": "2026-08-03T09:58:42Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "evalstate/fast-agent",
     "stars": 3877,
-    "updated_at": "2026-08-03T09:33:16Z",
+    "updated_at": "2026-08-03T10:28:08Z",
     "url": "https://github.com/evalstate/fast-agent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T08:16:06Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
-    "id": "clawboo/clawboo",
-    "language": "TypeScript",
-    "name": "clawboo/clawboo",
-    "stars": 57,
-    "updated_at": "2026-08-03T08:56:39Z",
-    "url": "https://github.com/clawboo/clawboo"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6776,
-    "updated_at": "2026-08-03T08:01:23Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Trust and verification for the skills your AI agent installs.",
-    "id": "alexverify/eyebrow",
-    "language": "Go",
-    "name": "alexverify/eyebrow",
-    "stars": 7,
-    "updated_at": "2026-08-03T08:01:00Z",
-    "url": "https://github.com/alexverify/eyebrow"
-  },
-  {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 10,
-    "updated_at": "2026-08-03T10:14:38Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Go-based AI Agent microservice platform with multi-agent orchestration, RAG retrieval, persistent memory, MCP tool integ",
-    "id": "atliliw/agent-platform",
-    "language": "Go",
-    "name": "atliliw/agent-platform",
-    "stars": 1,
-    "updated_at": "2026-08-03T07:48:54Z",
-    "url": "https://github.com/atliliw/agent-platform"
   }
 ]
