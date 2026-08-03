@@ -1,5 +1,59 @@
 [
   {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-03T19:42:48Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
+    "id": "clawboo/clawboo",
+    "language": "TypeScript",
+    "name": "clawboo/clawboo",
+    "stars": 57,
+    "updated_at": "2026-08-03T19:37:25Z",
+    "url": "https://github.com/clawboo/clawboo"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 49,
+    "updated_at": "2026-08-03T19:32:11Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T19:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 5594,
+    "updated_at": "2026-08-03T19:38:06Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19032,
+    "updated_at": "2026-08-03T19:36:41Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 46,
-    "updated_at": "2026-08-03T19:23:02Z",
+    "updated_at": "2026-08-03T19:30:25Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -54,20 +108,11 @@
     "url": "https://github.com/amitpatole/verel"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 49,
-    "updated_at": "2026-08-03T19:22:01Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8071,
+    "stars": 8072,
     "updated_at": "2026-08-03T19:20:51Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -88,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T19:15:42Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T19:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -121,7 +157,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6778,
+    "stars": 6779,
     "updated_at": "2026-08-03T19:10:33Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "ProtocolWarden/ContextLifecycle",
     "stars": 0,
-    "updated_at": "2026-08-03T19:09:34Z",
+    "updated_at": "2026-08-03T19:40:27Z",
     "url": "https://github.com/ProtocolWarden/ContextLifecycle"
   },
   {
@@ -149,17 +185,8 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 6,
-    "updated_at": "2026-08-03T18:58:53Z",
+    "updated_at": "2026-08-03T19:43:23Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19031,
-    "updated_at": "2026-08-03T19:30:00Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Core engine for the autonomous development factory platform with workflow orchestration",
@@ -176,7 +203,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 1612,
-    "updated_at": "2026-08-03T18:52:06Z",
+    "updated_at": "2026-08-03T19:45:17Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 154,
     "updated_at": "2026-08-03T18:48:03Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 5594,
-    "updated_at": "2026-08-03T18:47:20Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "",
@@ -319,7 +337,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29809,
+    "stars": 29815,
     "updated_at": "2026-08-03T18:29:05Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -387,15 +405,6 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:54:30Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
     "id": "RikyZ90/ShibaClaw",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T17:29:58Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
-  },
-  {
-    "description": "\u5f00\u6e90\u672c\u5730\u4f18\u5148 AI Agent \u6846\u67b6 \u00b7 139 \u5185\u7f6e\u5de5\u5177 / 82 \u8def\u7531 \u00b7 \u6a21\u578b\u81ea\u914d \u00b7 \u6280\u80fd\u81ea\u6269\u5c55",
-    "id": "zhikekj-ui/LUMU",
-    "language": "Python",
-    "name": "zhikekj-ui/LUMU",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:25:03Z",
-    "url": "https://github.com/zhikekj-ui/LUMU"
   }
 ]
