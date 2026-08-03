@@ -1,11 +1,110 @@
 [
   {
+    "description": "Go-based AI Agent microservice platform with multi-agent orchestration, RAG retrieval, persistent memory, MCP tool integ",
+    "id": "atliliw/agent-platform",
+    "language": "Go",
+    "name": "atliliw/agent-platform",
+    "stars": 1,
+    "updated_at": "2026-08-03T07:43:07Z",
+    "url": "https://github.com/atliliw/agent-platform"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46540,
+    "updated_at": "2026-08-03T07:44:57Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 29412,
+    "updated_at": "2026-08-03T07:41:34Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83e\udd16 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 \u2014 the year agents went mainstream",
+    "id": "Zijian-Ni/awesome-ai-agents-2026",
+    "language": "Python",
+    "name": "Zijian-Ni/awesome-ai-agents-2026",
+    "stars": 212,
+    "updated_at": "2026-08-03T07:41:26Z",
+    "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026"
+  },
+  {
+    "description": "A tiny, framework-agnostic tool registry for LLM agents: typed tools with zod, JSON Schema for function calling, validat",
+    "id": "marcelogdomingues/agent-toolbelt",
+    "language": "TypeScript",
+    "name": "marcelogdomingues/agent-toolbelt",
+    "stars": 0,
+    "updated_at": "2026-08-03T07:38:18Z",
+    "url": "https://github.com/marcelogdomingues/agent-toolbelt"
+  },
+  {
+    "description": " Workflow-first multi-agent orchestration for Ruby, built on RubyLLM.",
+    "id": "samuelralak/smith",
+    "language": "Ruby",
+    "name": "samuelralak/smith",
+    "stars": 2,
+    "updated_at": "2026-08-03T07:37:49Z",
+    "url": "https://github.com/samuelralak/smith"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-03T07:36:39Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-08-03T07:35:25Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "The zero-trust framework for autonomous AI agents.",
+    "id": "calebfaruki/sycophant",
+    "language": "Rust",
+    "name": "calebfaruki/sycophant",
+    "stars": 6,
+    "updated_at": "2026-08-03T07:35:04Z",
+    "url": "https://github.com/calebfaruki/sycophant"
+  },
+  {
+    "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
+    "id": "atliliw/langchainrust",
+    "language": "Rust",
+    "name": "atliliw/langchainrust",
+    "stars": 12,
+    "updated_at": "2026-08-03T07:31:14Z",
+    "url": "https://github.com/atliliw/langchainrust"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T07:31:03Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
     "id": "bbvch-ai/aihub-core",
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 9,
-    "updated_at": "2026-08-03T07:30:24Z",
+    "updated_at": "2026-08-03T07:31:01Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -16,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T07:30:23Z",
     "url": "https://github.com/matakeda1/foundry-canvas-multiagent-handson"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29393,
-    "updated_at": "2026-08-03T07:28:44Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26094,
-    "updated_at": "2026-08-03T07:26:01Z",
+    "updated_at": "2026-08-03T07:40:21Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -76,7 +166,7 @@
     "id": "xyaz1313/phoenix",
     "language": "Python",
     "name": "xyaz1313/phoenix",
-    "stars": 68,
+    "stars": 69,
     "updated_at": "2026-08-03T07:17:13Z",
     "url": "https://github.com/xyaz1313/phoenix"
   },
@@ -86,26 +176,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8056,
-    "updated_at": "2026-08-03T07:26:06Z",
+    "updated_at": "2026-08-03T07:45:26Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T07:15:50Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-03T07:27:51Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible;",
@@ -185,7 +257,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 112,
-    "updated_at": "2026-08-03T06:49:50Z",
+    "updated_at": "2026-08-03T07:43:06Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -274,7 +346,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4847,
+    "stars": 4848,
     "updated_at": "2026-08-03T06:19:32Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -320,7 +392,7 @@
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
     "stars": 4856,
-    "updated_at": "2026-08-03T06:08:05Z",
+    "updated_at": "2026-08-03T07:42:59Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
@@ -331,15 +403,6 @@
     "stars": 57,
     "updated_at": "2026-08-03T07:30:32Z",
     "url": "https://github.com/clawboo/clawboo"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46539,
-    "updated_at": "2026-08-03T06:06:48Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T05:50:14Z",
     "url": "https://github.com/nohn3043-arch/Anthropomorphic-Agent-Engine"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-08-03T05:49:30Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 469,
-    "updated_at": "2026-08-03T05:48:13Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
-    "id": "qbtrix/ripple-iui",
-    "language": "Svelte",
-    "name": "qbtrix/ripple-iui",
-    "stars": 4,
-    "updated_at": "2026-08-03T06:44:59Z",
-    "url": "https://github.com/qbtrix/ripple-iui"
-  },
-  {
-    "description": "Existential Identity Test Engine \u2014 EITE Agent Framework",
-    "id": "zizetu/existential-identity-test-engine",
-    "language": "Python",
-    "name": "zizetu/existential-identity-test-engine",
-    "stars": 1,
-    "updated_at": "2026-08-03T05:47:44Z",
-    "url": "https://github.com/zizetu/existential-identity-test-engine"
-  },
-  {
-    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
-    "id": "substructureai/substructure",
-    "language": "Rust",
-    "name": "substructureai/substructure",
-    "stars": 5,
-    "updated_at": "2026-08-03T05:47:14Z",
-    "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
-    "id": "atliliw/langchainrust",
-    "language": "Rust",
-    "name": "atliliw/langchainrust",
-    "stars": 12,
-    "updated_at": "2026-08-03T07:30:28Z",
-    "url": "https://github.com/atliliw/langchainrust"
-  },
-  {
-    "description": "22-agent Mixture-of-Agents pipeline with LongLoop for 24h autonomous iteration: smart routing sends easy tasks to Flash,",
-    "id": "ZenHG/opencode-moa",
-    "language": "PowerShell",
-    "name": "ZenHG/opencode-moa",
-    "stars": 3,
-    "updated_at": "2026-08-03T05:40:30Z",
-    "url": "https://github.com/ZenHG/opencode-moa"
   }
 ]
