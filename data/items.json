@@ -1,12 +1,48 @@
 [
   {
-    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
-    "id": "BrainoutputHQ/brainoutput-community",
-    "language": "JavaScript",
-    "name": "BrainoutputHQ/brainoutput-community",
-    "stars": 0,
-    "updated_at": "2026-08-03T23:14:48Z",
-    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 287,
+    "updated_at": "2026-08-03T23:29:56Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 49,
+    "updated_at": "2026-08-03T23:29:06Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Multi-agent orchestration CLI for Claude Code \u2014 declarative TOML workflows, autonomous agents, context-compression recov",
+    "id": "stempeck/agentfactory",
+    "language": "Go",
+    "name": "stempeck/agentfactory",
+    "stars": 4,
+    "updated_at": "2026-08-03T23:28:50Z",
+    "url": "https://github.com/stempeck/agentfactory"
+  },
+  {
+    "description": "USB - Universal Skill Bridge: one portable skill format, installed into 16 agent runtimes with sha256-verified installer",
+    "id": "PeepSick/usb",
+    "language": "TypeScript",
+    "name": "PeepSick/usb",
+    "stars": 2,
+    "updated_at": "2026-08-03T23:28:46Z",
+    "url": "https://github.com/PeepSick/usb"
+  },
+  {
+    "description": "Shell: offline-first AI OS controller for Windows. Voice-controlled desktop automation - 468 tools, 37 agents, audit log",
+    "id": "mdshoebkhanking/shell-ai-os-controller",
+    "language": "Python",
+    "name": "mdshoebkhanking/shell-ai-os-controller",
+    "stars": 4,
+    "updated_at": "2026-08-03T23:26:07Z",
+    "url": "https://github.com/mdshoebkhanking/shell-ai-os-controller"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -14,8 +50,53 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-03T23:14:44Z",
+    "updated_at": "2026-08-03T23:21:50Z",
     "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 5,
+    "updated_at": "2026-08-03T23:19:16Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-08-03T23:18:34Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 2,
+    "updated_at": "2026-08-03T23:15:53Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T23:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
+    "id": "BrainoutputHQ/brainoutput-community",
+    "language": "JavaScript",
+    "name": "BrainoutputHQ/brainoutput-community",
+    "stars": 0,
+    "updated_at": "2026-08-03T23:14:48Z",
+    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
   },
   {
     "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
@@ -54,22 +135,22 @@
     "url": "https://github.com/codewandler/flux"
   },
   {
+    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
+    "id": "danmo-ai/danmo-work",
+    "language": "Go",
+    "name": "danmo-ai/danmo-work",
+    "stars": 3,
+    "updated_at": "2026-08-03T23:10:46Z",
+    "url": "https://github.com/danmo-ai/danmo-work"
+  },
+  {
     "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
     "id": "Jovancoding/Network-AI",
     "language": "TypeScript",
     "name": "Jovancoding/Network-AI",
-    "stars": 69,
+    "stars": 70,
     "updated_at": "2026-08-03T23:08:44Z",
     "url": "https://github.com/Jovancoding/Network-AI"
-  },
-  {
-    "description": "USB - Universal Skill Bridge: one portable skill format, installed into 16 agent runtimes with sha256-verified installer",
-    "id": "PeepSick/usb",
-    "language": "TypeScript",
-    "name": "PeepSick/usb",
-    "stars": 1,
-    "updated_at": "2026-08-03T23:08:32Z",
-    "url": "https://github.com/PeepSick/usb"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -88,15 +169,6 @@
     "stars": 10,
     "updated_at": "2026-08-03T23:07:36Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
-    "id": "danmo-ai/danmo-work",
-    "language": "Go",
-    "name": "danmo-ai/danmo-work",
-    "stars": 2,
-    "updated_at": "2026-08-03T23:10:46Z",
-    "url": "https://github.com/danmo-ai/danmo-work"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -124,15 +196,6 @@
     "stars": 17,
     "updated_at": "2026-08-03T23:01:00Z",
     "url": "https://github.com/firatcand/roster"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T23:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -189,15 +252,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-08-03T23:08:17Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
     "id": "xuiltul/animaworks",
     "language": "Python",
@@ -239,7 +293,7 @@
     "language": "TypeScript",
     "name": "blakebauman/felix",
     "stars": 0,
-    "updated_at": "2026-08-03T22:30:36Z",
+    "updated_at": "2026-08-03T23:15:43Z",
     "url": "https://github.com/blakebauman/felix"
   },
   {
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19036,
-    "updated_at": "2026-08-03T23:09:38Z",
+    "updated_at": "2026-08-03T23:28:36Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -268,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T22:29:17Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Multi-agent orchestration CLI for Claude Code \u2014 declarative TOML workflows, autonomous agents, context-compression recov",
-    "id": "stempeck/agentfactory",
-    "language": "Go",
-    "name": "stempeck/agentfactory",
-    "stars": 3,
-    "updated_at": "2026-08-03T22:27:59Z",
-    "url": "https://github.com/stempeck/agentfactory"
   },
   {
     "description": "Deploy intelligence. Open-source infrastructure for AI agents in production.",
@@ -403,50 +448,5 @@
     "stars": 3880,
     "updated_at": "2026-08-03T22:47:00Z",
     "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Multi-agent orchestration framework \u2014 design AI teams in YAML, route tasks to cheap or expensive models by role",
-    "id": "ErfanMomeniii/openswarm",
-    "language": "Python",
-    "name": "ErfanMomeniii/openswarm",
-    "stars": 2,
-    "updated_at": "2026-08-03T21:38:15Z",
-    "url": "https://github.com/ErfanMomeniii/openswarm"
-  },
-  {
-    "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
-    "id": "amilworks/ultra",
-    "language": "Python",
-    "name": "amilworks/ultra",
-    "stars": 6,
-    "updated_at": "2026-08-03T21:35:10Z",
-    "url": "https://github.com/amilworks/ultra"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 49,
-    "updated_at": "2026-08-03T21:30:48Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 27,
-    "updated_at": "2026-08-03T21:24:43Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "The AI automation platform, self-hosted. Describe the job in chat and LiveContext builds it: readable workflows, scoped ",
-    "id": "livecontext-ai/livecontext-ce",
-    "language": "Java",
-    "name": "livecontext-ai/livecontext-ce",
-    "stars": 178,
-    "updated_at": "2026-08-03T21:23:12Z",
-    "url": "https://github.com/livecontext-ai/livecontext-ce"
   }
 ]
