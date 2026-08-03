@@ -1,12 +1,12 @@
 [
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
     "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12573,
-    "updated_at": "2026-08-03T20:58:49Z",
-    "url": "https://github.com/microsoft/agent-framework"
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-08-03T21:13:53Z",
+    "url": "https://github.com/MariusYvard/corparius"
   },
   {
     "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
@@ -14,8 +14,116 @@
     "language": "TypeScript",
     "name": "Ash20pk/BerthOS",
     "stars": 0,
-    "updated_at": "2026-08-03T20:56:23Z",
+    "updated_at": "2026-08-03T21:13:35Z",
     "url": "https://github.com/Ash20pk/BerthOS"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6779,
+    "updated_at": "2026-08-03T21:10:38Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
+    "id": "BrainoutputHQ/brainoutput-community",
+    "language": "JavaScript",
+    "name": "BrainoutputHQ/brainoutput-community",
+    "stars": 0,
+    "updated_at": "2026-08-03T21:10:23Z",
+    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 10,
+    "updated_at": "2026-08-03T21:10:55Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-03T21:07:48Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Governed agent marketplace. Bounty board where AI agents form teams, fill slots, and earn revenue under MO\u00a7ES\u2122 governanc",
+    "id": "SunrisesIllNeverSee/agent-universe",
+    "language": "HTML",
+    "name": "SunrisesIllNeverSee/agent-universe",
+    "stars": 1,
+    "updated_at": "2026-08-03T21:07:32Z",
+    "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 6,
+    "updated_at": "2026-08-03T21:07:01Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-08-03T21:03:50Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Multi-agent orchestration framework \u2014 design AI teams in YAML, route tasks to cheap or expensive models by role",
+    "id": "ErfanMomeniii/openswarm",
+    "language": "Python",
+    "name": "ErfanMomeniii/openswarm",
+    "stars": 2,
+    "updated_at": "2026-08-03T21:02:13Z",
+    "url": "https://github.com/ErfanMomeniii/openswarm"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 26,
+    "updated_at": "2026-08-03T21:01:31Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-03T21:00:56Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12574,
+    "updated_at": "2026-08-03T21:00:55Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T21:00:36Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Generic configurable cognition lifecycle runtime for bounded, resumable agent sessions",
@@ -23,7 +131,7 @@
     "language": "Python",
     "name": "ProtocolWarden/ContextLifecycle",
     "stars": 0,
-    "updated_at": "2026-08-03T20:55:50Z",
+    "updated_at": "2026-08-03T21:07:08Z",
     "url": "https://github.com/ProtocolWarden/ContextLifecycle"
   },
   {
@@ -41,17 +149,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8073,
-    "updated_at": "2026-08-03T20:58:45Z",
+    "updated_at": "2026-08-03T21:12:27Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 26,
-    "updated_at": "2026-08-03T20:59:04Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -81,31 +180,13 @@
     "url": "https://github.com/JaneHax/JanexAgent"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6779,
-    "updated_at": "2026-08-03T20:49:34Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-03T20:58:55Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
+    "description": "USB - Universal Skill Bridge: one portable skill format, installed into 16 agent runtimes with sha256-verified installer",
+    "id": "PeepSick/usb",
+    "language": "TypeScript",
+    "name": "PeepSick/usb",
     "stars": 1,
-    "updated_at": "2026-08-03T20:45:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "updated_at": "2026-08-03T20:47:38Z",
+    "url": "https://github.com/PeepSick/usb"
   },
   {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
@@ -113,17 +194,8 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 0,
-    "updated_at": "2026-08-03T20:44:49Z",
+    "updated_at": "2026-08-03T21:15:11Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-08-03T20:41:29Z",
-    "url": "https://github.com/MariusYvard/corparius"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -131,7 +203,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 5593,
-    "updated_at": "2026-08-03T20:54:52Z",
+    "updated_at": "2026-08-03T21:06:28Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -142,15 +214,6 @@
     "stars": 47,
     "updated_at": "2026-08-03T20:58:50Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
-    "id": "BrainoutputHQ/brainoutput-community",
-    "language": "JavaScript",
-    "name": "BrainoutputHQ/brainoutput-community",
-    "stars": 0,
-    "updated_at": "2026-08-03T20:34:48Z",
-    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
   },
   {
     "description": "Core engine for the autonomous development factory platform with workflow orchestration",
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19032,
-    "updated_at": "2026-08-03T20:55:26Z",
+    "updated_at": "2026-08-03T21:02:31Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -247,7 +310,7 @@
     "id": "evalstate/fast-agent",
     "language": "Python",
     "name": "evalstate/fast-agent",
-    "stars": 3878,
+    "stars": 3879,
     "updated_at": "2026-08-03T20:09:40Z",
     "url": "https://github.com/evalstate/fast-agent"
   },
@@ -288,24 +351,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-08-03T19:54:41Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-03T19:42:48Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
     "id": "clawboo/clawboo",
     "language": "TypeScript",
@@ -313,15 +358,6 @@
     "stars": 57,
     "updated_at": "2026-08-03T20:02:15Z",
     "url": "https://github.com/clawboo/clawboo"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-03T19:28:36Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
     "description": "The agentic runtime to build production-grade AI agents at scale.",
@@ -365,7 +401,7 @@
     "language": "JavaScript",
     "name": "sauravbhattacharya001/agentlens",
     "stars": 3,
-    "updated_at": "2026-08-03T19:03:41Z",
+    "updated_at": "2026-08-03T21:14:50Z",
     "url": "https://github.com/sauravbhattacharya001/agentlens"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-03T18:39:15Z",
     "url": "https://github.com/zpb911km/fp-agent"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4830,
-    "updated_at": "2026-08-03T19:22:30Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-08-03T18:35:47Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
-    "id": "loopedautomation/meet",
-    "language": "TypeScript",
-    "name": "loopedautomation/meet",
-    "stars": 6,
-    "updated_at": "2026-08-03T18:33:09Z",
-    "url": "https://github.com/loopedautomation/meet"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-08-03T18:29:23Z",
-    "url": "https://github.com/dsswift/ion"
   }
 ]
