@@ -1,21 +1,75 @@
 [
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29500,
-    "updated_at": "2026-08-03T09:44:36Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-03T09:59:21Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 113,
+    "updated_at": "2026-08-03T09:58:04Z",
+    "url": "https://github.com/KbWen/agentic-os"
   },
   {
     "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 798,
-    "updated_at": "2026-08-03T09:44:20Z",
+    "stars": 799,
+    "updated_at": "2026-08-03T09:57:22Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Lightweight AI coding agent \u2014 Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp",
+    "id": "fierceX/mink",
+    "language": "Rust",
+    "name": "fierceX/mink",
+    "stars": 0,
+    "updated_at": "2026-08-03T09:54:34Z",
+    "url": "https://github.com/fierceX/mink"
+  },
+  {
+    "description": "Loop + Wiki agent framework \u2014 the wiki is the agent's mind. Identity, memory & capabilities live in plain markdown, load",
+    "id": "hanyo-ai/taus",
+    "language": "Python",
+    "name": "hanyo-ai/taus",
+    "stars": 1,
+    "updated_at": "2026-08-03T09:53:48Z",
+    "url": "https://github.com/hanyo-ai/taus"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46549,
+    "updated_at": "2026-08-03T09:53:34Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 29511,
+    "updated_at": "2026-08-03T09:50:00Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T09:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\u4e0d\u6b7b\u9e1f Phoenix \u2014 Hermes Agent \u63d2\u4ef6\uff1a\u8def\u7531\u5206\u6863/\u98ce\u9669\u9632\u7ebf/\u81ea\u6108/\u5b58\u6863\u70b9\u63d0\u9192/\u5ba1\u6279\u7b56\u7565\u81ea\u9002\u5e94\uff0c\u5b98\u65b9\u94a9\u5b50\u63a5\u5165\uff0c\u4e0d\u6539 Hermes \u6838\u5fc3\u4ee3\u7801",
@@ -34,15 +88,6 @@
     "stars": 74,
     "updated_at": "2026-08-03T09:43:24Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-03T09:45:04Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
@@ -99,22 +144,22 @@
     "url": "https://github.com/edwardtay/awesome-web3-ai"
   },
   {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26096,
+    "updated_at": "2026-08-03T09:56:47Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
     "id": "codewandler/flux",
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 0,
-    "updated_at": "2026-08-03T09:33:49Z",
+    "updated_at": "2026-08-03T09:56:44Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T09:31:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "22-agent Mixture-of-Agents pipeline with LongLoop for 24h autonomous iteration: smart routing sends easy tasks to Flash,",
@@ -166,8 +211,8 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4851,
-    "updated_at": "2026-08-03T09:20:54Z",
+    "stars": 4852,
+    "updated_at": "2026-08-03T09:59:07Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -216,15 +261,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46547,
-    "updated_at": "2026-08-03T08:57:11Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -252,21 +288,12 @@
     "url": "https://github.com/go-kratos/blades"
   },
   {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 112,
-    "updated_at": "2026-08-03T09:39:40Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8057,
-    "updated_at": "2026-08-03T09:40:53Z",
+    "updated_at": "2026-08-03T09:58:42Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -322,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T08:31:49Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26095,
-    "updated_at": "2026-08-03T09:38:08Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T07:38:18Z",
     "url": "https://github.com/marcelogdomingues/agent-toolbelt"
-  },
-  {
-    "description": " Workflow-first multi-agent orchestration for Ruby, built on RubyLLM.",
-    "id": "samuelralak/smith",
-    "language": "Ruby",
-    "name": "samuelralak/smith",
-    "stars": 2,
-    "updated_at": "2026-08-03T07:37:49Z",
-    "url": "https://github.com/samuelralak/smith"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-03T07:36:39Z",
-    "url": "https://github.com/GEMISIS/leviath"
   }
 ]
