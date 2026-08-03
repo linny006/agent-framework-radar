@@ -1,12 +1,102 @@
 [
   {
+    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
+    "id": "Ash20pk/BerthOS",
+    "language": "TypeScript",
+    "name": "Ash20pk/BerthOS",
+    "stars": 0,
+    "updated_at": "2026-08-03T04:56:58Z",
+    "url": "https://github.com/Ash20pk/BerthOS"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 374,
+    "updated_at": "2026-08-03T04:56:38Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
+    "id": "devpilgrin/berimor",
+    "language": "Rust",
+    "name": "devpilgrin/berimor",
+    "stars": 0,
+    "updated_at": "2026-08-03T04:56:14Z",
+    "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8052,
+    "updated_at": "2026-08-03T04:58:35Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 49,
+    "updated_at": "2026-08-03T04:55:34Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
+    "id": "clawboo/clawboo",
+    "language": "TypeScript",
+    "name": "clawboo/clawboo",
+    "stars": 57,
+    "updated_at": "2026-08-03T04:56:16Z",
+    "url": "https://github.com/clawboo/clawboo"
+  },
+  {
+    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
+    "id": "danmo-ai/danmo-work",
+    "language": "Go",
+    "name": "danmo-ai/danmo-work",
+    "stars": 2,
+    "updated_at": "2026-08-03T04:53:58Z",
+    "url": "https://github.com/danmo-ai/danmo-work"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29263,
-    "updated_at": "2026-08-03T04:46:58Z",
+    "stars": 29274,
+    "updated_at": "2026-08-03T04:52:43Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-03T04:50:31Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
+    "id": "iduyuhe/zhiyan-evolviq",
+    "language": "Python",
+    "name": "iduyuhe/zhiyan-evolviq",
+    "stars": 4,
+    "updated_at": "2026-08-03T04:48:57Z",
+    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T04:47:14Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
@@ -16,24 +106,6 @@
     "stars": 85,
     "updated_at": "2026-08-03T04:46:37Z",
     "url": "https://github.com/streamcoreai/streamcore-server"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T04:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8052,
-    "updated_at": "2026-08-03T04:46:18Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "VibeSkills is a general-purpose Skill that automatically routes local Skills and intelligently orchestrates harness work",
@@ -72,42 +144,6 @@
     "url": "https://github.com/amajorai/ryu"
   },
   {
-    "description": "Open-source AI Work Agent \u2014 coding-agent-grade loop for long-horizon work: code, docs, slides, sheets, MCP & IM on one t",
-    "id": "danmo-ai/danmo-work",
-    "language": "Go",
-    "name": "danmo-ai/danmo-work",
-    "stars": 2,
-    "updated_at": "2026-08-03T04:42:37Z",
-    "url": "https://github.com/danmo-ai/danmo-work"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 49,
-    "updated_at": "2026-08-03T04:42:10Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
-    "id": "iduyuhe/zhiyan-evolviq",
-    "language": "Python",
-    "name": "iduyuhe/zhiyan-evolviq",
-    "stars": 4,
-    "updated_at": "2026-08-03T04:39:33Z",
-    "url": "https://github.com/iduyuhe/zhiyan-evolviq"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 374,
-    "updated_at": "2026-08-03T04:39:28Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "\u5f00\u6e90\u672c\u5730\u4f18\u5148 AI Agent \u6846\u67b6 \u00b7 139 \u5185\u7f6e\u5de5\u5177 / 82 \u8def\u7531 \u00b7 \u6a21\u578b\u81ea\u914d \u00b7 \u6280\u80fd\u81ea\u6269\u5c55",
     "id": "zhikekj-ui/LUMU",
     "language": "Python",
@@ -122,7 +158,7 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1631,
-    "updated_at": "2026-08-03T04:38:43Z",
+    "updated_at": "2026-08-03T04:52:06Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Rust",
     "name": "Wh1isper/starweaver",
     "stars": 6,
-    "updated_at": "2026-08-03T04:36:47Z",
+    "updated_at": "2026-08-03T04:54:22Z",
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
@@ -216,21 +252,12 @@
     "url": "https://github.com/BrainoutputHQ/brainoutput-community"
   },
   {
-    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
-    "id": "Ash20pk/BerthOS",
-    "language": "TypeScript",
-    "name": "Ash20pk/BerthOS",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:06:13Z",
-    "url": "https://github.com/Ash20pk/BerthOS"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-08-03T04:02:05Z",
+    "updated_at": "2026-08-03T04:57:22Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -268,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T03:56:34Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
-    "id": "devpilgrin/berimor",
-    "language": "Rust",
-    "name": "devpilgrin/berimor",
-    "stars": 0,
-    "updated_at": "2026-08-03T03:54:59Z",
-    "url": "https://github.com/devpilgrin/berimor"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 9,
-    "updated_at": "2026-08-03T04:15:06Z",
+    "updated_at": "2026-08-03T04:52:51Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T02:55:23Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
-    "id": "saajunaid/caddis-plugin",
-    "language": "Python",
-    "name": "saajunaid/caddis-plugin",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:49:40Z",
-    "url": "https://github.com/saajunaid/caddis-plugin"
-  },
-  {
-    "description": "Local-first Python toolkit for parallel Claude and LLM agent orchestration: consensus voting, stigmergy, boss-worker swa",
-    "id": "ellmos-ai/swarm-ai",
-    "language": "Python",
-    "name": "ellmos-ai/swarm-ai",
-    "stars": 2,
-    "updated_at": "2026-08-03T02:49:17Z",
-    "url": "https://github.com/ellmos-ai/swarm-ai"
   }
 ]
