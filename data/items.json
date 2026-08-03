@@ -1,12 +1,75 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 29465,
+    "updated_at": "2026-08-03T08:59:11Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-03T08:57:30Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-03T08:57:20Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46545,
-    "updated_at": "2026-08-03T08:43:01Z",
+    "stars": 46546,
+    "updated_at": "2026-08-03T08:57:11Z",
     "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 8,
+    "updated_at": "2026-08-03T08:55:01Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 112,
+    "updated_at": "2026-08-03T08:52:10Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8057,
+    "updated_at": "2026-08-03T08:59:57Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-03T08:45:37Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -31,18 +94,9 @@
     "id": "amilworks/ultra",
     "language": "TypeScript",
     "name": "amilworks/ultra",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-08-03T08:40:19Z",
     "url": "https://github.com/amilworks/ultra"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29456,
-    "updated_at": "2026-08-03T08:39:59Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "AI agent with zero dependencies, bring your own bun",
@@ -99,13 +153,13 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-03T08:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "deepset-ai/haystack",
+    "stars": 26095,
+    "updated_at": "2026-08-03T08:27:53Z",
+    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
@@ -126,15 +180,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8057,
-    "updated_at": "2026-08-03T08:44:00Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -149,17 +194,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-03T08:19:41Z",
+    "updated_at": "2026-08-03T09:00:32Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 8,
-    "updated_at": "2026-08-03T08:08:18Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
@@ -167,7 +203,7 @@
     "language": "TypeScript",
     "name": "clawboo/clawboo",
     "stars": 57,
-    "updated_at": "2026-08-03T08:43:47Z",
+    "updated_at": "2026-08-03T08:56:39Z",
     "url": "https://github.com/clawboo/clawboo"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 7,
     "updated_at": "2026-08-03T08:01:00Z",
     "url": "https://github.com/alexverify/eyebrow"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26094,
-    "updated_at": "2026-08-03T08:27:53Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
@@ -220,7 +247,7 @@
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 4859,
+    "stars": 4860,
     "updated_at": "2026-08-03T07:42:59Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
@@ -396,15 +423,6 @@
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 112,
-    "updated_at": "2026-08-03T07:43:06Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
     "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u9762\u5411\u5236\u9020\u4e1a\u7684\u5de5\u4e1a AI \u539f\u751f\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u57fa\u5ea7 + 11 \u4e2a\u5de5\u4e1a Agent\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbus/MQTT \u5de5\u4e1a\u534f\u8bae\u7f51\u5173\u4e0e Ne",
     "id": "iduyuhe/zhiyan-evolviq",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T06:37:32Z",
     "url": "https://github.com/H3108/agent-evolution-bootstrap"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-08-03T06:37:04Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12558,
-    "updated_at": "2026-08-03T06:32:48Z",
-    "url": "https://github.com/microsoft/agent-framework"
   }
 ]
