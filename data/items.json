@@ -1,12 +1,75 @@
 [
   {
+    "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+    "id": "kirodotdev/KiroCrew",
+    "language": "Python",
+    "name": "kirodotdev/KiroCrew",
+    "stars": 163,
+    "updated_at": "2026-08-04T18:23:34Z",
+    "url": "https://github.com/kirodotdev/KiroCrew"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-04T18:20:54Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-04T18:20:41Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-04T18:19:47Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1285,
-    "updated_at": "2026-08-04T18:15:18Z",
+    "updated_at": "2026-08-04T18:16:47Z",
     "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T18:15:34Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-08-04T18:14:56Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-04T18:14:09Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -22,7 +85,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30685,
+    "stars": 30687,
     "updated_at": "2026-08-04T18:09:31Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -40,8 +103,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8101,
-    "updated_at": "2026-08-04T18:06:27Z",
+    "stars": 8102,
+    "updated_at": "2026-08-04T18:19:11Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "clawboo/clawboo",
     "stars": 57,
-    "updated_at": "2026-08-04T18:06:11Z",
+    "updated_at": "2026-08-04T18:17:55Z",
     "url": "https://github.com/clawboo/clawboo"
   },
   {
@@ -59,7 +122,7 @@
     "language": "Go",
     "name": "agenvoy/Agenvoy",
     "stars": 367,
-    "updated_at": "2026-08-04T18:03:26Z",
+    "updated_at": "2026-08-04T18:18:39Z",
     "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 13,
     "updated_at": "2026-08-04T18:02:43Z",
     "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T18:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
@@ -122,7 +176,7 @@
     "language": "TypeScript",
     "name": "kyashrathore/Claxedo",
     "stars": 2,
-    "updated_at": "2026-08-04T17:50:51Z",
+    "updated_at": "2026-08-04T18:23:43Z",
     "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
@@ -270,15 +324,6 @@
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-04T18:08:19Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
     "id": "speleoalex/myagent",
     "language": "Python",
@@ -301,7 +346,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6789,
+    "stars": 6790,
     "updated_at": "2026-08-04T17:08:11Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -369,15 +414,6 @@
     "url": "https://github.com/hara-cli/hara"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-04T18:14:09Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
     "id": "atliliw/langchainrust",
     "language": "Rust",
@@ -392,7 +428,7 @@
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 106,
-    "updated_at": "2026-08-04T18:11:20Z",
+    "updated_at": "2026-08-04T18:22:56Z",
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-04T16:33:36Z",
     "url": "https://github.com/KrakenNet/stargraph"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-08-04T18:14:56Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 5,
-    "updated_at": "2026-08-04T16:30:04Z",
-    "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "The agent that grows with you 330+ SKILLS",
-    "id": "JaneHax/JanexAgent",
-    "language": "TypeScript",
-    "name": "JaneHax/JanexAgent",
-    "stars": 1,
-    "updated_at": "2026-08-04T16:28:16Z",
-    "url": "https://github.com/JaneHax/JanexAgent"
-  },
-  {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 2,
-    "updated_at": "2026-08-04T16:22:00Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   }
 ]
