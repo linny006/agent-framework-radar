@@ -1,21 +1,21 @@
 [
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
     "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 50,
-    "updated_at": "2026-08-04T03:44:13Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
+    "name": "rekursiv-ai/sagent",
+    "stars": 27,
+    "updated_at": "2026-08-04T03:54:21Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 386,
-    "updated_at": "2026-08-04T03:43:46Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 30112,
+    "updated_at": "2026-08-04T03:50:08Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -23,8 +23,71 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2226,
-    "updated_at": "2026-08-04T03:42:45Z",
+    "updated_at": "2026-08-04T03:50:01Z",
     "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 50,
+    "updated_at": "2026-08-04T03:49:24Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46589,
+    "updated_at": "2026-08-04T03:48:44Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "The agentic runtime to build production-grade AI agents at scale.",
+    "id": "Kortecx/kortecx",
+    "language": "Rust",
+    "name": "Kortecx/kortecx",
+    "stars": 6,
+    "updated_at": "2026-08-04T03:48:36Z",
+    "url": "https://github.com/Kortecx/kortecx"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-04T03:48:32Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
+    "id": "jiayan-xu/agent-core",
+    "language": "Rust",
+    "name": "jiayan-xu/agent-core",
+    "stars": 2,
+    "updated_at": "2026-08-04T03:48:24Z",
+    "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T03:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 387,
+    "updated_at": "2026-08-04T03:43:46Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
@@ -32,17 +95,8 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 1,
-    "updated_at": "2026-08-04T03:42:02Z",
+    "updated_at": "2026-08-04T03:56:14Z",
     "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30093,
-    "updated_at": "2026-08-04T03:40:47Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
@@ -76,18 +130,9 @@
     "id": "666ghj/BettaFish",
     "language": "Python",
     "name": "666ghj/BettaFish",
-    "stars": 41932,
+    "stars": 41930,
     "updated_at": "2026-08-04T03:31:25Z",
     "url": "https://github.com/666ghj/BettaFish"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T03:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
@@ -108,15 +153,6 @@
     "url": "https://github.com/iflytek/skillhub"
   },
   {
-    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
-    "id": "jiayan-xu/agent-core",
-    "language": "Rust",
-    "name": "jiayan-xu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-08-04T03:17:32Z",
-    "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
     "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
     "id": "substructureai/substructure",
     "language": "Rust",
@@ -126,21 +162,12 @@
     "url": "https://github.com/substructureai/substructure"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 27,
-    "updated_at": "2026-08-04T03:08:09Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19044,
-    "updated_at": "2026-08-04T03:41:25Z",
+    "updated_at": "2026-08-04T03:57:58Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -162,21 +189,12 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46588,
-    "updated_at": "2026-08-04T03:40:00Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-04T02:49:54Z",
+    "updated_at": "2026-08-04T03:56:06Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -315,15 +333,6 @@
     "url": "https://github.com/api-evangelist/open-souls"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-04T01:19:02Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
     "id": "cristofima/maf-graphrag-series",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T00:28:41Z",
     "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-04T00:22:58Z",
-    "url": "https://github.com/tya5/reyn"
   }
 ]
