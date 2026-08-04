@@ -1,5 +1,113 @@
 [
   {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-04T11:43:38Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 30462,
+    "updated_at": "2026-08-04T11:44:49Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
+    "id": "achappey/aihappey-agents",
+    "language": "C#",
+    "name": "achappey/aihappey-agents",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:42:12Z",
+    "url": "https://github.com/achappey/aihappey-agents"
+  },
+  {
+    "description": "Business-agnostic conversational agent framework: define your API + natural-language descriptions, get a chat agent. Orc",
+    "id": "Cogria-AI/CogriaAgent",
+    "language": "Python",
+    "name": "Cogria-AI/CogriaAgent",
+    "stars": 1,
+    "updated_at": "2026-08-04T11:40:15Z",
+    "url": "https://github.com/Cogria-AI/CogriaAgent"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8084,
+    "updated_at": "2026-08-04T11:38:16Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3880,
+    "updated_at": "2026-08-04T11:37:13Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 390,
+    "updated_at": "2026-08-04T11:36:00Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:34:57Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19052,
+    "updated_at": "2026-08-04T11:33:26Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-04T11:32:50Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
+    "id": "Ash20pk/BerthOS",
+    "language": "TypeScript",
+    "name": "Ash20pk/BerthOS",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:32:46Z",
+    "url": "https://github.com/Ash20pk/BerthOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-04T11:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -16,15 +124,6 @@
     "stars": 214,
     "updated_at": "2026-08-04T11:25:55Z",
     "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30450,
-    "updated_at": "2026-08-04T11:25:28Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
@@ -50,7 +149,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1285,
-    "updated_at": "2026-08-04T11:29:48Z",
+    "updated_at": "2026-08-04T11:43:58Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -61,15 +160,6 @@
     "stars": 16,
     "updated_at": "2026-08-04T11:23:12Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:22:18Z",
-    "url": "https://github.com/MariusYvard/corparius"
   },
   {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
@@ -90,15 +180,6 @@
     "url": "https://github.com/ranxi2001/zero2Agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-04T11:15:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -115,33 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T11:12:51Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19052,
-    "updated_at": "2026-08-04T11:26:52Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8083,
-    "updated_at": "2026-08-04T11:16:11Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-04T11:30:16Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -169,15 +223,6 @@
     "stars": 9,
     "updated_at": "2026-08-04T10:49:30Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Business-agnostic conversational agent framework: define your API + natural-language descriptions, get a chat agent. Orc",
-    "id": "Cogria-AI/CogriaAgent",
-    "language": "Python",
-    "name": "Cogria-AI/CogriaAgent",
-    "stars": 1,
-    "updated_at": "2026-08-04T10:47:56Z",
-    "url": "https://github.com/Cogria-AI/CogriaAgent"
   },
   {
     "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
@@ -211,7 +256,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 5602,
+    "stars": 5603,
     "updated_at": "2026-08-04T10:38:42Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26105,
-    "updated_at": "2026-08-04T11:22:29Z",
+    "updated_at": "2026-08-04T11:31:39Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -292,7 +337,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46606,
+    "stars": 46607,
     "updated_at": "2026-08-04T10:24:55Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 1,
-    "updated_at": "2026-08-04T10:48:30Z",
+    "updated_at": "2026-08-04T11:42:21Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 471,
-    "updated_at": "2026-08-04T11:22:42Z",
+    "updated_at": "2026-08-04T11:38:29Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-04T10:51:21Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 39,
-    "updated_at": "2026-08-04T11:23:22Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 9,
-    "updated_at": "2026-08-04T09:20:59Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 390,
-    "updated_at": "2026-08-04T09:16:15Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
-    "id": "Ash20pk/BerthOS",
-    "language": "TypeScript",
-    "name": "Ash20pk/BerthOS",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:30:07Z",
-    "url": "https://github.com/Ash20pk/BerthOS"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-08-04T09:12:07Z",
-    "url": "https://github.com/sytone/botnexus"
   }
 ]
