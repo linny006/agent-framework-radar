@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
+    "id": "tsingxuanhan/NexusFlow",
+    "language": "Python",
+    "name": "tsingxuanhan/NexusFlow",
+    "stars": 0,
+    "updated_at": "2026-08-04T12:43:08Z",
+    "url": "https://github.com/tsingxuanhan/NexusFlow"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 30503,
+    "updated_at": "2026-08-04T12:45:09Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The agent that grows with you 330+ SKILLS",
+    "id": "JaneHax/JanexAgent",
+    "language": "TypeScript",
+    "name": "JaneHax/JanexAgent",
+    "stars": 1,
+    "updated_at": "2026-08-04T12:40:21Z",
+    "url": "https://github.com/JaneHax/JanexAgent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-08-04T12:44:11Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-08-04T12:34:28Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Governed orchestrator for AI agents \u2014 one enforcement chokepoint for budget, RBAC, DLP secret-redaction and audit. Pytho",
+    "id": "gashel01/kernelmcp",
+    "language": "Python",
+    "name": "gashel01/kernelmcp",
+    "stars": 0,
+    "updated_at": "2026-08-04T12:34:20Z",
+    "url": "https://github.com/gashel01/kernelmcp"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-08-04T12:40:11Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-08-04T12:30:39Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 1,
+    "updated_at": "2026-08-04T12:30:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -23,17 +104,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-04T12:28:27Z",
+    "updated_at": "2026-08-04T12:40:39Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 1,
-    "updated_at": "2026-08-04T12:24:03Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Markdown Agent Studio is a workspace where agents develop specialization through their own experience.",
@@ -59,7 +131,7 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 0,
-    "updated_at": "2026-08-04T12:18:51Z",
+    "updated_at": "2026-08-04T12:34:10Z",
     "url": "https://github.com/codewandler/flux"
   },
   {
@@ -70,15 +142,6 @@
     "stars": 19053,
     "updated_at": "2026-08-04T12:18:15Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30496,
-    "updated_at": "2026-08-04T12:17:23Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
@@ -99,6 +162,15 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 4886,
+    "updated_at": "2026-08-04T12:14:50Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
     "id": "aomi-labs/aomi",
     "language": "TypeScript",
@@ -106,24 +178,6 @@
     "stars": 10,
     "updated_at": "2026-08-04T12:14:47Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
-    "id": "tsingxuanhan/NexusFlow",
-    "language": "Python",
-    "name": "tsingxuanhan/NexusFlow",
-    "stars": 0,
-    "updated_at": "2026-08-04T12:13:47Z",
-    "url": "https://github.com/tsingxuanhan/NexusFlow"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 4885,
-    "updated_at": "2026-08-04T12:14:50Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -180,15 +234,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:52:26Z",
-    "url": "https://github.com/MariusYvard/corparius"
-  },
-  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -205,15 +250,6 @@
     "stars": 16,
     "updated_at": "2026-08-04T11:47:08Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-08-04T11:42:21Z",
-    "url": "https://github.com/Birfy/agentdescent"
   },
   {
     "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
@@ -302,7 +338,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1285,
-    "updated_at": "2026-08-04T12:27:53Z",
+    "updated_at": "2026-08-04T12:43:01Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "The agent that grows with you 330+ SKILLS",
-    "id": "JaneHax/JanexAgent",
-    "language": "TypeScript",
-    "name": "JaneHax/JanexAgent",
-    "stars": 1,
-    "updated_at": "2026-08-04T10:36:26Z",
-    "url": "https://github.com/JaneHax/JanexAgent"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 154,
     "updated_at": "2026-08-04T10:36:16Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 154,
-    "updated_at": "2026-08-04T10:33:42Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-04T10:31:19Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-04T10:31:14Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
