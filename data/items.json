@@ -1,11 +1,74 @@
 [
   {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-08-04T01:59:22Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 47,
+    "updated_at": "2026-08-04T01:56:09Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Lightweight AI coding agent \u2014 Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp",
+    "id": "fierceX/mink",
+    "language": "Rust",
+    "name": "fierceX/mink",
+    "stars": 0,
+    "updated_at": "2026-08-04T01:55:33Z",
+    "url": "https://github.com/fierceX/mink"
+  },
+  {
+    "description": "The AI Agent framework for enterprises and agencies",
+    "id": "frogbotai/frogbot",
+    "language": "TypeScript",
+    "name": "frogbotai/frogbot",
+    "stars": 3,
+    "updated_at": "2026-08-04T01:54:58Z",
+    "url": "https://github.com/frogbotai/frogbot"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46585,
+    "updated_at": "2026-08-04T01:54:26Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 383,
+    "updated_at": "2026-08-04T01:54:25Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T01:51:52Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
     "id": "clawboo/clawboo",
     "language": "TypeScript",
     "name": "clawboo/clawboo",
     "stars": 57,
-    "updated_at": "2026-08-04T01:50:44Z",
+    "updated_at": "2026-08-04T01:53:02Z",
     "url": "https://github.com/clawboo/clawboo"
   },
   {
@@ -18,24 +81,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 47,
-    "updated_at": "2026-08-04T01:48:15Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T01:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -43,15 +88,6 @@
     "stars": 19040,
     "updated_at": "2026-08-04T01:50:09Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46583,
-    "updated_at": "2026-08-04T01:36:19Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 1,
-    "updated_at": "2026-08-04T01:31:19Z",
+    "updated_at": "2026-08-04T01:59:09Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 4855,
     "updated_at": "2026-08-04T01:31:06Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "Lightweight AI coding agent \u2014 Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp",
-    "id": "fierceX/mink",
-    "language": "Rust",
-    "name": "fierceX/mink",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:29:47Z",
-    "url": "https://github.com/fierceX/mink"
   },
   {
     "description": "OmniCraft \u2014 meta-harness open-source para todos os seus agentes de IA (pt-BR). Chat \u00b7 Code \u00b7 Craftwork.",
@@ -162,15 +189,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 383,
-    "updated_at": "2026-08-04T01:13:31Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
     "id": "cristofima/maf-graphrag-series",
     "language": "Python",
@@ -180,12 +198,21 @@
     "url": "https://github.com/cristofima/maf-graphrag-series"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8076,
+    "updated_at": "2026-08-04T01:09:31Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
     "id": "ek33450505/claude-agent-team",
     "language": "Shell",
     "name": "ek33450505/claude-agent-team",
     "stars": 8,
-    "updated_at": "2026-08-04T01:09:14Z",
+    "updated_at": "2026-08-04T01:57:23Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
@@ -252,15 +279,6 @@
     "url": "https://github.com/substructureai/substructure"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8076,
-    "updated_at": "2026-08-04T01:09:31Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Universal Agent Harness",
     "id": "human-plus-machine/monkeybot",
     "language": "Python",
@@ -274,7 +292,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29973,
+    "stars": 29981,
     "updated_at": "2026-08-04T00:37:02Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -405,15 +423,6 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:48:14Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
     "id": "kyashrathore/Claxedo",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T00:02:47Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-03T23:57:39Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
