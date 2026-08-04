@@ -4,9 +4,81 @@
     "id": "kirodotdev/KiroCrew",
     "language": "Python",
     "name": "kirodotdev/KiroCrew",
-    "stars": 210,
-    "updated_at": "2026-08-04T18:59:00Z",
+    "stars": 229,
+    "updated_at": "2026-08-04T19:14:49Z",
     "url": "https://github.com/kirodotdev/KiroCrew"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 2,
+    "updated_at": "2026-08-04T19:08:50Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "A proof-of-concept demonstrating how Apache Kafka can serve as a native platform for AI agents \u2014 three real google-adk a",
+    "id": "arabaaoui/kafka-for-agents",
+    "language": "Python",
+    "name": "arabaaoui/kafka-for-agents",
+    "stars": 0,
+    "updated_at": "2026-08-04T19:08:02Z",
+    "url": "https://github.com/arabaaoui/kafka-for-agents"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8106,
+    "updated_at": "2026-08-04T19:07:16Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
+    "id": "agentjido/jidoka",
+    "language": "Elixir",
+    "name": "agentjido/jidoka",
+    "stars": 32,
+    "updated_at": "2026-08-04T19:07:16Z",
+    "url": "https://github.com/agentjido/jidoka"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 3,
+    "updated_at": "2026-08-04T19:04:52Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 8,
+    "updated_at": "2026-08-04T19:03:14Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 593,
+    "updated_at": "2026-08-04T19:02:28Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T19:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The agent that grows with you 330+ SKILLS",
@@ -18,22 +90,22 @@
     "url": "https://github.com/JaneHax/JanexAgent"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8105,
-    "updated_at": "2026-08-04T18:58:49Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 30704,
+    "updated_at": "2026-08-04T18:58:37Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
-    "id": "agentjido/jidoka",
-    "language": "Elixir",
-    "name": "agentjido/jidoka",
-    "stars": 32,
-    "updated_at": "2026-08-04T18:54:45Z",
-    "url": "https://github.com/agentjido/jidoka"
+    "description": "Visual editor and runtime for explicit agent workflows built on OpenCode.",
+    "id": "andrejtonev/opencode-alonzo",
+    "language": "TypeScript",
+    "name": "andrejtonev/opencode-alonzo",
+    "stars": 1,
+    "updated_at": "2026-08-04T19:12:10Z",
+    "url": "https://github.com/andrejtonev/opencode-alonzo"
   },
   {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
@@ -86,17 +158,8 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6790,
-    "updated_at": "2026-08-04T18:48:39Z",
+    "updated_at": "2026-08-04T19:07:54Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T18:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
@@ -113,17 +176,8 @@
     "language": "TypeScript",
     "name": "agents-inc/cli",
     "stars": 5,
-    "updated_at": "2026-08-04T18:44:13Z",
+    "updated_at": "2026-08-04T19:14:30Z",
     "url": "https://github.com/agents-inc/cli"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30699,
-    "updated_at": "2026-08-04T18:58:37Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -144,15 +198,6 @@
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 593,
-    "updated_at": "2026-08-04T18:53:51Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-08-04T18:54:15Z",
+    "updated_at": "2026-08-04T19:06:20Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-08-04T18:19:47Z",
+    "updated_at": "2026-08-04T19:10:49Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -230,7 +275,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1285,
-    "updated_at": "2026-08-04T18:42:00Z",
+    "updated_at": "2026-08-04T19:03:19Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-04T18:14:09Z",
+    "updated_at": "2026-08-04T19:15:22Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -275,7 +320,7 @@
     "language": "TypeScript",
     "name": "clawboo/clawboo",
     "stars": 57,
-    "updated_at": "2026-08-04T18:53:06Z",
+    "updated_at": "2026-08-04T19:14:42Z",
     "url": "https://github.com/clawboo/clawboo"
   },
   {
@@ -288,6 +333,15 @@
     "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
+    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 14,
+    "updated_at": "2026-08-04T18:02:43Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -295,15 +349,6 @@
     "stars": 8,
     "updated_at": "2026-08-04T18:02:04Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 13,
-    "updated_at": "2026-08-04T18:02:43Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
     "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19055,
-    "updated_at": "2026-08-04T18:09:49Z",
+    "updated_at": "2026-08-04T19:08:12Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-04T17:38:56Z",
     "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "A proof-of-concept demonstrating how Apache Kafka can serve as a native platform for AI agents \u2014 three real google-adk a",
-    "id": "arabaaoui/kafka-for-agents",
-    "language": "Python",
-    "name": "arabaaoui/kafka-for-agents",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:38:41Z",
-    "url": "https://github.com/arabaaoui/kafka-for-agents"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12592,
-    "updated_at": "2026-08-04T17:37:56Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "A file-based protocol for humans + AI agents. Stack files like trail markers \u2014 any agent finds the trail.",
-    "id": "RT64M/cairn",
-    "language": "\u2014",
-    "name": "RT64M/cairn",
-    "stars": 7,
-    "updated_at": "2026-08-04T17:34:46Z",
-    "url": "https://github.com/RT64M/cairn"
-  },
-  {
-    "description": "junai is 'Just Un-AI' routing with full AI power. Your agents stay smart. Your pipeline stays predictable. Deterministic",
-    "id": "saajunaid/caddis-plugin",
-    "language": "Python",
-    "name": "saajunaid/caddis-plugin",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:29:13Z",
-    "url": "https://github.com/saajunaid/caddis-plugin"
-  },
-  {
-    "description": "Open-source autoresearch powered by autonomous coding agents. Run Claude Code, OpenCode, and Codex with grading, shared ",
-    "id": "Human-Agent-Society/CORAL",
-    "language": "Python",
-    "name": "Human-Agent-Society/CORAL",
-    "stars": 870,
-    "updated_at": "2026-08-04T17:27:09Z",
-    "url": "https://github.com/Human-Agent-Society/CORAL"
   }
 ]
