@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 383,
+    "updated_at": "2026-08-04T01:13:31Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
+    "id": "cristofima/maf-graphrag-series",
+    "language": "Python",
+    "name": "cristofima/maf-graphrag-series",
+    "stars": 2,
+    "updated_at": "2026-08-04T01:11:23Z",
+    "url": "https://github.com/cristofima/maf-graphrag-series"
+  },
+  {
+    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 8,
+    "updated_at": "2026-08-04T01:09:14Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12577,
+    "updated_at": "2026-08-04T01:08:26Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "EviBack: Reinforcement Learning Search Agents via Evidence-Constrained Teacher Backoff",
+    "id": "chery-nextai/eviback",
+    "language": "Python",
+    "name": "chery-nextai/eviback",
+    "stars": 4,
+    "updated_at": "2026-08-04T01:07:42Z",
+    "url": "https://github.com/chery-nextai/eviback"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-04T01:04:58Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-08-04T01:02:47Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T01:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-08-04T01:00:17Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
     "description": "Lightweight AI coding agent \u2014 Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp",
     "id": "fierceX/mink",
     "language": "Rust",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 6,
-    "updated_at": "2026-08-04T00:58:40Z",
+    "updated_at": "2026-08-04T01:10:41Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -45,21 +126,12 @@
     "url": "https://github.com/substructureai/substructure"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T00:45:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8076,
-    "updated_at": "2026-08-04T00:44:37Z",
+    "updated_at": "2026-08-04T01:09:31Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -76,7 +148,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 29932,
+    "stars": 29945,
     "updated_at": "2026-08-04T00:37:02Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -88,15 +160,6 @@
     "stars": 121,
     "updated_at": "2026-08-04T00:35:45Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
-    "id": "cristofima/maf-graphrag-series",
-    "language": "Python",
-    "name": "cristofima/maf-graphrag-series",
-    "stars": 2,
-    "updated_at": "2026-08-04T00:47:23Z",
-    "url": "https://github.com/cristofima/maf-graphrag-series"
   },
   {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19038,
-    "updated_at": "2026-08-04T00:54:26Z",
+    "updated_at": "2026-08-04T01:07:45Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T00:26:59Z",
     "url": "https://github.com/devpilgrin/berimor"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12577,
-    "updated_at": "2026-08-04T00:26:47Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -189,15 +243,6 @@
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
   },
   {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-08-04T01:00:17Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 47,
-    "updated_at": "2026-08-04T00:30:57Z",
+    "updated_at": "2026-08-04T01:12:15Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -342,15 +387,6 @@
     "url": "https://github.com/ProtocolWarden/ContextLifecycle"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-03T23:39:38Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
     "id": "MariusYvard/corparius",
     "language": "Python",
@@ -358,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T23:33:19Z",
     "url": "https://github.com/MariusYvard/corparius"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-08-03T23:30:38Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T23:14:48Z",
     "url": "https://github.com/BrainoutputHQ/brainoutput-community"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1614,
-    "updated_at": "2026-08-03T23:12:23Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
-    "id": "Jovancoding/Network-AI",
-    "language": "TypeScript",
-    "name": "Jovancoding/Network-AI",
-    "stars": 70,
-    "updated_at": "2026-08-03T23:08:44Z",
-    "url": "https://github.com/Jovancoding/Network-AI"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 10,
-    "updated_at": "2026-08-03T23:07:36Z",
-    "url": "https://github.com/aomi-labs/aomi"
   }
 ]
