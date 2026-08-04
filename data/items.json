@@ -1,11 +1,65 @@
 [
   {
+    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
+    "id": "Gald3r-Labs/gald3r",
+    "language": "Python",
+    "name": "Gald3r-Labs/gald3r",
+    "stars": 23,
+    "updated_at": "2026-08-04T02:43:25Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 49,
+    "updated_at": "2026-08-04T02:42:39Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 1,
+    "updated_at": "2026-08-04T02:36:45Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-08-04T02:35:14Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 121,
+    "updated_at": "2026-08-04T02:34:37Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T02:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4857,
-    "updated_at": "2026-08-04T02:26:42Z",
+    "updated_at": "2026-08-04T02:43:39Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -13,7 +67,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30005,
+    "stars": 30020,
     "updated_at": "2026-08-04T02:23:54Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -32,7 +86,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 47,
-    "updated_at": "2026-08-04T02:18:04Z",
+    "updated_at": "2026-08-04T02:41:15Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -43,24 +97,6 @@
     "stars": 93,
     "updated_at": "2026-08-04T02:15:38Z",
     "url": "https://github.com/streamcoreai/streamcore-server"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 49,
-    "updated_at": "2026-08-04T02:15:29Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T02:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
@@ -79,15 +115,6 @@
     "stars": 75,
     "updated_at": "2026-08-04T02:09:01Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 1,
-    "updated_at": "2026-08-04T02:28:25Z",
-    "url": "https://github.com/Birfy/agentdescent"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -126,15 +153,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-08-04T02:19:39Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
     "description": "Lightweight AI coding agent \u2014 Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp",
     "id": "fierceX/mink",
     "language": "Rust",
@@ -157,7 +175,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46586,
+    "stars": 46587,
     "updated_at": "2026-08-04T01:54:26Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -166,7 +184,7 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 383,
+    "stars": 384,
     "updated_at": "2026-08-04T01:54:25Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "clawboo/clawboo",
     "stars": 57,
-    "updated_at": "2026-08-04T02:24:17Z",
+    "updated_at": "2026-08-04T02:42:37Z",
     "url": "https://github.com/clawboo/clawboo"
   },
   {
@@ -184,7 +202,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19041,
+    "stars": 19042,
     "updated_at": "2026-08-04T01:50:09Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -196,15 +214,6 @@
     "stars": 6780,
     "updated_at": "2026-08-04T01:49:19Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 121,
-    "updated_at": "2026-08-04T02:26:50Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
@@ -265,7 +274,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8077,
+    "stars": 8078,
     "updated_at": "2026-08-04T01:09:31Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -283,7 +292,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12578,
+    "stars": 12579,
     "updated_at": "2026-08-04T01:08:26Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -292,7 +301,7 @@
     "id": "chery-nextai/eviback",
     "language": "Python",
     "name": "chery-nextai/eviback",
-    "stars": 4,
+    "stars": 9,
     "updated_at": "2026-08-04T01:07:42Z",
     "url": "https://github.com/chery-nextai/eviback"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-04T02:27:12Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "USB - Universal Skill Bridge: one portable skill format, installed into 16 agent runtimes with sha256-verified installer",
-    "id": "PeepSick/usb",
-    "language": "TypeScript",
-    "name": "PeepSick/usb",
-    "stars": 2,
-    "updated_at": "2026-08-04T00:05:45Z",
-    "url": "https://github.com/PeepSick/usb"
   }
 ]
