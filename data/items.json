@@ -1,11 +1,65 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 30075,
+    "updated_at": "2026-08-04T03:28:53Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\u5fae\u8206\uff1a\u4eba\u4eba\u53ef\u7528\u7684\u591aAgent\u8206\u60c5\u5206\u6790\u52a9\u624b\uff0c\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u8fd8\u539f\u8206\u60c5\u539f\u8c8c\uff0c\u9884\u6d4b\u672a\u6765\u8d70\u5411\uff0c\u8f85\u52a9\u51b3\u7b56\uff01\u4ece0\u5b9e\u73b0\uff0c\u4e0d\u4f9d\u8d56\u4efb\u4f55\u6846\u67b6\u3002",
+    "id": "666ghj/BettaFish",
+    "language": "Python",
+    "name": "666ghj/BettaFish",
+    "stars": 41932,
+    "updated_at": "2026-08-04T03:27:25Z",
+    "url": "https://github.com/666ghj/BettaFish"
+  },
+  {
+    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 8,
+    "updated_at": "2026-08-04T03:24:43Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4859,
+    "updated_at": "2026-08-04T03:17:55Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
+    "id": "jiayan-xu/agent-core",
+    "language": "Rust",
+    "name": "jiayan-xu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-08-04T03:17:32Z",
+    "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T03:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
     "id": "telus-labs/stagecraft",
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 6,
-    "updated_at": "2026-08-04T03:14:01Z",
+    "updated_at": "2026-08-04T03:16:25Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 5,
     "updated_at": "2026-08-04T03:12:30Z",
     "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30058,
-    "updated_at": "2026-08-04T03:11:33Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -54,15 +99,6 @@
     "url": "https://github.com/streamcoreai/streamcore-server"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T03:00:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
@@ -81,6 +117,15 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46588,
+    "updated_at": "2026-08-04T02:50:34Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T02:49:54Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4858,
-    "updated_at": "2026-08-04T02:43:39Z",
-    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 1,
-    "updated_at": "2026-08-04T02:36:45Z",
+    "updated_at": "2026-08-04T03:15:21Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 121,
-    "updated_at": "2026-08-04T02:34:37Z",
+    "updated_at": "2026-08-04T03:25:21Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 47,
-    "updated_at": "2026-08-04T02:57:17Z",
+    "updated_at": "2026-08-04T03:29:43Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 75,
     "updated_at": "2026-08-04T02:09:01Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
-    "id": "jiayan-xu/agent-core",
-    "language": "Rust",
-    "name": "jiayan-xu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-08-04T02:05:54Z",
-    "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -205,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-08-04T01:54:58Z",
     "url": "https://github.com/frogbotai/frogbot"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46587,
-    "updated_at": "2026-08-04T02:50:34Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -304,15 +322,6 @@
     "stars": 8078,
     "updated_at": "2026-08-04T01:09:31Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 8,
-    "updated_at": "2026-08-04T02:46:32Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-04T00:13:10Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 154,
-    "updated_at": "2026-08-04T00:07:22Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   }
 ]
