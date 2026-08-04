@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 5611,
-    "updated_at": "2026-08-04T22:14:46Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
+    "description": "USB - Universal Skill Bridge: one portable skill format, installed into 16 agent runtimes with sha256-verified installer",
+    "id": "PeepSick/usb",
+    "language": "TypeScript",
+    "name": "PeepSick/usb",
+    "stars": 1,
+    "updated_at": "2026-08-04T22:29:41Z",
+    "url": "https://github.com/PeepSick/usb"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-04T22:29:21Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -14,8 +23,80 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-04T22:13:08Z",
+    "updated_at": "2026-08-04T22:29:56Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-08-04T22:24:11Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "High-autonomy config for opencode: ship features end-to-end with one command. 5 models, 5 families, zero interruptions.",
+    "id": "vocino/opencode-autonomy",
+    "language": "TypeScript",
+    "name": "vocino/opencode-autonomy",
+    "stars": 1,
+    "updated_at": "2026-08-04T22:22:09Z",
+    "url": "https://github.com/vocino/opencode-autonomy"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 5611,
+    "updated_at": "2026-08-04T22:24:40Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-08-04T22:21:08Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1285,
+    "updated_at": "2026-08-04T22:18:50Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-04T22:15:55Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 593,
+    "updated_at": "2026-08-04T22:15:39Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T22:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An inference-agnostic Deep Agents framework for Swift.",
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8109,
-    "updated_at": "2026-08-04T22:11:44Z",
+    "updated_at": "2026-08-04T22:29:53Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -63,15 +144,6 @@
     "url": "https://github.com/brunogcar/agent"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1285,
-    "updated_at": "2026-08-04T22:10:22Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -90,20 +162,11 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T22:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30738,
+    "stars": 30739,
     "updated_at": "2026-08-04T21:55:01Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-08-04T22:07:32Z",
+    "updated_at": "2026-08-04T22:24:42Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-08-04T22:13:43Z",
+    "updated_at": "2026-08-04T22:28:22Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -167,17 +230,8 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 0,
-    "updated_at": "2026-08-04T21:40:27Z",
+    "updated_at": "2026-08-04T22:16:18Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-08-04T22:11:40Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
@@ -252,15 +306,6 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-04T21:11:50Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
     "id": "evalstate/fast-agent",
     "language": "Python",
@@ -313,24 +358,6 @@
     "stars": 26,
     "updated_at": "2026-08-04T21:02:53Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 593,
-    "updated_at": "2026-08-04T22:15:11Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-08-04T22:13:06Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "The fullstack framework for building AI Agents in Ruby on Rails. Build, test, deploy, and monitor in one platform. Advan",
@@ -405,15 +432,6 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:27:07Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
     "id": "BrainoutputHQ/brainoutput-community",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-04T20:11:33Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Generic configurable cognition lifecycle runtime for bounded, resumable agent sessions",
-    "id": "ProtocolWarden/ContextLifecycle",
-    "language": "Python",
-    "name": "ProtocolWarden/ContextLifecycle",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:10:19Z",
-    "url": "https://github.com/ProtocolWarden/ContextLifecycle"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 393,
-    "updated_at": "2026-08-04T20:02:44Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   }
 ]
