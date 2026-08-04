@@ -1,5 +1,113 @@
 [
   {
+    "description": "Trust and verification for the skills your AI agent installs.",
+    "id": "alexverify/eyebrow",
+    "language": "Go",
+    "name": "alexverify/eyebrow",
+    "stars": 8,
+    "updated_at": "2026-08-04T08:30:06Z",
+    "url": "https://github.com/alexverify/eyebrow"
+  },
+  {
+    "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
+    "id": "Dikhun/Arctus.ai",
+    "language": "Python",
+    "name": "Dikhun/Arctus.ai",
+    "stars": 1,
+    "updated_at": "2026-08-04T08:27:12Z",
+    "url": "https://github.com/Dikhun/Arctus.ai"
+  },
+  {
+    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
+    "id": "streamcoreai/streamcore-server",
+    "language": "Go",
+    "name": "streamcoreai/streamcore-server",
+    "stars": 94,
+    "updated_at": "2026-08-04T08:30:21Z",
+    "url": "https://github.com/streamcoreai/streamcore-server"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 8,
+    "updated_at": "2026-08-04T08:24:18Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible;",
+    "id": "openma-ai/open-managed-agents",
+    "language": "TypeScript",
+    "name": "openma-ai/open-managed-agents",
+    "stars": 217,
+    "updated_at": "2026-08-04T08:25:29Z",
+    "url": "https://github.com/openma-ai/open-managed-agents"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 30325,
+    "updated_at": "2026-08-04T08:28:58Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "KAF - The governance layer for multi-agent swarms. Constitution-as-Code + 520 Runtime Guard. Stop AI agents from deletin",
+    "id": "lsjpp2/king-agent-swarm",
+    "language": "Python",
+    "name": "lsjpp2/king-agent-swarm",
+    "stars": 1,
+    "updated_at": "2026-08-04T08:22:05Z",
+    "url": "https://github.com/lsjpp2/king-agent-swarm"
+  },
+  {
+    "description": "The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and",
+    "id": "sheawinkler/ContextLattice",
+    "language": "Go",
+    "name": "sheawinkler/ContextLattice",
+    "stars": 142,
+    "updated_at": "2026-08-04T08:20:56Z",
+    "url": "https://github.com/sheawinkler/ContextLattice"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4862,
+    "updated_at": "2026-08-04T08:20:13Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 40,
+    "updated_at": "2026-08-04T08:16:39Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T08:15:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46603,
+    "updated_at": "2026-08-04T08:14:33Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -16,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T08:14:08Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
-    "id": "Dikhun/Arctus.ai",
-    "language": "Python",
-    "name": "Dikhun/Arctus.ai",
-    "stars": 1,
-    "updated_at": "2026-08-04T08:13:33Z",
-    "url": "https://github.com/Dikhun/Arctus.ai"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8080,
-    "updated_at": "2026-08-04T08:14:46Z",
+    "updated_at": "2026-08-04T08:27:13Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -61,33 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T08:08:35Z",
     "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 8,
-    "updated_at": "2026-08-04T08:07:53Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30314,
-    "updated_at": "2026-08-04T08:05:17Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible;",
-    "id": "openma-ai/open-managed-agents",
-    "language": "TypeScript",
-    "name": "openma-ai/open-managed-agents",
-    "stars": 217,
-    "updated_at": "2026-08-04T08:07:09Z",
-    "url": "https://github.com/openma-ai/open-managed-agents"
   },
   {
     "description": "Lightweight AI coding agent \u2014 Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp",
@@ -115,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T08:00:44Z",
     "url": "https://github.com/EurusDevSec/eurus-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T08:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
@@ -171,15 +234,6 @@
     "url": "https://github.com/roackb2/heddle"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46600,
-    "updated_at": "2026-08-04T08:14:33Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones",
     "id": "ellmos-ai/clutch",
     "language": "Python",
@@ -189,22 +243,13 @@
     "url": "https://github.com/ellmos-ai/clutch"
   },
   {
-    "description": "The agent that grows with you 300+ SKILLS",
+    "description": "The agent that grows with you 330+ SKILLS",
     "id": "JaneHax/JanexAgent",
     "language": "TypeScript",
     "name": "JaneHax/JanexAgent",
     "stars": 1,
     "updated_at": "2026-08-04T07:48:28Z",
     "url": "https://github.com/JaneHax/JanexAgent"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 40,
-    "updated_at": "2026-08-04T07:48:19Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "Build distributed, production-grade, long-running agents.",
@@ -293,7 +338,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1285,
-    "updated_at": "2026-08-04T08:14:08Z",
+    "updated_at": "2026-08-04T08:27:37Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T07:13:17Z",
     "url": "https://github.com/YQteam-dyq/yq-nova-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-04T07:11:55Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 3,
-    "updated_at": "2026-08-04T07:11:18Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "\ud83d\udd78\ufe0f Engineer the organization, not just the agent. 561 curated resources \u00b7 9 design layers \u00b7 11 sections \u00b7 250 papers & p",
-    "id": "ChaoYue0307/awesome-graph-engineering",
-    "language": "Python",
-    "name": "ChaoYue0307/awesome-graph-engineering",
-    "stars": 19,
-    "updated_at": "2026-08-04T07:07:14Z",
-    "url": "https://github.com/ChaoYue0307/awesome-graph-engineering"
-  },
-  {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 37,
-    "updated_at": "2026-08-04T07:06:55Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 3,
-    "updated_at": "2026-08-04T07:03:42Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
   }
 ]
