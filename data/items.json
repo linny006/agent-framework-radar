@@ -1,12 +1,39 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8113,
+    "updated_at": "2026-08-04T23:11:05Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
     "id": "aeonfun/aeon",
     "language": "TypeScript",
     "name": "aeonfun/aeon",
     "stars": 593,
-    "updated_at": "2026-08-04T22:59:46Z",
+    "updated_at": "2026-08-04T23:06:47Z",
     "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Managed agents harness on Cloudflare Workers \u2014 manifest-defined AI agents with swappable session strategies, agent patte",
+    "id": "blakebauman/felix",
+    "language": "TypeScript",
+    "name": "blakebauman/felix",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:04:03Z",
+    "url": "https://github.com/blakebauman/felix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T23:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-04T22:59:09Z",
+    "updated_at": "2026-08-04T23:15:11Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -68,17 +95,8 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 5613,
-    "updated_at": "2026-08-04T22:52:35Z",
+    "updated_at": "2026-08-04T23:14:18Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8112,
-    "updated_at": "2026-08-04T22:51:17Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -90,21 +108,12 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T22:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
     "id": "amilworks/ultra",
     "language": "Python",
     "name": "amilworks/ultra",
     "stars": 5,
-    "updated_at": "2026-08-04T22:40:04Z",
+    "updated_at": "2026-08-04T23:06:21Z",
     "url": "https://github.com/amilworks/ultra"
   },
   {
@@ -284,7 +293,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-08-04T22:37:28Z",
+    "updated_at": "2026-08-04T23:14:14Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 72,
     "updated_at": "2026-08-04T20:31:10Z",
     "url": "https://github.com/lorryjovens-hub/laap-AGI"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1629,
-    "updated_at": "2026-08-04T20:30:39Z",
-    "url": "https://github.com/cortexkit/magic-context"
   }
 ]
