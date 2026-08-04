@@ -1,12 +1,84 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8109,
+    "updated_at": "2026-08-04T21:28:32Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-08-04T21:28:29Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-04T21:15:07Z",
+    "updated_at": "2026-08-04T21:27:02Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "A Java library to create reliable agents",
+    "id": "openconcerto/jOpenAgent",
+    "language": "Java",
+    "name": "openconcerto/jOpenAgent",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:26:34Z",
+    "url": "https://github.com/openconcerto/jOpenAgent"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:22:50Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1285,
+    "updated_at": "2026-08-04T21:28:46Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "The agent that grows with you 330+ SKILLS",
+    "id": "JaneHax/JanexAgent",
+    "language": "TypeScript",
+    "name": "JaneHax/JanexAgent",
+    "stars": 1,
+    "updated_at": "2026-08-04T21:18:57Z",
+    "url": "https://github.com/JaneHax/JanexAgent"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12591,
+    "updated_at": "2026-08-04T21:17:36Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:15:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -36,21 +108,12 @@
     "url": "https://github.com/evalstate/fast-agent"
   },
   {
-    "description": "The agent that grows with you 330+ SKILLS",
-    "id": "JaneHax/JanexAgent",
-    "language": "TypeScript",
-    "name": "JaneHax/JanexAgent",
-    "stars": 1,
-    "updated_at": "2026-08-04T21:10:31Z",
-    "url": "https://github.com/JaneHax/JanexAgent"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6792,
-    "updated_at": "2026-08-04T21:09:07Z",
+    "updated_at": "2026-08-04T21:23:43Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -90,15 +153,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8109,
-    "updated_at": "2026-08-04T21:02:08Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
     "id": "aeonfun/aeon",
     "language": "TypeScript",
@@ -115,15 +169,6 @@
     "stars": 6,
     "updated_at": "2026-08-04T21:01:19Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T21:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The fullstack framework for building AI Agents in Ruby on Rails. Build, test, deploy, and monitor in one platform. Advan",
@@ -180,21 +225,12 @@
     "url": "https://github.com/sytone/botnexus"
   },
   {
-    "description": "A Java library to create reliable agents",
-    "id": "openconcerto/jOpenAgent",
-    "language": "Java",
-    "name": "openconcerto/jOpenAgent",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:42:28Z",
-    "url": "https://github.com/openconcerto/jOpenAgent"
-  },
-  {
     "description": "Drop-in causal memory for AI agents. Append-only event store with associations and bounded memory injection.",
     "id": "JohnnyFiv3r/Core-Memory",
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 21,
-    "updated_at": "2026-08-04T20:37:38Z",
+    "updated_at": "2026-08-04T21:20:23Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T20:27:07Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1285,
-    "updated_at": "2026-08-04T20:25:01Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -342,15 +369,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-08-04T20:01:29Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
     "id": "agentjido/jidoka",
     "language": "Elixir",
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "amilworks/ultra",
     "stars": 5,
-    "updated_at": "2026-08-04T20:36:34Z",
+    "updated_at": "2026-08-04T21:19:37Z",
     "url": "https://github.com/amilworks/ultra"
   },
   {
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19054,
-    "updated_at": "2026-08-04T21:12:31Z",
+    "updated_at": "2026-08-04T21:24:33Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T19:08:02Z",
     "url": "https://github.com/arabaaoui/kafka-for-agents"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 3,
-    "updated_at": "2026-08-04T19:04:52Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30730,
-    "updated_at": "2026-08-04T18:58:37Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   }
 ]
