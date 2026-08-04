@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 20,
+    "updated_at": "2026-08-04T21:30:24Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 79,
+    "updated_at": "2026-08-04T21:30:04Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1285,
+    "updated_at": "2026-08-04T21:31:26Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-04T21:27:02Z",
+    "updated_at": "2026-08-04T21:33:41Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -45,15 +81,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1285,
-    "updated_at": "2026-08-04T21:28:46Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "The agent that grows with you 330+ SKILLS",
     "id": "JaneHax/JanexAgent",
     "language": "TypeScript",
@@ -72,15 +99,6 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T21:15:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -88,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T21:11:50Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 20,
-    "updated_at": "2026-08-04T21:11:10Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19054,
-    "updated_at": "2026-08-04T21:24:33Z",
+    "updated_at": "2026-08-04T21:32:19Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-04T19:08:50Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
-    "description": "A proof-of-concept demonstrating how Apache Kafka can serve as a native platform for AI agents \u2014 three real google-adk a",
-    "id": "arabaaoui/kafka-for-agents",
-    "language": "Python",
-    "name": "arabaaoui/kafka-for-agents",
-    "stars": 0,
-    "updated_at": "2026-08-04T19:08:02Z",
-    "url": "https://github.com/arabaaoui/kafka-for-agents"
   }
 ]
