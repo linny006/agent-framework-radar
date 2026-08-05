@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-05T16:29:34Z",
+    "updated_at": "2026-08-05T16:43:38Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1646,
+    "updated_at": "2026-08-05T16:41:38Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 154,
+    "updated_at": "2026-08-05T16:40:23Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 234,
+    "updated_at": "2026-08-05T16:39:35Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo",
+    "id": "getsynkora/synkora-ai",
+    "language": "Python",
+    "name": "getsynkora/synkora-ai",
+    "stars": 19,
+    "updated_at": "2026-08-05T16:41:12Z",
+    "url": "https://github.com/getsynkora/synkora-ai"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 594,
+    "updated_at": "2026-08-05T16:37:25Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
+    "id": "cristofima/maf-graphrag-series",
+    "language": "Python",
+    "name": "cristofima/maf-graphrag-series",
+    "stars": 2,
+    "updated_at": "2026-08-05T16:37:13Z",
+    "url": "https://github.com/cristofima/maf-graphrag-series"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-05T16:36:05Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 47,
+    "updated_at": "2026-08-05T16:30:41Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T16:30:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 7,
+    "updated_at": "2026-08-05T16:30:06Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 155,
+    "updated_at": "2026-08-05T16:28:53Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -18,21 +117,12 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 47,
-    "updated_at": "2026-08-05T16:26:29Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
     "stars": 400,
-    "updated_at": "2026-08-05T16:23:54Z",
+    "updated_at": "2026-08-05T16:44:27Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
@@ -41,17 +131,8 @@
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 106,
-    "updated_at": "2026-08-05T16:23:49Z",
+    "updated_at": "2026-08-05T16:34:35Z",
     "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
-    "id": "cristofima/maf-graphrag-series",
-    "language": "Python",
-    "name": "cristofima/maf-graphrag-series",
-    "stars": 2,
-    "updated_at": "2026-08-05T16:21:43Z",
-    "url": "https://github.com/cristofima/maf-graphrag-series"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -68,7 +149,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8165,
-    "updated_at": "2026-08-05T16:17:26Z",
+    "updated_at": "2026-08-05T16:40:11Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -79,15 +160,6 @@
     "stars": 120,
     "updated_at": "2026-08-05T16:16:00Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T16:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
@@ -103,7 +175,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 31404,
+    "stars": 31413,
     "updated_at": "2026-08-05T16:10:13Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -124,15 +196,6 @@
     "stars": 79,
     "updated_at": "2026-08-05T16:07:05Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 234,
-    "updated_at": "2026-08-05T16:29:29Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
@@ -189,15 +252,6 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1646,
-    "updated_at": "2026-08-05T15:49:45Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "One command to give your AI agent a brain. Persona-Governance Platform: safety rules + swappable personalities + 13-plat",
     "id": "weed33834/agentseed",
     "language": "Python",
@@ -214,15 +268,6 @@
     "stars": 20,
     "updated_at": "2026-08-05T15:48:21Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo",
-    "id": "getsynkora/synkora-ai",
-    "language": "Python",
-    "name": "getsynkora/synkora-ai",
-    "stars": 19,
-    "updated_at": "2026-08-05T16:24:58Z",
-    "url": "https://github.com/getsynkora/synkora-ai"
   },
   {
     "description": "A harness for question-answering agents over your own documents \u2014 bounded context, bounded cost, every claim cited.",
@@ -248,7 +293,7 @@
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
     "stars": 4905,
-    "updated_at": "2026-08-05T15:56:07Z",
+    "updated_at": "2026-08-05T16:31:25Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T14:49:50Z",
     "url": "https://github.com/Tiny-Bubble-Company/rails-agents"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 392,
-    "updated_at": "2026-08-05T14:41:43Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "The AI Agent framework for enterprises and agencies",
-    "id": "frogbotai/frogbot",
-    "language": "TypeScript",
-    "name": "frogbotai/frogbot",
-    "stars": 3,
-    "updated_at": "2026-08-05T14:33:51Z",
-    "url": "https://github.com/frogbotai/frogbot"
-  },
-  {
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 891,
-    "updated_at": "2026-08-05T14:27:32Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 173,
-    "updated_at": "2026-08-05T15:49:04Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-08-05T14:27:25Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   }
 ]
