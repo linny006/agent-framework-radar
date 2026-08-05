@@ -1,5 +1,59 @@
 [
   {
+    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
+    "id": "pereirawe/opencode-flow",
+    "language": "Python",
+    "name": "pereirawe/opencode-flow",
+    "stars": 0,
+    "updated_at": "2026-08-05T02:09:13Z",
+    "url": "https://github.com/pereirawe/opencode-flow"
+  },
+  {
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 37,
+    "updated_at": "2026-08-05T02:04:29Z",
+    "url": "https://github.com/Marssssss/OneAI"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 392,
+    "updated_at": "2026-08-05T02:03:49Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 23,
+    "updated_at": "2026-08-05T02:02:21Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-08-05T02:06:13Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T02:00:37Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Self-hosted AI agents with a web UI \u2014 extend with Python/JS tools & MCP, schedule with cron Jobs, publish as public chat",
     "id": "phamvanquyit/raw-agents",
     "language": "TypeScript",
@@ -7,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-08-05T01:58:01Z",
     "url": "https://github.com/phamvanquyit/raw-agents"
-  },
-  {
-    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
-    "id": "pereirawe/opencode-flow",
-    "language": "Python",
-    "name": "pereirawe/opencode-flow",
-    "stars": 0,
-    "updated_at": "2026-08-05T01:57:00Z",
-    "url": "https://github.com/pereirawe/opencode-flow"
   },
   {
     "description": "Shared governance, memory, identity, recovery, and stewardship foundations for OpenClaw AI systems.",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19058,
-    "updated_at": "2026-08-05T01:54:22Z",
+    "updated_at": "2026-08-05T02:12:05Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -41,7 +86,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 6,
-    "updated_at": "2026-08-05T01:54:36Z",
+    "updated_at": "2026-08-05T02:08:59Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -59,17 +104,8 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6796,
-    "updated_at": "2026-08-05T01:50:53Z",
+    "updated_at": "2026-08-05T02:07:07Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T01:45:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\u667a\u884d EvolvIQ \u2014\u2014 \u5168\u7403\u9996\u4e2a\u5f00\u6e90 AI-Native \u5de5\u4e1a Agent \u5e73\u53f0\u300225 \u4e2a\u5de5\u4e1a\u667a\u80fd\u5206\u8eab\u8986\u76d6\u4ea7\u7ebf\u00b7\u7ba1\u7406\u00b7\u4f9b\u5e94\u94fe\u4e09\u5c42\uff08\u4f9b\u5e94\u94fe/\u826f\u7387/\u8d28\u91cf\u8ffd\u6eaf/DFM/OEE/\u8bbe\u5907\u9884\u6d4b\u7ef4\u62a4\u7b49\uff09\uff0c\u652f\u6301 MCP \u80fd\u529b\u8054\u90a6\u3001OPC-UA/Modbu",
@@ -94,7 +130,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8120,
+    "stars": 8122,
     "updated_at": "2026-08-05T01:43:31Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -108,20 +144,11 @@
     "url": "https://github.com/rllm-org/rllm"
   },
   {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-08-05T01:35:50Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30828,
+    "stars": 30844,
     "updated_at": "2026-08-05T01:35:09Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -139,7 +166,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46620,
+    "stars": 46622,
     "updated_at": "2026-08-05T01:31:56Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -151,15 +178,6 @@
     "stars": 17,
     "updated_at": "2026-08-05T01:32:18Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 21,
-    "updated_at": "2026-08-05T01:55:36Z",
-    "url": "https://github.com/Birfy/agentdescent"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -178,6 +196,15 @@
     "stars": 2,
     "updated_at": "2026-08-05T01:22:25Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
+    "id": "amilworks/ultra",
+    "language": "Python",
+    "name": "amilworks/ultra",
+    "stars": 6,
+    "updated_at": "2026-08-05T01:20:12Z",
+    "url": "https://github.com/amilworks/ultra"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -239,7 +266,7 @@
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
     "stars": 4891,
-    "updated_at": "2026-08-05T00:59:19Z",
+    "updated_at": "2026-08-05T02:00:46Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
@@ -302,7 +329,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-08-05T01:54:18Z",
+    "updated_at": "2026-08-05T02:15:17Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 154,
     "updated_at": "2026-08-04T23:59:54Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "P2P pub/sub transport for AI agents. IPFS gossipsub + Ed25519 + eventual consistency. No central broker.",
-    "id": "konantgit-sys/p2p-agent-mesh",
-    "language": "Python",
-    "name": "konantgit-sys/p2p-agent-mesh",
-    "stars": 3,
-    "updated_at": "2026-08-04T23:57:09Z",
-    "url": "https://github.com/konantgit-sys/p2p-agent-mesh"
-  },
-  {
-    "description": "An inference-agnostic Deep Agents framework for Swift.",
-    "id": "dsaad68/deepagents-swift",
-    "language": "Swift",
-    "name": "dsaad68/deepagents-swift",
-    "stars": 1,
-    "updated_at": "2026-08-04T23:56:31Z",
-    "url": "https://github.com/dsaad68/deepagents-swift"
-  },
-  {
-    "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
-    "id": "cristofima/maf-graphrag-series",
-    "language": "Python",
-    "name": "cristofima/maf-graphrag-series",
-    "stars": 2,
-    "updated_at": "2026-08-04T23:40:21Z",
-    "url": "https://github.com/cristofima/maf-graphrag-series"
   }
 ]
