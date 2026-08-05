@@ -1,12 +1,39 @@
 [
   {
+    "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
+    "id": "cristofima/maf-graphrag-series",
+    "language": "Python",
+    "name": "cristofima/maf-graphrag-series",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:59:10Z",
+    "url": "https://github.com/cristofima/maf-graphrag-series"
+  },
+  {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
     "id": "jiayan-xu/agent-core",
     "language": "Rust",
     "name": "jiayan-xu/agent-core",
     "stars": 1,
-    "updated_at": "2026-08-05T15:56:56Z",
+    "updated_at": "2026-08-05T15:59:04Z",
     "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-05T15:58:05Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:57:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The control plane for AI coding agents.",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19073,
-    "updated_at": "2026-08-05T15:50:33Z",
+    "updated_at": "2026-08-05T15:58:37Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 19,
     "updated_at": "2026-08-05T15:49:09Z",
     "url": "https://github.com/getsynkora/synkora-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T15:45:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A harness for question-answering agents over your own documents \u2014 bounded context, bounded cost, every claim cited.",
@@ -203,7 +221,7 @@
     "language": "Rust",
     "name": "ThousandBirdsInc/chidori",
     "stars": 1362,
-    "updated_at": "2026-08-05T15:51:57Z",
+    "updated_at": "2026-08-05T15:58:15Z",
     "url": "https://github.com/ThousandBirdsInc/chidori"
   },
   {
@@ -211,7 +229,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 31382,
+    "stars": 31384,
     "updated_at": "2026-08-05T15:16:24Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8161,
-    "updated_at": "2026-08-05T15:55:23Z",
+    "updated_at": "2026-08-05T16:00:13Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-08-05T15:40:56Z",
+    "updated_at": "2026-08-05T15:58:47Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -400,7 +418,7 @@
     "id": "Birfy/agentdescent",
     "language": "Python",
     "name": "Birfy/agentdescent",
-    "stars": 59,
+    "stars": 60,
     "updated_at": "2026-08-05T14:23:44Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-05T14:07:53Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 155,
-    "updated_at": "2026-08-05T14:07:04Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "\ud83e\udd96 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
-    "id": "yomorun/yomo",
-    "language": "Rust",
-    "name": "yomorun/yomo",
-    "stars": 1920,
-    "updated_at": "2026-08-05T14:04:32Z",
-    "url": "https://github.com/yomorun/yomo"
   }
 ]
