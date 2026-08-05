@@ -1,5 +1,68 @@
 [
   {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 594,
+    "updated_at": "2026-08-05T18:25:17Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8171,
+    "updated_at": "2026-08-05T18:21:17Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 154,
+    "updated_at": "2026-08-05T18:19:36Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 1,
+    "updated_at": "2026-08-05T18:19:38Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 155,
+    "updated_at": "2026-08-05T18:17:40Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
+    "id": "sweatco/archie-hq",
+    "language": "TypeScript",
+    "name": "sweatco/archie-hq",
+    "stars": 16,
+    "updated_at": "2026-08-05T18:15:32Z",
+    "url": "https://github.com/sweatco/archie-hq"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-05T18:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
     "id": "ethosagent/ethos",
     "language": "TypeScript",
@@ -9,30 +72,12 @@
     "url": "https://github.com/ethosagent/ethos"
   },
   {
-    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
-    "id": "sweatco/archie-hq",
-    "language": "TypeScript",
-    "name": "sweatco/archie-hq",
-    "stars": 16,
-    "updated_at": "2026-08-05T18:14:47Z",
-    "url": "https://github.com/sweatco/archie-hq"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 594,
-    "updated_at": "2026-08-05T18:14:40Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-05T18:15:23Z",
+    "updated_at": "2026-08-05T18:28:18Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -41,7 +86,7 @@
     "language": "JavaScript",
     "name": "telus-labs/stagecraft",
     "stars": 6,
-    "updated_at": "2026-08-05T18:10:00Z",
+    "updated_at": "2026-08-05T18:25:53Z",
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
@@ -52,6 +97,15 @@
     "stars": 20,
     "updated_at": "2026-08-05T18:09:21Z",
     "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19074,
+    "updated_at": "2026-08-05T18:09:03Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "ShuTong Protocol \u2014 A cognitive-layer human-AI collaboration protocol. Core thesis: AI is not an answer machine, but a co",
@@ -72,24 +126,6 @@
     "url": "https://github.com/sattyamjjain/ferrumdeck"
   },
   {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 1,
-    "updated_at": "2026-08-05T18:01:41Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19073,
-    "updated_at": "2026-08-05T18:09:03Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
     "id": "Arasz/ai-badger",
     "language": "Python",
@@ -97,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T18:07:52Z",
     "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-05T18:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -124,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T17:57:45Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8168,
-    "updated_at": "2026-08-05T18:11:33Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
@@ -302,7 +320,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 235,
-    "updated_at": "2026-08-05T17:46:24Z",
+    "updated_at": "2026-08-05T18:17:59Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -364,7 +382,7 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 400,
+    "stars": 401,
     "updated_at": "2026-08-05T17:07:59Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -405,15 +423,6 @@
     "url": "https://github.com/yologdev/yoagent"
   },
   {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 154,
-    "updated_at": "2026-08-05T16:40:23Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
     "description": "Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo",
     "id": "getsynkora/synkora-ai",
     "language": "Python",
@@ -428,7 +437,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-05T16:36:05Z",
+    "updated_at": "2026-08-05T18:28:16Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -437,16 +446,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 47,
-    "updated_at": "2026-08-05T18:03:44Z",
+    "updated_at": "2026-08-05T18:27:27Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 7,
-    "updated_at": "2026-08-05T16:30:06Z",
-    "url": "https://github.com/databricks-solutions/consort"
   }
 ]
