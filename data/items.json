@@ -1,5 +1,104 @@
 [
   {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-08-05T12:28:47Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "Deploy intelligence. Open-source infrastructure for AI agents in production.",
+    "id": "muxi-ai/muxi",
+    "language": "\u2014",
+    "name": "muxi-ai/muxi",
+    "stars": 210,
+    "updated_at": "2026-08-05T12:28:04Z",
+    "url": "https://github.com/muxi-ai/muxi"
+  },
+  {
+    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
+    "id": "jiayan-xu/agent-core",
+    "language": "Rust",
+    "name": "jiayan-xu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-08-05T12:27:34Z",
+    "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 4,
+    "updated_at": "2026-08-05T12:26:20Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26115,
+    "updated_at": "2026-08-05T12:28:58Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Production-grade TypeScript AI runtime focused on reliability, governance, and reproducible LLM systems. Multi-provider ",
+    "id": "elsium-ai/elsium-ai",
+    "language": "TypeScript",
+    "name": "elsium-ai/elsium-ai",
+    "stars": 13,
+    "updated_at": "2026-08-05T12:23:57Z",
+    "url": "https://github.com/elsium-ai/elsium-ai"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-05T12:28:01Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Manusclaw: Unleash self-reasoning CLI beasts to execute code, browse the web, and dominate tasks \u2014 across 12+ messaging ",
+    "id": "ManusAgents/ManusClaw",
+    "language": "Python",
+    "name": "ManusAgents/ManusClaw",
+    "stars": 1,
+    "updated_at": "2026-08-05T12:21:57Z",
+    "url": "https://github.com/ManusAgents/ManusClaw"
+  },
+  {
+    "description": "A harness for question-answering agents over your own documents \u2014 bounded context, bounded cost, every claim cited.",
+    "id": "Construct-Lab/reigner",
+    "language": "Python",
+    "name": "Construct-Lab/reigner",
+    "stars": 5,
+    "updated_at": "2026-08-05T12:16:36Z",
+    "url": "https://github.com/Construct-Lab/reigner"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T12:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Production-ready agents, your way.",
+    "id": "Folken2/nuvel",
+    "language": "Python",
+    "name": "Folken2/nuvel",
+    "stars": 2,
+    "updated_at": "2026-08-05T12:15:00Z",
+    "url": "https://github.com/Folken2/nuvel"
+  },
+  {
     "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
     "id": "Ash20pk/BerthOS",
     "language": "TypeScript",
@@ -40,7 +139,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 31217,
+    "stars": 31232,
     "updated_at": "2026-08-05T12:08:28Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8151,
-    "updated_at": "2026-08-05T12:08:27Z",
+    "updated_at": "2026-08-05T12:16:21Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -76,63 +175,9 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46653,
+    "stars": 46654,
     "updated_at": "2026-08-05T12:04:32Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:04:00Z",
-    "url": "https://github.com/MariusYvard/corparius"
-  },
-  {
-    "description": "Production-grade TypeScript AI runtime focused on reliability, governance, and reproducible LLM systems. Multi-provider ",
-    "id": "elsium-ai/elsium-ai",
-    "language": "TypeScript",
-    "name": "elsium-ai/elsium-ai",
-    "stars": 13,
-    "updated_at": "2026-08-05T12:03:17Z",
-    "url": "https://github.com/elsium-ai/elsium-ai"
-  },
-  {
-    "description": "Production-ready agents, your way.",
-    "id": "Folken2/nuvel",
-    "language": "Python",
-    "name": "Folken2/nuvel",
-    "stars": 2,
-    "updated_at": "2026-08-05T12:15:00Z",
-    "url": "https://github.com/Folken2/nuvel"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T12:00:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
-    "id": "jiayan-xu/agent-core",
-    "language": "Rust",
-    "name": "jiayan-xu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-08-05T11:59:55Z",
-    "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-05T12:15:06Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -157,8 +202,8 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19069,
-    "updated_at": "2026-08-05T11:57:00Z",
+    "stars": 19070,
+    "updated_at": "2026-08-05T12:17:40Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -211,7 +256,7 @@
     "id": "Birfy/agentdescent",
     "language": "Python",
     "name": "Birfy/agentdescent",
-    "stars": 55,
+    "stars": 56,
     "updated_at": "2026-08-05T11:45:09Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
@@ -293,7 +338,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-08-05T11:27:01Z",
+    "updated_at": "2026-08-05T12:23:29Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -315,30 +360,12 @@
     "url": "https://github.com/codewandler/flux"
   },
   {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26115,
-    "updated_at": "2026-08-05T12:06:41Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 4,
-    "updated_at": "2026-08-05T11:16:11Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-05T12:10:48Z",
+    "updated_at": "2026-08-05T12:16:14Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T10:33:05Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "P2P pub/sub transport for AI agents. IPFS gossipsub + Ed25519 + eventual consistency. No central broker.",
-    "id": "konantgit-sys/p2p-agent-mesh",
-    "language": "Python",
-    "name": "konantgit-sys/p2p-agent-mesh",
-    "stars": 3,
-    "updated_at": "2026-08-05T10:31:13Z",
-    "url": "https://github.com/konantgit-sys/p2p-agent-mesh"
-  },
-  {
-    "description": "Self-hosted agent observability and control for Vercel's eve framework. Durable Postgres sessions, Docker sandbox, and a",
-    "id": "SammyTourani/evestack",
-    "language": "TypeScript",
-    "name": "SammyTourani/evestack",
-    "stars": 0,
-    "updated_at": "2026-08-05T10:22:40Z",
-    "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 79,
-    "updated_at": "2026-08-05T10:22:14Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
   }
 ]
