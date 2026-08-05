@@ -1,5 +1,41 @@
 [
   {
+    "description": "Managed agents harness on Cloudflare Workers \u2014 manifest-defined AI agents with swappable session strategies, agent patte",
+    "id": "blakebauman/felix",
+    "language": "TypeScript",
+    "name": "blakebauman/felix",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:41:40Z",
+    "url": "https://github.com/blakebauman/felix"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:35:38Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-05T00:32:50Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T00:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "High-autonomy config for opencode: ship features end-to-end with one command. 5 models, 5 families, zero interruptions.",
     "id": "vocino/opencode-autonomy",
     "language": "TypeScript",
@@ -45,6 +81,15 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 17,
+    "updated_at": "2026-08-05T00:23:16Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
@@ -61,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-08-05T00:18:09Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Managed agents harness on Cloudflare Workers \u2014 manifest-defined AI agents with swappable session strategies, agent patte",
-    "id": "blakebauman/felix",
-    "language": "TypeScript",
-    "name": "blakebauman/felix",
-    "stars": 0,
-    "updated_at": "2026-08-05T00:25:21Z",
-    "url": "https://github.com/blakebauman/felix"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -97,15 +133,6 @@
     "stars": 5,
     "updated_at": "2026-08-05T00:15:24Z",
     "url": "https://github.com/agents-inc/agents-inc"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T00:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
@@ -151,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T00:07:05Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-05T00:04:45Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-08-05T00:19:15Z",
-    "url": "https://github.com/codewandler/flux"
   },
   {
     "description": "",
@@ -248,7 +257,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-08-04T23:50:43Z",
+    "updated_at": "2026-08-05T00:41:54Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -333,15 +342,6 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 13,
-    "updated_at": "2026-08-05T00:23:16Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
     "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
     "id": "hara-cli/hara",
     "language": "TypeScript",
@@ -418,7 +418,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30767,
+    "stars": 30773,
     "updated_at": "2026-08-04T21:55:01Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
