@@ -1,12 +1,57 @@
 [
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:53:18Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-05T13:53:10Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
     "stars": 2,
-    "updated_at": "2026-08-05T13:45:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "updated_at": "2026-08-05T13:52:38Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-05T13:52:32Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-08-05T13:51:39Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "UI interface for Kitaru - durable execution for AI agents, built on ZenML",
+    "id": "zenml-io/kitaru-ui",
+    "language": "TypeScript",
+    "name": "zenml-io/kitaru-ui",
+    "stars": 3,
+    "updated_at": "2026-08-05T13:51:20Z",
+    "url": "https://github.com/zenml-io/kitaru-ui"
   },
   {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
@@ -14,15 +59,33 @@
     "language": "Rust",
     "name": "jiayan-xu/agent-core",
     "stars": 1,
-    "updated_at": "2026-08-05T13:44:27Z",
+    "updated_at": "2026-08-05T13:51:08Z",
     "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T13:49:58Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8156,
+    "updated_at": "2026-08-05T13:47:47Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 31296,
+    "stars": 31302,
     "updated_at": "2026-08-05T13:43:09Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -45,21 +108,12 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-05T13:45:18Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
     "stars": 1170,
-    "updated_at": "2026-08-05T13:40:08Z",
+    "updated_at": "2026-08-05T13:53:15Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 115,
     "updated_at": "2026-08-05T13:38:58Z",
     "url": "https://github.com/jigjoy-ai/mozaik"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8155,
-    "updated_at": "2026-08-05T13:47:47Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Build distributed, production-grade, long-running agents.",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19071,
-    "updated_at": "2026-08-05T13:31:11Z",
+    "updated_at": "2026-08-05T13:57:40Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -126,15 +171,6 @@
     "url": "https://github.com/aeonfun/aeon"
   },
   {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-08-05T13:22:08Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -158,7 +194,7 @@
     "language": "TypeScript",
     "name": "elsium-ai/elsium-ai",
     "stars": 13,
-    "updated_at": "2026-08-05T13:19:38Z",
+    "updated_at": "2026-08-05T13:54:13Z",
     "url": "https://github.com/elsium-ai/elsium-ai"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 21,
-    "updated_at": "2026-08-05T13:15:28Z",
+    "updated_at": "2026-08-05T13:53:23Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -194,7 +230,7 @@
     "language": "TypeScript",
     "name": "loopedautomation/meet",
     "stars": 6,
-    "updated_at": "2026-08-05T13:22:43Z",
+    "updated_at": "2026-08-05T13:51:49Z",
     "url": "https://github.com/loopedautomation/meet"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26116,
-    "updated_at": "2026-08-05T12:28:58Z",
+    "updated_at": "2026-08-05T13:55:28Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/Gald3r-Labs/gald3r"
   },
   {
-    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 3,
-    "updated_at": "2026-08-05T12:07:11Z",
-    "url": "https://github.com/hara-cli/hara"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 46660,
     "updated_at": "2026-08-05T12:04:32Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
-    "id": "rapidaai/voice-ai",
-    "language": "Go",
-    "name": "rapidaai/voice-ai",
-    "stars": 708,
-    "updated_at": "2026-08-05T11:59:24Z",
-    "url": "https://github.com/rapidaai/voice-ai"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 154,
-    "updated_at": "2026-08-05T11:58:16Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 155,
-    "updated_at": "2026-08-05T11:56:20Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
   }
 ]
