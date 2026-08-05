@@ -1,5 +1,86 @@
 [
   {
+    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 8,
+    "updated_at": "2026-08-05T00:59:18Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-05T00:59:12Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-05T00:57:55Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 4889,
+    "updated_at": "2026-08-05T00:59:19Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 30779,
+    "updated_at": "2026-08-05T00:56:46Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19057,
+    "updated_at": "2026-08-05T00:59:42Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-05T00:54:17Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-08-05T00:51:15Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T00:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Managed agents harness on Cloudflare Workers \u2014 manifest-defined AI agents with swappable session strategies, agent patte",
     "id": "blakebauman/felix",
     "language": "TypeScript",
@@ -16,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T00:35:38Z",
     "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-05T00:32:50Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T00:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "High-autonomy config for opencode: ship features end-to-end with one command. 5 models, 5 families, zero interruptions.",
@@ -67,8 +130,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8118,
-    "updated_at": "2026-08-05T00:25:18Z",
+    "stars": 8117,
+    "updated_at": "2026-08-05T00:48:31Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-05T00:22:08Z",
+    "updated_at": "2026-08-05T00:48:48Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -252,24 +315,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-05T00:41:54Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-08-04T23:47:11Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
     "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
     "id": "cristofima/maf-graphrag-series",
     "language": "Python",
@@ -295,24 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T23:39:24Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-04T23:34:52Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19057,
-    "updated_at": "2026-08-05T00:06:19Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -409,18 +436,9 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6794,
+    "stars": 6795,
     "updated_at": "2026-08-04T21:58:43Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30773,
-    "updated_at": "2026-08-04T21:55:01Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Jupyter notebooks to ramp up (Level 200: Agents V2) and build practical skills of using Microsoft Agent Framework's Pyth",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T21:41:04Z",
     "url": "https://github.com/LazaUK/MicrosoftAgentFramework-RampUp-AgentsV2"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 20,
-    "updated_at": "2026-08-04T21:30:24Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 79,
-    "updated_at": "2026-08-04T21:30:04Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
   }
 ]
