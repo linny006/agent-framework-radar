@@ -5,8 +5,116 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 611,
-    "updated_at": "2026-08-05T06:44:39Z",
+    "updated_at": "2026-08-05T07:00:04Z",
     "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "P2P pub/sub transport for AI agents. IPFS gossipsub + Ed25519 + eventual consistency. No central broker.",
+    "id": "konantgit-sys/p2p-agent-mesh",
+    "language": "Python",
+    "name": "konantgit-sys/p2p-agent-mesh",
+    "stars": 3,
+    "updated_at": "2026-08-05T06:59:20Z",
+    "url": "https://github.com/konantgit-sys/p2p-agent-mesh"
+  },
+  {
+    "description": "Microsoft Agent Framework middleware boundary for audited CapSolver visual QA tasks.",
+    "id": "CaLuya-Rita/microsoft-agent-framework-capsolver-middleware",
+    "language": "Python",
+    "name": "CaLuya-Rita/microsoft-agent-framework-capsolver-middleware",
+    "stars": 0,
+    "updated_at": "2026-08-05T06:58:40Z",
+    "url": "https://github.com/CaLuya-Rita/microsoft-agent-framework-capsolver-middleware"
+  },
+  {
+    "description": "\ud83e\uddbe The Agent Runtime Where Every Thought Is Visible \u2014 7 paradigms, 10 harness shells, zero black boxes.",
+    "id": "HhhBZzz/SpringClaw",
+    "language": "Java",
+    "name": "HhhBZzz/SpringClaw",
+    "stars": 1,
+    "updated_at": "2026-08-05T06:56:37Z",
+    "url": "https://github.com/HhhBZzz/SpringClaw"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-05T06:55:56Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1637,
+    "updated_at": "2026-08-05T06:54:24Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Self-hosted agent observability and control for Vercel's eve framework. Durable Postgres sessions, Docker sandbox, and a",
+    "id": "SammyTourani/evestack",
+    "language": "TypeScript",
+    "name": "SammyTourani/evestack",
+    "stars": 0,
+    "updated_at": "2026-08-05T06:53:01Z",
+    "url": "https://github.com/SammyTourani/evestack"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46635,
+    "updated_at": "2026-08-05T06:50:45Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 4896,
+    "updated_at": "2026-08-05T06:51:27Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-05T06:45:53Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 43,
+    "updated_at": "2026-08-05T06:45:24Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T06:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-08-05T06:44:46Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
@@ -18,15 +126,6 @@
     "url": "https://github.com/tsingxuanhan/NexusFlow"
   },
   {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1637,
-    "updated_at": "2026-08-05T06:43:14Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -36,22 +135,13 @@
     "url": "https://github.com/opencue/cuecards"
   },
   {
-    "description": "\ud83e\uddbe The Agent Runtime Where Every Thought Is Visible \u2014 7 paradigms, 10 harness shells, zero black boxes.",
-    "id": "HhhBZzz/SpringClaw",
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
     "language": "Java",
-    "name": "HhhBZzz/SpringClaw",
-    "stars": 1,
-    "updated_at": "2026-08-05T06:39:55Z",
-    "url": "https://github.com/HhhBZzz/SpringClaw"
-  },
-  {
-    "description": "P2P pub/sub transport for AI agents. IPFS gossipsub + Ed25519 + eventual consistency. No central broker.",
-    "id": "konantgit-sys/p2p-agent-mesh",
-    "language": "Python",
-    "name": "konantgit-sys/p2p-agent-mesh",
-    "stars": 3,
-    "updated_at": "2026-08-05T06:38:56Z",
-    "url": "https://github.com/konantgit-sys/p2p-agent-mesh"
+    "name": "iflytek/skillhub",
+    "stars": 4870,
+    "updated_at": "2026-08-05T06:34:54Z",
+    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -59,7 +149,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-08-05T06:32:31Z",
+    "updated_at": "2026-08-05T06:58:00Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -70,15 +160,6 @@
     "stars": 20,
     "updated_at": "2026-08-05T06:31:48Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T06:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -104,7 +185,7 @@
     "language": "Python",
     "name": "aandbcct/dotClaw",
     "stars": 9,
-    "updated_at": "2026-08-05T06:27:23Z",
+    "updated_at": "2026-08-05T06:54:55Z",
     "url": "https://github.com/aandbcct/dotClaw"
   },
   {
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8137,
-    "updated_at": "2026-08-05T06:44:46Z",
+    "updated_at": "2026-08-05T06:52:55Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -171,15 +252,6 @@
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 4896,
-    "updated_at": "2026-08-05T06:41:25Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
     "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
     "id": "streamcoreai/streamcore-server",
     "language": "Go",
@@ -196,15 +268,6 @@
     "stars": 6,
     "updated_at": "2026-08-05T06:10:55Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46634,
-    "updated_at": "2026-08-05T06:08:39Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -232,15 +295,6 @@
     "stars": 1285,
     "updated_at": "2026-08-05T05:53:29Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-05T05:51:49Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Durable, typed multi-agent framework for Go.",
@@ -391,62 +445,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 31015,
+    "stars": 31023,
     "updated_at": "2026-08-05T04:33:02Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
-    "id": "polymind-inc/agent-framework-js",
-    "language": "TypeScript",
-    "name": "polymind-inc/agent-framework-js",
-    "stars": 2,
-    "updated_at": "2026-08-05T04:31:14Z",
-    "url": "https://github.com/polymind-inc/agent-framework-js"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-08-05T04:26:34Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19064,
-    "updated_at": "2026-08-05T04:25:59Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-05T04:21:40Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 37,
-    "updated_at": "2026-08-05T04:17:30Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-05T04:16:58Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   }
 ]
