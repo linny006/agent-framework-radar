@@ -1,5 +1,95 @@
 [
   {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 233,
+    "updated_at": "2026-08-05T11:30:12Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
+    "id": "Gald3r-Labs/gald3r",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r",
+    "stars": 23,
+    "updated_at": "2026-08-05T11:27:36Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-05T11:27:01Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1642,
+    "updated_at": "2026-08-05T11:27:31Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
+    "id": "qmilab/asterism",
+    "language": "TypeScript",
+    "name": "qmilab/asterism",
+    "stars": 2,
+    "updated_at": "2026-08-05T11:24:22Z",
+    "url": "https://github.com/qmilab/asterism"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:22:52Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26115,
+    "updated_at": "2026-08-05T11:29:44Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8149,
+    "updated_at": "2026-08-05T11:23:17Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 4,
+    "updated_at": "2026-08-05T11:16:11Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T11:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
     "id": "Birfy/agentdescent",
     "language": "Python",
@@ -9,12 +99,21 @@
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
+    "description": "Production-grade TypeScript AI runtime focused on reliability, governance, and reproducible LLM systems. Multi-provider ",
+    "id": "elsium-ai/elsium-ai",
+    "language": "TypeScript",
+    "name": "elsium-ai/elsium-ai",
+    "stars": 13,
+    "updated_at": "2026-08-05T11:16:19Z",
+    "url": "https://github.com/elsium-ai/elsium-ai"
+  },
+  {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
     "id": "jiayan-xu/agent-core",
     "language": "Rust",
     "name": "jiayan-xu/agent-core",
     "stars": 1,
-    "updated_at": "2026-08-05T11:13:30Z",
+    "updated_at": "2026-08-05T11:30:26Z",
     "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
@@ -23,35 +122,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-05T11:12:59Z",
+    "updated_at": "2026-08-05T11:25:34Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8149,
-    "updated_at": "2026-08-05T11:12:49Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26115,
-    "updated_at": "2026-08-05T11:08:35Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
-    "id": "Gald3r-Labs/gald3r",
-    "language": "HTML",
-    "name": "Gald3r-Labs/gald3r",
-    "stars": 23,
-    "updated_at": "2026-08-05T11:07:25Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r"
   },
   {
     "description": "Local-first AI Employee OS: discover, hire, supervise, verify evidence, and grow AI employees.",
@@ -63,15 +135,6 @@
     "url": "https://github.com/staruhub/CrewClaw"
   },
   {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 4,
-    "updated_at": "2026-08-05T11:13:14Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
     "id": "mnemon-dev/mnemon",
     "language": "Go",
@@ -81,29 +144,11 @@
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T11:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Production-grade TypeScript AI runtime focused on reliability, governance, and reproducible LLM systems. Multi-provider ",
-    "id": "elsium-ai/elsium-ai",
-    "language": "TypeScript",
-    "name": "elsium-ai/elsium-ai",
-    "stars": 13,
-    "updated_at": "2026-08-05T11:13:54Z",
-    "url": "https://github.com/elsium-ai/elsium-ai"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 31179,
+    "stars": 31186,
     "updated_at": "2026-08-05T10:56:13Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -130,18 +175,9 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46655,
+    "stars": 46654,
     "updated_at": "2026-08-05T10:51:35Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1642,
-    "updated_at": "2026-08-05T10:51:22Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "SDK de c\u00f3digo abierto en Python para el patr\u00f3n Backend for Agents (BFA), extendido como un servidor de enrutamiento din\u00e1",
@@ -225,15 +261,6 @@
     "url": "https://github.com/Ash20pk/BerthOS"
   },
   {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 0,
-    "updated_at": "2026-08-05T10:29:56Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
     "description": "Self-hosted agent observability and control for Vercel's eve framework. Durable Postgres sessions, Docker sandbox, and a",
     "id": "SammyTourani/evestack",
     "language": "TypeScript",
@@ -288,15 +315,6 @@
     "url": "https://github.com/CocoRoF/geny-executor"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-05T10:14:08Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -338,7 +356,7 @@
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
     "stars": 4900,
-    "updated_at": "2026-08-05T11:15:22Z",
+    "updated_at": "2026-08-05T11:20:48Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 106,
-    "updated_at": "2026-08-05T10:00:22Z",
+    "updated_at": "2026-08-05T11:27:36Z",
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-05T09:23:01Z",
     "url": "https://github.com/hanyo-ai/taus"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1170,
-    "updated_at": "2026-08-05T09:15:33Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "An agent runtime designed for tool-driven loop engineering.",
-    "id": "wxhcore/bumblehive",
-    "language": "Python",
-    "name": "wxhcore/bumblehive",
-    "stars": 7,
-    "updated_at": "2026-08-05T09:15:01Z",
-    "url": "https://github.com/wxhcore/bumblehive"
   }
 ]
