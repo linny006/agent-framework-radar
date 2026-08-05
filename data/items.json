@@ -1,5 +1,23 @@
 [
   {
+    "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
+    "id": "polymind-inc/agent-framework-js",
+    "language": "TypeScript",
+    "name": "polymind-inc/agent-framework-js",
+    "stars": 2,
+    "updated_at": "2026-08-05T04:28:39Z",
+    "url": "https://github.com/polymind-inc/agent-framework-js"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T04:27:17Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
     "id": "streamcoreai/streamcore-server",
     "language": "Go",
@@ -7,6 +25,15 @@
     "stars": 97,
     "updated_at": "2026-08-05T04:27:04Z",
     "url": "https://github.com/streamcoreai/streamcore-server"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-05T04:26:37Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -31,7 +58,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30928,
+    "stars": 30931,
     "updated_at": "2026-08-05T04:24:57Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -61,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T04:16:58Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T04:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
@@ -239,7 +257,7 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1637,
-    "updated_at": "2026-08-05T03:33:42Z",
+    "updated_at": "2026-08-05T04:30:17Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -333,15 +351,6 @@
     "url": "https://github.com/moortekweb-art/agentic-harness"
   },
   {
-    "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
-    "id": "polymind-inc/agent-framework-js",
-    "language": "TypeScript",
-    "name": "polymind-inc/agent-framework-js",
-    "stars": 2,
-    "updated_at": "2026-08-05T03:15:30Z",
-    "url": "https://github.com/polymind-inc/agent-framework-js"
-  },
-  {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
     "id": "aeonfun/aeon",
     "language": "TypeScript",
@@ -401,7 +410,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-08-05T04:26:47Z",
+    "updated_at": "2026-08-05T04:29:35Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-05T01:58:01Z",
     "url": "https://github.com/phamvanquyit/raw-agents"
-  },
-  {
-    "description": "Shared governance, memory, identity, recovery, and stewardship foundations for OpenClaw AI systems.",
-    "id": "RainAndRiverSky/OpenClaw_Shared_Foundations",
-    "language": "JavaScript",
-    "name": "RainAndRiverSky/OpenClaw_Shared_Foundations",
-    "stars": 0,
-    "updated_at": "2026-08-05T01:55:50Z",
-    "url": "https://github.com/RainAndRiverSky/OpenClaw_Shared_Foundations"
   }
 ]
