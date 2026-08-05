@@ -1,5 +1,59 @@
 [
   {
+    "description": "An open-source agentic OS \u2014 infrastructure, not prompt text: multi-member runtime, auto-routed parallel context spaces, ",
+    "id": "5000Stadia/Kernos",
+    "language": "Python",
+    "name": "5000Stadia/Kernos",
+    "stars": 1,
+    "updated_at": "2026-08-05T06:14:15Z",
+    "url": "https://github.com/5000Stadia/Kernos"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 4896,
+    "updated_at": "2026-08-05T06:15:14Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
+    "id": "streamcoreai/streamcore-server",
+    "language": "Go",
+    "name": "streamcoreai/streamcore-server",
+    "stars": 98,
+    "updated_at": "2026-08-05T06:11:20Z",
+    "url": "https://github.com/streamcoreai/streamcore-server"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-08-05T06:10:55Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 49,
+    "updated_at": "2026-08-05T06:05:37Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T06:00:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
@@ -9,13 +63,13 @@
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
-    "description": "An open-source agentic OS \u2014 infrastructure, not prompt text: multi-member runtime, auto-routed parallel context spaces, ",
-    "id": "5000Stadia/Kernos",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "5000Stadia/Kernos",
-    "stars": 1,
-    "updated_at": "2026-08-05T05:56:55Z",
-    "url": "https://github.com/5000Stadia/Kernos"
+    "name": "omnigent-ai/omnigent",
+    "stars": 8132,
+    "updated_at": "2026-08-05T06:09:48Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
@@ -63,24 +117,6 @@
     "url": "https://github.com/Viking602/venat"
   },
   {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-08-05T05:47:16Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T05:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -99,15 +135,6 @@
     "url": "https://github.com/substructureai/substructure"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 49,
-    "updated_at": "2026-08-05T05:49:32Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -115,15 +142,6 @@
     "stars": 2230,
     "updated_at": "2026-08-05T05:34:02Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8131,
-    "updated_at": "2026-08-05T05:57:04Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 46632,
-    "updated_at": "2026-08-05T05:24:46Z",
+    "updated_at": "2026-08-05T06:08:39Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 9,
-    "updated_at": "2026-08-05T04:41:05Z",
+    "updated_at": "2026-08-05T06:05:29Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -265,7 +283,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30976,
+    "stars": 30992,
     "updated_at": "2026-08-05T04:33:02Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -277,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T04:31:14Z",
     "url": "https://github.com/polymind-inc/agent-framework-js"
-  },
-  {
-    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
-    "id": "streamcoreai/streamcore-server",
-    "language": "Go",
-    "name": "streamcoreai/streamcore-server",
-    "stars": 97,
-    "updated_at": "2026-08-05T04:27:04Z",
-    "url": "https://github.com/streamcoreai/streamcore-server"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T03:54:41Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
-    "id": "pereirawe/opencode-flow",
-    "language": "Shell",
-    "name": "pereirawe/opencode-flow",
-    "stars": 0,
-    "updated_at": "2026-08-05T03:46:11Z",
-    "url": "https://github.com/pereirawe/opencode-flow"
   }
 ]
