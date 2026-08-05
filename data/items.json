@@ -1,12 +1,111 @@
 [
   {
+    "description": "High-autonomy config for opencode: ship features end-to-end with one command. 5 models, 5 families, zero interruptions.",
+    "id": "vocino/opencode-autonomy",
+    "language": "TypeScript",
+    "name": "vocino/opencode-autonomy",
+    "stars": 1,
+    "updated_at": "2026-08-05T00:28:25Z",
+    "url": "https://github.com/vocino/opencode-autonomy"
+  },
+  {
+    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
+    "id": "BrainoutputHQ/brainoutput-community",
+    "language": "JavaScript",
+    "name": "BrainoutputHQ/brainoutput-community",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:26:59Z",
+    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 10,
+    "updated_at": "2026-08-05T00:29:22Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8118,
-    "updated_at": "2026-08-05T00:14:28Z",
+    "updated_at": "2026-08-05T00:25:18Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-08-05T00:23:43Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-05T00:22:08Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-08-05T00:18:09Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Managed agents harness on Cloudflare Workers \u2014 manifest-defined AI agents with swappable session strategies, agent patte",
+    "id": "blakebauman/felix",
+    "language": "TypeScript",
+    "name": "blakebauman/felix",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:25:21Z",
+    "url": "https://github.com/blakebauman/felix"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-08-05T00:16:43Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-08-05T00:16:29Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/agents-inc",
+    "language": "TypeScript",
+    "name": "agents-inc/agents-inc",
+    "stars": 5,
+    "updated_at": "2026-08-05T00:15:24Z",
+    "url": "https://github.com/agents-inc/agents-inc"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T00:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
@@ -68,7 +167,7 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 0,
-    "updated_at": "2026-08-05T00:02:44Z",
+    "updated_at": "2026-08-05T00:19:15Z",
     "url": "https://github.com/codewandler/flux"
   },
   {
@@ -99,15 +198,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T00:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -115,15 +205,6 @@
     "stars": 154,
     "updated_at": "2026-08-04T23:59:54Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Managed agents harness on Cloudflare Workers \u2014 manifest-defined AI agents with swappable session strategies, agent patte",
-    "id": "blakebauman/felix",
-    "language": "TypeScript",
-    "name": "blakebauman/felix",
-    "stars": 0,
-    "updated_at": "2026-08-05T00:14:05Z",
-    "url": "https://github.com/blakebauman/felix"
   },
   {
     "description": "P2P pub/sub transport for AI agents. IPFS gossipsub + Ed25519 + eventual consistency. No central broker.",
@@ -171,15 +252,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-05T00:09:24Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
     "id": "telus-labs/stagecraft",
     "language": "JavaScript",
@@ -196,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T23:40:21Z",
     "url": "https://github.com/cristofima/maf-graphrag-series"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-08-04T23:40:13Z",
-    "url": "https://github.com/brunogcar/agent"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -232,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T23:34:52Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 10,
-    "updated_at": "2026-08-04T23:37:37Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -284,7 +338,7 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 13,
-    "updated_at": "2026-08-04T23:16:22Z",
+    "updated_at": "2026-08-05T00:23:16Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -304,15 +358,6 @@
     "stars": 593,
     "updated_at": "2026-08-04T23:06:47Z",
     "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-08-05T00:12:35Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
@@ -351,15 +396,6 @@
     "url": "https://github.com/PeepSick/usb"
   },
   {
-    "description": "High-autonomy config for opencode: ship features end-to-end with one command. 5 models, 5 families, zero interruptions.",
-    "id": "vocino/opencode-autonomy",
-    "language": "TypeScript",
-    "name": "vocino/opencode-autonomy",
-    "stars": 1,
-    "updated_at": "2026-08-04T22:22:09Z",
-    "url": "https://github.com/vocino/opencode-autonomy"
-  },
-  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -382,27 +418,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 30760,
+    "stars": 30767,
     "updated_at": "2026-08-04T21:55:01Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
-    "id": "agents-inc/agents-inc",
-    "language": "TypeScript",
-    "name": "agents-inc/agents-inc",
-    "stars": 5,
-    "updated_at": "2026-08-04T21:50:27Z",
-    "url": "https://github.com/agents-inc/agents-inc"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-08-04T23:27:19Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Jupyter notebooks to ramp up (Level 200: Agents V2) and build practical skills of using Microsoft Agent Framework's Pyth",
@@ -430,23 +448,5 @@
     "stars": 79,
     "updated_at": "2026-08-04T21:30:04Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-08-04T21:28:29Z",
-    "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "A Java library to create reliable agents",
-    "id": "openconcerto/jOpenAgent",
-    "language": "Java",
-    "name": "openconcerto/jOpenAgent",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:26:34Z",
-    "url": "https://github.com/openconcerto/jOpenAgent"
   }
 ]
