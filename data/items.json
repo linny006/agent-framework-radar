@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 396,
+    "updated_at": "2026-08-05T09:13:21Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
+    "id": "tachyon-r/maximal-utility-agent-soul",
+    "language": "\u2014",
+    "name": "tachyon-r/maximal-utility-agent-soul",
+    "stars": 1,
+    "updated_at": "2026-08-05T09:12:31Z",
+    "url": "https://github.com/tachyon-r/maximal-utility-agent-soul"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8141,
+    "updated_at": "2026-08-05T09:14:33Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/agents-inc",
+    "language": "TypeScript",
+    "name": "agents-inc/agents-inc",
+    "stars": 5,
+    "updated_at": "2026-08-05T09:10:14Z",
+    "url": "https://github.com/agents-inc/agents-inc"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-05T09:09:13Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "ethosagent/ethos",
+    "language": "TypeScript",
+    "name": "ethosagent/ethos",
+    "stars": 12,
+    "updated_at": "2026-08-05T09:08:54Z",
+    "url": "https://github.com/ethosagent/ethos"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 611,
+    "updated_at": "2026-08-05T09:06:28Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-05T09:04:30Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
+    "id": "the-long-ride/engram",
+    "language": "TypeScript",
+    "name": "the-long-ride/engram",
+    "stars": 5,
+    "updated_at": "2026-08-05T09:03:41Z",
+    "url": "https://github.com/the-long-ride/engram"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T09:00:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -27,30 +117,12 @@
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8141,
-    "updated_at": "2026-08-05T08:58:11Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
-    "id": "the-long-ride/engram",
-    "language": "TypeScript",
-    "name": "the-long-ride/engram",
-    "stars": 5,
-    "updated_at": "2026-08-05T08:56:16Z",
-    "url": "https://github.com/the-long-ride/engram"
-  },
-  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "Insajin/autopus-adk",
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 106,
-    "updated_at": "2026-08-05T08:54:13Z",
+    "updated_at": "2026-08-05T09:08:05Z",
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
@@ -77,24 +149,15 @@
     "language": "Python",
     "name": "Ecro/harness-maker",
     "stars": 3,
-    "updated_at": "2026-08-05T08:47:16Z",
+    "updated_at": "2026-08-05T09:15:23Z",
     "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T08:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
     "id": "Birfy/agentdescent",
     "language": "Python",
     "name": "Birfy/agentdescent",
-    "stars": 49,
+    "stars": 50,
     "updated_at": "2026-08-05T08:44:28Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
@@ -104,7 +167,7 @@
     "language": "TypeScript",
     "name": "loopedautomation/meet",
     "stars": 6,
-    "updated_at": "2026-08-05T08:40:58Z",
+    "updated_at": "2026-08-05T09:01:31Z",
     "url": "https://github.com/loopedautomation/meet"
   },
   {
@@ -124,6 +187,15 @@
     "stars": 2,
     "updated_at": "2026-08-05T08:36:13Z",
     "url": "https://github.com/hanyo-ai/taus"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46650,
+    "updated_at": "2026-08-05T08:36:04Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -166,18 +238,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 31100,
+    "stars": 31108,
     "updated_at": "2026-08-05T08:19:47Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 611,
-    "updated_at": "2026-08-05T08:19:11Z",
-    "url": "https://github.com/framerslab/agentos"
   },
   {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
@@ -203,7 +266,7 @@
     "language": "Rust",
     "name": "atliliw/langchainrust",
     "stars": 13,
-    "updated_at": "2026-08-05T08:05:29Z",
+    "updated_at": "2026-08-05T09:03:08Z",
     "url": "https://github.com/atliliw/langchainrust"
   },
   {
@@ -214,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T08:21:18Z",
     "url": "https://github.com/open1s/bos"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-05T08:57:03Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
@@ -275,7 +329,7 @@
     "language": "Python",
     "name": "linora-u/AgentLoom",
     "stars": 90,
-    "updated_at": "2026-08-05T07:46:08Z",
+    "updated_at": "2026-08-05T09:05:50Z",
     "url": "https://github.com/linora-u/AgentLoom"
   },
   {
@@ -284,17 +338,8 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26113,
-    "updated_at": "2026-08-05T08:43:32Z",
+    "updated_at": "2026-08-05T09:04:47Z",
     "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46648,
-    "updated_at": "2026-08-05T08:36:04Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Production-ready FastAPI + React + TypeScript + PostgreSQL full-stack starter kit with an AI agent generator:6 orchestra",
@@ -304,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T07:43:20Z",
     "url": "https://github.com/Faizullah9181/codestash"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-05T08:58:57Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "The fully self-hostable, open composable platform for agent orchestration and human collaboration. With tools, security,",
@@ -401,7 +437,7 @@
     "language": "Python",
     "name": "wxhcore/bumblehive",
     "stars": 7,
-    "updated_at": "2026-08-05T07:22:57Z",
+    "updated_at": "2026-08-05T09:15:01Z",
     "url": "https://github.com/wxhcore/bumblehive"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-05T07:16:50Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-08-05T07:16:18Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-08-05T07:09:14Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\u4e00\u4e2a\u8f7b\u91cf\u7ea7agent harness\u6846\u67b6\uff0c\u7528\u4e8e\u5b66\u4e60\u4e0e\u5b9e\u8df5\u4e2a\u4ebaagent\u52a9\u624b\u67b6\u6784\u8bbe\u8ba1\uff0c\u57fa\u4e8eReAct\u67b6\u6784\uff0c\u7531\u4e2d\u95f4\u8def\u7531\u5c42\u8fde\u63a5\u5ba2\u6237\u7aef\u4e0e\u5e95\u5c42\u7ec4\u4ef6\uff0c\u5b9e\u73b0\u4e86\u591a\u6a21\u578b\u9002\u914d\u3001\u591a\u5e73\u53f0\u9002\u914d\u548c\u4f1a\u8bdd\u7ba1\u7406\u3002",
-    "id": "aandbcct/dotClaw",
-    "language": "Python",
-    "name": "aandbcct/dotClaw",
-    "stars": 9,
-    "updated_at": "2026-08-05T07:11:27Z",
-    "url": "https://github.com/aandbcct/dotClaw"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 3,
-    "updated_at": "2026-08-05T07:05:26Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
   }
 ]
