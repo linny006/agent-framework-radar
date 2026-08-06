@@ -5,8 +5,35 @@
     "language": "Rust",
     "name": "jiayan-xu/agent-core",
     "stars": 1,
-    "updated_at": "2026-08-06T12:58:22Z",
+    "updated_at": "2026-08-06T13:14:27Z",
     "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 32106,
+    "updated_at": "2026-08-06T13:13:40Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 9,
+    "updated_at": "2026-08-06T13:12:16Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-06T13:13:13Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
@@ -14,8 +41,35 @@
     "language": "Python",
     "name": "Dikhun/Arctus.ai",
     "stars": 1,
-    "updated_at": "2026-08-06T12:57:05Z",
+    "updated_at": "2026-08-06T13:10:32Z",
     "url": "https://github.com/Dikhun/Arctus.ai"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 405,
+    "updated_at": "2026-08-06T13:07:43Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-06T13:00:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Turn any skill into a standalone, runnable RAG-native AI Agent",
+    "id": "agenthatch/agenthatch",
+    "language": "Python",
+    "name": "agenthatch/agenthatch",
+    "stars": 62,
+    "updated_at": "2026-08-06T12:59:00Z",
+    "url": "https://github.com/agenthatch/agenthatch"
   },
   {
     "description": "Manage files, run shell commands, and control code tasks with this terminal-based agent for DeepSeek V4 on Windows.",
@@ -61,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T12:53:12Z",
     "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-06T13:00:12Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32102,
-    "updated_at": "2026-08-06T12:51:58Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -216,15 +252,6 @@
     "url": "https://github.com/Messa8301/quickbench"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-06T12:45:35Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
     "id": "Avesrarity821/robopotato",
     "language": "\u2014",
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8208,
-    "updated_at": "2026-08-06T12:55:01Z",
+    "updated_at": "2026-08-06T13:14:03Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-06T12:25:49Z",
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "A glass-box, minimal library for building LLM agents \u2014 modern techniques as opt-in primitives, no hidden control flow. P",
-    "id": "DrobyshevDev/glia",
-    "language": "Python",
-    "name": "DrobyshevDev/glia",
-    "stars": 0,
-    "updated_at": "2026-08-06T12:24:59Z",
-    "url": "https://github.com/DrobyshevDev/glia"
-  },
-  {
-    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
-    "id": "s2mgtvodois2/postgresql-mcp-js",
-    "language": "TypeScript",
-    "name": "s2mgtvodois2/postgresql-mcp-js",
-    "stars": 1,
-    "updated_at": "2026-08-06T12:19:35Z",
-    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 3,
-    "updated_at": "2026-08-06T12:31:37Z",
-    "url": "https://github.com/Ecro/harness-maker"
   }
 ]
