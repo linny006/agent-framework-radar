@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-06T07:45:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
     "id": "s2mgtvodois2/postgresql-mcp-js",
     "language": "TypeScript",
@@ -22,7 +31,7 @@
     "id": "polymind-inc/agent-framework-js",
     "language": "TypeScript",
     "name": "polymind-inc/agent-framework-js",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-08-06T07:43:30Z",
     "url": "https://github.com/polymind-inc/agent-framework-js"
   },
@@ -31,7 +40,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 31916,
+    "stars": 31919,
     "updated_at": "2026-08-06T07:40:29Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8191,
-    "updated_at": "2026-08-06T07:38:27Z",
+    "updated_at": "2026-08-06T07:47:28Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -108,15 +117,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-06T07:30:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -140,7 +140,7 @@
     "language": "TypeScript",
     "name": "ethosagent/ethos",
     "stars": 14,
-    "updated_at": "2026-08-06T07:34:37Z",
+    "updated_at": "2026-08-06T07:48:06Z",
     "url": "https://github.com/ethosagent/ethos"
   },
   {
@@ -293,7 +293,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-08-06T06:46:19Z",
+    "updated_at": "2026-08-06T07:45:47Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -310,7 +310,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46697,
+    "stars": 46698,
     "updated_at": "2026-08-06T06:38:53Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -356,7 +356,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4839,
-    "updated_at": "2026-08-06T07:42:31Z",
+    "updated_at": "2026-08-06T07:47:52Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
