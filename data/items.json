@@ -1,5 +1,104 @@
 [
   {
+    "description": "A glass-box, minimal library for building LLM agents \u2014 modern techniques as opt-in primitives, no hidden control flow. P",
+    "id": "DrobyshevDev/glia",
+    "language": "Python",
+    "name": "DrobyshevDev/glia",
+    "stars": 0,
+    "updated_at": "2026-08-06T07:28:54Z",
+    "url": "https://github.com/DrobyshevDev/glia"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "ethosagent/ethos",
+    "language": "TypeScript",
+    "name": "ethosagent/ethos",
+    "stars": 14,
+    "updated_at": "2026-08-06T07:28:47Z",
+    "url": "https://github.com/ethosagent/ethos"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1641,
+    "updated_at": "2026-08-06T07:27:02Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 403,
+    "updated_at": "2026-08-06T07:26:47Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8190,
+    "updated_at": "2026-08-06T07:25:37Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1650,
+    "updated_at": "2026-08-06T07:25:26Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 31905,
+    "updated_at": "2026-08-06T07:24:51Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1285,
+    "updated_at": "2026-08-06T07:22:34Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "write once in markdown. forge for any harness.",
+    "id": "odysseusdev/hephaestus",
+    "language": "TypeScript",
+    "name": "odysseusdev/hephaestus",
+    "stars": 0,
+    "updated_at": "2026-08-06T07:22:28Z",
+    "url": "https://github.com/odysseusdev/hephaestus"
+  },
+  {
+    "description": "\ud83e\udd16 Open-source AI Agent Orchestration Framework \u2014 Build production-ready AI agents with Python, TypeScript & Go",
+    "id": "kahlelhawary-art/FlowAgent",
+    "language": "Python",
+    "name": "kahlelhawary-art/FlowAgent",
+    "stars": 0,
+    "updated_at": "2026-08-06T07:17:17Z",
+    "url": "https://github.com/kahlelhawary-art/FlowAgent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-06T07:15:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
@@ -18,15 +117,6 @@
     "url": "https://github.com/bhodgens/meept"
   },
   {
-    "description": "\ud83e\udd16 Open-source AI Agent Orchestration Framework \u2014 Build production-ready AI agents with Python, TypeScript & Go",
-    "id": "kahlelhawary-art/FlowAgent",
-    "language": "Python",
-    "name": "kahlelhawary-art/FlowAgent",
-    "stars": 0,
-    "updated_at": "2026-08-06T07:12:35Z",
-    "url": "https://github.com/kahlelhawary-art/FlowAgent"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -41,7 +131,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-06T07:09:33Z",
+    "updated_at": "2026-08-06T07:24:41Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -52,33 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-06T07:09:23Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 403,
-    "updated_at": "2026-08-06T07:07:56Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 31889,
-    "updated_at": "2026-08-06T07:07:22Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1650,
-    "updated_at": "2026-08-06T07:07:16Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -117,15 +180,6 @@
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-06T07:00:43Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
     "id": "substructureai/substructure",
     "language": "Rust",
@@ -133,15 +187,6 @@
     "stars": 5,
     "updated_at": "2026-08-06T07:00:05Z",
     "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8189,
-    "updated_at": "2026-08-06T07:12:18Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
@@ -216,24 +261,6 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 14,
-    "updated_at": "2026-08-06T06:33:06Z",
-    "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1640,
-    "updated_at": "2026-08-06T06:32:58Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -265,8 +292,8 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4838,
-    "updated_at": "2026-08-06T06:26:34Z",
+    "stars": 4839,
+    "updated_at": "2026-08-06T07:26:09Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -331,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T06:22:13Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1285,
-    "updated_at": "2026-08-06T07:12:57Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-06T06:05:48Z",
     "url": "https://github.com/punkxuxu/bank_soal"
-  },
-  {
-    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 3,
-    "updated_at": "2026-08-06T06:08:18Z",
-    "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "Open-source Python framework for building coding agents. Pick your provider, pick your tools, pick your loop. Chimera wi",
-    "id": "0bserver07/chimera",
-    "language": "Python",
-    "name": "0bserver07/chimera",
-    "stars": 2,
-    "updated_at": "2026-08-06T06:03:45Z",
-    "url": "https://github.com/0bserver07/chimera"
   }
 ]
