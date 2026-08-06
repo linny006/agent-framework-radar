@@ -1,5 +1,113 @@
 [
   {
+    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
+    "id": "SammyTourani/evestack",
+    "language": "TypeScript",
+    "name": "SammyTourani/evestack",
+    "stars": 0,
+    "updated_at": "2026-08-06T22:30:19Z",
+    "url": "https://github.com/SammyTourani/evestack"
+  },
+  {
+    "description": "Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases",
+    "id": "ellmos-ai/gardener",
+    "language": "Python",
+    "name": "ellmos-ai/gardener",
+    "stars": 1,
+    "updated_at": "2026-08-06T22:29:50Z",
+    "url": "https://github.com/ellmos-ai/gardener"
+  },
+  {
+    "description": "\ud83e\udd16 Open-source AI Agent Orchestration Framework \u2014 Build production-ready AI agents with Python, TypeScript & Go",
+    "id": "kahlelhawary-art/FlowAgent",
+    "language": "Python",
+    "name": "kahlelhawary-art/FlowAgent",
+    "stars": 0,
+    "updated_at": "2026-08-06T22:30:09Z",
+    "url": "https://github.com/kahlelhawary-art/FlowAgent"
+  },
+  {
+    "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
+    "id": "mathissdupont/ingot",
+    "language": "Rust",
+    "name": "mathissdupont/ingot",
+    "stars": 0,
+    "updated_at": "2026-08-06T22:27:28Z",
+    "url": "https://github.com/mathissdupont/ingot"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8232,
+    "updated_at": "2026-08-06T22:31:02Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
+    "id": "devpilgrin/berimor",
+    "language": "Rust",
+    "name": "devpilgrin/berimor",
+    "stars": 0,
+    "updated_at": "2026-08-06T22:32:26Z",
+    "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 3,
+    "updated_at": "2026-08-06T22:22:04Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Manage files, run shell commands, and control code tasks with this terminal-based agent for DeepSeek V4 on Windows.",
+    "id": "bahateacher/DeepSeek-TUI-2026",
+    "language": "Python",
+    "name": "bahateacher/DeepSeek-TUI-2026",
+    "stars": 0,
+    "updated_at": "2026-08-06T22:20:24Z",
+    "url": "https://github.com/bahateacher/DeepSeek-TUI-2026"
+  },
+  {
+    "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
+    "id": "zerovia/be-a-lucky-block-hub",
+    "language": "HTML",
+    "name": "zerovia/be-a-lucky-block-hub",
+    "stars": 0,
+    "updated_at": "2026-08-06T22:19:30Z",
+    "url": "https://github.com/zerovia/be-a-lucky-block-hub"
+  },
+  {
+    "description": "Continuous Self-Improving System (CSIS): a runnable Phase-0 multi-agent prototype built in public alongside 9 cycles of ",
+    "id": "jim4226/CSIS",
+    "language": "Python",
+    "name": "jim4226/CSIS",
+    "stars": 1,
+    "updated_at": "2026-08-06T22:17:00Z",
+    "url": "https://github.com/jim4226/CSIS"
+  },
+  {
+    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
+    "id": "salvatoreabient793/cursor-auto-deployment-agent",
+    "language": "\u2014",
+    "name": "salvatoreabient793/cursor-auto-deployment-agent",
+    "stars": 0,
+    "updated_at": "2026-08-06T22:16:46Z",
+    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-06T22:16:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
     "id": "herreravalenz6620/context-compression",
     "language": "Python",
@@ -63,15 +171,6 @@
     "url": "https://github.com/plain-sleepydick853/feros"
   },
   {
-    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
-    "id": "devpilgrin/berimor",
-    "language": "Rust",
-    "name": "devpilgrin/berimor",
-    "stars": 0,
-    "updated_at": "2026-08-06T22:12:47Z",
-    "url": "https://github.com/devpilgrin/berimor"
-  },
-  {
     "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
     "id": "Tamang4607/rustyhand",
     "language": "Rust",
@@ -97,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-06T22:11:56Z",
     "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Continuous Self-Improving System (CSIS): a runnable Phase-0 multi-agent prototype built in public alongside 9 cycles of ",
-    "id": "jim4226/CSIS",
-    "language": "Python",
-    "name": "jim4226/CSIS",
-    "stars": 1,
-    "updated_at": "2026-08-06T22:14:45Z",
-    "url": "https://github.com/jim4226/CSIS"
   },
   {
     "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
@@ -162,15 +252,6 @@
     "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8230,
-    "updated_at": "2026-08-06T22:14:30Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
@@ -185,7 +266,7 @@
     "language": "Go",
     "name": "spice-framework/spice-agent-provider-openai",
     "stars": 0,
-    "updated_at": "2026-08-06T22:06:58Z",
+    "updated_at": "2026-08-06T22:30:08Z",
     "url": "https://github.com/spice-framework/spice-agent-provider-openai"
   },
   {
@@ -338,7 +419,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 50,
-    "updated_at": "2026-08-06T21:45:22Z",
+    "updated_at": "2026-08-06T22:19:23Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-06T21:35:52Z",
     "url": "https://github.com/jamillazarev/opsinist"
-  },
-  {
-    "description": "Spice-native terminal UI components and Bubble Tea integration for Spice Agent.",
-    "id": "spice-framework/spice-agent-tui",
-    "language": "Go",
-    "name": "spice-framework/spice-agent-tui",
-    "stars": 0,
-    "updated_at": "2026-08-06T21:31:50Z",
-    "url": "https://github.com/spice-framework/spice-agent-tui"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 173,
-    "updated_at": "2026-08-06T21:53:49Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 5,
-    "updated_at": "2026-08-06T21:27:34Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-08-06T21:23:37Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-08-06T21:21:49Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
-    "id": "Zuga-Technologies/zugamind",
-    "language": "Python",
-    "name": "Zuga-Technologies/zugamind",
-    "stars": 13,
-    "updated_at": "2026-08-06T21:21:15Z",
-    "url": "https://github.com/Zuga-Technologies/zugamind"
-  },
-  {
-    "description": "Reference generated coding-agent distribution built with Spice Agent.",
-    "id": "spice-framework/spice-agent-coding",
-    "language": "Go",
-    "name": "spice-framework/spice-agent-coding",
-    "stars": 0,
-    "updated_at": "2026-08-06T21:14:29Z",
-    "url": "https://github.com/spice-framework/spice-agent-coding"
-  },
-  {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 2,
-    "updated_at": "2026-08-06T21:56:58Z",
-    "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
-    "id": "Alexli18/binex",
-    "language": "Python",
-    "name": "Alexli18/binex",
-    "stars": 62,
-    "updated_at": "2026-08-06T22:09:56Z",
-    "url": "https://github.com/Alexli18/binex"
   }
 ]
