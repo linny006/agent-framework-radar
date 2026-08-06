@@ -1,5 +1,77 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 32172,
+    "updated_at": "2026-08-06T14:58:19Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
+    "id": "Dikhun/Arctus.ai",
+    "language": "Python",
+    "name": "Dikhun/Arctus.ai",
+    "stars": 1,
+    "updated_at": "2026-08-06T14:58:18Z",
+    "url": "https://github.com/Dikhun/Arctus.ai"
+  },
+  {
+    "description": "A reasoning-first idle engine for persistent LLM agents. Behaviour emerges from the agent reasoning about its idle state",
+    "id": "freeze1999/reverie-automata",
+    "language": "Python",
+    "name": "freeze1999/reverie-automata",
+    "stars": 2,
+    "updated_at": "2026-08-06T14:57:02Z",
+    "url": "https://github.com/freeze1999/reverie-automata"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-06T14:54:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
+    "id": "bailong-Hakuryu/E.R.I.I",
+    "language": "Python",
+    "name": "bailong-Hakuryu/E.R.I.I",
+    "stars": 1,
+    "updated_at": "2026-08-06T14:54:18Z",
+    "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 237,
+    "updated_at": "2026-08-06T14:54:18Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Manage files, run shell commands, and control code tasks with this terminal-based agent for DeepSeek V4 on Windows.",
+    "id": "bahateacher/DeepSeek-TUI-2026",
+    "language": "Python",
+    "name": "bahateacher/DeepSeek-TUI-2026",
+    "stars": 0,
+    "updated_at": "2026-08-06T14:52:46Z",
+    "url": "https://github.com/bahateacher/DeepSeek-TUI-2026"
+  },
+  {
+    "description": "Self-hostable AI agent runtime \u2014 single Rust binary, Tailscale cluster, runs across Mac/Linux/Windows/Android/iOS withou",
+    "id": "markl-a/spectyn-mesh",
+    "language": "Rust",
+    "name": "markl-a/spectyn-mesh",
+    "stars": 4,
+    "updated_at": "2026-08-06T14:52:34Z",
+    "url": "https://github.com/markl-a/spectyn-mesh"
+  },
+  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T14:51:43Z",
     "url": "https://github.com/zerovia/be-a-lucky-block-hub"
-  },
-  {
-    "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
-    "id": "bailong-Hakuryu/E.R.I.I",
-    "language": "Python",
-    "name": "bailong-Hakuryu/E.R.I.I",
-    "stars": 1,
-    "updated_at": "2026-08-06T14:54:18Z",
-    "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -99,15 +162,6 @@
     "url": "https://github.com/muhamedali7713/agent-audit"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-06T14:45:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
     "id": "floccose-burner9185/wow-harness",
     "language": "Python",
@@ -115,6 +169,15 @@
     "stars": 0,
     "updated_at": "2026-08-06T14:45:01Z",
     "url": "https://github.com/floccose-burner9185/wow-harness"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8215,
+    "updated_at": "2026-08-06T14:59:47Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
@@ -194,7 +257,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26130,
-    "updated_at": "2026-08-06T14:54:27Z",
+    "updated_at": "2026-08-06T14:55:38Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -229,7 +292,7 @@
     "id": "Oryxa-Vault/oryxa",
     "language": "Go",
     "name": "Oryxa-Vault/oryxa",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-06T14:38:15Z",
     "url": "https://github.com/Oryxa-Vault/oryxa"
   },
@@ -270,15 +333,6 @@
     "url": "https://github.com/impartshadow/shadow"
   },
   {
-    "description": "Self-hostable AI agent runtime \u2014 single Rust binary, Tailscale cluster, runs across Mac/Linux/Windows/Android/iOS withou",
-    "id": "markl-a/spectyn-mesh",
-    "language": "Rust",
-    "name": "markl-a/spectyn-mesh",
-    "stars": 4,
-    "updated_at": "2026-08-06T14:52:34Z",
-    "url": "https://github.com/markl-a/spectyn-mesh"
-  },
-  {
     "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
     "id": "kokorubbong/agenticqa-scan-action",
     "language": "Python",
@@ -293,7 +347,7 @@
     "language": "Python",
     "name": "JohnnyFiv3r/Core-Memory",
     "stars": 21,
-    "updated_at": "2026-08-06T14:51:48Z",
+    "updated_at": "2026-08-06T14:59:03Z",
     "url": "https://github.com/JohnnyFiv3r/Core-Memory"
   },
   {
@@ -331,24 +385,6 @@
     "stars": 5,
     "updated_at": "2026-08-06T14:54:18Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "A reasoning-first idle engine for persistent LLM agents. Behaviour emerges from the agent reasoning about its idle state",
-    "id": "freeze1999/reverie-automata",
-    "language": "Python",
-    "name": "freeze1999/reverie-automata",
-    "stars": 2,
-    "updated_at": "2026-08-06T14:32:16Z",
-    "url": "https://github.com/freeze1999/reverie-automata"
-  },
-  {
-    "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
-    "id": "Dikhun/Arctus.ai",
-    "language": "Python",
-    "name": "Dikhun/Arctus.ai",
-    "stars": 1,
-    "updated_at": "2026-08-06T14:54:24Z",
-    "url": "https://github.com/Dikhun/Arctus.ai"
   },
   {
     "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
@@ -405,15 +441,6 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 237,
-    "updated_at": "2026-08-06T14:54:18Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
     "id": "thesiddguy/GenAI",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-06T14:24:38Z",
     "url": "https://github.com/thesiddguy/GenAI"
-  },
-  {
-    "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
-    "id": "trbearth/fieldwork-agent-os",
-    "language": "CSS",
-    "name": "trbearth/fieldwork-agent-os",
-    "stars": 0,
-    "updated_at": "2026-08-06T14:24:12Z",
-    "url": "https://github.com/trbearth/fieldwork-agent-os"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-06T14:43:07Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
-    "id": "yassineelfakiri/agentpg",
-    "language": "Go",
-    "name": "yassineelfakiri/agentpg",
-    "stars": 0,
-    "updated_at": "2026-08-06T14:22:04Z",
-    "url": "https://github.com/yassineelfakiri/agentpg"
   }
 ]
