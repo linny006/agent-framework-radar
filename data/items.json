@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agent frameworks are single-user. Oryxa makes them multi-user \u2014 shared rooms with live streaming, an append-only event l",
+    "id": "Oryxa-Vault/oryxa",
+    "language": "Go",
+    "name": "Oryxa-Vault/oryxa",
+    "stars": 1,
+    "updated_at": "2026-08-07T22:15:11Z",
+    "url": "https://github.com/Oryxa-Vault/oryxa"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-07T22:14:39Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
+    "id": "firatcand/roster",
+    "language": "TypeScript",
+    "name": "firatcand/roster",
+    "stars": 17,
+    "updated_at": "2026-08-07T22:11:50Z",
+    "url": "https://github.com/firatcand/roster"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 10,
+    "updated_at": "2026-08-07T22:10:24Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "A governed multi-agent framework built on git",
+    "id": "cordfuse/politik",
+    "language": "TypeScript",
+    "name": "cordfuse/politik",
+    "stars": 0,
+    "updated_at": "2026-08-07T22:10:15Z",
+    "url": "https://github.com/cordfuse/politik"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8287,
+    "updated_at": "2026-08-07T22:13:53Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-07T22:00:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-08-07T22:00:14Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -32,17 +104,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19130,
-    "updated_at": "2026-08-07T21:59:01Z",
+    "updated_at": "2026-08-07T22:07:49Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8285,
-    "updated_at": "2026-08-07T21:56:05Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -50,7 +113,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-07T21:55:30Z",
+    "updated_at": "2026-08-07T22:06:07Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -90,24 +153,6 @@
     "url": "https://github.com/efuturetoday/nocturn"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-07T21:53:14Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A governed multi-agent framework built on git",
-    "id": "cordfuse/politik",
-    "language": "TypeScript",
-    "name": "cordfuse/politik",
-    "stars": 0,
-    "updated_at": "2026-08-07T21:51:58Z",
-    "url": "https://github.com/cordfuse/politik"
-  },
-  {
     "description": "Spice-native deterministic agent SDK, kernel, protocols, daemon, and runtime plugin host.",
     "id": "spice-framework/spice-agent",
     "language": "Go",
@@ -140,17 +185,8 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-08-07T21:48:59Z",
+    "updated_at": "2026-08-07T22:14:20Z",
     "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-07T21:58:03Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "A minimal, opinionated agent harness \u2014 focused scope, straightforward code, easy to fork",
@@ -234,15 +270,6 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-08-07T22:00:14Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -322,15 +349,6 @@
     "stars": 2232,
     "updated_at": "2026-08-07T21:21:14Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Agent frameworks are single-user. Oryxa makes them multi-user \u2014 shared rooms with live streaming, an append-only event l",
-    "id": "Oryxa-Vault/oryxa",
-    "language": "Go",
-    "name": "Oryxa-Vault/oryxa",
-    "stars": 1,
-    "updated_at": "2026-08-07T21:00:44Z",
-    "url": "https://github.com/Oryxa-Vault/oryxa"
   },
   {
     "description": "A Unified Theory of Observer-Process Integration for Universal Problem Solving Through Tri-Dimensional Entropy Navigatio",
@@ -414,15 +432,6 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 10,
-    "updated_at": "2026-08-07T20:13:35Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -437,16 +446,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 173,
-    "updated_at": "2026-08-07T21:38:01Z",
+    "updated_at": "2026-08-07T22:05:44Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-08-07T20:04:36Z",
-    "url": "https://github.com/brunogcar/agent"
   }
 ]
