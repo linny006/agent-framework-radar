@@ -1,5 +1,131 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8249,
+    "updated_at": "2026-08-07T12:55:21Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 155,
+    "updated_at": "2026-08-07T12:54:13Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-08-07T12:53:01Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 32791,
+    "updated_at": "2026-08-07T12:52:51Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 3,
+    "updated_at": "2026-08-07T12:51:49Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-07T12:51:37Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
+    "id": "George-RD/openspine",
+    "language": "Rust",
+    "name": "George-RD/openspine",
+    "stars": 1,
+    "updated_at": "2026-08-07T12:53:07Z",
+    "url": "https://github.com/George-RD/openspine"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-07T12:50:19Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-07T12:49:27Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-07T12:49:26Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Go",
+    "name": "shaharia-lab/agento",
+    "stars": 24,
+    "updated_at": "2026-08-07T12:47:32Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 2,
+    "updated_at": "2026-08-07T12:57:50Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-07T12:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Loop + Wiki agent framework \u2014 the wiki is the agent's mind. Identity, memory & capabilities live in plain markdown, load",
+    "id": "hanyo-ai/taus",
+    "language": "Python",
+    "name": "hanyo-ai/taus",
+    "stars": 2,
+    "updated_at": "2026-08-07T12:45:22Z",
+    "url": "https://github.com/hanyo-ai/taus"
+  },
+  {
     "description": "KAF - The governance layer for multi-agent swarms. Constitution-as-Code + 520 Runtime Guard. Stop AI agents from deletin",
     "id": "lsjpp2/king-agent-swarm",
     "language": "Python",
@@ -18,15 +144,6 @@
     "url": "https://github.com/AmritaBot/AmritaCore"
   },
   {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Go",
-    "name": "shaharia-lab/agento",
-    "stars": 24,
-    "updated_at": "2026-08-07T12:45:14Z",
-    "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
     "id": "Marssssss/OneAI",
     "language": "Rust",
@@ -34,15 +151,6 @@
     "stars": 36,
     "updated_at": "2026-08-07T12:39:19Z",
     "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 2,
-    "updated_at": "2026-08-07T12:43:28Z",
-    "url": "https://github.com/ionalpha/flynn"
   },
   {
     "description": "Spice-native deterministic agent SDK, kernel, protocols, daemon, and runtime plugin host.",
@@ -59,17 +167,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-07T12:42:02Z",
+    "updated_at": "2026-08-07T12:58:58Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32791,
-    "updated_at": "2026-08-07T12:42:47Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -90,6 +189,15 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14788,
+    "updated_at": "2026-08-07T12:34:43Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
     "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
     "id": "shibing624/agentica",
     "language": "Python",
@@ -97,15 +205,6 @@
     "stars": 340,
     "updated_at": "2026-08-07T12:33:00Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-07T12:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
@@ -131,7 +230,7 @@
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 106,
-    "updated_at": "2026-08-07T12:23:28Z",
+    "updated_at": "2026-08-07T12:49:43Z",
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
@@ -151,24 +250,6 @@
     "stars": 420,
     "updated_at": "2026-08-07T12:21:55Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8249,
-    "updated_at": "2026-08-07T12:20:53Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-08-07T12:15:14Z",
-    "url": "https://github.com/MariusYvard/corparius"
   },
   {
     "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
@@ -221,7 +302,7 @@
     "language": "Rust",
     "name": "jiayan-xu/agent-core",
     "stars": 1,
-    "updated_at": "2026-08-07T12:08:07Z",
+    "updated_at": "2026-08-07T12:57:16Z",
     "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
@@ -266,17 +347,8 @@
     "language": "TypeScript",
     "name": "sweatco/archie-hq",
     "stars": 16,
-    "updated_at": "2026-08-07T12:35:19Z",
+    "updated_at": "2026-08-07T12:56:44Z",
     "url": "https://github.com/sweatco/archie-hq"
-  },
-  {
-    "description": "Loop + Wiki agent framework \u2014 the wiki is the agent's mind. Identity, memory & capabilities live in plain markdown, load",
-    "id": "hanyo-ai/taus",
-    "language": "Python",
-    "name": "hanyo-ai/taus",
-    "stars": 2,
-    "updated_at": "2026-08-07T12:45:22Z",
-    "url": "https://github.com/hanyo-ai/taus"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -286,24 +358,6 @@
     "stars": 2,
     "updated_at": "2026-08-07T11:56:52Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14787,
-    "updated_at": "2026-08-07T12:34:43Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-07T11:54:15Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -378,21 +432,12 @@
     "url": "https://github.com/Dvine6263/wigolo"
   },
   {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 155,
-    "updated_at": "2026-08-07T11:42:22Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
     "id": "deepset-ai/haystack",
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26135,
-    "updated_at": "2026-08-07T11:42:14Z",
+    "updated_at": "2026-08-07T12:54:34Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 950,
     "updated_at": "2026-08-07T11:40:58Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-07T11:40:38Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-07T11:40:32Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 9,
-    "updated_at": "2026-08-07T11:38:50Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-08-07T11:37:03Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1667,
-    "updated_at": "2026-08-07T11:35:57Z",
-    "url": "https://github.com/cortexkit/magic-context"
   }
 ]
