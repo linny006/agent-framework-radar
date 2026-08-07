@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 418,
+    "updated_at": "2026-08-07T21:59:32Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:58:07Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-07T21:57:28Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19130,
+    "updated_at": "2026-08-07T21:59:01Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8285,
+    "updated_at": "2026-08-07T21:56:05Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:55:30Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
+    "id": "achappey/aihappey-chat",
+    "language": "TypeScript",
+    "name": "achappey/aihappey-chat",
+    "stars": 3,
+    "updated_at": "2026-08-07T21:54:55Z",
+    "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 290,
+    "updated_at": "2026-08-07T21:55:05Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "A markdown-based agent operating system for AI-assisted cold outbound. Draft-first: nothing sends without explicit human",
+    "id": "kelleysd-apps/leadbench",
+    "language": "Python",
+    "name": "kelleysd-apps/leadbench",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:53:25Z",
+    "url": "https://github.com/kelleysd-apps/leadbench"
+  },
+  {
+    "description": "A personal AI assistant in one Go binary: WASM-sandboxed extensions, per-action permission gating, and mandatory out-of-",
+    "id": "efuturetoday/nocturn",
+    "language": "Go",
+    "name": "efuturetoday/nocturn",
+    "stars": 1,
+    "updated_at": "2026-08-07T21:55:43Z",
+    "url": "https://github.com/efuturetoday/nocturn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-07T21:53:14Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A governed multi-agent framework built on git",
     "id": "cordfuse/politik",
     "language": "TypeScript",
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-07T21:49:11Z",
+    "updated_at": "2026-08-07T21:58:03Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -61,24 +160,6 @@
     "stars": 9,
     "updated_at": "2026-08-07T21:48:14Z",
     "url": "https://github.com/ryanbbrown/thinharness"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8284,
-    "updated_at": "2026-08-07T21:49:05Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-07T21:45:38Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Reference generated coding-agent distribution built with Spice Agent.",
@@ -158,7 +239,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-07T21:49:23Z",
+    "updated_at": "2026-08-07T22:00:14Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -187,15 +268,6 @@
     "stars": 20,
     "updated_at": "2026-08-07T21:30:58Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-07T21:50:38Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
@@ -252,33 +324,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19129,
-    "updated_at": "2026-08-07T21:50:10Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-07T21:15:48Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 290,
-    "updated_at": "2026-08-07T21:05:14Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
     "description": "Agent frameworks are single-user. Oryxa makes them multi-user \u2014 shared rooms with live streaming, an append-only event l",
     "id": "Oryxa-Vault/oryxa",
     "language": "Go",
@@ -324,20 +369,11 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "A markdown-based agent operating system for AI-assisted cold outbound. Draft-first: nothing sends without explicit human",
-    "id": "kelleysd-apps/leadbench",
-    "language": "Python",
-    "name": "kelleysd-apps/leadbench",
-    "stars": 0,
-    "updated_at": "2026-08-07T20:42:58Z",
-    "url": "https://github.com/kelleysd-apps/leadbench"
-  },
-  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 5758,
+    "stars": 5759,
     "updated_at": "2026-08-07T20:40:57Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -367,15 +403,6 @@
     "stars": 239,
     "updated_at": "2026-08-07T20:30:42Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "A personal AI assistant in one Go binary: WASM-sandboxed extensions, per-action permission gating, and mandatory out-of-",
-    "id": "efuturetoday/nocturn",
-    "language": "Go",
-    "name": "efuturetoday/nocturn",
-    "stars": 1,
-    "updated_at": "2026-08-07T21:52:57Z",
-    "url": "https://github.com/efuturetoday/nocturn"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-07T20:04:36Z",
     "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 6,
-    "updated_at": "2026-08-07T20:00:55Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
-    "id": "Ash20pk/BerthOS",
-    "language": "TypeScript",
-    "name": "Ash20pk/BerthOS",
-    "stars": 0,
-    "updated_at": "2026-08-07T19:57:54Z",
-    "url": "https://github.com/Ash20pk/BerthOS"
-  },
-  {
-    "description": "High-performance async AI companion/agent core with hybrid Python + C++ scheduler. Features long-term memory, emotional ",
-    "id": "hakituo/xiaoyou-core",
-    "language": "Python",
-    "name": "hakituo/xiaoyou-core",
-    "stars": 0,
-    "updated_at": "2026-08-07T19:56:34Z",
-    "url": "https://github.com/hakituo/xiaoyou-core"
   }
 ]
