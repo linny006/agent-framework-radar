@@ -1,11 +1,29 @@
 [
   {
+    "description": "Define AI agent roles in YAML and run them anywhere: CLI, API server, or autonomous daemon",
+    "id": "vladkesler/initrunner",
+    "language": "Python",
+    "name": "vladkesler/initrunner",
+    "stars": 39,
+    "updated_at": "2026-08-07T15:45:55Z",
+    "url": "https://github.com/vladkesler/initrunner"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-07T15:45:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32835,
-    "updated_at": "2026-08-07T15:43:07Z",
+    "stars": 32836,
+    "updated_at": "2026-08-07T15:47:06Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -16,6 +34,15 @@
     "stars": 419,
     "updated_at": "2026-08-07T15:42:32Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "A reasoning-first idle engine for persistent LLM agents. Behaviour emerges from the agent reasoning about its idle state",
+    "id": "freeze1999/reverie-automata",
+    "language": "Python",
+    "name": "freeze1999/reverie-automata",
+    "stars": 2,
+    "updated_at": "2026-08-07T15:42:28Z",
+    "url": "https://github.com/freeze1999/reverie-automata"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -77,7 +104,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-07T15:40:35Z",
+    "updated_at": "2026-08-07T15:47:21Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-07T15:37:41Z",
+    "updated_at": "2026-08-07T15:48:07Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -142,15 +169,6 @@
     "stars": 1355,
     "updated_at": "2026-08-07T15:32:33Z",
     "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-07T15:30:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Reference generated coding-agent distribution built with Spice Agent.",
@@ -176,7 +194,7 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 485,
-    "updated_at": "2026-08-07T15:28:18Z",
+    "updated_at": "2026-08-07T15:47:55Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 340,
     "updated_at": "2026-08-07T14:32:19Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1133,
-    "updated_at": "2026-08-07T14:28:48Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 2,
-    "updated_at": "2026-08-07T14:47:20Z",
-    "url": "https://github.com/ionalpha/flynn"
   }
 ]
