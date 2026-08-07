@@ -1,5 +1,23 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 32823,
+    "updated_at": "2026-08-07T14:47:00Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-07T14:45:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
     "id": "George-RD/openspine",
     "language": "Rust",
@@ -27,6 +45,15 @@
     "url": "https://github.com/spice-framework/spice-agent-coding"
   },
   {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-07T14:42:31Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -45,21 +72,12 @@
     "url": "https://github.com/parkerluxu/Awesome-agent-cases"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32821,
-    "updated_at": "2026-08-07T14:40:46Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Spice-native deterministic agent SDK, kernel, protocols, daemon, and runtime plugin host.",
     "id": "spice-framework/spice-agent",
     "language": "Go",
     "name": "spice-framework/spice-agent",
     "stars": 0,
-    "updated_at": "2026-08-07T14:39:58Z",
+    "updated_at": "2026-08-07T14:46:45Z",
     "url": "https://github.com/spice-framework/spice-agent"
   },
   {
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8251,
-    "updated_at": "2026-08-07T14:37:25Z",
+    "updated_at": "2026-08-07T14:46:16Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 340,
     "updated_at": "2026-08-07T14:32:19Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-07T14:30:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -419,7 +428,7 @@
     "language": "Go",
     "name": "shaharia-lab/agento",
     "stars": 24,
-    "updated_at": "2026-08-07T14:44:58Z",
+    "updated_at": "2026-08-07T14:46:52Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-07T13:40:13Z",
     "url": "https://github.com/achappey/aihappey-chat"
-  },
-  {
-    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
-    "id": "loopedautomation/meet",
-    "language": "TypeScript",
-    "name": "loopedautomation/meet",
-    "stars": 6,
-    "updated_at": "2026-08-07T13:42:25Z",
-    "url": "https://github.com/loopedautomation/meet"
   }
 ]
