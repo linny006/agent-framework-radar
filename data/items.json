@@ -1,12 +1,21 @@
 [
   {
-    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
-    "id": "substructureai/substructure",
-    "language": "Rust",
-    "name": "substructureai/substructure",
-    "stars": 5,
-    "updated_at": "2026-08-07T07:49:01Z",
-    "url": "https://github.com/substructureai/substructure"
+    "description": "Stateful LLM agent framework on pydantic-ai: session persistence, context-window management, and a lifecycle extension s",
+    "id": "sjwan01/py-agent-framework",
+    "language": "Python",
+    "name": "sjwan01/py-agent-framework",
+    "stars": 1,
+    "updated_at": "2026-08-07T07:59:13Z",
+    "url": "https://github.com/sjwan01/py-agent-framework"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-08-07T07:56:24Z",
+    "url": "https://github.com/raineislam/mcp-framework"
   },
   {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
@@ -14,8 +23,89 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1644,
-    "updated_at": "2026-08-07T07:49:42Z",
+    "updated_at": "2026-08-07T07:56:53Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8241,
+    "updated_at": "2026-08-07T07:52:38Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-07T07:54:56Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "A reasoning-first idle engine for persistent LLM agents. Behaviour emerges from the agent reasoning about its idle state",
+    "id": "freeze1999/reverie-automata",
+    "language": "Python",
+    "name": "freeze1999/reverie-automata",
+    "stars": 2,
+    "updated_at": "2026-08-07T07:51:49Z",
+    "url": "https://github.com/freeze1999/reverie-automata"
+  },
+  {
+    "description": "Turn a cron-triggered AI agent into a self-evolving digital employee \u2014 readonly SOUL + growable identity + heartbeat loo",
+    "id": "caiaiacai/self-evolving-agent",
+    "language": "Shell",
+    "name": "caiaiacai/self-evolving-agent",
+    "stars": 0,
+    "updated_at": "2026-08-07T07:51:33Z",
+    "url": "https://github.com/caiaiacai/self-evolving-agent"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 416,
+    "updated_at": "2026-08-07T07:51:12Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-07T07:50:05Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-08-07T07:59:32Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1662,
+    "updated_at": "2026-08-07T07:49:41Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
+    "id": "substructureai/substructure",
+    "language": "Rust",
+    "name": "substructureai/substructure",
+    "stars": 5,
+    "updated_at": "2026-08-07T07:49:01Z",
+    "url": "https://github.com/substructureai/substructure"
   },
   {
     "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
@@ -34,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T07:47:08Z",
     "url": "https://github.com/spice-framework/spice-agent"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1662,
-    "updated_at": "2026-08-07T07:49:41Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
@@ -88,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T07:45:30Z",
     "url": "https://github.com/zerovia/be-a-lucky-block-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-07T07:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
@@ -162,15 +234,6 @@
     "url": "https://github.com/Fast-newengland468/CyberClaw"
   },
   {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-07T07:44:06Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
     "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
     "id": "plain-sleepydick853/feros",
     "language": "\u2014",
@@ -203,7 +266,7 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-08-07T07:41:23Z",
+    "updated_at": "2026-08-07T07:59:18Z",
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
@@ -214,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T07:38:04Z",
     "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Turn a cron-triggered AI agent into a self-evolving digital employee \u2014 readonly SOUL + growable identity + heartbeat loo",
-    "id": "caiaiacai/self-evolving-agent",
-    "language": "Shell",
-    "name": "caiaiacai/self-evolving-agent",
-    "stars": 0,
-    "updated_at": "2026-08-07T07:37:55Z",
-    "url": "https://github.com/caiaiacai/self-evolving-agent"
   },
   {
     "description": "\u4e00\u4e2a\u4ece\u96f6\u5b9e\u73b0\u7684 AI Agent \u6846\u67b6\u2014\u2014\u8bfb\u5f97\u61c2\u6e90\u7801\u7684 ReAct \u5faa\u73af\u3001\u56e2\u961f\u534f\u4f5c\u4e0e\u5f02\u6b65\u8def\u7531\u3002\u57fa\u4e8e\u667a\u8c31 GLM\uff0c\u542b 9 \u7ae0\u6559\u7a0b\u3002",
@@ -266,7 +320,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19114,
-    "updated_at": "2026-08-07T07:35:42Z",
+    "updated_at": "2026-08-07T07:52:46Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -306,15 +360,6 @@
     "url": "https://github.com/GamerBoiyzz/deepagents"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8241,
-    "updated_at": "2026-08-07T07:48:04Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
     "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
     "language": "\u2014",
@@ -351,15 +396,6 @@
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
-    "description": "Stateful LLM agent framework on pydantic-ai: session persistence, context-window management, and a lifecycle extension s",
-    "id": "sjwan01/py-agent-framework",
-    "language": "Python",
-    "name": "sjwan01/py-agent-framework",
-    "stars": 1,
-    "updated_at": "2026-08-07T07:35:17Z",
-    "url": "https://github.com/sjwan01/py-agent-framework"
-  },
-  {
     "description": "The agentic runtime to build production-grade AI agents at scale.",
     "id": "Kortecx/kortecx",
     "language": "Rust",
@@ -382,7 +418,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32679,
+    "stars": 32683,
     "updated_at": "2026-08-07T07:30:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -412,41 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-07T07:29:11Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Manage autonomous AI agents at scale with persistent sessions, tool access, and safe human oversight in an efficient, sc",
-    "id": "Bohra-Nitin/AgentManager",
-    "language": "\u2014",
-    "name": "Bohra-Nitin/AgentManager",
-    "stars": 1,
-    "updated_at": "2026-08-07T07:28:26Z",
-    "url": "https://github.com/Bohra-Nitin/AgentManager"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-08-07T07:49:48Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 50,
-    "updated_at": "2026-08-07T07:26:28Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
-    "id": "cuteecarrot/AgentHub",
-    "language": "Python",
-    "name": "cuteecarrot/AgentHub",
-    "stars": 5,
-    "updated_at": "2026-08-07T07:23:29Z",
-    "url": "https://github.com/cuteecarrot/AgentHub"
   }
 ]
