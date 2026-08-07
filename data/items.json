@@ -1,12 +1,129 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-07T00:13:36Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 47,
+    "updated_at": "2026-08-07T00:13:59Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6824,
+    "updated_at": "2026-08-07T00:10:40Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A self-organizing AI workspace, all in plain markdown. Turn-based and semi-autonomous \u2014 quality output over loops or san",
+    "id": "352moose/Agent_Mesh",
+    "language": "Python",
+    "name": "352moose/Agent_Mesh",
+    "stars": 0,
+    "updated_at": "2026-08-07T00:09:50Z",
+    "url": "https://github.com/352moose/Agent_Mesh"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 89,
+    "updated_at": "2026-08-07T00:09:13Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
+    "id": "codewandler/flux",
+    "language": "Rust",
+    "name": "codewandler/flux",
+    "stars": 1,
+    "updated_at": "2026-08-07T00:08:26Z",
+    "url": "https://github.com/codewandler/flux"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8232,
-    "updated_at": "2026-08-06T23:59:28Z",
+    "stars": 8233,
+    "updated_at": "2026-08-07T00:07:27Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 32382,
+    "updated_at": "2026-08-07T00:15:22Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Local filesystem MCP server with 44 tools: safe delete, process management, interactive sessions, async search, OCR, ZIP",
+    "id": "ellmos-ai/ellmos-filecommander-mcp",
+    "language": "JavaScript",
+    "name": "ellmos-ai/ellmos-filecommander-mcp",
+    "stars": 4,
+    "updated_at": "2026-08-07T00:06:06Z",
+    "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
+  },
+  {
+    "description": "Luna Pipes: a concatenative AI shell language. 358 verbs composed via >>. AI honesty auditor (/ll-no-bluf), agent scaffo",
+    "id": "lunaos-ai/luna-agents",
+    "language": "HTML",
+    "name": "lunaos-ai/luna-agents",
+    "stars": 0,
+    "updated_at": "2026-08-07T00:05:18Z",
+    "url": "https://github.com/lunaos-ai/luna-agents"
+  },
+  {
+    "description": "Spice-native terminal UI components and Bubble Tea integration for Spice Agent.",
+    "id": "spice-framework/spice-agent-tui",
+    "language": "Go",
+    "name": "spice-framework/spice-agent-tui",
+    "stars": 0,
+    "updated_at": "2026-08-07T00:04:50Z",
+    "url": "https://github.com/spice-framework/spice-agent-tui"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 27,
+    "updated_at": "2026-08-07T00:01:14Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-07T00:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Manage files, run shell commands, and control code tasks with this terminal-based agent for DeepSeek V4 on Windows.",
+    "id": "bahateacher/DeepSeek-TUI-2026",
+    "language": "Python",
+    "name": "bahateacher/DeepSeek-TUI-2026",
+    "stars": 0,
+    "updated_at": "2026-08-07T00:00:18Z",
+    "url": "https://github.com/bahateacher/DeepSeek-TUI-2026"
   },
   {
     "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
@@ -16,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T23:59:23Z",
     "url": "https://github.com/zerovia/be-a-lucky-block-hub"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-06T23:59:19Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "A self-organizing AI workspace, all in plain markdown. Turn-based and semi-autonomous \u2014 quality output over loops or san",
-    "id": "352moose/Agent_Mesh",
-    "language": "Python",
-    "name": "352moose/Agent_Mesh",
-    "stars": 0,
-    "updated_at": "2026-08-06T23:58:39Z",
-    "url": "https://github.com/352moose/Agent_Mesh"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -72,6 +171,15 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46708,
+    "updated_at": "2026-08-06T23:55:40Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
     "id": "herreravalenz6620/context-compression",
     "language": "Python",
@@ -97,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-08-06T23:54:16Z",
     "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 47,
-    "updated_at": "2026-08-06T23:57:42Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
@@ -171,15 +270,6 @@
     "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6824,
-    "updated_at": "2026-08-06T23:52:23Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
     "id": "monahright467/harness-books",
     "language": "Python",
@@ -243,15 +333,6 @@
     "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32375,
-    "updated_at": "2026-08-06T23:48:05Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -286,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T23:45:24Z",
     "url": "https://github.com/kokorubbong/agenticqa-scan-action"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-06T23:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
@@ -338,7 +410,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19103,
-    "updated_at": "2026-08-06T23:59:12Z",
+    "updated_at": "2026-08-07T00:15:09Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -347,17 +419,8 @@
     "language": "TypeScript",
     "name": "Monadix-AI/monad",
     "stars": 1,
-    "updated_at": "2026-08-06T23:42:56Z",
+    "updated_at": "2026-08-07T00:05:34Z",
     "url": "https://github.com/Monadix-AI/monad"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 27,
-    "updated_at": "2026-08-06T23:58:44Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
@@ -374,7 +437,7 @@
     "language": "Go",
     "name": "spice-framework/spice-agent",
     "stars": 0,
-    "updated_at": "2026-08-06T23:39:59Z",
+    "updated_at": "2026-08-07T00:15:08Z",
     "url": "https://github.com/spice-framework/spice-agent"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-06T23:38:15Z",
     "url": "https://github.com/cuteecarrot/AgentHub"
-  },
-  {
-    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
-    "id": "TonCerqueira/MiroThinker",
-    "language": "Python",
-    "name": "TonCerqueira/MiroThinker",
-    "stars": 1,
-    "updated_at": "2026-08-06T23:36:39Z",
-    "url": "https://github.com/TonCerqueira/MiroThinker"
-  },
-  {
-    "description": "The only agents.md file you'll ever need. At least before you die and are reborn and then start vibe coding again. It's ",
-    "id": "theodora-ward/E1337-BEAT-AGENTS.md",
-    "language": "\u2014",
-    "name": "theodora-ward/E1337-BEAT-AGENTS.md",
-    "stars": 0,
-    "updated_at": "2026-08-06T23:35:24Z",
-    "url": "https://github.com/theodora-ward/E1337-BEAT-AGENTS.md"
-  },
-  {
-    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
-    "id": "thesiddguy/GenAI",
-    "language": "HTML",
-    "name": "thesiddguy/GenAI",
-    "stars": 0,
-    "updated_at": "2026-08-06T23:34:55Z",
-    "url": "https://github.com/thesiddguy/GenAI"
-  },
-  {
-    "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
-    "id": "codewandler/flux",
-    "language": "Rust",
-    "name": "codewandler/flux",
-    "stars": 1,
-    "updated_at": "2026-08-06T23:33:47Z",
-    "url": "https://github.com/codewandler/flux"
-  },
-  {
-    "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
-    "id": "mathissdupont/ingot",
-    "language": "Rust",
-    "name": "mathissdupont/ingot",
-    "stars": 0,
-    "updated_at": "2026-08-06T23:32:52Z",
-    "url": "https://github.com/mathissdupont/ingot"
-  },
-  {
-    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
-    "id": "yassineelfakiri/agentpg",
-    "language": "Go",
-    "name": "yassineelfakiri/agentpg",
-    "stars": 0,
-    "updated_at": "2026-08-06T23:32:38Z",
-    "url": "https://github.com/yassineelfakiri/agentpg"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
-    "id": "q-j0k/sprintloop-orchestration",
-    "language": "\u2014",
-    "name": "q-j0k/sprintloop-orchestration",
-    "stars": 1,
-    "updated_at": "2026-08-06T23:31:25Z",
-    "url": "https://github.com/q-j0k/sprintloop-orchestration"
   }
 ]
