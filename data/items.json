@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-07T06:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
     "id": "speleoalex/myagent",
     "language": "Python",
@@ -9,15 +18,6 @@
     "url": "https://github.com/speleoalex/myagent"
   },
   {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 9,
-    "updated_at": "2026-08-07T06:12:57Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -25,6 +25,15 @@
     "stars": 8239,
     "updated_at": "2026-08-07T06:14:31Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 9,
+    "updated_at": "2026-08-07T06:12:57Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -126,15 +135,6 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-07T06:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -148,7 +148,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46722,
+    "stars": 46723,
     "updated_at": "2026-08-07T05:58:13Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -418,7 +418,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12644,
+    "stars": 12645,
     "updated_at": "2026-08-07T05:02:08Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
