@@ -1,5 +1,41 @@
 [
   {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 2,
+    "updated_at": "2026-08-07T13:46:23Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 2,
+    "updated_at": "2026-08-07T13:46:14Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8248,
+    "updated_at": "2026-08-07T13:46:02Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-07T13:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
@@ -16,6 +52,15 @@
     "stars": 1,
     "updated_at": "2026-08-07T13:45:17Z",
     "url": "https://github.com/Monadix-AI/monad"
+  },
+  {
+    "description": "Create AI experts in 3 minutes \u2014 browser-automated agents for stock research, content creation, data extraction & more. ",
+    "id": "southernspark-nfxh/auto-experts-ai-agent",
+    "language": "\u2014",
+    "name": "southernspark-nfxh/auto-experts-ai-agent",
+    "stars": 1,
+    "updated_at": "2026-08-07T13:44:17Z",
+    "url": "https://github.com/southernspark-nfxh/auto-experts-ai-agent"
   },
   {
     "description": "\u5357\u65b9\u661f\u706b SouthernSpark \u2014 Open-source AI agent skills & browser automation tools. Build, share & monetize practical AI workfl",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T13:41:57Z",
     "url": "https://github.com/MariusYvard/corparius"
-  },
-  {
-    "description": "Create AI experts in 3 minutes \u2014 browser-automated agents for stock research, content creation, data extraction & more. ",
-    "id": "southernspark-nfxh/auto-experts-ai-agent",
-    "language": "\u2014",
-    "name": "southernspark-nfxh/auto-experts-ai-agent",
-    "stars": 1,
-    "updated_at": "2026-08-07T13:44:17Z",
-    "url": "https://github.com/southernspark-nfxh/auto-experts-ai-agent"
   },
   {
     "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
@@ -160,15 +196,6 @@
     "stars": 14791,
     "updated_at": "2026-08-07T13:32:06Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-07T13:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
@@ -297,15 +324,6 @@
     "url": "https://github.com/brunogcar/agent"
   },
   {
-    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 2,
-    "updated_at": "2026-08-07T13:31:37Z",
-    "url": "https://github.com/ionalpha/flynn"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -349,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T13:03:17Z",
     "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8248,
-    "updated_at": "2026-08-07T13:45:04Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-07T12:45:22Z",
     "url": "https://github.com/hanyo-ai/taus"
-  },
-  {
-    "description": "KAF - The governance layer for multi-agent swarms. Constitution-as-Code + 520 Runtime Guard. Stop AI agents from deletin",
-    "id": "lsjpp2/king-agent-swarm",
-    "language": "Python",
-    "name": "lsjpp2/king-agent-swarm",
-    "stars": 1,
-    "updated_at": "2026-08-07T12:43:32Z",
-    "url": "https://github.com/lsjpp2/king-agent-swarm"
   }
 ]
