@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "cordfuse/politik",
     "stars": 0,
-    "updated_at": "2026-08-07T23:04:28Z",
+    "updated_at": "2026-08-07T23:15:02Z",
     "url": "https://github.com/cordfuse/politik"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 290,
+    "updated_at": "2026-08-07T23:14:32Z",
+    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "Run a company of AI agents out of one git repository \u2014 any craft, not just code. The team, the process, the history, the",
@@ -14,8 +23,53 @@
     "language": "Shell",
     "name": "jamillazarev/opsinist",
     "stars": 0,
-    "updated_at": "2026-08-07T23:02:57Z",
+    "updated_at": "2026-08-07T23:13:47Z",
     "url": "https://github.com/jamillazarev/opsinist"
+  },
+  {
+    "description": "GAIA - Go Autonomous Intelligence Agent. Programming-first autonomous agent with multi-agent specialized learning, SDD w",
+    "id": "SalvucciFacundo/gaia",
+    "language": "Go",
+    "name": "SalvucciFacundo/gaia",
+    "stars": 1,
+    "updated_at": "2026-08-07T23:10:49Z",
+    "url": "https://github.com/SalvucciFacundo/gaia"
+  },
+  {
+    "description": "A personal AI assistant in one Go binary: WASM-sandboxed extensions, per-action permission gating, and mandatory out-of-",
+    "id": "efuturetoday/nocturn",
+    "language": "Go",
+    "name": "efuturetoday/nocturn",
+    "stars": 1,
+    "updated_at": "2026-08-07T23:14:14Z",
+    "url": "https://github.com/efuturetoday/nocturn"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8294,
+    "updated_at": "2026-08-07T23:14:20Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Stateful multi-tier cognitive cycles for long-horizon agents. Governance claims are CI-enforced: the build fails if the ",
+    "id": "kirklasalle/orrery",
+    "language": "Python",
+    "name": "kirklasalle/orrery",
+    "stars": 1,
+    "updated_at": "2026-08-07T23:08:04Z",
+    "url": "https://github.com/kirklasalle/orrery"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 3,
+    "updated_at": "2026-08-07T23:06:55Z",
+    "url": "https://github.com/Ecro/harness-maker"
   },
   {
     "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
@@ -23,8 +77,17 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-08-07T23:03:01Z",
+    "updated_at": "2026-08-07T23:05:18Z",
     "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-07T23:05:09Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
@@ -52,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T23:01:58Z",
     "url": "https://github.com/zachmeador/shrimpy"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-07T23:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext. ",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19131,
-    "updated_at": "2026-08-07T22:59:58Z",
+    "updated_at": "2026-08-07T23:10:09Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -115,24 +169,6 @@
     "stars": 4,
     "updated_at": "2026-08-07T22:46:57Z",
     "url": "https://github.com/KPO-Tech/seshat"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8292,
-    "updated_at": "2026-08-07T22:45:31Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "A personal AI assistant in one Go binary: WASM-sandboxed extensions, per-action permission gating, and mandatory out-of-",
-    "id": "efuturetoday/nocturn",
-    "language": "Go",
-    "name": "efuturetoday/nocturn",
-    "stars": 1,
-    "updated_at": "2026-08-07T22:47:28Z",
-    "url": "https://github.com/efuturetoday/nocturn"
   },
   {
     "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
@@ -169,6 +205,15 @@
     "stars": 1672,
     "updated_at": "2026-08-07T22:40:30Z",
     "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 5762,
+    "updated_at": "2026-08-07T22:39:53Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -247,7 +292,7 @@
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1135,
+    "stars": 1136,
     "updated_at": "2026-08-07T22:27:57Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T21:58:07Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
-    "id": "achappey/aihappey-chat",
-    "language": "TypeScript",
-    "name": "achappey/aihappey-chat",
-    "stars": 3,
-    "updated_at": "2026-08-07T21:54:55Z",
-    "url": "https://github.com/achappey/aihappey-chat"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 290,
-    "updated_at": "2026-08-07T21:55:05Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "A markdown-based agent operating system for AI-assisted cold outbound. Draft-first: nothing sends without explicit human",
-    "id": "kelleysd-apps/leadbench",
-    "language": "Python",
-    "name": "kelleysd-apps/leadbench",
-    "stars": 0,
-    "updated_at": "2026-08-07T21:53:25Z",
-    "url": "https://github.com/kelleysd-apps/leadbench"
-  },
-  {
-    "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
-    "id": "speleoalex/myagent",
-    "language": "Python",
-    "name": "speleoalex/myagent",
-    "stars": 3,
-    "updated_at": "2026-08-07T21:50:26Z",
-    "url": "https://github.com/speleoalex/myagent"
-  },
-  {
-    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
-    "id": "devpilgrin/berimor",
-    "language": "Rust",
-    "name": "devpilgrin/berimor",
-    "stars": 1,
-    "updated_at": "2026-08-07T21:49:11Z",
-    "url": "https://github.com/devpilgrin/berimor"
   }
 ]
