@@ -1,5 +1,68 @@
 [
   {
+    "description": "A governed multi-agent framework built on git",
+    "id": "cordfuse/politik",
+    "language": "TypeScript",
+    "name": "cordfuse/politik",
+    "stars": 0,
+    "updated_at": "2026-08-07T23:04:28Z",
+    "url": "https://github.com/cordfuse/politik"
+  },
+  {
+    "description": "Run a company of AI agents out of one git repository \u2014 any craft, not just code. The team, the process, the history, the",
+    "id": "jamillazarev/opsinist",
+    "language": "Shell",
+    "name": "jamillazarev/opsinist",
+    "stars": 0,
+    "updated_at": "2026-08-07T23:02:57Z",
+    "url": "https://github.com/jamillazarev/opsinist"
+  },
+  {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 2,
+    "updated_at": "2026-08-07T23:03:01Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 253,
+    "updated_at": "2026-08-07T23:02:48Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 2,
+    "updated_at": "2026-08-07T23:02:39Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
+    "id": "zachmeador/shrimpy",
+    "language": "TypeScript",
+    "name": "zachmeador/shrimpy",
+    "stars": 1,
+    "updated_at": "2026-08-07T23:01:58Z",
+    "url": "https://github.com/zachmeador/shrimpy"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-07T23:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext. ",
     "id": "agoradynamics/wick",
     "language": "JavaScript",
@@ -36,33 +99,6 @@
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
-    "description": "Run a company of AI agents out of one git repository \u2014 any craft, not just code. The team, the process, the history, the",
-    "id": "jamillazarev/opsinist",
-    "language": "Shell",
-    "name": "jamillazarev/opsinist",
-    "stars": 0,
-    "updated_at": "2026-08-07T22:57:34Z",
-    "url": "https://github.com/jamillazarev/opsinist"
-  },
-  {
-    "description": "A governed multi-agent framework built on git",
-    "id": "cordfuse/politik",
-    "language": "TypeScript",
-    "name": "cordfuse/politik",
-    "stars": 0,
-    "updated_at": "2026-08-07T22:56:35Z",
-    "url": "https://github.com/cordfuse/politik"
-  },
-  {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 2,
-    "updated_at": "2026-08-07T22:56:53Z",
-    "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -85,18 +121,9 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8290,
+    "stars": 8292,
     "updated_at": "2026-08-07T22:45:31Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-07T22:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A personal AI assistant in one Go binary: WASM-sandboxed extensions, per-action permission gating, and mandatory out-of-",
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T22:44:25Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-08-07T22:44:02Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "Managed agents harness on Cloudflare Workers \u2014 manifest-defined AI agents with swappable session strategies, agent patte",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-07T21:49:11Z",
     "url": "https://github.com/devpilgrin/berimor"
-  },
-  {
-    "description": "A minimal, opinionated agent harness \u2014 focused scope, straightforward code, easy to fork",
-    "id": "ryanbbrown/thinharness",
-    "language": "Python",
-    "name": "ryanbbrown/thinharness",
-    "stars": 9,
-    "updated_at": "2026-08-07T21:48:14Z",
-    "url": "https://github.com/ryanbbrown/thinharness"
-  },
-  {
-    "description": "Orchestrate armies of AI agents from a single prompt. Open-core, bring-your-own-key, and self-hostable \u2014 Orchestrator ro",
-    "id": "Yigtwxx/Maestro",
-    "language": "Python",
-    "name": "Yigtwxx/Maestro",
-    "stars": 1,
-    "updated_at": "2026-08-07T21:40:05Z",
-    "url": "https://github.com/Yigtwxx/Maestro"
   }
 ]
