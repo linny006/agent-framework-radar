@@ -1,5 +1,41 @@
 [
   {
+    "description": "Manage files, run shell commands, and control code tasks with this terminal-based agent for DeepSeek V4 on Windows.",
+    "id": "bahateacher/DeepSeek-TUI-2026",
+    "language": "Python",
+    "name": "bahateacher/DeepSeek-TUI-2026",
+    "stars": 0,
+    "updated_at": "2026-08-07T03:27:31Z",
+    "url": "https://github.com/bahateacher/DeepSeek-TUI-2026"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 32529,
+    "updated_at": "2026-08-07T03:27:10Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
+    "id": "zerovia/be-a-lucky-block-hub",
+    "language": "HTML",
+    "name": "zerovia/be-a-lucky-block-hub",
+    "stars": 0,
+    "updated_at": "2026-08-07T03:26:41Z",
+    "url": "https://github.com/zerovia/be-a-lucky-block-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-07T03:24:48Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
     "id": "salvatoreabient793/cursor-auto-deployment-agent",
     "language": "\u2014",
@@ -16,15 +52,6 @@
     "stars": 3,
     "updated_at": "2026-08-07T03:22:36Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32527,
-    "updated_at": "2026-08-07T03:22:34Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 46714,
-    "updated_at": "2026-08-07T03:24:26Z",
+    "updated_at": "2026-08-07T03:29:51Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8238,
-    "updated_at": "2026-08-07T03:16:15Z",
+    "updated_at": "2026-08-07T03:28:02Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -261,15 +288,6 @@
     "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-07T03:15:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
     "id": "telus-labs/stagecraft",
     "language": "JavaScript",
@@ -301,7 +319,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12642,
+    "stars": 12643,
     "updated_at": "2026-08-07T03:13:20Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T03:02:08Z",
     "url": "https://github.com/thesiddguy/GenAI"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 594,
-    "updated_at": "2026-08-07T03:01:01Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
-    "id": "yassineelfakiri/agentpg",
-    "language": "Go",
-    "name": "yassineelfakiri/agentpg",
-    "stars": 0,
-    "updated_at": "2026-08-07T02:59:39Z",
-    "url": "https://github.com/yassineelfakiri/agentpg"
   }
 ]
