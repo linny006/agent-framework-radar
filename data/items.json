@@ -1,21 +1,12 @@
 [
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Build a coding agent from scratch, one harness primitive at a time. 15 chapters (ch-00..ch-14), each green on two gates.",
+    "id": "thecarbonlayer/carbon",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T05:55:02Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-08T05:57:41Z",
-    "url": "https://github.com/tya5/reyn"
+    "name": "thecarbonlayer/carbon",
+    "stars": 64,
+    "updated_at": "2026-08-08T06:14:19Z",
+    "url": "https://github.com/thecarbonlayer/carbon"
   },
   {
     "description": "A Rust agent SDK, harness, and coding agent \u2014 safe by construction (non-bypassable authorization \u2192 approval \u2192 guarded IO",
@@ -23,8 +14,89 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 1,
-    "updated_at": "2026-08-08T05:51:05Z",
+    "updated_at": "2026-08-08T06:12:19Z",
     "url": "https://github.com/codewandler/flux"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-08T06:10:47Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 29,
+    "updated_at": "2026-08-08T06:10:19Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Eval-driven agent testing framework. Define test suites, run LLM systems against them, and score across correctness, cos",
+    "id": "rayyanakmal/evalforge",
+    "language": "Python",
+    "name": "rayyanakmal/evalforge",
+    "stars": 0,
+    "updated_at": "2026-08-08T06:09:45Z",
+    "url": "https://github.com/rayyanakmal/evalforge"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-08T06:09:28Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
+    "id": "bailong-Hakuryu/E.R.I.I",
+    "language": "Python",
+    "name": "bailong-Hakuryu/E.R.I.I",
+    "stars": 1,
+    "updated_at": "2026-08-08T06:08:20Z",
+    "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
+  },
+  {
+    "description": "Agent SDK, CLI, RPC, Computer-use in Rust",
+    "id": "Wh1isper/starweaver",
+    "language": "Rust",
+    "name": "Wh1isper/starweaver",
+    "stars": 7,
+    "updated_at": "2026-08-08T06:04:03Z",
+    "url": "https://github.com/Wh1isper/starweaver"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 32941,
+    "updated_at": "2026-08-08T06:03:39Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 2,
+    "updated_at": "2026-08-08T06:03:18Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T06:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
@@ -32,7 +104,7 @@
     "language": "TypeScript",
     "name": "Monadix-AI/monad",
     "stars": 1,
-    "updated_at": "2026-08-08T05:50:51Z",
+    "updated_at": "2026-08-08T06:10:07Z",
     "url": "https://github.com/Monadix-AI/monad"
   },
   {
@@ -58,7 +130,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19136,
+    "stars": 19137,
     "updated_at": "2026-08-08T05:45:08Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -67,7 +139,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8333,
+    "stars": 8335,
     "updated_at": "2026-08-08T05:42:31Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -97,15 +169,6 @@
     "stars": 155,
     "updated_at": "2026-08-08T05:39:33Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 2,
-    "updated_at": "2026-08-08T05:59:51Z",
-    "url": "https://github.com/Arasz/ai-badger"
   },
   {
     "description": "",
@@ -151,24 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T05:34:54Z",
     "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-08T05:31:46Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32938,
-    "updated_at": "2026-08-08T05:58:33Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A self-hosted, web-based AI platform for building, deploying, and running autonomous AI agents. Connect to 2,600+ enterp",
@@ -247,7 +292,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 5772,
+    "stars": 5773,
     "updated_at": "2026-08-08T05:06:26Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -279,15 +324,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Eval-driven agent testing framework. Define test suites, run LLM systems against them, and score across correctness, cos",
-    "id": "rayyanakmal/evalforge",
-    "language": "Python",
-    "name": "rayyanakmal/evalforge",
-    "stars": 0,
-    "updated_at": "2026-08-08T04:59:06Z",
-    "url": "https://github.com/rayyanakmal/evalforge"
-  },
-  {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
     "id": "zlatko-lakisic/agentic-orchestration",
     "language": "Python",
@@ -313,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T04:43:21Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 29,
-    "updated_at": "2026-08-08T04:43:16Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "",
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-08T03:53:25Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 106,
-    "updated_at": "2026-08-08T03:49:05Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
-    "id": "PiyotaHu/Voxa",
-    "language": "Rust",
-    "name": "PiyotaHu/Voxa",
-    "stars": 1,
-    "updated_at": "2026-08-08T03:37:58Z",
-    "url": "https://github.com/PiyotaHu/Voxa"
-  },
-  {
-    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
-    "id": "pereirawe/opencode-flow",
-    "language": "Shell",
-    "name": "pereirawe/opencode-flow",
-    "stars": 2,
-    "updated_at": "2026-08-08T03:28:10Z",
-    "url": "https://github.com/pereirawe/opencode-flow"
   }
 ]
