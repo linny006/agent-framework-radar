@@ -5,8 +5,62 @@
     "language": "Rust",
     "name": "devpilgrin/berimor",
     "stars": 1,
-    "updated_at": "2026-08-08T01:29:31Z",
+    "updated_at": "2026-08-08T01:43:19Z",
     "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
+    "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
+    "id": "Monadix-AI/monad",
+    "language": "TypeScript",
+    "name": "Monadix-AI/monad",
+    "stars": 1,
+    "updated_at": "2026-08-08T01:41:41Z",
+    "url": "https://github.com/Monadix-AI/monad"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 106,
+    "updated_at": "2026-08-08T01:41:27Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
+    "id": "streamcoreai/streamcore-server",
+    "language": "Go",
+    "name": "streamcoreai/streamcore-server",
+    "stars": 105,
+    "updated_at": "2026-08-08T01:37:16Z",
+    "url": "https://github.com/streamcoreai/streamcore-server"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 32906,
+    "updated_at": "2026-08-08T01:33:22Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 253,
+    "updated_at": "2026-08-08T01:42:58Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T01:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open Souls is an open-source framework and philosophy for building \"AI souls\" \u2014 agentic, embodied digital beings with pe",
@@ -45,15 +99,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 253,
-    "updated_at": "2026-08-08T01:24:03Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -90,30 +135,12 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T01:15:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32903,
-    "updated_at": "2026-08-08T01:26:50Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 48,
-    "updated_at": "2026-08-08T01:12:47Z",
+    "updated_at": "2026-08-08T01:30:54Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19133,
-    "updated_at": "2026-08-08T01:09:48Z",
+    "updated_at": "2026-08-08T01:37:06Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-08T01:27:01Z",
+    "updated_at": "2026-08-08T01:42:18Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8303,
-    "updated_at": "2026-08-08T01:05:02Z",
+    "updated_at": "2026-08-08T01:35:23Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-08T00:47:27Z",
+    "updated_at": "2026-08-08T01:40:35Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-08T01:27:02Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 2,
-    "updated_at": "2026-08-08T00:19:10Z",
-    "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 2,
-    "updated_at": "2026-08-07T23:51:31Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
-    "id": "shimo4228/agent-knowledge-cycle",
-    "language": "\u2014",
-    "name": "shimo4228/agent-knowledge-cycle",
-    "stars": 3,
-    "updated_at": "2026-08-07T23:47:55Z",
-    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
   }
 ]
