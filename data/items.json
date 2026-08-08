@@ -1,12 +1,48 @@
 [
   {
+    "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
+    "id": "PiyotaHu/Voxa",
+    "language": "Rust",
+    "name": "PiyotaHu/Voxa",
+    "stars": 1,
+    "updated_at": "2026-08-08T03:37:58Z",
+    "url": "https://github.com/PiyotaHu/Voxa"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-08T03:36:29Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 32928,
+    "updated_at": "2026-08-08T03:42:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 419,
-    "updated_at": "2026-08-08T03:29:47Z",
+    "stars": 420,
+    "updated_at": "2026-08-08T03:30:25Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T03:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
@@ -22,18 +58,9 @@
     "id": "pereirawe/opencode-flow",
     "language": "Shell",
     "name": "pereirawe/opencode-flow",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-08T03:28:10Z",
     "url": "https://github.com/pereirawe/opencode-flow"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32927,
-    "updated_at": "2026-08-08T03:27:52Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -43,6 +70,15 @@
     "stars": 38,
     "updated_at": "2026-08-08T03:27:51Z",
     "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8317,
+    "updated_at": "2026-08-08T03:26:44Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-08T03:23:58Z",
+    "updated_at": "2026-08-08T03:41:10Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -131,17 +167,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19136,
-    "updated_at": "2026-08-08T03:28:18Z",
+    "updated_at": "2026-08-08T03:42:07Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T03:15:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A markdown-based agent operating system for AI-assisted cold outbound. Draft-first: nothing sends without explicit human",
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T03:12:03Z",
     "url": "https://github.com/kelleysd-apps/leadbench"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8314,
-    "updated_at": "2026-08-08T03:26:44Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "Monadix-AI/monad",
     "stars": 1,
-    "updated_at": "2026-08-08T02:47:13Z",
+    "updated_at": "2026-08-08T03:30:56Z",
     "url": "https://github.com/Monadix-AI/monad"
   },
   {
@@ -292,7 +310,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1676,
+    "stars": 1677,
     "updated_at": "2026-08-08T02:37:22Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -387,15 +405,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:53:26Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-08T01:17:29Z",
     "url": "https://github.com/amilworks/ultra"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-08-08T01:19:22Z",
-    "url": "https://github.com/dsswift/ion"
   }
 ]
