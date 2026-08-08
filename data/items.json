@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-08T18:13:55Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33099,
+    "updated_at": "2026-08-08T18:13:31Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Stateful LLM agent framework on pydantic-ai: session persistence, context-window management, and a lifecycle extension s",
+    "id": "sjwan01/py-agent-framework",
+    "language": "Python",
+    "name": "sjwan01/py-agent-framework",
+    "stars": 1,
+    "updated_at": "2026-08-08T18:15:09Z",
+    "url": "https://github.com/sjwan01/py-agent-framework"
+  },
+  {
+    "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
+    "id": "shipiit/shipit_agent",
+    "language": "Python",
+    "name": "shipiit/shipit_agent",
+    "stars": 2,
+    "updated_at": "2026-08-08T18:10:44Z",
+    "url": "https://github.com/shipiit/shipit_agent"
+  },
+  {
+    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 2,
+    "updated_at": "2026-08-08T18:14:20Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3884,
+    "updated_at": "2026-08-08T18:09:44Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-08T18:13:58Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T18:04:14Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
@@ -23,17 +95,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-08T18:02:17Z",
+    "updated_at": "2026-08-08T18:12:16Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
-    "id": "shipiit/shipit_agent",
-    "language": "Python",
-    "name": "shipiit/shipit_agent",
-    "stars": 2,
-    "updated_at": "2026-08-08T18:01:16Z",
-    "url": "https://github.com/shipiit/shipit_agent"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -52,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T18:00:44Z",
     "url": "https://github.com/mathissdupont/ingot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T18:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33097,
-    "updated_at": "2026-08-08T17:59:40Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A file-backed operating model for AI agents: explicit authority, scoped workflows, context routing, source discipline, v",
@@ -95,7 +140,7 @@
     "language": "Go",
     "name": "shaharia-lab/agento",
     "stars": 24,
-    "updated_at": "2026-08-08T17:57:29Z",
+    "updated_at": "2026-08-08T18:14:12Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -112,7 +157,7 @@
     "id": "ameenmari/agentprodready",
     "language": "TypeScript",
     "name": "ameenmari/agentprodready",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-08T17:54:19Z",
     "url": "https://github.com/ameenmari/agentprodready"
   },
@@ -162,15 +207,6 @@
     "url": "https://github.com/Ash20pk/BerthOS"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-08T17:45:25Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
     "id": "streamcoreai/streamcore-server",
     "language": "Go",
@@ -178,15 +214,6 @@
     "stars": 131,
     "updated_at": "2026-08-08T17:41:01Z",
     "url": "https://github.com/streamcoreai/streamcore-server"
-  },
-  {
-    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 2,
-    "updated_at": "2026-08-08T17:53:06Z",
-    "url": "https://github.com/ionalpha/flynn"
   },
   {
     "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
@@ -421,32 +448,5 @@
     "stars": 107,
     "updated_at": "2026-08-08T16:30:09Z",
     "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 4958,
-    "updated_at": "2026-08-08T16:23:40Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "A personal AI assistant in one Go binary: WASM-sandboxed extensions, per-action permission gating, and mandatory out-of-",
-    "id": "efuturetoday/nocturn",
-    "language": "Go",
-    "name": "efuturetoday/nocturn",
-    "stars": 1,
-    "updated_at": "2026-08-08T16:21:18Z",
-    "url": "https://github.com/efuturetoday/nocturn"
-  },
-  {
-    "description": "AgentSeed \u2014 the governance layer for AI agents. Non-negotiable kernel + pluggable scenario packs, synced to 15 AI agent ",
-    "id": "weed33834/agentseed",
-    "language": "Python",
-    "name": "weed33834/agentseed",
-    "stars": 5,
-    "updated_at": "2026-08-08T16:18:58Z",
-    "url": "https://github.com/weed33834/agentseed"
   }
 ]
