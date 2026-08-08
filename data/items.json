@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-08T05:15:09Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 32933,
+    "updated_at": "2026-08-08T05:13:51Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 420,
+    "updated_at": "2026-08-08T05:12:33Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-08T05:12:02Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 4,
+    "updated_at": "2026-08-08T05:10:11Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T05:09:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
     "id": "Dikhun/Arctus.ai",
     "language": "Python",
@@ -36,15 +90,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T05:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Eval-driven agent testing framework. Define test suites, run LLM systems against them, and score across correctness, cos",
     "id": "rayyanakmal/evalforge",
     "language": "Python",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T04:59:06Z",
     "url": "https://github.com/rayyanakmal/evalforge"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-08T05:08:00Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -97,15 +133,6 @@
     "stars": 154,
     "updated_at": "2026-08-08T04:54:30Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32934,
-    "updated_at": "2026-08-08T04:52:12Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -193,8 +220,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8327,
-    "updated_at": "2026-08-08T04:41:35Z",
+    "stars": 8329,
+    "updated_at": "2026-08-08T05:13:58Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 6,
     "updated_at": "2026-08-08T04:36:22Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 420,
-    "updated_at": "2026-08-08T04:31:53Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -259,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T04:15:45Z",
     "url": "https://github.com/0xUrsanomics/utopia-os"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 4,
-    "updated_at": "2026-08-08T04:14:49Z",
-    "url": "https://github.com/opencue/cuecards"
   },
   {
     "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T02:51:20Z",
     "url": "https://github.com/Ash20pk/BerthOS"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 206,
-    "updated_at": "2026-08-08T03:01:51Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   }
 ]
