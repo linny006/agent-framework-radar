@@ -5,8 +5,35 @@
     "language": "Go",
     "name": "efuturetoday/nocturn",
     "stars": 1,
-    "updated_at": "2026-08-08T23:14:39Z",
+    "updated_at": "2026-08-08T23:19:47Z",
     "url": "https://github.com/efuturetoday/nocturn"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-08T23:16:13Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-08T23:16:12Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T23:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 979,
-    "updated_at": "2026-08-08T23:13:49Z",
+    "updated_at": "2026-08-08T23:20:32Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 6,
     "updated_at": "2026-08-08T23:02:32Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T23:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -216,24 +234,6 @@
     "url": "https://github.com/devpilgrin/berimor"
   },
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-08T22:15:32Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-08T22:15:27Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "Insajin/autopus-adk",
     "language": "Go",
@@ -346,7 +346,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33143,
+    "stars": 33144,
     "updated_at": "2026-08-08T21:36:59Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -423,6 +423,15 @@
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4845,
+    "updated_at": "2026-08-08T20:54:54Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
     "description": "Give any application a conversational agent \u2014 you write the actions, the framework brings the rest.",
     "id": "Cogria-AI/CogriaAgent",
     "language": "Python",
@@ -430,15 +439,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T20:52:55Z",
     "url": "https://github.com/Cogria-AI/CogriaAgent"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4844,
-    "updated_at": "2026-08-08T20:54:54Z",
-    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
