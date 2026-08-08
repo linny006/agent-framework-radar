@@ -1,12 +1,102 @@
 [
   {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 48,
+    "updated_at": "2026-08-08T01:00:19Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 32900,
+    "updated_at": "2026-08-08T00:59:42Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
     "name": "ggui-ai/ggui",
     "stars": 38,
-    "updated_at": "2026-08-08T00:43:59Z",
+    "updated_at": "2026-08-08T00:57:17Z",
     "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-08T00:55:24Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
+    "id": "amilworks/ultra",
+    "language": "Python",
+    "name": "amilworks/ultra",
+    "stars": 6,
+    "updated_at": "2026-08-08T01:00:16Z",
+    "url": "https://github.com/amilworks/ultra"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8302,
+    "updated_at": "2026-08-08T00:49:06Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A governed multi-agent framework built on git",
+    "id": "cordfuse/politik",
+    "language": "TypeScript",
+    "name": "cordfuse/politik",
+    "stars": 0,
+    "updated_at": "2026-08-08T00:48:47Z",
+    "url": "https://github.com/cordfuse/politik"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-08T00:47:27Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
+    "id": "zachmeador/shrimpy",
+    "language": "TypeScript",
+    "name": "zachmeador/shrimpy",
+    "stars": 1,
+    "updated_at": "2026-08-08T00:47:19Z",
+    "url": "https://github.com/zachmeador/shrimpy"
+  },
+  {
+    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
+    "id": "Thepizzapie/BuildersGate",
+    "language": "Python",
+    "name": "Thepizzapie/BuildersGate",
+    "stars": 17,
+    "updated_at": "2026-08-08T00:46:00Z",
+    "url": "https://github.com/Thepizzapie/BuildersGate"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T00:45:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -27,24 +117,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "A governed multi-agent framework built on git",
-    "id": "cordfuse/politik",
-    "language": "TypeScript",
-    "name": "cordfuse/politik",
-    "stars": 0,
-    "updated_at": "2026-08-08T00:41:34Z",
-    "url": "https://github.com/cordfuse/politik"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-08T00:40:17Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Reference generated coding-agent distribution built with Spice Agent.",
     "id": "spice-framework/spice-agent-coding",
     "language": "Go",
@@ -61,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-08-08T00:37:36Z",
     "url": "https://github.com/api-evangelist/autogen-studio"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19132,
+    "updated_at": "2026-08-08T00:59:11Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -90,15 +171,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T00:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -106,24 +178,6 @@
     "stars": 12668,
     "updated_at": "2026-08-08T00:28:20Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32895,
-    "updated_at": "2026-08-08T00:40:26Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8299,
-    "updated_at": "2026-08-08T00:22:54Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Spice Agent read, replace, write, and shell coding tools.",
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T00:18:14Z",
     "url": "https://github.com/devpilgrin/berimor"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19131,
-    "updated_at": "2026-08-08T00:35:58Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Spice-native terminal UI components and Bubble Tea integration for Spice Agent.",
@@ -268,15 +313,6 @@
     "stars": 206,
     "updated_at": "2026-08-07T23:41:58Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-08T00:34:18Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -405,15 +441,6 @@
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
-    "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
-    "id": "zachmeador/shrimpy",
-    "language": "TypeScript",
-    "name": "zachmeador/shrimpy",
-    "stars": 1,
-    "updated_at": "2026-08-07T23:01:58Z",
-    "url": "https://github.com/zachmeador/shrimpy"
-  },
-  {
     "description": "Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext. ",
     "id": "agoradynamics/wick",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-07T23:00:12Z",
     "url": "https://github.com/agoradynamics/wick"
-  },
-  {
-    "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
-    "id": "amilworks/ultra",
-    "language": "Go",
-    "name": "amilworks/ultra",
-    "stars": 6,
-    "updated_at": "2026-08-08T00:45:01Z",
-    "url": "https://github.com/amilworks/ultra"
-  },
-  {
-    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
-    "id": "KPO-Tech/seshat",
-    "language": "Go",
-    "name": "KPO-Tech/seshat",
-    "stars": 4,
-    "updated_at": "2026-08-07T22:46:57Z",
-    "url": "https://github.com/KPO-Tech/seshat"
-  },
-  {
-    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
-    "id": "streamcoreai/streamcore-server",
-    "language": "Go",
-    "name": "streamcoreai/streamcore-server",
-    "stars": 105,
-    "updated_at": "2026-08-07T22:44:36Z",
-    "url": "https://github.com/streamcoreai/streamcore-server"
   }
 ]
