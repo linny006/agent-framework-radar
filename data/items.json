@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
+    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
+    "id": "streamcoreai/streamcore-server",
+    "language": "Go",
+    "name": "streamcoreai/streamcore-server",
+    "stars": 123,
+    "updated_at": "2026-08-08T12:33:28Z",
+    "url": "https://github.com/streamcoreai/streamcore-server"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
     "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-08T12:30:15Z",
-    "url": "https://github.com/tya5/reyn"
+    "name": "hertz-ai/HARTOS",
+    "stars": 50,
+    "updated_at": "2026-08-08T12:32:16Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "bailong-Hakuryu/E.R.I.I",
     "stars": 1,
-    "updated_at": "2026-08-08T12:29:03Z",
+    "updated_at": "2026-08-08T12:31:39Z",
     "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T12:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-08T12:30:15Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
@@ -108,15 +135,6 @@
     "url": "https://github.com/unknowbug/RE-Framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T12:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The agentic runtime to build production-grade AI agents at scale.",
     "id": "Kortecx/kortecx",
     "language": "Rust",
@@ -166,7 +184,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33014,
+    "stars": 33013,
     "updated_at": "2026-08-08T12:04:36Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -270,15 +288,6 @@
     "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
-    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
-    "id": "streamcoreai/streamcore-server",
-    "language": "Go",
-    "name": "streamcoreai/streamcore-server",
-    "stars": 122,
-    "updated_at": "2026-08-08T11:39:13Z",
-    "url": "https://github.com/streamcoreai/streamcore-server"
-  },
-  {
     "description": "Stateful LLM agent framework on pydantic-ai: session persistence, context-window management, and a lifecycle extension s",
     "id": "sjwan01/py-agent-framework",
     "language": "Python",
@@ -340,15 +349,6 @@
     "stars": 154,
     "updated_at": "2026-08-08T11:26:07Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 50,
-    "updated_at": "2026-08-08T12:16:33Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
