@@ -1,11 +1,101 @@
 [
   {
+    "description": "Open-source autonomous AI agent framework for persistent memory, self-directed actions, model continuity, and artificial",
+    "id": "agent-island/project-autonomous-agent",
+    "language": "JavaScript",
+    "name": "agent-island/project-autonomous-agent",
+    "stars": 0,
+    "updated_at": "2026-08-08T17:13:48Z",
+    "url": "https://github.com/agent-island/project-autonomous-agent"
+  },
+  {
+    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 2,
+    "updated_at": "2026-08-08T17:12:44Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 120,
+    "updated_at": "2026-08-08T17:11:29Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Go",
+    "name": "shaharia-lab/agento",
+    "stars": 24,
+    "updated_at": "2026-08-08T17:11:18Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33085,
+    "updated_at": "2026-08-08T17:11:10Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Agent Skills \u2014 skill collection for AI agents (Sisyphus, opencode): github-repo-hygiene, test-graphics, reddit-karma, pr",
+    "id": "bestdeejay-design/agent-skills",
+    "language": "Python",
+    "name": "bestdeejay-design/agent-skills",
+    "stars": 4,
+    "updated_at": "2026-08-08T17:10:10Z",
+    "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-08T17:09:52Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
+    "id": "mathissdupont/ingot",
+    "language": "Rust",
+    "name": "mathissdupont/ingot",
+    "stars": 0,
+    "updated_at": "2026-08-08T17:04:57Z",
+    "url": "https://github.com/mathissdupont/ingot"
+  },
+  {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-08-08T17:04:37Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
+    "id": "shipiit/shipit_agent",
+    "language": "Python",
+    "name": "shipiit/shipit_agent",
+    "stars": 2,
+    "updated_at": "2026-08-08T17:03:14Z",
+    "url": "https://github.com/shipiit/shipit_agent"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-08T17:00:34Z",
+    "updated_at": "2026-08-08T17:01:06Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -25,24 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T17:00:25Z",
     "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 2,
-    "updated_at": "2026-08-08T17:00:08Z",
-    "url": "https://github.com/ionalpha/flynn"
-  },
-  {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Go",
-    "name": "shaharia-lab/agento",
-    "stars": 24,
-    "updated_at": "2026-08-08T16:59:51Z",
-    "url": "https://github.com/shaharia-lab/agento"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -72,15 +144,6 @@
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   },
   {
-    "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
-    "id": "mathissdupont/ingot",
-    "language": "Rust",
-    "name": "mathissdupont/ingot",
-    "stars": 0,
-    "updated_at": "2026-08-08T16:54:19Z",
-    "url": "https://github.com/mathissdupont/ingot"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -97,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T16:48:25Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-08-08T16:48:05Z",
-    "url": "https://github.com/MariusYvard/corparius"
   },
   {
     "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
@@ -126,15 +180,6 @@
     "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-08T16:40:49Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -151,15 +196,6 @@
     "stars": 342,
     "updated_at": "2026-08-08T16:37:44Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33080,
-    "updated_at": "2026-08-08T17:00:22Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Muxiva is a Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and ",
@@ -252,15 +288,6 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "Agent Skills \u2014 skill collection for AI agents (Sisyphus, opencode): github-repo-hygiene, test-graphics, reddit-karma, pr",
-    "id": "bestdeejay-design/agent-skills",
-    "language": "Python",
-    "name": "bestdeejay-design/agent-skills",
-    "stars": 4,
-    "updated_at": "2026-08-08T16:24:45Z",
-    "url": "https://github.com/bestdeejay-design/agent-skills"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -268,15 +295,6 @@
     "stars": 243,
     "updated_at": "2026-08-08T16:23:57Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
-    "id": "jigjoy-ai/mozaik",
-    "language": "TypeScript",
-    "name": "jigjoy-ai/mozaik",
-    "stars": 120,
-    "updated_at": "2026-08-08T16:21:59Z",
-    "url": "https://github.com/jigjoy-ai/mozaik"
   },
   {
     "description": "Build distributed, production-grade, long-running agents.",
@@ -373,7 +391,7 @@
     "id": "i3T4AN/KADATH",
     "language": "Python",
     "name": "i3T4AN/KADATH",
-    "stars": 33,
+    "stars": 42,
     "updated_at": "2026-08-08T15:58:55Z",
     "url": "https://github.com/i3T4AN/KADATH"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-08T15:40:46Z",
     "url": "https://github.com/caiaiacai/self-evolving-agent"
-  },
-  {
-    "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
-    "id": "bailong-Hakuryu/E.R.I.I",
-    "language": "Python",
-    "name": "bailong-Hakuryu/E.R.I.I",
-    "stars": 1,
-    "updated_at": "2026-08-08T15:40:21Z",
-    "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
-  },
-  {
-    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 617,
-    "updated_at": "2026-08-08T15:39:57Z",
-    "url": "https://github.com/aeonfun/aeon"
   }
 ]
