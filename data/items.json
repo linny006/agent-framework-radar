@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
+    "id": "streamcoreai/streamcore-server",
+    "language": "Go",
+    "name": "streamcoreai/streamcore-server",
+    "stars": 110,
+    "updated_at": "2026-08-08T06:45:07Z",
+    "url": "https://github.com/streamcoreai/streamcore-server"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 155,
+    "updated_at": "2026-08-08T06:43:52Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Production-ready Go gateway for agentic AI \u2014 multi-provider routing, DAG orchestration, 44 skills, MCP integration. Self",
+    "id": "TresPies-source/AgenticGatewayByDojoGenesis",
+    "language": "Go",
+    "name": "TresPies-source/AgenticGatewayByDojoGenesis",
+    "stars": 0,
+    "updated_at": "2026-08-08T06:42:04Z",
+    "url": "https://github.com/TresPies-source/AgenticGatewayByDojoGenesis"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 29,
+    "updated_at": "2026-08-08T06:40:32Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-08T06:40:28Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-08T06:40:15Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T06:38:44Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 32950,
+    "updated_at": "2026-08-08T06:38:37Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-08T06:34:50Z",
+    "updated_at": "2026-08-08T06:44:36Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -61,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T06:30:32Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T06:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
@@ -113,7 +176,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 19,
-    "updated_at": "2026-08-08T06:35:09Z",
+    "updated_at": "2026-08-08T06:42:09Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -122,17 +185,8 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 9,
-    "updated_at": "2026-08-08T06:20:05Z",
+    "updated_at": "2026-08-08T06:44:52Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32948,
-    "updated_at": "2026-08-08T06:38:37Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Core engine for the autonomous development factory platform with workflow orchestration",
@@ -158,7 +212,7 @@
     "language": "Rust",
     "name": "codewandler/flux",
     "stars": 1,
-    "updated_at": "2026-08-08T06:32:18Z",
+    "updated_at": "2026-08-08T06:40:46Z",
     "url": "https://github.com/codewandler/flux"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T06:10:47Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 29,
-    "updated_at": "2026-08-08T06:37:49Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Eval-driven agent testing framework. Define test suites, run LLM systems against them, and score across correctness, cos",
@@ -193,7 +238,7 @@
     "id": "unknowbug/RE-Framework",
     "language": "Python",
     "name": "unknowbug/RE-Framework",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-08T06:09:27Z",
     "url": "https://github.com/unknowbug/RE-Framework"
   },
@@ -268,33 +313,6 @@
     "stars": 154,
     "updated_at": "2026-08-08T05:40:51Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 155,
-    "updated_at": "2026-08-08T05:39:33Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-08T05:38:08Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-08T05:38:00Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T04:42:05Z",
     "url": "https://github.com/alwanadi17/HADP-AgentFramework"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-08-08T04:36:22Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-08-08T04:31:17Z",
-    "url": "https://github.com/ggui-ai/ggui"
   }
 ]
