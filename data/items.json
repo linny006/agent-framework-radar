@@ -1,12 +1,57 @@
 [
   {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 48,
+    "updated_at": "2026-08-08T01:12:47Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1673,
+    "updated_at": "2026-08-08T01:11:47Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-08-08T01:10:50Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-08-08T01:10:03Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
     "stars": 419,
-    "updated_at": "2026-08-08T01:03:44Z",
+    "updated_at": "2026-08-08T01:10:00Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 290,
+    "updated_at": "2026-08-08T01:09:22Z",
+    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "Turn the way you work with AI into a reusable asset \u00b7 \u628a\u4f60\u7684 AI \u5de5\u4f5c\u65b9\u5f0f\uff0c\u6c89\u6dc0\u6210\u53ef\u4ee5\u590d\u7528\u7684\u8d44\u4ea7\u3002",
@@ -14,17 +59,53 @@
     "language": "TypeScript",
     "name": "pqpo/pragma",
     "stars": 6,
-    "updated_at": "2026-08-08T01:01:52Z",
+    "updated_at": "2026-08-08T01:09:48Z",
     "url": "https://github.com/pqpo/pragma"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32900,
-    "updated_at": "2026-08-08T01:01:29Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-08T01:08:43Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-08T01:08:33Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-08T01:06:37Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8302,
+    "updated_at": "2026-08-08T01:05:02Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 3,
+    "updated_at": "2026-08-08T01:04:51Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -32,17 +113,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-08T01:00:32Z",
+    "updated_at": "2026-08-08T01:04:18Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 48,
-    "updated_at": "2026-08-08T01:00:19Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 32902,
+    "updated_at": "2026-08-08T01:14:22Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -54,15 +135,6 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-08T00:55:24Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
     "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
     "id": "amilworks/ultra",
     "language": "Python",
@@ -70,15 +142,6 @@
     "stars": 6,
     "updated_at": "2026-08-08T01:03:55Z",
     "url": "https://github.com/amilworks/ultra"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8302,
-    "updated_at": "2026-08-08T00:49:06Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A governed multi-agent framework built on git",
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19132,
-    "updated_at": "2026-08-08T00:59:11Z",
+    "updated_at": "2026-08-08T01:09:48Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-08T00:34:21Z",
+    "updated_at": "2026-08-08T01:13:33Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -324,15 +387,6 @@
     "url": "https://github.com/shimo4228/agent-knowledge-cycle"
   },
   {
-    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 290,
-    "updated_at": "2026-08-07T23:46:48Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -340,15 +394,6 @@
     "stars": 206,
     "updated_at": "2026-08-07T23:41:58Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-08-07T23:36:48Z",
-    "url": "https://github.com/brunogcar/agent"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -403,50 +448,5 @@
     "stars": 155,
     "updated_at": "2026-08-07T23:29:53Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 106,
-    "updated_at": "2026-08-08T00:14:06Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-07T23:27:50Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-07T23:27:41Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 106,
-    "updated_at": "2026-08-08T01:02:38Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 10,
-    "updated_at": "2026-08-07T23:18:05Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   }
 ]
