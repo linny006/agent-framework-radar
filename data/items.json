@@ -1,11 +1,29 @@
 [
   {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 48,
+    "updated_at": "2026-08-08T20:57:32Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T20:56:00Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 33125,
-    "updated_at": "2026-08-08T20:54:37Z",
+    "updated_at": "2026-08-08T20:58:12Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -16,15 +34,6 @@
     "stars": 5,
     "updated_at": "2026-08-08T20:53:52Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 48,
-    "updated_at": "2026-08-08T20:53:20Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "Give any application a conversational agent \u2014 you write the actions, the framework brings the rest.",
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T20:46:11Z",
     "url": "https://github.com/lottieepigastric889/lucky-block-script-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T20:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -203,7 +203,7 @@
     "language": "Go",
     "name": "shaharia-lab/agento",
     "stars": 24,
-    "updated_at": "2026-08-08T20:51:16Z",
+    "updated_at": "2026-08-08T20:56:42Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -320,7 +320,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 0,
-    "updated_at": "2026-08-08T20:10:40Z",
+    "updated_at": "2026-08-08T20:57:16Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {

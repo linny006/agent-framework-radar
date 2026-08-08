@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-08 20:55 UTC
+> ⏰ Last updated: 2026-08-08 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 33125 | Go | 2026-08-08 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 2 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 5 | Python | 2026-08-08 | Many Agents, one objective... yours  |
-| 3 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 48 | TypeScript | 2026-08-08 | Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo |
-| 4 | [Cogria-AI/CogriaAgent](https://github.com/Cogria-AI/CogriaAgent) | 0 | Python | 2026-08-08 | Give any application a conversational agent — you write the actions, the framework brings the rest. |
-| 5 | [ag2ai/ag2](https://github.com/ag2ai/ag2) | 4844 | Python | 2026-08-08 | AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x |
-| 6 | [zlatko-lakisic/agentic-orchestration](https://github.com/zlatko-lakisic/agentic-orchestration) | 2 | Python | 2026-08-08 | Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess |
-| 7 | [aomi-labs/aomi](https://github.com/aomi-labs/aomi) | 10 | TypeScript | 2026-08-08 | The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library. |
-| 8 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-08-08 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 9 | [Audrey-cn/universal-agent-embedding-kit](https://github.com/Audrey-cn/universal-agent-embedding-kit) | 0 | Python | 2026-08-08 | Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-pla |
-| 10 | [mj-deving/omniweb-agents](https://github.com/mj-deving/omniweb-agents) | 0 | TypeScript | 2026-08-08 | Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony |
-| 11 | [hertz-ai/HARTOS](https://github.com/hertz-ai/HARTOS) | 50 | Python | 2026-08-08 | An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp |
-| 12 | [lottieepigastric889/lucky-block-script-hub](https://github.com/lottieepigastric889/lucky-block-script-hub) | 0 | HTML | 2026-08-08 | Automate Be a Lucky Block with targeting assistance and instant inventory liquidation for streamlined PC gameplay. |
-| 13 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-08 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 48 | TypeScript | 2026-08-08 | Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-08 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 33125 | Go | 2026-08-08 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 4 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 5 | Python | 2026-08-08 | Many Agents, one objective... yours  |
+| 5 | [Cogria-AI/CogriaAgent](https://github.com/Cogria-AI/CogriaAgent) | 0 | Python | 2026-08-08 | Give any application a conversational agent — you write the actions, the framework brings the rest. |
+| 6 | [ag2ai/ag2](https://github.com/ag2ai/ag2) | 4844 | Python | 2026-08-08 | AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x |
+| 7 | [zlatko-lakisic/agentic-orchestration](https://github.com/zlatko-lakisic/agentic-orchestration) | 2 | Python | 2026-08-08 | Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess |
+| 8 | [aomi-labs/aomi](https://github.com/aomi-labs/aomi) | 10 | TypeScript | 2026-08-08 | The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library. |
+| 9 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 2 | HTML | 2026-08-08 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 10 | [Audrey-cn/universal-agent-embedding-kit](https://github.com/Audrey-cn/universal-agent-embedding-kit) | 0 | Python | 2026-08-08 | Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-pla |
+| 11 | [mj-deving/omniweb-agents](https://github.com/mj-deving/omniweb-agents) | 0 | TypeScript | 2026-08-08 | Colony-operator-first OmniWeb substrate and skill workbench for Demos/SuperColony |
+| 12 | [hertz-ai/HARTOS](https://github.com/hertz-ai/HARTOS) | 50 | Python | 2026-08-08 | An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp |
+| 13 | [lottieepigastric889/lucky-block-script-hub](https://github.com/lottieepigastric889/lucky-block-script-hub) | 0 | HTML | 2026-08-08 | Automate Be a Lucky Block with targeting assistance and instant inventory liquidation for streamlined PC gameplay. |
 | 14 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-08 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
 | 15 | [mj-deving/managed-agents-research](https://github.com/mj-deving/managed-agents-research) | 0 | Python | 2026-08-08 | 5 progressive agent demos — from single-agent to multi-agent with plan+reflect. Claude Agent SDK, 42 tests, $0.42–$1.97/ |
 | 16 | [kahlelhawary-art/FlowAgent](https://github.com/kahlelhawary-art/FlowAgent) | 0 | Python | 2026-08-08 | 🤖 Open-source AI Agent Orchestration Framework — Build production-ready AI agents with Python, TypeScript & Go |
