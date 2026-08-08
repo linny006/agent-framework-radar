@@ -1,5 +1,95 @@
 [
   {
+    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
+    "id": "streamcoreai/streamcore-server",
+    "language": "Go",
+    "name": "streamcoreai/streamcore-server",
+    "stars": 113,
+    "updated_at": "2026-08-08T07:27:19Z",
+    "url": "https://github.com/streamcoreai/streamcore-server"
+  },
+  {
+    "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
+    "id": "Dikhun/Arctus.ai",
+    "language": "Python",
+    "name": "Dikhun/Arctus.ai",
+    "stars": 1,
+    "updated_at": "2026-08-08T07:27:00Z",
+    "url": "https://github.com/Dikhun/Arctus.ai"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 420,
+    "updated_at": "2026-08-08T07:25:02Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "ethosagent/ethos",
+    "language": "TypeScript",
+    "name": "ethosagent/ethos",
+    "stars": 16,
+    "updated_at": "2026-08-08T07:23:54Z",
+    "url": "https://github.com/ethosagent/ethos"
+  },
+  {
+    "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 6,
+    "updated_at": "2026-08-08T07:22:50Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 32964,
+    "updated_at": "2026-08-08T07:22:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-08T07:28:03Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-08-08T07:23:20Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "A lightweight repository harness for safe agentic collaboration, deliberate codebase learning, and conversational learni",
+    "id": "legrab/codebase-learning-flow",
+    "language": "PowerShell",
+    "name": "legrab/codebase-learning-flow",
+    "stars": 0,
+    "updated_at": "2026-08-08T07:24:25Z",
+    "url": "https://github.com/legrab/codebase-learning-flow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T07:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -43,15 +133,6 @@
     "stars": 38,
     "updated_at": "2026-08-08T07:09:29Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32962,
-    "updated_at": "2026-08-08T07:09:28Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -99,15 +180,6 @@
     "url": "https://github.com/IRC-A/bfa-sdk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T07:00:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -124,15 +196,6 @@
     "stars": 106,
     "updated_at": "2026-08-08T06:54:53Z",
     "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
-    "id": "streamcoreai/streamcore-server",
-    "language": "Go",
-    "name": "streamcoreai/streamcore-server",
-    "stars": 112,
-    "updated_at": "2026-08-08T06:53:41Z",
-    "url": "https://github.com/streamcoreai/streamcore-server"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -158,7 +221,7 @@
     "language": "Rust",
     "name": "Wh1isper/starweaver",
     "stars": 8,
-    "updated_at": "2026-08-08T06:45:38Z",
+    "updated_at": "2026-08-08T07:18:57Z",
     "url": "https://github.com/Wh1isper/starweaver"
   },
   {
@@ -205,24 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T06:40:15Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-08T07:03:41Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 16,
-    "updated_at": "2026-08-08T06:35:52Z",
-    "url": "https://github.com/ethosagent/ethos"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -382,7 +427,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8339,
+    "stars": 8342,
     "updated_at": "2026-08-08T05:42:31Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-08T05:29:40Z",
     "url": "https://github.com/enthrium/open-enthrium-ai-platform"
-  },
-  {
-    "description": "A standalone AI agent runtime for Windows, Linux, and macOS. Execute declarative YAML agents with built-in access to 2,6",
-    "id": "enthrium/open-enthrium-ai-agent-runtime",
-    "language": "JavaScript",
-    "name": "enthrium/open-enthrium-ai-agent-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-08T05:29:35Z",
-    "url": "https://github.com/enthrium/open-enthrium-ai-agent-runtime"
-  },
-  {
-    "description": "\u672c\u6587\u6863\u57fa\u4e8e\u539f\u7248\u8bfe\u7a0b\u5927\u7eb2\u7684\u6df1\u5165\u5206\u6790\uff0c\u7ed3\u5408 2026 \u5e74\u6700\u65b0 AI \u884c\u4e1a\u8d8b\u52bf\uff08A2A \u534f\u8bae\u3001Agent FinOps\u3001\u5408\u89c4\u6cbb\u7406\u3001AI Coding Agent \u7b49\uff09\u91cd\u65b0\u89c4\u5212\u800c\u6210\u3002",
-    "id": "ricoNext/Agent101",
-    "language": "TypeScript",
-    "name": "ricoNext/Agent101",
-    "stars": 0,
-    "updated_at": "2026-08-08T05:29:04Z",
-    "url": "https://github.com/ricoNext/Agent101"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-08T07:10:20Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 420,
-    "updated_at": "2026-08-08T05:12:33Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 4,
-    "updated_at": "2026-08-08T05:10:11Z",
-    "url": "https://github.com/opencue/cuecards"
   }
 ]
