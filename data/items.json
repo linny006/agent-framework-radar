@@ -1,5 +1,95 @@
 [
   {
+    "description": "Go/Golang multi-agent LLM framework \u2014 ReAct loops, parallel tool calls, streaming, sub-agents, and pluggable Anthropic /",
+    "id": "hung12ct/gopheragent",
+    "language": "Go",
+    "name": "hung12ct/gopheragent",
+    "stars": 3,
+    "updated_at": "2026-08-08T03:56:11Z",
+    "url": "https://github.com/hung12ct/gopheragent"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-08-08T03:54:20Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-08T03:53:45Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 5,
+    "updated_at": "2026-08-08T03:53:25Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6738,
+    "updated_at": "2026-08-08T03:49:55Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 106,
+    "updated_at": "2026-08-08T03:49:05Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-08T03:48:19Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 420,
+    "updated_at": "2026-08-08T03:47:25Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 32929,
+    "updated_at": "2026-08-08T03:58:04Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T03:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and TypeScript n",
     "id": "PiyotaHu/Voxa",
     "language": "Rust",
@@ -16,42 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T03:36:29Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32928,
-    "updated_at": "2026-08-08T03:42:32Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 420,
-    "updated_at": "2026-08-08T03:30:25Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T03:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6738,
-    "updated_at": "2026-08-08T03:28:39Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
@@ -76,7 +130,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8317,
+    "stars": 8319,
     "updated_at": "2026-08-08T03:26:44Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T03:24:31Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-08T03:41:10Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19136,
-    "updated_at": "2026-08-08T03:42:07Z",
+    "updated_at": "2026-08-08T03:53:30Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 106,
     "updated_at": "2026-08-08T02:53:41Z",
     "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 5,
-    "updated_at": "2026-08-08T02:52:04Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
@@ -310,7 +346,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1677,
+    "stars": 1678,
     "updated_at": "2026-08-08T02:37:22Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -322,24 +358,6 @@
     "stars": 5,
     "updated_at": "2026-08-08T02:33:04Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-08T02:32:41Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-08-08T02:31:49Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
@@ -423,15 +441,6 @@
     "url": "https://github.com/devpilgrin/berimor"
   },
   {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 106,
-    "updated_at": "2026-08-08T03:26:09Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
     "description": "Open Souls is an open-source framework and philosophy for building \"AI souls\" \u2014 agentic, embodied digital beings with pe",
     "id": "api-evangelist/open-souls",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-08T01:27:49Z",
     "url": "https://github.com/api-evangelist/open-souls"
-  },
-  {
-    "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
-    "id": "amilworks/ultra",
-    "language": "Python",
-    "name": "amilworks/ultra",
-    "stars": 6,
-    "updated_at": "2026-08-08T01:17:29Z",
-    "url": "https://github.com/amilworks/ultra"
   }
 ]
