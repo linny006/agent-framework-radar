@@ -1,12 +1,48 @@
 [
   {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
     "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 173,
-    "updated_at": "2026-08-08T21:41:58Z",
-    "url": "https://github.com/yologdev/yoagent"
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-08-08T21:52:16Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-08-08T21:51:57Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-08-08T21:51:29Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 419,
+    "updated_at": "2026-08-08T21:50:19Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-08-08T21:50:17Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "zlatko-lakisic/agentic-orchestration",
     "stars": 2,
-    "updated_at": "2026-08-08T21:41:52Z",
+    "updated_at": "2026-08-08T21:49:16Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Persistent self-improving AI teammates with memory, skills, and schedules.",
+    "id": "rundesk-ai/rundesk-cli",
+    "language": "Python",
+    "name": "rundesk-ai/rundesk-cli",
+    "stars": 1,
+    "updated_at": "2026-08-08T21:45:58Z",
+    "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T21:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 173,
+    "updated_at": "2026-08-08T21:41:58Z",
+    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -49,7 +112,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33132,
+    "stars": 33134,
     "updated_at": "2026-08-08T21:36:59Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -61,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T21:33:44Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Persistent self-improving AI teammates with memory, skills, and schedules.",
-    "id": "rundesk-ai/rundesk-cli",
-    "language": "Python",
-    "name": "rundesk-ai/rundesk-cli",
-    "stars": 1,
-    "updated_at": "2026-08-08T21:32:35Z",
-    "url": "https://github.com/rundesk-ai/rundesk-cli"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T21:30:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
@@ -189,24 +234,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-08-08T21:16:39Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-08-08T21:16:23Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -266,7 +293,7 @@
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 2,
-    "updated_at": "2026-08-08T21:16:25Z",
+    "updated_at": "2026-08-08T21:52:40Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -401,7 +428,7 @@
     "language": "JavaScript",
     "name": "rhein1/agoragentic-integrations",
     "stars": 27,
-    "updated_at": "2026-08-08T20:43:03Z",
+    "updated_at": "2026-08-08T21:49:47Z",
     "url": "https://github.com/rhein1/agoragentic-integrations"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-08T20:23:08Z",
     "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 979,
-    "updated_at": "2026-08-08T20:21:31Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
-    "id": "Ash20pk/BerthOS",
-    "language": "TypeScript",
-    "name": "Ash20pk/BerthOS",
-    "stars": 0,
-    "updated_at": "2026-08-08T20:19:39Z",
-    "url": "https://github.com/Ash20pk/BerthOS"
-  },
-  {
-    "description": "Unlock automated targeting, instant item liquidation, and low-latency execution with this lightweight HTML script hub fo",
-    "id": "diatomic-uterinevein550/be-a-lucky-block-script-hub",
-    "language": "HTML",
-    "name": "diatomic-uterinevein550/be-a-lucky-block-script-hub",
-    "stars": 0,
-    "updated_at": "2026-08-08T20:11:51Z",
-    "url": "https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub"
   }
 ]
