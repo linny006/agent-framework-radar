@@ -1,12 +1,30 @@
 [
   {
-    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
-    "id": "streamcoreai/streamcore-server",
+    "description": "A lightweight repository harness for safe agentic collaboration, deliberate codebase learning, and conversational learni",
+    "id": "legrab/codebase-learning-flow",
+    "language": "PowerShell",
+    "name": "legrab/codebase-learning-flow",
+    "stars": 0,
+    "updated_at": "2026-08-08T07:32:56Z",
+    "url": "https://github.com/legrab/codebase-learning-flow"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
     "language": "Go",
-    "name": "streamcoreai/streamcore-server",
-    "stars": 113,
-    "updated_at": "2026-08-08T07:27:19Z",
-    "url": "https://github.com/streamcoreai/streamcore-server"
+    "name": "Insajin/autopus-adk",
+    "stars": 106,
+    "updated_at": "2026-08-08T07:32:54Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-08-08T07:31:19Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "Dikhun/Arctus.ai",
     "stars": 1,
-    "updated_at": "2026-08-08T07:27:00Z",
+    "updated_at": "2026-08-08T07:31:07Z",
     "url": "https://github.com/Dikhun/Arctus.ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T07:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
+    "id": "streamcoreai/streamcore-server",
+    "language": "Go",
+    "name": "streamcoreai/streamcore-server",
+    "stars": 113,
+    "updated_at": "2026-08-08T07:27:19Z",
+    "url": "https://github.com/streamcoreai/streamcore-server"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -49,7 +85,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32964,
+    "stars": 32965,
     "updated_at": "2026-08-08T07:22:32Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -70,24 +106,6 @@
     "stars": 3,
     "updated_at": "2026-08-08T07:23:20Z",
     "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "A lightweight repository harness for safe agentic collaboration, deliberate codebase learning, and conversational learni",
-    "id": "legrab/codebase-learning-flow",
-    "language": "PowerShell",
-    "name": "legrab/codebase-learning-flow",
-    "stars": 0,
-    "updated_at": "2026-08-08T07:24:25Z",
-    "url": "https://github.com/legrab/codebase-learning-flow"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T07:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -122,7 +140,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 241,
-    "updated_at": "2026-08-08T07:10:54Z",
+    "updated_at": "2026-08-08T07:34:05Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -297,15 +315,6 @@
     "url": "https://github.com/ayman3000/SwiftAgentKit"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-08-08T06:26:50Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 22 crates, CLI/TUI/HTTP API, agentic tool loop + graph retrieval +",
     "id": "W117C/DeepseekNova",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-08T05:34:54Z",
     "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "A self-hosted, web-based AI platform for building, deploying, and running autonomous AI agents. Connect to 2,600+ enterp",
-    "id": "enthrium/open-enthrium-ai-platform",
-    "language": "JavaScript",
-    "name": "enthrium/open-enthrium-ai-platform",
-    "stars": 1,
-    "updated_at": "2026-08-08T05:29:40Z",
-    "url": "https://github.com/enthrium/open-enthrium-ai-platform"
   }
 ]
