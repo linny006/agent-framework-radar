@@ -1,12 +1,102 @@
 [
   {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-08-08T16:11:52Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1685,
+    "updated_at": "2026-08-08T16:10:22Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-08T16:10:14Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 419,
+    "updated_at": "2026-08-08T16:09:59Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 118,
+    "updated_at": "2026-08-08T16:13:20Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-08-08T16:02:35Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Minimal provider-agnostic AI agent framework. Tool loops, budget control, multi-model routing in ~200 lines core.",
+    "id": "breakingthecloud/tinkuy",
+    "language": "TypeScript",
+    "name": "breakingthecloud/tinkuy",
+    "stars": 1,
+    "updated_at": "2026-08-08T16:01:34Z",
+    "url": "https://github.com/breakingthecloud/tinkuy"
+  },
+  {
+    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
+    "id": "streamcoreai/streamcore-server",
+    "language": "Go",
+    "name": "streamcoreai/streamcore-server",
+    "stars": 130,
+    "updated_at": "2026-08-08T16:00:34Z",
+    "url": "https://github.com/streamcoreai/streamcore-server"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T16:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Muxiva is a Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and ",
     "id": "PiyotaHu/muxiva",
     "language": "Rust",
     "name": "PiyotaHu/muxiva",
     "stars": 1,
-    "updated_at": "2026-08-08T15:59:35Z",
+    "updated_at": "2026-08-08T16:01:58Z",
     "url": "https://github.com/PiyotaHu/muxiva"
+  },
+  {
+    "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to co",
+    "id": "i3T4AN/KADATH",
+    "language": "Python",
+    "name": "i3T4AN/KADATH",
+    "stars": 0,
+    "updated_at": "2026-08-08T15:58:55Z",
+    "url": "https://github.com/i3T4AN/KADATH"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -18,15 +108,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1685,
-    "updated_at": "2026-08-08T15:57:09Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T15:56:05Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T15:54:50Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
@@ -63,15 +135,6 @@
     "url": "https://github.com/Oryxa-Vault/oryxa"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 419,
-    "updated_at": "2026-08-08T15:50:58Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -79,15 +142,6 @@
     "stars": 243,
     "updated_at": "2026-08-08T15:49:00Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
-    "id": "streamcoreai/streamcore-server",
-    "language": "Go",
-    "name": "streamcoreai/streamcore-server",
-    "stars": 130,
-    "updated_at": "2026-08-08T15:46:52Z",
-    "url": "https://github.com/streamcoreai/streamcore-server"
   },
   {
     "description": "AgentSeed \u2014 the governance layer for AI agents. Non-negotiable kernel + pluggable scenario packs, synced to 15 AI agent ",
@@ -153,20 +207,11 @@
     "url": "https://github.com/aeonfun/aeon"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-08-08T15:38:47Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33062,
+    "stars": 33065,
     "updated_at": "2026-08-08T15:36:49Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-08T15:44:59Z",
+    "updated_at": "2026-08-08T16:13:18Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -322,24 +367,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T15:56:57Z",
     "url": "https://github.com/270438469/vertical-agent-factory"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-08-08T15:19:03Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-08T15:18:24Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -409,7 +436,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8389,
+    "stars": 8390,
     "updated_at": "2026-08-08T14:53:08Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -421,32 +448,5 @@
     "stars": 342,
     "updated_at": "2026-08-08T14:44:06Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Multi-agent orchestration framework \u2014 design AI teams in YAML, route tasks to cheap or expensive models by role",
-    "id": "ErfanMomeniii/openswarm",
-    "language": "Python",
-    "name": "ErfanMomeniii/openswarm",
-    "stars": 2,
-    "updated_at": "2026-08-08T14:34:44Z",
-    "url": "https://github.com/ErfanMomeniii/openswarm"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 106,
-    "updated_at": "2026-08-08T14:34:24Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 253,
-    "updated_at": "2026-08-08T14:32:35Z",
-    "url": "https://github.com/xuiltul/animaworks"
   }
 ]
