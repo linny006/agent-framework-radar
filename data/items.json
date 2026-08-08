@@ -1,12 +1,21 @@
 [
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 419,
+    "updated_at": "2026-08-08T01:03:44Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Turn the way you work with AI into a reusable asset \u00b7 \u628a\u4f60\u7684 AI \u5de5\u4f5c\u65b9\u5f0f\uff0c\u6c89\u6dc0\u6210\u53ef\u4ee5\u590d\u7528\u7684\u8d44\u4ea7\u3002",
+    "id": "pqpo/pragma",
     "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 48,
-    "updated_at": "2026-08-08T01:00:19Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
+    "name": "pqpo/pragma",
+    "stars": 6,
+    "updated_at": "2026-08-08T01:01:52Z",
+    "url": "https://github.com/pqpo/pragma"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -14,8 +23,26 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 32900,
-    "updated_at": "2026-08-08T00:59:42Z",
+    "updated_at": "2026-08-08T01:01:29Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T01:00:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 48,
+    "updated_at": "2026-08-08T01:00:19Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "amilworks/ultra",
     "stars": 6,
-    "updated_at": "2026-08-08T01:00:16Z",
+    "updated_at": "2026-08-08T01:03:55Z",
     "url": "https://github.com/amilworks/ultra"
   },
   {
@@ -90,15 +117,6 @@
     "url": "https://github.com/Thepizzapie/BuildersGate"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-08T00:45:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -124,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-08-08T00:38:13Z",
     "url": "https://github.com/spice-framework/spice-agent-coding"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46748,
+    "updated_at": "2026-08-08T00:38:09Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "AutoGen Studio is a low-code / no-code developer GUI from Microsoft Research for rapidly prototyping, composing, and deb",
@@ -410,7 +437,7 @@
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 106,
-    "updated_at": "2026-08-07T23:26:00Z",
+    "updated_at": "2026-08-08T01:02:38Z",
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-07T23:18:05Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Stateful multi-tier cognitive cycles for long-horizon agents. Governance claims are CI-enforced: the build fails if the ",
-    "id": "kirklasalle/orrery",
-    "language": "Python",
-    "name": "kirklasalle/orrery",
-    "stars": 1,
-    "updated_at": "2026-08-07T23:08:04Z",
-    "url": "https://github.com/kirklasalle/orrery"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 253,
-    "updated_at": "2026-08-07T23:02:48Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext. ",
-    "id": "agoradynamics/wick",
-    "language": "JavaScript",
-    "name": "agoradynamics/wick",
-    "stars": 3,
-    "updated_at": "2026-08-07T23:00:12Z",
-    "url": "https://github.com/agoradynamics/wick"
   }
 ]
