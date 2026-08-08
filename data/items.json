@@ -1,12 +1,39 @@
 [
   {
-    "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
-    "id": "polymind-inc/agent-framework-js",
-    "language": "TypeScript",
-    "name": "polymind-inc/agent-framework-js",
-    "stars": 3,
-    "updated_at": "2026-08-08T02:59:38Z",
-    "url": "https://github.com/polymind-inc/agent-framework-js"
+    "description": "A markdown-based agent operating system for AI-assisted cold outbound. Draft-first: nothing sends without explicit human",
+    "id": "kelleysd-apps/leadbench",
+    "language": "Python",
+    "name": "kelleysd-apps/leadbench",
+    "stars": 0,
+    "updated_at": "2026-08-08T03:12:03Z",
+    "url": "https://github.com/kelleysd-apps/leadbench"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8311,
+    "updated_at": "2026-08-08T03:06:03Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 253,
+    "updated_at": "2026-08-08T03:03:41Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19134,
+    "updated_at": "2026-08-08T03:00:46Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-08T02:59:27Z",
+    "updated_at": "2026-08-08T03:00:32Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-08-08T03:00:22Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
+    "id": "polymind-inc/agent-framework-js",
+    "language": "TypeScript",
+    "name": "polymind-inc/agent-framework-js",
+    "stars": 4,
+    "updated_at": "2026-08-08T02:59:38Z",
+    "url": "https://github.com/polymind-inc/agent-framework-js"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-08T02:58:53Z",
+    "updated_at": "2026-08-08T03:10:49Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 10,
     "updated_at": "2026-08-08T02:55:19Z",
     "url": "https://github.com/plaited/plaited"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 253,
-    "updated_at": "2026-08-08T02:54:06Z",
-    "url": "https://github.com/xuiltul/animaworks"
   },
   {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
@@ -94,8 +130,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 32923,
-    "updated_at": "2026-08-08T02:51:23Z",
+    "stars": 32926,
+    "updated_at": "2026-08-08T03:10:26Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "DemonDamon/AgenticX",
     "stars": 206,
-    "updated_at": "2026-08-08T02:38:33Z",
+    "updated_at": "2026-08-08T03:01:51Z",
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
@@ -259,33 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T02:20:40Z",
     "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-08-08T03:00:22Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8311,
-    "updated_at": "2026-08-08T02:39:55Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "A markdown-based agent operating system for AI-assisted cold outbound. Draft-first: nothing sends without explicit human",
-    "id": "kelleysd-apps/leadbench",
-    "language": "Python",
-    "name": "kelleysd-apps/leadbench",
-    "stars": 0,
-    "updated_at": "2026-08-08T02:15:21Z",
-    "url": "https://github.com/kelleysd-apps/leadbench"
   },
   {
     "description": "Open-source autoresearch powered by autonomous coding agents. Run Claude Code, OpenCode, and Codex with grading, shared ",
@@ -421,15 +430,6 @@
     "stars": 48,
     "updated_at": "2026-08-08T01:30:54Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19133,
-    "updated_at": "2026-08-08T02:58:51Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "",
