@@ -1,12 +1,102 @@
 [
   {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 244,
+    "updated_at": "2026-08-09T08:14:26Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-09T08:15:00Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
     "description": "AGENT_FRAMEWORK11 \u2014 a disciplined 11-step task-execution standard for AI agents (purpose-first, red lines, evidence, ref",
     "id": "Thomson555/AGENT_FRAMEWORK11",
     "language": "Python",
     "name": "Thomson555/AGENT_FRAMEWORK11",
     "stars": 1,
-    "updated_at": "2026-08-09T07:58:07Z",
+    "updated_at": "2026-08-09T08:11:09Z",
     "url": "https://github.com/Thomson555/AGENT_FRAMEWORK11"
+  },
+  {
+    "description": "Offline voice agent framework for robots \u2014 agents, skills, workflows, sub-second voice pipeline, 2D/3D simulation (IR-SI",
+    "id": "nrl-ai/edgevox",
+    "language": "Python",
+    "name": "nrl-ai/edgevox",
+    "stars": 12,
+    "updated_at": "2026-08-09T08:10:47Z",
+    "url": "https://github.com/nrl-ai/edgevox"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33266,
+    "updated_at": "2026-08-09T08:15:11Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
+    "id": "Ash20pk/BerthOS",
+    "language": "TypeScript",
+    "name": "Ash20pk/BerthOS",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:09:02Z",
+    "url": "https://github.com/Ash20pk/BerthOS"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 253,
+    "updated_at": "2026-08-09T08:08:51Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Live sanitized mirror of the harness Shadow actually runs on \u2014 contracts, failure-mode taxonomy, skills. Start at impart",
+    "id": "impartshadow/shadow",
+    "language": "Python",
+    "name": "impartshadow/shadow",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:06:23Z",
+    "url": "https://github.com/impartshadow/shadow"
+  },
+  {
+    "description": "Multi-agent AI framework that writes full-length novels with persistent story state, a deterministic continuity engine, ",
+    "id": "mrigankad/Novel-OS",
+    "language": "Python",
+    "name": "mrigankad/Novel-OS",
+    "stars": 31,
+    "updated_at": "2026-08-09T08:01:34Z",
+    "url": "https://github.com/mrigankad/Novel-OS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-09T08:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
+    "id": "SammyTourani/evestack",
+    "language": "TypeScript",
+    "name": "SammyTourani/evestack",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:12:26Z",
+    "url": "https://github.com/SammyTourani/evestack"
   },
   {
     "description": "Open-source Java economic simulator. A free, modular sandbox simulating markets, supply and demand, and policy changes. ",
@@ -18,15 +108,6 @@
     "url": "https://github.com/Farmer0390/Economic-Simulator"
   },
   {
-    "description": "Multi-agent AI framework that writes full-length novels with persistent story state, a deterministic continuity engine, ",
-    "id": "mrigankad/Novel-OS",
-    "language": "Python",
-    "name": "mrigankad/Novel-OS",
-    "stars": 31,
-    "updated_at": "2026-08-09T07:56:40Z",
-    "url": "https://github.com/mrigankad/Novel-OS"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -34,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T07:53:10Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
-    "id": "Ash20pk/BerthOS",
-    "language": "TypeScript",
-    "name": "Ash20pk/BerthOS",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:52:31Z",
-    "url": "https://github.com/Ash20pk/BerthOS"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -61,15 +133,6 @@
     "stars": 155,
     "updated_at": "2026-08-09T07:50:50Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 253,
-    "updated_at": "2026-08-09T07:49:43Z",
-    "url": "https://github.com/xuiltul/animaworks"
   },
   {
     "description": "",
@@ -97,33 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T07:47:49Z",
     "url": "https://github.com/maxmoran23/Claude-Agent-Fleet"
-  },
-  {
-    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
-    "id": "SammyTourani/evestack",
-    "language": "TypeScript",
-    "name": "SammyTourani/evestack",
-    "stars": 0,
-    "updated_at": "2026-08-09T08:00:24Z",
-    "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33262,
-    "updated_at": "2026-08-09T07:45:49Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-09T07:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -333,15 +369,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-09T08:00:21Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-09T05:52:28Z",
     "url": "https://github.com/legrab/codebase-learning-flow"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-08-09T07:49:13Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Core engine for the autonomous development factory platform with workflow orchestration",
-    "id": "Raphasha27/autonomous-dev-factory-core",
-    "language": "Python",
-    "name": "Raphasha27/autonomous-dev-factory-core",
-    "stars": 2,
-    "updated_at": "2026-08-09T05:46:07Z",
-    "url": "https://github.com/Raphasha27/autonomous-dev-factory-core"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 106,
-    "updated_at": "2026-08-09T05:43:22Z",
-    "url": "https://github.com/Insajin/autopus-adk"
   }
 ]
