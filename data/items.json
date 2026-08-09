@@ -1,11 +1,83 @@
 [
   {
+    "description": "Open-source autonomous AI agent framework for persistent memory, self-directed actions, model continuity, and artificial",
+    "id": "agent-island/project-autonomous-agent",
+    "language": "JavaScript",
+    "name": "agent-island/project-autonomous-agent",
+    "stars": 0,
+    "updated_at": "2026-08-09T00:57:01Z",
+    "url": "https://github.com/agent-island/project-autonomous-agent"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 4958,
+    "updated_at": "2026-08-09T00:54:11Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "The control plane for AI coding agents.",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1577,
+    "updated_at": "2026-08-09T00:51:55Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 109,
+    "updated_at": "2026-08-09T00:51:49Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Zero-dependency TypeScript SDK for AI agent governance: policy enforcement, injection detection, tamper-evident audit, a",
+    "id": "lua-ai-global/governance",
+    "language": "TypeScript",
+    "name": "lua-ai-global/governance",
+    "stars": 25,
+    "updated_at": "2026-08-09T00:49:59Z",
+    "url": "https://github.com/lua-ai-global/governance"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-09T00:47:03Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-09T00:46:09Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-09T00:45:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-09T00:44:35Z",
+    "updated_at": "2026-08-09T00:59:24Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -31,7 +103,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33157,
+    "stars": 33161,
     "updated_at": "2026-08-09T00:40:24Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -52,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T00:34:57Z",
     "url": "https://github.com/efuturetoday/nocturn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-09T00:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-09T00:26:03Z",
+    "updated_at": "2026-08-09T00:59:15Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -194,7 +257,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 48,
-    "updated_at": "2026-08-08T23:33:42Z",
+    "updated_at": "2026-08-09T00:54:09Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -212,7 +275,7 @@
     "language": "TypeScript",
     "name": "SammyTourani/evestack",
     "stars": 0,
-    "updated_at": "2026-08-09T00:38:54Z",
+    "updated_at": "2026-08-09T00:55:34Z",
     "url": "https://github.com/SammyTourani/evestack"
   },
   {
@@ -268,24 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T23:21:57Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-08T23:16:13Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-08T23:16:12Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -360,15 +405,6 @@
     "url": "https://github.com/firatcand/roster"
   },
   {
-    "description": "Zero-dependency TypeScript SDK for AI agent governance: policy enforcement, injection detection, tamper-evident audit, a",
-    "id": "lua-ai-global/governance",
-    "language": "TypeScript",
-    "name": "lua-ai-global/governance",
-    "stars": 25,
-    "updated_at": "2026-08-08T22:20:48Z",
-    "url": "https://github.com/lua-ai-global/governance"
-  },
-  {
     "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
     "id": "devpilgrin/berimor",
     "language": "Rust",
@@ -401,7 +437,7 @@
     "language": "TypeScript",
     "name": "sweatco/archie-hq",
     "stars": 16,
-    "updated_at": "2026-08-08T22:01:13Z",
+    "updated_at": "2026-08-09T00:58:10Z",
     "url": "https://github.com/sweatco/archie-hq"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T21:56:55Z",
     "url": "https://github.com/nibzard/protein"
-  },
-  {
-    "description": "Agent Skills \u2014 skill collection for AI agents (Sisyphus, opencode): github-repo-hygiene, test-graphics, reddit-karma, pr",
-    "id": "bestdeejay-design/agent-skills",
-    "language": "Python",
-    "name": "bestdeejay-design/agent-skills",
-    "stars": 4,
-    "updated_at": "2026-08-08T21:55:07Z",
-    "url": "https://github.com/bestdeejay-design/agent-skills"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-08-08T22:04:30Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-08-08T21:51:57Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 419,
-    "updated_at": "2026-08-08T21:50:19Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   }
 ]
