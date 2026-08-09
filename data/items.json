@@ -1,12 +1,30 @@
 [
   {
-    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
-    "id": "streamcoreai/streamcore-server",
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-09T09:53:13Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
     "language": "Go",
-    "name": "streamcoreai/streamcore-server",
-    "stars": 135,
-    "updated_at": "2026-08-09T09:45:14Z",
-    "url": "https://github.com/streamcoreai/streamcore-server"
+    "name": "shaharia-lab/agento",
+    "stars": 24,
+    "updated_at": "2026-08-09T09:51:41Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
+    "id": "Dikhun/Arctus.ai",
+    "language": "Python",
+    "name": "Dikhun/Arctus.ai",
+    "stars": 1,
+    "updated_at": "2026-08-09T09:51:20Z",
+    "url": "https://github.com/Dikhun/Arctus.ai"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,8 +32,35 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-09T09:43:29Z",
+    "updated_at": "2026-08-09T09:51:21Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
+    "id": "devpilgrin/berimor",
+    "language": "Rust",
+    "name": "devpilgrin/berimor",
+    "stars": 2,
+    "updated_at": "2026-08-09T09:47:30Z",
+    "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-09T09:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
+    "id": "streamcoreai/streamcore-server",
+    "language": "Go",
+    "name": "streamcoreai/streamcore-server",
+    "stars": 135,
+    "updated_at": "2026-08-09T09:45:14Z",
+    "url": "https://github.com/streamcoreai/streamcore-server"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-09T09:43:05Z",
+    "updated_at": "2026-08-09T09:51:45Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -40,7 +85,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33295,
+    "stars": 33296,
     "updated_at": "2026-08-09T09:42:29Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -77,17 +122,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-09T09:38:25Z",
+    "updated_at": "2026-08-09T09:48:36Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Go",
-    "name": "shaharia-lab/agento",
-    "stars": 24,
-    "updated_at": "2026-08-09T09:44:13Z",
-    "url": "https://github.com/shaharia-lab/agento"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "Vivien83/captain",
     "stars": 0,
-    "updated_at": "2026-08-09T09:32:24Z",
+    "updated_at": "2026-08-09T09:47:30Z",
     "url": "https://github.com/Vivien83/captain"
   },
   {
@@ -149,17 +185,8 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 19,
-    "updated_at": "2026-08-09T09:32:06Z",
+    "updated_at": "2026-08-09T09:50:23Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-09T09:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
@@ -243,15 +270,6 @@
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-09T09:08:06Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -310,7 +328,7 @@
     "id": "agents-universe/agents-universe",
     "language": "Python",
     "name": "agents-universe/agents-universe",
-    "stars": 1,
+    "stars": 3,
     "updated_at": "2026-08-09T09:05:16Z",
     "url": "https://github.com/agents-universe/agents-universe"
   },
@@ -364,7 +382,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 990,
+    "stars": 991,
     "updated_at": "2026-08-09T08:45:01Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-09T08:11:09Z",
     "url": "https://github.com/Thomson555/AGENT_FRAMEWORK11"
-  },
-  {
-    "description": "Offline voice agent framework for robots \u2014 agents, skills, workflows, sub-second voice pipeline, 2D/3D simulation (IR-SI",
-    "id": "nrl-ai/edgevox",
-    "language": "Python",
-    "name": "nrl-ai/edgevox",
-    "stars": 12,
-    "updated_at": "2026-08-09T09:28:30Z",
-    "url": "https://github.com/nrl-ai/edgevox"
-  },
-  {
-    "description": "Live sanitized mirror of the harness Shadow actually runs on \u2014 contracts, failure-mode taxonomy, skills. Start at impart",
-    "id": "impartshadow/shadow",
-    "language": "Python",
-    "name": "impartshadow/shadow",
-    "stars": 0,
-    "updated_at": "2026-08-09T08:06:23Z",
-    "url": "https://github.com/impartshadow/shadow"
   }
 ]
