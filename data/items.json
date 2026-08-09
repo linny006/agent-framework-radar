@@ -1,12 +1,66 @@
 [
   {
+    "description": "Persistent self-improving AI teammates with memory, skills, and schedules.",
+    "id": "rundesk-ai/rundesk-cli",
+    "language": "Python",
+    "name": "rundesk-ai/rundesk-cli",
+    "stars": 1,
+    "updated_at": "2026-08-09T05:26:16Z",
+    "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
+    "id": "rhein1/agoragentic-integrations",
+    "language": "JavaScript",
+    "name": "rhein1/agoragentic-integrations",
+    "stars": 28,
+    "updated_at": "2026-08-09T05:28:02Z",
+    "url": "https://github.com/rhein1/agoragentic-integrations"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-09T05:14:59Z",
+    "updated_at": "2026-08-09T05:22:19Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 4,
+    "updated_at": "2026-08-09T05:18:43Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33231,
+    "updated_at": "2026-08-09T05:17:44Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
+    "id": "Ash20pk/BerthOS",
+    "language": "TypeScript",
+    "name": "Ash20pk/BerthOS",
+    "stars": 0,
+    "updated_at": "2026-08-09T05:16:38Z",
+    "url": "https://github.com/Ash20pk/BerthOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-09T05:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "SammyTourani/evestack",
     "stars": 0,
-    "updated_at": "2026-08-09T05:13:18Z",
+    "updated_at": "2026-08-09T05:22:35Z",
     "url": "https://github.com/SammyTourani/evestack"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 145,
     "updated_at": "2026-08-09T05:08:42Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
-    "id": "rhein1/agoragentic-integrations",
-    "language": "JavaScript",
-    "name": "rhein1/agoragentic-integrations",
-    "stars": 28,
-    "updated_at": "2026-08-09T05:15:11Z",
-    "url": "https://github.com/rhein1/agoragentic-integrations"
   },
   {
     "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
@@ -99,15 +144,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-09T05:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T04:58:12Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Persistent self-improving AI teammates with memory, skills, and schedules.",
-    "id": "rundesk-ai/rundesk-cli",
-    "language": "Python",
-    "name": "rundesk-ai/rundesk-cli",
-    "stars": 1,
-    "updated_at": "2026-08-09T05:07:29Z",
-    "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
     "description": "GAIA - Go Autonomous Intelligence Agent. Programming-first autonomous agent with multi-agent specialized learning, SDD w",
@@ -176,17 +203,8 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1286,
-    "updated_at": "2026-08-09T04:44:01Z",
+    "updated_at": "2026-08-09T05:26:30Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33226,
-    "updated_at": "2026-08-09T05:01:59Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -268,15 +286,6 @@
     "stars": 35,
     "updated_at": "2026-08-09T04:31:52Z",
     "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 4,
-    "updated_at": "2026-08-09T04:22:16Z",
-    "url": "https://github.com/opencue/cuecards"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-09T03:20:46Z",
     "url": "https://github.com/PiyotaHu/muxiva"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-09T03:17:36Z",
-    "url": "https://github.com/GEMISIS/leviath"
   }
 ]
