@@ -1,12 +1,48 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-09T00:44:35Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "GAIA - Go Autonomous Intelligence Agent. Programming-first autonomous agent with multi-agent specialized learning, SDD w",
+    "id": "SalvucciFacundo/gaia",
+    "language": "Go",
+    "name": "SalvucciFacundo/gaia",
+    "stars": 1,
+    "updated_at": "2026-08-09T00:44:32Z",
+    "url": "https://github.com/SalvucciFacundo/gaia"
+  },
+  {
+    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
+    "id": "rhein1/agoragentic-integrations",
+    "language": "JavaScript",
+    "name": "rhein1/agoragentic-integrations",
+    "stars": 27,
+    "updated_at": "2026-08-09T00:42:22Z",
+    "url": "https://github.com/rhein1/agoragentic-integrations"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33155,
-    "updated_at": "2026-08-09T00:28:38Z",
+    "stars": 33157,
+    "updated_at": "2026-08-09T00:40:24Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
+    "id": "Dikhun/Arctus.ai",
+    "language": "Python",
+    "name": "Dikhun/Arctus.ai",
+    "stars": 1,
+    "updated_at": "2026-08-09T00:37:58Z",
+    "url": "https://github.com/Dikhun/Arctus.ai"
   },
   {
     "description": "A personal AI assistant in one Go binary: WASM-sandboxed extensions, per-action permission gating, and mandatory out-of-",
@@ -14,17 +50,17 @@
     "language": "Go",
     "name": "efuturetoday/nocturn",
     "stars": 1,
-    "updated_at": "2026-08-09T00:26:34Z",
+    "updated_at": "2026-08-09T00:34:57Z",
     "url": "https://github.com/efuturetoday/nocturn"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
     "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-09T00:29:11Z",
-    "url": "https://github.com/tya5/reyn"
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-09T00:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
@@ -34,15 +70,6 @@
     "stars": 253,
     "updated_at": "2026-08-09T00:24:24Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "GAIA - Go Autonomous Intelligence Agent. Programming-first autonomous agent with multi-agent specialized learning, SDD w",
-    "id": "SalvucciFacundo/gaia",
-    "language": "Go",
-    "name": "SalvucciFacundo/gaia",
-    "stars": 1,
-    "updated_at": "2026-08-09T00:24:39Z",
-    "url": "https://github.com/SalvucciFacundo/gaia"
   },
   {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
@@ -63,15 +90,6 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
-    "id": "rhein1/agoragentic-integrations",
-    "language": "JavaScript",
-    "name": "rhein1/agoragentic-integrations",
-    "stars": 27,
-    "updated_at": "2026-08-09T00:19:04Z",
-    "url": "https://github.com/rhein1/agoragentic-integrations"
-  },
-  {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
     "id": "zlatko-lakisic/agentic-orchestration",
     "language": "Python",
@@ -88,15 +106,6 @@
     "stars": 290,
     "updated_at": "2026-08-09T00:16:29Z",
     "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-09T00:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -203,7 +212,7 @@
     "language": "TypeScript",
     "name": "SammyTourani/evestack",
     "stars": 0,
-    "updated_at": "2026-08-08T23:30:47Z",
+    "updated_at": "2026-08-09T00:38:54Z",
     "url": "https://github.com/SammyTourani/evestack"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 419,
     "updated_at": "2026-08-08T21:50:19Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 173,
-    "updated_at": "2026-08-08T21:41:58Z",
-    "url": "https://github.com/yologdev/yoagent"
   }
 ]
