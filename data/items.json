@@ -1,12 +1,57 @@
 [
   {
-    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
-    "id": "yanacuti1121/Yana-AI",
+    "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
+    "id": "secondorderai/ouroboros",
+    "language": "TypeScript",
+    "name": "secondorderai/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-08-09T04:45:04Z",
+    "url": "https://github.com/secondorderai/ouroboros"
+  },
+  {
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 36,
+    "updated_at": "2026-08-09T04:44:36Z",
+    "url": "https://github.com/Marssssss/OneAI"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1286,
+    "updated_at": "2026-08-09T04:44:01Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
     "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 1,
-    "updated_at": "2026-08-09T04:32:57Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-09T04:45:10Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33219,
+    "updated_at": "2026-08-09T04:42:25Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 419,
+    "updated_at": "2026-08-09T04:40:55Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
@@ -14,8 +59,26 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 112,
-    "updated_at": "2026-08-09T04:33:16Z",
+    "updated_at": "2026-08-09T04:36:38Z",
     "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 2,
+    "updated_at": "2026-08-09T04:36:23Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
+    "id": "akyourowngames/friday",
+    "language": "Python",
+    "name": "akyourowngames/friday",
+    "stars": 5,
+    "updated_at": "2026-08-09T04:36:33Z",
+    "url": "https://github.com/akyourowngames/friday"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -23,8 +86,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-09T04:30:27Z",
+    "updated_at": "2026-08-09T04:34:31Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 1,
+    "updated_at": "2026-08-09T04:32:57Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
     "description": "GAIA - Go Autonomous Intelligence Agent. Programming-first autonomous agent with multi-agent specialized learning, SDD w",
@@ -41,7 +113,7 @@
     "language": "JavaScript",
     "name": "rhein1/agoragentic-integrations",
     "stars": 28,
-    "updated_at": "2026-08-09T04:29:46Z",
+    "updated_at": "2026-08-09T04:38:29Z",
     "url": "https://github.com/rhein1/agoragentic-integrations"
   },
   {
@@ -72,15 +144,6 @@
     "url": "https://github.com/Scottcjn/awesome-agents"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33213,
-    "updated_at": "2026-08-09T04:25:18Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "The fully self-hostable, open composable platform for agent orchestration and human collaboration. With tools, security,",
     "id": "amajorai/ryu",
     "language": "Rust",
@@ -99,15 +162,6 @@
     "url": "https://github.com/opencue/cuecards"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-09T04:34:01Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T04:20:02Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
-    "id": "secondorderai/ouroboros",
-    "language": "TypeScript",
-    "name": "secondorderai/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-08-09T04:10:04Z",
-    "url": "https://github.com/secondorderai/ouroboros"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 1,
-    "updated_at": "2026-08-09T04:24:04Z",
+    "updated_at": "2026-08-09T04:40:00Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 29,
     "updated_at": "2026-08-09T03:49:54Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
-    "id": "akyourowngames/friday",
-    "language": "Python",
-    "name": "akyourowngames/friday",
-    "stars": 5,
-    "updated_at": "2026-08-09T03:49:04Z",
-    "url": "https://github.com/akyourowngames/friday"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -288,15 +324,6 @@
     "url": "https://github.com/ethosagent/ethos"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1286,
-    "updated_at": "2026-08-09T03:29:36Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -329,7 +356,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 1,
-    "updated_at": "2026-08-09T03:24:43Z",
+    "updated_at": "2026-08-09T04:45:15Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/tropo-ai/tropo"
   },
   {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-08-09T03:14:38Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -414,15 +432,6 @@
     "url": "https://github.com/axisrobo/praxovela-open"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-08-09T03:09:02Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "Insajin/autopus-adk",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-09T03:05:53Z",
     "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-08-09T03:05:04Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
   }
 ]
