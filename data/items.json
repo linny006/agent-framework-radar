@@ -1,5 +1,77 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33408,
+    "updated_at": "2026-08-09T19:17:58Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Agent Skills - 29 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
+    "id": "bestdeejay-design/agent-skills",
+    "language": "Python",
+    "name": "bestdeejay-design/agent-skills",
+    "stars": 5,
+    "updated_at": "2026-08-09T19:16:54Z",
+    "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
+    "id": "Gald3r-Labs/gald3r",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r",
+    "stars": 23,
+    "updated_at": "2026-08-09T19:16:30Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r"
+  },
+  {
+    "description": "Automate Be a Lucky Block with targeting assistance and instant inventory liquidation for streamlined PC gameplay.",
+    "id": "lottieepigastric889/lucky-block-script-hub",
+    "language": "HTML",
+    "name": "lottieepigastric889/lucky-block-script-hub",
+    "stars": 0,
+    "updated_at": "2026-08-09T19:16:01Z",
+    "url": "https://github.com/lottieepigastric889/lucky-block-script-hub"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-08-09T19:15:52Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-09T19:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-09T19:15:22Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-08-09T19:15:08Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
@@ -18,15 +90,6 @@
     "url": "https://github.com/Ash20pk/BerthOS"
   },
   {
-    "description": "Agent Skills - 29 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
-    "id": "bestdeejay-design/agent-skills",
-    "language": "Python",
-    "name": "bestdeejay-design/agent-skills",
-    "stars": 5,
-    "updated_at": "2026-08-09T19:14:08Z",
-    "url": "https://github.com/bestdeejay-design/agent-skills"
-  },
-  {
     "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
     "id": "shibing624/agentica",
     "language": "Python",
@@ -34,15 +97,6 @@
     "stars": 342,
     "updated_at": "2026-08-09T19:11:17Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33408,
-    "updated_at": "2026-08-09T19:15:21Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -63,15 +117,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-09T19:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "OpenAI Responses provider extension for Spice Agent.",
     "id": "spice-framework/spice-agent-provider-openai",
     "language": "Go",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T19:13:13Z",
     "url": "https://github.com/spice-framework/spice-agent-provider-openai"
-  },
-  {
-    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
-    "id": "Gald3r-Labs/gald3r",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r",
-    "stars": 23,
-    "updated_at": "2026-08-09T19:01:30Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r"
   },
   {
     "description": "Spice Agent read, replace, write, and shell coding tools.",
@@ -153,15 +189,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-08-09T19:12:39Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
     "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
     "id": "go-steer/mast",
     "language": "Go",
@@ -178,15 +205,6 @@
     "stars": 6,
     "updated_at": "2026-08-09T18:41:06Z",
     "url": "https://github.com/Kortecx/kortecx"
-  },
-  {
-    "description": "Automate Be a Lucky Block with targeting assistance and instant inventory liquidation for streamlined PC gameplay.",
-    "id": "lottieepigastric889/lucky-block-script-hub",
-    "language": "HTML",
-    "name": "lottieepigastric889/lucky-block-script-hub",
-    "stars": 0,
-    "updated_at": "2026-08-09T18:38:31Z",
-    "url": "https://github.com/lottieepigastric889/lucky-block-script-hub"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -324,15 +342,6 @@
     "url": "https://github.com/floccose-burner9185/wow-harness"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-08-09T19:15:08Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
     "id": "plain-sleepydick853/feros",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-09T18:22:33Z",
     "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-08-09T18:22:07Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
   }
 ]
