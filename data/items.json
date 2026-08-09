@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-09T01:06:55Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 3,
+    "updated_at": "2026-08-09T01:03:55Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "AgentSeed \u2014 the governance layer for AI agents. Non-negotiable kernel + pluggable scenario packs, synced to 15 AI agent ",
+    "id": "weed33834/agentseed",
+    "language": "Python",
+    "name": "weed33834/agentseed",
+    "stars": 5,
+    "updated_at": "2026-08-09T01:02:27Z",
+    "url": "https://github.com/weed33834/agentseed"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-09T01:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source autonomous AI agent framework for persistent memory, self-directed actions, model continuity, and artificial",
     "id": "agent-island/project-autonomous-agent",
     "language": "JavaScript",
@@ -63,24 +99,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-09T00:45:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-09T00:59:24Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "GAIA - Go Autonomous Intelligence Agent. Programming-first autonomous agent with multi-agent specialized learning, SDD w",
     "id": "SalvucciFacundo/gaia",
     "language": "Go",
@@ -95,7 +113,7 @@
     "language": "JavaScript",
     "name": "rhein1/agoragentic-integrations",
     "stars": 27,
-    "updated_at": "2026-08-09T00:42:22Z",
+    "updated_at": "2026-08-09T01:04:34Z",
     "url": "https://github.com/rhein1/agoragentic-integrations"
   },
   {
@@ -103,7 +121,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33161,
+    "stars": 33164,
     "updated_at": "2026-08-09T00:40:24Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-09T00:59:15Z",
+    "updated_at": "2026-08-09T01:06:26Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-08-09T00:08:50Z",
+    "updated_at": "2026-08-09T01:05:00Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -275,7 +293,7 @@
     "language": "TypeScript",
     "name": "SammyTourani/evestack",
     "stars": 0,
-    "updated_at": "2026-08-09T00:55:34Z",
+    "updated_at": "2026-08-09T01:02:23Z",
     "url": "https://github.com/SammyTourani/evestack"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-08T22:12:24Z",
     "url": "https://github.com/EmreAka/Assistant"
-  },
-  {
-    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
-    "id": "sweatco/archie-hq",
-    "language": "TypeScript",
-    "name": "sweatco/archie-hq",
-    "stars": 16,
-    "updated_at": "2026-08-09T00:58:10Z",
-    "url": "https://github.com/sweatco/archie-hq"
-  },
-  {
-    "description": "A celld-native AI agent framework \u2014 one agent per cell, alarm-paced bounded steps, no platform or model lock-in.",
-    "id": "nibzard/protein",
-    "language": "\u2014",
-    "name": "nibzard/protein",
-    "stars": 0,
-    "updated_at": "2026-08-08T21:56:55Z",
-    "url": "https://github.com/nibzard/protein"
   }
 ]
