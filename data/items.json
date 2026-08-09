@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:27:45Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-09T08:27:45Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
+    "id": "SammyTourani/evestack",
+    "language": "TypeScript",
+    "name": "SammyTourani/evestack",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:27:12Z",
+    "url": "https://github.com/SammyTourani/evestack"
+  },
+  {
+    "description": "Open-source Java economic simulator. A free, modular sandbox simulating markets, supply and demand, and policy changes. ",
+    "id": "Farmer0390/Economic-Simulator",
+    "language": "Java",
+    "name": "Farmer0390/Economic-Simulator",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:26:12Z",
+    "url": "https://github.com/Farmer0390/Economic-Simulator"
+  },
+  {
+    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
+    "id": "Ash20pk/BerthOS",
+    "language": "TypeScript",
+    "name": "Ash20pk/BerthOS",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:24:22Z",
+    "url": "https://github.com/Ash20pk/BerthOS"
+  },
+  {
+    "description": "Multi-agent orchestration framework \u2014 design AI teams in YAML, route tasks to cheap or expensive models by role",
+    "id": "ErfanMomeniii/openswarm",
+    "language": "Python",
+    "name": "ErfanMomeniii/openswarm",
+    "stars": 2,
+    "updated_at": "2026-08-09T08:22:42Z",
+    "url": "https://github.com/ErfanMomeniii/openswarm"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:22:18Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-09T08:21:44Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -18,20 +90,11 @@
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-09T08:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33268,
+    "stars": 33273,
     "updated_at": "2026-08-09T08:15:11Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-09T08:18:34Z",
+    "updated_at": "2026-08-09T08:26:39Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -72,15 +135,6 @@
     "url": "https://github.com/nrl-ai/edgevox"
   },
   {
-    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
-    "id": "Ash20pk/BerthOS",
-    "language": "TypeScript",
-    "name": "Ash20pk/BerthOS",
-    "stars": 0,
-    "updated_at": "2026-08-09T08:20:25Z",
-    "url": "https://github.com/Ash20pk/BerthOS"
-  },
-  {
     "description": "Live sanitized mirror of the harness Shadow actually runs on \u2014 contracts, failure-mode taxonomy, skills. Start at impart",
     "id": "impartshadow/shadow",
     "language": "Python",
@@ -97,24 +151,6 @@
     "stars": 31,
     "updated_at": "2026-08-09T08:01:34Z",
     "url": "https://github.com/mrigankad/Novel-OS"
-  },
-  {
-    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
-    "id": "SammyTourani/evestack",
-    "language": "TypeScript",
-    "name": "SammyTourani/evestack",
-    "stars": 0,
-    "updated_at": "2026-08-09T08:12:26Z",
-    "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
-    "description": "Open-source Java economic simulator. A free, modular sandbox simulating markets, supply and demand, and policy changes. ",
-    "id": "Farmer0390/Economic-Simulator",
-    "language": "Java",
-    "name": "Farmer0390/Economic-Simulator",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:57:43Z",
-    "url": "https://github.com/Farmer0390/Economic-Simulator"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -169,33 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T07:47:49Z",
     "url": "https://github.com/maxmoran23/Claude-Agent-Fleet"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:42:54Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-09T07:42:50Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:39:27Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-09T05:54:35Z",
     "url": "https://github.com/CocoRoF/geny-executor"
-  },
-  {
-    "description": "A lightweight repository harness for safe agentic collaboration, deliberate codebase learning, and conversational learni",
-    "id": "legrab/codebase-learning-flow",
-    "language": "Shell",
-    "name": "legrab/codebase-learning-flow",
-    "stars": 0,
-    "updated_at": "2026-08-09T05:52:28Z",
-    "url": "https://github.com/legrab/codebase-learning-flow"
   }
 ]
