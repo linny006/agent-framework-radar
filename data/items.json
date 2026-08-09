@@ -1,11 +1,20 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33155,
+    "updated_at": "2026-08-09T00:28:38Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "A personal AI assistant in one Go binary: WASM-sandboxed extensions, per-action permission gating, and mandatory out-of-",
     "id": "efuturetoday/nocturn",
     "language": "Go",
     "name": "efuturetoday/nocturn",
     "stars": 1,
-    "updated_at": "2026-08-09T00:14:27Z",
+    "updated_at": "2026-08-09T00:26:34Z",
     "url": "https://github.com/efuturetoday/nocturn"
   },
   {
@@ -14,17 +23,44 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-09T00:13:49Z",
+    "updated_at": "2026-08-09T00:29:11Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 253,
+    "updated_at": "2026-08-09T00:24:24Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "GAIA - Go Autonomous Intelligence Agent. Programming-first autonomous agent with multi-agent specialized learning, SDD w",
+    "id": "SalvucciFacundo/gaia",
     "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33154,
-    "updated_at": "2026-08-09T00:12:29Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "name": "SalvucciFacundo/gaia",
+    "stars": 1,
+    "updated_at": "2026-08-09T00:24:39Z",
+    "url": "https://github.com/SalvucciFacundo/gaia"
+  },
+  {
+    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
+    "id": "jiayan-xu/agent-core",
+    "language": "Rust",
+    "name": "jiayan-xu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-08-09T00:22:00Z",
+    "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-09T00:26:03Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
@@ -32,7 +68,7 @@
     "language": "JavaScript",
     "name": "rhein1/agoragentic-integrations",
     "stars": 27,
-    "updated_at": "2026-08-09T00:13:52Z",
+    "updated_at": "2026-08-09T00:19:04Z",
     "url": "https://github.com/rhein1/agoragentic-integrations"
   },
   {
@@ -41,8 +77,26 @@
     "language": "Python",
     "name": "zlatko-lakisic/agentic-orchestration",
     "stars": 2,
-    "updated_at": "2026-08-09T00:09:20Z",
+    "updated_at": "2026-08-09T00:16:57Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 290,
+    "updated_at": "2026-08-09T00:16:29Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-09T00:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -81,15 +135,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-09T00:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Persistent self-improving AI teammates with memory, skills, and schedules.",
     "id": "rundesk-ai/rundesk-cli",
     "language": "Python",
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T23:58:26Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-09T00:11:44Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -117,15 +153,6 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 290,
-    "updated_at": "2026-08-08T23:56:46Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -133,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T23:52:02Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "GAIA - Go Autonomous Intelligence Agent. Programming-first autonomous agent with multi-agent specialized learning, SDD w",
-    "id": "SalvucciFacundo/gaia",
-    "language": "Go",
-    "name": "SalvucciFacundo/gaia",
-    "stars": 1,
-    "updated_at": "2026-08-08T23:51:13Z",
-    "url": "https://github.com/SalvucciFacundo/gaia"
   },
   {
     "description": "Lightweight agent framework for research PowerPoint generation, editable PPTX delivery, and rendered QA",
@@ -430,23 +448,5 @@
     "stars": 173,
     "updated_at": "2026-08-08T21:41:58Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 10,
-    "updated_at": "2026-08-08T21:40:55Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3884,
-    "updated_at": "2026-08-08T21:29:37Z",
-    "url": "https://github.com/evalstate/fast-agent"
   }
 ]
