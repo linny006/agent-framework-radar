@@ -1,5 +1,95 @@
 [
   {
+    "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
+    "id": "Carrara-Labs/delta-harness",
+    "language": "TypeScript",
+    "name": "Carrara-Labs/delta-harness",
+    "stars": 0,
+    "updated_at": "2026-08-09T09:28:20Z",
+    "url": "https://github.com/Carrara-Labs/delta-harness"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-09T09:29:14Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-09T09:26:55Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-09T09:26:49Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-09T09:29:21Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 342,
+    "updated_at": "2026-08-09T09:19:00Z",
+    "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "Task-agnostic Planner\u2013Specialist\u2013Evaluator (PSE) agent framework powered by Microsoft AutoGen. Register tasks under task",
+    "id": "erishen/autogen-pse",
+    "language": "Python",
+    "name": "erishen/autogen-pse",
+    "stars": 0,
+    "updated_at": "2026-08-09T09:18:02Z",
+    "url": "https://github.com/erishen/autogen-pse"
+  },
+  {
+    "description": "A lightweight repository harness for safe agentic collaboration, deliberate codebase learning, and conversational learni",
+    "id": "legrab/codebase-learning-flow",
+    "language": "Shell",
+    "name": "legrab/codebase-learning-flow",
+    "stars": 0,
+    "updated_at": "2026-08-09T09:17:24Z",
+    "url": "https://github.com/legrab/codebase-learning-flow"
+  },
+  {
+    "description": "Modular engineering methodology framework for AI agents \u2014 reverse engineering & software development (core + re-binary /",
+    "id": "unknowbug/RE-Framework",
+    "language": "Python",
+    "name": "unknowbug/RE-Framework",
+    "stars": 2,
+    "updated_at": "2026-08-09T09:17:06Z",
+    "url": "https://github.com/unknowbug/RE-Framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-09T09:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
     "id": "Arasz/ai-badger",
     "language": "Python",
@@ -14,8 +104,17 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-09T09:13:28Z",
+    "updated_at": "2026-08-09T09:29:06Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33287,
+    "updated_at": "2026-08-09T09:12:15Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
@@ -23,7 +122,7 @@
     "language": "TypeScript",
     "name": "polymind-inc/agent-framework-js",
     "stars": 4,
-    "updated_at": "2026-08-09T09:12:05Z",
+    "updated_at": "2026-08-09T09:30:19Z",
     "url": "https://github.com/polymind-inc/agent-framework-js"
   },
   {
@@ -34,33 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T09:12:18Z",
     "url": "https://github.com/PiyotaHu/muxiva"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33284,
-    "updated_at": "2026-08-09T09:12:15Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-09T09:13:48Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-09T09:09:38Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -104,7 +176,7 @@
     "language": "Go",
     "name": "shaharia-lab/agento",
     "stars": 24,
-    "updated_at": "2026-08-09T09:05:35Z",
+    "updated_at": "2026-08-09T09:29:00Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -142,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T09:05:16Z",
     "url": "https://github.com/agents-universe/agents-universe"
-  },
-  {
-    "description": "Task-agnostic Planner\u2013Specialist\u2013Evaluator (PSE) agent framework powered by Microsoft AutoGen. Register tasks under task",
-    "id": "erishen/autogen-pse",
-    "language": "Python",
-    "name": "erishen/autogen-pse",
-    "stars": 0,
-    "updated_at": "2026-08-09T09:05:15Z",
-    "url": "https://github.com/erishen/autogen-pse"
   },
   {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
@@ -194,7 +257,7 @@
     "language": "TypeScript",
     "name": "Ash20pk/BerthOS",
     "stars": 0,
-    "updated_at": "2026-08-09T08:52:16Z",
+    "updated_at": "2026-08-09T09:24:09Z",
     "url": "https://github.com/Ash20pk/BerthOS"
   },
   {
@@ -288,24 +351,6 @@
     "url": "https://github.com/Farmer0390/Economic-Simulator"
   },
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-09T08:27:45Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-09T08:27:45Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
     "id": "SammyTourani/evestack",
     "language": "TypeScript",
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "nrl-ai/edgevox",
     "stars": 12,
-    "updated_at": "2026-08-09T08:10:47Z",
+    "updated_at": "2026-08-09T09:28:30Z",
     "url": "https://github.com/nrl-ai/edgevox"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 419,
     "updated_at": "2026-08-09T07:27:03Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Modular engineering methodology framework for AI agents \u2014 reverse engineering & software development (core + re-binary /",
-    "id": "unknowbug/RE-Framework",
-    "language": "Python",
-    "name": "unknowbug/RE-Framework",
-    "stars": 2,
-    "updated_at": "2026-08-09T07:20:44Z",
-    "url": "https://github.com/unknowbug/RE-Framework"
-  },
-  {
-    "description": "Lightweight agent framework for research PowerPoint generation, editable PPTX delivery, and rendered QA",
-    "id": "jiadizhunine/deepPPT",
-    "language": "Python",
-    "name": "jiadizhunine/deepPPT",
-    "stars": 23,
-    "updated_at": "2026-08-09T07:19:08Z",
-    "url": "https://github.com/jiadizhunine/deepPPT"
-  },
-  {
-    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
-    "id": "rhein1/agoragentic-integrations",
-    "language": "JavaScript",
-    "name": "rhein1/agoragentic-integrations",
-    "stars": 28,
-    "updated_at": "2026-08-09T07:29:35Z",
-    "url": "https://github.com/rhein1/agoragentic-integrations"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-08-09T07:21:49Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 29,
-    "updated_at": "2026-08-09T07:07:02Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
