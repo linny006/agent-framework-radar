@@ -1,5 +1,158 @@
 [
   {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 399,
+    "updated_at": "2026-08-09T08:42:13Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "A task-agnostic LangGraph framework for Planner\u2013Specialist\u2013Evaluator agents: model any generate\u2192verify\u2192fix workflow as a",
+    "id": "erishen/langgraph-pse",
+    "language": "Python",
+    "name": "erishen/langgraph-pse",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:41:16Z",
+    "url": "https://github.com/erishen/langgraph-pse"
+  },
+  {
+    "description": "Task-agnostic Planner\u2013Specialist\u2013Evaluator (PSE) agent framework powered by CrewAI. Register tasks under tasks/ to run v",
+    "id": "erishen/crewai-pse",
+    "language": "Python",
+    "name": "erishen/crewai-pse",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:41:12Z",
+    "url": "https://github.com/erishen/crewai-pse"
+  },
+  {
+    "description": "LlamaIndex implementation of the PSE (Planner\u2013Specialist\u2013Evaluator) agent pattern, orchestrated as a LlamaIndex Workflow",
+    "id": "erishen/llamaindex-pse",
+    "language": "Python",
+    "name": "erishen/llamaindex-pse",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:41:08Z",
+    "url": "https://github.com/erishen/llamaindex-pse"
+  },
+  {
+    "description": "Task-agnostic Planner\u2013Specialist\u2013Evaluator (PSE) agent framework powered by Microsoft AutoGen. Register tasks under task",
+    "id": "erishen/autogen-pse",
+    "language": "Python",
+    "name": "erishen/autogen-pse",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:41:05Z",
+    "url": "https://github.com/erishen/autogen-pse"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:40:53Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 154,
+    "updated_at": "2026-08-09T08:39:51Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-09T08:41:31Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-09T08:43:37Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 155,
+    "updated_at": "2026-08-09T08:37:08Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33278,
+    "updated_at": "2026-08-09T08:35:12Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:34:35Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:34:31Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
+    "id": "agents-universe/agents-universe",
+    "language": "Python",
+    "name": "agents-universe/agents-universe",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:33:22Z",
+    "url": "https://github.com/agents-universe/agents-universe"
+  },
+  {
+    "description": "Open-source Java economic simulator. A free, modular sandbox simulating markets, supply and demand, and policy changes. ",
+    "id": "Farmer0390/Economic-Simulator",
+    "language": "Java",
+    "name": "Farmer0390/Economic-Simulator",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:33:06Z",
+    "url": "https://github.com/Farmer0390/Economic-Simulator"
+  },
+  {
+    "description": "Agent Skills \u2014 skill collection for AI agents (Sisyphus, opencode): github-repo-hygiene, test-graphics, reddit-karma, pr",
+    "id": "bestdeejay-design/agent-skills",
+    "language": "Python",
+    "name": "bestdeejay-design/agent-skills",
+    "stars": 4,
+    "updated_at": "2026-08-09T08:32:50Z",
+    "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-09T08:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -27,21 +180,12 @@
     "url": "https://github.com/SammyTourani/evestack"
   },
   {
-    "description": "Open-source Java economic simulator. A free, modular sandbox simulating markets, supply and demand, and policy changes. ",
-    "id": "Farmer0390/Economic-Simulator",
-    "language": "Java",
-    "name": "Farmer0390/Economic-Simulator",
-    "stars": 1,
-    "updated_at": "2026-08-09T08:26:12Z",
-    "url": "https://github.com/Farmer0390/Economic-Simulator"
-  },
-  {
     "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
     "id": "Ash20pk/BerthOS",
     "language": "TypeScript",
     "name": "Ash20pk/BerthOS",
     "stars": 0,
-    "updated_at": "2026-08-09T08:24:22Z",
+    "updated_at": "2026-08-09T08:43:51Z",
     "url": "https://github.com/Ash20pk/BerthOS"
   },
   {
@@ -63,15 +207,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-09T08:21:44Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -90,15 +225,6 @@
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33273,
-    "updated_at": "2026-08-09T08:15:11Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -106,15 +232,6 @@
     "stars": 244,
     "updated_at": "2026-08-09T08:14:26Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-09T08:26:39Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "AGENT_FRAMEWORK11 \u2014 a disciplined 11-step task-execution standard for AI agents (purpose-first, red lines, evidence, ref",
@@ -151,51 +268,6 @@
     "stars": 31,
     "updated_at": "2026-08-09T08:01:34Z",
     "url": "https://github.com/mrigankad/Novel-OS"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:53:10Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 154,
-    "updated_at": "2026-08-09T07:52:26Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 155,
-    "updated_at": "2026-08-09T07:50:50Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:49:03Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:48:58Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Production-grade framework for building, scheduling, and operating autonomous agent fleets on Claude Code. Agent kernel ",
@@ -279,15 +351,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
-    "id": "agents-universe/agents-universe",
-    "language": "Python",
-    "name": "agents-universe/agents-universe",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:03:26Z",
-    "url": "https://github.com/agents-universe/agents-universe"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -313,15 +376,6 @@
     "stars": 6,
     "updated_at": "2026-08-09T06:52:08Z",
     "url": "https://github.com/amilworks/ultra"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 399,
-    "updated_at": "2026-08-09T07:56:34Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
     "description": "Python-native runtime and workspace for observable, governed AI applications.",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-09T06:18:28Z",
     "url": "https://github.com/AjnasNB/maqam"
-  },
-  {
-    "description": "The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and",
-    "id": "sheawinkler/ContextLattice",
-    "language": "Go",
-    "name": "sheawinkler/ContextLattice",
-    "stars": 145,
-    "updated_at": "2026-08-09T06:13:50Z",
-    "url": "https://github.com/sheawinkler/ContextLattice"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1692,
-    "updated_at": "2026-08-09T06:05:57Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-08-09T06:04:19Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "A curated list of AI agent frameworks, tools, platforms, research papers, and resources",
-    "id": "aloth/awesome-ai-agents",
-    "language": "\u2014",
-    "name": "aloth/awesome-ai-agents",
-    "stars": 20,
-    "updated_at": "2026-08-09T06:01:56Z",
-    "url": "https://github.com/aloth/awesome-ai-agents"
-  },
-  {
-    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
-    "id": "substructureai/substructure",
-    "language": "Rust",
-    "name": "substructureai/substructure",
-    "stars": 5,
-    "updated_at": "2026-08-09T07:13:50Z",
-    "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
-    "id": "CocoRoF/geny-executor",
-    "language": "Python",
-    "name": "CocoRoF/geny-executor",
-    "stars": 2,
-    "updated_at": "2026-08-09T05:54:35Z",
-    "url": "https://github.com/CocoRoF/geny-executor"
   }
 ]
