@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
+    "id": "agents-universe/agents-universe",
+    "language": "Python",
+    "name": "agents-universe/agents-universe",
+    "stars": 1,
+    "updated_at": "2026-08-09T01:30:12Z",
+    "url": "https://github.com/agents-universe/agents-universe"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-09T01:30:05Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
+    "id": "jiayan-xu/agent-core",
+    "language": "Rust",
+    "name": "jiayan-xu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-08-09T01:29:10Z",
+    "url": "https://github.com/jiayan-xu/agent-core"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-09T01:30:21Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33165,
+    "updated_at": "2026-08-09T01:24:26Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 6,
+    "updated_at": "2026-08-09T01:23:15Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 155,
+    "updated_at": "2026-08-09T01:21:06Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Task-agnostic Planner\u2013Specialist\u2013Evaluator (PSE) agent framework powered by CrewAI. Register tasks under tasks/ to run v",
+    "id": "erishen/crewai-pse",
+    "language": "Python",
+    "name": "erishen/crewai-pse",
+    "stars": 0,
+    "updated_at": "2026-08-09T01:18:41Z",
+    "url": "https://github.com/erishen/crewai-pse"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-09T01:16:55Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-09T01:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -9,21 +99,12 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-09T01:14:51Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-09T01:14:11Z",
+    "updated_at": "2026-08-09T01:17:57Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-09T01:08:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
     "id": "sauravbhattacharya001/agentlens",
     "language": "JavaScript",
@@ -79,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-08-09T01:02:27Z",
     "url": "https://github.com/weed33834/agentseed"
-  },
-  {
-    "description": "Open-source autonomous AI agent framework for persistent memory, self-directed actions, model continuity, and artificial",
-    "id": "agent-island/project-autonomous-agent",
-    "language": "JavaScript",
-    "name": "agent-island/project-autonomous-agent",
-    "stars": 0,
-    "updated_at": "2026-08-09T00:57:01Z",
-    "url": "https://github.com/agent-island/project-autonomous-agent"
   },
   {
     "description": "Build distributed, production-grade, long-running agents.",
@@ -162,15 +225,6 @@
     "url": "https://github.com/rhein1/agoragentic-integrations"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33165,
-    "updated_at": "2026-08-09T01:11:55Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
     "id": "Dikhun/Arctus.ai",
     "language": "Python",
@@ -198,15 +252,6 @@
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
-    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
-    "id": "jiayan-xu/agent-core",
-    "language": "Rust",
-    "name": "jiayan-xu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-08-09T00:22:00Z",
-    "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
     "id": "zlatko-lakisic/agentic-orchestration",
     "language": "Python",
@@ -220,27 +265,9 @@
     "id": "ucsandman/DashClaw",
     "language": "TypeScript",
     "name": "ucsandman/DashClaw",
-    "stars": 290,
+    "stars": 291,
     "updated_at": "2026-08-09T00:16:29Z",
     "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-09T01:05:00Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
-    "id": "agents-universe/agents-universe",
-    "language": "Python",
-    "name": "agents-universe/agents-universe",
-    "stars": 1,
-    "updated_at": "2026-08-09T00:08:22Z",
-    "url": "https://github.com/agents-universe/agents-universe"
   },
   {
     "description": "Run a company of AI agents out of one git repository \u2014 any craft, not just code. The team, the process, the history, the",
@@ -288,15 +315,6 @@
     "url": "https://github.com/jiadizhunine/deepPPT"
   },
   {
-    "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 6,
-    "updated_at": "2026-08-08T23:36:50Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
@@ -320,7 +338,7 @@
     "language": "TypeScript",
     "name": "SammyTourani/evestack",
     "stars": 0,
-    "updated_at": "2026-08-09T01:12:19Z",
+    "updated_at": "2026-08-09T01:28:33Z",
     "url": "https://github.com/SammyTourani/evestack"
   },
   {
@@ -351,15 +369,6 @@
     "url": "https://github.com/brunogcar/agent"
   },
   {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 155,
-    "updated_at": "2026-08-08T23:23:53Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -376,15 +385,6 @@
     "stars": 979,
     "updated_at": "2026-08-09T00:05:15Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-09T01:14:38Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
