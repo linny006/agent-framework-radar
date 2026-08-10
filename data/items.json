@@ -1,5 +1,50 @@
 [
   {
+    "description": "SDK and runtime for building, bundling, and shipping agent-powered desktop apps on OpenCode, abstracting agents, tools, ",
+    "id": "Dekode1859/spiritus",
+    "language": "Python",
+    "name": "Dekode1859/spiritus",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:02:59Z",
+    "url": "https://github.com/Dekode1859/spiritus"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-10T20:04:56Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 48,
+    "updated_at": "2026-08-10T20:01:41Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-10T20:00:34Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 1,
+    "updated_at": "2026-08-10T20:00:09Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "A governed multi-agent framework built on git",
     "id": "cordfuse/politik",
     "language": "TypeScript",
@@ -14,17 +59,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-10T19:59:33Z",
+    "updated_at": "2026-08-10T20:05:16Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 48,
-    "updated_at": "2026-08-10T19:58:13Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "Spice-native deterministic agent SDK, kernel, protocols, daemon, and runtime plugin host.",
@@ -70,15 +106,6 @@
     "stars": 1362,
     "updated_at": "2026-08-10T19:53:34Z",
     "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-10T19:57:02Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -135,15 +162,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-10T19:45:37Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8490,
-    "updated_at": "2026-08-10T19:43:11Z",
+    "updated_at": "2026-08-10T20:03:21Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -248,7 +266,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-10T19:48:15Z",
+    "updated_at": "2026-08-10T20:04:24Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-10T18:18:40Z",
+    "updated_at": "2026-08-10T20:05:14Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T18:03:13Z",
     "url": "https://github.com/TRUGS-LLC/TRUGS-AGENT"
-  },
-  {
-    "description": "Python-native runtime and workspace for observable, governed AI applications.",
-    "id": "AjayAJ2000/AgentMuru",
-    "language": "Python",
-    "name": "AjayAJ2000/AgentMuru",
-    "stars": 0,
-    "updated_at": "2026-08-10T18:03:09Z",
-    "url": "https://github.com/AjayAJ2000/AgentMuru"
-  },
-  {
-    "description": "An interactive regulatory-intelligence agent for life sciences",
-    "id": "divakarkumarp/harness-regulatory",
-    "language": "Python",
-    "name": "divakarkumarp/harness-regulatory",
-    "stars": 0,
-    "updated_at": "2026-08-10T17:59:32Z",
-    "url": "https://github.com/divakarkumarp/harness-regulatory"
   }
 ]
