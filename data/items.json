@@ -1,21 +1,84 @@
 [
   {
-    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
-    "id": "parkerluxu/Awesome-agent-cases",
-    "language": "JavaScript",
-    "name": "parkerluxu/Awesome-agent-cases",
-    "stars": 2,
-    "updated_at": "2026-08-10T14:44:32Z",
-    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
+    "id": "streamcoreai/streamcore-server",
+    "language": "Go",
+    "name": "streamcoreai/streamcore-server",
+    "stars": 139,
+    "updated_at": "2026-08-10T15:00:00Z",
+    "url": "https://github.com/streamcoreai/streamcore-server"
   },
   {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
     "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1158,
-    "updated_at": "2026-08-10T14:43:09Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+    "name": "HKUDS/nanobot",
+    "stars": 46826,
+    "updated_at": "2026-08-10T14:58:47Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
+    "id": "mathissdupont/ingot",
+    "language": "Rust",
+    "name": "mathissdupont/ingot",
+    "stars": 1,
+    "updated_at": "2026-08-10T14:57:16Z",
+    "url": "https://github.com/mathissdupont/ingot"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-10T14:57:47Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Record, replay, and improve AI agents in production, built on ZenML",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 230,
+    "updated_at": "2026-08-10T14:59:33Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
+    "id": "Monadix-AI/monad",
+    "language": "TypeScript",
+    "name": "Monadix-AI/monad",
+    "stars": 1,
+    "updated_at": "2026-08-10T14:51:56Z",
+    "url": "https://github.com/Monadix-AI/monad"
+  },
+  {
+    "description": "Open Autonomy library skills to interact with Olas Marketplace",
+    "id": "valory-xyz/mech-interact",
+    "language": "Python",
+    "name": "valory-xyz/mech-interact",
+    "stars": 0,
+    "updated_at": "2026-08-10T14:51:29Z",
+    "url": "https://github.com/valory-xyz/mech-interact"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33659,
+    "updated_at": "2026-08-10T14:45:51Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-10T14:45:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
@@ -27,13 +90,40 @@
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8475,
+    "updated_at": "2026-08-10T14:44:59Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "JavaScript",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 2,
+    "updated_at": "2026-08-10T14:44:32Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
     "stars": 3,
-    "updated_at": "2026-08-10T14:41:51Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "updated_at": "2026-08-10T14:43:34Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1157,
+    "updated_at": "2026-08-10T14:43:09Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -90,24 +180,6 @@
     "url": "https://github.com/Marssssss/OneAI"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33658,
-    "updated_at": "2026-08-10T14:38:18Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-10T14:43:08Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
     "id": "Aureliedumbfounding630/agent-governance-toolkit",
     "language": "\u2014",
@@ -135,15 +207,6 @@
     "url": "https://github.com/Dvine6263/wigolo"
   },
   {
-    "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
-    "id": "Monadix-AI/monad",
-    "language": "TypeScript",
-    "name": "Monadix-AI/monad",
-    "stars": 1,
-    "updated_at": "2026-08-10T14:44:50Z",
-    "url": "https://github.com/Monadix-AI/monad"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -169,6 +232,15 @@
     "stars": 0,
     "updated_at": "2026-08-10T14:29:58Z",
     "url": "https://github.com/Smita6756/Hbrain"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26166,
+    "updated_at": "2026-08-10T14:28:42Z",
+    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -266,7 +338,7 @@
     "language": "Python",
     "name": "Thepizzapie/BuildersGate",
     "stars": 18,
-    "updated_at": "2026-08-10T14:25:20Z",
+    "updated_at": "2026-08-10T14:59:41Z",
     "url": "https://github.com/Thepizzapie/BuildersGate"
   },
   {
@@ -342,15 +414,6 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46828,
-    "updated_at": "2026-08-10T14:43:37Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "Build and manage AI agents within git repositories using a Rust-based, dependency-free framework that version-controls a",
     "id": "yeab405/rusty-gitclaw",
     "language": "Rust",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-10T14:17:57Z",
     "url": "https://github.com/InitialDBklyn/consolidation-memory"
-  },
-  {
-    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
-    "id": "streamcoreai/streamcore-server",
-    "language": "Go",
-    "name": "streamcoreai/streamcore-server",
-    "stars": 139,
-    "updated_at": "2026-08-10T14:17:53Z",
-    "url": "https://github.com/streamcoreai/streamcore-server"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 48,
-    "updated_at": "2026-08-10T14:40:12Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-10T14:16:51Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-10T14:16:47Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
-    "id": "tareksyria/SREAgents",
-    "language": "JavaScript",
-    "name": "tareksyria/SREAgents",
-    "stars": 1,
-    "updated_at": "2026-08-10T14:15:22Z",
-    "url": "https://github.com/tareksyria/SREAgents"
-  },
-  {
-    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
-    "id": "RONIN511/alphora",
-    "language": "Python",
-    "name": "RONIN511/alphora",
-    "stars": 2,
-    "updated_at": "2026-08-10T14:14:21Z",
-    "url": "https://github.com/RONIN511/alphora"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-10T14:10:47Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
