@@ -1,5 +1,149 @@
 [
   {
+    "description": "Personal Ai Agent",
+    "id": "br3eze-code/br3eze-code",
+    "language": "JavaScript",
+    "name": "br3eze-code/br3eze-code",
+    "stars": 2,
+    "updated_at": "2026-08-10T20:43:58Z",
+    "url": "https://github.com/br3eze-code/br3eze-code"
+  },
+  {
+    "description": "A governed multi-agent framework built on git",
+    "id": "cordfuse/politik",
+    "language": "TypeScript",
+    "name": "cordfuse/politik",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:41:52Z",
+    "url": "https://github.com/cordfuse/politik"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-10T20:40:47Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-08-10T20:41:51Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 154,
+    "updated_at": "2026-08-10T20:39:53Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-10T20:40:42Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
+    "id": "Monadix-AI/monad",
+    "language": "TypeScript",
+    "name": "Monadix-AI/monad",
+    "stars": 1,
+    "updated_at": "2026-08-10T20:38:33Z",
+    "url": "https://github.com/Monadix-AI/monad"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 155,
+    "updated_at": "2026-08-10T20:37:06Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
+    "id": "achappey/aihappey-chat",
+    "language": "TypeScript",
+    "name": "achappey/aihappey-chat",
+    "stars": 3,
+    "updated_at": "2026-08-10T20:37:06Z",
+    "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:35:36Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-10T20:35:08Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:35:06Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-10T20:41:58Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-10T20:32:36Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-10T20:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-10T20:29:14Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -14,26 +158,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 1,
-    "updated_at": "2026-08-10T20:26:25Z",
+    "updated_at": "2026-08-10T20:45:12Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Personal Ai Agent",
-    "id": "br3eze-code/br3eze-code",
-    "language": "JavaScript",
-    "name": "br3eze-code/br3eze-code",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:29:49Z",
-    "url": "https://github.com/br3eze-code/br3eze-code"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-10T20:23:41Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
@@ -45,21 +171,12 @@
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   },
   {
-    "description": "A governed multi-agent framework built on git",
-    "id": "cordfuse/politik",
-    "language": "TypeScript",
-    "name": "cordfuse/politik",
-    "stars": 0,
-    "updated_at": "2026-08-10T20:23:07Z",
-    "url": "https://github.com/cordfuse/politik"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8490,
-    "updated_at": "2026-08-10T20:22:37Z",
+    "updated_at": "2026-08-10T20:43:29Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -81,24 +198,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-10T20:25:45Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-10T20:29:37Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
     "id": "amilworks/ultra",
     "language": "Python",
@@ -117,15 +216,6 @@
     "url": "https://github.com/sytone/botnexus"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-10T20:15:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "nori - evidence-driven AI answer engine with a bring-your-own-key chat UI. Runs strategies in parallel, streams real cha",
     "id": "mattybellx/nori",
     "language": "Python",
@@ -133,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T20:13:53Z",
     "url": "https://github.com/mattybellx/nori"
-  },
-  {
-    "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
-    "id": "Monadix-AI/monad",
-    "language": "TypeScript",
-    "name": "Monadix-AI/monad",
-    "stars": 1,
-    "updated_at": "2026-08-10T20:10:08Z",
-    "url": "https://github.com/Monadix-AI/monad"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -185,7 +266,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 48,
-    "updated_at": "2026-08-10T20:01:41Z",
+    "updated_at": "2026-08-10T20:38:59Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -198,24 +279,6 @@
     "url": "https://github.com/spice-framework/spice-agent"
   },
   {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-10T19:54:26Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 154,
-    "updated_at": "2026-08-10T19:54:05Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
     "description": "The agent framework where every run is durable, replayable, and resumable by default.",
     "id": "ThousandBirdsInc/chidori",
     "language": "Rust",
@@ -223,33 +286,6 @@
     "stars": 1362,
     "updated_at": "2026-08-10T19:53:34Z",
     "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 155,
-    "updated_at": "2026-08-10T19:52:35Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-10T19:51:05Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-10T19:51:03Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -270,15 +306,6 @@
     "url": "https://github.com/agentjido/jido"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:29:14Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "A glass-box, minimal library for building LLM agents \u2014 modern techniques as opt-in primitives, no hidden control flow. P",
     "id": "DrobyshevDev/glia",
     "language": "Python",
@@ -295,15 +322,6 @@
     "stars": 12,
     "updated_at": "2026-08-10T19:42:12Z",
     "url": "https://github.com/we-are-singular/aml"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-10T20:29:04Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -391,7 +409,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33690,
+    "stars": 33693,
     "updated_at": "2026-08-10T19:00:26Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -400,7 +418,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 1065,
+    "stars": 1071,
     "updated_at": "2026-08-10T18:55:51Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -430,23 +448,5 @@
     "stars": 28,
     "updated_at": "2026-08-10T18:41:50Z",
     "url": "https://github.com/rhein1/agoragentic-integrations"
-  },
-  {
-    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
-    "id": "achappey/aihappey-agents",
-    "language": "C#",
-    "name": "achappey/aihappey-agents",
-    "stars": 0,
-    "updated_at": "2026-08-10T18:29:48Z",
-    "url": "https://github.com/achappey/aihappey-agents"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 10,
-    "updated_at": "2026-08-10T18:25:15Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   }
 ]
