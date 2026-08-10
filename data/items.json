@@ -1,5 +1,77 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8483,
+    "updated_at": "2026-08-10T17:26:30Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-10T17:25:34Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 48,
+    "updated_at": "2026-08-10T17:25:29Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6754,
+    "updated_at": "2026-08-10T17:22:03Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1701,
+    "updated_at": "2026-08-10T17:21:53Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-10T17:23:54Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-08-10T17:17:38Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-10T17:15:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T17:14:58Z",
     "url": "https://github.com/Monadix-AI/monad"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-10T17:12:56Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -63,15 +126,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-10T17:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
     "id": "ucsandman/DashClaw",
     "language": "TypeScript",
@@ -88,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T16:56:56Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8480,
-    "updated_at": "2026-08-10T17:15:05Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "agents-universe/agents-universe",
     "stars": 26,
-    "updated_at": "2026-08-10T16:52:28Z",
+    "updated_at": "2026-08-10T17:25:38Z",
     "url": "https://github.com/agents-universe/agents-universe"
   },
   {
@@ -216,15 +261,6 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 48,
-    "updated_at": "2026-08-10T17:10:54Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
     "id": "ethosagent/ethos",
     "language": "TypeScript",
@@ -257,7 +293,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 19,
-    "updated_at": "2026-08-10T16:28:07Z",
+    "updated_at": "2026-08-10T17:19:14Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 289,
     "updated_at": "2026-08-10T16:25:10Z",
     "url": "https://github.com/Deuz-AI/Deuz-SDK"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-10T17:06:12Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
@@ -421,32 +448,5 @@
     "stars": 46827,
     "updated_at": "2026-08-10T16:25:39Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 51,
-    "updated_at": "2026-08-10T15:44:30Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26168,
-    "updated_at": "2026-08-10T15:28:51Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "A collection of Python SDKs that enable developers to build and deploy agents to the UiPath Cloud Platform using differe",
-    "id": "UiPath/uipath-integrations-python",
-    "language": "Python",
-    "name": "UiPath/uipath-integrations-python",
-    "stars": 11,
-    "updated_at": "2026-08-10T15:37:54Z",
-    "url": "https://github.com/UiPath/uipath-integrations-python"
   }
 ]
