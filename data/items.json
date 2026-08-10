@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-10T16:29:34Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -117,6 +126,15 @@
     "url": "https://github.com/ag2ai/ag2"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8478,
+    "updated_at": "2026-08-10T16:16:37Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Reference generated coding-agent distribution built with Spice Agent.",
     "id": "spice-framework/spice-agent-coding",
     "language": "Go",
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T16:15:46Z",
     "url": "https://github.com/spice-framework/spice-agent-coding"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-10T16:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
@@ -268,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T15:54:08Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8477,
-    "updated_at": "2026-08-10T16:16:37Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
