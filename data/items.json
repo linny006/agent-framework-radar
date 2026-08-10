@@ -1,12 +1,129 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33630,
+    "updated_at": "2026-08-10T11:58:14Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Spice-native deterministic agent SDK, kernel, protocols, daemon, and runtime plugin host.",
+    "id": "spice-framework/spice-agent",
+    "language": "Go",
+    "name": "spice-framework/spice-agent",
+    "stars": 0,
+    "updated_at": "2026-08-10T11:54:49Z",
+    "url": "https://github.com/spice-framework/spice-agent"
+  },
+  {
+    "description": "Modular engineering methodology framework for AI agents \u2014 reverse engineering & software development (core + re-binary /",
+    "id": "unknowbug/RE-Framework",
+    "language": "Python",
+    "name": "unknowbug/RE-Framework",
+    "stars": 3,
+    "updated_at": "2026-08-10T11:54:08Z",
+    "url": "https://github.com/unknowbug/RE-Framework"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 116,
+    "updated_at": "2026-08-10T11:59:23Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "A personal substrate for agent packages that ship their own screens. One manifest declares the agent, its verbs, and its",
+    "id": "relayax/relayagent",
+    "language": "TypeScript",
+    "name": "relayax/relayagent",
+    "stars": 11,
+    "updated_at": "2026-08-10T11:50:18Z",
+    "url": "https://github.com/relayax/relayagent"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-10T11:50:16Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 246,
+    "updated_at": "2026-08-10T11:50:06Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-10T11:42:55Z",
+    "updated_at": "2026-08-10T11:50:05Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-08-10T11:49:34Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 36,
+    "updated_at": "2026-08-10T11:48:47Z",
+    "url": "https://github.com/Marssssss/OneAI"
+  },
+  {
+    "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
+    "id": "shipiit/shipit_agent",
+    "language": "Python",
+    "name": "shipiit/shipit_agent",
+    "stars": 2,
+    "updated_at": "2026-08-10T11:47:23Z",
+    "url": "https://github.com/shipiit/shipit_agent"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8467,
+    "updated_at": "2026-08-10T11:46:16Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6754,
+    "updated_at": "2026-08-10T11:45:56Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-10T11:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\u7ed3\u6784\u6e05\u6670\u4e14\u5229\u4e8e\u6539\u7f16\u7684Agent\u6846\u67b6\uff0c\u652f\u6301\u81ea\u5efa\u77e5\u8bc6\u5e93\u5e76\u7eb3\u5165\u6a21\u578b\u601d\u8003\u3002\u5df2\u5b8c\u6210Docker\u90e8\u7f72\u4e14\u652f\u6301\u62c9\u53d6",
@@ -54,15 +171,6 @@
     "url": "https://github.com/Gald3r-Labs/gald3r"
   },
   {
-    "description": "A personal substrate for agent packages that ship their own screens. One manifest declares the agent, its verbs, and its",
-    "id": "relayax/relayagent",
-    "language": "TypeScript",
-    "name": "relayax/relayagent",
-    "stars": 11,
-    "updated_at": "2026-08-10T11:35:41Z",
-    "url": "https://github.com/relayax/relayagent"
-  },
-  {
     "description": "AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an",
     "id": "sattyamjjain/ferrumdeck",
     "language": "TypeScript",
@@ -70,24 +178,6 @@
     "stars": 7,
     "updated_at": "2026-08-10T11:34:17Z",
     "url": "https://github.com/sattyamjjain/ferrumdeck"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33624,
-    "updated_at": "2026-08-10T11:45:06Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-10T11:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
@@ -151,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-08-10T11:21:12Z",
     "url": "https://github.com/RONIN511/alphora"
-  },
-  {
-    "description": "Spice-native deterministic agent SDK, kernel, protocols, daemon, and runtime plugin host.",
-    "id": "spice-framework/spice-agent",
-    "language": "Go",
-    "name": "spice-framework/spice-agent",
-    "stars": 0,
-    "updated_at": "2026-08-10T11:19:51Z",
-    "url": "https://github.com/spice-framework/spice-agent"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -324,15 +405,6 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
-    "id": "raineislam/mcp-framework",
-    "language": "Python",
-    "name": "raineislam/mcp-framework",
-    "stars": 0,
-    "updated_at": "2026-08-10T10:59:43Z",
-    "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
     "description": "nori - evidence-driven AI answer engine with a bring-your-own-key chat UI. Runs strategies in parallel, streams real cha",
     "id": "mattybellx/nori",
     "language": "Python",
@@ -340,33 +412,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T10:57:13Z",
     "url": "https://github.com/mattybellx/nori"
-  },
-  {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-08-10T10:56:15Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6754,
-    "updated_at": "2026-08-10T11:34:58Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 246,
-    "updated_at": "2026-08-10T10:50:59Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T10:42:24Z",
     "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Search and extract web data locally for AI agents. Run a private intelligence server on your Windows machine with no API",
-    "id": "sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026",
-    "language": "Python",
-    "name": "sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026",
-    "stars": 0,
-    "updated_at": "2026-08-10T10:41:37Z",
-    "url": "https://github.com/sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026"
-  },
-  {
-    "description": "Provide local-first web intelligence for AI agents without API keys, cloud dependencies, or metered billing.",
-    "id": "Dvine6263/wigolo",
-    "language": "\u2014",
-    "name": "Dvine6263/wigolo",
-    "stars": 1,
-    "updated_at": "2026-08-10T10:41:30Z",
-    "url": "https://github.com/Dvine6263/wigolo"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14903,
-    "updated_at": "2026-08-10T10:39:47Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 6,
-    "updated_at": "2026-08-10T10:39:42Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 420,
-    "updated_at": "2026-08-10T10:39:19Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   }
 ]
