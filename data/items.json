@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-10T07:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Go",
+    "name": "shaharia-lab/agento",
+    "stars": 24,
+    "updated_at": "2026-08-10T07:16:09Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -18,13 +36,13 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Go",
-    "name": "shaharia-lab/agento",
-    "stars": 24,
-    "updated_at": "2026-08-10T07:14:29Z",
-    "url": "https://github.com/shaharia-lab/agento"
+    "description": "Awesome free AI agents \u2014 open-source autonomous agents, coding agents, and LLM agent frameworks. Run on free LLM APIs. C",
+    "id": "freellms/awesome-free-ai-agents",
+    "language": "\u2014",
+    "name": "freellms/awesome-free-ai-agents",
+    "stars": 0,
+    "updated_at": "2026-08-10T07:11:00Z",
+    "url": "https://github.com/freellms/awesome-free-ai-agents"
   },
   {
     "description": "Loop + Wiki agent framework \u2014 the wiki is the agent's mind. Identity, memory & capabilities live in plain markdown, load",
@@ -59,7 +77,7 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 481,
-    "updated_at": "2026-08-10T07:13:26Z",
+    "updated_at": "2026-08-10T07:16:13Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -108,15 +126,6 @@
     "url": "https://github.com/iflytek/skillhub"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-10T07:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -158,7 +167,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 33557,
-    "updated_at": "2026-08-10T06:53:52Z",
+    "updated_at": "2026-08-10T07:16:41Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-10T06:46:48Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "Manage autonomous AI agents at scale with persistent sessions, tool access, and safe human oversight in an efficient, sc",
-    "id": "Bohra-Nitin/AgentManager",
-    "language": "\u2014",
-    "name": "Bohra-Nitin/AgentManager",
-    "stars": 1,
-    "updated_at": "2026-08-10T06:32:30Z",
-    "url": "https://github.com/Bohra-Nitin/AgentManager"
   }
 ]
