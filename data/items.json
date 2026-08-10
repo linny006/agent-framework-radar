@@ -1,12 +1,48 @@
 [
   {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
+    "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
+    "id": "dgenio/intentflow",
     "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
+    "name": "dgenio/intentflow",
     "stars": 2,
-    "updated_at": "2026-08-10T17:59:20Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+    "updated_at": "2026-08-10T18:09:14Z",
+    "url": "https://github.com/dgenio/intentflow"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6867,
+    "updated_at": "2026-08-10T18:07:35Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "One file teaches your LLM a complete development system \u2014 TRL + AAA + Memory",
+    "id": "TRUGS-LLC/TRUGS-AGENT",
+    "language": "\u2014",
+    "name": "TRUGS-LLC/TRUGS-AGENT",
+    "stars": 0,
+    "updated_at": "2026-08-10T18:03:13Z",
+    "url": "https://github.com/TRUGS-LLC/TRUGS-AGENT"
+  },
+  {
+    "description": "Python-native runtime and workspace for observable, governed AI applications.",
+    "id": "AjayAJ2000/AgentMuru",
+    "language": "Python",
+    "name": "AjayAJ2000/AgentMuru",
+    "stars": 0,
+    "updated_at": "2026-08-10T18:03:09Z",
+    "url": "https://github.com/AjayAJ2000/AgentMuru"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-10T18:07:43Z",
+    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -14,8 +50,44 @@
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 10,
-    "updated_at": "2026-08-10T17:58:58Z",
+    "updated_at": "2026-08-10T18:02:36Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "nori - evidence-driven AI answer engine with a bring-your-own-key chat UI. Runs strategies in parallel, streams real cha",
+    "id": "mattybellx/nori",
+    "language": "Python",
+    "name": "mattybellx/nori",
+    "stars": 1,
+    "updated_at": "2026-08-10T18:01:30Z",
+    "url": "https://github.com/mattybellx/nori"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-10T18:00:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An interactive regulatory-intelligence agent for life sciences",
+    "id": "divakarkumarp/harness-regulatory",
+    "language": "Python",
+    "name": "divakarkumarp/harness-regulatory",
+    "stars": 0,
+    "updated_at": "2026-08-10T17:59:32Z",
+    "url": "https://github.com/divakarkumarp/harness-regulatory"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 2,
+    "updated_at": "2026-08-10T17:59:20Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   },
   {
     "description": "A curated list of AI agent platforms, frameworks, protocols, tools, and resources",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-10T17:58:20Z",
+    "updated_at": "2026-08-10T18:08:57Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -68,7 +140,7 @@
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-08-10T18:00:13Z",
+    "updated_at": "2026-08-10T18:07:31Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
@@ -81,15 +153,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6867,
-    "updated_at": "2026-08-10T17:54:21Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Reference generated coding-agent distribution built with Spice Agent.",
     "id": "spice-framework/spice-agent-coding",
     "language": "Go",
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T17:53:24Z",
     "url": "https://github.com/spice-framework/spice-agent-coding"
-  },
-  {
-    "description": "nori - evidence-driven AI answer engine with a bring-your-own-key chat UI. Runs strategies in parallel, streams real cha",
-    "id": "mattybellx/nori",
-    "language": "Python",
-    "name": "mattybellx/nori",
-    "stars": 1,
-    "updated_at": "2026-08-10T17:52:37Z",
-    "url": "https://github.com/mattybellx/nori"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -144,15 +198,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-10T17:45:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
     "id": "we-are-singular/aml",
     "language": "TypeScript",
@@ -160,15 +205,6 @@
     "stars": 12,
     "updated_at": "2026-08-10T17:43:12Z",
     "url": "https://github.com/we-are-singular/aml"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-10T17:49:40Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -247,7 +283,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33679,
+    "stars": 33681,
     "updated_at": "2026-08-10T17:30:26Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-10T17:56:50Z",
+    "updated_at": "2026-08-10T18:04:22Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -284,7 +320,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 48,
-    "updated_at": "2026-08-10T17:47:58Z",
+    "updated_at": "2026-08-10T18:08:21Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -360,6 +396,15 @@
     "url": "https://github.com/shipiit/shipit_agent"
   },
   {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14912,
+    "updated_at": "2026-08-10T16:53:33Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
     "description": "Open-source Java economic simulator. A free, modular sandbox simulating markets, supply and demand, and policy changes. ",
     "id": "Farmer0390/Economic-Simulator",
     "language": "Java",
@@ -403,50 +448,5 @@
     "stars": 231,
     "updated_at": "2026-08-10T16:25:59Z",
     "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
-    "description": "Zero-dependency TypeScript framework for production AI agents: durable execution, long-term memory, hybrid RAG, MCP tool",
-    "id": "Deuz-AI/Deuz-SDK",
-    "language": "TypeScript",
-    "name": "Deuz-AI/Deuz-SDK",
-    "stars": 290,
-    "updated_at": "2026-08-10T16:25:10Z",
-    "url": "https://github.com/Deuz-AI/Deuz-SDK"
-  },
-  {
-    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
-    "id": "rhein1/agoragentic-integrations",
-    "language": "JavaScript",
-    "name": "rhein1/agoragentic-integrations",
-    "stars": 28,
-    "updated_at": "2026-08-10T16:47:57Z",
-    "url": "https://github.com/rhein1/agoragentic-integrations"
-  },
-  {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 442,
-    "updated_at": "2026-08-10T16:23:30Z",
-    "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
-    "id": "mathissdupont/ingot",
-    "language": "Rust",
-    "name": "mathissdupont/ingot",
-    "stars": 1,
-    "updated_at": "2026-08-10T16:20:28Z",
-    "url": "https://github.com/mathissdupont/ingot"
-  },
-  {
-    "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 2,
-    "updated_at": "2026-08-10T17:44:54Z",
-    "url": "https://github.com/ionalpha/flynn"
   }
 ]
