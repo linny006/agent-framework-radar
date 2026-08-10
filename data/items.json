@@ -1,12 +1,84 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 291,
+    "updated_at": "2026-08-10T16:58:36Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-10T16:58:12Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-10T16:56:56Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8479,
+    "updated_at": "2026-08-10T16:56:40Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
+    "id": "shipiit/shipit_agent",
+    "language": "Python",
+    "name": "shipiit/shipit_agent",
+    "stars": 2,
+    "updated_at": "2026-08-10T16:55:16Z",
+    "url": "https://github.com/shipiit/shipit_agent"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 155,
+    "updated_at": "2026-08-10T16:53:50Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
     "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
     "id": "agents-universe/agents-universe",
     "language": "Python",
     "name": "agents-universe/agents-universe",
     "stars": 26,
-    "updated_at": "2026-08-10T16:42:38Z",
+    "updated_at": "2026-08-10T16:52:28Z",
     "url": "https://github.com/agents-universe/agents-universe"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6866,
+    "updated_at": "2026-08-10T16:50:00Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 10,
+    "updated_at": "2026-08-10T16:48:33Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "Open-source Java economic simulator. A free, modular sandbox simulating markets, supply and demand, and policy changes. ",
@@ -14,8 +86,62 @@
     "language": "Java",
     "name": "Farmer0390/Economic-Simulator",
     "stars": 1,
-    "updated_at": "2026-08-10T16:41:41Z",
+    "updated_at": "2026-08-10T16:48:03Z",
     "url": "https://github.com/Farmer0390/Economic-Simulator"
+  },
+  {
+    "description": "Spice-native terminal UI components and Bubble Tea integration for Spice Agent.",
+    "id": "spice-framework/spice-agent-tui",
+    "language": "Go",
+    "name": "spice-framework/spice-agent-tui",
+    "stars": 0,
+    "updated_at": "2026-08-10T16:47:53Z",
+    "url": "https://github.com/spice-framework/spice-agent-tui"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-10T16:47:36Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-10T16:47:29Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
+    "id": "Monadix-AI/monad",
+    "language": "TypeScript",
+    "name": "Monadix-AI/monad",
+    "stars": 1,
+    "updated_at": "2026-08-10T16:46:58Z",
+    "url": "https://github.com/Monadix-AI/monad"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-10T16:45:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "nori - evidence-driven AI answer engine with a bring-your-own-key chat UI. Runs strategies in parallel, streams real cha",
+    "id": "mattybellx/nori",
+    "language": "Python",
+    "name": "mattybellx/nori",
+    "stars": 1,
+    "updated_at": "2026-08-10T16:45:13Z",
+    "url": "https://github.com/mattybellx/nori"
   },
   {
     "description": "Reference generated coding-agent distribution built with Spice Agent.",
@@ -58,18 +184,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33672,
+    "stars": 33673,
     "updated_at": "2026-08-10T16:40:06Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 10,
-    "updated_at": "2026-08-10T16:40:01Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -99,15 +216,6 @@
     "url": "https://github.com/ethosagent/ethos"
   },
   {
-    "description": "nori - evidence-driven AI answer engine with a bring-your-own-key chat UI. Runs strategies in parallel, streams real cha",
-    "id": "mattybellx/nori",
-    "language": "Python",
-    "name": "mattybellx/nori",
-    "stars": 1,
-    "updated_at": "2026-08-10T16:45:13Z",
-    "url": "https://github.com/mattybellx/nori"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -115,33 +223,6 @@
     "stars": 3,
     "updated_at": "2026-08-10T16:35:40Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
-    "id": "Monadix-AI/monad",
-    "language": "TypeScript",
-    "name": "Monadix-AI/monad",
-    "stars": 1,
-    "updated_at": "2026-08-10T16:31:14Z",
-    "url": "https://github.com/Monadix-AI/monad"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-10T16:44:18Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-10T16:30:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -175,18 +256,9 @@
     "id": "zenml-io/kitaru",
     "language": "Python",
     "name": "zenml-io/kitaru",
-    "stars": 230,
+    "stars": 231,
     "updated_at": "2026-08-10T16:25:59Z",
     "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
-    "description": "Spice-native terminal UI components and Bubble Tea integration for Spice Agent.",
-    "id": "spice-framework/spice-agent-tui",
-    "language": "Go",
-    "name": "spice-framework/spice-agent-tui",
-    "stars": 0,
-    "updated_at": "2026-08-10T16:25:25Z",
-    "url": "https://github.com/spice-framework/spice-agent-tui"
   },
   {
     "description": "Zero-dependency TypeScript framework for production AI agents: durable execution, long-term memory, hybrid RAG, MCP tool",
@@ -203,7 +275,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-10T16:40:53Z",
+    "updated_at": "2026-08-10T16:45:43Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -212,7 +284,7 @@
     "language": "JavaScript",
     "name": "rhein1/agoragentic-integrations",
     "stars": 28,
-    "updated_at": "2026-08-10T16:45:24Z",
+    "updated_at": "2026-08-10T16:47:57Z",
     "url": "https://github.com/rhein1/agoragentic-integrations"
   },
   {
@@ -241,15 +313,6 @@
     "stars": 4847,
     "updated_at": "2026-08-10T16:18:39Z",
     "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8479,
-    "updated_at": "2026-08-10T16:33:20Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A secure, self-improving agent operating system in a single Go binary. Bring any model, manage local models, point it at",
@@ -288,15 +351,6 @@
     "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6865,
-    "updated_at": "2026-08-10T16:42:06Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -333,33 +387,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 155,
-    "updated_at": "2026-08-10T15:56:44Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-10T15:54:13Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-10T15:54:08Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "Thepizzapie/BuildersGate",
     "stars": 18,
-    "updated_at": "2026-08-10T15:47:29Z",
+    "updated_at": "2026-08-10T16:46:06Z",
     "url": "https://github.com/Thepizzapie/BuildersGate"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1701,
     "updated_at": "2026-08-10T15:21:05Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 3,
-    "updated_at": "2026-08-10T15:19:21Z",
-    "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19192,
-    "updated_at": "2026-08-10T15:19:02Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Agent context compressor and memory persistent orchestration",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 2,
-    "updated_at": "2026-08-10T15:36:48Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
   }
 ]
