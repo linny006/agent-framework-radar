@@ -1,5 +1,122 @@
 [
   {
+    "description": "A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684 AI \u56e2\u961f\u3002",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-08-10T06:14:56Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
+    "id": "s2mgtvodois2/postgresql-mcp-js",
+    "language": "TypeScript",
+    "name": "s2mgtvodois2/postgresql-mcp-js",
+    "stars": 1,
+    "updated_at": "2026-08-10T06:14:43Z",
+    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-10T06:12:23Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
+    "id": "subkoks/agents-md",
+    "language": "Shell",
+    "name": "subkoks/agents-md",
+    "stars": 0,
+    "updated_at": "2026-08-10T06:11:16Z",
+    "url": "https://github.com/subkoks/agents-md"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33544,
+    "updated_at": "2026-08-10T06:10:55Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26164,
+    "updated_at": "2026-08-10T06:09:19Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-10T06:08:17Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-08-10T06:04:35Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19182,
+    "updated_at": "2026-08-10T06:01:45Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-10T06:10:41Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-10T06:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI Agent 101 \u2014\u2014 \u5168\u6808\u5de5\u7a0b\u5e08\u8bad\u7ec3\u8425 \u7684\u8bfe\u7a0b\u4ee3\u7801\uff0c \u8bfe\u7a0b\u5730\u5740\u5728\uff1a",
+    "id": "ricoNext/agent-platform",
+    "language": "Python",
+    "name": "ricoNext/agent-platform",
+    "stars": 0,
+    "updated_at": "2026-08-10T05:58:48Z",
+    "url": "https://github.com/ricoNext/agent-platform"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12706,
+    "updated_at": "2026-08-10T05:58:07Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -16,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T05:55:49Z",
     "url": "https://github.com/spice-framework/spice-agent"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12706,
-    "updated_at": "2026-08-10T05:58:07Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Automate Be a Lucky Block with targeting assistance and instant inventory liquidation for streamlined PC gameplay.",
@@ -49,18 +157,9 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8443,
+    "stars": 8444,
     "updated_at": "2026-08-10T05:53:10Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-10T05:52:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
@@ -81,15 +180,6 @@
     "url": "https://github.com/bahateacher/DeepSeek-TUI-2026"
   },
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-08-10T05:59:36Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
     "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
     "id": "zerovia/be-a-lucky-block-hub",
     "language": "HTML",
@@ -99,29 +189,11 @@
     "url": "https://github.com/zerovia/be-a-lucky-block-hub"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-10T05:54:34Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33539,
-    "updated_at": "2026-08-10T05:49:11Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46808,
+    "stars": 46809,
     "updated_at": "2026-08-10T05:48:50Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -223,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T05:44:28Z",
     "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26165,
-    "updated_at": "2026-08-10T05:48:09Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-10T05:35:07Z",
     "url": "https://github.com/achappey/aihappey-chat"
-  },
-  {
-    "description": "Manage autonomous AI agents at scale with persistent sessions, tool access, and safe human oversight in an efficient, sc",
-    "id": "Bohra-Nitin/AgentManager",
-    "language": "\u2014",
-    "name": "Bohra-Nitin/AgentManager",
-    "stars": 1,
-    "updated_at": "2026-08-10T05:34:19Z",
-    "url": "https://github.com/Bohra-Nitin/AgentManager"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-10T05:33:57Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684 AI \u56e2\u961f\u3002",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-08-10T05:33:18Z",
-    "url": "https://github.com/momang85/weavemind"
-  },
-  {
-    "description": "Turn the way you work with AI into a reusable asset \u00b7 \u628a\u4f60\u7684 AI \u5de5\u4f5c\u65b9\u5f0f\uff0c\u6c89\u6dc0\u6210\u53ef\u4ee5\u590d\u7528\u7684\u8d44\u4ea7\u3002",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 44,
-    "updated_at": "2026-08-10T05:30:29Z",
-    "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
-    "id": "cuteecarrot/AgentHub",
-    "language": "Python",
-    "name": "cuteecarrot/AgentHub",
-    "stars": 5,
-    "updated_at": "2026-08-10T05:29:46Z",
-    "url": "https://github.com/cuteecarrot/AgentHub"
-  },
-  {
-    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
-    "id": "TonCerqueira/MiroThinker",
-    "language": "Python",
-    "name": "TonCerqueira/MiroThinker",
-    "stars": 1,
-    "updated_at": "2026-08-10T05:28:07Z",
-    "url": "https://github.com/TonCerqueira/MiroThinker"
-  },
-  {
-    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
-    "id": "thesiddguy/GenAI",
-    "language": "HTML",
-    "name": "thesiddguy/GenAI",
-    "stars": 0,
-    "updated_at": "2026-08-10T05:26:20Z",
-    "url": "https://github.com/thesiddguy/GenAI"
   }
 ]
