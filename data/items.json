@@ -1,5 +1,41 @@
 [
   {
+    "description": "Reference generated coding-agent distribution built with Spice Agent.",
+    "id": "spice-framework/spice-agent-coding",
+    "language": "Go",
+    "name": "spice-framework/spice-agent-coding",
+    "stars": 0,
+    "updated_at": "2026-08-10T18:14:09Z",
+    "url": "https://github.com/spice-framework/spice-agent-coding"
+  },
+  {
+    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
+    "id": "agents-universe/agents-universe",
+    "language": "Python",
+    "name": "agents-universe/agents-universe",
+    "stars": 26,
+    "updated_at": "2026-08-10T18:13:41Z",
+    "url": "https://github.com/agents-universe/agents-universe"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 2,
+    "updated_at": "2026-08-10T18:12:30Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-10T18:12:03Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
     "id": "dgenio/intentflow",
     "language": "Python",
@@ -59,17 +95,8 @@
     "language": "Python",
     "name": "mattybellx/nori",
     "stars": 1,
-    "updated_at": "2026-08-10T18:01:30Z",
+    "updated_at": "2026-08-10T18:12:07Z",
     "url": "https://github.com/mattybellx/nori"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-10T18:00:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An interactive regulatory-intelligence agent for life sciences",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T17:59:32Z",
     "url": "https://github.com/divakarkumarp/harness-regulatory"
-  },
-  {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 2,
-    "updated_at": "2026-08-10T17:59:20Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   },
   {
     "description": "A curated list of AI agent platforms, frameworks, protocols, tools, and resources",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-10T18:08:57Z",
+    "updated_at": "2026-08-10T18:13:13Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -151,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T17:54:46Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Reference generated coding-agent distribution built with Spice Agent.",
-    "id": "spice-framework/spice-agent-coding",
-    "language": "Go",
-    "name": "spice-framework/spice-agent-coding",
-    "stars": 0,
-    "updated_at": "2026-08-10T17:53:24Z",
-    "url": "https://github.com/spice-framework/spice-agent-coding"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -283,7 +292,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33681,
+    "stars": 33682,
     "updated_at": "2026-08-10T17:30:26Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-10T18:04:22Z",
+    "updated_at": "2026-08-10T18:15:02Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -306,13 +315,13 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
-    "id": "agents-universe/agents-universe",
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
     "language": "Python",
-    "name": "agents-universe/agents-universe",
-    "stars": 26,
-    "updated_at": "2026-08-10T17:25:38Z",
-    "url": "https://github.com/agents-universe/agents-universe"
+    "name": "Birfy/agentdescent",
+    "stars": 115,
+    "updated_at": "2026-08-10T17:25:52Z",
+    "url": "https://github.com/Birfy/agentdescent"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-10T16:26:50Z",
     "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "Record, replay, and improve AI agents in production, built on ZenML",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 231,
-    "updated_at": "2026-08-10T16:25:59Z",
-    "url": "https://github.com/zenml-io/kitaru"
   }
 ]
