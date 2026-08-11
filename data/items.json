@@ -1,5 +1,113 @@
 [
   {
+    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 119,
+    "updated_at": "2026-08-11T07:27:41Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "HY-AI4Science",
+    "id": "gzb2009/HYscience1.0",
+    "language": "TypeScript",
+    "name": "gzb2009/HYscience1.0",
+    "stars": 1,
+    "updated_at": "2026-08-11T07:27:04Z",
+    "url": "https://github.com/gzb2009/HYscience1.0"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 10,
+    "updated_at": "2026-08-11T07:26:43Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14928,
+    "updated_at": "2026-08-11T07:26:18Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "Ontology-centered financial research and operations platform that unifies market, fundamental, portfolio, and risk data;",
+    "id": "Moonweave-AI/axiolune",
+    "language": "C#",
+    "name": "Moonweave-AI/axiolune",
+    "stars": 0,
+    "updated_at": "2026-08-11T07:25:48Z",
+    "url": "https://github.com/Moonweave-AI/axiolune"
+  },
+  {
+    "description": "A lightweight repository harness for safe agentic collaboration, deliberate codebase learning, and conversational learni",
+    "id": "legrab/codebase-learning-flow",
+    "language": "Shell",
+    "name": "legrab/codebase-learning-flow",
+    "stars": 1,
+    "updated_at": "2026-08-11T07:25:31Z",
+    "url": "https://github.com/legrab/codebase-learning-flow"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1703,
+    "updated_at": "2026-08-11T07:25:15Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33820,
+    "updated_at": "2026-08-11T07:24:25Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-11T07:27:48Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-11T07:29:08Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 36,
+    "updated_at": "2026-08-11T07:16:57Z",
+    "url": "https://github.com/Marssssss/OneAI"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-11T07:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -9,24 +117,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 10,
-    "updated_at": "2026-08-11T07:13:28Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-11T07:12:15Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
     "id": "streamcoreai/streamcore-server",
     "language": "Go",
@@ -34,6 +124,15 @@
     "stars": 146,
     "updated_at": "2026-08-11T07:10:19Z",
     "url": "https://github.com/streamcoreai/streamcore-server"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8506,
+    "updated_at": "2026-08-11T07:27:25Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Contextra is a high performance AI context engineering platform built in Rust for document ingestion, retrieval, embeddi",
@@ -54,15 +153,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33818,
-    "updated_at": "2026-08-11T07:04:37Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -72,13 +162,13 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-11T07:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "HKUDS/nanobot",
+    "stars": 46837,
+    "updated_at": "2026-08-11T07:29:56Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -95,17 +185,8 @@
     "language": "Go",
     "name": "shaharia-lab/agento",
     "stars": 24,
-    "updated_at": "2026-08-11T06:57:33Z",
+    "updated_at": "2026-08-11T07:29:02Z",
     "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-11T07:05:56Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -144,13 +225,13 @@
     "url": "https://github.com/shibing624/agentica"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8505,
-    "updated_at": "2026-08-11T07:08:29Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "pydantic/pydantic-ai",
+    "stars": 19213,
+    "updated_at": "2026-08-11T06:53:38Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Reference generated coding-agent distribution built with Spice Agent.",
@@ -175,7 +256,7 @@
     "id": "CodeSoul-co/Hypha",
     "language": "TypeScript",
     "name": "CodeSoul-co/Hypha",
-    "stars": 128,
+    "stars": 130,
     "updated_at": "2026-08-11T06:49:46Z",
     "url": "https://github.com/CodeSoul-co/Hypha"
   },
@@ -207,21 +288,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19212,
-    "updated_at": "2026-08-11T06:53:38Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6755,
-    "updated_at": "2026-08-11T06:40:53Z",
+    "updated_at": "2026-08-11T07:20:45Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -232,15 +304,6 @@
     "stars": 5,
     "updated_at": "2026-08-11T06:40:34Z",
     "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46836,
-    "updated_at": "2026-08-11T07:02:33Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "\u4e00\u4e2a\u8f7b\u91cf\u7ea7agent harness\u6846\u67b6\uff0c\u7528\u4e8e\u5b66\u4e60\u4e0e\u5b9e\u8df5\u4e2a\u4ebaagent\u52a9\u624b\u67b6\u6784\u8bbe\u8ba1\uff0c\u57fa\u4e8eReAct\u67b6\u6784\uff0c\u7531\u4e2d\u95f4\u8def\u7531\u5c42\u8fde\u63a5\u5ba2\u6237\u7aef\u4e0e\u5e95\u5c42\u7ec4\u4ef6\uff0c\u5b9e\u73b0\u4e86\u591a\u6a21\u578b\u9002\u914d\u3001\u591a\u5e73\u53f0\u9002\u914d\u548c\u4f1a\u8bdd\u7ba1\u7406\u3002",
@@ -256,7 +319,7 @@
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 4998,
+    "stars": 4999,
     "updated_at": "2026-08-11T06:35:23Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
@@ -279,15 +342,6 @@
     "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
   },
   {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-08-11T06:28:57Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
     "id": "aomi-labs/aomi",
     "language": "TypeScript",
@@ -301,7 +355,7 @@
     "id": "LudicDynamics/WorldLines",
     "language": "TypeScript",
     "name": "LudicDynamics/WorldLines",
-    "stars": 59,
+    "stars": 60,
     "updated_at": "2026-08-11T06:25:16Z",
     "url": "https://github.com/LudicDynamics/WorldLines"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T06:01:30Z",
     "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Search and extract web data locally for AI agents. Run a private intelligence server on your Windows machine with no API",
-    "id": "sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026",
-    "language": "Python",
-    "name": "sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026",
-    "stars": 0,
-    "updated_at": "2026-08-11T06:00:43Z",
-    "url": "https://github.com/sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026"
-  },
-  {
-    "description": "Provide local-first web intelligence for AI agents without API keys, cloud dependencies, or metered billing.",
-    "id": "Dvine6263/wigolo",
-    "language": "\u2014",
-    "name": "Dvine6263/wigolo",
-    "stars": 1,
-    "updated_at": "2026-08-11T06:00:27Z",
-    "url": "https://github.com/Dvine6263/wigolo"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 51,
-    "updated_at": "2026-08-11T07:05:05Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:55:23Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:53:45Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:53:38Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
   }
 ]
