@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
+    "id": "RONIN511/alphora",
+    "language": "Python",
+    "name": "RONIN511/alphora",
+    "stars": 2,
+    "updated_at": "2026-08-11T05:39:44Z",
+    "url": "https://github.com/RONIN511/alphora"
+  },
+  {
+    "description": "OpenAI Responses provider extension for Spice Agent.",
+    "id": "spice-framework/spice-agent-provider-openai",
+    "language": "Go",
+    "name": "spice-framework/spice-agent-provider-openai",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:39:12Z",
+    "url": "https://github.com/spice-framework/spice-agent-provider-openai"
+  },
+  {
+    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
+    "id": "the-long-ride/engram",
+    "language": "TypeScript",
+    "name": "the-long-ride/engram",
+    "stars": 5,
+    "updated_at": "2026-08-11T05:38:52Z",
+    "url": "https://github.com/the-long-ride/engram"
+  },
+  {
+    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
+    "id": "substructureai/substructure",
+    "language": "Rust",
+    "name": "substructureai/substructure",
+    "stars": 5,
+    "updated_at": "2026-08-11T05:39:04Z",
+    "url": "https://github.com/substructureai/substructure"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:35:50Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 10,
+    "updated_at": "2026-08-11T05:35:03Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
+    "id": "dgenio/intentflow",
+    "language": "Python",
+    "name": "dgenio/intentflow",
+    "stars": 2,
+    "updated_at": "2026-08-11T05:37:56Z",
+    "url": "https://github.com/dgenio/intentflow"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:33:14Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33789,
+    "updated_at": "2026-08-11T05:32:30Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-11T05:36:12Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "VibeSkills is a general-purpose Skill that automatically routes local Skills and intelligently orchestrates harness work",
+    "id": "foryourhealth111-pixel/Vibe-Skills",
+    "language": "Python",
+    "name": "foryourhealth111-pixel/Vibe-Skills",
+    "stars": 2670,
+    "updated_at": "2026-08-11T05:30:26Z",
+    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-11T05:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\u4e0d\u6b7b\u9e1f Phoenix \u2014 Hermes Agent \u63d2\u4ef6\uff1a\u8def\u7531\u5206\u6863/\u98ce\u9669\u9632\u7ebf/\u81ea\u6108/\u5b58\u6863\u70b9\u63d0\u9192/\u5ba1\u6279\u7b56\u7565\u81ea\u9002\u5e94\uff0c\u5b98\u65b9\u94a9\u5b50\u63a5\u5165\uff0c\u4e0d\u6539 Hermes \u6838\u5fc3\u4ee3\u7801",
     "id": "xyaz1313/phoenix",
     "language": "Python",
@@ -14,7 +122,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8500,
-    "updated_at": "2026-08-11T05:28:48Z",
+    "updated_at": "2026-08-11T05:33:38Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -22,7 +130,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46832,
+    "stars": 46831,
     "updated_at": "2026-08-11T05:27:19Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -34,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-08-11T05:23:06Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
-    "id": "dgenio/intentflow",
-    "language": "Python",
-    "name": "dgenio/intentflow",
-    "stars": 2,
-    "updated_at": "2026-08-11T05:29:57Z",
-    "url": "https://github.com/dgenio/intentflow"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -61,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T05:19:25Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-11T05:29:46Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -108,15 +198,6 @@
     "url": "https://github.com/hoangnc/VNMLAgentFramework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-11T05:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
@@ -130,18 +211,9 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12721,
+    "stars": 12722,
     "updated_at": "2026-08-11T05:12:39Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33789,
-    "updated_at": "2026-08-11T05:11:24Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Reference generated coding-agent distribution built with Spice Agent.",
@@ -229,7 +301,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1702,
+    "stars": 1701,
     "updated_at": "2026-08-11T04:53:14Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -257,7 +329,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19207,
-    "updated_at": "2026-08-11T05:12:37Z",
+    "updated_at": "2026-08-11T05:32:37Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -302,7 +374,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-11T05:28:42Z",
+    "updated_at": "2026-08-11T05:35:50Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -322,15 +394,6 @@
     "stars": 38,
     "updated_at": "2026-08-11T04:19:41Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
-    "id": "the-long-ride/engram",
-    "language": "TypeScript",
-    "name": "the-long-ride/engram",
-    "stars": 5,
-    "updated_at": "2026-08-11T04:16:32Z",
-    "url": "https://github.com/the-long-ride/engram"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -385,68 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-11T03:59:53Z",
     "url": "https://github.com/junebuild/june"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 116,
-    "updated_at": "2026-08-11T03:53:53Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-11T03:51:11Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1655,
-    "updated_at": "2026-08-11T03:50:47Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
-    "id": "rundesk-ai/rundesk-cli",
-    "language": "Python",
-    "name": "rundesk-ai/rundesk-cli",
-    "stars": 1,
-    "updated_at": "2026-08-11T04:14:39Z",
-    "url": "https://github.com/rundesk-ai/rundesk-cli"
-  },
-  {
-    "description": "Spice-native deterministic agent SDK, kernel, protocols, daemon, and runtime plugin host.",
-    "id": "spice-framework/spice-agent",
-    "language": "Go",
-    "name": "spice-framework/spice-agent",
-    "stars": 0,
-    "updated_at": "2026-08-11T03:45:15Z",
-    "url": "https://github.com/spice-framework/spice-agent"
-  },
-  {
-    "description": "High-autonomy config for opencode: ship features end-to-end with one command. 5 models, 5 families, zero interruptions.",
-    "id": "vocino/opencode-autonomy",
-    "language": "TypeScript",
-    "name": "vocino/opencode-autonomy",
-    "stars": 2,
-    "updated_at": "2026-08-11T03:33:17Z",
-    "url": "https://github.com/vocino/opencode-autonomy"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4874,
-    "updated_at": "2026-08-11T03:29:39Z",
-    "url": "https://github.com/iflytek/skillhub"
   }
 ]
