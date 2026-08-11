@@ -1,12 +1,129 @@
 [
   {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-11T04:15:20Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-11T04:14:55Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-11T04:15:26Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33778,
-    "updated_at": "2026-08-11T03:59:44Z",
+    "stars": 33782,
+    "updated_at": "2026-08-11T04:14:27Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 208,
+    "updated_at": "2026-08-11T04:13:21Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 1,
+    "updated_at": "2026-08-11T04:13:52Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 4993,
+    "updated_at": "2026-08-11T04:09:51Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-11T04:08:50Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-11T04:06:58Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Spice-native terminal UI components and Bubble Tea integration for Spice Agent.",
+    "id": "spice-framework/spice-agent-tui",
+    "language": "Go",
+    "name": "spice-framework/spice-agent-tui",
+    "stars": 0,
+    "updated_at": "2026-08-11T04:07:56Z",
+    "url": "https://github.com/spice-framework/spice-agent-tui"
+  },
+  {
+    "description": "Reference generated coding-agent distribution built with Spice Agent.",
+    "id": "spice-framework/spice-agent-coding",
+    "language": "Go",
+    "name": "spice-framework/spice-agent-coding",
+    "stars": 0,
+    "updated_at": "2026-08-11T04:05:40Z",
+    "url": "https://github.com/spice-framework/spice-agent-coding"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 106,
+    "updated_at": "2026-08-11T04:05:05Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-08-11T04:04:51Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-11T04:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
@@ -32,7 +149,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 46831,
-    "updated_at": "2026-08-11T03:57:42Z",
+    "updated_at": "2026-08-11T04:14:21Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -45,13 +162,13 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-11T03:59:31Z",
-    "url": "https://github.com/tya5/reyn"
+    "name": "pydantic/pydantic-ai",
+    "stars": 19204,
+    "updated_at": "2026-08-11T03:55:11Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
@@ -86,17 +203,8 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 1,
-    "updated_at": "2026-08-11T03:46:26Z",
+    "updated_at": "2026-08-11T04:14:39Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-11T03:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Spice-native deterministic agent SDK, kernel, protocols, daemon, and runtime plugin host.",
@@ -106,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T03:45:15Z",
     "url": "https://github.com/spice-framework/spice-agent"
-  },
-  {
-    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 1,
-    "updated_at": "2026-08-11T03:44:54Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -148,18 +247,9 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1702,
+    "stars": 1703,
     "updated_at": "2026-08-11T03:37:40Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19203,
-    "updated_at": "2026-08-11T03:55:11Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "",
@@ -198,15 +288,6 @@
     "url": "https://github.com/vocino/opencode-autonomy"
   },
   {
-    "description": "Spice-native terminal UI components and Bubble Tea integration for Spice Agent.",
-    "id": "spice-framework/spice-agent-tui",
-    "language": "Go",
-    "name": "spice-framework/spice-agent-tui",
-    "stars": 0,
-    "updated_at": "2026-08-11T03:32:48Z",
-    "url": "https://github.com/spice-framework/spice-agent-tui"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -216,13 +297,13 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 106,
-    "updated_at": "2026-08-11T03:42:49Z",
-    "url": "https://github.com/Insajin/autopus-adk"
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4873,
+    "updated_at": "2026-08-11T03:29:39Z",
+    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
@@ -232,15 +313,6 @@
     "stars": 30,
     "updated_at": "2026-08-11T03:21:47Z",
     "url": "https://github.com/agents-universe/agents-universe"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-11T03:53:22Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
@@ -288,24 +360,6 @@
     "url": "https://github.com/LATTIX-IO/lattix-xfrontier"
   },
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-11T02:57:41Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-11T02:57:35Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
     "id": "shimo4228/contemplative-agent",
     "language": "Python",
@@ -315,15 +369,6 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-11T02:48:49Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "A multi-agent & multi-harness AI agent management and orchestration system",
     "id": "plmbr/nui",
     "language": "Go",
@@ -331,15 +376,6 @@
     "stars": 4,
     "updated_at": "2026-08-11T02:47:21Z",
     "url": "https://github.com/plmbr/nui"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4872,
-    "updated_at": "2026-08-11T03:29:39Z",
-    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
@@ -396,15 +432,6 @@
     "url": "https://github.com/frogbotai/frogbot"
   },
   {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 208,
-    "updated_at": "2026-08-11T02:11:31Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-11T02:02:23Z",
     "url": "https://github.com/ricoNext/Agent101"
-  },
-  {
-    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
-    "id": "motojinc25/chatwalaau",
-    "language": "Python",
-    "name": "motojinc25/chatwalaau",
-    "stars": 2,
-    "updated_at": "2026-08-11T02:00:52Z",
-    "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-08-11T02:01:41Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-11T02:00:16Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   }
 ]
