@@ -1,5 +1,131 @@
 [
   {
+    "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 345,
+    "updated_at": "2026-08-11T10:58:45Z",
+    "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-11T10:58:21Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6756,
+    "updated_at": "2026-08-11T10:58:18Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1705,
+    "updated_at": "2026-08-11T10:57:30Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 154,
+    "updated_at": "2026-08-11T10:56:03Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "AgentSeed - the governance layer for AI agents. Non-negotiable safety kernel + pluggable scenario packs, synced to 15 AI",
+    "id": "weed33834/AgentSeed",
+    "language": "Python",
+    "name": "weed33834/AgentSeed",
+    "stars": 6,
+    "updated_at": "2026-08-11T10:54:58Z",
+    "url": "https://github.com/weed33834/AgentSeed"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-11T10:52:54Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 51,
+    "updated_at": "2026-08-11T10:52:17Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-11T10:51:43Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Ontology-centered financial research and operations platform that unifies market, fundamental, portfolio, and risk data;",
+    "id": "Moonweave-AI/axiolune",
+    "language": "C#",
+    "name": "Moonweave-AI/axiolune",
+    "stars": 0,
+    "updated_at": "2026-08-11T10:51:21Z",
+    "url": "https://github.com/Moonweave-AI/axiolune"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 155,
+    "updated_at": "2026-08-11T10:50:42Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-11T10:50:09Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12729,
+    "updated_at": "2026-08-11T10:45:54Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-11T10:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -18,15 +144,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-11T10:43:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
@@ -34,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-08-11T10:43:00Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-11T10:43:09Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "A verified runtime for trustworthy AI agents: every claim passes an 8-layer verification pipeline before it counts. Dete",
@@ -79,6 +187,15 @@
     "stars": 1292,
     "updated_at": "2026-08-11T10:38:54Z",
     "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 46841,
+    "updated_at": "2026-08-11T10:38:43Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
@@ -124,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T10:34:09Z",
     "url": "https://github.com/ricoNext/Agent101"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12729,
-    "updated_at": "2026-08-11T10:33:23Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
@@ -198,15 +306,6 @@
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46840,
-    "updated_at": "2026-08-11T10:38:43Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
     "id": "Gald3r-Labs/gald3r",
     "language": "\u2014",
@@ -214,15 +313,6 @@
     "stars": 23,
     "updated_at": "2026-08-11T10:19:22Z",
     "url": "https://github.com/Gald3r-Labs/gald3r"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-11T10:19:46Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Agent OS in Rust \u2014 one binary, 37 agents, 26 LLM providers, 37 channels (Telegram/Discord/Slack...), MCP server, A2A pro",
@@ -238,7 +328,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33876,
+    "stars": 33877,
     "updated_at": "2026-08-11T10:15:22Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -279,13 +369,13 @@
     "url": "https://github.com/agents-universe/agents-universe"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1705,
-    "updated_at": "2026-08-11T10:11:53Z",
-    "url": "https://github.com/cortexkit/magic-context"
+    "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. B",
+    "id": "dhaupin/vant",
+    "language": "JavaScript",
+    "name": "dhaupin/vant",
+    "stars": 10,
+    "updated_at": "2026-08-11T10:08:31Z",
+    "url": "https://github.com/dhaupin/vant"
   },
   {
     "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
@@ -319,36 +409,9 @@
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 14930,
+    "stars": 14931,
     "updated_at": "2026-08-11T10:00:42Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Ontology-centered financial research and operations platform that unifies market, fundamental, portfolio, and risk data;",
-    "id": "Moonweave-AI/axiolune",
-    "language": "C#",
-    "name": "Moonweave-AI/axiolune",
-    "stars": 0,
-    "updated_at": "2026-08-11T09:59:56Z",
-    "url": "https://github.com/Moonweave-AI/axiolune"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-11T09:59:40Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 154,
-    "updated_at": "2026-08-11T09:58:27Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   },
   {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
@@ -369,15 +432,6 @@
     "url": "https://github.com/substructureai/substructure"
   },
   {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 155,
-    "updated_at": "2026-08-11T09:56:52Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
     "description": "Turn the way you work with AI into a reusable asset \u00b7 \u628a\u4f60\u7684 AI \u5de5\u4f5c\u65b9\u5f0f\uff0c\u6c89\u6dc0\u6210\u53ef\u4ee5\u590d\u7528\u7684\u8d44\u4ea7\u3002",
     "id": "pqpo/pragma",
     "language": "TypeScript",
@@ -387,66 +441,12 @@
     "url": "https://github.com/pqpo/pragma"
   },
   {
-    "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 345,
-    "updated_at": "2026-08-11T09:54:19Z",
-    "url": "https://github.com/shibing624/agentica"
-  },
-  {
     "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
     "id": "yanacuti1121/Yana-AI",
     "language": "Python",
     "name": "yanacuti1121/Yana-AI",
     "stars": 1,
-    "updated_at": "2026-08-11T10:31:28Z",
+    "updated_at": "2026-08-11T10:59:17Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D",
-    "id": "franktsaodev/Frank-AI-Agent",
-    "language": "Python",
-    "name": "franktsaodev/Frank-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-11T09:51:23Z",
-    "url": "https://github.com/franktsaodev/Frank-AI-Agent"
-  },
-  {
-    "description": "A personal substrate for agent packages that ship their own screens. One manifest declares the agent, its verbs, and its",
-    "id": "relayax/relayagent",
-    "language": "TypeScript",
-    "name": "relayax/relayagent",
-    "stars": 13,
-    "updated_at": "2026-08-11T09:49:20Z",
-    "url": "https://github.com/relayax/relayagent"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1192,
-    "updated_at": "2026-08-11T09:49:00Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Contextra is a high performance AI context engineering platform built in Rust for document ingestion, retrieval, embeddi",
-    "id": "soumyasurana/Contextra",
-    "language": "Rust",
-    "name": "soumyasurana/Contextra",
-    "stars": 1,
-    "updated_at": "2026-08-11T09:45:56Z",
-    "url": "https://github.com/soumyasurana/Contextra"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-11T10:09:32Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   }
 ]
