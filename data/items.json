@@ -1,12 +1,111 @@
 [
   {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1292,
+    "updated_at": "2026-08-11T19:29:45Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
     "description": "Reference generated coding-agent distribution built with Spice Agent.",
     "id": "spice-framework/spice-agent-coding",
     "language": "Go",
     "name": "spice-framework/spice-agent-coding",
     "stars": 0,
-    "updated_at": "2026-08-11T19:12:59Z",
+    "updated_at": "2026-08-11T19:28:54Z",
     "url": "https://github.com/spice-framework/spice-agent-coding"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 48,
+    "updated_at": "2026-08-11T19:26:45Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-11T19:26:02Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Multi-Agent Harness for Production AI",
+    "id": "aden-hive/hive",
+    "language": "Python",
+    "name": "aden-hive/hive",
+    "stars": 10895,
+    "updated_at": "2026-08-11T19:25:06Z",
+    "url": "https://github.com/aden-hive/hive"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 20,
+    "updated_at": "2026-08-11T19:23:40Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Spice-native terminal UI components and Bubble Tea integration for Spice Agent.",
+    "id": "spice-framework/spice-agent-tui",
+    "language": "Go",
+    "name": "spice-framework/spice-agent-tui",
+    "stars": 0,
+    "updated_at": "2026-08-11T19:24:37Z",
+    "url": "https://github.com/spice-framework/spice-agent-tui"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-08-11T19:19:29Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-11T19:19:20Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12733,
+    "updated_at": "2026-08-11T19:17:56Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "An always-on founder intelligence system.",
+    "id": "vinaykolupula/FounderOS",
+    "language": "\u2014",
+    "name": "vinaykolupula/FounderOS",
+    "stars": 0,
+    "updated_at": "2026-08-11T19:16:35Z",
+    "url": "https://github.com/vinaykolupula/FounderOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-11T19:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
@@ -18,40 +117,13 @@
     "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
-    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
-    "id": "bugsyhewitt/AlienClaw",
-    "language": "TypeScript",
-    "name": "bugsyhewitt/AlienClaw",
-    "stars": 7,
-    "updated_at": "2026-08-11T19:10:55Z",
-    "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
     "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
     "id": "mmeyerlein/meclaw",
     "language": "Rust",
     "name": "mmeyerlein/meclaw",
     "stars": 6,
-    "updated_at": "2026-08-11T19:10:23Z",
+    "updated_at": "2026-08-11T19:18:32Z",
     "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12733,
-    "updated_at": "2026-08-11T19:14:34Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-11T19:06:32Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
@@ -61,24 +133,6 @@
     "stars": 16,
     "updated_at": "2026-08-11T19:06:55Z",
     "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-11T19:11:54Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-11T19:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8559,
-    "updated_at": "2026-08-11T19:14:25Z",
+    "updated_at": "2026-08-11T19:18:10Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 477,
-    "updated_at": "2026-08-11T19:12:45Z",
+    "updated_at": "2026-08-11T19:15:30Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -158,7 +212,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6757,
-    "updated_at": "2026-08-11T18:47:49Z",
+    "updated_at": "2026-08-11T19:16:39Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 231,
-    "updated_at": "2026-08-11T18:44:28Z",
+    "updated_at": "2026-08-11T19:29:53Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -270,15 +324,6 @@
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 48,
-    "updated_at": "2026-08-11T19:06:07Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "Agents should not relearn workflows. Myelin turns repeated agent behavior into reusable procedures via MCP.",
     "id": "Niraven/myelin",
     "language": "Python",
@@ -338,7 +383,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19229,
-    "updated_at": "2026-08-11T18:36:51Z",
+    "updated_at": "2026-08-11T19:15:48Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-11T17:46:30Z",
     "url": "https://github.com/ryanbbrown/thinharness"
-  },
-  {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 2,
-    "updated_at": "2026-08-11T17:27:45Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Go",
-    "name": "shaharia-lab/agento",
-    "stars": 25,
-    "updated_at": "2026-08-11T18:41:38Z",
-    "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
-    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
-    "id": "rhein1/agoragentic-integrations",
-    "language": "JavaScript",
-    "name": "rhein1/agoragentic-integrations",
-    "stars": 28,
-    "updated_at": "2026-08-11T18:10:09Z",
-    "url": "https://github.com/rhein1/agoragentic-integrations"
-  },
-  {
-    "description": "Make AI actually work for you \u2014 a personal AI harness that writes and repairs its own tools, and lets Claude Code and Co",
-    "id": "agenvoy/Agenvoy",
-    "language": "Go",
-    "name": "agenvoy/Agenvoy",
-    "stars": 380,
-    "updated_at": "2026-08-11T17:26:01Z",
-    "url": "https://github.com/agenvoy/Agenvoy"
-  },
-  {
-    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
-    "id": "streamcoreai/streamcore-server",
-    "language": "Go",
-    "name": "streamcoreai/streamcore-server",
-    "stars": 147,
-    "updated_at": "2026-08-11T17:24:52Z",
-    "url": "https://github.com/streamcoreai/streamcore-server"
   }
 ]
