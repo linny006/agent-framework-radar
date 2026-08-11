@@ -1,12 +1,48 @@
 [
   {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 36,
+    "updated_at": "2026-08-11T06:28:57Z",
+    "url": "https://github.com/Marssssss/OneAI"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
     "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4849,
-    "updated_at": "2026-08-11T06:14:42Z",
-    "url": "https://github.com/ag2ai/ag2"
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-11T06:29:46Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 10,
+    "updated_at": "2026-08-11T06:25:47Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "Agents for Role Play. Agents for Game. Agents as a Game. An orchestrator-agents engine for living worlds \u2014 file-backed, ",
+    "id": "LudicDynamics/WorldLines",
+    "language": "TypeScript",
+    "name": "LudicDynamics/WorldLines",
+    "stars": 59,
+    "updated_at": "2026-08-11T06:25:16Z",
+    "url": "https://github.com/LudicDynamics/WorldLines"
+  },
+  {
+    "description": "Anthropomorphic AI Character Engine: a standardized agent template based on the SPL audit engine for fast, consistent AI",
+    "id": "nohn3043-arch/Anthropomorphic-Agent-Engine",
+    "language": "TypeScript",
+    "name": "nohn3043-arch/Anthropomorphic-Agent-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-11T06:24:43Z",
+    "url": "https://github.com/nohn3043-arch/Anthropomorphic-Agent-Engine"
   },
   {
     "description": "\u4e00\u4e2a\u4ece\u96f6\u5b9e\u73b0\u7684 AI Agent \u6846\u67b6\u2014\u2014\u8bfb\u5f97\u61c2\u6e90\u7801\u7684 ReAct \u5faa\u73af\u3001\u56e2\u961f\u534f\u4f5c\u4e0e\u5f02\u6b65\u8def\u7531\u3002\u57fa\u4e8e\u667a\u8c31 GLM\uff0c\u542b 9 \u7ae0\u6559\u7a0b\u3002",
@@ -14,8 +50,44 @@
     "language": "Python",
     "name": "zhouchunyuan-cn/PyAgentKit",
     "stars": 10,
-    "updated_at": "2026-08-11T06:13:26Z",
+    "updated_at": "2026-08-11T06:24:07Z",
     "url": "https://github.com/zhouchunyuan-cn/PyAgentKit"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6754,
+    "updated_at": "2026-08-11T06:19:19Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-11T06:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 30,
+    "updated_at": "2026-08-11T06:15:15Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4849,
+    "updated_at": "2026-08-11T06:14:42Z",
+    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
@@ -49,7 +121,7 @@
     "id": "CodeSoul-co/Hypha",
     "language": "TypeScript",
     "name": "CodeSoul-co/Hypha",
-    "stars": 118,
+    "stars": 120,
     "updated_at": "2026-08-11T06:10:16Z",
     "url": "https://github.com/CodeSoul-co/Hypha"
   },
@@ -61,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T06:09:30Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-11T06:09:51Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-11T06:07:29Z",
+    "updated_at": "2026-08-11T06:18:27Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -94,8 +157,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33806,
-    "updated_at": "2026-08-11T06:03:53Z",
+    "stars": 33807,
+    "updated_at": "2026-08-11T06:18:49Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -121,7 +184,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8500,
+    "stars": 8501,
     "updated_at": "2026-08-11T06:00:56Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -142,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T06:00:27Z",
     "url": "https://github.com/Dvine6263/wigolo"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-11T06:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
@@ -178,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T05:55:23Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6754,
-    "updated_at": "2026-08-11T05:54:08Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -248,7 +293,7 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 442,
-    "updated_at": "2026-08-11T05:52:04Z",
+    "updated_at": "2026-08-11T06:28:03Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -328,7 +373,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19209,
+    "stars": 19211,
     "updated_at": "2026-08-11T05:46:07Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-11T05:43:20Z",
     "url": "https://github.com/InitialDBklyn/consolidation-memory"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1701,
-    "updated_at": "2026-08-11T05:42:30Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
-    "id": "tareksyria/SREAgents",
-    "language": "JavaScript",
-    "name": "tareksyria/SREAgents",
-    "stars": 1,
-    "updated_at": "2026-08-11T05:40:57Z",
-    "url": "https://github.com/tareksyria/SREAgents"
-  },
-  {
-    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
-    "id": "RONIN511/alphora",
-    "language": "Python",
-    "name": "RONIN511/alphora",
-    "stars": 2,
-    "updated_at": "2026-08-11T05:39:44Z",
-    "url": "https://github.com/RONIN511/alphora"
-  },
-  {
-    "description": "OpenAI Responses provider extension for Spice Agent.",
-    "id": "spice-framework/spice-agent-provider-openai",
-    "language": "Go",
-    "name": "spice-framework/spice-agent-provider-openai",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:39:12Z",
-    "url": "https://github.com/spice-framework/spice-agent-provider-openai"
-  },
-  {
-    "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
-    "id": "the-long-ride/engram",
-    "language": "TypeScript",
-    "name": "the-long-ride/engram",
-    "stars": 5,
-    "updated_at": "2026-08-11T05:38:52Z",
-    "url": "https://github.com/the-long-ride/engram"
   }
 ]
