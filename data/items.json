@@ -1,12 +1,102 @@
 [
   {
+    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
+    "id": "truvaagents/truva-g3",
+    "language": "Go",
+    "name": "truvaagents/truva-g3",
+    "stars": 13,
+    "updated_at": "2026-08-11T16:14:43Z",
+    "url": "https://github.com/truvaagents/truva-g3"
+  },
+  {
+    "description": "Open-source, extensible, security-aware AI agent framework with Skills, Plugins, and restricted tool execution.",
+    "id": "wanhaoli376-lab/AgentForge",
+    "language": "Python",
+    "name": "wanhaoli376-lab/AgentForge",
+    "stars": 0,
+    "updated_at": "2026-08-11T16:15:22Z",
+    "url": "https://github.com/wanhaoli376-lab/AgentForge"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-11T16:00:04Z",
+    "updated_at": "2026-08-11T16:14:01Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6882,
+    "updated_at": "2026-08-11T16:11:09Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
+    "id": "pereirawe/opencode-flow",
+    "language": "Shell",
+    "name": "pereirawe/opencode-flow",
+    "stars": 2,
+    "updated_at": "2026-08-11T16:08:01Z",
+    "url": "https://github.com/pereirawe/opencode-flow"
+  },
+  {
+    "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 345,
+    "updated_at": "2026-08-11T16:02:30Z",
+    "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-08-11T16:04:34Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-11T16:01:20Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
+    "id": "agents-universe/agents-universe",
+    "language": "Python",
+    "name": "agents-universe/agents-universe",
+    "stars": 33,
+    "updated_at": "2026-08-11T16:00:40Z",
+    "url": "https://github.com/agents-universe/agents-universe"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-11T16:00:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
+    "id": "Zchary1106/Myrmecia",
+    "language": "TypeScript",
+    "name": "Zchary1106/Myrmecia",
+    "stars": 2,
+    "updated_at": "2026-08-11T16:00:08Z",
+    "url": "https://github.com/Zchary1106/Myrmecia"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -36,15 +126,6 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-08-11T15:56:36Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
     "description": "Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability,",
     "id": "linora-u/AgentLoom",
     "language": "Python",
@@ -61,15 +142,6 @@
     "stars": 153,
     "updated_at": "2026-08-11T15:56:15Z",
     "url": "https://github.com/xyaz1313/phoenix"
-  },
-  {
-    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
-    "id": "truvaagents/truva-g3",
-    "language": "Go",
-    "name": "truvaagents/truva-g3",
-    "stars": 13,
-    "updated_at": "2026-08-11T15:58:49Z",
-    "url": "https://github.com/truvaagents/truva-g3"
   },
   {
     "description": "",
@@ -99,20 +171,11 @@
     "url": "https://github.com/beilusaiying/always-accompany"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-11T15:53:36Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33932,
+    "stars": 33933,
     "updated_at": "2026-08-11T15:52:17Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -130,18 +193,18 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46851,
+    "stars": 46852,
     "updated_at": "2026-08-11T15:52:03Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
-    "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 345,
-    "updated_at": "2026-08-11T15:50:57Z",
-    "url": "https://github.com/shibing624/agentica"
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6758,
+    "updated_at": "2026-08-11T15:49:16Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "A multi-agent & multi-harness AI agent management and orchestration system",
@@ -220,7 +283,7 @@
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 14942,
+    "stars": 14941,
     "updated_at": "2026-08-11T15:39:18Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
@@ -232,15 +295,6 @@
     "stars": 1711,
     "updated_at": "2026-08-11T15:38:59Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
-    "id": "agents-universe/agents-universe",
-    "language": "Python",
-    "name": "agents-universe/agents-universe",
-    "stars": 33,
-    "updated_at": "2026-08-11T15:38:51Z",
-    "url": "https://github.com/agents-universe/agents-universe"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -329,7 +383,7 @@
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 2,
-    "updated_at": "2026-08-11T15:43:03Z",
+    "updated_at": "2026-08-11T16:07:04Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-11T14:56:01Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
     "id": "AgentsKit-io/agentskit",
     "language": "TypeScript",
@@ -396,15 +441,6 @@
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6882,
-    "updated_at": "2026-08-11T15:14:45Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-11T14:52:47Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 119,
-    "updated_at": "2026-08-11T14:52:22Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 28,
-    "updated_at": "2026-08-11T14:50:44Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "",
-    "id": "EIA2024/AI-Agent-Harness",
-    "language": "Python",
-    "name": "EIA2024/AI-Agent-Harness",
-    "stars": 0,
-    "updated_at": "2026-08-11T14:50:28Z",
-    "url": "https://github.com/EIA2024/AI-Agent-Harness"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 386,
-    "updated_at": "2026-08-11T14:46:49Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   }
 ]
