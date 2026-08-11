@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-11T08:43:31Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 387,
+    "updated_at": "2026-08-11T08:37:40Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Build an agent in minutes. Add production controls when you need them.",
+    "id": "ameenmari/agentprodready",
+    "language": "TypeScript",
+    "name": "ameenmari/agentprodready",
+    "stars": 2,
+    "updated_at": "2026-08-11T08:36:39Z",
+    "url": "https://github.com/ameenmari/agentprodready"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-08-11T08:35:46Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-11T08:33:13Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 291,
+    "updated_at": "2026-08-11T08:33:00Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 442,
+    "updated_at": "2026-08-11T08:31:25Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "Ontology-centered financial research and operations platform that unifies market, fundamental, portfolio, and risk data;",
+    "id": "Moonweave-AI/axiolune",
+    "language": "C#",
+    "name": "Moonweave-AI/axiolune",
+    "stars": 0,
+    "updated_at": "2026-08-11T08:30:55Z",
+    "url": "https://github.com/Moonweave-AI/axiolune"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-11T08:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
@@ -18,31 +99,13 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 387,
-    "updated_at": "2026-08-11T08:25:38Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "Multi-agent orchestration framework \u2014 design AI teams in YAML, route tasks to cheap or expensive models by role",
     "id": "ErfanMomeniii/openswarm",
     "language": "Python",
     "name": "ErfanMomeniii/openswarm",
     "stars": 2,
-    "updated_at": "2026-08-11T08:23:42Z",
+    "updated_at": "2026-08-11T08:32:56Z",
     "url": "https://github.com/ErfanMomeniii/openswarm"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-11T08:28:50Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -63,15 +126,6 @@
     "url": "https://github.com/ZenHG/opencode-moa"
   },
   {
-    "description": "Ontology-centered financial research and operations platform that unifies market, fundamental, portfolio, and risk data;",
-    "id": "Moonweave-AI/axiolune",
-    "language": "C#",
-    "name": "Moonweave-AI/axiolune",
-    "stars": 0,
-    "updated_at": "2026-08-11T08:21:02Z",
-    "url": "https://github.com/Moonweave-AI/axiolune"
-  },
-  {
     "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
     "id": "shibing624/agentica",
     "language": "Python",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26173,
-    "updated_at": "2026-08-11T08:21:26Z",
+    "updated_at": "2026-08-11T08:39:29Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -95,17 +149,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-11T08:26:57Z",
+    "updated_at": "2026-08-11T08:35:43Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-11T08:15:42Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-11T08:26:38Z",
+    "updated_at": "2026-08-11T08:40:00Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -166,7 +211,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33843,
+    "stars": 33846,
     "updated_at": "2026-08-11T08:07:17Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -175,7 +220,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46837,
+    "stars": 46835,
     "updated_at": "2026-08-11T08:05:11Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -270,24 +315,6 @@
     "url": "https://github.com/relayax/relayagent"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-08-11T07:36:13Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-11T07:34:41Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
     "id": "yanacuti1121/Yana-AI",
     "language": "Python",
@@ -295,6 +322,15 @@
     "stars": 1,
     "updated_at": "2026-08-11T08:13:40Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4850,
+    "updated_at": "2026-08-11T07:31:31Z",
+    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
@@ -382,7 +418,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19216,
+    "stars": 19217,
     "updated_at": "2026-08-11T06:53:38Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -396,20 +432,11 @@
     "url": "https://github.com/spice-framework/spice-agent-coding"
   },
   {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 442,
-    "updated_at": "2026-08-11T08:27:13Z",
-    "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
     "description": "Harness-oriented agent system framework for production-grade LLM agent applications",
     "id": "CodeSoul-co/Hypha",
     "language": "TypeScript",
     "name": "CodeSoul-co/Hypha",
-    "stars": 137,
+    "stars": 138,
     "updated_at": "2026-08-11T06:49:46Z",
     "url": "https://github.com/CodeSoul-co/Hypha"
   },
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-11T06:44:48Z",
     "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
-    "id": "substructureai/substructure",
-    "language": "Rust",
-    "name": "substructureai/substructure",
-    "stars": 5,
-    "updated_at": "2026-08-11T06:40:34Z",
-    "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "\u4e00\u4e2a\u8f7b\u91cf\u7ea7agent harness\u6846\u67b6\uff0c\u7528\u4e8e\u5b66\u4e60\u4e0e\u5b9e\u8df5\u4e2a\u4ebaagent\u52a9\u624b\u67b6\u6784\u8bbe\u8ba1\uff0c\u57fa\u4e8eReAct\u67b6\u6784\uff0c\u7531\u4e2d\u95f4\u8def\u7531\u5c42\u8fde\u63a5\u5ba2\u6237\u7aef\u4e0e\u5e95\u5c42\u7ec4\u4ef6\uff0c\u5b9e\u73b0\u4e86\u591a\u6a21\u578b\u9002\u914d\u3001\u591a\u5e73\u53f0\u9002\u914d\u548c\u4f1a\u8bdd\u7ba1\u7406\u3002",
-    "id": "aandbcct/dotClaw",
-    "language": "Python",
-    "name": "aandbcct/dotClaw",
-    "stars": 9,
-    "updated_at": "2026-08-11T06:51:11Z",
-    "url": "https://github.com/aandbcct/dotClaw"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 5003,
-    "updated_at": "2026-08-11T06:35:23Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
   }
 ]
