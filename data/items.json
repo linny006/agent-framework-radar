@@ -1,5 +1,68 @@
 [
   {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 51,
+    "updated_at": "2026-08-11T12:26:52Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Productized LLM Wiki pattern + typed pack registry + proposal-only governance \u2014 UNESCO Memory of the World Triple Anchor",
+    "id": "sillok-os/sillok",
+    "language": "Python",
+    "name": "sillok-os/sillok",
+    "stars": 4,
+    "updated_at": "2026-08-11T12:24:16Z",
+    "url": "https://github.com/sillok-os/sillok"
+  },
+  {
+    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
+    "id": "pereirawe/opencode-flow",
+    "language": "Shell",
+    "name": "pereirawe/opencode-flow",
+    "stars": 2,
+    "updated_at": "2026-08-11T12:22:23Z",
+    "url": "https://github.com/pereirawe/opencode-flow"
+  },
+  {
+    "description": "An LLM wiki for SDLC agentic frameworks",
+    "id": "pmackay/sdlc-wiki",
+    "language": "\u2014",
+    "name": "pmackay/sdlc-wiki",
+    "stars": 1,
+    "updated_at": "2026-08-11T12:20:28Z",
+    "url": "https://github.com/pmackay/sdlc-wiki"
+  },
+  {
+    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
+    "id": "SammyTourani/evestack",
+    "language": "JavaScript",
+    "name": "SammyTourani/evestack",
+    "stars": 1,
+    "updated_at": "2026-08-11T12:19:58Z",
+    "url": "https://github.com/SammyTourani/evestack"
+  },
+  {
+    "description": "Anthropomorphic AI Character Engine: a standardized agent template based on the SPL audit engine for fast, consistent AI",
+    "id": "nohn3043-arch/Anthropomorphic-Agent-Engine",
+    "language": "Python",
+    "name": "nohn3043-arch/Anthropomorphic-Agent-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-11T12:18:19Z",
+    "url": "https://github.com/nohn3043-arch/Anthropomorphic-Agent-Engine"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-11T12:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
     "id": "Marssssss/OneAI",
     "language": "Rust",
@@ -36,15 +99,6 @@
     "url": "https://github.com/weed33834/AgentSeed"
   },
   {
-    "description": "An LLM wiki for SDLC agentic frameworks",
-    "id": "pmackay/sdlc-wiki",
-    "language": "\u2014",
-    "name": "pmackay/sdlc-wiki",
-    "stars": 1,
-    "updated_at": "2026-08-11T12:12:15Z",
-    "url": "https://github.com/pmackay/sdlc-wiki"
-  },
-  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -72,15 +126,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 51,
-    "updated_at": "2026-08-11T12:14:53Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
     "id": "mmeyerlein/meclaw",
     "language": "Rust",
@@ -103,7 +148,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33884,
+    "stars": 33889,
     "updated_at": "2026-08-11T12:07:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -140,7 +185,7 @@
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 2,
-    "updated_at": "2026-08-11T12:04:50Z",
+    "updated_at": "2026-08-11T12:16:56Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -153,31 +198,13 @@
     "url": "https://github.com/osovv/vv-opencode"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-11T12:00:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
     "id": "deepset-ai/haystack",
     "language": "Python",
     "name": "deepset-ai/haystack",
-    "stars": 26173,
+    "stars": 26174,
     "updated_at": "2026-08-11T11:59:51Z",
     "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "Anthropomorphic AI Character Engine: a standardized agent template based on the SPL audit engine for fast, consistent AI",
-    "id": "nohn3043-arch/Anthropomorphic-Agent-Engine",
-    "language": "Python",
-    "name": "nohn3043-arch/Anthropomorphic-Agent-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-11T11:54:22Z",
-    "url": "https://github.com/nohn3043-arch/Anthropomorphic-Agent-Engine"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-11T11:48:15Z",
+    "updated_at": "2026-08-11T12:24:12Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 12729,
     "updated_at": "2026-08-11T10:45:54Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-08-11T10:43:00Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "A verified runtime for trustworthy AI agents: every claim passes an 8-layer verification pipeline before it counts. Dete",
-    "id": "fabio-rovai/tardygrada",
-    "language": "C",
-    "name": "fabio-rovai/tardygrada",
-    "stars": 20,
-    "updated_at": "2026-08-11T10:40:38Z",
-    "url": "https://github.com/fabio-rovai/tardygrada"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1292,
-    "updated_at": "2026-08-11T10:38:54Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   }
 ]
