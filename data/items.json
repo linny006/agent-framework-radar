@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-11T00:12:45Z",
+    "updated_at": "2026-08-11T00:30:12Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-11T00:29:39Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
+    "id": "Gald3r-Labs/gald3r",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r",
+    "stars": 23,
+    "updated_at": "2026-08-11T00:28:27Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,8 +32,35 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-11T00:11:20Z",
+    "updated_at": "2026-08-11T00:28:19Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 5,
+    "updated_at": "2026-08-11T00:27:40Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1702,
+    "updated_at": "2026-08-11T00:27:10Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Multi-Agent Harness for Production AI",
+    "id": "aden-hive/hive",
+    "language": "Python",
+    "name": "aden-hive/hive",
+    "stars": 10892,
+    "updated_at": "2026-08-11T00:23:51Z",
+    "url": "https://github.com/aden-hive/hive"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -23,8 +68,26 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 18,
-    "updated_at": "2026-08-11T00:10:08Z",
+    "updated_at": "2026-08-11T00:25:40Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
+    "id": "Thepizzapie/BuildersGate",
+    "language": "Python",
+    "name": "Thepizzapie/BuildersGate",
+    "stars": 18,
+    "updated_at": "2026-08-11T00:16:46Z",
+    "url": "https://github.com/Thepizzapie/BuildersGate"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-11T00:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8493,
-    "updated_at": "2026-08-11T00:08:14Z",
+    "updated_at": "2026-08-11T00:19:10Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19198,
-    "updated_at": "2026-08-11T00:02:02Z",
+    "updated_at": "2026-08-11T00:27:30Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -61,24 +124,6 @@
     "stars": 12,
     "updated_at": "2026-08-11T00:00:25Z",
     "url": "https://github.com/we-are-singular/aml"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-11T00:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1702,
-    "updated_at": "2026-08-11T00:11:46Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -225,15 +270,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 5,
-    "updated_at": "2026-08-10T23:20:55Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
     "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
     "id": "Sheep1433/Noesis",
     "language": "Python",
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-08-11T00:05:28Z",
+    "updated_at": "2026-08-11T00:28:46Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-10T22:56:10Z",
     "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-08-10T22:55:38Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and manage AI agents within git repositories using a Rust-based, dependency-free framework that version-controls a",
-    "id": "yeab405/rusty-gitclaw",
-    "language": "Rust",
-    "name": "yeab405/rusty-gitclaw",
-    "stars": 1,
-    "updated_at": "2026-08-10T22:52:52Z",
-    "url": "https://github.com/yeab405/rusty-gitclaw"
-  },
-  {
-    "description": "Provide a customizable AI assistant on Telegram with multiple tools, skills, and monitors that runs locally using hybrid",
-    "id": "Rayan55050/progressive-agent",
-    "language": "Python",
-    "name": "Rayan55050/progressive-agent",
-    "stars": 2,
-    "updated_at": "2026-08-10T22:51:58Z",
-    "url": "https://github.com/Rayan55050/progressive-agent"
-  },
-  {
-    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
-    "id": "Unknown384-come/agent-runner",
-    "language": "Go",
-    "name": "Unknown384-come/agent-runner",
-    "stars": 0,
-    "updated_at": "2026-08-10T22:51:29Z",
-    "url": "https://github.com/Unknown384-come/agent-runner"
   }
 ]
