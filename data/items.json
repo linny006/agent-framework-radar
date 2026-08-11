@@ -1,5 +1,113 @@
 [
   {
+    "description": "Build an agent in minutes. Add production controls when you need them.",
+    "id": "ameenmari/agentprodready",
+    "language": "TypeScript",
+    "name": "ameenmari/agentprodready",
+    "stars": 2,
+    "updated_at": "2026-08-11T09:45:17Z",
+    "url": "https://github.com/ameenmari/agentprodready"
+  },
+  {
+    "description": "Ontology-centered financial research and operations platform that unifies market, fundamental, portfolio, and risk data;",
+    "id": "Moonweave-AI/axiolune",
+    "language": "C#",
+    "name": "Moonweave-AI/axiolune",
+    "stars": 0,
+    "updated_at": "2026-08-11T09:42:58Z",
+    "url": "https://github.com/Moonweave-AI/axiolune"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 33863,
+    "updated_at": "2026-08-11T09:45:21Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-11T09:45:11Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1704,
+    "updated_at": "2026-08-11T09:39:54Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-08-11T09:39:21Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-11T09:45:05Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 22 crates, CLI/TUI/HTTP API, agentic tool loop + graph retrieval +",
+    "id": "W117C/DeepseekNova",
+    "language": "Rust",
+    "name": "W117C/DeepseekNova",
+    "stars": 3,
+    "updated_at": "2026-08-11T09:38:23Z",
+    "url": "https://github.com/W117C/DeepseekNova"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-11T09:45:13Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-11T09:35:01Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-11T09:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 247,
+    "updated_at": "2026-08-11T09:30:11Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
     "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
     "id": "substructureai/substructure",
     "language": "Rust",
@@ -9,15 +117,6 @@
     "url": "https://github.com/substructureai/substructure"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-11T09:29:49Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
     "id": "firatcand/roster",
     "language": "TypeScript",
@@ -25,33 +124,6 @@
     "stars": 17,
     "updated_at": "2026-08-11T09:25:37Z",
     "url": "https://github.com/firatcand/roster"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33859,
-    "updated_at": "2026-08-11T09:28:35Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Ontology-centered financial research and operations platform that unifies market, fundamental, portfolio, and risk data;",
-    "id": "Moonweave-AI/axiolune",
-    "language": "C#",
-    "name": "Moonweave-AI/axiolune",
-    "stars": 0,
-    "updated_at": "2026-08-11T09:21:54Z",
-    "url": "https://github.com/Moonweave-AI/axiolune"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-11T09:25:36Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Engram - file-system-based memory management system for AI agents that grows with you & your teams, across agents, proje",
@@ -79,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T09:16:43Z",
     "url": "https://github.com/ellmos-ai/ellmos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-11T09:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
@@ -189,24 +252,6 @@
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-11T09:04:02Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Build an agent in minutes. Add production controls when you need them.",
-    "id": "ameenmari/agentprodready",
-    "language": "TypeScript",
-    "name": "ameenmari/agentprodready",
-    "stars": 2,
-    "updated_at": "2026-08-11T08:56:31Z",
-    "url": "https://github.com/ameenmari/agentprodready"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -232,15 +277,6 @@
     "stars": 154,
     "updated_at": "2026-08-11T08:52:01Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1704,
-    "updated_at": "2026-08-11T08:52:00Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "A general-purpose multi-agent framework built on LangGraph. Features KV Cache-preserving summarization, long-term memory",
@@ -279,24 +315,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-08-11T08:35:46Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-11T08:33:13Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
     "id": "ucsandman/DashClaw",
     "language": "TypeScript",
@@ -322,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T08:32:56Z",
     "url": "https://github.com/ErfanMomeniii/openswarm"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 247,
-    "updated_at": "2026-08-11T09:30:11Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "22-agent Mixture-of-Agents pipeline with LongLoop for 24h autonomous iteration: smart routing sends easy tasks to Flash,",
@@ -391,7 +400,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4880,
+    "stars": 4881,
     "updated_at": "2026-08-11T08:04:28Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -439,14 +448,5 @@
     "stars": 14929,
     "updated_at": "2026-08-11T07:50:22Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Go",
-    "name": "shaharia-lab/agento",
-    "stars": 24,
-    "updated_at": "2026-08-11T07:47:07Z",
-    "url": "https://github.com/shaharia-lab/agento"
   }
 ]
