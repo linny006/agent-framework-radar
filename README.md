@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-08-11 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 2 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 387 | Python | 2026-08-11 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
-| 3 | [ameenmari/agentprodready](https://github.com/ameenmari/agentprodready) | 2 | TypeScript | 2026-08-11 | Build an agent in minutes. Add production controls when you need them. |
-| 4 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 3 | HTML | 2026-08-11 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 5 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-11 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 6 | [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) | 291 | TypeScript | 2026-08-11 | 🛡️ The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem |
-| 7 | [GizClaw/flowcraft](https://github.com/GizClaw/flowcraft) | 442 | Go | 2026-08-11 | Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice — runnable as a lib |
-| 8 | [Moonweave-AI/axiolune](https://github.com/Moonweave-AI/axiolune) | 0 | C# | 2026-08-11 | Ontology-centered financial research and operations platform that unifies market, fundamental, portfolio, and risk data; |
-| 9 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-11 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-11 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-08-11 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 3 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 387 | Python | 2026-08-11 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
+| 4 | [ameenmari/agentprodready](https://github.com/ameenmari/agentprodready) | 2 | TypeScript | 2026-08-11 | Build an agent in minutes. Add production controls when you need them. |
+| 5 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 3 | HTML | 2026-08-11 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 6 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-11 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 7 | [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) | 291 | TypeScript | 2026-08-11 | 🛡️ The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem |
+| 8 | [GizClaw/flowcraft](https://github.com/GizClaw/flowcraft) | 442 | Go | 2026-08-11 | Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice — runnable as a lib |
+| 9 | [Moonweave-AI/axiolune](https://github.com/Moonweave-AI/axiolune) | 0 | C# | 2026-08-11 | Ontology-centered financial research and operations platform that unifies market, fundamental, portfolio, and risk data; |
 | 10 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 120 | Shell | 2026-08-11 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
 | 11 | [manishiitg/coding-agent-loop](https://github.com/manishiitg/coding-agent-loop) | 10 | Go | 2026-08-11 | AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company. |
 | 12 | [ErfanMomeniii/openswarm](https://github.com/ErfanMomeniii/openswarm) | 2 | Python | 2026-08-11 | Multi-agent orchestration framework — design AI teams in YAML, route tasks to cheap or expensive models by role |

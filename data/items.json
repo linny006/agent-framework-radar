@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-11T08:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-11T08:43:31Z",
+    "updated_at": "2026-08-11T08:45:53Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T08:30:55Z",
     "url": "https://github.com/Moonweave-AI/axiolune"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-11T08:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -320,7 +320,7 @@
     "language": "Python",
     "name": "yanacuti1121/Yana-AI",
     "stars": 1,
-    "updated_at": "2026-08-11T08:13:40Z",
+    "updated_at": "2026-08-11T08:45:41Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
