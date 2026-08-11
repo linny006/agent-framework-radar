@@ -1,5 +1,122 @@
 [
   {
+    "description": "Record, replay, and improve AI agents in production, built on ZenML",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 231,
+    "updated_at": "2026-08-11T18:44:28Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-11T18:43:20Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:42:57Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-08-11T18:40:06Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
+    "id": "firatcand/roster",
+    "language": "TypeScript",
+    "name": "firatcand/roster",
+    "stars": 17,
+    "updated_at": "2026-08-11T18:38:31Z",
+    "url": "https://github.com/firatcand/roster"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-08-11T18:37:54Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "A sandboxed, full-featured agent operating system in a single Go binary. Bring any model, manage local models, point it ",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:40:19Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Agents for Role Play. Agents for Game. Agents as a Game. An orchestrator-agents engine for living worlds \u2014 file-backed, ",
+    "id": "LudicDynamics/WorldLines",
+    "language": "TypeScript",
+    "name": "LudicDynamics/WorldLines",
+    "stars": 60,
+    "updated_at": "2026-08-11T18:35:06Z",
+    "url": "https://github.com/LudicDynamics/WorldLines"
+  },
+  {
+    "description": "Autonomous open-source contribution agent for Claude Code & Codex. A multi-agent harness that picks an issue, writes the",
+    "id": "gaurav0107/superhuman",
+    "language": "Shell",
+    "name": "gaurav0107/superhuman",
+    "stars": 4,
+    "updated_at": "2026-08-11T18:34:57Z",
+    "url": "https://github.com/gaurav0107/superhuman"
+  },
+  {
+    "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 6,
+    "updated_at": "2026-08-11T18:32:56Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8556,
+    "updated_at": "2026-08-11T18:31:16Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-08-11T18:30:32Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-11T18:30:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -16,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T18:24:15Z",
     "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
-    "id": "bugsyhewitt/AlienClaw",
-    "language": "TypeScript",
-    "name": "bugsyhewitt/AlienClaw",
-    "stars": 7,
-    "updated_at": "2026-08-11T18:22:59Z",
-    "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -54,15 +162,6 @@
     "url": "https://github.com/achappey/aihappey-chat"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-11T18:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
@@ -81,21 +180,12 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 6,
-    "updated_at": "2026-08-11T18:12:10Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-11T18:12:08Z",
+    "updated_at": "2026-08-11T18:37:41Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -122,7 +212,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19229,
-    "updated_at": "2026-08-11T18:05:15Z",
+    "updated_at": "2026-08-11T18:36:51Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -144,20 +234,11 @@
     "url": "https://github.com/brunogcar/agent"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8551,
-    "updated_at": "2026-08-11T17:59:35Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
     "name": "israriqbal/agent-ecologies",
-    "stars": 155,
+    "stars": 156,
     "updated_at": "2026-08-11T17:59:00Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
@@ -194,7 +275,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 33941,
-    "updated_at": "2026-08-11T18:15:56Z",
+    "updated_at": "2026-08-11T18:42:10Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -225,15 +306,6 @@
     "url": "https://github.com/ucsandman/DashClaw"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-11T17:46:38Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "A minimal, opinionated agent harness \u2014 focused scope, straightforward code, easy to fork",
     "id": "ryanbbrown/thinharness",
     "language": "Python",
@@ -241,24 +313,6 @@
     "stars": 10,
     "updated_at": "2026-08-11T17:46:30Z",
     "url": "https://github.com/ryanbbrown/thinharness"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-11T17:46:25Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-08-11T17:41:29Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -284,7 +338,7 @@
     "language": "Go",
     "name": "shaharia-lab/agento",
     "stars": 25,
-    "updated_at": "2026-08-11T17:27:07Z",
+    "updated_at": "2026-08-11T18:41:38Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -301,7 +355,7 @@
     "id": "agenvoy/Agenvoy",
     "language": "Go",
     "name": "agenvoy/Agenvoy",
-    "stars": 379,
+    "stars": 380,
     "updated_at": "2026-08-11T17:26:01Z",
     "url": "https://github.com/agenvoy/Agenvoy"
   },
@@ -360,15 +414,6 @@
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
-    "description": "Record, replay, and improve AI agents in production, built on ZenML",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 231,
-    "updated_at": "2026-08-11T17:54:43Z",
-    "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
     "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
     "id": "agents-universe/agents-universe",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T16:50:45Z",
     "url": "https://github.com/ssevera1/Agent-Builder"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 123,
-    "updated_at": "2026-08-11T16:50:00Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "The agent framework where every run is durable, replayable, and resumable by default.",
-    "id": "ThousandBirdsInc/chidori",
-    "language": "Rust",
-    "name": "ThousandBirdsInc/chidori",
-    "stars": 1362,
-    "updated_at": "2026-08-11T16:43:23Z",
-    "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
-    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
-    "id": "we-are-singular/aml",
-    "language": "TypeScript",
-    "name": "we-are-singular/aml",
-    "stars": 12,
-    "updated_at": "2026-08-11T16:35:17Z",
-    "url": "https://github.com/we-are-singular/aml"
-  },
-  {
-    "description": "A sandboxed, full-featured agent operating system in a single Go binary. Bring any model, manage local models, point it ",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 2,
-    "updated_at": "2026-08-11T16:34:22Z",
-    "url": "https://github.com/ionalpha/flynn"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26177,
-    "updated_at": "2026-08-11T16:26:10Z",
-    "url": "https://github.com/deepset-ai/haystack"
   }
 ]
