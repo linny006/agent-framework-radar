@@ -1,30 +1,48 @@
 [
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-11T02:14:17Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8496,
-    "updated_at": "2026-08-11T02:14:16Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
     "name": "ggui-ai/ggui",
     "stars": 38,
-    "updated_at": "2026-08-11T02:13:23Z",
+    "updated_at": "2026-08-11T02:29:44Z",
     "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-11T02:29:48Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
+    "id": "clawboo/clawboo",
+    "language": "TypeScript",
+    "name": "clawboo/clawboo",
+    "stars": 58,
+    "updated_at": "2026-08-11T02:29:23Z",
+    "url": "https://github.com/clawboo/clawboo"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-11T02:25:20Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 291,
+    "updated_at": "2026-08-11T02:25:27Z",
+    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -32,8 +50,71 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 76,
-    "updated_at": "2026-08-11T02:12:04Z",
+    "updated_at": "2026-08-11T02:24:19Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8497,
+    "updated_at": "2026-08-11T02:24:16Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 405,
+    "updated_at": "2026-08-11T02:23:17Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "The AI Agent framework for enterprises and agencies",
+    "id": "frogbotai/frogbot",
+    "language": "TypeScript",
+    "name": "frogbotai/frogbot",
+    "stars": 3,
+    "updated_at": "2026-08-11T02:23:19Z",
+    "url": "https://github.com/frogbotai/frogbot"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 442,
+    "updated_at": "2026-08-11T02:21:22Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-08-11T02:19:37Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19202,
+    "updated_at": "2026-08-11T02:29:29Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-11T02:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -45,30 +126,12 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-11T02:12:05Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 405,
-    "updated_at": "2026-08-11T02:08:47Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-11T02:03:34Z",
+    "updated_at": "2026-08-11T02:21:58Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -99,24 +162,6 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19201,
-    "updated_at": "2026-08-11T02:09:03Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-11T02:00:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -144,22 +189,22 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6872,
+    "updated_at": "2026-08-11T01:55:46Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33748,
+    "stars": 33753,
     "updated_at": "2026-08-11T01:46:11Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 291,
-    "updated_at": "2026-08-11T01:45:01Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -252,15 +297,6 @@
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
-    "description": "The AI Agent framework for enterprises and agencies",
-    "id": "frogbotai/frogbot",
-    "language": "TypeScript",
-    "name": "frogbotai/frogbot",
-    "stars": 3,
-    "updated_at": "2026-08-11T01:21:04Z",
-    "url": "https://github.com/frogbotai/frogbot"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -311,7 +347,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-11T02:10:18Z",
+    "updated_at": "2026-08-11T02:29:28Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 10892,
     "updated_at": "2026-08-11T00:23:51Z",
     "url": "https://github.com/aden-hive/hive"
-  },
-  {
-    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
-    "id": "Thepizzapie/BuildersGate",
-    "language": "Python",
-    "name": "Thepizzapie/BuildersGate",
-    "stars": 18,
-    "updated_at": "2026-08-11T00:16:46Z",
-    "url": "https://github.com/Thepizzapie/BuildersGate"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-08-10T23:57:55Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 2,
-    "updated_at": "2026-08-10T23:38:52Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
-    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
-    "id": "rameswaran-mohan/project-systemu",
-    "language": "Python",
-    "name": "rameswaran-mohan/project-systemu",
-    "stars": 2,
-    "updated_at": "2026-08-10T23:33:46Z",
-    "url": "https://github.com/rameswaran-mohan/project-systemu"
   }
 ]
