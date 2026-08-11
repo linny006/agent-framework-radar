@@ -1,11 +1,137 @@
 [
   {
+    "description": "The Operating System for AI Workers \u2014 build, deploy, and manage AI agents with 5 lines of code.",
+    "id": "behappybin88-lab/agentos",
+    "language": "Python",
+    "name": "behappybin88-lab/agentos",
+    "stars": 0,
+    "updated_at": "2026-08-11T14:59:54Z",
+    "url": "https://github.com/behappybin88-lab/agentos"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-11T14:56:01Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Make AI actually work for you \u2014 a personal AI harness that writes and repairs its own tools, and lets Claude Code and Co",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 378,
+    "updated_at": "2026-08-11T14:58:56Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
+    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
+    "id": "truvaagents/truva-g3",
+    "language": "Go",
+    "name": "truvaagents/truva-g3",
+    "stars": 13,
+    "updated_at": "2026-08-11T14:54:57Z",
+    "url": "https://github.com/truvaagents/truva-g3"
+  },
+  {
+    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 1,
+    "updated_at": "2026-08-11T14:54:43Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 19,
+    "updated_at": "2026-08-11T14:55:01Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Turn the way you work with AI into a reusable asset \u00b7 \u628a\u4f60\u7684 AI \u5de5\u4f5c\u65b9\u5f0f\uff0c\u6c89\u6dc0\u6210\u53ef\u4ee5\u590d\u7528\u7684\u8d44\u4ea7\u3002",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 48,
+    "updated_at": "2026-08-11T14:53:45Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6882,
+    "updated_at": "2026-08-11T14:53:40Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
+    "id": "streamcoreai/streamcore-server",
+    "language": "Go",
+    "name": "streamcoreai/streamcore-server",
+    "stars": 147,
+    "updated_at": "2026-08-11T14:59:24Z",
+    "url": "https://github.com/streamcoreai/streamcore-server"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 10,
+    "updated_at": "2026-08-11T14:52:47Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 118,
+    "updated_at": "2026-08-11T14:52:22Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-11T14:51:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 28,
+    "updated_at": "2026-08-11T14:50:44Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "",
+    "id": "EIA2024/AI-Agent-Harness",
+    "language": "Python",
+    "name": "EIA2024/AI-Agent-Harness",
+    "stars": 0,
+    "updated_at": "2026-08-11T14:50:28Z",
+    "url": "https://github.com/EIA2024/AI-Agent-Harness"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-11T14:47:08Z",
+    "updated_at": "2026-08-11T14:59:53Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -45,24 +171,6 @@
     "url": "https://github.com/enthrium/open-enthrium-ai-platform"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-11T14:45:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 1,
-    "updated_at": "2026-08-11T14:44:38Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
@@ -97,15 +205,6 @@
     "stars": 4,
     "updated_at": "2026-08-11T14:42:47Z",
     "url": "https://github.com/plmbr/nui"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6882,
-    "updated_at": "2026-08-11T14:42:19Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Empower OpenClaw, Hermes, Nanobot and other agent frameworks with advanced Claude CLI session management via MCP for sup",
@@ -149,7 +248,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 30,
-    "updated_at": "2026-08-11T14:38:34Z",
+    "updated_at": "2026-08-11T14:59:26Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -169,15 +268,6 @@
     "stars": 6,
     "updated_at": "2026-08-11T14:35:20Z",
     "url": "https://github.com/openconcerto/jOpenAgent"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 19,
-    "updated_at": "2026-08-11T14:41:12Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
@@ -216,15 +306,6 @@
     "url": "https://github.com/Dikhun/Arctus.ai"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 10,
-    "updated_at": "2026-08-11T14:25:00Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
     "id": "xuiltul/animaworks",
     "language": "Python",
@@ -248,7 +329,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26176,
-    "updated_at": "2026-08-11T14:23:30Z",
+    "updated_at": "2026-08-11T14:56:12Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -268,24 +349,6 @@
     "stars": 154,
     "updated_at": "2026-08-11T14:22:33Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "",
-    "id": "EIA2024/AI-Agent-Harness",
-    "language": "Python",
-    "name": "EIA2024/AI-Agent-Harness",
-    "stars": 0,
-    "updated_at": "2026-08-11T14:50:28Z",
-    "url": "https://github.com/EIA2024/AI-Agent-Harness"
-  },
-  {
-    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
-    "id": "streamcoreai/streamcore-server",
-    "language": "Go",
-    "name": "streamcoreai/streamcore-server",
-    "stars": 147,
-    "updated_at": "2026-08-11T14:48:45Z",
-    "url": "https://github.com/streamcoreai/streamcore-server"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -373,7 +436,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8516,
+    "stars": 8517,
     "updated_at": "2026-08-11T14:07:44Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T14:02:20Z",
     "url": "https://github.com/cordfuse/politik"
-  },
-  {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 2,
-    "updated_at": "2026-08-11T13:58:45Z",
-    "url": "https://github.com/qmilab/asterism"
-  },
-  {
-    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
-    "id": "we-are-singular/aml",
-    "language": "TypeScript",
-    "name": "we-are-singular/aml",
-    "stars": 12,
-    "updated_at": "2026-08-11T13:56:43Z",
-    "url": "https://github.com/we-are-singular/aml"
-  },
-  {
-    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
-    "id": "agents-universe/agents-universe",
-    "language": "Python",
-    "name": "agents-universe/agents-universe",
-    "stars": 33,
-    "updated_at": "2026-08-11T13:53:45Z",
-    "url": "https://github.com/agents-universe/agents-universe"
-  },
-  {
-    "description": "Open Autonomy library skills to interact with Olas Marketplace",
-    "id": "valory-xyz/mech-interact",
-    "language": "Python",
-    "name": "valory-xyz/mech-interact",
-    "stars": 0,
-    "updated_at": "2026-08-11T13:50:16Z",
-    "url": "https://github.com/valory-xyz/mech-interact"
-  },
-  {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-08-11T13:50:07Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "Scale development tasks with a library of hundreds of Claude Code templates, subagents, and MCP servers for Windows.",
-    "id": "Abdullahr487/Claude-Code-Templates-2026",
-    "language": "Python",
-    "name": "Abdullahr487/Claude-Code-Templates-2026",
-    "stars": 0,
-    "updated_at": "2026-08-11T13:47:22Z",
-    "url": "https://github.com/Abdullahr487/Claude-Code-Templates-2026"
-  },
-  {
-    "description": "The Operating System for AI Workers \u2014 build, deploy, and manage AI agents with 5 lines of code.",
-    "id": "behappybin88-lab/agentos",
-    "language": "Python",
-    "name": "behappybin88-lab/agentos",
-    "stars": 0,
-    "updated_at": "2026-08-11T13:44:13Z",
-    "url": "https://github.com/behappybin88-lab/agentos"
   }
 ]
