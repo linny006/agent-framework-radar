@@ -1,12 +1,84 @@
 [
   {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-12T20:45:09Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
     "id": "zlatko-lakisic/agentic-orchestration",
     "language": "Python",
     "name": "zlatko-lakisic/agentic-orchestration",
     "stars": 2,
-    "updated_at": "2026-08-12T20:34:18Z",
+    "updated_at": "2026-08-12T20:43:22Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Self-hosted AI orchestration platform for persistent agents, shared knowledge, and safe automation.",
+    "id": "OBrown101/dawson-server",
+    "language": "Swift",
+    "name": "OBrown101/dawson-server",
+    "stars": 0,
+    "updated_at": "2026-08-12T20:41:44Z",
+    "url": "https://github.com/OBrown101/dawson-server"
+  },
+  {
+    "description": "\ud83c\udfc6 Curated, ranked list of AI agent harnesses (100+) \u2014 plus an MCP server, llms.txt & JSON so agents can recommend them t",
+    "id": "RyanAlberts/best-of-Agent-Harnesses",
+    "language": "Python",
+    "name": "RyanAlberts/best-of-Agent-Harnesses",
+    "stars": 540,
+    "updated_at": "2026-08-12T20:41:43Z",
+    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-08-12T20:40:43Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34181,
+    "updated_at": "2026-08-12T20:40:37Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Zero-dependency TypeScript framework for production AI agents: durable execution, long-term memory, hybrid RAG, MCP tool",
+    "id": "Deuz-AI/Deuz-SDK",
+    "language": "TypeScript",
+    "name": "Deuz-AI/Deuz-SDK",
+    "stars": 440,
+    "updated_at": "2026-08-12T20:38:13Z",
+    "url": "https://github.com/Deuz-AI/Deuz-SDK"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-12T20:37:53Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8712,
+    "updated_at": "2026-08-12T20:37:40Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-12T20:30:25Z",
+    "updated_at": "2026-08-12T20:35:24Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -27,15 +99,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-08-12T20:30:18Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -45,21 +108,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8711,
-    "updated_at": "2026-08-12T20:33:54Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19254,
-    "updated_at": "2026-08-12T20:27:29Z",
+    "updated_at": "2026-08-12T20:39:53Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/Gald3r-Labs/gald3r"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34178,
-    "updated_at": "2026-08-12T20:10:06Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
     "id": "Eliyce/paqad-ai",
     "language": "TypeScript",
@@ -142,15 +187,6 @@
     "stars": 3886,
     "updated_at": "2026-08-12T20:09:17Z",
     "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-12T20:19:22Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6887,
-    "updated_at": "2026-08-12T20:04:52Z",
+    "updated_at": "2026-08-12T20:42:28Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -315,15 +351,6 @@
     "url": "https://github.com/v2-io/agentic-systems"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-12T20:30:05Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
     "id": "ag2ai/ag2",
     "language": "Python",
@@ -374,7 +401,7 @@
     "language": "Go",
     "name": "agenvoy/Agenvoy",
     "stars": 382,
-    "updated_at": "2026-08-12T19:56:03Z",
+    "updated_at": "2026-08-12T20:39:27Z",
     "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "Self-hosted AI orchestration platform for persistent agents, shared knowledge, and safe automation.",
-    "id": "OBrown101/dawson-server",
-    "language": "Swift",
-    "name": "OBrown101/dawson-server",
-    "stars": 0,
-    "updated_at": "2026-08-12T18:52:23Z",
-    "url": "https://github.com/OBrown101/dawson-server"
-  },
-  {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 30,
-    "updated_at": "2026-08-12T18:39:18Z",
+    "updated_at": "2026-08-12T20:44:09Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Local-first AI Agent framework. DeepSeek-compatible (deepseek-v4-pro / deepseek-v4-flash), multi-model (OpenAI/Claude/GL",
-    "id": "Lam-Arc/LamTools",
-    "language": "Python",
-    "name": "Lam-Arc/LamTools",
-    "stars": 1,
-    "updated_at": "2026-08-12T18:36:29Z",
-    "url": "https://github.com/Lam-Arc/LamTools"
-  },
-  {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 480,
-    "updated_at": "2026-08-12T19:38:40Z",
-    "url": "https://github.com/jaylfc/taOS"
   }
 ]
