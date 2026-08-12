@@ -1,11 +1,65 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8714,
+    "updated_at": "2026-08-12T21:24:13Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-12T21:22:58Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 30,
+    "updated_at": "2026-08-12T21:22:27Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6888,
+    "updated_at": "2026-08-12T21:18:11Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 13,
+    "updated_at": "2026-08-12T21:18:10Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-12T21:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
     "id": "AgentsKit-io/agentskit",
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 20,
-    "updated_at": "2026-08-12T21:15:05Z",
+    "updated_at": "2026-08-12T21:22:53Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -18,21 +72,12 @@
     "url": "https://github.com/japo0nn/jumabek"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-12T21:14:20Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
     "id": "agentdecksdk/agentdeck",
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 0,
-    "updated_at": "2026-08-12T21:14:28Z",
+    "updated_at": "2026-08-12T21:21:54Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -77,26 +122,8 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 1291,
-    "updated_at": "2026-08-12T21:00:35Z",
+    "updated_at": "2026-08-12T21:26:21Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-12T21:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-12T21:15:00Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "The fullstack framework for building AI Agents in Ruby on Rails. Build, test, deploy, and monitor in one platform. Advan",
@@ -106,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T20:59:13Z",
     "url": "https://github.com/Tiny-Bubble-Company/rails-agents"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8714,
-    "updated_at": "2026-08-12T20:58:59Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -225,15 +243,6 @@
     "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6887,
-    "updated_at": "2026-08-12T20:42:28Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Self-hosted AI orchestration platform for persistent agents, shared knowledge, and safe automation.",
     "id": "OBrown101/dawson-server",
     "language": "Swift",
@@ -265,7 +274,7 @@
     "id": "Deuz-AI/Deuz-SDK",
     "language": "TypeScript",
     "name": "Deuz-AI/Deuz-SDK",
-    "stars": 443,
+    "stars": 444,
     "updated_at": "2026-08-12T20:38:13Z",
     "url": "https://github.com/Deuz-AI/Deuz-SDK"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-12T19:46:48Z",
     "url": "https://github.com/EmreAka/Assistant"
-  },
-  {
-    "description": "Embodied AI agents runtime",
-    "id": "LamantinAI/octo",
-    "language": "Rust",
-    "name": "LamantinAI/octo",
-    "stars": 3,
-    "updated_at": "2026-08-12T19:41:50Z",
-    "url": "https://github.com/LamantinAI/octo"
   }
 ]
