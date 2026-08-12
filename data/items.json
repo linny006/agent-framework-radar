@@ -1,12 +1,57 @@
 [
   {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
+    "description": "Engineering infrastructure for opencode AI agents: memory, skills, subagent dispatch.",
+    "id": "juanmanueldaza/n3rv",
     "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19233,
-    "updated_at": "2026-08-11T23:59:35Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
+    "name": "juanmanueldaza/n3rv",
+    "stars": 8,
+    "updated_at": "2026-08-12T00:14:59Z",
+    "url": "https://github.com/juanmanueldaza/n3rv"
+  },
+  {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 479,
+    "updated_at": "2026-08-12T00:13:52Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-12T00:11:36Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8600,
+    "updated_at": "2026-08-12T00:10:48Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 646,
+    "updated_at": "2026-08-12T00:07:15Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4853,
+    "updated_at": "2026-08-12T00:05:33Z",
+    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-11T23:57:26Z",
+    "updated_at": "2026-08-12T00:00:20Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19233,
+    "updated_at": "2026-08-12T00:09:20Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -52,15 +106,6 @@
     "stars": 36,
     "updated_at": "2026-08-11T23:43:30Z",
     "url": "https://github.com/agents-universe/agents-universe"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8600,
-    "updated_at": "2026-08-11T23:58:32Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "wanhaoli376-lab/AgentForge",
     "stars": 0,
-    "updated_at": "2026-08-11T23:30:52Z",
+    "updated_at": "2026-08-12T00:03:59Z",
     "url": "https://github.com/wanhaoli376-lab/AgentForge"
   },
   {
@@ -212,7 +257,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-11T23:59:55Z",
+    "updated_at": "2026-08-12T00:04:45Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -324,15 +369,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-11T22:16:48Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "A multi-agent Claude Code framework for running role-based agents across GTM, product, design, and ops \u2014 with plans, pro",
     "id": "firatcand/roster",
     "language": "TypeScript",
@@ -383,7 +419,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 48,
-    "updated_at": "2026-08-11T23:55:28Z",
+    "updated_at": "2026-08-12T00:09:55Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 33960,
-    "updated_at": "2026-08-11T21:39:22Z",
+    "updated_at": "2026-08-12T00:13:16Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/spice-framework/spice-agent-coding"
   },
   {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 479,
-    "updated_at": "2026-08-11T23:52:26Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
     "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
     "id": "we-are-singular/aml",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 12,
     "updated_at": "2026-08-11T21:18:48Z",
     "url": "https://github.com/we-are-singular/aml"
-  },
-  {
-    "description": "Autonomous multi-agent coordination for the JVM",
-    "id": "mauro-mura/agenor",
-    "language": "Java",
-    "name": "mauro-mura/agenor",
-    "stars": 0,
-    "updated_at": "2026-08-11T21:17:05Z",
-    "url": "https://github.com/mauro-mura/agenor"
-  },
-  {
-    "description": "",
-    "id": "quoxai/aee",
-    "language": "\u2014",
-    "name": "quoxai/aee",
-    "stars": 0,
-    "updated_at": "2026-08-11T21:02:12Z",
-    "url": "https://github.com/quoxai/aee"
-  },
-  {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Go",
-    "name": "shaharia-lab/agento",
-    "stars": 25,
-    "updated_at": "2026-08-11T23:42:30Z",
-    "url": "https://github.com/shaharia-lab/agento"
   }
 ]
