@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-12 13:44 UTC
+> ⏰ Last updated: 2026-08-12 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [momang85/weavemind](https://github.com/momang85/weavemind) | 1 | Python | 2026-08-12 | A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. 看得见、会记忆、会自我进化的 AI 团队。 |
-| 2 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 5 | Python | 2026-08-12 | Many Agents, one objective... yours  |
-| 3 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 13 | TypeScript | 2026-08-12 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
-| 4 | [jkraybill/gordo-forge](https://github.com/jkraybill/gordo-forge) | 3 | TypeScript | 2026-08-12 | AI-guided onboarding for human-AI collaboration projects |
-| 5 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 34125 | Go | 2026-08-12 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 6 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-12 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-12 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-12 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [momang85/weavemind](https://github.com/momang85/weavemind) | 1 | Python | 2026-08-12 | A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. 看得见、会记忆、会自我进化的 AI 团队。 |
+| 3 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 5 | Python | 2026-08-12 | Many Agents, one objective... yours  |
+| 4 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 13 | TypeScript | 2026-08-12 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
+| 5 | [jkraybill/gordo-forge](https://github.com/jkraybill/gordo-forge) | 3 | TypeScript | 2026-08-12 | AI-guided onboarding for human-AI collaboration projects |
+| 6 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 34126 | Go | 2026-08-12 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 7 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-12 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
 | 8 | [LamantinAI/octo](https://github.com/LamantinAI/octo) | 3 | Rust | 2026-08-12 | Embodied AI agents runtime |
 | 9 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-08-12 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
 | 10 | [pqpo/pragma](https://github.com/pqpo/pragma) | 62 | TypeScript | 2026-08-12 | Turn the way you work with AI into a reusable asset · 把你的 AI 工作方式，沉淀成可以复用的资产。 |
@@ -84,7 +84,7 @@ expired items removed — so you can rely on what you see being current.
 | 40 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 3 | HTML | 2026-08-12 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
 | 41 | [hertz-ai/HARTOS](https://github.com/hertz-ai/HARTOS) | 51 | Python | 2026-08-12 | An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp |
 | 42 | [Oryxa-Vault/oryxa](https://github.com/Oryxa-Vault/oryxa) | 1 | Go | 2026-08-12 | Agent frameworks are single-user. Oryxa makes them multi-user — shared rooms with live streaming, an append-only event l |
-| 43 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 1723 | TypeScript | 2026-08-12 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
+| 43 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 1724 | TypeScript | 2026-08-12 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
 | 44 | [clacky-ai/openclacky](https://github.com/clacky-ai/openclacky) | 1156 | Ruby | 2026-08-12 | The most Token-efficient open-source AI Agent |
 | 45 | [codeaholicguy/ai-devkit](https://github.com/codeaholicguy/ai-devkit) | 1577 | TypeScript | 2026-08-12 | The control plane for AI coding agents. |
 | 46 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 46890 | Python | 2026-08-12 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |

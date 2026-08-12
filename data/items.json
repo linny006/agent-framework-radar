@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-12T13:44:04Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684 AI \u56e2\u961f\u3002",
     "id": "momang85/weavemind",
     "language": "Python",
@@ -40,7 +49,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34125,
+    "stars": 34126,
     "updated_at": "2026-08-12T13:36:32Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T13:34:47Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-12T13:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Embodied AI agents runtime",
@@ -382,7 +382,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1723,
+    "stars": 1724,
     "updated_at": "2026-08-12T12:25:26Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
