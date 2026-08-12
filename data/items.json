@@ -1,11 +1,74 @@
 [
   {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 48,
+    "updated_at": "2026-08-12T00:41:35Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-12T00:40:40Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-12T00:36:40Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Open-source, extensible, security-aware AI agent framework with Skills, Plugins, and restricted tool execution.",
+    "id": "wanhaoli376-lab/AgentForge",
+    "language": "Python",
+    "name": "wanhaoli376-lab/AgentForge",
+    "stars": 0,
+    "updated_at": "2026-08-12T00:37:20Z",
+    "url": "https://github.com/wanhaoli376-lab/AgentForge"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-12T00:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 13,
+    "updated_at": "2026-08-12T00:30:22Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8601,
+    "updated_at": "2026-08-12T00:39:19Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 33962,
-    "updated_at": "2026-08-12T00:28:31Z",
+    "stars": 33965,
+    "updated_at": "2026-08-12T00:44:49Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -13,7 +76,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1717,
+    "stars": 1718,
     "updated_at": "2026-08-12T00:25:43Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -36,15 +99,6 @@
     "url": "https://github.com/dsswift/ion"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-12T00:15:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Engineering infrastructure for opencode AI agents: memory, skills, subagent dispatch.",
     "id": "juanmanueldaza/n3rv",
     "language": "Python",
@@ -61,24 +115,6 @@
     "stars": 479,
     "updated_at": "2026-08-12T00:29:09Z",
     "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-12T00:15:46Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8600,
-    "updated_at": "2026-08-12T00:29:23Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19233,
-    "updated_at": "2026-08-12T00:24:20Z",
+    "updated_at": "2026-08-12T00:36:46Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-11T23:40:16Z",
+    "updated_at": "2026-08-12T00:31:45Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 154,
     "updated_at": "2026-08-11T23:37:35Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-11T23:37:33Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -214,15 +241,6 @@
     "stars": 28,
     "updated_at": "2026-08-11T23:31:59Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Open-source, extensible, security-aware AI agent framework with Skills, Plugins, and restricted tool execution.",
-    "id": "wanhaoli376-lab/AgentForge",
-    "language": "Python",
-    "name": "wanhaoli376-lab/AgentForge",
-    "stars": 0,
-    "updated_at": "2026-08-12T00:03:59Z",
-    "url": "https://github.com/wanhaoli376-lab/AgentForge"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -270,15 +288,6 @@
     "url": "https://github.com/api-evangelist/autogen-studio"
   },
   {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 13,
-    "updated_at": "2026-08-12T00:30:16Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
     "id": "zlatko-lakisic/agentic-orchestration",
     "language": "Python",
@@ -293,7 +302,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-12T00:04:45Z",
+    "updated_at": "2026-08-12T00:34:59Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 12736,
     "updated_at": "2026-08-11T21:48:04Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 48,
-    "updated_at": "2026-08-12T00:29:19Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   }
 ]
