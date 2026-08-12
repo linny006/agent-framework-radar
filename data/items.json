@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-12T22:59:07Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8722,
-    "updated_at": "2026-08-12T22:55:04Z",
+    "updated_at": "2026-08-12T22:59:13Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T22:46:39Z",
     "url": "https://github.com/352moose/Agent_Mesh"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-12T22:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
