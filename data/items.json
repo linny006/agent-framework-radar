@@ -1,12 +1,57 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8653,
+    "updated_at": "2026-08-12T08:41:37Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34080,
+    "updated_at": "2026-08-12T08:42:19Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 209,
+    "updated_at": "2026-08-12T08:36:18Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-08-12T08:34:52Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-12T08:29:02Z",
+    "updated_at": "2026-08-12T08:34:12Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
+    "id": "qmilab/asterism",
+    "language": "TypeScript",
+    "name": "qmilab/asterism",
+    "stars": 2,
+    "updated_at": "2026-08-12T08:31:47Z",
+    "url": "https://github.com/qmilab/asterism"
   },
   {
     "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
@@ -14,8 +59,17 @@
     "language": "C++",
     "name": "OpenSparX/MasterAgent",
     "stars": 0,
-    "updated_at": "2026-08-12T08:30:17Z",
+    "updated_at": "2026-08-12T08:39:33Z",
     "url": "https://github.com/OpenSparX/MasterAgent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-12T08:30:44Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-12T08:25:21Z",
+    "updated_at": "2026-08-12T08:44:53Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -36,31 +90,13 @@
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-08-12T08:22:32Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 1722,
-    "updated_at": "2026-08-12T08:22:14Z",
+    "updated_at": "2026-08-12T08:34:41Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34072,
-    "updated_at": "2026-08-12T08:21:18Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -115,15 +151,6 @@
     "stars": 106,
     "updated_at": "2026-08-12T08:16:35Z",
     "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-12T08:16:14Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-12T08:02:58Z",
+    "updated_at": "2026-08-12T08:39:36Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -216,13 +243,13 @@
     "url": "https://github.com/shinyay/getting-started-with-foundry-toolkit"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8652,
-    "updated_at": "2026-08-12T07:57:08Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "strands-agents/harness-sdk",
+    "stars": 6884,
+    "updated_at": "2026-08-12T07:59:56Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -247,7 +274,7 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 390,
+    "stars": 389,
     "updated_at": "2026-08-12T07:55:58Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -257,7 +284,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1291,
-    "updated_at": "2026-08-12T07:54:09Z",
+    "updated_at": "2026-08-12T08:37:22Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -274,7 +301,7 @@
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
-    "stars": 247,
+    "stars": 248,
     "updated_at": "2026-08-12T07:50:32Z",
     "url": "https://github.com/cortexkit/aft"
   },
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "amilworks/ultra",
     "stars": 6,
-    "updated_at": "2026-08-12T07:30:36Z",
+    "updated_at": "2026-08-12T08:39:20Z",
     "url": "https://github.com/amilworks/ultra"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "rllm-org/rllm",
     "stars": 5781,
-    "updated_at": "2026-08-12T07:25:25Z",
+    "updated_at": "2026-08-12T08:38:06Z",
     "url": "https://github.com/rllm-org/rllm"
   },
   {
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26184,
-    "updated_at": "2026-08-12T08:17:30Z",
+    "updated_at": "2026-08-12T08:32:41Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -365,7 +392,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19244,
-    "updated_at": "2026-08-12T08:24:48Z",
+    "updated_at": "2026-08-12T08:42:36Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -376,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T07:17:00Z",
     "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 209,
-    "updated_at": "2026-08-12T07:16:24Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -410,7 +428,7 @@
     "language": "HTML",
     "name": "Rakshit64w43/agent-gateway-hub",
     "stars": 3,
-    "updated_at": "2026-08-12T07:12:43Z",
+    "updated_at": "2026-08-12T08:40:33Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-12T08:15:49Z",
     "url": "https://github.com/polymind-inc/agent-framework-js"
-  },
-  {
-    "description": "Go SDK contracts for typed, observable, and resumable agent workflows",
-    "id": "gopact-ai/gopact",
-    "language": "Go",
-    "name": "gopact-ai/gopact",
-    "stars": 4,
-    "updated_at": "2026-08-12T07:07:19Z",
-    "url": "https://github.com/gopact-ai/gopact"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-12T07:04:23Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   }
 ]
