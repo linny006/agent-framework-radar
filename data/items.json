@@ -1,12 +1,75 @@
 [
   {
+    "description": "Hands-on getting-started guide for the Microsoft Foundry Toolkit: azd ai agent CLI + VS Code extension, with Python and ",
+    "id": "shinyay/getting-started-with-foundry-toolkit",
+    "language": "\u2014",
+    "name": "shinyay/getting-started-with-foundry-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-12T09:37:10Z",
+    "url": "https://github.com/shinyay/getting-started-with-foundry-toolkit"
+  },
+  {
+    "description": "Companionship, chat, coding, and work share one memory and context framework \u2014 the kind of AI you see in science fiction",
+    "id": "beilusaiying/always-accompany",
+    "language": "JavaScript",
+    "name": "beilusaiying/always-accompany",
+    "stars": 239,
+    "updated_at": "2026-08-12T09:36:41Z",
+    "url": "https://github.com/beilusaiying/always-accompany"
+  },
+  {
+    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u667a\u80fd\u4f53\u5f00\u53d1\u6846\u67b6\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001\u53ef\u63a7 Harness \u4e0e Loop",
+    "id": "Eclipseic1848/CoreMind",
+    "language": "TypeScript",
+    "name": "Eclipseic1848/CoreMind",
+    "stars": 4,
+    "updated_at": "2026-08-12T09:34:42Z",
+    "url": "https://github.com/Eclipseic1848/CoreMind"
+  },
+  {
+    "description": "\ud83e\udd16 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 \u2014 the year agents went mainstream",
+    "id": "Zijian-Ni/awesome-ai-agents-2026",
+    "language": "Python",
+    "name": "Zijian-Ni/awesome-ai-agents-2026",
+    "stars": 224,
+    "updated_at": "2026-08-12T09:32:03Z",
+    "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 8,
+    "updated_at": "2026-08-12T09:34:31Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-12T09:30:04Z",
+    "updated_at": "2026-08-12T09:34:16Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Dial your agent into your next meeting - powered by the Looped Agent Framework",
+    "id": "loopedautomation/meet",
+    "language": "TypeScript",
+    "name": "loopedautomation/meet",
+    "stars": 6,
+    "updated_at": "2026-08-12T09:31:27Z",
+    "url": "https://github.com/loopedautomation/meet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-12T09:30:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-12T09:30:04Z",
+    "updated_at": "2026-08-12T09:33:00Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -72,24 +135,6 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u667a\u80fd\u4f53\u5f00\u53d1\u6846\u67b6\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001\u53ef\u63a7 Harness \u4e0e Loop",
-    "id": "Eclipseic1848/CoreMind",
-    "language": "TypeScript",
-    "name": "Eclipseic1848/CoreMind",
-    "stars": 4,
-    "updated_at": "2026-08-12T09:18:04Z",
-    "url": "https://github.com/Eclipseic1848/CoreMind"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-12T09:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1291,
-    "updated_at": "2026-08-12T09:30:04Z",
+    "updated_at": "2026-08-12T09:36:44Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -211,7 +256,7 @@
     "id": "deepset-ai/haystack",
     "language": "Python",
     "name": "deepset-ai/haystack",
-    "stars": 26185,
+    "stars": 26186,
     "updated_at": "2026-08-12T08:45:38Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
@@ -220,7 +265,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19244,
+    "stars": 19245,
     "updated_at": "2026-08-12T08:42:36Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -229,7 +274,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34097,
+    "stars": 34098,
     "updated_at": "2026-08-12T08:42:19Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -360,15 +405,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 8,
-    "updated_at": "2026-08-12T08:25:34Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-12T08:08:07Z",
     "url": "https://github.com/achappey/aihappey-chat"
-  },
-  {
-    "description": "Turn the way you work with AI into a reusable asset \u00b7 \u628a\u4f60\u7684 AI \u5de5\u4f5c\u65b9\u5f0f\uff0c\u6c89\u6dc0\u6210\u53ef\u4ee5\u590d\u7528\u7684\u8d44\u4ea7\u3002",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 60,
-    "updated_at": "2026-08-12T08:00:56Z",
-    "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "Hands-on getting-started guide for the Microsoft Foundry Toolkit: azd ai agent CLI + VS Code extension, with Python and ",
-    "id": "shinyay/getting-started-with-foundry-toolkit",
-    "language": "\u2014",
-    "name": "shinyay/getting-started-with-foundry-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-12T08:00:12Z",
-    "url": "https://github.com/shinyay/getting-started-with-foundry-toolkit"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6885,
-    "updated_at": "2026-08-12T07:59:56Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 291,
-    "updated_at": "2026-08-12T07:56:03Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   }
 ]
