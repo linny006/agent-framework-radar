@@ -1,5 +1,41 @@
 [
   {
+    "description": "Hands-on getting-started guide for the Microsoft Foundry Toolkit: azd ai agent CLI + VS Code extension, with Python and ",
+    "id": "shinyay/getting-started-with-foundry-toolkit",
+    "language": "\u2014",
+    "name": "shinyay/getting-started-with-foundry-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-12T11:29:26Z",
+    "url": "https://github.com/shinyay/getting-started-with-foundry-toolkit"
+  },
+  {
+    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
+    "id": "Gald3r-Labs/gald3r",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r",
+    "stars": 23,
+    "updated_at": "2026-08-12T11:29:08Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26187,
+    "updated_at": "2026-08-12T11:29:01Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-12T11:28:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent0: an auditable agent-team platform built on contracts (tape/events/skill), starting with the information-gathering",
     "id": "lukethecat/agent0",
     "language": "Python",
@@ -22,18 +58,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34110,
+    "stars": 34113,
     "updated_at": "2026-08-12T11:23:43Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26186,
-    "updated_at": "2026-08-12T11:22:28Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
@@ -52,15 +79,6 @@
     "stars": 7,
     "updated_at": "2026-08-12T11:27:02Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-12T11:15:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-12T11:27:23Z",
+    "updated_at": "2026-08-12T11:30:08Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 155,
     "updated_at": "2026-08-12T10:01:11Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 0,
-    "updated_at": "2026-08-12T09:51:56Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "Open Autonomy library skills to interact with Olas Marketplace",
-    "id": "valory-xyz/mech-interact",
-    "language": "Python",
-    "name": "valory-xyz/mech-interact",
-    "stars": 0,
-    "updated_at": "2026-08-12T09:49:51Z",
-    "url": "https://github.com/valory-xyz/mech-interact"
   }
 ]
