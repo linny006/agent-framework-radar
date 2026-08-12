@@ -1,5 +1,32 @@
 [
   {
+    "description": "A curated list of AI agent frameworks, tools, platforms, research papers, and resources",
+    "id": "aloth/awesome-ai-agents",
+    "language": "\u2014",
+    "name": "aloth/awesome-ai-agents",
+    "stars": 21,
+    "updated_at": "2026-08-12T07:00:23Z",
+    "url": "https://github.com/aloth/awesome-ai-agents"
+  },
+  {
+    "description": "Official extensions for gopact",
+    "id": "gopact-ai/gopact-ext",
+    "language": "Go",
+    "name": "gopact-ai/gopact-ext",
+    "stars": 0,
+    "updated_at": "2026-08-12T06:58:05Z",
+    "url": "https://github.com/gopact-ai/gopact-ext"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-12T06:57:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19243,
-    "updated_at": "2026-08-12T06:55:04Z",
+    "updated_at": "2026-08-12T06:57:56Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -54,38 +81,20 @@
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
-    "description": "Official extensions for gopact",
-    "id": "gopact-ai/gopact-ext",
-    "language": "Go",
-    "name": "gopact-ai/gopact-ext",
-    "stars": 0,
-    "updated_at": "2026-08-12T06:54:50Z",
-    "url": "https://github.com/gopact-ai/gopact-ext"
-  },
-  {
     "description": "Agents daemon that hides nothing",
     "id": "crabtalk/crabtalk",
     "language": "Rust",
     "name": "crabtalk/crabtalk",
-    "stars": 717,
+    "stars": 718,
     "updated_at": "2026-08-12T06:46:07Z",
     "url": "https://github.com/crabtalk/crabtalk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-12T06:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46874,
+    "stars": 46875,
     "updated_at": "2026-08-12T06:45:17Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -104,7 +113,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-12T06:38:50Z",
+    "updated_at": "2026-08-12T06:59:46Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -130,7 +139,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8638,
+    "stars": 8639,
     "updated_at": "2026-08-12T06:31:10Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -439,14 +448,5 @@
     "stars": 30,
     "updated_at": "2026-08-12T05:20:14Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-08-12T05:18:40Z",
-    "url": "https://github.com/Marssssss/OneAI"
   }
 ]
