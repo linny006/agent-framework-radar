@@ -1,5 +1,68 @@
 [
   {
+    "description": "Agent0: an auditable agent-team platform built on contracts (tape/events/skill), starting with the information-gathering",
+    "id": "lukethecat/agent0",
+    "language": "Python",
+    "name": "lukethecat/agent0",
+    "stars": 0,
+    "updated_at": "2026-08-12T11:27:33Z",
+    "url": "https://github.com/lukethecat/agent0"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 14,
+    "updated_at": "2026-08-12T11:26:58Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34110,
+    "updated_at": "2026-08-12T11:23:43Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26186,
+    "updated_at": "2026-08-12T11:22:28Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
+    "id": "OpenSparX/MasterAgent",
+    "language": "C++",
+    "name": "OpenSparX/MasterAgent",
+    "stars": 0,
+    "updated_at": "2026-08-12T11:19:15Z",
+    "url": "https://github.com/OpenSparX/MasterAgent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-12T11:27:02Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-12T11:15:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
     "id": "mmeyerlein/meclaw",
     "language": "Rust",
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-08-12T11:08:31Z",
+    "updated_at": "2026-08-12T11:24:59Z",
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 51,
-    "updated_at": "2026-08-12T11:15:20Z",
+    "updated_at": "2026-08-12T11:23:03Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -99,15 +162,6 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26186,
-    "updated_at": "2026-08-12T11:11:13Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
     "description": "Agent frameworks are single-user. Oryxa makes them multi-user \u2014 shared rooms with live streaming, an append-only event l",
     "id": "Oryxa-Vault/oryxa",
     "language": "Go",
@@ -117,21 +171,12 @@
     "url": "https://github.com/Oryxa-Vault/oryxa"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34108,
-    "updated_at": "2026-08-12T11:05:07Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-12T11:08:45Z",
+    "updated_at": "2026-08-12T11:27:23Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -142,15 +187,6 @@
     "stars": 156,
     "updated_at": "2026-08-12T11:01:58Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-12T11:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -259,15 +295,6 @@
     "stars": 36,
     "updated_at": "2026-08-12T10:43:18Z",
     "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-12T11:10:23Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
@@ -405,15 +432,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 14,
-    "updated_at": "2026-08-12T10:19:26Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
     "id": "Spitfire-Products/nexus-cortex",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T09:49:51Z",
     "url": "https://github.com/valory-xyz/mech-interact"
-  },
-  {
-    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u667a\u80fd\u4f53\u5f00\u53d1\u6846\u67b6\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001\u53ef\u63a7 Harness \u4e0e Loop",
-    "id": "Eclipseic1848/CoreMind",
-    "language": "TypeScript",
-    "name": "Eclipseic1848/CoreMind",
-    "stars": 4,
-    "updated_at": "2026-08-12T09:48:43Z",
-    "url": "https://github.com/Eclipseic1848/CoreMind"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8666,
-    "updated_at": "2026-08-12T09:44:43Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   }
 ]
