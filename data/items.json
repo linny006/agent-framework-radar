@@ -1,5 +1,23 @@
 [
   {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1292,
+    "updated_at": "2026-08-12T21:28:09Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-12T21:26:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -45,15 +63,6 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-12T21:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
     "id": "AgentsKit-io/agentskit",
     "language": "TypeScript",
@@ -70,6 +79,15 @@
     "stars": 2,
     "updated_at": "2026-08-12T21:13:45Z",
     "url": "https://github.com/japo0nn/jumabek"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 424,
+    "updated_at": "2026-08-12T21:10:27Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
     "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
@@ -90,15 +108,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 423,
-    "updated_at": "2026-08-12T21:10:27Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
     "description": "\ud83c\udfc6 Curated, ranked list of AI agent harnesses (100+) \u2014 plus an MCP server, llms.txt & JSON so agents can recommend them t",
     "id": "RyanAlberts/best-of-Agent-Harnesses",
     "language": "Python",
@@ -115,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-08-12T21:01:45Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1291,
-    "updated_at": "2026-08-12T21:26:21Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "The fullstack framework for building AI Agents in Ruby on Rails. Build, test, deploy, and monitor in one platform. Advan",
@@ -167,7 +167,7 @@
     "language": "Elixir",
     "name": "agentjido/jidoka",
     "stars": 37,
-    "updated_at": "2026-08-12T20:53:34Z",
+    "updated_at": "2026-08-12T21:28:38Z",
     "url": "https://github.com/agentjido/jidoka"
   },
   {
@@ -265,7 +265,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34183,
+    "stars": 34184,
     "updated_at": "2026-08-12T20:40:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -347,7 +347,7 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 8,
-    "updated_at": "2026-08-12T20:19:12Z",
+    "updated_at": "2026-08-12T21:26:33Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -355,7 +355,7 @@
     "id": "evalstate/fast-agent",
     "language": "Python",
     "name": "evalstate/fast-agent",
-    "stars": 3886,
+    "stars": 3887,
     "updated_at": "2026-08-12T20:09:17Z",
     "url": "https://github.com/evalstate/fast-agent"
   },
