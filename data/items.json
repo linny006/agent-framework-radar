@@ -1,5 +1,68 @@
 [
   {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 14959,
+    "updated_at": "2026-08-12T10:40:26Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 123,
+    "updated_at": "2026-08-12T10:39:43Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 2,
+    "updated_at": "2026-08-12T10:37:53Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 51,
+    "updated_at": "2026-08-12T10:39:44Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-12T10:41:23Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 389,
+    "updated_at": "2026-08-12T10:30:53Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-12T10:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
     "id": "japo0nn/jumabek",
     "language": "Rust",
@@ -7,6 +70,15 @@
     "stars": 2,
     "updated_at": "2026-08-12T10:29:34Z",
     "url": "https://github.com/japo0nn/jumabek"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34107,
+    "updated_at": "2026-08-12T10:29:29Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Turn the way you work with AI into a reusable asset \u00b7 \u628a\u4f60\u7684 AI \u5de5\u4f5c\u65b9\u5f0f\uff0c\u6c89\u6dc0\u6210\u53ef\u4ee5\u590d\u7528\u7684\u8d44\u4ea7\u3002",
@@ -22,7 +94,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46882,
+    "stars": 46884,
     "updated_at": "2026-08-12T10:28:27Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -34,15 +106,6 @@
     "stars": 76,
     "updated_at": "2026-08-12T10:26:58Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34105,
-    "updated_at": "2026-08-12T10:29:29Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "An agent runtime designed for tool-driven loop engineering.",
@@ -63,21 +126,12 @@
     "url": "https://github.com/momang85/weavemind"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-12T10:27:57Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
     "id": "maref-org/maref",
     "language": "Python",
     "name": "maref-org/maref",
     "stars": 7,
-    "updated_at": "2026-08-12T10:23:46Z",
+    "updated_at": "2026-08-12T10:40:45Z",
     "url": "https://github.com/maref-org/maref"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 38,
     "updated_at": "2026-08-12T10:23:35Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 389,
-    "updated_at": "2026-08-12T10:19:48Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
@@ -144,21 +189,12 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-12T10:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-12T10:29:25Z",
+    "updated_at": "2026-08-12T10:33:42Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -302,7 +338,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1291,
-    "updated_at": "2026-08-12T09:46:02Z",
+    "updated_at": "2026-08-12T10:36:18Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -322,15 +358,6 @@
     "stars": 8664,
     "updated_at": "2026-08-12T09:44:43Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 2,
-    "updated_at": "2026-08-12T10:28:25Z",
-    "url": "https://github.com/Arasz/ai-badger"
   },
   {
     "description": "Hands-on getting-started guide for the Microsoft Foundry Toolkit: azd ai agent CLI + VS Code extension, with Python and ",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-12T09:11:05Z",
     "url": "https://github.com/ZenHG/opencode-moa"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-12T09:03:07Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-08-12T09:03:06Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 16,
-    "updated_at": "2026-08-12T08:51:54Z",
-    "url": "https://github.com/ethosagent/ethos"
   }
 ]
