@@ -1,5 +1,122 @@
 [
   {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-12T07:29:22Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1155,
+    "updated_at": "2026-08-12T07:28:17Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26184,
+    "updated_at": "2026-08-12T07:27:53Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-12T07:22:37Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
+    "id": "Monadix-AI/monad",
+    "language": "TypeScript",
+    "name": "Monadix-AI/monad",
+    "stars": 1,
+    "updated_at": "2026-08-12T07:22:02Z",
+    "url": "https://github.com/Monadix-AI/monad"
+  },
+  {
+    "description": "\u672c\u6587\u6863\u57fa\u4e8e\u539f\u7248\u8bfe\u7a0b\u5927\u7eb2\u7684\u6df1\u5165\u5206\u6790\uff0c\u7ed3\u5408 2026 \u5e74\u6700\u65b0 AI \u884c\u4e1a\u8d8b\u52bf\uff08A2A \u534f\u8bae\u3001Agent FinOps\u3001\u5408\u89c4\u6cbb\u7406\u3001AI Coding Agent \u7b49\uff09\u91cd\u65b0\u89c4\u5212\u800c\u6210\u3002",
+    "id": "ricoNext/Agent101",
+    "language": "TypeScript",
+    "name": "ricoNext/Agent101",
+    "stars": 2,
+    "updated_at": "2026-08-12T07:23:42Z",
+    "url": "https://github.com/ricoNext/Agent101"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8641,
+    "updated_at": "2026-08-12T07:23:48Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19244,
+    "updated_at": "2026-08-12T07:18:27Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1722,
+    "updated_at": "2026-08-12T07:17:29Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
+    "id": "CogKnowEdge-Solutions/Orchestration",
+    "language": "Jupyter Notebook",
+    "name": "CogKnowEdge-Solutions/Orchestration",
+    "stars": 0,
+    "updated_at": "2026-08-12T07:17:00Z",
+    "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 10,
+    "updated_at": "2026-08-12T07:16:45Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 209,
+    "updated_at": "2026-08-12T07:16:24Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-12T07:15:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -32,7 +149,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-12T07:12:21Z",
+    "updated_at": "2026-08-12T07:27:52Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -43,42 +160,6 @@
     "stars": 6,
     "updated_at": "2026-08-12T07:12:13Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
-    "id": "CogKnowEdge-Solutions/Orchestration",
-    "language": "Jupyter Notebook",
-    "name": "CogKnowEdge-Solutions/Orchestration",
-    "stars": 0,
-    "updated_at": "2026-08-12T07:12:10Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-12T07:12:33Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19243,
-    "updated_at": "2026-08-12T07:07:34Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1722,
-    "updated_at": "2026-08-12T07:07:17Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
@@ -148,18 +229,18 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34037,
+    "stars": 34049,
     "updated_at": "2026-08-12T07:03:40Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8639,
-    "updated_at": "2026-08-12T07:01:03Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
+    "id": "use-brian/use-brian",
+    "language": "TypeScript",
+    "name": "use-brian/use-brian",
+    "stars": 22,
+    "updated_at": "2026-08-12T07:03:11Z",
+    "url": "https://github.com/use-brian/use-brian"
   },
   {
     "description": "A curated list of AI agent frameworks, tools, platforms, research papers, and resources",
@@ -169,24 +250,6 @@
     "stars": 21,
     "updated_at": "2026-08-12T07:00:29Z",
     "url": "https://github.com/aloth/awesome-ai-agents"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-12T07:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 209,
-    "updated_at": "2026-08-12T06:55:46Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent",
@@ -202,7 +265,7 @@
     "id": "crabtalk/crabtalk",
     "language": "Rust",
     "name": "crabtalk/crabtalk",
-    "stars": 718,
+    "stars": 719,
     "updated_at": "2026-08-12T06:46:07Z",
     "url": "https://github.com/crabtalk/crabtalk"
   },
@@ -211,7 +274,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46877,
+    "stars": 46878,
     "updated_at": "2026-08-12T06:45:17Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -230,17 +293,8 @@
     "language": "Python",
     "name": "sagi5060/agentdeck",
     "stars": 0,
-    "updated_at": "2026-08-12T06:49:16Z",
+    "updated_at": "2026-08-12T07:25:21Z",
     "url": "https://github.com/sagi5060/agentdeck"
-  },
-  {
-    "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
-    "id": "Monadix-AI/monad",
-    "language": "TypeScript",
-    "name": "Monadix-AI/monad",
-    "stars": 1,
-    "updated_at": "2026-08-12T06:30:41Z",
-    "url": "https://github.com/Monadix-AI/monad"
   },
   {
     "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
@@ -302,7 +356,7 @@
     "language": "Rust",
     "name": "jiayan-xu/agent-core",
     "stars": 1,
-    "updated_at": "2026-08-12T07:13:42Z",
+    "updated_at": "2026-08-12T07:22:54Z",
     "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
@@ -360,15 +414,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 10,
-    "updated_at": "2026-08-12T06:11:05Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 291,
     "updated_at": "2026-08-12T06:06:23Z",
     "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-08-12T06:52:37Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14952,
-    "updated_at": "2026-08-12T05:51:33Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 5,
-    "updated_at": "2026-08-12T05:45:42Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "Modular engineering methodology framework for AI agents \u2014 reverse engineering & software development (core + re-binary /",
-    "id": "unknowbug/RE-Framework",
-    "language": "Python",
-    "name": "unknowbug/RE-Framework",
-    "stars": 5,
-    "updated_at": "2026-08-12T05:43:45Z",
-    "url": "https://github.com/unknowbug/RE-Framework"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-08-12T05:32:00Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
   }
 ]
