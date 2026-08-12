@@ -1,12 +1,120 @@
 [
   {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 156,
+    "updated_at": "2026-08-12T08:13:21Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-12T08:11:18Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-12T08:11:01Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
+    "id": "achappey/aihappey-chat",
+    "language": "TypeScript",
+    "name": "achappey/aihappey-chat",
+    "stars": 4,
+    "updated_at": "2026-08-12T08:08:07Z",
+    "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-08-12T08:06:00Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-12T08:02:58Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 8,
+    "updated_at": "2026-08-12T08:00:56Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Turn the way you work with AI into a reusable asset \u00b7 \u628a\u4f60\u7684 AI \u5de5\u4f5c\u65b9\u5f0f\uff0c\u6c89\u6dc0\u6210\u53ef\u4ee5\u590d\u7528\u7684\u8d44\u4ea7\u3002",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 60,
+    "updated_at": "2026-08-12T08:00:56Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-12T08:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
+    "id": "Monadix-AI/monad",
+    "language": "TypeScript",
+    "name": "Monadix-AI/monad",
+    "stars": 1,
+    "updated_at": "2026-08-12T08:03:07Z",
+    "url": "https://github.com/Monadix-AI/monad"
+  },
+  {
+    "description": "Hands-on getting-started guide for the Microsoft Foundry Toolkit: azd ai agent CLI + VS Code extension, with Python and ",
+    "id": "shinyay/getting-started-with-foundry-toolkit",
+    "language": "\u2014",
+    "name": "shinyay/getting-started-with-foundry-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-12T08:00:12Z",
+    "url": "https://github.com/shinyay/getting-started-with-foundry-toolkit"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-12T07:59:06Z",
+    "updated_at": "2026-08-12T08:10:42Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8648,
+    "updated_at": "2026-08-12T07:57:08Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -81,31 +189,13 @@
     "url": "https://github.com/erishen/crewai-pse"
   },
   {
-    "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
-    "id": "Monadix-AI/monad",
-    "language": "TypeScript",
-    "name": "Monadix-AI/monad",
-    "stars": 1,
-    "updated_at": "2026-08-12T08:00:17Z",
-    "url": "https://github.com/Monadix-AI/monad"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34060,
+    "stars": 34065,
     "updated_at": "2026-08-12T07:48:42Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-12T07:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
@@ -115,15 +205,6 @@
     "stars": 5,
     "updated_at": "2026-08-12T07:42:59Z",
     "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-08-12T07:41:31Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "\u672c\u6587\u6863\u57fa\u4e8e\u539f\u7248\u8bfe\u7a0b\u5927\u7eb2\u7684\u6df1\u5165\u5206\u6790\uff0c\u7ed3\u5408 2026 \u5e74\u6700\u65b0 AI \u884c\u4e1a\u8d8b\u52bf\uff08A2A \u534f\u8bae\u3001Agent FinOps\u3001\u5408\u89c4\u6cbb\u7406\u3001AI Coding Agent \u7b49\uff09\u91cd\u65b0\u89c4\u5212\u800c\u6210\u3002",
@@ -162,15 +243,6 @@
     "url": "https://github.com/shibing624/agentica"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8644,
-    "updated_at": "2026-08-12T07:57:08Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
     "id": "amilworks/ultra",
     "language": "Python",
@@ -185,7 +257,7 @@
     "language": "Go",
     "name": "shaharia-lab/agento",
     "stars": 25,
-    "updated_at": "2026-08-12T07:44:44Z",
+    "updated_at": "2026-08-12T08:13:42Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -239,7 +311,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 1722,
-    "updated_at": "2026-08-12T07:17:29Z",
+    "updated_at": "2026-08-12T08:14:27Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -288,15 +360,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-12T07:49:16Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
     "id": "hara-cli/hara",
     "language": "TypeScript",
@@ -311,7 +374,7 @@
     "language": "TypeScript",
     "name": "polymind-inc/agent-framework-js",
     "stars": 4,
-    "updated_at": "2026-08-12T07:06:06Z",
+    "updated_at": "2026-08-12T08:10:10Z",
     "url": "https://github.com/polymind-inc/agent-framework-js"
   },
   {
@@ -382,71 +445,8 @@
     "id": "crabtalk/crabtalk",
     "language": "Rust",
     "name": "crabtalk/crabtalk",
-    "stars": 720,
+    "stars": 721,
     "updated_at": "2026-08-12T06:46:07Z",
     "url": "https://github.com/crabtalk/crabtalk"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46880,
-    "updated_at": "2026-08-12T06:45:17Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
-    "id": "OpenSparX/MasterAgent",
-    "language": "C++",
-    "name": "OpenSparX/MasterAgent",
-    "stars": 0,
-    "updated_at": "2026-08-12T06:38:50Z",
-    "url": "https://github.com/OpenSparX/MasterAgent"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 14,
-    "updated_at": "2026-08-12T07:57:50Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 51,
-    "updated_at": "2026-08-12T06:26:03Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Hands-on getting-started guide for the Microsoft Foundry Toolkit: azd ai agent CLI + VS Code extension, with Python and ",
-    "id": "shinyay/getting-started-with-foundry-toolkit",
-    "language": "\u2014",
-    "name": "shinyay/getting-started-with-foundry-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-12T08:00:12Z",
-    "url": "https://github.com/shinyay/getting-started-with-foundry-toolkit"
-  },
-  {
-    "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensib",
-    "id": "swarmauri/swarmauri-sdk",
-    "language": "Python",
-    "name": "swarmauri/swarmauri-sdk",
-    "stars": 103,
-    "updated_at": "2026-08-12T06:23:32Z",
-    "url": "https://github.com/swarmauri/swarmauri-sdk"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 106,
-    "updated_at": "2026-08-12T07:54:29Z",
-    "url": "https://github.com/Insajin/autopus-adk"
   }
 ]
