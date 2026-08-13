@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-13T00:44:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
@@ -22,7 +31,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8731,
+    "stars": 8732,
     "updated_at": "2026-08-13T00:42:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -106,15 +115,6 @@
     "stars": 38,
     "updated_at": "2026-08-13T00:33:33Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-13T00:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI Agent Framework, the Pydantic way",
@@ -365,7 +365,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12756,
-    "updated_at": "2026-08-13T00:44:06Z",
+    "updated_at": "2026-08-13T00:45:01Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
