@@ -1,5 +1,23 @@
 [
   {
+    "description": "Harness-oriented agent system framework for production-grade LLM agent applications",
+    "id": "CodeSoul-co/Hypha",
+    "language": "TypeScript",
+    "name": "CodeSoul-co/Hypha",
+    "stars": 282,
+    "updated_at": "2026-08-13T09:31:26Z",
+    "url": "https://github.com/CodeSoul-co/Hypha"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-13T09:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
     "id": "shibing624/agentica",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 345,
     "updated_at": "2026-08-13T09:28:50Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Harness-oriented agent system framework for production-grade LLM agent applications",
-    "id": "CodeSoul-co/Hypha",
-    "language": "TypeScript",
-    "name": "CodeSoul-co/Hypha",
-    "stars": 282,
-    "updated_at": "2026-08-13T09:28:03Z",
-    "url": "https://github.com/CodeSoul-co/Hypha"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 0,
-    "updated_at": "2026-08-13T09:29:19Z",
+    "updated_at": "2026-08-13T09:31:25Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 7,
     "updated_at": "2026-08-13T09:16:10Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-13T09:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
@@ -234,6 +234,15 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12764,
+    "updated_at": "2026-08-13T08:40:59Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
     "id": "pavanbadempet/AI-Healthcare-System",
     "language": "Python",
@@ -382,7 +391,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34349,
+    "stars": 34350,
     "updated_at": "2026-08-13T08:10:21Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-13T07:54:49Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "\u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u7cfb\u7edf\uff1a\u7ed9 AI \u4e00\u4e2a\u4f1a\u81ea\u6211\u8fdb\u5316\u7684\u8bb0\u5fc6\u7cfb\u7edf\u57fa\u51c6\u6846\u67b6\u3002\u8bb0\u5fc6\u5206\u5c42/\u7ecf\u9a8c\u84b8\u998f/\u6280\u80fd\u8fdb\u5316/\u8fb9\u754c\u5b88\u62a4\uff0c\u4efb\u4f55\u4eba\u5728\u672c\u5730\u5373\u53ef\u90e8\u7f72\u3002",
-    "id": "3loveljw2/self-evolving-agent",
-    "language": "\u2014",
-    "name": "3loveljw2/self-evolving-agent",
-    "stars": 0,
-    "updated_at": "2026-08-13T07:53:33Z",
-    "url": "https://github.com/3loveljw2/self-evolving-agent"
   }
 ]
