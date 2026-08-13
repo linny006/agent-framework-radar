@@ -1,5 +1,50 @@
 [
   {
+    "description": "Turn the way you work with AI into a reusable asset \u00b7 \u628a\u4f60\u7684 AI \u5de5\u4f5c\u65b9\u5f0f\uff0c\u6c89\u6dc0\u6210\u53ef\u4ee5\u590d\u7528\u7684\u8d44\u4ea7\u3002",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 62,
+    "updated_at": "2026-08-13T02:27:41Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 50,
+    "updated_at": "2026-08-13T02:30:24Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-13T02:18:53Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1676,
+    "updated_at": "2026-08-13T02:25:09Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-13T02:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
     "id": "Spitfire-Products/nexus-cortex",
     "language": "TypeScript",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-13T02:07:38Z",
+    "updated_at": "2026-08-13T02:26:50Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -63,31 +108,13 @@
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
-    "description": "Turn the way you work with AI into a reusable asset \u00b7 \u628a\u4f60\u7684 AI \u5de5\u4f5c\u65b9\u5f0f\uff0c\u6c89\u6dc0\u6210\u53ef\u4ee5\u590d\u7528\u7684\u8d44\u4ea7\u3002",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 62,
-    "updated_at": "2026-08-13T02:01:51Z",
-    "url": "https://github.com/pqpo/pragma"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-13T02:14:17Z",
+    "updated_at": "2026-08-13T02:22:54Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-13T02:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
@@ -139,7 +166,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34223,
+    "stars": 34230,
     "updated_at": "2026-08-13T01:48:30Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 20,
-    "updated_at": "2026-08-13T01:50:33Z",
+    "updated_at": "2026-08-13T02:25:08Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -171,15 +198,6 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 50,
-    "updated_at": "2026-08-13T01:58:07Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -193,7 +211,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8739,
+    "stars": 8741,
     "updated_at": "2026-08-13T01:37:45Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "DemonDamon/AgenticX",
     "stars": 209,
-    "updated_at": "2026-08-13T01:37:01Z",
+    "updated_at": "2026-08-13T02:16:19Z",
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
@@ -265,7 +283,7 @@
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
-    "stars": 1293,
+    "stars": 1294,
     "updated_at": "2026-08-13T01:06:38Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19257,
-    "updated_at": "2026-08-13T02:02:44Z",
+    "updated_at": "2026-08-13T02:23:07Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -400,7 +418,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1730,
+    "stars": 1731,
     "updated_at": "2026-08-13T00:26:52Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-13T02:01:44Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Agent context compressor and memory persistent orchestration",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 2,
-    "updated_at": "2026-08-13T00:10:27Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-13T00:09:44Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   }
 ]
