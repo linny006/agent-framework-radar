@@ -1,5 +1,41 @@
 [
   {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-08-13T08:00:57Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-13T08:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1295,
+    "updated_at": "2026-08-13T07:59:59Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Harness-oriented agent system framework for production-grade LLM agent applications",
+    "id": "CodeSoul-co/Hypha",
+    "language": "TypeScript",
+    "name": "CodeSoul-co/Hypha",
+    "stars": 274,
+    "updated_at": "2026-08-13T07:59:40Z",
+    "url": "https://github.com/CodeSoul-co/Hypha"
+  },
+  {
     "description": "langgraph graphic design tool",
     "id": "sjkwon-1023/langgraph_cad",
     "language": "JavaScript",
@@ -34,15 +70,6 @@
     "stars": 345,
     "updated_at": "2026-08-13T07:57:21Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Harness-oriented agent system framework for production-grade LLM agent applications",
-    "id": "CodeSoul-co/Hypha",
-    "language": "TypeScript",
-    "name": "CodeSoul-co/Hypha",
-    "stars": 273,
-    "updated_at": "2026-08-13T07:59:40Z",
-    "url": "https://github.com/CodeSoul-co/Hypha"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26193,
-    "updated_at": "2026-08-13T07:52:41Z",
+    "updated_at": "2026-08-13T08:04:32Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -99,15 +126,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-13T07:45:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -117,15 +135,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1295,
-    "updated_at": "2026-08-13T07:59:59Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
     "id": "pavanbadempet/AI-Healthcare-System",
     "language": "Python",
@@ -133,15 +142,6 @@
     "stars": 40,
     "updated_at": "2026-08-13T07:42:28Z",
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-08-13T07:53:29Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -265,7 +265,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34321,
+    "stars": 34322,
     "updated_at": "2026-08-13T07:05:25Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -400,7 +400,7 @@
     "id": "agents-universe/agents-universe",
     "language": "Python",
     "name": "agents-universe/agents-universe",
-    "stars": 57,
+    "stars": 58,
     "updated_at": "2026-08-13T06:23:23Z",
     "url": "https://github.com/agents-universe/agents-universe"
   },
