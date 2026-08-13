@@ -1,12 +1,93 @@
 [
   {
+    "description": "A self-organizing AI workspace, model agnostic, all in plain markdown. Turn-based and semi-autonomous \u2014 quality output o",
+    "id": "352moose/Agent_Mesh",
+    "language": "\u2014",
+    "name": "352moose/Agent_Mesh",
+    "stars": 0,
+    "updated_at": "2026-08-13T00:29:08Z",
+    "url": "https://github.com/352moose/Agent_Mesh"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1729,
+    "updated_at": "2026-08-13T00:26:52Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 20,
+    "updated_at": "2026-08-13T00:28:45Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
+    "id": "Thepizzapie/BuildersGate",
+    "language": "Python",
+    "name": "Thepizzapie/BuildersGate",
+    "stars": 19,
+    "updated_at": "2026-08-13T00:24:29Z",
+    "url": "https://github.com/Thepizzapie/BuildersGate"
+  },
+  {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 10,
+    "updated_at": "2026-08-13T00:25:27Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-08-13T00:23:32Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 209,
+    "updated_at": "2026-08-13T00:18:41Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 7,
+    "updated_at": "2026-08-13T00:17:41Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-13T00:14:51Z",
+    "updated_at": "2026-08-13T00:26:27Z",
     "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-13T00:15:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-13T00:13:16Z",
+    "updated_at": "2026-08-13T00:26:09Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8729,
-    "updated_at": "2026-08-13T00:12:58Z",
+    "updated_at": "2026-08-13T00:15:51Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -41,7 +122,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1293,
-    "updated_at": "2026-08-13T00:11:24Z",
+    "updated_at": "2026-08-13T00:26:20Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -95,17 +176,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19255,
-    "updated_at": "2026-08-13T00:04:29Z",
+    "updated_at": "2026-08-13T00:28:53Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 7,
-    "updated_at": "2026-08-13T00:04:14Z",
-    "url": "https://github.com/maref-org/maref"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -117,24 +189,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-13T00:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-08-13T00:06:58Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
@@ -144,20 +198,11 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 20,
-    "updated_at": "2026-08-13T00:14:45Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
     "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
     "id": "agents-universe/agents-universe",
     "language": "Python",
     "name": "agents-universe/agents-universe",
-    "stars": 50,
+    "stars": 52,
     "updated_at": "2026-08-12T23:49:21Z",
     "url": "https://github.com/agents-universe/agents-universe"
   },
@@ -187,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T23:46:44Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 209,
-    "updated_at": "2026-08-12T23:46:24Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
-    "id": "Thepizzapie/BuildersGate",
-    "language": "Python",
-    "name": "Thepizzapie/BuildersGate",
-    "stars": 19,
-    "updated_at": "2026-08-12T23:46:06Z",
-    "url": "https://github.com/Thepizzapie/BuildersGate"
   },
   {
     "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
@@ -329,7 +356,7 @@
     "language": "Rust",
     "name": "jiayan-xu/agent-core",
     "stars": 1,
-    "updated_at": "2026-08-12T23:12:21Z",
+    "updated_at": "2026-08-13T00:26:19Z",
     "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
@@ -367,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T22:57:44Z",
     "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "A self-organizing AI workspace, model agnostic, all in plain markdown. Turn-based and semi-autonomous \u2014 quality output o",
-    "id": "352moose/Agent_Mesh",
-    "language": "\u2014",
-    "name": "352moose/Agent_Mesh",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:46:39Z",
-    "url": "https://github.com/352moose/Agent_Mesh"
   },
   {
     "description": "AutoGen Studio is a low-code / no-code developer GUI from Microsoft Research for rapidly prototyping, composing, and deb",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T22:32:20Z",
     "url": "https://github.com/lottieepigastric889/lucky-block-script-hub"
-  },
-  {
-    "description": "Manage files, run shell commands, and control code tasks with this terminal-based agent for DeepSeek V4 on Windows.",
-    "id": "bahateacher/DeepSeek-TUI-2026",
-    "language": "Python",
-    "name": "bahateacher/DeepSeek-TUI-2026",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:30:10Z",
-    "url": "https://github.com/bahateacher/DeepSeek-TUI-2026"
-  },
-  {
-    "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
-    "id": "zerovia/be-a-lucky-block-hub",
-    "language": "HTML",
-    "name": "zerovia/be-a-lucky-block-hub",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:29:24Z",
-    "url": "https://github.com/zerovia/be-a-lucky-block-hub"
   }
 ]
