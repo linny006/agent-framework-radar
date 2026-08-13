@@ -1,11 +1,137 @@
 [
   {
+    "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 0,
+    "updated_at": "2026-08-13T09:59:10Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u667a\u80fd\u4f53\u5f00\u53d1\u6846\u67b6\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001\u53ef\u63a7 Harness \u4e0e Loop",
+    "id": "Eclipseic1848/CoreMind",
+    "language": "TypeScript",
+    "name": "Eclipseic1848/CoreMind",
+    "stars": 4,
+    "updated_at": "2026-08-13T09:57:26Z",
+    "url": "https://github.com/Eclipseic1848/CoreMind"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-13T09:57:15Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-13T09:57:13Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
+    "id": "ayman3000/SwiftAgentKit",
+    "language": "Swift",
+    "name": "ayman3000/SwiftAgentKit",
+    "stars": 1,
+    "updated_at": "2026-08-13T09:56:55Z",
+    "url": "https://github.com/ayman3000/SwiftAgentKit"
+  },
+  {
+    "description": "Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability,",
+    "id": "linora-u/AgentLoom",
+    "language": "Python",
+    "name": "linora-u/AgentLoom",
+    "stars": 105,
+    "updated_at": "2026-08-13T09:54:57Z",
+    "url": "https://github.com/linora-u/AgentLoom"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1733,
+    "updated_at": "2026-08-13T09:54:19Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "A lightweight foundation for shipping specialized AI agents fast.",
+    "id": "ysz7/genesis-agent",
+    "language": "Python",
+    "name": "ysz7/genesis-agent",
+    "stars": 1,
+    "updated_at": "2026-08-13T09:52:39Z",
+    "url": "https://github.com/ysz7/genesis-agent"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 3,
+    "updated_at": "2026-08-13T09:52:30Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34359,
+    "updated_at": "2026-08-13T09:47:59Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
+    "id": "achappey/aihappey-agents",
+    "language": "C#",
+    "name": "achappey/aihappey-agents",
+    "stars": 0,
+    "updated_at": "2026-08-13T09:47:09Z",
+    "url": "https://github.com/achappey/aihappey-agents"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1683,
+    "updated_at": "2026-08-13T09:45:34Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-13T09:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
+    "id": "we-are-singular/aml",
+    "language": "TypeScript",
+    "name": "we-are-singular/aml",
+    "stars": 12,
+    "updated_at": "2026-08-13T09:45:13Z",
+    "url": "https://github.com/we-are-singular/aml"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-13T09:42:11Z",
+    "updated_at": "2026-08-13T09:56:10Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -27,15 +153,6 @@
     "url": "https://github.com/shibing624/agentica"
   },
   {
-    "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 0,
-    "updated_at": "2026-08-13T09:43:20Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -52,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-08-13T09:32:05Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-13T09:31:51Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Harness-oriented agent system framework for production-grade LLM agent applications",
@@ -104,7 +212,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1296,
-    "updated_at": "2026-08-13T09:12:38Z",
+    "updated_at": "2026-08-13T09:52:52Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -140,17 +248,8 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 441,
-    "updated_at": "2026-08-13T09:14:52Z",
+    "updated_at": "2026-08-13T09:58:13Z",
     "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1733,
-    "updated_at": "2026-08-13T09:03:21Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -169,24 +268,6 @@
     "stars": 2,
     "updated_at": "2026-08-13T08:59:59Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 3,
-    "updated_at": "2026-08-13T08:59:29Z",
-    "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1681,
-    "updated_at": "2026-08-13T09:44:15Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
     "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
@@ -230,7 +311,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6771,
-    "updated_at": "2026-08-13T09:43:13Z",
+    "updated_at": "2026-08-13T09:59:50Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -256,7 +337,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12764,
+    "stars": 12765,
     "updated_at": "2026-08-13T08:40:59Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -284,7 +365,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 233,
-    "updated_at": "2026-08-13T08:35:47Z",
+    "updated_at": "2026-08-13T09:51:29Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -356,7 +437,7 @@
     "language": "HTML",
     "name": "israriqbal/agent-ecologies",
     "stars": 156,
-    "updated_at": "2026-08-13T08:17:03Z",
+    "updated_at": "2026-08-13T10:00:04Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T08:17:33Z",
     "url": "https://github.com/franktsaodev/Frank-AI-Agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-13T08:14:57Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-13T08:14:42Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "An agent runtime designed for tool-driven loop engineering.",
-    "id": "wxhcore/bumblehive",
-    "language": "Python",
-    "name": "wxhcore/bumblehive",
-    "stars": 9,
-    "updated_at": "2026-08-13T08:13:44Z",
-    "url": "https://github.com/wxhcore/bumblehive"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-13T08:12:52Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 10,
-    "updated_at": "2026-08-13T08:11:51Z",
-    "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34352,
-    "updated_at": "2026-08-13T08:10:21Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "",
-    "id": "EIA2024/AI-Agent-Harness",
-    "language": "Python",
-    "name": "EIA2024/AI-Agent-Harness",
-    "stars": 0,
-    "updated_at": "2026-08-13T08:09:53Z",
-    "url": "https://github.com/EIA2024/AI-Agent-Harness"
-  },
-  {
-    "description": "Live sanitized mirror of the harness Shadow actually runs on \u2014 contracts, failure-mode taxonomy, skills. Start at impart",
-    "id": "impartshadow/shadow",
-    "language": "Python",
-    "name": "impartshadow/shadow",
-    "stars": 0,
-    "updated_at": "2026-08-13T08:09:23Z",
-    "url": "https://github.com/impartshadow/shadow"
-  },
-  {
-    "description": "langgraph graphic design tool",
-    "id": "sjkwon-1023/langgraph_cad",
-    "language": "JavaScript",
-    "name": "sjkwon-1023/langgraph_cad",
-    "stars": 1,
-    "updated_at": "2026-08-13T08:57:30Z",
-    "url": "https://github.com/sjkwon-1023/langgraph_cad"
   }
 ]
