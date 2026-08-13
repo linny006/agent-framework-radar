@@ -1,11 +1,92 @@
 [
   {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1739,
+    "updated_at": "2026-08-13T22:14:23Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 21,
+    "updated_at": "2026-08-13T22:14:13Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-13T22:13:17Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 3,
+    "updated_at": "2026-08-13T22:11:45Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
+    "id": "mathissdupont/ingot",
+    "language": "Rust",
+    "name": "mathissdupont/ingot",
+    "stars": 1,
+    "updated_at": "2026-08-13T22:13:54Z",
+    "url": "https://github.com/mathissdupont/ingot"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 395,
+    "updated_at": "2026-08-13T22:06:30Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases",
+    "id": "ellmos-ai/gardener",
+    "language": "Python",
+    "name": "ellmos-ai/gardener",
+    "stars": 1,
+    "updated_at": "2026-08-13T22:04:37Z",
+    "url": "https://github.com/ellmos-ai/gardener"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19274,
+    "updated_at": "2026-08-13T22:07:13Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1297,
+    "updated_at": "2026-08-13T22:02:35Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
     "description": "Local SQLite memory for LLM agents and cross-agent context sharing",
     "id": "ellmos-ai/usmc",
     "language": "Python",
     "name": "ellmos-ai/usmc",
     "stars": 1,
-    "updated_at": "2026-08-13T22:01:37Z",
+    "updated_at": "2026-08-13T22:02:06Z",
     "url": "https://github.com/ellmos-ai/usmc"
   },
   {
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-13T22:00:26Z",
+    "updated_at": "2026-08-13T22:01:52Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -63,15 +144,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1297,
-    "updated_at": "2026-08-13T21:53:48Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T21:52:29Z",
     "url": "https://github.com/spice-framework/spice-agent-tui"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-13T21:58:06Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -117,21 +180,12 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 21,
-    "updated_at": "2026-08-13T21:54:55Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-13T21:49:18Z",
+    "updated_at": "2026-08-13T22:14:39Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -144,33 +198,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
-    "id": "mathissdupont/ingot",
-    "language": "Rust",
-    "name": "mathissdupont/ingot",
-    "stars": 1,
-    "updated_at": "2026-08-13T21:46:49Z",
-    "url": "https://github.com/mathissdupont/ingot"
-  },
-  {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 3,
-    "updated_at": "2026-08-13T21:46:49Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
-    "description": "Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases",
-    "id": "ellmos-ai/gardener",
-    "language": "Python",
-    "name": "ellmos-ai/gardener",
-    "stars": 1,
-    "updated_at": "2026-08-13T21:44:00Z",
-    "url": "https://github.com/ellmos-ai/gardener"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -178,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T21:42:37Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1739,
-    "updated_at": "2026-08-13T21:42:23Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -211,7 +229,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34454,
+    "stars": 34457,
     "updated_at": "2026-08-13T21:39:06Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T21:38:13Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19274,
-    "updated_at": "2026-08-13T21:52:51Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8806,
-    "updated_at": "2026-08-13T21:29:44Z",
+    "updated_at": "2026-08-13T22:11:36Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -292,7 +301,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12774,
+    "stars": 12775,
     "updated_at": "2026-08-13T21:29:19Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-13T21:44:16Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-08-13T20:17:44Z",
-    "url": "https://github.com/go-steer/mast"
   }
 ]
