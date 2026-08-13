@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 12:15 UTC
+> ⏰ Last updated: 2026-08-13 12:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 54 | Python | 2026-08-13 | 开源终端 AI 编程 Agent：以在线 Evidence Runtime 验证链（LLM 输出是 Claim、工具结果才是 Evidence）为核心。SWE-bench_Lite 官方评测 40.0% 实例级通过率（同模型 A/B +6. |
-| 2 | [Insajin/autopus-adk](https://github.com/Insajin/autopus-adk) | 106 | Go | 2026-08-13 | Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes |
-| 3 | [cortexkit/aft](https://github.com/cortexkit/aft) | 249 | Rust | 2026-08-13 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 4 | [achappey/aihappey-chat](https://github.com/achappey/aihappey-chat) | 4 | TypeScript | 2026-08-13 | Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a |
-| 5 | [pqpo/pragma](https://github.com/pqpo/pragma) | 63 | TypeScript | 2026-08-13 | Turn the way you work with AI into a reusable asset · 把你的 AI 工作方式，沉淀成可以复用的资产。 |
-| 6 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-13 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 7 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-08-13 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 8 | [AetherAI3/Nano](https://github.com/AetherAI3/Nano) | 3 | Python | 2026-08-13 | Deterministic decision rules for AI agents and trading systems. Plain-text rules in, auditable decisions out — the same  |
-| 9 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 34376 | Go | 2026-08-13 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 10 | [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) | 1303 | Python | 2026-08-13 | Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil |
-| 11 | [nficano/elliott](https://github.com/nficano/elliott) | 0 | TypeScript | 2026-08-13 | Standalone TypeScript framework for composing secure personal AI agents from one universal primitive — the Component. Ma |
-| 12 | [Spitfire-Products/nexus-cortex](https://github.com/Spitfire-Products/nexus-cortex) | 0 | TypeScript | 2026-08-13 | A headless, multi-provider AI agent harness — embed it as a library, script it from the CLI, or run it as a stateful age |
-| 13 | [shibing624/agentica](https://github.com/shibing624/agentica) | 345 | Python | 2026-08-13 | Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea |
-| 14 | [yanacuti1121/Yana-AI](https://github.com/yanacuti1121/Yana-AI) | 1 | Python | 2026-08-13 | Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent |
-| 15 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-08-13 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
-| 16 | [Oryxa-Vault/oryxa](https://github.com/Oryxa-Vault/oryxa) | 1 | Go | 2026-08-13 | Multiplayer AI. Put Claude Code and Codex in one room, on one question, watched by your whole team — neither CLI modifie |
-| 17 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-13 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 18 | [Gald3r-Labs/gald3r](https://github.com/Gald3r-Labs/gald3r) | 23 | — | 2026-08-13 | AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude  |
-| 19 | [111nathanlar/Agent-Worlds](https://github.com/111nathanlar/Agent-Worlds) | 1 | HTML | 2026-08-13 |  |
-| 20 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-13 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 21 | [xuiltul/animaworks](https://github.com/xuiltul/animaworks) | 253 | Python | 2026-08-13 | Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model  |
-| 22 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-08-13 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
-| 23 | [3loveljw2/self-evolving-agent](https://github.com/3loveljw2/self-evolving-agent) | 0 | — | 2026-08-13 | 越用越懂你的系统：给 AI 一个会自我进化的记忆系统基准框架。记忆分层/经验蒸馏/技能进化/边界守护，任何人在本地即可部署。 |
-| 24 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 1 | HTML | 2026-08-13 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
-| 25 | [skerry699/agent-symphony](https://github.com/skerry699/agent-symphony) | 155 | HTML | 2026-08-13 | Multi-Agent AI Task Orchestrator 2026 |
-| 26 | [ggui-ai/ggui](https://github.com/ggui-ai/ggui) | 38 | TypeScript | 2026-08-13 | The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP. |
-| 27 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 13 | TypeScript | 2026-08-13 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
-| 28 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 1 | HTML | 2026-08-13 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
-| 29 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-13 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 30 | [bugsyhewitt/AlienClaw](https://github.com/bugsyhewitt/AlienClaw) | 7 | TypeScript | 2026-08-13 | Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on  |
-| 31 | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 14979 | TypeScript | 2026-08-13 | Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex |
-| 32 | [Deuz-AI/Deuz-SDK](https://github.com/Deuz-AI/Deuz-SDK) | 474 | TypeScript | 2026-08-13 | Zero-dependency TypeScript framework for production AI agents: durable execution, long-term memory, hybrid RAG, MCP tool |
-| 33 | [linora-u/AgentLoom](https://github.com/linora-u/AgentLoom) | 105 | Python | 2026-08-13 | Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability, |
-| 34 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 3 | HTML | 2026-08-13 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 35 | [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6771 | TypeScript | 2026-08-13 | TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan |
-| 36 | [zenml-io/kitaru](https://github.com/zenml-io/kitaru) | 233 | Python | 2026-08-13 | Record, replay, and improve AI agents in production, built on ZenML |
-| 37 | [shipiit/shipit_agent](https://github.com/shipiit/shipit_agent) | 2 | Python | 2026-08-13 | Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets. |
-| 38 | [Eclipseic1848/CoreMind](https://github.com/Eclipseic1848/CoreMind) | 4 | TypeScript | 2026-08-13 | 配置驱动的智能体开发框架：CLI/TUI、TypeScript/Python SDK、可控 Harness 与 Loop |
-| 39 | [EIA2024/AI-Agent-Harness](https://github.com/EIA2024/AI-Agent-Harness) | 0 | Python | 2026-08-13 |  |
-| 40 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 75 | TypeScript | 2026-08-13 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 41 | [qmilab/asterism](https://github.com/qmilab/asterism) | 2 | TypeScript | 2026-08-13 | A local-first runtime for running many distinct agents — each with its own memory, secrets, skills, workspace, and auton |
-| 42 | [Azure-Samples/foundry-hosted-agents-workshop](https://github.com/Azure-Samples/foundry-hosted-agents-workshop) | 4 | Python | 2026-08-13 | A hands-on, step-by-step workshop for building a Travel Assistant agent on Microsoft Foundry hosted agents with the Agen |
-| 43 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26195 | Python | 2026-08-13 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula |
-| 44 | [israriqbal/agent-ecologies](https://github.com/israriqbal/agent-ecologies) | 156 | HTML | 2026-08-13 | Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 |
-| 45 | [bbvch-ai/aihub-core](https://github.com/bbvch-ai/aihub-core) | 10 | Python | 2026-08-13 | The open-source AI infrastructure stack for Swiss enterprises. |
-| 46 | [hoangnc/VNMLAgentFramework](https://github.com/hoangnc/VNMLAgentFramework) | 0 | — | 2026-08-13 | Agent Framework for .NET Developer |
-| 47 | [beilusaiying/always-accompany](https://github.com/beilusaiying/always-accompany) | 260 | JavaScript | 2026-08-13 | Companionship, chat, coding, and work share one memory and context framework — the kind of AI you see in science fiction |
-| 48 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | 1296 | TypeScript | 2026-08-13 | Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An |
-| 49 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 1734 | TypeScript | 2026-08-13 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
-| 50 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 394 | Python | 2026-08-13 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
+| 1 | [GizClaw/flowcraft](https://github.com/GizClaw/flowcraft) | 441 | Go | 2026-08-13 | Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice — runnable as a lib |
+| 2 | [Oryxa-Vault/oryxa](https://github.com/Oryxa-Vault/oryxa) | 1 | Go | 2026-08-13 | Multiplayer AI. Put Claude Code and Codex in one room, on one question, watched by your whole team — neither CLI modifie |
+| 3 | [yeab405/rusty-gitclaw](https://github.com/yeab405/rusty-gitclaw) | 1 | Rust | 2026-08-13 | Build and manage AI agents within git repositories using a Rust-based, dependency-free framework that version-controls a |
+| 4 | [maref-org/maref](https://github.com/maref-org/maref) | 7 | Python | 2026-08-13 | MAREF: Multi-Agent Recursive Evolution Framework — Agent Governance Operating System |
+| 5 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 3 | HTML | 2026-08-13 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 6 | [Unknown384-come/agent-runner](https://github.com/Unknown384-come/agent-runner) | 0 | Go | 2026-08-13 | Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real |
+| 7 | [Rayan55050/progressive-agent](https://github.com/Rayan55050/progressive-agent) | 2 | Python | 2026-08-13 | Provide a customizable AI assistant on Telegram with multiple tools, skills, and monitors that runs locally using hybrid |
+| 8 | [InitialDBklyn/consolidation-memory](https://github.com/InitialDBklyn/consolidation-memory) | 2 | Python | 2026-08-13 | Store, consolidate, and recall coding agent memories with provenance tracking using SQLite and FAISS for fast, structure |
+| 9 | [pavanbadempet/AI-Healthcare-System](https://github.com/pavanbadempet/AI-Healthcare-System) | 41 | Python | 2026-08-13 | AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast |
+| 10 | [tareksyria/SREAgents](https://github.com/tareksyria/SREAgents) | 1 | JavaScript | 2026-08-13 | 🤖 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too |
+| 11 | [RONIN511/alphora](https://github.com/RONIN511/alphora) | 2 | Python | 2026-08-13 | 🤖 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable  |
+| 12 | [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) | 1303 | Python | 2026-08-13 | Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil |
+| 13 | [kaydenplayZ/agent-skills-guide](https://github.com/kaydenplayZ/agent-skills-guide) | 0 | — | 2026-08-13 | 🤖 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr |
+| 14 | [zenml-io/kitaru](https://github.com/zenml-io/kitaru) | 233 | Python | 2026-08-13 | Record, replay, and improve AI agents in production, built on ZenML |
+| 15 | [shipiit/shipit_agent](https://github.com/shipiit/shipit_agent) | 2 | Python | 2026-08-13 | Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets. |
+| 16 | [THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow](https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow) | 0 | Python | 2026-08-13 | 🚀 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro |
+| 17 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-13 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 18 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 54 | Python | 2026-08-13 | 开源终端 AI 编程 Agent：以在线 Evidence Runtime 验证链（LLM 输出是 Claim、工具结果才是 Evidence）为核心。SWE-bench_Lite 官方评测 40.0% 实例级通过率（同模型 A/B +6. |
+| 19 | [Insajin/autopus-adk](https://github.com/Insajin/autopus-adk) | 106 | Go | 2026-08-13 | Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes |
+| 20 | [cortexkit/aft](https://github.com/cortexkit/aft) | 249 | Rust | 2026-08-13 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 21 | [achappey/aihappey-chat](https://github.com/achappey/aihappey-chat) | 4 | TypeScript | 2026-08-13 | Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a |
+| 22 | [pqpo/pragma](https://github.com/pqpo/pragma) | 63 | TypeScript | 2026-08-13 | Turn the way you work with AI into a reusable asset · 把你的 AI 工作方式，沉淀成可以复用的资产。 |
+| 23 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-08-13 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 24 | [AetherAI3/Nano](https://github.com/AetherAI3/Nano) | 3 | Python | 2026-08-13 | Deterministic decision rules for AI agents and trading systems. Plain-text rules in, auditable decisions out — the same  |
+| 25 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 34377 | Go | 2026-08-13 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 26 | [nficano/elliott](https://github.com/nficano/elliott) | 0 | TypeScript | 2026-08-13 | Standalone TypeScript framework for composing secure personal AI agents from one universal primitive — the Component. Ma |
+| 27 | [Spitfire-Products/nexus-cortex](https://github.com/Spitfire-Products/nexus-cortex) | 0 | TypeScript | 2026-08-13 | A headless, multi-provider AI agent harness — embed it as a library, script it from the CLI, or run it as a stateful age |
+| 28 | [shibing624/agentica](https://github.com/shibing624/agentica) | 345 | Python | 2026-08-13 | Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea |
+| 29 | [yanacuti1121/Yana-AI](https://github.com/yanacuti1121/Yana-AI) | 1 | Python | 2026-08-13 | Personal Agent OS. Deterministic runtime guardrails for AI agents with hooks, policy engine, audit logs, and multi-agent |
+| 30 | [raineislam/mcp-framework](https://github.com/raineislam/mcp-framework) | 0 | Python | 2026-08-13 | 🛠️ Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen |
+| 31 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-13 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 32 | [Gald3r-Labs/gald3r](https://github.com/Gald3r-Labs/gald3r) | 23 | — | 2026-08-13 | AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude  |
+| 33 | [111nathanlar/Agent-Worlds](https://github.com/111nathanlar/Agent-Worlds) | 1 | HTML | 2026-08-13 |  |
+| 34 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-13 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 35 | [xuiltul/animaworks](https://github.com/xuiltul/animaworks) | 253 | Python | 2026-08-13 | Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model  |
+| 36 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-08-13 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
+| 37 | [3loveljw2/self-evolving-agent](https://github.com/3loveljw2/self-evolving-agent) | 0 | — | 2026-08-13 | 越用越懂你的系统：给 AI 一个会自我进化的记忆系统基准框架。记忆分层/经验蒸馏/技能进化/边界守护，任何人在本地即可部署。 |
+| 38 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 1 | HTML | 2026-08-13 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
+| 39 | [skerry699/agent-symphony](https://github.com/skerry699/agent-symphony) | 155 | HTML | 2026-08-13 | Multi-Agent AI Task Orchestrator 2026 |
+| 40 | [ggui-ai/ggui](https://github.com/ggui-ai/ggui) | 38 | TypeScript | 2026-08-13 | The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP. |
+| 41 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 13 | TypeScript | 2026-08-13 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
+| 42 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 1 | HTML | 2026-08-13 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
+| 43 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-13 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 44 | [bugsyhewitt/AlienClaw](https://github.com/bugsyhewitt/AlienClaw) | 7 | TypeScript | 2026-08-13 | Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on  |
+| 45 | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 14981 | TypeScript | 2026-08-13 | Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex |
+| 46 | [Deuz-AI/Deuz-SDK](https://github.com/Deuz-AI/Deuz-SDK) | 474 | TypeScript | 2026-08-13 | Zero-dependency TypeScript framework for production AI agents: durable execution, long-term memory, hybrid RAG, MCP tool |
+| 47 | [linora-u/AgentLoom](https://github.com/linora-u/AgentLoom) | 105 | Python | 2026-08-13 | Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability, |
+| 48 | [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6771 | TypeScript | 2026-08-13 | TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan |
+| 49 | [Eclipseic1848/CoreMind](https://github.com/Eclipseic1848/CoreMind) | 4 | TypeScript | 2026-08-13 | 配置驱动的智能体开发框架：CLI/TUI、TypeScript/Python SDK、可控 Harness 与 Loop |
+| 50 | [EIA2024/AI-Agent-Harness](https://github.com/EIA2024/AI-Agent-Harness) | 0 | Python | 2026-08-13 |  |
 <!-- TRACKER_TABLE_END -->
 
 ---

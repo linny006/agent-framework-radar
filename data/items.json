@@ -1,5 +1,158 @@
 [
   {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 441,
+    "updated_at": "2026-08-13T12:29:28Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "Multiplayer AI. Put Claude Code and Codex in one room, on one question, watched by your whole team \u2014 neither CLI modifie",
+    "id": "Oryxa-Vault/oryxa",
+    "language": "Go",
+    "name": "Oryxa-Vault/oryxa",
+    "stars": 1,
+    "updated_at": "2026-08-13T12:28:49Z",
+    "url": "https://github.com/Oryxa-Vault/oryxa"
+  },
+  {
+    "description": "Build and manage AI agents within git repositories using a Rust-based, dependency-free framework that version-controls a",
+    "id": "yeab405/rusty-gitclaw",
+    "language": "Rust",
+    "name": "yeab405/rusty-gitclaw",
+    "stars": 1,
+    "updated_at": "2026-08-13T12:28:46Z",
+    "url": "https://github.com/yeab405/rusty-gitclaw"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 7,
+    "updated_at": "2026-08-13T12:27:40Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-08-13T12:27:33Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
+    "id": "Unknown384-come/agent-runner",
+    "language": "Go",
+    "name": "Unknown384-come/agent-runner",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:27:21Z",
+    "url": "https://github.com/Unknown384-come/agent-runner"
+  },
+  {
+    "description": "Provide a customizable AI assistant on Telegram with multiple tools, skills, and monitors that runs locally using hybrid",
+    "id": "Rayan55050/progressive-agent",
+    "language": "Python",
+    "name": "Rayan55050/progressive-agent",
+    "stars": 2,
+    "updated_at": "2026-08-13T12:27:06Z",
+    "url": "https://github.com/Rayan55050/progressive-agent"
+  },
+  {
+    "description": "Store, consolidate, and recall coding agent memories with provenance tracking using SQLite and FAISS for fast, structure",
+    "id": "InitialDBklyn/consolidation-memory",
+    "language": "Python",
+    "name": "InitialDBklyn/consolidation-memory",
+    "stars": 2,
+    "updated_at": "2026-08-13T12:26:55Z",
+    "url": "https://github.com/InitialDBklyn/consolidation-memory"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 41,
+    "updated_at": "2026-08-13T12:24:43Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
+    "id": "tareksyria/SREAgents",
+    "language": "JavaScript",
+    "name": "tareksyria/SREAgents",
+    "stars": 1,
+    "updated_at": "2026-08-13T12:24:30Z",
+    "url": "https://github.com/tareksyria/SREAgents"
+  },
+  {
+    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
+    "id": "RONIN511/alphora",
+    "language": "Python",
+    "name": "RONIN511/alphora",
+    "stars": 2,
+    "updated_at": "2026-08-13T12:23:24Z",
+    "url": "https://github.com/RONIN511/alphora"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1303,
+    "updated_at": "2026-08-13T12:19:54Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:19:42Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "Record, replay, and improve AI agents in production, built on ZenML",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 233,
+    "updated_at": "2026-08-13T12:23:12Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
+    "id": "shipiit/shipit_agent",
+    "language": "Python",
+    "name": "shipiit/shipit_agent",
+    "stars": 2,
+    "updated_at": "2026-08-13T12:23:22Z",
+    "url": "https://github.com/shipiit/shipit_agent"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:17:00Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-13T12:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
@@ -45,21 +198,12 @@
     "url": "https://github.com/pqpo/pragma"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-13T12:09:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-13T12:08:28Z",
+    "updated_at": "2026-08-13T12:27:53Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -76,18 +220,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34376,
+    "stars": 34377,
     "updated_at": "2026-08-13T12:05:41Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1303,
-    "updated_at": "2026-08-13T12:04:26Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "Standalone TypeScript framework for composing secure personal AI agents from one universal primitive \u2014 the Component. Ma",
@@ -133,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T12:01:35Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Multiplayer AI. Put Claude Code and Codex in one room, on one question, watched by your whole team \u2014 neither CLI modifie",
-    "id": "Oryxa-Vault/oryxa",
-    "language": "Go",
-    "name": "Oryxa-Vault/oryxa",
-    "stars": 1,
-    "updated_at": "2026-08-13T11:57:45Z",
-    "url": "https://github.com/Oryxa-Vault/oryxa"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -274,7 +400,7 @@
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 14979,
+    "stars": 14981,
     "updated_at": "2026-08-13T11:34:59Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
@@ -297,40 +423,13 @@
     "url": "https://github.com/linora-u/AgentLoom"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-08-13T11:29:43Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6771,
-    "updated_at": "2026-08-13T11:27:40Z",
+    "updated_at": "2026-08-13T12:27:39Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Record, replay, and improve AI agents in production, built on ZenML",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 233,
-    "updated_at": "2026-08-13T12:11:09Z",
-    "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
-    "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
-    "id": "shipiit/shipit_agent",
-    "language": "Python",
-    "name": "shipiit/shipit_agent",
-    "stars": 2,
-    "updated_at": "2026-08-13T11:24:22Z",
-    "url": "https://github.com/shipiit/shipit_agent"
   },
   {
     "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u667a\u80fd\u4f53\u5f00\u53d1\u6846\u67b6\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001\u53ef\u63a7 Harness \u4e0e Loop",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T11:19:45Z",
     "url": "https://github.com/EIA2024/AI-Agent-Harness"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-08-13T11:18:52Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 2,
-    "updated_at": "2026-08-13T11:20:20Z",
-    "url": "https://github.com/qmilab/asterism"
-  },
-  {
-    "description": "A hands-on, step-by-step workshop for building a Travel Assistant agent on Microsoft Foundry hosted agents with the Agen",
-    "id": "Azure-Samples/foundry-hosted-agents-workshop",
-    "language": "Python",
-    "name": "Azure-Samples/foundry-hosted-agents-workshop",
-    "stars": 4,
-    "updated_at": "2026-08-13T11:13:38Z",
-    "url": "https://github.com/Azure-Samples/foundry-hosted-agents-workshop"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26195,
-    "updated_at": "2026-08-13T11:06:30Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 156,
-    "updated_at": "2026-08-13T11:05:44Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 10,
-    "updated_at": "2026-08-13T11:04:10Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Agent Framework for .NET Developer",
-    "id": "hoangnc/VNMLAgentFramework",
-    "language": "\u2014",
-    "name": "hoangnc/VNMLAgentFramework",
-    "stars": 0,
-    "updated_at": "2026-08-13T10:53:24Z",
-    "url": "https://github.com/hoangnc/VNMLAgentFramework"
-  },
-  {
-    "description": "Companionship, chat, coding, and work share one memory and context framework \u2014 the kind of AI you see in science fiction",
-    "id": "beilusaiying/always-accompany",
-    "language": "JavaScript",
-    "name": "beilusaiying/always-accompany",
-    "stars": 260,
-    "updated_at": "2026-08-13T10:46:40Z",
-    "url": "https://github.com/beilusaiying/always-accompany"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1296,
-    "updated_at": "2026-08-13T10:43:35Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1734,
-    "updated_at": "2026-08-13T10:39:45Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 394,
-    "updated_at": "2026-08-13T10:32:07Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   }
 ]
