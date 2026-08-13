@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 14:44 UTC
+> ⏰ Last updated: 2026-08-13 14:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [KbWen/agentic-os](https://github.com/KbWen/agentic-os) | 123 | Python | 2026-08-13 | Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w |
-| 2 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 1 | TypeScript | 2026-08-13 | A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Co |
-| 3 | [pqpo/pragma](https://github.com/pqpo/pragma) | 64 | TypeScript | 2026-08-13 | Turn the way you work with AI into a reusable asset · 把你的 AI 工作方式，沉淀成可以复用的资产。 |
-| 4 | [3loveljw2/self-evolving-agent](https://github.com/3loveljw2/self-evolving-agent) | 0 | — | 2026-08-13 | 越用越懂你的系统：给 AI 一个会自我进化的记忆系统基准框架。记忆分层/经验蒸馏/技能进化/边界守护，任何人在本地即可部署。 |
-| 5 | [shibing624/agentica](https://github.com/shibing624/agentica) | 345 | Python | 2026-08-13 | Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea |
-| 6 | [aomi-labs/aomi](https://github.com/aomi-labs/aomi) | 10 | TypeScript | 2026-08-13 | The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library. |
-| 7 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 121 | Shell | 2026-08-13 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
-| 8 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-08-13 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 9 | [zlatko-lakisic/agentic-orchestration](https://github.com/zlatko-lakisic/agentic-orchestration) | 3 | Python | 2026-08-13 | Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess |
-| 10 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 19267 | Python | 2026-08-13 | AI Agent Framework, the Pydantic way |
-| 11 | [zenml-io/kitaru](https://github.com/zenml-io/kitaru) | 234 | Python | 2026-08-13 | Record, replay, and improve AI agents in production, built on ZenML |
-| 12 | [go-steer/mast](https://github.com/go-steer/mast) | 1 | Go | 2026-08-13 | Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o |
-| 13 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-13 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 14 | [wmcmahan/cycgraph](https://github.com/wmcmahan/cycgraph) | 2 | TypeScript | 2026-08-13 | Agent context compressor and memory persistent orchestration |
-| 15 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26197 | Python | 2026-08-13 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula |
-| 16 | [xiaoyesoso/XIntent](https://github.com/xiaoyesoso/XIntent) | 2 | Python | 2026-08-13 | Agent 意图框架 — 把人话翻译成结构化意图+槽位+约束。输入规范化(两阶段) + 三层瀑布式意图识别(Code→Flash→Pro)，80% 请求零 LLM 调用，10ms 内返回。650 测试全过。 |
-| 17 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-13 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-13 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [KbWen/agentic-os](https://github.com/KbWen/agentic-os) | 123 | Python | 2026-08-13 | Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w |
+| 3 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 1 | TypeScript | 2026-08-13 | A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Co |
+| 4 | [pqpo/pragma](https://github.com/pqpo/pragma) | 64 | TypeScript | 2026-08-13 | Turn the way you work with AI into a reusable asset · 把你的 AI 工作方式，沉淀成可以复用的资产。 |
+| 5 | [3loveljw2/self-evolving-agent](https://github.com/3loveljw2/self-evolving-agent) | 0 | — | 2026-08-13 | 越用越懂你的系统：给 AI 一个会自我进化的记忆系统基准框架。记忆分层/经验蒸馏/技能进化/边界守护，任何人在本地即可部署。 |
+| 6 | [shibing624/agentica](https://github.com/shibing624/agentica) | 345 | Python | 2026-08-13 | Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea |
+| 7 | [aomi-labs/aomi](https://github.com/aomi-labs/aomi) | 10 | TypeScript | 2026-08-13 | The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library. |
+| 8 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 121 | Shell | 2026-08-13 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
+| 9 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-08-13 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 10 | [zlatko-lakisic/agentic-orchestration](https://github.com/zlatko-lakisic/agentic-orchestration) | 3 | Python | 2026-08-13 | Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess |
+| 11 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 19267 | Python | 2026-08-13 | AI Agent Framework, the Pydantic way |
+| 12 | [zenml-io/kitaru](https://github.com/zenml-io/kitaru) | 234 | Python | 2026-08-13 | Record, replay, and improve AI agents in production, built on ZenML |
+| 13 | [go-steer/mast](https://github.com/go-steer/mast) | 1 | Go | 2026-08-13 | Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o |
+| 14 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-13 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 15 | [wmcmahan/cycgraph](https://github.com/wmcmahan/cycgraph) | 2 | TypeScript | 2026-08-13 | Agent context compressor and memory persistent orchestration |
+| 16 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26197 | Python | 2026-08-13 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula |
+| 17 | [xiaoyesoso/XIntent](https://github.com/xiaoyesoso/XIntent) | 2 | Python | 2026-08-13 | Agent 意图框架 — 把人话翻译成结构化意图+槽位+约束。输入规范化(两阶段) + 三层瀑布式意图识别(Code→Flash→Pro)，80% 请求零 LLM 调用，10ms 内返回。650 测试全过。 |
 | 18 | [databricks-solutions/consort](https://github.com/databricks-solutions/consort) | 10 | TypeScript | 2026-08-13 | Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv |
 | 19 | [EurusDevSec/eurus-agent](https://github.com/EurusDevSec/eurus-agent) | 1 | Python | 2026-08-13 | A Framework for Agents work efficiency |
 | 20 | [xiaoyesoso/XTAO](https://github.com/xiaoyesoso/XTAO) | 1 | Python | 2026-08-13 | Agent 规划与执行框架｜Plan 即运行时对象｜G4C 五要素 + TAO 步骤级执行 + Replan 自我修正 + 失败回溯 + 信任状态管理 |
