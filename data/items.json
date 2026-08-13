@@ -1,12 +1,84 @@
 [
   {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 3,
+    "updated_at": "2026-08-13T01:57:20Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-13T01:58:33Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-13T01:53:03Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent Harness for Production AI",
+    "id": "aden-hive/hive",
+    "language": "Python",
+    "name": "aden-hive/hive",
+    "stars": 10900,
+    "updated_at": "2026-08-13T01:52:10Z",
+    "url": "https://github.com/aden-hive/hive"
+  },
+  {
     "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
     "id": "devpilgrin/berimor",
     "language": "Rust",
     "name": "devpilgrin/berimor",
     "stars": 2,
-    "updated_at": "2026-08-13T01:44:38Z",
+    "updated_at": "2026-08-13T01:50:29Z",
     "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 155,
+    "updated_at": "2026-08-13T01:48:42Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34216,
+    "updated_at": "2026-08-13T01:48:30Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 20,
+    "updated_at": "2026-08-13T01:50:33Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-13T01:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -18,24 +90,6 @@
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
-    "description": "Multi-Agent Harness for Production AI",
-    "id": "aden-hive/hive",
-    "language": "Python",
-    "name": "aden-hive/hive",
-    "stars": 10899,
-    "updated_at": "2026-08-13T01:42:28Z",
-    "url": "https://github.com/aden-hive/hive"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-13T01:42:21Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -45,21 +99,12 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 3,
-    "updated_at": "2026-08-13T01:40:38Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 50,
-    "updated_at": "2026-08-13T01:40:31Z",
+    "updated_at": "2026-08-13T01:58:07Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -77,7 +122,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-13T01:38:30Z",
+    "updated_at": "2026-08-13T01:49:08Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -85,7 +130,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8738,
+    "stars": 8739,
     "updated_at": "2026-08-13T01:37:45Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -106,15 +151,6 @@
     "stars": 394,
     "updated_at": "2026-08-13T01:32:01Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-13T01:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -151,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T01:23:31Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34215,
-    "updated_at": "2026-08-13T01:22:29Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
@@ -319,7 +346,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19256,
+    "stars": 19257,
     "updated_at": "2026-08-13T00:28:53Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -328,18 +355,9 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1729,
+    "stars": 1730,
     "updated_at": "2026-08-13T00:26:52Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 20,
-    "updated_at": "2026-08-13T01:35:28Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -430,23 +448,5 @@
     "stars": 20,
     "updated_at": "2026-08-12T23:42:21Z",
     "url": "https://github.com/kdcube/kdcube"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-12T23:38:59Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 155,
-    "updated_at": "2026-08-12T23:38:39Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   }
 ]
