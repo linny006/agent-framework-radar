@@ -1,21 +1,75 @@
 [
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-13T18:30:08Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "\ud83d\udd78\ufe0f\u2728 Web-savvy search plugin for DeepSeek-Harness. Grok-level brain, zero search-API drama. Powered by DeepSeek & good vi",
     "id": "xiaoli-qwq/dsh-search",
     "language": "TypeScript",
     "name": "xiaoli-qwq/dsh-search",
     "stars": 1,
-    "updated_at": "2026-08-13T18:28:40Z",
+    "updated_at": "2026-08-13T18:35:59Z",
     "url": "https://github.com/xiaoli-qwq/dsh-search"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-08-13T18:35:08Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-13T18:33:58Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 3,
+    "updated_at": "2026-08-13T18:33:52Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-13T18:34:06Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-13T18:30:25Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-13T18:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 41,
+    "updated_at": "2026-08-13T18:23:47Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -27,15 +81,6 @@
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 3,
-    "updated_at": "2026-08-13T18:20:13Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
@@ -45,13 +90,13 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-13T18:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "HKUDS/nanobot",
+    "stars": 46943,
+    "updated_at": "2026-08-13T18:15:41Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T18:14:38Z",
     "url": "https://github.com/JingHao-Leon/deepseek-harness-guide"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-13T18:25:50Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T18:04:13Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 41,
-    "updated_at": "2026-08-13T18:23:47Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8796,
-    "updated_at": "2026-08-13T17:55:43Z",
+    "updated_at": "2026-08-13T18:35:06Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -221,7 +248,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 21,
-    "updated_at": "2026-08-13T18:28:40Z",
+    "updated_at": "2026-08-13T18:31:53Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19271,
-    "updated_at": "2026-08-13T18:29:47Z",
+    "updated_at": "2026-08-13T18:34:42Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -283,18 +310,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34440,
+    "stars": 34439,
     "updated_at": "2026-08-13T17:34:03Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-13T17:31:36Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
@@ -419,7 +437,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-13T18:28:59Z",
+    "updated_at": "2026-08-13T18:34:25Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T16:49:35Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 14988,
-    "updated_at": "2026-08-13T16:39:09Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
-    "id": "agents-universe/agents-universe",
-    "language": "Python",
-    "name": "agents-universe/agents-universe",
-    "stars": 64,
-    "updated_at": "2026-08-13T16:36:07Z",
-    "url": "https://github.com/agents-universe/agents-universe"
   }
 ]
