@@ -1,21 +1,21 @@
 [
   {
-    "description": "Harness-oriented agent system framework for production-grade LLM agent applications",
-    "id": "CodeSoul-co/Hypha",
-    "language": "TypeScript",
-    "name": "CodeSoul-co/Hypha",
-    "stars": 282,
-    "updated_at": "2026-08-13T09:31:26Z",
-    "url": "https://github.com/CodeSoul-co/Hypha"
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-13T09:42:11Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-13T09:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "kdcube/kdcube",
+    "stars": 21,
+    "updated_at": "2026-08-13T09:41:35Z",
+    "url": "https://github.com/kdcube/kdcube"
   },
   {
     "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
@@ -23,17 +23,53 @@
     "language": "Python",
     "name": "shibing624/agentica",
     "stars": 345,
-    "updated_at": "2026-08-13T09:28:50Z",
+    "updated_at": "2026-08-13T09:41:06Z",
     "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 0,
+    "updated_at": "2026-08-13T09:43:20Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8767,
-    "updated_at": "2026-08-13T09:29:39Z",
+    "stars": 8768,
+    "updated_at": "2026-08-13T09:34:43Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-08-13T09:32:05Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-13T09:31:51Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Harness-oriented agent system framework for production-grade LLM agent applications",
+    "id": "CodeSoul-co/Hypha",
+    "language": "TypeScript",
+    "name": "CodeSoul-co/Hypha",
+    "stars": 282,
+    "updated_at": "2026-08-13T09:31:26Z",
+    "url": "https://github.com/CodeSoul-co/Hypha"
   },
   {
     "description": "AI agent with zero dependencies, bring your own bun",
@@ -61,24 +97,6 @@
     "stars": 1157,
     "updated_at": "2026-08-13T09:20:35Z",
     "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 0,
-    "updated_at": "2026-08-13T09:31:25Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-13T09:16:10Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
@@ -167,7 +185,7 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1681,
-    "updated_at": "2026-08-13T08:59:16Z",
+    "updated_at": "2026-08-13T09:44:15Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -212,7 +230,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6771,
-    "updated_at": "2026-08-13T08:49:45Z",
+    "updated_at": "2026-08-13T09:43:13Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 121,
-    "updated_at": "2026-08-13T08:45:22Z",
+    "updated_at": "2026-08-13T09:37:18Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -304,6 +322,15 @@
     "stars": 11,
     "updated_at": "2026-08-13T08:24:06Z",
     "url": "https://github.com/osovv/vv-opencode"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19261,
+    "updated_at": "2026-08-13T08:20:51Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -391,7 +418,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34350,
+    "stars": 34352,
     "updated_at": "2026-08-13T08:10:21Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -414,15 +441,6 @@
     "url": "https://github.com/impartshadow/shadow"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-08-13T08:07:30Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "langgraph graphic design tool",
     "id": "sjkwon-1023/langgraph_cad",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T08:57:30Z",
     "url": "https://github.com/sjkwon-1023/langgraph_cad"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 394,
-    "updated_at": "2026-08-13T08:50:11Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 10,
-    "updated_at": "2026-08-13T07:54:49Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   }
 ]
