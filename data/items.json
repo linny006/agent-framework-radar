@@ -1,5 +1,140 @@
 [
   {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 21,
+    "updated_at": "2026-08-13T19:42:06Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-13T19:41:57Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 41,
+    "updated_at": "2026-08-13T19:39:52Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12775,
+    "updated_at": "2026-08-13T19:39:29Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 50,
+    "updated_at": "2026-08-13T19:38:07Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19273,
+    "updated_at": "2026-08-13T19:37:54Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-08-13T19:37:31Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-13T19:37:05Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 249,
+    "updated_at": "2026-08-13T19:35:22Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 425,
+    "updated_at": "2026-08-13T19:34:26Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-13T19:33:56Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
+  },
+  {
+    "description": "Search and extract web data locally for AI agents. Run a private intelligence server on your Windows machine with no API",
+    "id": "sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026",
+    "language": "Python",
+    "name": "sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026",
+    "stars": 0,
+    "updated_at": "2026-08-13T19:33:09Z",
+    "url": "https://github.com/sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026"
+  },
+  {
+    "description": "Provide local-first web intelligence for AI agents without API keys, cloud dependencies, or metered billing.",
+    "id": "Dvine6263/wigolo",
+    "language": "\u2014",
+    "name": "Dvine6263/wigolo",
+    "stars": 1,
+    "updated_at": "2026-08-13T19:33:00Z",
+    "url": "https://github.com/Dvine6263/wigolo"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-13T19:31:42Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-13T19:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -45,15 +180,6 @@
     "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-13T19:26:02Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
     "id": "ucsandman/DashClaw",
     "language": "TypeScript",
@@ -81,15 +207,6 @@
     "url": "https://github.com/vmy41/agent-harness"
   },
   {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 21,
-    "updated_at": "2026-08-13T19:30:13Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
     "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
     "id": "Ansellwaxlike187/cowork-semantic-search",
     "language": "Python",
@@ -99,13 +216,13 @@
     "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-13T19:28:19Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
+    "id": "fathirn6263/harness-engineering",
+    "language": "\u2014",
+    "name": "fathirn6263/harness-engineering",
+    "stars": 0,
+    "updated_at": "2026-08-13T19:23:04Z",
+    "url": "https://github.com/fathirn6263/harness-engineering"
   },
   {
     "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
@@ -133,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T19:21:28Z",
     "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19273,
-    "updated_at": "2026-08-13T19:29:59Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
@@ -180,15 +288,6 @@
     "url": "https://github.com/yeab405/rusty-gitclaw"
   },
   {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 41,
-    "updated_at": "2026-08-13T19:18:17Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
     "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
     "id": "Unknown384-come/agent-runner",
     "language": "Go",
@@ -214,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-08-13T19:16:35Z",
     "url": "https://github.com/InitialDBklyn/consolidation-memory"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-13T19:15:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -297,15 +387,6 @@
     "url": "https://github.com/ag2ai/ag2"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 249,
-    "updated_at": "2026-08-13T19:05:02Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
     "id": "sauravbhattacharya001/agentlens",
     "language": "JavaScript",
@@ -319,7 +400,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 46943,
+    "stars": 46944,
     "updated_at": "2026-08-13T19:03:54Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -347,7 +428,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8799,
-    "updated_at": "2026-08-13T19:29:27Z",
+    "updated_at": "2026-08-13T19:32:36Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 156,
     "updated_at": "2026-08-13T18:58:09Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-08-13T19:19:19Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-13T18:54:51Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-13T18:54:39Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 50,
-    "updated_at": "2026-08-13T18:53:44Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
-    "id": "raineislam/mcp-framework",
-    "language": "Python",
-    "name": "raineislam/mcp-framework",
-    "stars": 0,
-    "updated_at": "2026-08-13T18:51:52Z",
-    "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-13T19:30:14Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "ARCHIVED 2026-07-12 \u2014 CLU now ships as a mode of TRON: 4242labs/TRON \u2192 tron-app/modes/clu",
-    "id": "4242labs/tron-clu",
-    "language": "Shell",
-    "name": "4242labs/tron-clu",
-    "stars": 0,
-    "updated_at": "2026-08-13T18:47:51Z",
-    "url": "https://github.com/4242labs/tron-clu"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 121,
-    "updated_at": "2026-08-13T18:47:06Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 425,
-    "updated_at": "2026-08-13T18:44:49Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
   }
 ]
