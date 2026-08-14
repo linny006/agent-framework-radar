@@ -5,26 +5,8 @@
     "language": "Rust",
     "name": "mathissdupont/ingot",
     "stars": 1,
-    "updated_at": "2026-08-14T13:14:12Z",
+    "updated_at": "2026-08-14T13:28:47Z",
     "url": "https://github.com/mathissdupont/ingot"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-14T13:13:42Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34570,
-    "updated_at": "2026-08-14T13:13:25Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -32,8 +14,89 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-14T13:13:22Z",
+    "updated_at": "2026-08-14T13:28:19Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 41,
+    "updated_at": "2026-08-14T13:25:17Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1744,
+    "updated_at": "2026-08-14T13:24:22Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-08-14T13:23:02Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-08-14T13:29:55Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
+    "id": "trbearth/fieldwork-agent-os",
+    "language": "CSS",
+    "name": "trbearth/fieldwork-agent-os",
+    "stars": 0,
+    "updated_at": "2026-08-14T13:16:52Z",
+    "url": "https://github.com/trbearth/fieldwork-agent-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-14T13:15:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-14T13:14:22Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-14T13:27:33Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34569,
+    "updated_at": "2026-08-14T13:13:25Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "The zero-trust framework for autonomous AI agents.",
@@ -90,15 +153,6 @@
     "url": "https://github.com/agentjido/jidoka"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1744,
-    "updated_at": "2026-08-14T13:02:24Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "\ud83e\udd16 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
     "id": "agentjido/jido",
     "language": "Elixir",
@@ -117,24 +171,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-14T13:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-08-14T12:59:40Z",
-    "url": "https://github.com/go-steer/mast"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 236,
-    "updated_at": "2026-08-14T13:11:11Z",
+    "updated_at": "2026-08-14T13:18:39Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
     "stars": 1579,
-    "updated_at": "2026-08-14T13:07:42Z",
+    "updated_at": "2026-08-14T13:28:08Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 10,
-    "updated_at": "2026-08-14T12:51:59Z",
+    "updated_at": "2026-08-14T13:27:32Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Swift",
     "name": "ayman3000/SwiftAgentKit",
     "stars": 1,
-    "updated_at": "2026-08-14T12:03:22Z",
+    "updated_at": "2026-08-14T13:24:14Z",
     "url": "https://github.com/ayman3000/SwiftAgentKit"
   },
   {
@@ -364,7 +400,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8830,
+    "stars": 8831,
     "updated_at": "2026-08-14T11:58:38Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -396,15 +432,6 @@
     "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-14T13:14:22Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "The most Token-efficient open-source AI Agent",
     "id": "clacky-ai/openclacky",
     "language": "Ruby",
@@ -421,32 +448,5 @@
     "stars": 106,
     "updated_at": "2026-08-14T11:35:26Z",
     "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-08-14T11:26:19Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26205,
-    "updated_at": "2026-08-14T11:21:19Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-14T11:20:20Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
