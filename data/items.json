@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-14T19:14:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Cortex System: The Operating System for AI Engineering. Cure Technical Amnesia.",
+    "id": "EcuaByte-lat/Cortex",
+    "language": "TypeScript",
+    "name": "EcuaByte-lat/Cortex",
+    "stars": 2,
+    "updated_at": "2026-08-14T19:14:12Z",
+    "url": "https://github.com/EcuaByte-lat/Cortex"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -43,15 +61,6 @@
     "stars": 4,
     "updated_at": "2026-08-14T19:08:56Z",
     "url": "https://github.com/KPO-Tech/seshat"
-  },
-  {
-    "description": "Cortex System: The Operating System for AI Engineering. Cure Technical Amnesia.",
-    "id": "EcuaByte-lat/Cortex",
-    "language": "TypeScript",
-    "name": "EcuaByte-lat/Cortex",
-    "stars": 2,
-    "updated_at": "2026-08-14T19:14:12Z",
-    "url": "https://github.com/EcuaByte-lat/Cortex"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -135,21 +144,12 @@
     "url": "https://github.com/ellmos-ai/n8n-manager-mcp"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-14T19:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
     "name": "whyihaveyou/dsh-suite",
     "stars": 15,
-    "updated_at": "2026-08-14T19:00:08Z",
+    "updated_at": "2026-08-14T19:15:04Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
