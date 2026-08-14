@@ -1,12 +1,102 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-14T09:45:14Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1744,
+    "updated_at": "2026-08-14T09:41:41Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19285,
+    "updated_at": "2026-08-14T09:41:25Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Bilingual curated DeepSeek Harness plugin directory \u2014 daily compat CI, create-dsh-plugin scaffold, own plugins.",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 7,
+    "updated_at": "2026-08-14T09:38:30Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-14T09:38:14Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-14T09:43:46Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "DeepSeek Harness Plus: an upstream-tracking community layer for curated presets, practical extensions, and guided deploy",
+    "id": "SparkElf/deepseek-harness-plus",
+    "language": "TypeScript",
+    "name": "SparkElf/deepseek-harness-plus",
+    "stars": 1,
+    "updated_at": "2026-08-14T09:33:41Z",
+    "url": "https://github.com/SparkElf/deepseek-harness-plus"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8826,
-    "updated_at": "2026-08-14T09:28:49Z",
+    "updated_at": "2026-08-14T09:32:56Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 2,
+    "updated_at": "2026-08-14T09:44:19Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 2,
+    "updated_at": "2026-08-14T09:32:22Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-14T09:30:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
@@ -36,24 +126,6 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Independent, upstream-tracking DeepSeek Harness community distribution with operational fixes and deployment tooling.",
-    "id": "SparkElf/deepseek-harness-plus",
-    "language": "TypeScript",
-    "name": "SparkElf/deepseek-harness-plus",
-    "stars": 0,
-    "updated_at": "2026-08-14T09:20:04Z",
-    "url": "https://github.com/SparkElf/deepseek-harness-plus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-14T09:18:54Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -63,31 +135,13 @@
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-14T09:27:27Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Record, replay, and improve AI agents in production, built on ZenML",
     "id": "zenml-io/kitaru",
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 235,
-    "updated_at": "2026-08-14T09:14:33Z",
+    "updated_at": "2026-08-14T09:42:27Z",
     "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 2,
-    "updated_at": "2026-08-14T09:27:39Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -108,15 +162,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "Bilingual curated DeepSeek Harness plugin directory \u2014 daily compat CI, create-dsh-plugin scaffold, own plugins.",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 7,
-    "updated_at": "2026-08-14T09:10:18Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "DeepSeek Harness (dsh) \u4ece 0 \u5230 1 \u6df1\u5ea6\u624b\u518c\uff1a\u5b89\u88c5/\u63d2\u4ef6\u5f00\u53d1/\u6027\u80fd\u8c03\u4f18/\u5b9e\u6d4b\u6848\u4f8b/\u540c\u6a21\u578b\u591a Agent \u5b9e\u6d4b\u5bf9\u6bd4\uff08\u4e2d\u6587 + \u82f1\u6587 PDF\uff09",
     "id": "Electricitysheep/dsh-handbook",
     "language": "HTML",
@@ -133,24 +178,6 @@
     "stars": 345,
     "updated_at": "2026-08-14T09:08:44Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1744,
-    "updated_at": "2026-08-14T09:07:41Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-08-14T09:21:20Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
@@ -229,18 +256,9 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 25,
+    "stars": 26,
     "updated_at": "2026-08-14T08:48:29Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-14T08:47:48Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Enterprise Multi-Agent Creative & Copywriting Studio on Google Cloud Vertex AI (Gemini 3 Series, Imagen 3, Veo 2). Featu",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 14,
-    "updated_at": "2026-08-14T08:40:59Z",
+    "updated_at": "2026-08-14T09:40:05Z",
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
@@ -275,7 +293,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1298,
-    "updated_at": "2026-08-14T09:29:07Z",
+    "updated_at": "2026-08-14T09:30:41Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -286,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T08:35:24Z",
     "url": "https://github.com/aevumagent/evo-self-evolving-agent"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19284,
-    "updated_at": "2026-08-14T08:28:58Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "maref-org/maref",
     "stars": 7,
-    "updated_at": "2026-08-14T09:09:30Z",
+    "updated_at": "2026-08-14T09:44:47Z",
     "url": "https://github.com/maref-org/maref"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T07:40:35Z",
     "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
-    "id": "llm-works/llm-gent",
-    "language": "Python",
-    "name": "llm-works/llm-gent",
-    "stars": 0,
-    "updated_at": "2026-08-14T07:38:24Z",
-    "url": "https://github.com/llm-works/llm-gent"
   }
 ]
