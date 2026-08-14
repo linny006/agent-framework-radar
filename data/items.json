@@ -1,5 +1,140 @@
 [
   {
+    "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
+    "id": "mathissdupont/ingot",
+    "language": "Rust",
+    "name": "mathissdupont/ingot",
+    "stars": 1,
+    "updated_at": "2026-08-14T13:14:12Z",
+    "url": "https://github.com/mathissdupont/ingot"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-14T13:13:42Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34570,
+    "updated_at": "2026-08-14T13:13:25Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-14T13:13:22Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "The zero-trust framework for autonomous AI agents.",
+    "id": "calebfaruki/sycophant",
+    "language": "Rust",
+    "name": "calebfaruki/sycophant",
+    "stars": 6,
+    "updated_at": "2026-08-14T13:10:09Z",
+    "url": "https://github.com/calebfaruki/sycophant"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 2,
+    "updated_at": "2026-08-14T13:09:14Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
+    "id": "motojinc25/chatwalaau",
+    "language": "Python",
+    "name": "motojinc25/chatwalaau",
+    "stars": 2,
+    "updated_at": "2026-08-14T13:09:05Z",
+    "url": "https://github.com/motojinc25/chatwalaau"
+  },
+  {
+    "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
+    "id": "OpenSparX/MasterAgent",
+    "language": "C++",
+    "name": "OpenSparX/MasterAgent",
+    "stars": 93,
+    "updated_at": "2026-08-14T13:05:18Z",
+    "url": "https://github.com/OpenSparX/MasterAgent"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-14T13:03:12Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
+    "id": "agentjido/jidoka",
+    "language": "Elixir",
+    "name": "agentjido/jidoka",
+    "stars": 37,
+    "updated_at": "2026-08-14T13:02:35Z",
+    "url": "https://github.com/agentjido/jidoka"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1744,
+    "updated_at": "2026-08-14T13:02:24Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "\ud83e\udd16 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
+    "id": "agentjido/jido",
+    "language": "Elixir",
+    "name": "agentjido/jido",
+    "stars": 1805,
+    "updated_at": "2026-08-14T13:01:45Z",
+    "url": "https://github.com/agentjido/jido"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-08-14T13:01:34Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-14T13:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-08-14T12:59:40Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -14,7 +149,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 236,
-    "updated_at": "2026-08-14T12:57:58Z",
+    "updated_at": "2026-08-14T13:11:11Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -31,7 +166,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19289,
+    "stars": 19290,
     "updated_at": "2026-08-14T12:55:24Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -95,17 +230,8 @@
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
     "stars": 1579,
-    "updated_at": "2026-08-14T12:58:51Z",
+    "updated_at": "2026-08-14T13:07:42Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-14T12:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -117,15 +243,6 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1744,
-    "updated_at": "2026-08-14T12:42:22Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
@@ -133,15 +250,6 @@
     "stars": 121,
     "updated_at": "2026-08-14T12:40:52Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34572,
-    "updated_at": "2026-08-14T12:40:00Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -171,15 +279,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-14T12:47:13Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
     "id": "shimo4228/contemplative-agent",
     "language": "Python",
@@ -187,15 +286,6 @@
     "stars": 5,
     "updated_at": "2026-08-14T12:24:43Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-14T12:49:13Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
@@ -274,7 +364,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8829,
+    "stars": 8830,
     "updated_at": "2026-08-14T11:58:38Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -311,7 +401,7 @@
     "language": "HTML",
     "name": "IkhsanMAlbar/govchain-llm-orchestrator",
     "stars": 0,
-    "updated_at": "2026-08-14T11:47:19Z",
+    "updated_at": "2026-08-14T13:14:22Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
@@ -342,6 +432,15 @@
     "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26205,
+    "updated_at": "2026-08-14T11:21:19Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 76,
     "updated_at": "2026-08-14T11:20:20Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 2,
-    "updated_at": "2026-08-14T11:19:14Z",
-    "url": "https://github.com/qmilab/asterism"
-  },
-  {
-    "description": "DeepSeek Harness (dsh) \u4ece 0 \u5230 1 \u6df1\u5ea6\u624b\u518c\uff1a\u5b89\u88c5/\u63d2\u4ef6\u5f00\u53d1/\u6027\u80fd\u8c03\u4f18/\u5b9e\u6d4b\u6848\u4f8b/\u540c\u6a21\u578b\u591a Agent \u5b9e\u6d4b\u5bf9\u6bd4\uff08\u4e2d\u6587 + \u82f1\u6587 PDF\uff09",
-    "id": "Electricitysheep/dsh-handbook",
-    "language": "HTML",
-    "name": "Electricitysheep/dsh-handbook",
-    "stars": 159,
-    "updated_at": "2026-08-14T11:18:37Z",
-    "url": "https://github.com/Electricitysheep/dsh-handbook"
-  },
-  {
-    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
-    "id": "Gald3r-Labs/gald3r",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r",
-    "stars": 23,
-    "updated_at": "2026-08-14T11:17:32Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-14T11:03:32Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-08-14T11:02:31Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 6,
-    "updated_at": "2026-08-14T11:11:23Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
-    "id": "achappey/aihappey-agents",
-    "language": "C#",
-    "name": "achappey/aihappey-agents",
-    "stars": 0,
-    "updated_at": "2026-08-14T10:57:03Z",
-    "url": "https://github.com/achappey/aihappey-agents"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 46983,
-    "updated_at": "2026-08-14T10:55:27Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 19,
-    "updated_at": "2026-08-14T12:32:48Z",
-    "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Turn any skill into a standalone, runnable RAG-native AI Agent",
-    "id": "agenthatch/agenthatch",
-    "language": "Python",
-    "name": "agenthatch/agenthatch",
-    "stars": 65,
-    "updated_at": "2026-08-14T10:44:02Z",
-    "url": "https://github.com/agenthatch/agenthatch"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 28,
-    "updated_at": "2026-08-14T10:43:03Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   }
 ]
