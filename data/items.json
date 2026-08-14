@@ -1,5 +1,113 @@
 [
   {
+    "description": "Enterprise Multi-Agent Creative & Copywriting Studio on Google Cloud Vertex AI (Gemini 3 Series, Imagen 3, Veo 2). Featu",
+    "id": "abhisoni-sketch/ZiWan-Creative-Studio",
+    "language": "Python",
+    "name": "abhisoni-sketch/ZiWan-Creative-Studio",
+    "stars": 0,
+    "updated_at": "2026-08-14T08:44:42Z",
+    "url": "https://github.com/abhisoni-sketch/ZiWan-Creative-Studio"
+  },
+  {
+    "description": "DeepSeek Harness \u591a\u667a\u80fd\u4f53\u7f16\u6392\u6a21\u5f0f \u2014 \u7075\u611f\u6765\u81ea oh-my-opencode-slim",
+    "id": "bernardleex526/oh_my_deepseek_harness",
+    "language": "JavaScript",
+    "name": "bernardleex526/oh_my_deepseek_harness",
+    "stars": 2,
+    "updated_at": "2026-08-14T08:41:42Z",
+    "url": "https://github.com/bernardleex526/oh_my_deepseek_harness"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 14,
+    "updated_at": "2026-08-14T08:40:59Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 212,
+    "updated_at": "2026-08-14T08:40:02Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 24,
+    "updated_at": "2026-08-14T08:39:51Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Bilingual curated DeepSeek Harness plugin directory \u2014 daily compat CI, create-dsh-plugin scaffold, own plugins.",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 7,
+    "updated_at": "2026-08-14T08:38:18Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1298,
+    "updated_at": "2026-08-14T08:43:49Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Self-evolving AI Agent that adapts to user preferences over time. Works with ChatGPT, Claude, and 40+ platforms via Agen",
+    "id": "aevumagent/evo-self-evolving-agent",
+    "language": "Python",
+    "name": "aevumagent/evo-self-evolving-agent",
+    "stars": 1,
+    "updated_at": "2026-08-14T08:35:24Z",
+    "url": "https://github.com/aevumagent/evo-self-evolving-agent"
+  },
+  {
+    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-14T08:34:23Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-14T08:30:53Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-14T08:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8824,
+    "updated_at": "2026-08-14T08:39:58Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "AI Agent Framework, the Pydantic way",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -14,17 +122,8 @@
     "language": "TypeScript",
     "name": "hara-cli/hara",
     "stars": 3,
-    "updated_at": "2026-08-14T08:28:29Z",
+    "updated_at": "2026-08-14T08:36:51Z",
     "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "Bilingual curated DeepSeek Harness plugin directory \u2014 daily compat CI, create-dsh-plugin scaffold, own plugins.",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 7,
-    "updated_at": "2026-08-14T08:27:52Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Record, replay, and improve AI agents in production, built on ZenML",
@@ -32,7 +131,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 235,
-    "updated_at": "2026-08-14T08:25:08Z",
+    "updated_at": "2026-08-14T08:42:38Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -88,15 +187,6 @@
     "stars": 441,
     "updated_at": "2026-08-14T08:19:53Z",
     "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-14T08:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -158,35 +248,8 @@
     "language": "Python",
     "name": "maref-org/maref",
     "stars": 7,
-    "updated_at": "2026-08-14T08:12:53Z",
+    "updated_at": "2026-08-14T08:45:22Z",
     "url": "https://github.com/maref-org/maref"
-  },
-  {
-    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-08-14T08:20:38Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-14T08:23:02Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization \u00b7 PPT \u00b7 Co",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 23,
-    "updated_at": "2026-08-14T08:04:32Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -283,18 +346,9 @@
     "id": "Electricitysheep/dsh-handbook",
     "language": "HTML",
     "name": "Electricitysheep/dsh-handbook",
-    "stars": 128,
-    "updated_at": "2026-08-14T07:40:23Z",
+    "stars": 129,
+    "updated_at": "2026-08-14T08:44:45Z",
     "url": "https://github.com/Electricitysheep/dsh-handbook"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8823,
-    "updated_at": "2026-08-14T08:29:18Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Agent framework with trait-based architecture and learning capabilities",
@@ -331,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-08-14T07:36:57Z",
     "url": "https://github.com/kimsanguine/hplan"
-  },
-  {
-    "description": "Enterprise Multi-Agent Creative & Copywriting Studio on Google Cloud Vertex AI (Gemini 3 Series, Imagen 3, Veo 2). Featu",
-    "id": "abhisoni-sketch/ZiWan-Creative-Studio",
-    "language": "Python",
-    "name": "abhisoni-sketch/ZiWan-Creative-Studio",
-    "stars": 0,
-    "updated_at": "2026-08-14T07:35:53Z",
-    "url": "https://github.com/abhisoni-sketch/ZiWan-Creative-Studio"
   },
   {
     "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T07:04:42Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-14T07:04:25Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1158,
-    "updated_at": "2026-08-14T07:04:00Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 3,
-    "updated_at": "2026-08-14T07:03:40Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "\u77e5\u672b\u667a\u4e91 \u00b7 Agent \u7f16\u6392\u3001\u5ba1\u6279\u4e0e\u5de5\u5177\u6267\u884c\u5de5\u4f5c\u53f0",
-    "id": "zmzai-cloud/zmzai-agent",
-    "language": "TypeScript",
-    "name": "zmzai-cloud/zmzai-agent",
-    "stars": 0,
-    "updated_at": "2026-08-14T07:02:46Z",
-    "url": "https://github.com/zmzai-cloud/zmzai-agent"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1298,
-    "updated_at": "2026-08-14T08:26:54Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   }
 ]
