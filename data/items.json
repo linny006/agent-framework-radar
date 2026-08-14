@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-14T20:29:26Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-14T20:29:21Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 293,
+    "updated_at": "2026-08-14T20:29:15Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "MCP for MCPs \u2014 domain-agnostic artifact judging + create-verify iteration. Score any artifact against any rubric, iterat",
+    "id": "mikelninh/judge-mcp",
+    "language": "Python",
+    "name": "mikelninh/judge-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-14T20:28:39Z",
+    "url": "https://github.com/mikelninh/judge-mcp"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-08-14T20:28:30Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-14T20:27:41Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T20:25:48Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 293,
-    "updated_at": "2026-08-14T20:20:53Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -108,30 +153,12 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-14T20:26:29Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-14T20:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Cortex System: The Operating System for AI Engineering. Cure Technical Amnesia.",
     "id": "EcuaByte-lat/Cortex",
     "language": "TypeScript",
     "name": "EcuaByte-lat/Cortex",
     "stars": 2,
-    "updated_at": "2026-08-14T20:25:08Z",
+    "updated_at": "2026-08-14T20:30:00Z",
     "url": "https://github.com/EcuaByte-lat/Cortex"
   },
   {
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-08-14T20:09:35Z",
+    "updated_at": "2026-08-14T20:29:59Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 2,
-    "updated_at": "2026-08-14T20:21:55Z",
+    "updated_at": "2026-08-14T20:29:11Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -205,24 +232,6 @@
     "stars": 19,
     "updated_at": "2026-08-14T19:52:41Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-14T19:47:02Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-08-14T19:46:01Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -439,14 +448,5 @@
     "stars": 35,
     "updated_at": "2026-08-14T18:49:18Z",
     "url": "https://github.com/amajorai/ryu"
-  },
-  {
-    "description": "A curated, opinionated set of OpenCode plugins for spec-first, review-driven, safer agentic development.",
-    "id": "osovv/vv-opencode",
-    "language": "TypeScript",
-    "name": "osovv/vv-opencode",
-    "stars": 11,
-    "updated_at": "2026-08-14T18:48:22Z",
-    "url": "https://github.com/osovv/vv-opencode"
   }
 ]
