@@ -1,5 +1,68 @@
 [
   {
+    "description": "Ready-to-use AI agents for AgentsKit \u2014 shadcn-style: copy the source into your project. registry.agentskit.io",
+    "id": "AgentsKit-io/agentskit-registry",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit-registry",
+    "stars": 5,
+    "updated_at": "2026-08-14T22:41:02Z",
+    "url": "https://github.com/AgentsKit-io/agentskit-registry"
+  },
+  {
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
+    "language": "Python",
+    "name": "rllm-org/rllm",
+    "stars": 5784,
+    "updated_at": "2026-08-14T22:40:44Z",
+    "url": "https://github.com/rllm-org/rllm"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-14T22:38:13Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 8,
+    "updated_at": "2026-08-14T22:38:06Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
+    "id": "Thepizzapie/BuildersGate",
+    "language": "Python",
+    "name": "Thepizzapie/BuildersGate",
+    "stars": 21,
+    "updated_at": "2026-08-14T22:36:55Z",
+    "url": "https://github.com/Thepizzapie/BuildersGate"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-08-14T22:36:21Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-14T22:30:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -25,15 +88,6 @@
     "stars": 293,
     "updated_at": "2026-08-14T22:25:19Z",
     "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
-    "id": "Thepizzapie/BuildersGate",
-    "language": "Python",
-    "name": "Thepizzapie/BuildersGate",
-    "stars": 21,
-    "updated_at": "2026-08-14T22:24:46Z",
-    "url": "https://github.com/Thepizzapie/BuildersGate"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -79,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-08-14T22:19:56Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-14T22:30:13Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -142,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T22:15:52Z",
     "url": "https://github.com/breakingthecloud/tinkuy"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-14T22:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -234,21 +270,12 @@
     "url": "https://github.com/dgenio/intentflow"
   },
   {
-    "description": "Ready-to-use AI agents for AgentsKit \u2014 shadcn-style: copy the source into your project. registry.agentskit.io",
-    "id": "AgentsKit-io/agentskit-registry",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit-registry",
-    "stars": 5,
-    "updated_at": "2026-08-14T22:29:49Z",
-    "url": "https://github.com/AgentsKit-io/agentskit-registry"
-  },
-  {
     "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
     "id": "agentdecksdk/agentdeck",
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 0,
-    "updated_at": "2026-08-14T22:14:11Z",
+    "updated_at": "2026-08-14T22:40:07Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -286,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T22:08:41Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-08-14T22:08:28Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -340,6 +358,15 @@
     "stars": 0,
     "updated_at": "2026-08-14T21:24:25Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12805,
+    "updated_at": "2026-08-14T21:24:03Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-14T20:01:00Z",
     "url": "https://github.com/devpilgrin/berimor"
-  },
-  {
-    "description": "An open specification for persisting a named AI agent as a file instead of a running process. Portable agent profiles wi",
-    "id": "alexmerced-oss/open-agent-profile",
-    "language": "Python",
-    "name": "alexmerced-oss/open-agent-profile",
-    "stars": 0,
-    "updated_at": "2026-08-14T19:57:47Z",
-    "url": "https://github.com/alexmerced-oss/open-agent-profile"
-  },
-  {
-    "description": "A sandboxed, full-featured agent operating system in a single Go binary. Bring any model, manage local models, point it ",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 2,
-    "updated_at": "2026-08-14T21:46:42Z",
-    "url": "https://github.com/ionalpha/flynn"
-  },
-  {
-    "description": "Declarative agent runtime in Go: define governable AI agents as YAML, not code \u2014 run them headless, as a service, or on ",
-    "id": "Federicoand98/mani",
-    "language": "Go",
-    "name": "Federicoand98/mani",
-    "stars": 0,
-    "updated_at": "2026-08-14T19:48:13Z",
-    "url": "https://github.com/Federicoand98/mani"
   }
 ]
