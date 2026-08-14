@@ -1,5 +1,32 @@
 [
   {
+    "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
+    "id": "ayman3000/SwiftAgentKit",
+    "language": "Swift",
+    "name": "ayman3000/SwiftAgentKit",
+    "stars": 1,
+    "updated_at": "2026-08-14T21:18:31Z",
+    "url": "https://github.com/ayman3000/SwiftAgentKit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-14T21:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Plain-text, model-agnostic AI agent development harness with 3-mode autonomy, GitNexus integration, and multi-environmen",
+    "id": "3rdAI-admin/th3rdai-harness",
+    "language": "Python",
+    "name": "3rdAI-admin/th3rdai-harness",
+    "stars": 1,
+    "updated_at": "2026-08-14T21:17:43Z",
+    "url": "https://github.com/3rdAI-admin/th3rdai-harness"
+  },
+  {
     "description": "The .NET library to build AI agents with 30+ built-in connectors.",
     "id": "lofcz/LLMTornado",
     "language": "C#",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8842,
-    "updated_at": "2026-08-14T21:14:58Z",
+    "updated_at": "2026-08-14T21:15:29Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Go",
     "name": "go-steer/mast",
     "stars": 1,
-    "updated_at": "2026-08-14T21:03:12Z",
+    "updated_at": "2026-08-14T21:18:12Z",
     "url": "https://github.com/go-steer/mast"
   },
   {
@@ -88,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-14T21:01:51Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-14T21:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -153,15 +171,6 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
-    "description": "KAF - The governance layer for multi-agent swarms. Constitution-as-Code + 520 Runtime Guard. Stop AI agents from deletin",
-    "id": "lsjpp2/king-agent-swarm",
-    "language": "Python",
-    "name": "lsjpp2/king-agent-swarm",
-    "stars": 1,
-    "updated_at": "2026-08-14T20:41:30Z",
-    "url": "https://github.com/lsjpp2/king-agent-swarm"
-  },
-  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
@@ -185,7 +194,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 75,
-    "updated_at": "2026-08-14T20:34:05Z",
+    "updated_at": "2026-08-14T21:15:53Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -239,7 +248,7 @@
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-14T20:24:26Z",
+    "updated_at": "2026-08-14T21:18:48Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
@@ -427,7 +436,7 @@
     "id": "congchuanling-dot/Cohort",
     "language": "Go",
     "name": "congchuanling-dot/Cohort",
-    "stars": 42,
+    "stars": 43,
     "updated_at": "2026-08-14T18:58:16Z",
     "url": "https://github.com/congchuanling-dot/Cohort"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T19:02:35Z",
     "url": "https://github.com/Zhivex/zhivex-ai-sdk-py"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6908,
-    "updated_at": "2026-08-14T18:56:52Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
