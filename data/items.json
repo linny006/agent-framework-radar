@@ -1,21 +1,12 @@
 [
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34523,
-    "updated_at": "2026-08-14T05:15:17Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Agent Framework for .NET Developer",
-    "id": "hoangnc/VNMLAgentFramework",
-    "language": "\u2014",
-    "name": "hoangnc/VNMLAgentFramework",
-    "stars": 0,
-    "updated_at": "2026-08-14T05:14:48Z",
-    "url": "https://github.com/hoangnc/VNMLAgentFramework"
+    "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
+    "id": "polymind-inc/agent-framework-js",
+    "language": "TypeScript",
+    "name": "polymind-inc/agent-framework-js",
+    "stars": 4,
+    "updated_at": "2026-08-14T05:17:37Z",
+    "url": "https://github.com/polymind-inc/agent-framework-js"
   },
   {
     "description": "Agent context compressor and memory persistent orchestration",
@@ -23,8 +14,35 @@
     "language": "TypeScript",
     "name": "wmcmahan/cycgraph",
     "stars": 2,
-    "updated_at": "2026-08-14T05:14:12Z",
+    "updated_at": "2026-08-14T05:17:32Z",
     "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "Agent Framework for .NET Developer",
+    "id": "hoangnc/VNMLAgentFramework",
+    "language": "\u2014",
+    "name": "hoangnc/VNMLAgentFramework",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:15:35Z",
+    "url": "https://github.com/hoangnc/VNMLAgentFramework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-14T05:15:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34525,
+    "updated_at": "2026-08-14T05:15:17Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
@@ -32,7 +50,7 @@
     "language": "TypeScript",
     "name": "ucsandman/DashClaw",
     "stars": 292,
-    "updated_at": "2026-08-14T05:10:42Z",
+    "updated_at": "2026-08-14T05:18:38Z",
     "url": "https://github.com/ucsandman/DashClaw"
   },
   {
@@ -126,15 +144,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-14T05:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
     "id": "pavanbadempet/AI-Healthcare-System",
     "language": "Python",
@@ -185,7 +194,7 @@
     "language": "TypeScript",
     "name": "CodeSoul-co/Hypha",
     "stars": 328,
-    "updated_at": "2026-08-14T04:52:17Z",
+    "updated_at": "2026-08-14T05:16:35Z",
     "url": "https://github.com/CodeSoul-co/Hypha"
   },
   {
@@ -295,6 +304,15 @@
     "stars": 6,
     "updated_at": "2026-08-14T05:02:54Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Record, replay, and improve AI agents in production, built on ZenML",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 235,
+    "updated_at": "2026-08-14T04:24:56Z",
+    "url": "https://github.com/zenml-io/kitaru"
   },
   {
     "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-14T04:00:49Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 130,
-    "updated_at": "2026-08-14T03:58:46Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u667a\u80fd\u4f53\u5f00\u53d1\u6846\u67b6\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001\u53ef\u63a7 Harness \u4e0e Loop",
-    "id": "Eclipseic1848/CoreMind",
-    "language": "TypeScript",
-    "name": "Eclipseic1848/CoreMind",
-    "stars": 4,
-    "updated_at": "2026-08-14T04:31:36Z",
-    "url": "https://github.com/Eclipseic1848/CoreMind"
   }
 ]
