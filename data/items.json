@@ -1,5 +1,68 @@
 [
   {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1157,
+    "updated_at": "2026-08-13T23:57:18Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 121,
+    "updated_at": "2026-08-13T23:56:56Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 21,
+    "updated_at": "2026-08-13T23:56:24Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12778,
+    "updated_at": "2026-08-13T23:55:52Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 30,
+    "updated_at": "2026-08-13T23:52:03Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 253,
+    "updated_at": "2026-08-13T23:50:48Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-13T23:48:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An open-source agentic OS \u2014 infrastructure, not prompt text: multi-member runtime, auto-routed parallel context spaces, ",
     "id": "5000Stadia/Kernos",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 69,
     "updated_at": "2026-08-13T23:47:37Z",
     "url": "https://github.com/agents-universe/agents-universe"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-13T23:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 8807,
-    "updated_at": "2026-08-13T23:42:56Z",
+    "updated_at": "2026-08-13T23:57:53Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Rust",
     "name": "ThousandBirdsInc/chidori",
     "stars": 1362,
-    "updated_at": "2026-08-13T23:45:33Z",
+    "updated_at": "2026-08-13T23:49:54Z",
     "url": "https://github.com/ThousandBirdsInc/chidori"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 155,
     "updated_at": "2026-08-13T23:38:24Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 21,
-    "updated_at": "2026-08-13T23:43:42Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T23:32:50Z",
     "url": "https://github.com/spice-framework/spice-agent"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1157,
-    "updated_at": "2026-08-13T23:32:42Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
     "description": "Reference generated coding-agent distribution built with Spice Agent.",
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19274,
-    "updated_at": "2026-08-13T23:42:08Z",
+    "updated_at": "2026-08-13T23:59:22Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 1297,
     "updated_at": "2026-08-13T23:02:26Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 121,
-    "updated_at": "2026-08-13T23:45:16Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Standalone SDK workspace for building Aomi dynamic plugins.",
@@ -351,24 +378,6 @@
     "url": "https://github.com/mmeyerlein/meclaw"
   },
   {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 253,
-    "updated_at": "2026-08-13T22:31:18Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-13T23:47:51Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
     "id": "go-steer/mast",
     "language": "Go",
@@ -391,7 +400,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1739,
+    "stars": 1740,
     "updated_at": "2026-08-13T22:14:23Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T22:02:06Z",
     "url": "https://github.com/ellmos-ai/usmc"
-  },
-  {
-    "description": "Captain Agent OS: self-hosted, local-first autonomous AI agent runtime in Rust with persistent memory, tools, workflows,",
-    "id": "Vivien83/captain",
-    "language": "Rust",
-    "name": "Vivien83/captain",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:58:01Z",
-    "url": "https://github.com/Vivien83/captain"
   }
 ]
