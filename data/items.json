@@ -1,5 +1,68 @@
 [
   {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 19,
+    "updated_at": "2026-08-14T19:52:41Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-08-14T19:56:31Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1746,
+    "updated_at": "2026-08-14T19:48:44Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-14T19:47:02Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-08-14T19:46:01Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 50,
+    "updated_at": "2026-08-14T19:48:05Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-14T19:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
@@ -23,7 +86,7 @@
     "language": "Go",
     "name": "Federicoand98/mani",
     "stars": 0,
-    "updated_at": "2026-08-14T19:44:42Z",
+    "updated_at": "2026-08-14T19:48:13Z",
     "url": "https://github.com/Federicoand98/mani"
   },
   {
@@ -32,7 +95,7 @@
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
     "stars": 1581,
-    "updated_at": "2026-08-14T19:44:40Z",
+    "updated_at": "2026-08-14T19:51:08Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
   {
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-14T19:43:43Z",
+    "updated_at": "2026-08-14T19:45:46Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 30,
     "updated_at": "2026-08-14T19:42:41Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 50,
-    "updated_at": "2026-08-14T19:44:33Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -117,21 +171,12 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1746,
-    "updated_at": "2026-08-14T19:39:02Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "Cortex System: The Operating System for AI Engineering. Cure Technical Amnesia.",
     "id": "EcuaByte-lat/Cortex",
     "language": "TypeScript",
     "name": "EcuaByte-lat/Cortex",
     "stars": 2,
-    "updated_at": "2026-08-14T19:43:11Z",
+    "updated_at": "2026-08-14T19:51:29Z",
     "url": "https://github.com/EcuaByte-lat/Cortex"
   },
   {
@@ -153,13 +198,13 @@
     "url": "https://github.com/ellmos-ai/ellmos-stack"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-14T19:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "ag2ai/ag2",
+    "stars": 4859,
+    "updated_at": "2026-08-14T19:30:09Z",
+    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
@@ -207,15 +252,6 @@
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4858,
-    "updated_at": "2026-08-14T19:30:09Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
     "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
     "id": "MariusYvard/corparius",
     "language": "Python",
@@ -248,7 +284,7 @@
     "language": "HTML",
     "name": "Rakshit64w43/agent-gateway-hub",
     "stars": 3,
-    "updated_at": "2026-08-14T19:07:08Z",
+    "updated_at": "2026-08-14T19:54:59Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/AetherAI3/Nano"
   },
   {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-14T18:52:06Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
     "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
     "id": "akimoto-akira/SiliconLifeCollective",
     "language": "C#",
@@ -376,15 +403,6 @@
     "stars": 3,
     "updated_at": "2026-08-14T18:51:21Z",
     "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-08-14T18:50:42Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   },
   {
     "description": "The universal agent interface & open composable platform for agent orchestration and knowledge sharing. Build plugins th",
@@ -414,15 +432,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 19,
-    "updated_at": "2026-08-14T18:45:52Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
     "id": "zlatko-lakisic/agentic-orchestration",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 236,
     "updated_at": "2026-08-14T19:38:57Z",
     "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
-    "description": "Goga is an AI engineering platform for building software with AI agents. Combine engineering knowledge, AI tools, and pi",
-    "id": "qarium/goga",
-    "language": "Python",
-    "name": "qarium/goga",
-    "stars": 12,
-    "updated_at": "2026-08-14T18:44:22Z",
-    "url": "https://github.com/qarium/goga"
   }
 ]
