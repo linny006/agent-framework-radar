@@ -1,12 +1,138 @@
 [
   {
+    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
+    "id": "dendrux/dendrux",
+    "language": "Python",
+    "name": "dendrux/dendrux",
+    "stars": 13,
+    "updated_at": "2026-08-14T18:28:47Z",
+    "url": "https://github.com/dendrux/dendrux"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 15,
+    "updated_at": "2026-08-14T18:29:34Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-14T18:25:44Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 6,
+    "updated_at": "2026-08-14T18:24:57Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
+    "id": "PiloTracer/.ai",
+    "language": "Shell",
+    "name": "PiloTracer/.ai",
+    "stars": 0,
+    "updated_at": "2026-08-14T18:24:23Z",
+    "url": "https://github.com/PiloTracer/.ai"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-08-14T18:22:50Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-08-14T18:22:31Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1745,
+    "updated_at": "2026-08-14T18:22:30Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
+    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
+    "language": "Python",
+    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
+    "stars": 0,
+    "updated_at": "2026-08-14T18:20:15Z",
+    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 51,
+    "updated_at": "2026-08-14T18:24:50Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 50,
+    "updated_at": "2026-08-14T18:27:23Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Cortex System: The Operating System for AI Engineering. Cure Technical Amnesia.",
+    "id": "EcuaByte-lat/Cortex",
+    "language": "TypeScript",
+    "name": "EcuaByte-lat/Cortex",
+    "stars": 2,
+    "updated_at": "2026-08-14T18:18:12Z",
+    "url": "https://github.com/EcuaByte-lat/Cortex"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-14T18:13:50Z",
+    "updated_at": "2026-08-14T18:15:26Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Agent Skills - 44 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
+    "id": "bestdeejay-design/agent-skills",
+    "language": "Python",
+    "name": "bestdeejay-design/agent-skills",
+    "stars": 6,
+    "updated_at": "2026-08-14T18:14:40Z",
+    "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
+    "id": "Gald3r-Labs/gald3r",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r",
+    "stars": 23,
+    "updated_at": "2026-08-14T18:13:53Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r"
   },
   {
     "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
@@ -18,20 +144,11 @@
     "url": "https://github.com/achappey/aihappey-chat"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 50,
-    "updated_at": "2026-08-14T18:14:16Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": " Local-first Agent Runtime connecting LLMs to controlled tools, Chrome, desktop automation, MCP, context governance,   a",
     "id": "congchuanling-dot/Cohort",
     "language": "Go",
     "name": "congchuanling-dot/Cohort",
-    "stars": 70,
+    "stars": 66,
     "updated_at": "2026-08-14T18:10:48Z",
     "url": "https://github.com/congchuanling-dot/Cohort"
   },
@@ -41,7 +158,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-14T18:10:31Z",
+    "updated_at": "2026-08-14T18:28:27Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -59,7 +176,7 @@
     "language": "Python",
     "name": "Zhivex/zhivex-ai-sdk-py",
     "stars": 0,
-    "updated_at": "2026-08-14T18:09:27Z",
+    "updated_at": "2026-08-14T18:26:50Z",
     "url": "https://github.com/Zhivex/zhivex-ai-sdk-py"
   },
   {
@@ -70,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T18:08:08Z",
     "url": "https://github.com/Jokerautowrite/chuang-agent"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 15,
-    "updated_at": "2026-08-14T18:07:54Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -99,15 +207,6 @@
     "url": "https://github.com/ucsandman/DashClaw"
   },
   {
-    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
-    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "language": "Python",
-    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "stars": 0,
-    "updated_at": "2026-08-14T18:15:11Z",
-    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -117,15 +216,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-08-14T18:01:59Z",
-    "url": "https://github.com/MariusYvard/corparius"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -133,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-08-14T18:00:14Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1745,
-    "updated_at": "2026-08-14T17:59:22Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "OpenAI Responses provider extension for Spice Agent.",
@@ -187,24 +268,6 @@
     "stars": 16,
     "updated_at": "2026-08-14T17:55:40Z",
     "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 51,
-    "updated_at": "2026-08-14T17:55:38Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-08-14T17:59:05Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -293,7 +356,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 19,
-    "updated_at": "2026-08-14T17:48:56Z",
+    "updated_at": "2026-08-14T18:26:04Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -324,15 +387,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 6,
-    "updated_at": "2026-08-14T17:37:49Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
     "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
     "id": "Arasz/ai-badger",
     "language": "Python",
@@ -346,7 +400,7 @@
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 15000,
+    "stars": 15001,
     "updated_at": "2026-08-14T17:34:58Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
@@ -358,24 +412,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T17:30:47Z",
     "url": "https://github.com/fierceX/mink"
-  },
-  {
-    "description": "Cortex System: The Operating System for AI Engineering. Cure Technical Amnesia.",
-    "id": "EcuaByte-lat/Cortex",
-    "language": "TypeScript",
-    "name": "EcuaByte-lat/Cortex",
-    "stars": 2,
-    "updated_at": "2026-08-14T17:30:23Z",
-    "url": "https://github.com/EcuaByte-lat/Cortex"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-14T17:28:11Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "The universal agent interface & open composable platform for agent orchestration and knowledge sharing. Build plugins th",
@@ -401,7 +437,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 121,
-    "updated_at": "2026-08-14T17:20:54Z",
+    "updated_at": "2026-08-14T18:23:25Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 236,
     "updated_at": "2026-08-14T17:57:32Z",
     "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 2,
-    "updated_at": "2026-08-14T17:20:08Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 10,
-    "updated_at": "2026-08-14T17:17:16Z",
-    "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "AI Agent Framework, the Pydantic way",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19295,
-    "updated_at": "2026-08-14T18:08:38Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Declarative agent runtime in Go: define governable AI agents as YAML, not code \u2014 run them headless, as a service, or on ",
-    "id": "Federicoand98/mani",
-    "language": "Go",
-    "name": "Federicoand98/mani",
-    "stars": 0,
-    "updated_at": "2026-08-14T17:08:36Z",
-    "url": "https://github.com/Federicoand98/mani"
   }
 ]
