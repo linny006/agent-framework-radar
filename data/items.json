@@ -1,5 +1,158 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-08-14T19:12:46Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 50,
+    "updated_at": "2026-08-14T19:12:06Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-08-14T19:11:56Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 293,
+    "updated_at": "2026-08-14T19:09:08Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
+    "id": "KPO-Tech/seshat",
+    "language": "Go",
+    "name": "KPO-Tech/seshat",
+    "stars": 4,
+    "updated_at": "2026-08-14T19:08:56Z",
+    "url": "https://github.com/KPO-Tech/seshat"
+  },
+  {
+    "description": "Cortex System: The Operating System for AI Engineering. Cure Technical Amnesia.",
+    "id": "EcuaByte-lat/Cortex",
+    "language": "TypeScript",
+    "name": "EcuaByte-lat/Cortex",
+    "stars": 2,
+    "updated_at": "2026-08-14T19:14:12Z",
+    "url": "https://github.com/EcuaByte-lat/Cortex"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-08-14T19:07:08Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1746,
+    "updated_at": "2026-08-14T19:05:59Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-14T19:04:54Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 3,
+    "updated_at": "2026-08-14T19:04:38Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-08-14T19:07:02Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Local filesystem MCP server with 44 tools: safe delete, process management, interactive sessions, async search, OCR, ZIP",
+    "id": "ellmos-ai/ellmos-filecommander-mcp",
+    "language": "JavaScript",
+    "name": "ellmos-ai/ellmos-filecommander-mcp",
+    "stars": 4,
+    "updated_at": "2026-08-14T19:01:24Z",
+    "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-14T19:01:16Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
+    "id": "ellmos-ai/ellmos-homebase-mcp",
+    "language": "Python",
+    "name": "ellmos-ai/ellmos-homebase-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-14T19:00:36Z",
+    "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
+  },
+  {
+    "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
+    "id": "ellmos-ai/n8n-manager-mcp",
+    "language": "TypeScript",
+    "name": "ellmos-ai/n8n-manager-mcp",
+    "stars": 2,
+    "updated_at": "2026-08-14T19:00:34Z",
+    "url": "https://github.com/ellmos-ai/n8n-manager-mcp"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-14T19:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 15,
+    "updated_at": "2026-08-14T19:00:08Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
     "description": " Local-first Agent Runtime connecting LLMs to controlled tools, Chrome, desktop automation, MCP, context governance,   a",
     "id": "congchuanling-dot/Cohort",
     "language": "Go",
@@ -14,7 +167,7 @@
     "language": "Python",
     "name": "Zhivex/zhivex-ai-sdk-py",
     "stars": 0,
-    "updated_at": "2026-08-14T18:57:25Z",
+    "updated_at": "2026-08-14T19:02:35Z",
     "url": "https://github.com/Zhivex/zhivex-ai-sdk-py"
   },
   {
@@ -25,24 +178,6 @@
     "stars": 6907,
     "updated_at": "2026-08-14T18:56:52Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Cortex System: The Operating System for AI Engineering. Cure Technical Amnesia.",
-    "id": "EcuaByte-lat/Cortex",
-    "language": "TypeScript",
-    "name": "EcuaByte-lat/Cortex",
-    "stars": 2,
-    "updated_at": "2026-08-14T18:56:04Z",
-    "url": "https://github.com/EcuaByte-lat/Cortex"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 15,
-    "updated_at": "2026-08-14T19:00:08Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Modular engineering methodology framework for AI agents \u2014 reverse engineering & software development (core + re-binary /",
@@ -79,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T18:52:06Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 50,
-    "updated_at": "2026-08-14T18:51:49Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
@@ -153,15 +279,6 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-14T18:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -194,7 +311,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 236,
-    "updated_at": "2026-08-14T18:48:32Z",
+    "updated_at": "2026-08-14T19:06:51Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -205,15 +322,6 @@
     "stars": 12,
     "updated_at": "2026-08-14T18:44:22Z",
     "url": "https://github.com/qarium/goga"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-08-14T18:41:32Z",
-    "url": "https://github.com/MariusYvard/corparius"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -232,6 +340,15 @@
     "stars": 34582,
     "updated_at": "2026-08-14T18:40:29Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19296,
+    "updated_at": "2026-08-14T18:38:51Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -259,15 +376,6 @@
     "stars": 7,
     "updated_at": "2026-08-14T18:36:57Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1746,
-    "updated_at": "2026-08-14T18:35:00Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -333,15 +441,6 @@
     "url": "https://github.com/PiloTracer/.ai"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-08-14T18:52:43Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
     "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T18:20:15Z",
     "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 51,
-    "updated_at": "2026-08-14T18:24:50Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Agent Skills - 44 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
-    "id": "bestdeejay-design/agent-skills",
-    "language": "Python",
-    "name": "bestdeejay-design/agent-skills",
-    "stars": 6,
-    "updated_at": "2026-08-14T18:14:40Z",
-    "url": "https://github.com/bestdeejay-design/agent-skills"
-  },
-  {
-    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
-    "id": "Gald3r-Labs/gald3r",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r",
-    "stars": 23,
-    "updated_at": "2026-08-14T18:13:53Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r"
-  },
-  {
-    "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
-    "id": "achappey/aihappey-chat",
-    "language": "TypeScript",
-    "name": "achappey/aihappey-chat",
-    "stars": 4,
-    "updated_at": "2026-08-14T18:12:52Z",
-    "url": "https://github.com/achappey/aihappey-chat"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26210,
-    "updated_at": "2026-08-14T18:59:37Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "Local agent OS for everyone \u2014 memory as the body, agents as shells. Model-agnostic agent dispatcher in Rust. \u672c\u5730\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8bb0",
-    "id": "Jokerautowrite/chuang-agent",
-    "language": "Rust",
-    "name": "Jokerautowrite/chuang-agent",
-    "stars": 0,
-    "updated_at": "2026-08-14T18:08:08Z",
-    "url": "https://github.com/Jokerautowrite/chuang-agent"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-14T18:12:06Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 292,
-    "updated_at": "2026-08-14T18:07:33Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 31,
-    "updated_at": "2026-08-14T18:02:04Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-08-14T18:00:14Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "OpenAI Responses provider extension for Spice Agent.",
-    "id": "spice-framework/spice-agent-provider-openai",
-    "language": "Go",
-    "name": "spice-framework/spice-agent-provider-openai",
-    "stars": 0,
-    "updated_at": "2026-08-14T18:03:27Z",
-    "url": "https://github.com/spice-framework/spice-agent-provider-openai"
   }
 ]
