@@ -1,5 +1,122 @@
 [
   {
+    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 1,
+    "updated_at": "2026-08-15T09:55:43Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
+    "language": "Python",
+    "name": "rllm-org/rllm",
+    "stars": 5784,
+    "updated_at": "2026-08-15T09:54:43Z",
+    "url": "https://github.com/rllm-org/rllm"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1750,
+    "updated_at": "2026-08-15T09:54:01Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 6,
+    "updated_at": "2026-08-15T09:53:52Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-15T09:53:43Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-08-15T09:53:42Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Python framework for long-running AI agents that pause, resume, and never lose context. Durable state, checkpointed exec",
+    "id": "YoursSarcastically/long-running-agents",
+    "language": "Python",
+    "name": "YoursSarcastically/long-running-agents",
+    "stars": 0,
+    "updated_at": "2026-08-15T09:52:11Z",
+    "url": "https://github.com/YoursSarcastically/long-running-agents"
+  },
+  {
+    "description": "The control plane for AI coding agents.",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1581,
+    "updated_at": "2026-08-15T09:49:54Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-15T09:56:14Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "AgentSeed - the governance layer for AI agents. Non-negotiable safety kernel + pluggable scenario packs, synced to 15 AI",
+    "id": "weed33834/AgentSeed",
+    "language": "Python",
+    "name": "weed33834/AgentSeed",
+    "stars": 13,
+    "updated_at": "2026-08-15T09:46:16Z",
+    "url": "https://github.com/weed33834/AgentSeed"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T09:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 407,
+    "updated_at": "2026-08-15T09:45:19Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 121,
+    "updated_at": "2026-08-15T09:45:13Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
@@ -18,15 +135,6 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
-    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 1,
-    "updated_at": "2026-08-15T09:41:08Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
     "id": "GizClaw/flowcraft",
     "language": "Go",
@@ -34,15 +142,6 @@
     "stars": 441,
     "updated_at": "2026-08-15T09:37:55Z",
     "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T09:37:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -54,24 +153,6 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-15T09:33:48Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-08-15T09:31:08Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
     "id": "Justin0504/Sovereign-OS",
     "language": "Python",
@@ -79,15 +160,6 @@
     "stars": 92,
     "updated_at": "2026-08-15T09:29:49Z",
     "url": "https://github.com/Justin0504/Sovereign-OS"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 407,
-    "updated_at": "2026-08-15T09:45:19Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -144,15 +216,6 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "AgentSeed - the governance layer for AI agents. Non-negotiable safety kernel + pluggable scenario packs, synced to 15 AI",
-    "id": "weed33834/AgentSeed",
-    "language": "Python",
-    "name": "weed33834/AgentSeed",
-    "stars": 13,
-    "updated_at": "2026-08-15T09:20:40Z",
-    "url": "https://github.com/weed33834/AgentSeed"
-  },
-  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -169,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T09:19:15Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Build an agentic harness swarm as a directory tree. Then watch it refactor itself behind your back.",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 6,
-    "updated_at": "2026-08-15T09:18:21Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
   },
   {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
@@ -279,15 +333,6 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1750,
-    "updated_at": "2026-08-15T08:53:43Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
@@ -328,18 +373,9 @@
     "id": "Electricitysheep/dsh-handbook",
     "language": "Python",
     "name": "Electricitysheep/dsh-handbook",
-    "stars": 255,
+    "stars": 256,
     "updated_at": "2026-08-15T08:38:47Z",
     "url": "https://github.com/Electricitysheep/dsh-handbook"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 121,
-    "updated_at": "2026-08-15T09:45:13Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -412,41 +448,5 @@
     "stars": 38,
     "updated_at": "2026-08-15T08:07:45Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26214,
-    "updated_at": "2026-08-15T08:06:11Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 41,
-    "updated_at": "2026-08-15T08:36:47Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Live sanitized mirror of the harness Shadow actually runs on \u2014 contracts, failure-mode taxonomy, skills. Start at impart",
-    "id": "impartshadow/shadow",
-    "language": "Python",
-    "name": "impartshadow/shadow",
-    "stars": 0,
-    "updated_at": "2026-08-15T08:04:24Z",
-    "url": "https://github.com/impartshadow/shadow"
-  },
-  {
-    "description": "The universal agent interface & open composable platform for agent orchestration and knowledge sharing. Build plugins th",
-    "id": "amajorai/ryu",
-    "language": "Rust",
-    "name": "amajorai/ryu",
-    "stars": 35,
-    "updated_at": "2026-08-15T08:02:23Z",
-    "url": "https://github.com/amajorai/ryu"
   }
 ]
