@@ -1,5 +1,50 @@
 [
   {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-08-15T17:44:15Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34612,
+    "updated_at": "2026-08-15T17:37:37Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 27,
+    "updated_at": "2026-08-15T17:36:54Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T17:35:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 0,
+    "updated_at": "2026-08-15T17:35:10Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
     "description": "Universal Agent Harness",
     "id": "human-plus-machine/monkeybot",
     "language": "Python",
@@ -25,15 +70,6 @@
     "stars": 7,
     "updated_at": "2026-08-15T17:32:36Z",
     "url": "https://github.com/sattyamjjain/ferrumdeck"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T17:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 76,
-    "updated_at": "2026-08-15T17:16:35Z",
+    "updated_at": "2026-08-15T17:38:24Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -122,7 +158,7 @@
     "language": "TypeScript",
     "name": "xiaoyaxiaoya8888-hash/AgentForge",
     "stars": 1,
-    "updated_at": "2026-08-15T17:16:07Z",
+    "updated_at": "2026-08-15T17:35:38Z",
     "url": "https://github.com/xiaoyaxiaoya8888-hash/AgentForge"
   },
   {
@@ -216,15 +252,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34612,
-    "updated_at": "2026-08-15T17:08:13Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Muxiva is a Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and ",
     "id": "PiyotaHu/muxiva",
     "language": "Rust",
@@ -261,15 +288,6 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-08-15T16:59:33Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
     "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -279,20 +297,11 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:35:10Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
     "description": "DeepSeek Harness (dsh) \u4ece 0 \u5230 1 \u6df1\u5ea6\u624b\u518c\uff1a\u5b89\u88c5/\u63d2\u4ef6\u5f00\u53d1/\u6027\u80fd\u8c03\u4f18/\u5b9e\u6d4b\u6848\u4f8b/\u540c\u6a21\u578b\u591a Agent \u5b9e\u6d4b\u5bf9\u6bd4\uff08\u4e2d\u6587 + \u82f1\u6587 PDF\uff09",
     "id": "Electricitysheep/dsh-handbook",
     "language": "HTML",
     "name": "Electricitysheep/dsh-handbook",
-    "stars": 287,
+    "stars": 288,
     "updated_at": "2026-08-15T16:52:24Z",
     "url": "https://github.com/Electricitysheep/dsh-handbook"
   },
@@ -347,17 +356,8 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 121,
-    "updated_at": "2026-08-15T16:43:20Z",
+    "updated_at": "2026-08-15T17:43:55Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 27,
-    "updated_at": "2026-08-15T16:43:15Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
@@ -445,7 +445,7 @@
     "id": "weed33834/AgentSeed",
     "language": "Python",
     "name": "weed33834/AgentSeed",
-    "stars": 14,
+    "stars": 15,
     "updated_at": "2026-08-15T16:04:42Z",
     "url": "https://github.com/weed33834/AgentSeed"
   }
