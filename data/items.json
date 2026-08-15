@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
+    "id": "KPO-Tech/seshat",
+    "language": "Go",
+    "name": "KPO-Tech/seshat",
+    "stars": 4,
+    "updated_at": "2026-08-15T20:44:33Z",
+    "url": "https://github.com/KPO-Tech/seshat"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 76,
+    "updated_at": "2026-08-15T20:44:11Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-15T20:43:44Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "AI-powered daily standup reporter in your terminal \u2014 log tasks, pull your git commits, and generate yesterday/today repo",
+    "id": "juanhuttemann/standup",
+    "language": "Go",
+    "name": "juanhuttemann/standup",
+    "stars": 0,
+    "updated_at": "2026-08-15T20:42:56Z",
+    "url": "https://github.com/juanhuttemann/standup"
+  },
+  {
+    "description": "Run a company of AI agents out of one git repository \u2014 any craft, not just code. The team, the process, the history, the",
+    "id": "jamillazarev/opsinist",
+    "language": "Shell",
+    "name": "jamillazarev/opsinist",
+    "stars": 0,
+    "updated_at": "2026-08-15T20:42:10Z",
+    "url": "https://github.com/jamillazarev/opsinist"
+  },
+  {
+    "description": "A personal AI assistant in one Go binary: WASM-sandboxed extensions, per-action permission gating, and mandatory out-of-",
+    "id": "efuturetoday/nocturn",
+    "language": "Go",
+    "name": "efuturetoday/nocturn",
+    "stars": 3,
+    "updated_at": "2026-08-15T20:42:38Z",
+    "url": "https://github.com/efuturetoday/nocturn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T20:40:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -27,24 +90,6 @@
     "url": "https://github.com/altneu-dev/agent-template"
   },
   {
-    "description": "A personal AI assistant in one Go binary: WASM-sandboxed extensions, per-action permission gating, and mandatory out-of-",
-    "id": "efuturetoday/nocturn",
-    "language": "Go",
-    "name": "efuturetoday/nocturn",
-    "stars": 3,
-    "updated_at": "2026-08-15T20:37:47Z",
-    "url": "https://github.com/efuturetoday/nocturn"
-  },
-  {
-    "description": "AI-powered daily standup reporter in your terminal \u2014 log tasks, pull your git commits, and generate yesterday/today repo",
-    "id": "juanhuttemann/standup",
-    "language": "Go",
-    "name": "juanhuttemann/standup",
-    "stars": 0,
-    "updated_at": "2026-08-15T20:37:18Z",
-    "url": "https://github.com/juanhuttemann/standup"
-  },
-  {
     "description": "Autonomous multi-agent coordination for the JVM",
     "id": "mauro-mura/agenor",
     "language": "Java",
@@ -61,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T20:31:07Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T20:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -133,15 +169,6 @@
     "stars": 119,
     "updated_at": "2026-08-15T20:19:36Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-15T20:34:56Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -277,15 +304,6 @@
     "stars": 92,
     "updated_at": "2026-08-15T19:50:56Z",
     "url": "https://github.com/Justin0504/Sovereign-OS"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 76,
-    "updated_at": "2026-08-15T20:23:46Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T18:35:42Z",
     "url": "https://github.com/Dekode1859/spiritus"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1754,
-    "updated_at": "2026-08-15T18:26:36Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle",
-    "id": "wanxingai/LightAgent",
-    "language": "Python",
-    "name": "wanxingai/LightAgent",
-    "stars": 1205,
-    "updated_at": "2026-08-15T18:28:14Z",
-    "url": "https://github.com/wanxingai/LightAgent"
   }
 ]
