@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) | 1158 | Python | 2026-08-15 | Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model. |
-| 2 | [weed33834/AgentSeed](https://github.com/weed33834/AgentSeed) | 14 | Python | 2026-08-15 | AgentSeed - the governance layer for AI agents. Non-negotiable safety kernel + pluggable scenario packs, synced to 15 AI |
-| 3 | [piranhabot/piranha-agent](https://github.com/piranhabot/piranha-agent) | 2 | JavaScript | 2026-08-15 | ⚡ Next-gen autonomous agent framework with Rust core, time-travel debugging, Wasm sandbox, and 53+ Claude Skills. 100x f |
-| 4 | [7bder/orchd-core](https://github.com/7bder/orchd-core) | 0 | Python | 2026-08-15 | orchd 引擎最小可移植核心套件：跨 AI agent 平台的任务编排 CLI（事件溯源 + 文件锁 + DAG 就绪池 + 两阶段审查） |
-| 5 | [PiyotaHu/muxiva](https://github.com/PiyotaHu/muxiva) | 1 | Rust | 2026-08-15 | Muxiva is a Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and  |
-| 6 | [Lam-Arc/LamTools](https://github.com/Lam-Arc/LamTools) | 1 | Python | 2026-08-15 | Local-first AI Agent framework. DeepSeek-compatible (deepseek-v4-pro / deepseek-v4-flash), multi-model (OpenAI/Claude/GL |
-| 7 | [detrin/brow](https://github.com/detrin/brow) | 4 | Python | 2026-08-15 | Standalone Playwright CLI for AI agent browser automation - control real Chromium with simple commands, token-optimized  |
-| 8 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 24 | HTML | 2026-08-15 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
-| 9 | [MariusYvard/corparius](https://github.com/MariusYvard/corparius) | 0 | Python | 2026-08-15 | Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as  |
-| 10 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-08-15 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 11 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 48 | TypeScript | 2026-08-15 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
-| 12 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 19 | TypeScript | 2026-08-15 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
-| 13 | [human-plus-machine/monkeybot](https://github.com/human-plus-machine/monkeybot) | 3 | Python | 2026-08-15 | Universal Agent Harness |
-| 14 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 5 | Python | 2026-08-15 | Many Agents, one objective... yours  |
-| 15 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-15 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 16 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 3 | HTML | 2026-08-15 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 17 | [EurusDevSec/eurus-agent](https://github.com/EurusDevSec/eurus-agent) | 2 | Python | 2026-08-15 | A Framework for Agents work efficiency |
-| 18 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-15 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-15 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) | 1158 | Python | 2026-08-15 | Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model. |
+| 3 | [weed33834/AgentSeed](https://github.com/weed33834/AgentSeed) | 14 | Python | 2026-08-15 | AgentSeed - the governance layer for AI agents. Non-negotiable safety kernel + pluggable scenario packs, synced to 15 AI |
+| 4 | [piranhabot/piranha-agent](https://github.com/piranhabot/piranha-agent) | 2 | JavaScript | 2026-08-15 | ⚡ Next-gen autonomous agent framework with Rust core, time-travel debugging, Wasm sandbox, and 53+ Claude Skills. 100x f |
+| 5 | [7bder/orchd-core](https://github.com/7bder/orchd-core) | 0 | Python | 2026-08-15 | orchd 引擎最小可移植核心套件：跨 AI agent 平台的任务编排 CLI（事件溯源 + 文件锁 + DAG 就绪池 + 两阶段审查） |
+| 6 | [PiyotaHu/muxiva](https://github.com/PiyotaHu/muxiva) | 1 | Rust | 2026-08-15 | Muxiva is a Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and  |
+| 7 | [Lam-Arc/LamTools](https://github.com/Lam-Arc/LamTools) | 1 | Python | 2026-08-15 | Local-first AI Agent framework. DeepSeek-compatible (deepseek-v4-pro / deepseek-v4-flash), multi-model (OpenAI/Claude/GL |
+| 8 | [detrin/brow](https://github.com/detrin/brow) | 4 | Python | 2026-08-15 | Standalone Playwright CLI for AI agent browser automation - control real Chromium with simple commands, token-optimized  |
+| 9 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 24 | HTML | 2026-08-15 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
+| 10 | [MariusYvard/corparius](https://github.com/MariusYvard/corparius) | 0 | Python | 2026-08-15 | Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as  |
+| 11 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-08-15 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 12 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 48 | TypeScript | 2026-08-15 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
+| 13 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 19 | TypeScript | 2026-08-15 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
+| 14 | [human-plus-machine/monkeybot](https://github.com/human-plus-machine/monkeybot) | 3 | Python | 2026-08-15 | Universal Agent Harness |
+| 15 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 5 | Python | 2026-08-15 | Many Agents, one objective... yours  |
+| 16 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-15 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 17 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 3 | HTML | 2026-08-15 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 18 | [EurusDevSec/eurus-agent](https://github.com/EurusDevSec/eurus-agent) | 2 | Python | 2026-08-15 | A Framework for Agents work efficiency |
 | 19 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 47024 | Python | 2026-08-15 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
 | 20 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 410 | Python | 2026-08-15 | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging |
 | 21 | [cortexkit/aft](https://github.com/cortexkit/aft) | 250 | Rust | 2026-08-15 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
