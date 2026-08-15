@@ -1,5 +1,59 @@
 [
   {
+    "description": "DeepSeek Harness \u5b98\u65b9\u67b6\u6784\u7684 Windows \u684c\u9762\u53d1\u884c\u7248 (Desktop distribution of the official DeepSeek Harness)",
+    "id": "xuan-ao-1/deepseek-harness-workbench",
+    "language": "JavaScript",
+    "name": "xuan-ao-1/deepseek-harness-workbench",
+    "stars": 3,
+    "updated_at": "2026-08-15T07:45:19Z",
+    "url": "https://github.com/xuan-ao-1/deepseek-harness-workbench"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 7,
+    "updated_at": "2026-08-15T07:43:40Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-15T07:42:58Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 441,
+    "updated_at": "2026-08-15T07:42:41Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T07:42:11Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-15T07:42:08Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -16,24 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T07:40:55Z",
     "url": "https://github.com/Yigtwxx/Maestro"
-  },
-  {
-    "description": "DeepSeek Harness \u5b98\u65b9\u67b6\u6784\u7684 Windows \u684c\u9762\u53d1\u884c\u7248 (Desktop distribution of the official DeepSeek Harness)",
-    "id": "xuan-ao-1/deepseek-harness-workbench",
-    "language": "JavaScript",
-    "name": "xuan-ao-1/deepseek-harness-workbench",
-    "stars": 3,
-    "updated_at": "2026-08-15T07:40:38Z",
-    "url": "https://github.com/xuan-ao-1/deepseek-harness-workbench"
-  },
-  {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 7,
-    "updated_at": "2026-08-15T07:38:56Z",
-    "url": "https://github.com/maref-org/maref"
   },
   {
     "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T07:33:39Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T07:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "ThousandBirdsInc/chidori",
     "stars": 1362,
-    "updated_at": "2026-08-15T07:35:14Z",
+    "updated_at": "2026-08-15T07:44:48Z",
     "url": "https://github.com/ThousandBirdsInc/chidori"
   },
   {
@@ -234,15 +261,6 @@
     "url": "https://github.com/wanxingai/LightAgent"
   },
   {
-    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-08-15T07:16:43Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
     "id": "Marssssss/OneAI",
     "language": "Rust",
@@ -250,24 +268,6 @@
     "stars": 36,
     "updated_at": "2026-08-15T07:13:11Z",
     "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-15T07:08:42Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 441,
-    "updated_at": "2026-08-15T07:39:46Z",
-    "url": "https://github.com/GizClaw/flowcraft"
   },
   {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
@@ -364,7 +364,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34594,
+    "stars": 34593,
     "updated_at": "2026-08-15T06:37:52Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
