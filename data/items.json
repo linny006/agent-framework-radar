@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "tugrulguner/summonpot",
     "stars": 1,
-    "updated_at": "2026-08-15T03:51:10Z",
+    "updated_at": "2026-08-15T03:59:54Z",
     "url": "https://github.com/tugrulguner/summonpot"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 406,
+    "updated_at": "2026-08-15T03:58:02Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 17,
+    "updated_at": "2026-08-15T03:55:52Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "\u5b66\u4e60\u5b98\u65b9 deepseek-harness\uff089w+ star\uff09\u7684\u9636\u68af\u5f0f\u6559\u7a0b\uff1a\u4ece Cordis \u57fa\u7840\u5230\u4e8c\u6b21\u5f00\u53d1\uff0c12 \u6b65\u53ef\u72ec\u7acb\u8fd0\u884c\uff0c\u4e2d\u6587\u6ce8\u91ca\u3002",
+    "id": "cookiespiggy/deepseek-harness-stair-cookbook",
+    "language": "\u2014",
+    "name": "cookiespiggy/deepseek-harness-stair-cookbook",
+    "stars": 0,
+    "updated_at": "2026-08-15T03:53:04Z",
+    "url": "https://github.com/cookiespiggy/deepseek-harness-stair-cookbook"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 7,
+    "updated_at": "2026-08-15T03:52:26Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "DeepSeek Harness (dsh) \u4ece 0 \u5230 1 \u6df1\u5ea6\u624b\u518c\uff1a\u5b89\u88c5/\u63d2\u4ef6\u5f00\u53d1/\u6027\u80fd\u8c03\u4f18/\u5b9e\u6d4b\u6848\u4f8b/\u540c\u6a21\u578b\u591a Agent \u5b9e\u6d4b\u5bf9\u6bd4\uff08\u4e2d\u6587 + \u82f1\u6587 PDF\uff09",
+    "id": "Electricitysheep/dsh-handbook",
+    "language": "Python",
+    "name": "Electricitysheep/dsh-handbook",
+    "stars": 224,
+    "updated_at": "2026-08-15T03:52:12Z",
+    "url": "https://github.com/Electricitysheep/dsh-handbook"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 120,
+    "updated_at": "2026-08-15T03:52:02Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Hands-on getting-started guide for the Microsoft Foundry Toolkit: azd ai agent CLI + VS Code extension, with Python and ",
+    "id": "shinyay/getting-started-with-foundry-toolkit",
+    "language": "\u2014",
+    "name": "shinyay/getting-started-with-foundry-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-15T03:51:46Z",
+    "url": "https://github.com/shinyay/getting-started-with-foundry-toolkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T03:51:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source infrastructure for AI agents to collaborate - registry, A2A communication, task pool, payments",
@@ -18,21 +90,12 @@
     "url": "https://github.com/acnlabs/ACN"
   },
   {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 7,
-    "updated_at": "2026-08-15T03:50:09Z",
-    "url": "https://github.com/maref-org/maref"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-15T03:49:12Z",
+    "updated_at": "2026-08-15T03:58:56Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-08-15T03:48:31Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T03:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
@@ -261,15 +315,6 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 17,
-    "updated_at": "2026-08-15T03:06:48Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
     "id": "ethosagent/ethos",
     "language": "TypeScript",
@@ -351,15 +396,6 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 120,
-    "updated_at": "2026-08-15T03:43:38Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
     "id": "substructureai/substructure",
     "language": "Rust",
@@ -405,15 +441,6 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 406,
-    "updated_at": "2026-08-15T01:53:12Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
     "id": "ek33450505/claude-agent-team",
     "language": "Shell",
@@ -421,32 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-15T01:50:02Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Self-hosted completion gate for coding agents: independent verification before done, durable evidence, CLI and local GUI",
-    "id": "moortekweb-art/agentic-harness",
-    "language": "Python",
-    "name": "moortekweb-art/agentic-harness",
-    "stars": 2,
-    "updated_at": "2026-08-15T01:43:33Z",
-    "url": "https://github.com/moortekweb-art/agentic-harness"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 34,
-    "updated_at": "2026-08-15T01:36:39Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "The operating system for human-AI teams. Turn a shared folder into a governed multi-agent system. No code, no server, no",
-    "id": "tropo-ai/tropo",
-    "language": "Python",
-    "name": "tropo-ai/tropo",
-    "stars": 1,
-    "updated_at": "2026-08-15T01:36:35Z",
-    "url": "https://github.com/tropo-ai/tropo"
   }
 ]
