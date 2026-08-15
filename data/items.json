@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u26a1 Next-gen autonomous agent framework with Rust core, time-travel debugging, Wasm sandbox, and 53+ Claude Skills. 100x f",
+    "id": "piranhabot/piranha-agent",
+    "language": "JavaScript",
+    "name": "piranhabot/piranha-agent",
+    "stars": 2,
+    "updated_at": "2026-08-15T13:59:13Z",
+    "url": "https://github.com/piranhabot/piranha-agent"
+  },
+  {
+    "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
+    "id": "mathissdupont/ingot",
+    "language": "Rust",
+    "name": "mathissdupont/ingot",
+    "stars": 2,
+    "updated_at": "2026-08-15T13:58:54Z",
+    "url": "https://github.com/mathissdupont/ingot"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-08-15T13:58:38Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T13:58:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Muxiva is a Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and ",
     "id": "PiyotaHu/muxiva",
     "language": "Rust",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-15T13:56:41Z",
+    "updated_at": "2026-08-15T13:58:51Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -81,15 +117,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T13:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
     "id": "pavanbadempet/AI-Healthcare-System",
     "language": "Python",
@@ -106,15 +133,6 @@
     "stars": 250,
     "updated_at": "2026-08-15T13:54:16Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-08-15T13:38:36Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
@@ -178,15 +196,6 @@
     "stars": 120,
     "updated_at": "2026-08-15T13:26:23Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
-    "id": "mathissdupont/ingot",
-    "language": "Rust",
-    "name": "mathissdupont/ingot",
-    "stars": 2,
-    "updated_at": "2026-08-15T13:54:16Z",
-    "url": "https://github.com/mathissdupont/ingot"
   },
   {
     "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
@@ -259,15 +268,6 @@
     "stars": 4,
     "updated_at": "2026-08-15T13:18:26Z",
     "url": "https://github.com/detrin/brow"
-  },
-  {
-    "description": "\u26a1 Next-gen autonomous agent framework with Rust core, time-travel debugging, Wasm sandbox, and 53+ Claude Skills. 100x f",
-    "id": "piranhabot/piranha-agent",
-    "language": "JavaScript",
-    "name": "piranhabot/piranha-agent",
-    "stars": 2,
-    "updated_at": "2026-08-15T13:15:37Z",
-    "url": "https://github.com/piranhabot/piranha-agent"
   },
   {
     "description": "Evidence-native TypeScript framework for agents that perform bounded work under explicit authority.",
