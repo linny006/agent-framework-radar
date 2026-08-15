@@ -1,5 +1,32 @@
 [
   {
+    "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 5,
+    "updated_at": "2026-08-15T05:16:51Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 1,
+    "updated_at": "2026-08-15T05:15:42Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T05:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -117,15 +144,6 @@
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T05:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
@@ -158,7 +176,7 @@
     "language": "Go",
     "name": "rapidaai/voice-ai",
     "stars": 713,
-    "updated_at": "2026-08-15T04:54:31Z",
+    "updated_at": "2026-08-15T05:17:11Z",
     "url": "https://github.com/rapidaai/voice-ai"
   },
   {
@@ -225,15 +243,6 @@
     "url": "https://github.com/amajorai/ryu"
   },
   {
-    "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 5,
-    "updated_at": "2026-08-15T04:35:36Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -295,15 +304,6 @@
     "stars": 120,
     "updated_at": "2026-08-15T04:24:57Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 1,
-    "updated_at": "2026-08-15T05:07:49Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
     "description": "",
