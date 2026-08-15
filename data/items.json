@@ -1,21 +1,39 @@
 [
   {
-    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
-    "id": "KPO-Tech/seshat",
-    "language": "Go",
-    "name": "KPO-Tech/seshat",
-    "stars": 4,
-    "updated_at": "2026-08-15T20:44:33Z",
-    "url": "https://github.com/KPO-Tech/seshat"
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-15T20:57:13Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 76,
-    "updated_at": "2026-08-15T20:44:11Z",
-    "url": "https://github.com/JKHeadley/instar"
+    "name": "footprintjs/agentfootprint",
+    "stars": 19,
+    "updated_at": "2026-08-15T20:55:02Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 51,
+    "updated_at": "2026-08-15T20:54:38Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Run a company of AI agents out of one git repository \u2014 any craft, not just code. The team, the process, the history, the",
+    "id": "jamillazarev/opsinist",
+    "language": "Shell",
+    "name": "jamillazarev/opsinist",
+    "stars": 0,
+    "updated_at": "2026-08-15T20:52:58Z",
+    "url": "https://github.com/jamillazarev/opsinist"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -23,8 +41,71 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-15T20:43:44Z",
+    "updated_at": "2026-08-15T20:52:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-15T20:52:05Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Define endpoints. Summon agents. An AI-native API framework for Python.",
+    "id": "tugrulguner/summonpot",
+    "language": "Python",
+    "name": "tugrulguner/summonpot",
+    "stars": 1,
+    "updated_at": "2026-08-15T20:51:13Z",
+    "url": "https://github.com/tugrulguner/summonpot"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 76,
+    "updated_at": "2026-08-15T20:48:31Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Production-grade serverless agentic AI built with Strands SDK, Bedrock, and AWS. Multi-tool orchestration, persistent me",
+    "id": "Paul-Orlando/serverless-agentic-ai-travel-agent",
+    "language": "\u2014",
+    "name": "Paul-Orlando/serverless-agentic-ai-travel-agent",
+    "stars": 0,
+    "updated_at": "2026-08-15T20:47:52Z",
+    "url": "https://github.com/Paul-Orlando/serverless-agentic-ai-travel-agent"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 0,
+    "updated_at": "2026-08-15T20:47:21Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T20:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
+    "id": "KPO-Tech/seshat",
+    "language": "Go",
+    "name": "KPO-Tech/seshat",
+    "stars": 4,
+    "updated_at": "2026-08-15T20:44:33Z",
+    "url": "https://github.com/KPO-Tech/seshat"
   },
   {
     "description": "AI-powered daily standup reporter in your terminal \u2014 log tasks, pull your git commits, and generate yesterday/today repo",
@@ -36,15 +117,6 @@
     "url": "https://github.com/juanhuttemann/standup"
   },
   {
-    "description": "Run a company of AI agents out of one git repository \u2014 any craft, not just code. The team, the process, the history, the",
-    "id": "jamillazarev/opsinist",
-    "language": "Shell",
-    "name": "jamillazarev/opsinist",
-    "stars": 0,
-    "updated_at": "2026-08-15T20:42:10Z",
-    "url": "https://github.com/jamillazarev/opsinist"
-  },
-  {
     "description": "A personal AI assistant in one Go binary: WASM-sandboxed extensions, per-action permission gating, and mandatory out-of-",
     "id": "efuturetoday/nocturn",
     "language": "Go",
@@ -52,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-08-15T20:42:38Z",
     "url": "https://github.com/efuturetoday/nocturn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T20:40:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -86,7 +149,7 @@
     "language": "Shell",
     "name": "altneu-dev/agent-template",
     "stars": 1,
-    "updated_at": "2026-08-15T20:38:40Z",
+    "updated_at": "2026-08-15T20:52:18Z",
     "url": "https://github.com/altneu-dev/agent-template"
   },
   {
@@ -97,33 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T20:31:56Z",
     "url": "https://github.com/mauro-mura/agenor"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-15T20:31:07Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 19,
-    "updated_at": "2026-08-15T20:30:07Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Define endpoints. Summon agents. An AI-native API framework for Python.",
-    "id": "tugrulguner/summonpot",
-    "language": "Python",
-    "name": "tugrulguner/summonpot",
-    "stars": 1,
-    "updated_at": "2026-08-15T20:27:49Z",
-    "url": "https://github.com/tugrulguner/summonpot"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4862,
-    "updated_at": "2026-08-15T20:23:37Z",
+    "updated_at": "2026-08-15T20:55:24Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/pavel-logachev/portable-agent-os"
   },
   {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 0,
-    "updated_at": "2026-08-15T19:08:28Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
     "id": "sauravbhattacharya001/agentlens",
     "language": "JavaScript",
@@ -376,15 +403,6 @@
     "stars": 3,
     "updated_at": "2026-08-15T19:04:11Z",
     "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-15T20:16:28Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "\ud83e\udd16 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 \u2014 the year agents went mainstream",
@@ -430,23 +448,5 @@
     "stars": 19316,
     "updated_at": "2026-08-15T18:43:12Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34616,
-    "updated_at": "2026-08-15T18:36:39Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "SDK and runtime for building, bundling, and shipping agent-powered desktop apps on OpenCode, abstracting agents, tools, ",
-    "id": "Dekode1859/spiritus",
-    "language": "Python",
-    "name": "Dekode1859/spiritus",
-    "stars": 0,
-    "updated_at": "2026-08-15T18:35:42Z",
-    "url": "https://github.com/Dekode1859/spiritus"
   }
 ]
