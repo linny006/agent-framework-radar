@@ -1,5 +1,41 @@
 [
   {
+    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
+    "id": "KPO-Tech/seshat",
+    "language": "Go",
+    "name": "KPO-Tech/seshat",
+    "stars": 4,
+    "updated_at": "2026-08-15T17:59:33Z",
+    "url": "https://github.com/KPO-Tech/seshat"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6780,
+    "updated_at": "2026-08-15T17:59:18Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "DeepSeek Harness Core (DHC) \u00b7 AI \u4eba\u683c\u6838\u5fc3\u8fdb\u5316\u63d2\u4ef6 / AI personality core evolution plugin for DeepSeek Harness",
+    "id": "muvuula/DeepSeek-Harness-Core",
+    "language": "JavaScript",
+    "name": "muvuula/DeepSeek-Harness-Core",
+    "stars": 2,
+    "updated_at": "2026-08-15T17:56:02Z",
+    "url": "https://github.com/muvuula/DeepSeek-Harness-Core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T17:55:54Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
@@ -41,7 +77,7 @@
     "language": "HTML",
     "name": "qadeer-ux/oh-my-codex-remix",
     "stars": 1,
-    "updated_at": "2026-08-15T17:47:15Z",
+    "updated_at": "2026-08-15T18:00:08Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-08-15T17:47:11Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T17:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47030,
-    "updated_at": "2026-08-15T17:49:36Z",
+    "updated_at": "2026-08-15T17:55:59Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -310,7 +337,7 @@
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
     "name": "Ikalus1988/MisakaNet",
-    "stars": 411,
+    "stars": 412,
     "updated_at": "2026-08-15T17:03:02Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
@@ -337,18 +364,9 @@
     "id": "Electricitysheep/dsh-handbook",
     "language": "HTML",
     "name": "Electricitysheep/dsh-handbook",
-    "stars": 288,
+    "stars": 289,
     "updated_at": "2026-08-15T16:52:24Z",
     "url": "https://github.com/Electricitysheep/dsh-handbook"
-  },
-  {
-    "description": "DeepSeek Harness Core (DHC) \u00b7 AI \u4eba\u683c\u6838\u5fc3\u8fdb\u5316\u63d2\u4ef6 / AI personality core evolution plugin for DeepSeek Harness",
-    "id": "muvuula/DeepSeek-Harness-Core",
-    "language": "JavaScript",
-    "name": "muvuula/DeepSeek-Harness-Core",
-    "stars": 2,
-    "updated_at": "2026-08-15T16:48:31Z",
-    "url": "https://github.com/muvuula/DeepSeek-Harness-Core"
   },
   {
     "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-15T16:32:44Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle",
-    "id": "wanxingai/LightAgent",
-    "language": "Python",
-    "name": "wanxingai/LightAgent",
-    "stars": 1205,
-    "updated_at": "2026-08-15T16:24:09Z",
-    "url": "https://github.com/wanxingai/LightAgent"
-  },
-  {
-    "description": "Equaxis: a governed, observable and reliable agent runtime powered by Pi.",
-    "id": "6Riemann9/equaxis-agent",
-    "language": "TypeScript",
-    "name": "6Riemann9/equaxis-agent",
-    "stars": 1,
-    "updated_at": "2026-08-15T16:13:52Z",
-    "url": "https://github.com/6Riemann9/equaxis-agent"
   }
 ]
