@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-08-15T13:03:16Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 410,
+    "updated_at": "2026-08-15T13:03:11Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-08-15T13:02:14Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "\u26a1 Next-gen autonomous agent framework with Rust core, time-travel debugging, Wasm sandbox, and 53+ Claude Skills. 100x f",
+    "id": "piranhabot/piranha-agent",
+    "language": "JavaScript",
+    "name": "piranhabot/piranha-agent",
+    "stars": 2,
+    "updated_at": "2026-08-15T13:05:48Z",
+    "url": "https://github.com/piranhabot/piranha-agent"
+  },
+  {
+    "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 0,
+    "updated_at": "2026-08-15T13:04:52Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 2,
+    "updated_at": "2026-08-15T13:00:50Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T13:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 23,
+    "updated_at": "2026-08-15T13:00:21Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
     "description": "\u5b66\u4e60\u5b98\u65b9 deepseek-harness \u7684\u9636\u68af\u5f0f\u6559\u7a0b\uff1a\u4ece Cordis \u57fa\u7840\u5230\u4e8c\u6b21\u5f00\u53d1\uff0c12 \u6b65\u53ef\u72ec\u7acb\u8fd0\u884c\uff0c\u4e2d\u6587\u6ce8\u91ca\u3002",
     "id": "cookiespiggy/deepseek-harness-stair-cookbook",
     "language": "TypeScript",
@@ -45,15 +117,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "\u26a1 Next-gen autonomous agent framework with Rust core, time-travel debugging, Wasm sandbox, and 53+ Claude Skills. 100x f",
-    "id": "piranhabot/piranha-agent",
-    "language": "JavaScript",
-    "name": "piranhabot/piranha-agent",
-    "stars": 2,
-    "updated_at": "2026-08-15T12:56:51Z",
-    "url": "https://github.com/piranhabot/piranha-agent"
-  },
-  {
     "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
     "id": "mathissdupont/ingot",
     "language": "Rust",
@@ -68,17 +131,8 @@
     "language": "Shell",
     "name": "pereirawe/opencode-flow",
     "stars": 2,
-    "updated_at": "2026-08-15T12:56:03Z",
+    "updated_at": "2026-08-15T13:05:34Z",
     "url": "https://github.com/pereirawe/opencode-flow"
-  },
-  {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 2,
-    "updated_at": "2026-08-15T12:57:26Z",
-    "url": "https://github.com/Arasz/ai-badger"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -108,15 +162,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 23,
-    "updated_at": "2026-08-15T12:49:53Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
     "id": "trbearth/fieldwork-agent-os",
     "language": "CSS",
@@ -133,15 +178,6 @@
     "stars": 6,
     "updated_at": "2026-08-15T12:46:17Z",
     "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T12:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -169,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T12:35:42Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-08-15T12:34:42Z",
-    "url": "https://github.com/MariusYvard/corparius"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -239,17 +266,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-15T12:21:47Z",
+    "updated_at": "2026-08-15T13:02:34Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-08-15T12:18:30Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -324,15 +342,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 0,
-    "updated_at": "2026-08-15T12:58:26Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
     "id": "Marssssss/OneAI",
     "language": "Rust",
@@ -347,7 +356,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 121,
-    "updated_at": "2026-08-15T12:00:19Z",
+    "updated_at": "2026-08-15T13:01:13Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -401,7 +410,7 @@
     "language": "TypeScript",
     "name": "lokomotifai/pactmark",
     "stars": 1,
-    "updated_at": "2026-08-15T12:58:17Z",
+    "updated_at": "2026-08-15T13:02:14Z",
     "url": "https://github.com/lokomotifai/pactmark"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 730,
     "updated_at": "2026-08-15T11:21:36Z",
     "url": "https://github.com/crabtalk/crabtalk"
-  },
-  {
-    "description": "\u9762\u5411\u8d85\u957f\u7a0b\u590d\u6742\u4efb\u52a1\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce | CDoL\u8ba4\u77e5\u5206\u5de5 | \u7aef\u8fb9\u4e91\u4e09\u5c42\u67b6\u6784 | 10-Agent\u534f\u4f5c",
-    "id": "tsingxuanhan/NexusFlow",
-    "language": "Python",
-    "name": "tsingxuanhan/NexusFlow",
-    "stars": 0,
-    "updated_at": "2026-08-15T11:20:44Z",
-    "url": "https://github.com/tsingxuanhan/NexusFlow"
   }
 ]
