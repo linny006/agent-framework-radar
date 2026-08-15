@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-15T09:00:37Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-15T09:14:28Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1339,
+    "updated_at": "2026-08-15T09:13:59Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "\u77e5\u672b\u667a\u4e91 \u00b7 Agent \u7f16\u6392\u3001\u5ba1\u6279\u4e0e\u5de5\u5177\u6267\u884c\u5de5\u4f5c\u53f0",
@@ -14,8 +23,44 @@
     "language": "TypeScript",
     "name": "zmzai-cloud/zmzai-agent",
     "stars": 0,
-    "updated_at": "2026-08-15T09:00:36Z",
+    "updated_at": "2026-08-15T09:09:17Z",
     "url": "https://github.com/zmzai-cloud/zmzai-agent"
+  },
+  {
+    "description": "Open-source CMA-compatible agent runtime for any model, with MCP tools, sandboxed sessions, audit, replay, and a local c",
+    "id": "sandbaseai/sandbase-harness",
+    "language": "TypeScript",
+    "name": "sandbaseai/sandbase-harness",
+    "stars": 581,
+    "updated_at": "2026-08-15T09:06:52Z",
+    "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 346,
+    "updated_at": "2026-08-15T09:04:04Z",
+    "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T09:02:00Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-15T09:00:37Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
@@ -27,21 +72,12 @@
     "url": "https://github.com/Ecro/harness-maker"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T09:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
     "id": "roackb2/heddle",
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 19,
-    "updated_at": "2026-08-15T08:59:35Z",
+    "updated_at": "2026-08-15T09:04:22Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -297,21 +333,12 @@
     "url": "https://github.com/xuan-ao-1/deepseek-harness-workbench"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-15T08:13:34Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
     "name": "exha1078/agentic-workflow-orchestrator",
     "stars": 1,
-    "updated_at": "2026-08-15T08:13:28Z",
+    "updated_at": "2026-08-15T09:14:28Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 10,
-    "updated_at": "2026-08-15T07:59:43Z",
+    "updated_at": "2026-08-15T09:04:48Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
@@ -391,7 +418,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47011,
+    "stars": 47012,
     "updated_at": "2026-08-15T07:40:53Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -410,7 +437,7 @@
     "language": "TypeScript",
     "name": "Zchary1106/Myrmecia",
     "stars": 2,
-    "updated_at": "2026-08-15T07:38:16Z",
+    "updated_at": "2026-08-15T09:15:10Z",
     "url": "https://github.com/Zchary1106/Myrmecia"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 68,
     "updated_at": "2026-08-15T07:35:24Z",
     "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
-    "id": "secondorderai/ouroboros",
-    "language": "TypeScript",
-    "name": "secondorderai/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-08-15T07:25:49Z",
-    "url": "https://github.com/secondorderai/ouroboros"
-  },
-  {
-    "description": "The agent framework where every run is durable, replayable, and resumable by default.",
-    "id": "ThousandBirdsInc/chidori",
-    "language": "Rust",
-    "name": "ThousandBirdsInc/chidori",
-    "stars": 1362,
-    "updated_at": "2026-08-15T07:44:48Z",
-    "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
-    "description": "LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle",
-    "id": "wanxingai/LightAgent",
-    "language": "Python",
-    "name": "wanxingai/LightAgent",
-    "stars": 1205,
-    "updated_at": "2026-08-15T08:45:18Z",
-    "url": "https://github.com/wanxingai/LightAgent"
   }
 ]
