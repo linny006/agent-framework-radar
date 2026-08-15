@@ -1,5 +1,104 @@
 [
   {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-15T10:28:50Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 213,
+    "updated_at": "2026-08-15T10:26:42Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-15T10:26:14Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1339,
+    "updated_at": "2026-08-15T10:22:51Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1158,
+    "updated_at": "2026-08-15T10:20:43Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-15T10:20:39Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-08-15T10:20:35Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-08-15T10:20:11Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T10:18:49Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The control plane for AI coding agents.",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1581,
+    "updated_at": "2026-08-15T10:28:28Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-08-15T10:17:53Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
     "description": "Hands-on getting-started guide for the Microsoft Foundry Toolkit: azd ai agent CLI + VS Code extension, with Python and ",
     "id": "shinyay/getting-started-with-foundry-toolkit",
     "language": "\u2014",
@@ -16,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-08-15T10:17:23Z",
     "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1158,
-    "updated_at": "2026-08-15T10:17:06Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
     "description": "",
@@ -61,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T10:15:30Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T10:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -122,7 +203,7 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-08-15T10:13:45Z",
+    "updated_at": "2026-08-15T10:24:28Z",
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
@@ -189,33 +270,6 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-08-15T09:53:42Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "The control plane for AI coding agents.",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1581,
-    "updated_at": "2026-08-15T10:18:42Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-15T10:16:49Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "AgentSeed - the governance layer for AI agents. Non-negotiable safety kernel + pluggable scenario packs, synced to 15 AI",
     "id": "weed33834/AgentSeed",
     "language": "Python",
@@ -232,15 +286,6 @@
     "stars": 121,
     "updated_at": "2026-08-15T09:45:13Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1339,
-    "updated_at": "2026-08-15T09:42:47Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -279,15 +324,6 @@
     "url": "https://github.com/Justin0504/Sovereign-OS"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-15T09:28:43Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
     "id": "Zchary1106/Myrmecia",
     "language": "TypeScript",
@@ -297,24 +333,6 @@
     "url": "https://github.com/Zchary1106/Myrmecia"
   },
   {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-15T09:23:58Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-08-15T09:23:38Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
     "description": "Kotlin-first framework for building Model Agnostic AI applications, RAG systems, and agentic workflows on Android and Ko",
     "id": "MobileGraph/mobilegraph",
     "language": "Kotlin",
@@ -322,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T09:21:51Z",
     "url": "https://github.com/MobileGraph/mobilegraph"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-15T10:17:53Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
     "description": "\u77e5\u672b\u667a\u4e91 \u00b7 Agent \u7f16\u6392\u3001\u5ba1\u6279\u4e0e\u5de5\u5177\u6267\u884c\u5de5\u4f5c\u53f0",
@@ -346,7 +355,7 @@
     "id": "sandbaseai/sandbase-harness",
     "language": "TypeScript",
     "name": "sandbaseai/sandbase-harness",
-    "stars": 581,
+    "stars": 582,
     "updated_at": "2026-08-15T09:06:52Z",
     "url": "https://github.com/sandbaseai/sandbase-harness"
   },
@@ -418,7 +427,7 @@
     "id": "Electricitysheep/dsh-handbook",
     "language": "Python",
     "name": "Electricitysheep/dsh-handbook",
-    "stars": 259,
+    "stars": 260,
     "updated_at": "2026-08-15T08:38:47Z",
     "url": "https://github.com/Electricitysheep/dsh-handbook"
   },
@@ -439,14 +448,5 @@
     "stars": 54,
     "updated_at": "2026-08-15T08:27:46Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-08-15T08:24:42Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   }
 ]
