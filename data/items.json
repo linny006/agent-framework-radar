@@ -1,5 +1,32 @@
 [
   {
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 36,
+    "updated_at": "2026-08-15T10:00:02Z",
+    "url": "https://github.com/Marssssss/OneAI"
+  },
+  {
+    "description": "Python framework for long-running AI agents that pause, resume, and never lose context. Durable state, checkpointed exec",
+    "id": "YoursSarcastically/long-running-agents",
+    "language": "Python",
+    "name": "YoursSarcastically/long-running-agents",
+    "stars": 0,
+    "updated_at": "2026-08-15T09:57:21Z",
+    "url": "https://github.com/YoursSarcastically/long-running-agents"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T09:56:47Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
     "id": "yanacuti1121/Yana-AI",
     "language": "Python",
@@ -54,15 +81,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Python framework for long-running AI agents that pause, resume, and never lose context. Durable state, checkpointed exec",
-    "id": "YoursSarcastically/long-running-agents",
-    "language": "Python",
-    "name": "YoursSarcastically/long-running-agents",
-    "stars": 0,
-    "updated_at": "2026-08-15T09:52:11Z",
-    "url": "https://github.com/YoursSarcastically/long-running-agents"
-  },
-  {
     "description": "The control plane for AI coding agents.",
     "id": "codeaholicguy/ai-devkit",
     "language": "TypeScript",
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-15T09:56:14Z",
+    "updated_at": "2026-08-15T09:59:06Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 13,
     "updated_at": "2026-08-15T09:46:16Z",
     "url": "https://github.com/weed33834/AgentSeed"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T09:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -340,15 +349,6 @@
     "stars": 1158,
     "updated_at": "2026-08-15T09:00:24Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-08-15T08:39:58Z",
-    "url": "https://github.com/Marssssss/OneAI"
   },
   {
     "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
