@@ -1,5 +1,23 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-15T20:15:00Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T20:14:57Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DeepSeek Harness Core (DHC) \u00b7 AI \u4eba\u683c\u6838\u5fc3\u8fdb\u5316\u63d2\u4ef6 / AI personality core evolution plugin for DeepSeek Harness",
     "id": "muvuula/DeepSeek-Harness-Core",
     "language": "JavaScript",
@@ -97,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T20:00:28Z",
     "url": "https://github.com/tugrulguner/summonpot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T20:00:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Standalone TypeScript framework for composing secure personal AI agents from one universal primitive \u2014 the Component. Ma",
@@ -297,21 +306,12 @@
     "url": "https://github.com/pavel-logachev/portable-agent-os"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-15T19:17:24Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
     "name": "111nathanlar/Agent-Worlds",
     "stars": 1,
-    "updated_at": "2026-08-15T19:16:41Z",
+    "updated_at": "2026-08-15T20:15:08Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
