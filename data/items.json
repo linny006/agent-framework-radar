@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI-powered daily standup reporter in your terminal \u2014 log tasks, pull your git commits, and generate yesterday/today repo",
+    "id": "juanhuttemann/standup",
+    "language": "Go",
+    "name": "juanhuttemann/standup",
+    "stars": 0,
+    "updated_at": "2026-08-15T18:28:55Z",
+    "url": "https://github.com/juanhuttemann/standup"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-15T18:26:51Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1754,
+    "updated_at": "2026-08-15T18:26:36Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle",
+    "id": "wanxingai/LightAgent",
+    "language": "Python",
+    "name": "wanxingai/LightAgent",
+    "stars": 1205,
+    "updated_at": "2026-08-15T18:28:14Z",
+    "url": "https://github.com/wanxingai/LightAgent"
+  },
+  {
+    "description": "Evidence-native TypeScript framework for agents that perform bounded work under explicit authority.",
+    "id": "lokomotifai/pactmark",
+    "language": "TypeScript",
+    "name": "lokomotifai/pactmark",
+    "stars": 1,
+    "updated_at": "2026-08-15T18:29:08Z",
+    "url": "https://github.com/lokomotifai/pactmark"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-08-15T18:25:26Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 250,
+    "updated_at": "2026-08-15T18:24:12Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-08-15T18:22:09Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T18:20:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -45,15 +126,6 @@
     "url": "https://github.com/pereirawe/opencode-flow"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T18:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
     "id": "shipiit/shipit_agent",
     "language": "Python",
@@ -68,7 +140,7 @@
     "language": "Python",
     "name": "pavanbadempet/AI-Healthcare-System",
     "stars": 42,
-    "updated_at": "2026-08-15T18:13:10Z",
+    "updated_at": "2026-08-15T18:29:41Z",
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-15T18:17:08Z",
+    "updated_at": "2026-08-15T18:28:14Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -124,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T18:08:26Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
-    "description": "AI-powered daily standup reporter in your terminal \u2014 log tasks, pull your git commits, and generate yesterday/today repo",
-    "id": "juanhuttemann/standup",
-    "language": "Go",
-    "name": "juanhuttemann/standup",
-    "stars": 0,
-    "updated_at": "2026-08-15T18:05:29Z",
-    "url": "https://github.com/juanhuttemann/standup"
   },
   {
     "description": "OpenHermit is the open-source platform for deploying fleets of AI agents as production services \u2014 durable state, sandbox",
@@ -187,6 +250,15 @@
     "stars": 6780,
     "updated_at": "2026-08-15T17:59:18Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47031,
+    "updated_at": "2026-08-15T17:55:59Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -270,24 +342,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-15T17:18:55Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-08-15T17:18:09Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
     "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
     "id": "achappey/aihappey-chat",
     "language": "TypeScript",
@@ -297,15 +351,6 @@
     "url": "https://github.com/achappey/aihappey-chat"
   },
   {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-15T17:16:48Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
     "description": "Open-source infrastructure for trusted AI agents \u2014 identity, permissions, execution, evidence, verification and agent-to",
     "id": "xiaoyaxiaoya8888-hash/AgentForge",
     "language": "TypeScript",
@@ -313,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T17:35:38Z",
     "url": "https://github.com/xiaoyaxiaoya8888-hash/AgentForge"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47030,
-    "updated_at": "2026-08-15T17:55:59Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "\u57fa\u4e8e TRSS-Yunzai \u7684 AI Agent \u63d2\u4ef6\u6846\u67b6\uff1aLLM \u5bf9\u8bdd\u00b7\u5de5\u5177\u8c03\u7528\u00b7\u957f\u671f\u8bb0\u5fc6\u00b7MCP\u00b7\u5de5\u5177\u8fdb\u5316 | A modular AI Agent runtime for TRSS-Yunzai with self-evolving",
@@ -342,24 +378,6 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1754,
-    "updated_at": "2026-08-15T17:14:55Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 250,
-    "updated_at": "2026-08-15T18:04:01Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
@@ -373,7 +391,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19315,
+    "stars": 19316,
     "updated_at": "2026-08-15T17:10:44Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-15T17:54:38Z",
+    "updated_at": "2026-08-15T18:21:02Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T16:48:41Z",
     "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases",
-    "id": "ellmos-ai/gardener",
-    "language": "Python",
-    "name": "ellmos-ai/gardener",
-    "stars": 1,
-    "updated_at": "2026-08-15T16:46:53Z",
-    "url": "https://github.com/ellmos-ai/gardener"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 139,
-    "updated_at": "2026-08-15T16:45:13Z",
-    "url": "https://github.com/Birfy/agentdescent"
   }
 ]
