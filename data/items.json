@@ -1,12 +1,111 @@
 [
   {
+    "description": "Evidence-native TypeScript framework for agents that perform bounded work under explicit authority.",
+    "id": "lokomotifai/pactmark",
+    "language": "TypeScript",
+    "name": "lokomotifai/pactmark",
+    "stars": 1,
+    "updated_at": "2026-08-15T15:54:05Z",
+    "url": "https://github.com/lokomotifai/pactmark"
+  },
+  {
     "description": "DeepSeek Harness (dsh) \u4ece 0 \u5230 1 \u6df1\u5ea6\u624b\u518c\uff1a\u5b89\u88c5/\u63d2\u4ef6\u5f00\u53d1/\u6027\u80fd\u8c03\u4f18/\u5b9e\u6d4b\u6848\u4f8b/\u540c\u6a21\u578b\u591a Agent \u5b9e\u6d4b\u5bf9\u6bd4\uff08\u4e2d\u6587 + \u82f1\u6587 PDF\uff09",
     "id": "Electricitysheep/dsh-handbook",
     "language": "Python",
     "name": "Electricitysheep/dsh-handbook",
     "stars": 281,
-    "updated_at": "2026-08-15T15:43:30Z",
+    "updated_at": "2026-08-15T15:52:55Z",
     "url": "https://github.com/Electricitysheep/dsh-handbook"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 2,
+    "updated_at": "2026-08-15T15:52:28Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-15T15:52:26Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Standalone Playwright CLI for AI agent browser automation - control real Chromium with simple commands, token-optimized ",
+    "id": "detrin/brow",
+    "language": "Python",
+    "name": "detrin/brow",
+    "stars": 4,
+    "updated_at": "2026-08-15T15:50:44Z",
+    "url": "https://github.com/detrin/brow"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6780,
+    "updated_at": "2026-08-15T15:50:30Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47026,
+    "updated_at": "2026-08-15T15:49:20Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Agent context compressor and memory persistent orchestration",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 2,
+    "updated_at": "2026-08-15T15:49:46Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "Open-source TypeScript framework for building trusted AI agents: auditable runtime, default-deny permissions, evidence c",
+    "id": "xiaoyaxiaoya8888-hash/AgentForge",
+    "language": "TypeScript",
+    "name": "xiaoyaxiaoya8888-hash/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-08-15T15:46:51Z",
+    "url": "https://github.com/xiaoyaxiaoya8888-hash/AgentForge"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 26,
+    "updated_at": "2026-08-15T15:46:30Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34608,
+    "updated_at": "2026-08-15T15:55:10Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T15:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -27,15 +126,6 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "Standalone Playwright CLI for AI agent browser automation - control real Chromium with simple commands, token-optimized ",
-    "id": "detrin/brow",
-    "language": "Python",
-    "name": "detrin/brow",
-    "stars": 4,
-    "updated_at": "2026-08-15T15:40:15Z",
-    "url": "https://github.com/detrin/brow"
-  },
-  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -52,60 +142,6 @@
     "stars": 6,
     "updated_at": "2026-08-15T15:37:22Z",
     "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34607,
-    "updated_at": "2026-08-15T15:36:38Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 26,
-    "updated_at": "2026-08-15T15:36:32Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T15:34:44Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-15T15:34:40Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47025,
-    "updated_at": "2026-08-15T15:34:36Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Agent context compressor and memory persistent orchestration",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 2,
-    "updated_at": "2026-08-15T15:36:03Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
     "description": "\u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u7cfb\u7edf\uff1a\u7ed9 AI \u4e00\u4e2a\u4f1a\u81ea\u6211\u8fdb\u5316\u7684\u8bb0\u5fc6\u7cfb\u7edf\u57fa\u51c6\u6846\u67b6\u3002\u8bb0\u5fc6\u5206\u5c42/\u7ecf\u9a8c\u84b8\u998f/\u6280\u80fd\u8fdb\u5316/\u8fb9\u754c\u5b88\u62a4\uff0c\u4efb\u4f55\u4eba\u5728\u672c\u5730\u5373\u53ef\u90e8\u7f72\u3002",
@@ -131,17 +167,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-15T15:31:03Z",
+    "updated_at": "2026-08-15T15:48:34Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Open-source TypeScript framework for building trusted AI agents: auditable runtime, default-deny permissions, evidence c",
-    "id": "xiaoyaxiaoya8888-hash/AgentForge",
-    "language": "TypeScript",
-    "name": "xiaoyaxiaoya8888-hash/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-08-15T15:26:56Z",
-    "url": "https://github.com/xiaoyaxiaoya8888-hash/AgentForge"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 23,
-    "updated_at": "2026-08-15T15:37:22Z",
+    "updated_at": "2026-08-15T15:52:21Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -297,15 +324,6 @@
     "url": "https://github.com/piranhabot/piranha-agent"
   },
   {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6780,
-    "updated_at": "2026-08-15T15:12:41Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -313,15 +331,6 @@
     "stars": 76,
     "updated_at": "2026-08-15T15:12:08Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Evidence-native TypeScript framework for agents that perform bounded work under explicit authority.",
-    "id": "lokomotifai/pactmark",
-    "language": "TypeScript",
-    "name": "lokomotifai/pactmark",
-    "stars": 1,
-    "updated_at": "2026-08-15T15:44:29Z",
-    "url": "https://github.com/lokomotifai/pactmark"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -347,7 +356,7 @@
     "language": "Rust",
     "name": "PiyotaHu/muxiva",
     "stars": 1,
-    "updated_at": "2026-08-15T15:06:28Z",
+    "updated_at": "2026-08-15T15:45:23Z",
     "url": "https://github.com/PiyotaHu/muxiva"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T14:47:52Z",
     "url": "https://github.com/7bder/orchd-core"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1158,
-    "updated_at": "2026-08-15T14:45:04Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
   }
 ]
