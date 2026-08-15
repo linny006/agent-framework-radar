@@ -1,5 +1,95 @@
 [
   {
+    "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 0,
+    "updated_at": "2026-08-15T13:12:46Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 19,
+    "updated_at": "2026-08-15T13:12:40Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Evidence-native TypeScript framework for agents that perform bounded work under explicit authority.",
+    "id": "lokomotifai/pactmark",
+    "language": "TypeScript",
+    "name": "lokomotifai/pactmark",
+    "stars": 1,
+    "updated_at": "2026-08-15T13:15:22Z",
+    "url": "https://github.com/lokomotifai/pactmark"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 121,
+    "updated_at": "2026-08-15T13:12:04Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 76,
+    "updated_at": "2026-08-15T13:11:16Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Ready-to-use AI agents for AgentsKit \u2014 shadcn-style: copy the source into your project. registry.agentskit.io",
+    "id": "AgentsKit-io/agentskit-registry",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit-registry",
+    "stars": 5,
+    "updated_at": "2026-08-15T13:10:24Z",
+    "url": "https://github.com/AgentsKit-io/agentskit-registry"
+  },
+  {
+    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
+    "id": "qmilab/asterism",
+    "language": "TypeScript",
+    "name": "qmilab/asterism",
+    "stars": 2,
+    "updated_at": "2026-08-15T13:07:06Z",
+    "url": "https://github.com/qmilab/asterism"
+  },
+  {
+    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
+    "id": "pereirawe/opencode-flow",
+    "language": "Shell",
+    "name": "pereirawe/opencode-flow",
+    "stars": 2,
+    "updated_at": "2026-08-15T13:06:08Z",
+    "url": "https://github.com/pereirawe/opencode-flow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T13:05:50Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\u26a1 Next-gen autonomous agent framework with Rust core, time-travel debugging, Wasm sandbox, and 53+ Claude Skills. 100x f",
+    "id": "piranhabot/piranha-agent",
+    "language": "JavaScript",
+    "name": "piranhabot/piranha-agent",
+    "stars": 2,
+    "updated_at": "2026-08-15T13:05:48Z",
+    "url": "https://github.com/piranhabot/piranha-agent"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -27,24 +117,6 @@
     "url": "https://github.com/MariusYvard/corparius"
   },
   {
-    "description": "\u26a1 Next-gen autonomous agent framework with Rust core, time-travel debugging, Wasm sandbox, and 53+ Claude Skills. 100x f",
-    "id": "piranhabot/piranha-agent",
-    "language": "JavaScript",
-    "name": "piranhabot/piranha-agent",
-    "stars": 2,
-    "updated_at": "2026-08-15T13:05:48Z",
-    "url": "https://github.com/piranhabot/piranha-agent"
-  },
-  {
-    "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 0,
-    "updated_at": "2026-08-15T13:04:52Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
     "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
     "id": "Arasz/ai-badger",
     "language": "Python",
@@ -52,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T13:00:50Z",
     "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T13:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -76,7 +139,7 @@
     "id": "cookiespiggy/deepseek-harness-stair-cookbook",
     "language": "TypeScript",
     "name": "cookiespiggy/deepseek-harness-stair-cookbook",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-15T12:59:34Z",
     "url": "https://github.com/cookiespiggy/deepseek-harness-stair-cookbook"
   },
@@ -124,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T12:56:41Z",
     "url": "https://github.com/mathissdupont/ingot"
-  },
-  {
-    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
-    "id": "pereirawe/opencode-flow",
-    "language": "Shell",
-    "name": "pereirawe/opencode-flow",
-    "stars": 2,
-    "updated_at": "2026-08-15T13:05:34Z",
-    "url": "https://github.com/pereirawe/opencode-flow"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -266,7 +320,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-15T13:02:34Z",
+    "updated_at": "2026-08-15T13:13:52Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -293,7 +347,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-15T12:31:53Z",
+    "updated_at": "2026-08-15T13:09:57Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -342,6 +396,15 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
+    "description": "Open-source CMA-compatible agent runtime for any model, with MCP tools, sandboxed sessions, audit, replay, and a local c",
+    "id": "sandbaseai/sandbase-harness",
+    "language": "TypeScript",
+    "name": "sandbaseai/sandbase-harness",
+    "stars": 586,
+    "updated_at": "2026-08-15T12:10:33Z",
+    "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
     "id": "Marssssss/OneAI",
     "language": "Rust",
@@ -349,15 +412,6 @@
     "stars": 36,
     "updated_at": "2026-08-15T12:04:34Z",
     "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 121,
-    "updated_at": "2026-08-15T13:01:13Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -387,15 +441,6 @@
     "url": "https://github.com/detrin/brow"
   },
   {
-    "description": "Open-source CMA-compatible agent runtime for any model, with MCP tools, sandboxed sessions, audit, replay, and a local c",
-    "id": "sandbaseai/sandbase-harness",
-    "language": "TypeScript",
-    "name": "sandbaseai/sandbase-harness",
-    "stars": 584,
-    "updated_at": "2026-08-15T12:10:33Z",
-    "url": "https://github.com/sandbaseai/sandbase-harness"
-  },
-  {
     "description": "Record, replay, and improve AI agents in production, built on ZenML",
     "id": "zenml-io/kitaru",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 236,
     "updated_at": "2026-08-15T12:00:12Z",
     "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
-    "description": "Evidence-native TypeScript framework for agents that perform bounded work under explicit authority.",
-    "id": "lokomotifai/pactmark",
-    "language": "TypeScript",
-    "name": "lokomotifai/pactmark",
-    "stars": 1,
-    "updated_at": "2026-08-15T13:02:14Z",
-    "url": "https://github.com/lokomotifai/pactmark"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15008,
-    "updated_at": "2026-08-15T11:38:29Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
-    "id": "Gald3r-Labs/gald3r",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r",
-    "stars": 23,
-    "updated_at": "2026-08-15T11:36:56Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1158,
-    "updated_at": "2026-08-15T11:29:45Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Agents daemon that hides nothing",
-    "id": "crabtalk/crabtalk",
-    "language": "Rust",
-    "name": "crabtalk/crabtalk",
-    "stars": 730,
-    "updated_at": "2026-08-15T11:21:36Z",
-    "url": "https://github.com/crabtalk/crabtalk"
   }
 ]
