@@ -1,12 +1,39 @@
 [
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1299,
+    "updated_at": "2026-08-15T04:53:59Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-15T04:44:30Z",
-    "url": "https://github.com/tya5/reyn"
+    "name": "omnigent-ai/omnigent",
+    "stars": 8854,
+    "updated_at": "2026-08-15T04:50:12Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 20,
+    "updated_at": "2026-08-15T04:48:32Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-08-15T04:48:21Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -14,8 +41,35 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 76,
-    "updated_at": "2026-08-15T04:43:54Z",
+    "updated_at": "2026-08-15T04:47:38Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-08-15T04:46:43Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T04:45:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-15T04:50:32Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-15T04:42:42Z",
+    "updated_at": "2026-08-15T04:53:37Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -54,6 +108,15 @@
     "url": "https://github.com/sandbaseai/sandbase-harness"
   },
   {
+    "description": "The universal agent interface & open composable platform for agent orchestration and knowledge sharing. Build plugins th",
+    "id": "amajorai/ryu",
+    "language": "Rust",
+    "name": "amajorai/ryu",
+    "stars": 35,
+    "updated_at": "2026-08-15T04:37:22Z",
+    "url": "https://github.com/amajorai/ryu"
+  },
+  {
     "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
     "id": "shimo4228/contemplative-agent",
     "language": "Python",
@@ -63,13 +126,13 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "The universal agent interface & open composable platform for agent orchestration and knowledge sharing. Build plugins th",
-    "id": "amajorai/ryu",
-    "language": "Rust",
-    "name": "amajorai/ryu",
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 35,
-    "updated_at": "2026-08-15T04:37:22Z",
-    "url": "https://github.com/amajorai/ryu"
+    "updated_at": "2026-08-15T04:35:16Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -99,15 +162,6 @@
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T04:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -115,24 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T04:28:56Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1299,
-    "updated_at": "2026-08-15T04:45:08Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 34,
-    "updated_at": "2026-08-15T04:35:16Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -238,7 +274,7 @@
     "id": "Electricitysheep/dsh-handbook",
     "language": "Python",
     "name": "Electricitysheep/dsh-handbook",
-    "stars": 233,
+    "stars": 234,
     "updated_at": "2026-08-15T04:05:29Z",
     "url": "https://github.com/Electricitysheep/dsh-handbook"
   },
@@ -270,15 +306,6 @@
     "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 20,
-    "updated_at": "2026-08-15T03:55:52Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "\u5b66\u4e60\u5b98\u65b9 deepseek-harness\uff089w+ star\uff09\u7684\u9636\u68af\u5f0f\u6559\u7a0b\uff1a\u4ece Cordis \u57fa\u7840\u5230\u4e8c\u6b21\u5f00\u53d1\uff0c12 \u6b65\u53ef\u72ec\u7acb\u8fd0\u884c\uff0c\u4e2d\u6587\u6ce8\u91ca\u3002",
     "id": "cookiespiggy/deepseek-harness-stair-cookbook",
     "language": "\u2014",
@@ -302,7 +329,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 120,
-    "updated_at": "2026-08-15T03:52:02Z",
+    "updated_at": "2026-08-15T04:52:52Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -322,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T03:50:47Z",
     "url": "https://github.com/acnlabs/ACN"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 5,
-    "updated_at": "2026-08-15T03:44:56Z",
-    "url": "https://github.com/opencue/cuecards"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -369,21 +387,12 @@
     "url": "https://github.com/hua695/MathModel-Framework"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 8853,
-    "updated_at": "2026-08-15T04:42:11Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
     "id": "GizClaw/flowcraft",
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 441,
-    "updated_at": "2026-08-15T03:33:56Z",
+    "updated_at": "2026-08-15T04:53:39Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -392,7 +401,7 @@
     "language": "TypeScript",
     "name": "sattyamjjain/ferrumdeck",
     "stars": 7,
-    "updated_at": "2026-08-15T03:30:35Z",
+    "updated_at": "2026-08-15T04:53:58Z",
     "url": "https://github.com/sattyamjjain/ferrumdeck"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 293,
     "updated_at": "2026-08-15T03:08:14Z",
     "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
-    "id": "rapidaai/voice-ai",
-    "language": "Go",
-    "name": "rapidaai/voice-ai",
-    "stars": 712,
-    "updated_at": "2026-08-15T03:51:02Z",
-    "url": "https://github.com/rapidaai/voice-ai"
   }
 ]
