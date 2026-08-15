@@ -1,11 +1,101 @@
 [
   {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-15T23:13:48Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-15T23:13:39Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
+    "id": "Thepizzapie/BuildersGate",
+    "language": "Python",
+    "name": "Thepizzapie/BuildersGate",
+    "stars": 21,
+    "updated_at": "2026-08-15T23:13:38Z",
+    "url": "https://github.com/Thepizzapie/BuildersGate"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-15T23:13:31Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 5,
+    "updated_at": "2026-08-15T23:10:42Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-15T23:14:10Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-15T23:09:13Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-15T23:08:59Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
+    "id": "SparkElf/deepseek-harness-plus",
+    "language": "TypeScript",
+    "name": "SparkElf/deepseek-harness-plus",
+    "stars": 2,
+    "updated_at": "2026-08-15T23:08:31Z",
+    "url": "https://github.com/SparkElf/deepseek-harness-plus"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 76,
+    "updated_at": "2026-08-15T23:12:52Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-15T22:59:39Z",
+    "updated_at": "2026-08-15T23:00:20Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -36,15 +126,6 @@
     "url": "https://github.com/brunogcar/agent"
   },
   {
-    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
-    "id": "Thepizzapie/BuildersGate",
-    "language": "Python",
-    "name": "Thepizzapie/BuildersGate",
-    "stars": 21,
-    "updated_at": "2026-08-15T22:56:24Z",
-    "url": "https://github.com/Thepizzapie/BuildersGate"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -59,35 +140,8 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-15T22:55:54Z",
+    "updated_at": "2026-08-15T23:08:51Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-15T22:53:58Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 5,
-    "updated_at": "2026-08-15T22:53:07Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
-    "id": "SparkElf/deepseek-harness-plus",
-    "language": "TypeScript",
-    "name": "SparkElf/deepseek-harness-plus",
-    "stars": 2,
-    "updated_at": "2026-08-15T22:52:02Z",
-    "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
     "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-08-15T22:27:07Z",
+    "updated_at": "2026-08-15T23:14:58Z",
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
@@ -194,7 +248,7 @@
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-08-15T22:56:16Z",
+    "updated_at": "2026-08-15T23:07:17Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
@@ -216,24 +270,6 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-15T22:14:23Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:14:16Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
     "id": "KPO-Tech/seshat",
     "language": "Go",
@@ -252,30 +288,12 @@
     "url": "https://github.com/Suraj1235/sudarshan-superharness"
   },
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-15T22:08:25Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-15T22:08:14Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "A personal AI assistant in one Go binary: WASM-sandboxed extensions, per-action permission gating, and mandatory out-of-",
     "id": "efuturetoday/nocturn",
     "language": "Go",
     "name": "efuturetoday/nocturn",
     "stars": 3,
-    "updated_at": "2026-08-15T22:51:37Z",
+    "updated_at": "2026-08-15T23:11:16Z",
     "url": "https://github.com/efuturetoday/nocturn"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T21:31:42Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-08-15T21:31:07Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-08-15T21:30:41Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
   }
 ]
