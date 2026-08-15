@@ -1,5 +1,41 @@
 [
   {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-08-15T17:34:31Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "\u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u7cfb\u7edf\uff1a\u7ed9 AI \u4e00\u4e2a\u4f1a\u81ea\u6211\u8fdb\u5316\u7684\u8bb0\u5fc6\u7cfb\u7edf\u57fa\u51c6\u6846\u67b6\u3002\u8bb0\u5fc6\u5206\u5c42/\u7ecf\u9a8c\u84b8\u998f/\u6280\u80fd\u8fdb\u5316/\u8fb9\u754c\u5b88\u62a4\uff0c\u4efb\u4f55\u4eba\u5728\u672c\u5730\u5373\u53ef\u90e8\u7f72\u3002",
+    "id": "3loveljw2/self-evolving-agent",
+    "language": "Python",
+    "name": "3loveljw2/self-evolving-agent",
+    "stars": 0,
+    "updated_at": "2026-08-15T17:33:31Z",
+    "url": "https://github.com/3loveljw2/self-evolving-agent"
+  },
+  {
+    "description": "AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an",
+    "id": "sattyamjjain/ferrumdeck",
+    "language": "TypeScript",
+    "name": "sattyamjjain/ferrumdeck",
+    "stars": 7,
+    "updated_at": "2026-08-15T17:32:36Z",
+    "url": "https://github.com/sattyamjjain/ferrumdeck"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T17:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -81,7 +117,7 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "Open-source TypeScript framework for building trusted AI agents: auditable runtime, default-deny permissions, evidence c",
+    "description": "Open-source infrastructure for trusted AI agents \u2014 identity, permissions, execution, evidence, verification and agent-to",
     "id": "xiaoyaxiaoya8888-hash/AgentForge",
     "language": "TypeScript",
     "name": "xiaoyaxiaoya8888-hash/AgentForge",
@@ -115,15 +151,6 @@
     "stars": 1299,
     "updated_at": "2026-08-15T17:15:58Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T17:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-15T17:28:03Z",
+    "updated_at": "2026-08-15T17:32:45Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 0,
-    "updated_at": "2026-08-15T17:24:59Z",
+    "updated_at": "2026-08-15T17:35:10Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -295,6 +322,15 @@
     "stars": 1,
     "updated_at": "2026-08-15T16:46:53Z",
     "url": "https://github.com/ellmos-ai/gardener"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 139,
+    "updated_at": "2026-08-15T16:45:13Z",
+    "url": "https://github.com/Birfy/agentdescent"
   },
   {
     "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
@@ -412,41 +448,5 @@
     "stars": 14,
     "updated_at": "2026-08-15T16:04:42Z",
     "url": "https://github.com/weed33834/AgentSeed"
-  },
-  {
-    "description": "\u26a1 Next-gen autonomous agent framework with Rust core, time-travel debugging, Wasm sandbox, and 53+ Claude Skills. 100x f",
-    "id": "piranhabot/piranha-agent",
-    "language": "JavaScript",
-    "name": "piranhabot/piranha-agent",
-    "stars": 2,
-    "updated_at": "2026-08-15T15:57:42Z",
-    "url": "https://github.com/piranhabot/piranha-agent"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 20,
-    "updated_at": "2026-08-15T15:56:46Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-15T15:56:26Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Evidence-native TypeScript framework for agents that perform bounded work under explicit authority.",
-    "id": "lokomotifai/pactmark",
-    "language": "TypeScript",
-    "name": "lokomotifai/pactmark",
-    "stars": 1,
-    "updated_at": "2026-08-15T16:58:30Z",
-    "url": "https://github.com/lokomotifai/pactmark"
   }
 ]
