@@ -1,11 +1,137 @@
 [
   {
+    "description": "Local-first AI Agent framework. DeepSeek-compatible (deepseek-v4-pro / deepseek-v4-flash), multi-model (OpenAI/Claude/GL",
+    "id": "Lam-Arc/LamTools",
+    "language": "Python",
+    "name": "Lam-Arc/LamTools",
+    "stars": 1,
+    "updated_at": "2026-08-15T14:59:02Z",
+    "url": "https://github.com/Lam-Arc/LamTools"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-08-15T14:58:33Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-08-15T14:58:25Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-15T14:58:10Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "\u26a1 Next-gen autonomous agent framework with Rust core, time-travel debugging, Wasm sandbox, and 53+ Claude Skills. 100x f",
+    "id": "piranhabot/piranha-agent",
+    "language": "JavaScript",
+    "name": "piranhabot/piranha-agent",
+    "stars": 2,
+    "updated_at": "2026-08-15T14:57:15Z",
+    "url": "https://github.com/piranhabot/piranha-agent"
+  },
+  {
+    "description": "Standalone Playwright CLI for AI agent browser automation - control real Chromium with simple commands, token-optimized ",
+    "id": "detrin/brow",
+    "language": "Python",
+    "name": "detrin/brow",
+    "stars": 4,
+    "updated_at": "2026-08-15T14:54:51Z",
+    "url": "https://github.com/detrin/brow"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 3,
+    "updated_at": "2026-08-15T14:54:21Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
+    "id": "rundesk-ai/rundesk-cli",
+    "language": "Python",
+    "name": "rundesk-ai/rundesk-cli",
+    "stars": 1,
+    "updated_at": "2026-08-15T14:58:04Z",
+    "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-15T14:53:01Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Self-hosted AI agents with a web UI \u2014 extend with Python/JS tools & MCP, schedule with cron Jobs, publish as public chat",
+    "id": "phamvanquyit/raw-agents",
+    "language": "TypeScript",
+    "name": "phamvanquyit/raw-agents",
+    "stars": 3,
+    "updated_at": "2026-08-15T14:52:31Z",
+    "url": "https://github.com/phamvanquyit/raw-agents"
+  },
+  {
+    "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
+    "id": "achappey/aihappey-chat",
+    "language": "TypeScript",
+    "name": "achappey/aihappey-chat",
+    "stars": 4,
+    "updated_at": "2026-08-15T14:51:14Z",
+    "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
+    "description": "AgentSeed - the governance layer for AI agents. Non-negotiable safety kernel + pluggable scenario packs, synced to 15 AI",
+    "id": "weed33834/AgentSeed",
+    "language": "Python",
+    "name": "weed33834/AgentSeed",
+    "stars": 14,
+    "updated_at": "2026-08-15T14:50:20Z",
+    "url": "https://github.com/weed33834/AgentSeed"
+  },
+  {
+    "description": "Muxiva is a Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and ",
+    "id": "PiyotaHu/muxiva",
+    "language": "Rust",
+    "name": "PiyotaHu/muxiva",
+    "stars": 1,
+    "updated_at": "2026-08-15T14:48:29Z",
+    "url": "https://github.com/PiyotaHu/muxiva"
+  },
+  {
+    "description": "orchd \u5f15\u64ce\u6700\u5c0f\u53ef\u79fb\u690d\u6838\u5fc3\u5957\u4ef6\uff1a\u8de8 AI agent \u5e73\u53f0\u7684\u4efb\u52a1\u7f16\u6392 CLI\uff08\u4e8b\u4ef6\u6eaf\u6e90 + \u6587\u4ef6\u9501 + DAG \u5c31\u7eea\u6c60 + \u4e24\u9636\u6bb5\u5ba1\u67e5\uff09",
+    "id": "7bder/orchd-core",
+    "language": "Python",
+    "name": "7bder/orchd-core",
+    "stars": 0,
+    "updated_at": "2026-08-15T14:47:52Z",
+    "url": "https://github.com/7bder/orchd-core"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-15T14:45:23Z",
+    "updated_at": "2026-08-15T14:45:45Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -16,60 +142,6 @@
     "stars": 1158,
     "updated_at": "2026-08-15T14:45:04Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "AgentSeed - the governance layer for AI agents. Non-negotiable safety kernel + pluggable scenario packs, synced to 15 AI",
-    "id": "weed33834/AgentSeed",
-    "language": "Python",
-    "name": "weed33834/AgentSeed",
-    "stars": 14,
-    "updated_at": "2026-08-15T14:44:42Z",
-    "url": "https://github.com/weed33834/AgentSeed"
-  },
-  {
-    "description": "\u26a1 Next-gen autonomous agent framework with Rust core, time-travel debugging, Wasm sandbox, and 53+ Claude Skills. 100x f",
-    "id": "piranhabot/piranha-agent",
-    "language": "JavaScript",
-    "name": "piranhabot/piranha-agent",
-    "stars": 2,
-    "updated_at": "2026-08-15T14:44:26Z",
-    "url": "https://github.com/piranhabot/piranha-agent"
-  },
-  {
-    "description": "orchd \u5f15\u64ce\u6700\u5c0f\u53ef\u79fb\u690d\u6838\u5fc3\u5957\u4ef6\uff1a\u8de8 AI agent \u5e73\u53f0\u7684\u4efb\u52a1\u7f16\u6392 CLI\uff08\u4e8b\u4ef6\u6eaf\u6e90 + \u6587\u4ef6\u9501 + DAG \u5c31\u7eea\u6c60 + \u4e24\u9636\u6bb5\u5ba1\u67e5\uff09",
-    "id": "7bder/orchd-core",
-    "language": "Python",
-    "name": "7bder/orchd-core",
-    "stars": 0,
-    "updated_at": "2026-08-15T14:44:10Z",
-    "url": "https://github.com/7bder/orchd-core"
-  },
-  {
-    "description": "Muxiva is a Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and ",
-    "id": "PiyotaHu/muxiva",
-    "language": "Rust",
-    "name": "PiyotaHu/muxiva",
-    "stars": 1,
-    "updated_at": "2026-08-15T14:43:09Z",
-    "url": "https://github.com/PiyotaHu/muxiva"
-  },
-  {
-    "description": "Local-first AI Agent framework. DeepSeek-compatible (deepseek-v4-pro / deepseek-v4-flash), multi-model (OpenAI/Claude/GL",
-    "id": "Lam-Arc/LamTools",
-    "language": "Python",
-    "name": "Lam-Arc/LamTools",
-    "stars": 1,
-    "updated_at": "2026-08-15T14:43:06Z",
-    "url": "https://github.com/Lam-Arc/LamTools"
-  },
-  {
-    "description": "Standalone Playwright CLI for AI agent browser automation - control real Chromium with simple commands, token-optimized ",
-    "id": "detrin/brow",
-    "language": "Python",
-    "name": "detrin/brow",
-    "stars": 4,
-    "updated_at": "2026-08-15T14:41:56Z",
-    "url": "https://github.com/detrin/brow"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -90,13 +162,13 @@
     "url": "https://github.com/MariusYvard/corparius"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-15T14:45:21Z",
-    "url": "https://github.com/tya5/reyn"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34601,
+    "updated_at": "2026-08-15T14:38:43Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -117,40 +189,13 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-08-15T14:33:24Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-15T14:45:16Z",
+    "updated_at": "2026-08-15T14:57:18Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-15T14:32:00Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 3,
-    "updated_at": "2026-08-15T14:31:39Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "A Framework for Agents work efficiency",
@@ -166,7 +211,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47024,
+    "stars": 47025,
     "updated_at": "2026-08-15T14:30:08Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -205,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-08-15T14:23:30Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
-    "id": "rundesk-ai/rundesk-cli",
-    "language": "Python",
-    "name": "rundesk-ai/rundesk-cli",
-    "stars": 1,
-    "updated_at": "2026-08-15T14:31:14Z",
-    "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -275,7 +311,7 @@
     "language": "Shell",
     "name": "pereirawe/opencode-flow",
     "stars": 2,
-    "updated_at": "2026-08-15T14:15:46Z",
+    "updated_at": "2026-08-15T14:55:05Z",
     "url": "https://github.com/pereirawe/opencode-flow"
   },
   {
@@ -364,18 +400,9 @@
     "id": "congchuanling-dot/Cohort",
     "language": "Go",
     "name": "congchuanling-dot/Cohort",
-    "stars": 47,
+    "stars": 48,
     "updated_at": "2026-08-15T13:56:41Z",
     "url": "https://github.com/congchuanling-dot/Cohort"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-08-15T14:14:48Z",
-    "url": "https://github.com/go-steer/mast"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -401,7 +428,7 @@
     "language": "TypeScript",
     "name": "lokomotifai/pactmark",
     "stars": 1,
-    "updated_at": "2026-08-15T13:20:12Z",
+    "updated_at": "2026-08-15T14:55:28Z",
     "url": "https://github.com/lokomotifai/pactmark"
   },
   {
@@ -410,7 +437,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 76,
-    "updated_at": "2026-08-15T14:12:05Z",
+    "updated_at": "2026-08-15T14:48:26Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-15T13:10:24Z",
     "url": "https://github.com/AgentsKit-io/agentskit-registry"
-  },
-  {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 2,
-    "updated_at": "2026-08-15T13:07:06Z",
-    "url": "https://github.com/qmilab/asterism"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6780,
-    "updated_at": "2026-08-15T13:48:59Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 2,
-    "updated_at": "2026-08-15T13:00:50Z",
-    "url": "https://github.com/Arasz/ai-badger"
   }
 ]
