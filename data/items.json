@@ -1,21 +1,39 @@
 [
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 76,
-    "updated_at": "2026-08-16T02:30:28Z",
-    "url": "https://github.com/JKHeadley/instar"
+    "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
+    "id": "atliliw/langchainrust",
+    "language": "Rust",
+    "name": "atliliw/langchainrust",
+    "stars": 13,
+    "updated_at": "2026-08-16T02:44:29Z",
+    "url": "https://github.com/atliliw/langchainrust"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 36,
+    "updated_at": "2026-08-16T02:41:44Z",
+    "url": "https://github.com/Marssssss/OneAI"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-08-16T02:40:32Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "\u53ef\u5d4c\u5165 Python \u4ea7\u54c1\u7684 Agent Runtime\uff0c\u63d0\u4f9b\u5de5\u5177\u6267\u884c\u3001Skills\u3001\u8fd0\u884c\u4e8b\u4ef6\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u6301\u4e45\u5316 Checkpointer\u3002",
+    "id": "Notryag/north-agent",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T02:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "Notryag/north-agent",
+    "stars": 1,
+    "updated_at": "2026-08-16T02:40:26Z",
+    "url": "https://github.com/Notryag/north-agent"
   },
   {
     "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
@@ -23,8 +41,35 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 2,
-    "updated_at": "2026-08-16T02:26:54Z",
+    "updated_at": "2026-08-16T02:38:12Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5076,
+    "updated_at": "2026-08-16T02:34:21Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T02:33:38Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 76,
+    "updated_at": "2026-08-16T02:30:28Z",
+    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Turn the way you work with AI into a reusable asset \u00b7 \u628a\u4f60\u7684 AI \u5de5\u4f5c\u65b9\u5f0f\uff0c\u6c89\u6dc0\u6210\u53ef\u4ee5\u590d\u7528\u7684\u8d44\u4ea7\u3002",
@@ -54,15 +99,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-08-16T02:17:49Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -81,21 +117,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-08-16T02:12:45Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 34622,
-    "updated_at": "2026-08-16T02:12:03Z",
+    "updated_at": "2026-08-16T02:36:12Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -131,7 +158,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 52,
-    "updated_at": "2026-08-16T02:07:54Z",
+    "updated_at": "2026-08-16T02:37:42Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -310,7 +337,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19320,
+    "stars": 19321,
     "updated_at": "2026-08-16T01:02:48Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T00:12:21Z",
     "url": "https://github.com/7bder/orchd-core"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-16T01:41:19Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Build a coding agent from scratch, one harness primitive at a time. 15 chapters (ch-00..ch-14), each green on two gates.",
-    "id": "thecarbonlayer/carbon",
-    "language": "Python",
-    "name": "thecarbonlayer/carbon",
-    "stars": 68,
-    "updated_at": "2026-08-15T23:51:45Z",
-    "url": "https://github.com/thecarbonlayer/carbon"
-  },
-  {
-    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
-    "id": "SparkElf/deepseek-harness-plus",
-    "language": "TypeScript",
-    "name": "SparkElf/deepseek-harness-plus",
-    "stars": 2,
-    "updated_at": "2026-08-15T23:49:38Z",
-    "url": "https://github.com/SparkElf/deepseek-harness-plus"
   }
 ]
