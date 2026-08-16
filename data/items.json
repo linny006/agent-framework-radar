@@ -1,12 +1,120 @@
 [
   {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-16T07:29:41Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-08-16T07:28:41Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-08-16T07:27:05Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34623,
+    "updated_at": "2026-08-16T07:27:01Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-16T07:25:22Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:25:17Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-16T07:25:10Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Governance kernel for AI coding agents. One command \u2192 safety rules + scenario packs, synced to 15 platforms (Claude Code",
+    "id": "weed33834/AgentSeed",
+    "language": "Python",
+    "name": "weed33834/AgentSeed",
+    "stars": 18,
+    "updated_at": "2026-08-16T07:24:21Z",
+    "url": "https://github.com/weed33834/AgentSeed"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 11,
+    "updated_at": "2026-08-16T07:21:48Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-16T07:21:48Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-16T07:21:31Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
     "id": "Spitfire-Products/nexus-cortex",
     "language": "TypeScript",
     "name": "Spitfire-Products/nexus-cortex",
     "stars": 0,
-    "updated_at": "2026-08-16T07:13:25Z",
+    "updated_at": "2026-08-16T07:18:43Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-16T07:16:06Z",
+    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +122,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-16T07:08:02Z",
+    "updated_at": "2026-08-16T07:15:22Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:29:18Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
     "description": "Source-available Harness AI / Agent OS for teams building governed agent applications - with Nexus orchestration, policy",
@@ -23,17 +140,8 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 3,
-    "updated_at": "2026-08-16T07:14:33Z",
+    "updated_at": "2026-08-16T07:28:03Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34624,
-    "updated_at": "2026-08-16T07:05:18Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
@@ -54,20 +162,11 @@
     "url": "https://github.com/sauravbhattacharya001/agentlens"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 11,
-    "updated_at": "2026-08-16T07:04:22Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
     "name": "whyihaveyou/dsh-suite",
-    "stars": 32,
+    "stars": 34,
     "updated_at": "2026-08-16T07:01:33Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
@@ -106,15 +205,6 @@
     "stars": 4,
     "updated_at": "2026-08-16T06:54:27Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:54:15Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "\u53ef\u5d4c\u5165 Python \u4ea7\u54c1\u7684 Agent Runtime\uff0c\u63d0\u4f9b\u5de5\u5177\u6267\u884c\u3001Skills\u3001\u8fd0\u884c\u4e8b\u4ef6\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u6301\u4e45\u5316 Checkpointer\u3002",
@@ -189,33 +279,6 @@
     "url": "https://github.com/Marssssss/OneAI"
   },
   {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:36:53Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-08-16T06:35:42Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-16T06:33:17Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
     "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
     "id": "qmilab/asterism",
     "language": "TypeScript",
@@ -225,24 +288,6 @@
     "url": "https://github.com/qmilab/asterism"
   },
   {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:29:22Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:29:15Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Agents daemon that hides nothing",
     "id": "crabtalk/crabtalk",
     "language": "Rust",
@@ -250,24 +295,6 @@
     "stars": 730,
     "updated_at": "2026-08-16T06:22:43Z",
     "url": "https://github.com/crabtalk/crabtalk"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:19:23Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-16T06:19:15Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible;",
@@ -365,7 +392,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4466,
-    "updated_at": "2026-08-16T07:14:56Z",
+    "updated_at": "2026-08-16T07:30:07Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 347,
     "updated_at": "2026-08-16T05:37:08Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
-    "id": "saajunaid/caddis-plugin",
-    "language": "Python",
-    "name": "saajunaid/caddis-plugin",
-    "stars": 0,
-    "updated_at": "2026-08-16T05:37:40Z",
-    "url": "https://github.com/saajunaid/caddis-plugin"
-  },
-  {
-    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
-    "id": "bugsyhewitt/AlienClaw",
-    "language": "TypeScript",
-    "name": "bugsyhewitt/AlienClaw",
-    "stars": 7,
-    "updated_at": "2026-08-16T05:31:53Z",
-    "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 253,
-    "updated_at": "2026-08-16T05:16:57Z",
-    "url": "https://github.com/xuiltul/animaworks"
   }
 ]
