@@ -1,12 +1,39 @@
 [
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
     "language": "Python",
-    "name": "hanyeol/model-compose",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-16T01:27:42Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Building TITAN \u2014 the open-source AI operating system for trusted autonomous work: agents, tools, memory, approvals, rece",
+    "id": "Djtony707/TITAN",
+    "language": "TypeScript",
+    "name": "Djtony707/TITAN",
+    "stars": 18,
+    "updated_at": "2026-08-16T01:24:39Z",
+    "url": "https://github.com/Djtony707/TITAN"
+  },
+  {
+    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
+    "id": "Thepizzapie/BuildersGate",
+    "language": "Python",
+    "name": "Thepizzapie/BuildersGate",
+    "stars": 21,
+    "updated_at": "2026-08-16T01:23:29Z",
+    "url": "https://github.com/Thepizzapie/BuildersGate"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
     "stars": 76,
-    "updated_at": "2026-08-16T01:14:29Z",
-    "url": "https://github.com/hanyeol/model-compose"
+    "updated_at": "2026-08-16T01:22:01Z",
+    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -14,8 +41,53 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 34621,
-    "updated_at": "2026-08-16T01:14:07Z",
+    "updated_at": "2026-08-16T01:20:58Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 106,
+    "updated_at": "2026-08-16T01:20:12Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
+    "id": "rundesk-ai/rundesk-cli",
+    "language": "Python",
+    "name": "rundesk-ai/rundesk-cli",
+    "stars": 2,
+    "updated_at": "2026-08-16T01:19:18Z",
+    "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 3,
+    "updated_at": "2026-08-16T01:17:00Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T01:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-16T01:14:29Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -54,33 +126,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
-    "id": "rundesk-ai/rundesk-cli",
-    "language": "Python",
-    "name": "rundesk-ai/rundesk-cli",
-    "stars": 2,
-    "updated_at": "2026-08-16T01:09:44Z",
-    "url": "https://github.com/rundesk-ai/rundesk-cli"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 3,
-    "updated_at": "2026-08-16T01:09:28Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
-    "id": "Thepizzapie/BuildersGate",
-    "language": "Python",
-    "name": "Thepizzapie/BuildersGate",
-    "stars": 21,
-    "updated_at": "2026-08-16T01:08:47Z",
-    "url": "https://github.com/Thepizzapie/BuildersGate"
-  },
-  {
     "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
     "id": "Gald3r-Labs/gald3r",
     "language": "\u2014",
@@ -88,24 +133,6 @@
     "stars": 23,
     "updated_at": "2026-08-16T01:06:51Z",
     "url": "https://github.com/Gald3r-Labs/gald3r"
-  },
-  {
-    "description": "Building TITAN \u2014 the open-source AI operating system for trusted autonomous work: agents, tools, memory, approvals, rece",
-    "id": "Djtony707/TITAN",
-    "language": "TypeScript",
-    "name": "Djtony707/TITAN",
-    "stars": 18,
-    "updated_at": "2026-08-16T01:07:37Z",
-    "url": "https://github.com/Djtony707/TITAN"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-16T01:14:18Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -117,13 +144,13 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T01:03:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "pydantic/pydantic-ai",
+    "stars": 19319,
+    "updated_at": "2026-08-16T01:02:48Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -187,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-16T00:52:33Z",
     "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 76,
-    "updated_at": "2026-08-16T00:53:04Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-16T00:58:55Z",
+    "updated_at": "2026-08-16T01:25:33Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -405,15 +423,6 @@
     "url": "https://github.com/go-steer/mast"
   },
   {
-    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19318,
-    "updated_at": "2026-08-16T01:02:48Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
     "id": "dryvist/ai-assistant-instructions",
     "language": "Shell",
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-15T23:08:51Z",
+    "updated_at": "2026-08-16T01:26:47Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 51,
     "updated_at": "2026-08-15T22:43:27Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "\u4e0a\u4f20 PDF \u2192 \u5168\u81ea\u52a8 8 \u9636\u6bb5\u6df1\u5ea6\u8bba\u6587\u5206\u6790\u3002\u81ea\u7814\u6846\u67b6\uff0c\u96c6\u6210 LLM \u7ffb\u8bd1/\u516c\u5f0f\u89e3\u8bfb/\u53ef\u89c6\u5316/\u5ba1\u7a3f/\u5ba1\u8ba1\u3001\u6df7\u5408 RAG\u300129+ Provider\u300114 \u804a\u5929\u901a\u9053\u3002Python + FastAPI + Vue 3",
-    "id": "silver4444-xs/silver_research_bot",
-    "language": "Python",
-    "name": "silver4444-xs/silver_research_bot",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:36:53Z",
-    "url": "https://github.com/silver4444-xs/silver_research_bot"
   }
 ]
