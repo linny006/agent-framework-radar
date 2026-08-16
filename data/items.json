@@ -1,12 +1,30 @@
 [
   {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4470,
+    "updated_at": "2026-08-16T19:56:44Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
     "description": "A composable framework for building reliable LLM agents on a harness you fully control. The same code runs the agentic l",
     "id": "tylerjrbuell/reactive-agents-ts",
     "language": "TypeScript",
     "name": "tylerjrbuell/reactive-agents-ts",
     "stars": 24,
-    "updated_at": "2026-08-16T19:51:07Z",
+    "updated_at": "2026-08-16T19:54:05Z",
     "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T19:54:04Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
@@ -52,15 +70,6 @@
     "stars": 1764,
     "updated_at": "2026-08-16T19:46:56Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T19:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent with zero dependencies, bring your own bun",
@@ -151,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T19:23:26Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4471,
-    "updated_at": "2026-08-16T19:53:44Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
     "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
