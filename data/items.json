@@ -1,5 +1,32 @@
 [
   {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-16T15:14:45Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T15:13:53Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684 AI \u56e2\u961f\u3002",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-08-16T15:13:07Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -63,15 +90,6 @@
     "url": "https://github.com/xiejianjun000/eco-agent"
   },
   {
-    "description": "A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684 AI \u56e2\u961f\u3002",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-08-16T15:13:07Z",
-    "url": "https://github.com/momang85/weavemind"
-  },
-  {
     "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
     "id": "pavanbadempet/AI-Healthcare-System",
     "language": "Python",
@@ -133,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T15:02:11Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T15:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
@@ -396,21 +405,12 @@
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-16T14:16:20Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-16T14:16:12Z",
+    "updated_at": "2026-08-16T15:14:48Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
