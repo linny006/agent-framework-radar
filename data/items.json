@@ -1,5 +1,59 @@
 [
   {
+    "description": "Record, replay, and improve AI agents in production, built on ZenML",
+    "id": "zenml-io/kitaru",
+    "language": "Python",
+    "name": "zenml-io/kitaru",
+    "stars": 236,
+    "updated_at": "2026-08-16T17:53:46Z",
+    "url": "https://github.com/zenml-io/kitaru"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4469,
+    "updated_at": "2026-08-16T17:53:04Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 42,
+    "updated_at": "2026-08-16T17:49:38Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
+    "id": "rundesk-ai/rundesk-cli",
+    "language": "Python",
+    "name": "rundesk-ai/rundesk-cli",
+    "stars": 3,
+    "updated_at": "2026-08-16T17:49:14Z",
+    "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 6,
+    "updated_at": "2026-08-16T17:49:09Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T17:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -36,6 +90,15 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34643,
+    "updated_at": "2026-08-16T17:38:37Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -52,24 +115,6 @@
     "stars": 38,
     "updated_at": "2026-08-16T17:35:25Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T17:33:45Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
-    "id": "rundesk-ai/rundesk-cli",
-    "language": "Python",
-    "name": "rundesk-ai/rundesk-cli",
-    "stars": 3,
-    "updated_at": "2026-08-16T17:42:43Z",
-    "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
     "description": "Open-source infrastructure for trusted AI agents \u2014 identity, permissions, execution, evidence, verification and agent-to",
@@ -153,15 +198,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 6,
-    "updated_at": "2026-08-16T17:25:17Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -169,15 +205,6 @@
     "stars": 120,
     "updated_at": "2026-08-16T17:15:29Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4468,
-    "updated_at": "2026-08-16T17:42:58Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
     "description": "",
@@ -232,15 +259,6 @@
     "stars": 19,
     "updated_at": "2026-08-16T17:07:18Z",
     "url": "https://github.com/ahwurm/localharness"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34642,
-    "updated_at": "2026-08-16T17:38:37Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -333,15 +351,6 @@
     "url": "https://github.com/Smita6756/Hbrain"
   },
   {
-    "description": "Record, replay, and improve AI agents in production, built on ZenML",
-    "id": "zenml-io/kitaru",
-    "language": "Python",
-    "name": "zenml-io/kitaru",
-    "stars": 236,
-    "updated_at": "2026-08-16T17:22:24Z",
-    "url": "https://github.com/zenml-io/kitaru"
-  },
-  {
     "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
     "id": "carlososoriopulgar/agent-kernel",
     "language": "\u2014",
@@ -421,15 +430,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T16:32:55Z",
     "url": "https://github.com/vocsong/deepseek-harness-portal"
-  },
-  {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 42,
-    "updated_at": "2026-08-16T16:32:51Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
