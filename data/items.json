@@ -1,11 +1,38 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34631,
+    "updated_at": "2026-08-16T13:44:04Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\u9762\u5411 OA\u3001ERP\u3001CRM\u3001\u5de5\u5355\u7b49\u4f01\u4e1a\u7cfb\u7edf\u5feb\u901f\u6784\u5efa\u667a\u80fd\u4f53\uff0c\u8ba9 AI \u5728\u6743\u9650\u3001\u5ba1\u8ba1\u4e0e\u6cbb\u7406\u7ea6\u675f\u4e0b\u5b89\u5168\u8c03\u7528\u771f\u5b9e\u4e1a\u52a1\u80fd\u529b\u3002Build agents quickly for enterprise systems such as OA, ERP, CR",
+    "id": "w8123/EnterpriseAgentFramework",
+    "language": "Java",
+    "name": "w8123/EnterpriseAgentFramework",
+    "stars": 576,
+    "updated_at": "2026-08-16T13:43:35Z",
+    "url": "https://github.com/w8123/EnterpriseAgentFramework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T13:42:59Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
     "id": "xiejianjun000/eco-agent",
     "language": "Python",
     "name": "xiejianjun000/eco-agent",
     "stars": 2,
-    "updated_at": "2026-08-16T13:42:05Z",
+    "updated_at": "2026-08-16T13:44:44Z",
     "url": "https://github.com/xiejianjun000/eco-agent"
   },
   {
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "yanacuti1121/Yana-AI",
     "stars": 2,
-    "updated_at": "2026-08-16T13:42:40Z",
+    "updated_at": "2026-08-16T13:45:22Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
@@ -59,7 +86,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4468,
-    "updated_at": "2026-08-16T13:42:52Z",
+    "updated_at": "2026-08-16T13:43:30Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 23,
     "updated_at": "2026-08-16T13:32:01Z",
     "url": "https://github.com/Gald3r-Labs/gald3r"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T13:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -243,15 +261,6 @@
     "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34632,
-    "updated_at": "2026-08-16T13:17:00Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "DeepSeek Harness (dsh) \u4ece 0 \u5230 1 \u6df1\u5ea6\u624b\u518c\uff1a\u5b89\u88c5/\u63d2\u4ef6\u5f00\u53d1/\u6027\u80fd\u8c03\u4f18/\u5b9e\u6d4b\u6848\u4f8b/\u540c\u6a21\u578b\u591a Agent \u5b9e\u6d4b\u5bf9\u6bd4\uff08\u4e2d\u6587 + \u82f1\u6587 PDF\uff09",
     "id": "Electricitysheep/dsh-handbook",
     "language": "HTML",
@@ -365,7 +374,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 121,
-    "updated_at": "2026-08-16T12:45:07Z",
+    "updated_at": "2026-08-16T13:45:05Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T12:18:46Z",
     "url": "https://github.com/tropo-ai/tropo"
-  },
-  {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 2,
-    "updated_at": "2026-08-16T12:15:05Z",
-    "url": "https://github.com/Arasz/ai-badger"
   }
 ]
