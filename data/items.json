@@ -1,12 +1,75 @@
 [
   {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1764,
+    "updated_at": "2026-08-16T17:41:34Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-16T17:39:42Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-16T17:39:36Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-16T17:39:06Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47066,
+    "updated_at": "2026-08-16T17:36:52Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 38,
+    "updated_at": "2026-08-16T17:35:25Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-16T17:30:25Z",
+    "updated_at": "2026-08-16T17:33:45Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
+    "id": "rundesk-ai/rundesk-cli",
+    "language": "Python",
+    "name": "rundesk-ai/rundesk-cli",
+    "stars": 3,
+    "updated_at": "2026-08-16T17:42:43Z",
+    "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
     "description": "Open-source infrastructure for trusted AI agents \u2014 identity, permissions, execution, evidence, verification and agent-to",
@@ -54,15 +117,6 @@
     "url": "https://github.com/MariusYvard/corparius"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-16T17:21:27Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Local agent OS for everyone \u2014 memory as the body, agents as shells. Model-agnostic agent dispatcher in Rust. \u672c\u5730\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8bb0",
     "id": "Jokerautowrite/chuang-agent",
     "language": "Rust",
@@ -81,15 +135,6 @@
     "url": "https://github.com/ellmos-ai/gardener"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1764,
-    "updated_at": "2026-08-16T17:18:11Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -106,15 +151,6 @@
     "stars": 119,
     "updated_at": "2026-08-16T17:16:48Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-16T17:16:42Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
@@ -140,7 +176,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4468,
-    "updated_at": "2026-08-16T17:32:49Z",
+    "updated_at": "2026-08-16T17:42:58Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 34642,
-    "updated_at": "2026-08-16T17:03:28Z",
+    "updated_at": "2026-08-16T17:38:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 250,
     "updated_at": "2026-08-16T17:03:05Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
-    "id": "rundesk-ai/rundesk-cli",
-    "language": "Python",
-    "name": "rundesk-ai/rundesk-cli",
-    "stars": 3,
-    "updated_at": "2026-08-16T17:31:53Z",
-    "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T16:45:05Z",
     "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 38,
-    "updated_at": "2026-08-16T16:44:34Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Search and extract web data locally for AI agents. Run a private intelligence server on your Windows machine with no API",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T16:31:41Z",
     "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-08-16T16:31:30Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-08-16T16:31:00Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
   }
 ]
