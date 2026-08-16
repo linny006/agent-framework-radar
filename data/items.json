@@ -5,17 +5,35 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-16T01:27:42Z",
+    "updated_at": "2026-08-16T01:45:01Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Building TITAN \u2014 the open-source AI operating system for trusted autonomous work: agents, tools, memory, approvals, rece",
-    "id": "Djtony707/TITAN",
-    "language": "TypeScript",
-    "name": "Djtony707/TITAN",
-    "stars": 18,
-    "updated_at": "2026-08-16T01:24:39Z",
-    "url": "https://github.com/Djtony707/TITAN"
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-16T01:36:46Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-16T01:34:58Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
+    "id": "saajunaid/caddis-plugin",
+    "language": "Python",
+    "name": "saajunaid/caddis-plugin",
+    "stars": 0,
+    "updated_at": "2026-08-16T01:33:50Z",
+    "url": "https://github.com/saajunaid/caddis-plugin"
   },
   {
     "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
@@ -23,8 +41,26 @@
     "language": "Python",
     "name": "Thepizzapie/BuildersGate",
     "stars": 21,
-    "updated_at": "2026-08-16T01:23:29Z",
+    "updated_at": "2026-08-16T01:30:27Z",
     "url": "https://github.com/Thepizzapie/BuildersGate"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T01:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Building TITAN \u2014 the open-source AI operating system for trusted autonomous work: agents, tools, memory, approvals, rece",
+    "id": "Djtony707/TITAN",
+    "language": "TypeScript",
+    "name": "Djtony707/TITAN",
+    "stars": 18,
+    "updated_at": "2026-08-16T01:31:09Z",
+    "url": "https://github.com/Djtony707/TITAN"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -41,7 +77,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 34621,
-    "updated_at": "2026-08-16T01:20:58Z",
+    "updated_at": "2026-08-16T01:42:40Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -50,7 +86,7 @@
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 106,
-    "updated_at": "2026-08-16T01:20:12Z",
+    "updated_at": "2026-08-16T01:31:28Z",
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 2,
-    "updated_at": "2026-08-16T01:19:18Z",
+    "updated_at": "2026-08-16T01:31:20Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
@@ -70,24 +106,6 @@
     "stars": 3,
     "updated_at": "2026-08-16T01:17:00Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T01:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-16T01:14:29Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-16T01:25:33Z",
+    "updated_at": "2026-08-16T01:41:19Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -396,15 +414,6 @@
     "url": "https://github.com/solvent-labs-org/orcha"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-15T23:23:40Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
     "id": "shimo4228/contemplative-agent",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-16T01:26:47Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 51,
-    "updated_at": "2026-08-15T22:43:27Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   }
 ]
