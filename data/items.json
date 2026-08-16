@@ -1,5 +1,59 @@
 [
   {
+    "description": "Source-available Harness AI / Agent OS for teams building governed agent applications - with Nexus orchestration, policy",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 3,
+    "updated_at": "2026-08-16T07:05:46Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 387,
+    "updated_at": "2026-08-16T07:04:30Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 3,
+    "updated_at": "2026-08-16T07:03:23Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 11,
+    "updated_at": "2026-08-16T07:04:22Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 32,
+    "updated_at": "2026-08-16T07:01:33Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T07:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A curated list of AI agent frameworks, tools, platforms, research papers, and resources",
     "id": "aloth/awesome-ai-agents",
     "language": "\u2014",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6779,
-    "updated_at": "2026-08-16T06:56:55Z",
+    "updated_at": "2026-08-16T07:00:56Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -72,15 +126,6 @@
     "url": "https://github.com/PiyotaHu/muxiva"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T06:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -115,6 +160,15 @@
     "stars": 121,
     "updated_at": "2026-08-16T06:40:44Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34625,
+    "updated_at": "2026-08-16T07:05:18Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
@@ -180,15 +234,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 11,
-    "updated_at": "2026-08-16T06:35:20Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "Agents daemon that hides nothing",
     "id": "crabtalk/crabtalk",
     "language": "Rust",
@@ -232,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T06:16:40Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 32,
-    "updated_at": "2026-08-16T06:06:42Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "",
@@ -320,7 +356,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4466,
-    "updated_at": "2026-08-16T06:57:06Z",
+    "updated_at": "2026-08-16T07:07:31Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34626,
-    "updated_at": "2026-08-16T06:38:06Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
     "id": "xuiltul/animaworks",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 253,
     "updated_at": "2026-08-16T05:16:57Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15013,
-    "updated_at": "2026-08-16T05:08:18Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
-    "id": "motojinc25/chatwalaau",
-    "language": "Python",
-    "name": "motojinc25/chatwalaau",
-    "stars": 2,
-    "updated_at": "2026-08-16T05:09:36Z",
-    "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 5,
-    "updated_at": "2026-08-16T04:49:53Z",
-    "url": "https://github.com/opencue/cuecards"
   }
 ]
