@@ -1,5 +1,23 @@
 [
   {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 35,
+    "updated_at": "2026-08-16T09:58:06Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T09:57:54Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -7,15 +25,6 @@
     "stars": 4,
     "updated_at": "2026-08-16T09:57:32Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 35,
-    "updated_at": "2026-08-16T09:56:31Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684 AI \u56e2\u961f\u3002",
@@ -32,7 +41,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4467,
-    "updated_at": "2026-08-16T09:56:41Z",
+    "updated_at": "2026-08-16T09:59:13Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -52,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-08-16T09:54:19Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "Timeline memory for DeepSeek Harness (dsh): append-only fact log + agent-maintained summary pyramid, fixed reading budge",
+    "id": "33moren33/dsh-memory-pyramid",
+    "language": "JavaScript",
+    "name": "33moren33/dsh-memory-pyramid",
+    "stars": 0,
+    "updated_at": "2026-08-16T09:54:07Z",
+    "url": "https://github.com/33moren33/dsh-memory-pyramid"
   },
   {
     "description": "Industrial-grade C++20 Agent Tooling Framework GUI \u2014 provider-agnostic LLM agent with true SSE streaming, tool registry,",
@@ -133,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T09:45:25Z",
     "url": "https://github.com/fzs356113-oss/dsh-self-evolving-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T09:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build an agentic harness swarm as a directory tree. Then watch it recursively refactor itself behind your back.",
@@ -439,14 +448,5 @@
     "stars": 140,
     "updated_at": "2026-08-16T08:40:21Z",
     "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47057,
-    "updated_at": "2026-08-16T08:38:45Z",
-    "url": "https://github.com/HKUDS/nanobot"
   }
 ]
