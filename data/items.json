@@ -1,5 +1,32 @@
 [
   {
+    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
+    "id": "MariusYvard/corparius",
+    "language": "Python",
+    "name": "MariusYvard/corparius",
+    "stars": 0,
+    "updated_at": "2026-08-16T18:15:57Z",
+    "url": "https://github.com/MariusYvard/corparius"
+  },
+  {
+    "description": "Lightweight one\u2011click launcher for DeepSeek Harness DeepSeek\u2011Harness(DSH)\u8f7b\u91cf\u4e00\u952e\u542f\u52a8\u5668",
+    "id": "rpvvn/EasyDSH",
+    "language": "C#",
+    "name": "rpvvn/EasyDSH",
+    "stars": 5,
+    "updated_at": "2026-08-16T18:15:51Z",
+    "url": "https://github.com/rpvvn/EasyDSH"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T18:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
     "id": "seed-forge/harness-ai-kit",
     "language": "Python",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 2,
-    "updated_at": "2026-08-16T18:10:31Z",
+    "updated_at": "2026-08-16T18:16:20Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 23,
     "updated_at": "2026-08-16T18:00:34Z",
     "url": "https://github.com/Gald3r-Labs/gald3r"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T18:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -158,7 +176,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4469,
-    "updated_at": "2026-08-16T18:14:04Z",
+    "updated_at": "2026-08-16T18:17:14Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -250,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T17:22:21Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Self-hosted framework for autonomous AI micro-companies. Describe a business in plain language and corparius runs it as ",
-    "id": "MariusYvard/corparius",
-    "language": "Python",
-    "name": "MariusYvard/corparius",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:21:27Z",
-    "url": "https://github.com/MariusYvard/corparius"
   },
   {
     "description": "Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-16T16:35:36Z",
     "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-08-16T16:35:12Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
