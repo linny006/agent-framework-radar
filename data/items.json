@@ -1,21 +1,48 @@
 [
   {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-17T02:30:11Z",
-    "url": "https://github.com/GEMISIS/leviath"
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-17T02:43:40Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 95,
-    "updated_at": "2026-08-17T02:30:22Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19339,
+    "updated_at": "2026-08-17T02:41:37Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "A lightweight desktop client for DeepSeek Harness.",
+    "id": "linuxlemon256/dsh-desktop",
+    "language": "JavaScript",
+    "name": "linuxlemon256/dsh-desktop",
+    "stars": 2,
+    "updated_at": "2026-08-17T02:39:56Z",
+    "url": "https://github.com/linuxlemon256/dsh-desktop"
+  },
+  {
+    "description": "Dart framework for stateful AI agents: tool use, skills, sub-agent delegation, planning, streaming, evals, and multi-pro",
+    "id": "memex-lab/dart_agent_core",
+    "language": "Dart",
+    "name": "memex-lab/dart_agent_core",
+    "stars": 39,
+    "updated_at": "2026-08-17T02:35:31Z",
+    "url": "https://github.com/memex-lab/dart_agent_core"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-17T02:35:25Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -23,8 +50,62 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 3,
-    "updated_at": "2026-08-17T02:28:38Z",
+    "updated_at": "2026-08-17T02:34:37Z",
     "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "\u53ef\u5d4c\u5165 Python \u4ea7\u54c1\u7684 Agent Runtime\uff0c\u63d0\u4f9b\u5de5\u5177\u6267\u884c\u3001Skills\u3001\u8fd0\u884c\u4e8b\u4ef6\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u6301\u4e45\u5316 Checkpointer\u3002",
+    "id": "Notryag/north-agent",
+    "language": "Python",
+    "name": "Notryag/north-agent",
+    "stars": 1,
+    "updated_at": "2026-08-17T02:33:38Z",
+    "url": "https://github.com/Notryag/north-agent"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-08-17T02:32:40Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4469,
+    "updated_at": "2026-08-17T02:43:44Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 96,
+    "updated_at": "2026-08-17T02:30:56Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T02:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-17T02:30:11Z",
+    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
@@ -54,15 +135,6 @@
     "url": "https://github.com/acnlabs/ACN"
   },
   {
-    "description": "A lightweight desktop client for DeepSeek Harness.",
-    "id": "linuxlemon256/dsh-desktop",
-    "language": "JavaScript",
-    "name": "linuxlemon256/dsh-desktop",
-    "stars": 2,
-    "updated_at": "2026-08-17T02:21:43Z",
-    "url": "https://github.com/linuxlemon256/dsh-desktop"
-  },
-  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T02:16:51Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T02:15:48Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "tuliplabs-ai/tulip-agents",
     "stars": 1,
-    "updated_at": "2026-08-17T02:27:57Z",
+    "updated_at": "2026-08-17T02:41:31Z",
     "url": "https://github.com/tuliplabs-ai/tulip-agents"
   },
   {
@@ -151,15 +214,6 @@
     "stars": 51,
     "updated_at": "2026-08-17T02:19:14Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-17T02:03:35Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -185,7 +239,7 @@
     "language": "Go",
     "name": "Viking602/venat",
     "stars": 1,
-    "updated_at": "2026-08-17T02:26:14Z",
+    "updated_at": "2026-08-17T02:43:03Z",
     "url": "https://github.com/Viking602/venat"
   },
   {
@@ -220,7 +274,7 @@
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
     "name": "whyihaveyou/dsh-suite",
-    "stars": 37,
+    "stars": 38,
     "updated_at": "2026-08-17T01:57:20Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
@@ -266,7 +320,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 122,
-    "updated_at": "2026-08-17T01:38:30Z",
+    "updated_at": "2026-08-17T02:37:28Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -274,7 +328,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8933,
+    "stars": 8934,
     "updated_at": "2026-08-17T01:36:15Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -351,15 +405,6 @@
     "url": "https://github.com/Moonweave-AI/axiolune"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-17T01:17:34Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
     "id": "akimoto-akira/SiliconLifeCollective",
     "language": "C#",
@@ -383,7 +428,7 @@
     "language": "Python",
     "name": "DemonDamon/AgenticX",
     "stars": 214,
-    "updated_at": "2026-08-17T02:28:06Z",
+    "updated_at": "2026-08-17T02:32:07Z",
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 119,
     "updated_at": "2026-08-17T01:07:34Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Drop Tulip's control runtime (admit() gate + tamper-evident audit) into LangChain, LangGraph, CrewAI, the OpenAI Agents ",
-    "id": "tuliplabs-ai/tulip-frameworks",
-    "language": "Python",
-    "name": "tuliplabs-ai/tulip-frameworks",
-    "stars": 0,
-    "updated_at": "2026-08-17T01:02:20Z",
-    "url": "https://github.com/tuliplabs-ai/tulip-frameworks"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-17T01:00:59Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Proof of Done: The Agentic Software Development Manifesto",
-    "id": "ssheleg/pod-manifesto",
-    "language": "\u2014",
-    "name": "ssheleg/pod-manifesto",
-    "stars": 1,
-    "updated_at": "2026-08-17T00:53:22Z",
-    "url": "https://github.com/ssheleg/pod-manifesto"
-  },
-  {
-    "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
-    "id": "agentjido/jidoka",
-    "language": "Elixir",
-    "name": "agentjido/jidoka",
-    "stars": 39,
-    "updated_at": "2026-08-17T00:46:41Z",
-    "url": "https://github.com/agentjido/jidoka"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-17T00:45:09Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
