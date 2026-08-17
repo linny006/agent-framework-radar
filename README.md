@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SmooAI/smooth-operator](https://github.com/SmooAI/smooth-operator) | 0 | Rust | 2026-08-17 | Polyglot AI agent service — knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers |
-| 2 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-17 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 3 | [kdcube/kdcube](https://github.com/kdcube/kdcube) | 23 | Python | 2026-08-17 | Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w |
-| 4 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 1 | HTML | 2026-08-17 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
-| 5 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-17 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 6 | [Jovancoding/Network-AI](https://github.com/Jovancoding/Network-AI) | 69 | TypeScript | 2026-08-17 | Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for |
-| 7 | [pereirawe/opencode-flow](https://github.com/pereirawe/opencode-flow) | 2 | Shell | 2026-08-17 | Generic, language-agnostic AI-assisted development workflow for OpenCode — pipeline, agents, standards, and scripts |
-| 8 | [vgp7758/Agt](https://github.com/vgp7758/Agt) | 1 | Python | 2026-08-17 | An AI agent framework that builds itself — multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w |
-| 9 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-17 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 10 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-17 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-17 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [SmooAI/smooth-operator](https://github.com/SmooAI/smooth-operator) | 0 | Rust | 2026-08-17 | Polyglot AI agent service — knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers |
+| 3 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-17 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 4 | [kdcube/kdcube](https://github.com/kdcube/kdcube) | 23 | Python | 2026-08-17 | Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w |
+| 5 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 1 | HTML | 2026-08-17 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
+| 6 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-17 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 7 | [Jovancoding/Network-AI](https://github.com/Jovancoding/Network-AI) | 69 | TypeScript | 2026-08-17 | Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for |
+| 8 | [pereirawe/opencode-flow](https://github.com/pereirawe/opencode-flow) | 2 | Shell | 2026-08-17 | Generic, language-agnostic AI-assisted development workflow for OpenCode — pipeline, agents, standards, and scripts |
+| 9 | [vgp7758/Agt](https://github.com/vgp7758/Agt) | 1 | Python | 2026-08-17 | An AI agent framework that builds itself — multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w |
+| 10 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-17 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 11 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-08-17 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
 | 12 | [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) | 4472 | C++ | 2026-08-17 | Your agents don’t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec |
 | 13 | [ourostack/ouroboros](https://github.com/ourostack/ouroboros) | 2 | TypeScript | 2026-08-17 | TypeScript harness for building personal AI agents with durable memory — agents that live across your channels (CLI, Tea |
