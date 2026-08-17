@@ -1,12 +1,120 @@
 [
   {
+    "description": "Durable, typed multi-agent framework for Go.",
+    "id": "Viking602/venat",
+    "language": "Go",
+    "name": "Viking602/venat",
+    "stars": 1,
+    "updated_at": "2026-08-17T02:00:00Z",
+    "url": "https://github.com/Viking602/venat"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 51,
+    "updated_at": "2026-08-17T01:59:56Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "OpenHermit is the open-source platform for deploying fleets of AI agents as production services \u2014 durable state, sandbox",
+    "id": "HCF-STUDIOS/openhermit",
+    "language": "TypeScript",
+    "name": "HCF-STUDIOS/openhermit",
+    "stars": 50,
+    "updated_at": "2026-08-17T01:59:28Z",
+    "url": "https://github.com/HCF-STUDIOS/openhermit"
+  },
+  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-08-17T01:45:11Z",
+    "updated_at": "2026-08-17T01:59:12Z",
     "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
+    "id": "we-are-singular/aml",
+    "language": "TypeScript",
+    "name": "we-are-singular/aml",
+    "stars": 13,
+    "updated_at": "2026-08-17T01:58:08Z",
+    "url": "https://github.com/we-are-singular/aml"
+  },
+  {
+    "description": "Agent context compressor and memory persistent orchestration",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 2,
+    "updated_at": "2026-08-17T01:59:04Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 37,
+    "updated_at": "2026-08-17T01:57:20Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 3,
+    "updated_at": "2026-08-17T01:55:52Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "Agents should not relearn workflows. Myelin turns repeated agent behavior into reusable procedures via MCP.",
+    "id": "Niraven/myelin",
+    "language": "Python",
+    "name": "Niraven/myelin",
+    "stars": 1,
+    "updated_at": "2026-08-17T01:59:44Z",
+    "url": "https://github.com/Niraven/myelin"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34646,
+    "updated_at": "2026-08-17T02:00:09Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-17T01:48:36Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 3,
+    "updated_at": "2026-08-17T01:45:48Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T01:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -36,22 +144,22 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34647,
-    "updated_at": "2026-08-17T01:41:33Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8931,
+    "stars": 8932,
     "updated_at": "2026-08-17T01:36:15Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Turn the way you work with AI into a reusable asset \u00b7 \u628a\u4f60\u7684 AI \u5de5\u4f5c\u65b9\u5f0f\uff0c\u6c89\u6dc0\u6210\u53ef\u4ee5\u590d\u7528\u7684\u8d44\u4ea7\u3002",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 73,
+    "updated_at": "2026-08-17T01:35:57Z",
+    "url": "https://github.com/pqpo/pragma"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -81,15 +189,6 @@
     "url": "https://github.com/Leartin-Lab/aigineering"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T01:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -97,15 +196,6 @@
     "stars": 38,
     "updated_at": "2026-08-17T01:28:57Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 51,
-    "updated_at": "2026-08-17T01:33:20Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "Universal Agent Harness",
@@ -221,7 +311,7 @@
     "language": "Python",
     "name": "tuliplabs-ai/tulip-agents",
     "stars": 1,
-    "updated_at": "2026-08-17T01:33:17Z",
+    "updated_at": "2026-08-17T01:54:06Z",
     "url": "https://github.com/tuliplabs-ai/tulip-agents"
   },
   {
@@ -232,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T01:02:20Z",
     "url": "https://github.com/tuliplabs-ai/tulip-frameworks"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 37,
-    "updated_at": "2026-08-17T01:02:14Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -302,7 +383,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 132,
-    "updated_at": "2026-08-17T00:39:23Z",
+    "updated_at": "2026-08-17T01:54:07Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -342,21 +423,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 3,
-    "updated_at": "2026-08-17T00:31:12Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
     "id": "kungfu-systems/kungfu",
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4470,
-    "updated_at": "2026-08-17T01:44:44Z",
+    "updated_at": "2026-08-17T01:59:34Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-17T00:24:04Z",
     "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1401,
-    "updated_at": "2026-08-17T00:22:16Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Cognitive architecture and meaning processing layer adjacent to the Riverbraid core.",
-    "id": "Riverbraid/Riverbraid-Cognition",
-    "language": "JavaScript",
-    "name": "Riverbraid/Riverbraid-Cognition",
-    "stars": 1,
-    "updated_at": "2026-08-17T00:18:08Z",
-    "url": "https://github.com/Riverbraid/Riverbraid-Cognition"
-  },
-  {
-    "description": "DeepSeek Harness (dsh) \u4ece 0 \u5230 1 \u6df1\u5ea6\u624b\u518c\uff1a\u5b89\u88c5/\u63d2\u4ef6\u5f00\u53d1/\u6027\u80fd\u8c03\u4f18/\u5b9e\u6d4b\u6848\u4f8b/\u540c\u6a21\u578b\u591a Agent \u5b9e\u6d4b\u5bf9\u6bd4\uff08\u4e2d\u6587 + \u82f1\u6587 PDF\uff09",
-    "id": "Electricitysheep/dsh-handbook",
-    "language": "HTML",
-    "name": "Electricitysheep/dsh-handbook",
-    "stars": 373,
-    "updated_at": "2026-08-17T00:08:07Z",
-    "url": "https://github.com/Electricitysheep/dsh-handbook"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-16T23:59:44Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 3,
-    "updated_at": "2026-08-16T23:54:20Z",
-    "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "\ud83e\udd16 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 \u2014 the year agents went mainstream",
-    "id": "Zijian-Ni/awesome-ai-agents-2026",
-    "language": "Python",
-    "name": "Zijian-Ni/awesome-ai-agents-2026",
-    "stars": 233,
-    "updated_at": "2026-08-16T23:52:40Z",
-    "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026"
-  },
-  {
-    "description": "\u53d1\u73b0\u3001\u5b89\u88c5 DeepSeek Harness \u751f\u6001\u4e2d\u7684\u793e\u533a\u63d2\u4ef6\u3001\u5de5\u5177\u4e0e\u6269\u5c55\uff0c\u63a2\u7d22 1493+ \u7cbe\u9009\u4e3b\u9898\u63d2\u4ef6\u5e76\u5b9e\u65f6\u66f4\u65b0\u76ee\u5f55\u3002",
-    "id": "Pericardiac-podzolsoil527/deepseek-plugin-store",
-    "language": "\u2014",
-    "name": "Pericardiac-podzolsoil527/deepseek-plugin-store",
-    "stars": 0,
-    "updated_at": "2026-08-16T23:37:20Z",
-    "url": "https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-16T23:35:33Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
   }
 ]
