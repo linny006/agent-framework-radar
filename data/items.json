@@ -1,5 +1,122 @@
 [
   {
+    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
+    "id": "JunMystery/Agent-Guidance-Rust",
+    "language": "Rust",
+    "name": "JunMystery/Agent-Guidance-Rust",
+    "stars": 0,
+    "updated_at": "2026-08-17T08:14:48Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 7,
+    "updated_at": "2026-08-17T08:13:38Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-08-17T08:13:36Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26229,
+    "updated_at": "2026-08-17T08:14:38Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1774,
+    "updated_at": "2026-08-17T08:09:11Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-17T08:07:57Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1149,
+    "updated_at": "2026-08-17T08:07:10Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "Live sanitized mirror of the harness Shadow actually runs on \u2014 contracts, failure-mode taxonomy, skills. Start at impart",
+    "id": "impartshadow/shadow",
+    "language": "Python",
+    "name": "impartshadow/shadow",
+    "stars": 0,
+    "updated_at": "2026-08-17T08:05:47Z",
+    "url": "https://github.com/impartshadow/shadow"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 38,
+    "updated_at": "2026-08-17T08:05:20Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 107,
+    "updated_at": "2026-08-17T08:05:18Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Notes on agent frameworks, runtimes, harnesses, and coding agents.",
+    "id": "Eddiee-Wei/agent-engineering-notes",
+    "language": "SCSS",
+    "name": "Eddiee-Wei/agent-engineering-notes",
+    "stars": 0,
+    "updated_at": "2026-08-17T08:03:02Z",
+    "url": "https://github.com/Eddiee-Wei/agent-engineering-notes"
+  },
+  {
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "id": "rllm-org/rllm",
+    "language": "Python",
+    "name": "rllm-org/rllm",
+    "stars": 5784,
+    "updated_at": "2026-08-17T08:00:42Z",
+    "url": "https://github.com/rllm-org/rllm"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T08:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
     "id": "OpenSparX/MasterAgent",
     "language": "C++",
@@ -25,15 +142,6 @@
     "stars": 52,
     "updated_at": "2026-08-17T07:58:59Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26228,
-    "updated_at": "2026-08-17T07:54:38Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -117,13 +225,13 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T07:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15022,
+    "updated_at": "2026-08-17T07:45:13Z",
+    "url": "https://github.com/eigent-ai/eigent"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -167,7 +275,7 @@
     "language": "Python",
     "name": "zenml-io/kitaru",
     "stars": 235,
-    "updated_at": "2026-08-17T07:56:03Z",
+    "updated_at": "2026-08-17T08:11:08Z",
     "url": "https://github.com/zenml-io/kitaru"
   },
   {
@@ -175,7 +283,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8951,
+    "stars": 8952,
     "updated_at": "2026-08-17T07:37:10Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -203,7 +311,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 34643,
-    "updated_at": "2026-08-17T07:33:58Z",
+    "updated_at": "2026-08-17T08:01:14Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -243,15 +351,6 @@
     "url": "https://github.com/zmzai-cloud/zmzai-agent"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-17T07:28:19Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "dsh-megamesh: super multi-agent architecture - files are messages, adoption replaces all-hands-on-deck failure, term lea",
     "id": "Wang-Lin-Chang/dsh-megamesh",
     "language": "JavaScript",
@@ -275,7 +374,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 10,
-    "updated_at": "2026-08-17T07:24:03Z",
+    "updated_at": "2026-08-17T08:05:08Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -342,24 +441,6 @@
     "url": "https://github.com/klarlabs-studio/nomi"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 38,
-    "updated_at": "2026-08-17T07:18:00Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1774,
-    "updated_at": "2026-08-17T07:16:06Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "Durable, typed multi-agent framework for Go.",
     "id": "Viking602/venat",
     "language": "Go",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-17T07:34:16Z",
     "url": "https://github.com/Viking602/venat"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2253,
-    "updated_at": "2026-08-17T07:12:22Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Local-first AI Agent framework. DeepSeek-compatible (deepseek-v4-pro / deepseek-v4-flash), multi-model (OpenAI/Claude/GL",
-    "id": "Lam-Arc/LamTools",
-    "language": "Python",
-    "name": "Lam-Arc/LamTools",
-    "stars": 1,
-    "updated_at": "2026-08-17T07:13:39Z",
-    "url": "https://github.com/Lam-Arc/LamTools"
-  },
-  {
-    "description": "DeepSeek Harness \u591a\u667a\u80fd\u4f53\u7f16\u6392\u6a21\u5f0f \u2014 \u7075\u611f\u6765\u81ea oh-my-opencode-slim",
-    "id": "bernardleex526/oh_my_deepseek_harness",
-    "language": "JavaScript",
-    "name": "bernardleex526/oh_my_deepseek_harness",
-    "stars": 3,
-    "updated_at": "2026-08-17T07:11:19Z",
-    "url": "https://github.com/bernardleex526/oh_my_deepseek_harness"
-  },
-  {
-    "description": "\u4ea4\u4e92\u5f0f\u6559\u7a0b\uff1a20 \u8282\u8bfe\uff0c\u4ece\u300c\u6a21\u578b\u53ea\u4f1a\u8bf4\u8bdd\u300d\u8bb2\u5230\u5199\u51fa\u80fd\u88c5\u8fdb\u771f\u5b9e DeepSeek Harness \u7684\u63d2\u4ef6\u3002\u542b\u53ef\u8dd1 demo \u4e0e\u5728\u7ebf\u7248\u3002",
-    "id": "NanmiCoder/learn-deepseek-harness",
-    "language": "TypeScript",
-    "name": "NanmiCoder/learn-deepseek-harness",
-    "stars": 8,
-    "updated_at": "2026-08-17T07:07:59Z",
-    "url": "https://github.com/NanmiCoder/learn-deepseek-harness"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 3,
-    "updated_at": "2026-08-17T07:03:59Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-17T07:02:19Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
-    "id": "JunMystery/Agent-Guidance-Rust",
-    "language": "Rust",
-    "name": "JunMystery/Agent-Guidance-Rust",
-    "stars": 0,
-    "updated_at": "2026-08-17T07:00:17Z",
-    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 13,
-    "updated_at": "2026-08-17T06:54:49Z",
-    "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "\u53d1\u73b0\u3001\u5b89\u88c5 DeepSeek Harness \u751f\u6001\u4e2d\u7684\u793e\u533a\u63d2\u4ef6\u3001\u5de5\u5177\u4e0e\u6269\u5c55\uff0c\u63a2\u7d22 1493+ \u7cbe\u9009\u4e3b\u9898\u63d2\u4ef6\u5e76\u5b9e\u65f6\u66f4\u65b0\u76ee\u5f55\u3002",
-    "id": "Pericardiac-podzolsoil527/deepseek-plugin-store",
-    "language": "\u2014",
-    "name": "Pericardiac-podzolsoil527/deepseek-plugin-store",
-    "stars": 0,
-    "updated_at": "2026-08-17T06:51:27Z",
-    "url": "https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store"
   }
 ]
