@@ -1,12 +1,66 @@
 [
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34662,
+    "updated_at": "2026-08-17T13:13:01Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
+    "id": "JunMystery/Agent-Guidance-Rust",
+    "language": "Rust",
+    "name": "JunMystery/Agent-Guidance-Rust",
+    "stars": 0,
+    "updated_at": "2026-08-17T13:08:50Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1158,
+    "updated_at": "2026-08-17T13:07:57Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-17T12:58:05Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 38,
+    "updated_at": "2026-08-17T13:07:32Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 43,
+    "updated_at": "2026-08-17T13:07:24Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
+    "id": "CogKnowEdge-Solutions/Orchestration",
+    "language": "Jupyter Notebook",
+    "name": "CogKnowEdge-Solutions/Orchestration",
+    "stars": 0,
+    "updated_at": "2026-08-17T13:04:59Z",
+    "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
+  },
+  {
+    "description": "Visual AI agent builder & chat platform: drag-and-drop LLM workflows, SSE streaming chat, 80+ built-in tools, skill syst",
+    "id": "DJR-gjsn/Agent-Editor-I-do-not-know",
+    "language": "Python",
+    "name": "DJR-gjsn/Agent-Editor-I-do-not-know",
+    "stars": 0,
+    "updated_at": "2026-08-17T13:04:29Z",
+    "url": "https://github.com/DJR-gjsn/Agent-Editor-I-do-not-know"
   },
   {
     "description": "The most Token-efficient open-source AI Agent",
@@ -14,8 +68,53 @@
     "language": "Ruby",
     "name": "clacky-ai/openclacky",
     "stars": 1149,
-    "updated_at": "2026-08-17T12:57:43Z",
+    "updated_at": "2026-08-17T13:03:48Z",
     "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-08-17T13:12:09Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
+    "id": "achappey/aihappey-chat",
+    "language": "TypeScript",
+    "name": "achappey/aihappey-chat",
+    "stars": 4,
+    "updated_at": "2026-08-17T13:00:32Z",
+    "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T13:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 51,
+    "updated_at": "2026-08-17T12:59:30Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-17T12:58:05Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
@@ -36,24 +135,6 @@
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34661,
-    "updated_at": "2026-08-17T12:55:09Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 51,
-    "updated_at": "2026-08-17T12:59:30Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -70,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T12:54:16Z",
     "url": "https://github.com/dqsjqian/AriaAgent"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-08-17T12:57:26Z",
-    "url": "https://github.com/go-steer/mast"
   },
   {
     "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
@@ -99,6 +171,15 @@
     "url": "https://github.com/maestrojeong/maestro-agent-sdk"
   },
   {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 144,
+    "updated_at": "2026-08-17T13:11:17Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -115,15 +196,6 @@
     "stars": 26232,
     "updated_at": "2026-08-17T12:50:49Z",
     "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T12:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "no_human - give it a ticket, get back a pull request - with the evidence that it works.",
@@ -180,15 +252,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
-    "id": "CogKnowEdge-Solutions/Orchestration",
-    "language": "Jupyter Notebook",
-    "name": "CogKnowEdge-Solutions/Orchestration",
-    "stars": 0,
-    "updated_at": "2026-08-17T12:57:44Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
-  },
-  {
     "description": "A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684 AI \u56e2\u961f\u3002",
     "id": "momang85/weavemind",
     "language": "Python",
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "Azure-Samples/foundry-hosted-agents-workshop",
     "stars": 5,
-    "updated_at": "2026-08-17T12:33:25Z",
+    "updated_at": "2026-08-17T13:15:19Z",
     "url": "https://github.com/Azure-Samples/foundry-hosted-agents-workshop"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 117,
     "updated_at": "2026-08-17T12:39:59Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "An always-on founder intelligence system.",
-    "id": "vinaykolupula/FounderOS",
-    "language": "Python",
-    "name": "vinaykolupula/FounderOS",
-    "stars": 1,
-    "updated_at": "2026-08-17T11:55:52Z",
-    "url": "https://github.com/vinaykolupula/FounderOS"
-  },
-  {
-    "description": "Lightweight one\u2011click launcher for DeepSeek Harness DeepSeek\u2011Harness(DSH)\u8f7b\u91cf\u4e00\u952e\u542f\u52a8\u5668",
-    "id": "rpvvn/EasyDSH",
-    "language": "C#",
-    "name": "rpvvn/EasyDSH",
-    "stars": 5,
-    "updated_at": "2026-08-17T11:57:46Z",
-    "url": "https://github.com/rpvvn/EasyDSH"
-  },
-  {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 23,
-    "updated_at": "2026-08-17T11:52:14Z",
-    "url": "https://github.com/kdcube/kdcube"
-  },
-  {
-    "description": "High-performance async AI companion/agent core with hybrid Python + C++ scheduler. Features long-term memory, emotional ",
-    "id": "hakituo/xiaoyou-core",
-    "language": "Python",
-    "name": "hakituo/xiaoyou-core",
-    "stars": 0,
-    "updated_at": "2026-08-17T11:51:10Z",
-    "url": "https://github.com/hakituo/xiaoyou-core"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12849,
-    "updated_at": "2026-08-17T11:43:27Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 38,
-    "updated_at": "2026-08-17T11:42:40Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "AgentMesh - multi-agent AI orchestration framework: planner, router, layered memory, MCP tools, CLI and web panel",
-    "id": "cokovali10-sketch/AgentMesh",
-    "language": "Python",
-    "name": "cokovali10-sketch/AgentMesh",
-    "stars": 0,
-    "updated_at": "2026-08-17T11:40:02Z",
-    "url": "https://github.com/cokovali10-sketch/AgentMesh"
   }
 ]
