@@ -1,12 +1,75 @@
 [
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
+    "description": "dsh-megamesh: super multi-agent architecture - files are messages, adoption replaces all-hands-on-deck failure, term lea",
+    "id": "Wang-Lin-Chang/dsh-megamesh",
+    "language": "JavaScript",
+    "name": "Wang-Lin-Chang/dsh-megamesh",
+    "stars": 0,
+    "updated_at": "2026-08-17T10:59:23Z",
+    "url": "https://github.com/Wang-Lin-Chang/dsh-megamesh"
+  },
+  {
+    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
+    "id": "substructureai/substructure",
     "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 250,
-    "updated_at": "2026-08-17T10:47:43Z",
-    "url": "https://github.com/cortexkit/aft"
+    "name": "substructureai/substructure",
+    "stars": 5,
+    "updated_at": "2026-08-17T10:55:27Z",
+    "url": "https://github.com/substructureai/substructure"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26231,
+    "updated_at": "2026-08-17T10:57:06Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-17T11:00:10Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 10,
+    "updated_at": "2026-08-17T10:53:17Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Local-first AI Agent framework. DeepSeek-compatible (deepseek-v4-pro / deepseek-v4-flash), multi-model (OpenAI/Claude/GL",
+    "id": "Lam-Arc/LamTools",
+    "language": "Python",
+    "name": "Lam-Arc/LamTools",
+    "stars": 1,
+    "updated_at": "2026-08-17T10:52:42Z",
+    "url": "https://github.com/Lam-Arc/LamTools"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-17T10:50:49Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 38,
+    "updated_at": "2026-08-17T10:50:02Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +77,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-17T10:45:26Z",
+    "updated_at": "2026-08-17T10:48:48Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 250,
+    "updated_at": "2026-08-17T10:47:43Z",
+    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -40,18 +112,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34650,
-    "updated_at": "2026-08-17T10:42:08Z",
+    "stars": 34649,
+    "updated_at": "2026-08-17T10:51:38Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "dsh-megamesh: super multi-agent architecture - files are messages, adoption replaces all-hands-on-deck failure, term lea",
-    "id": "Wang-Lin-Chang/dsh-megamesh",
-    "language": "JavaScript",
-    "name": "Wang-Lin-Chang/dsh-megamesh",
-    "stars": 0,
-    "updated_at": "2026-08-17T10:40:40Z",
-    "url": "https://github.com/Wang-Lin-Chang/dsh-megamesh"
   },
   {
     "description": "A lightweight desktop client for DeepSeek Harness.",
@@ -68,7 +131,7 @@
     "language": "HTML",
     "name": "Rakshit64w43/agent-gateway-hub",
     "stars": 4,
-    "updated_at": "2026-08-17T10:37:59Z",
+    "updated_at": "2026-08-17T10:59:41Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
@@ -115,15 +178,6 @@
     "stars": 1692,
     "updated_at": "2026-08-17T10:35:45Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Local-first AI Agent framework. DeepSeek-compatible (deepseek-v4-pro / deepseek-v4-flash), multi-model (OpenAI/Claude/GL",
-    "id": "Lam-Arc/LamTools",
-    "language": "Python",
-    "name": "Lam-Arc/LamTools",
-    "stars": 1,
-    "updated_at": "2026-08-17T10:32:10Z",
-    "url": "https://github.com/Lam-Arc/LamTools"
   },
   {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
@@ -180,13 +234,13 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
-    "id": "substructureai/substructure",
-    "language": "Rust",
-    "name": "substructureai/substructure",
-    "stars": 5,
-    "updated_at": "2026-08-17T10:47:09Z",
-    "url": "https://github.com/substructureai/substructure"
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12847,
+    "updated_at": "2026-08-17T10:25:35Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
@@ -234,15 +288,6 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-17T10:16:16Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
     "id": "devpilgrin/berimor",
     "language": "Rust",
@@ -250,15 +295,6 @@
     "stars": 3,
     "updated_at": "2026-08-17T10:14:02Z",
     "url": "https://github.com/devpilgrin/berimor"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26231,
-    "updated_at": "2026-08-17T10:27:59Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
@@ -315,15 +351,6 @@
     "url": "https://github.com/kdcube/kdcube"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 38,
-    "updated_at": "2026-08-17T09:59:36Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
@@ -346,18 +373,9 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 8962,
-    "updated_at": "2026-08-17T09:55:04Z",
+    "stars": 8963,
+    "updated_at": "2026-08-17T10:53:52Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12846,
-    "updated_at": "2026-08-17T10:25:35Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
@@ -396,15 +414,6 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-17T10:44:49Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
     "id": "GizClaw/flowcraft",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T09:25:48Z",
     "url": "https://github.com/zmzai-cloud/zmzai-agent"
-  },
-  {
-    "description": "Ship specialized AI agents fast. Lightweight foundation \u2014 copy the folder, add your tools, done.",
-    "id": "ysz7/genesis-agent",
-    "language": "Python",
-    "name": "ysz7/genesis-agent",
-    "stars": 1,
-    "updated_at": "2026-08-17T09:25:05Z",
-    "url": "https://github.com/ysz7/genesis-agent"
   }
 ]
