@@ -1,5 +1,86 @@
 [
   {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-17T04:09:00Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-17T04:08:25Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "The agent framework where the model never holds the trigger \u2014 every consequential action clears your policy first, waits",
+    "id": "tuliplabs-ai/tulip-agents",
+    "language": "Python",
+    "name": "tuliplabs-ai/tulip-agents",
+    "stars": 1,
+    "updated_at": "2026-08-17T04:07:56Z",
+    "url": "https://github.com/tuliplabs-ai/tulip-agents"
+  },
+  {
+    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
+    "id": "substructureai/substructure",
+    "language": "Rust",
+    "name": "substructureai/substructure",
+    "stars": 5,
+    "updated_at": "2026-08-17T04:07:22Z",
+    "url": "https://github.com/substructureai/substructure"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 38,
+    "updated_at": "2026-08-17T04:05:38Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "The control plane for AI coding agents.",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1581,
+    "updated_at": "2026-08-17T04:04:58Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-08-17T04:02:47Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 122,
+    "updated_at": "2026-08-17T04:00:49Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T04:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\u53ef\u5d4c\u5165 Python \u4ea7\u54c1\u7684 Agent Runtime\uff0c\u63d0\u4f9b\u5de5\u5177\u6267\u884c\u3001Skills\u3001\u8fd0\u884c\u4e8b\u4ef6\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u6301\u4e45\u5316 Checkpointer\u3002",
     "id": "Notryag/north-agent",
     "language": "Python",
@@ -63,15 +144,6 @@
     "url": "https://github.com/qmilab/asterism"
   },
   {
-    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
-    "id": "substructureai/substructure",
-    "language": "Rust",
-    "name": "substructureai/substructure",
-    "stars": 5,
-    "updated_at": "2026-08-17T03:49:35Z",
-    "url": "https://github.com/substructureai/substructure"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -81,13 +153,13 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T03:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "pydantic/pydantic-ai",
+    "stars": 19341,
+    "updated_at": "2026-08-17T03:45:30Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
@@ -135,21 +207,12 @@
     "url": "https://github.com/ayman3000/SwiftAgentKit"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-17T03:44:10Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 30,
-    "updated_at": "2026-08-17T03:43:44Z",
+    "updated_at": "2026-08-17T04:08:19Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 34644,
-    "updated_at": "2026-08-17T03:34:35Z",
+    "updated_at": "2026-08-17T04:09:15Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -234,15 +297,6 @@
     "url": "https://github.com/agents-universe/agents-universe"
   },
   {
-    "description": "The agent framework where the model never holds the trigger \u2014 every consequential action clears your policy first, waits",
-    "id": "tuliplabs-ai/tulip-agents",
-    "language": "Python",
-    "name": "tuliplabs-ai/tulip-agents",
-    "stars": 1,
-    "updated_at": "2026-08-17T03:51:17Z",
-    "url": "https://github.com/tuliplabs-ai/tulip-agents"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -250,15 +304,6 @@
     "stars": 47072,
     "updated_at": "2026-08-17T03:53:38Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 38,
-    "updated_at": "2026-08-17T03:14:52Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "\ud83d\udc7e \u4e0b\u4e00\u4ee3\u900f\u660e\u667a\u80fd\u4f53\u67b6\u6784 | Next-Gen Transparent Agent Architecture \ud83d\udd0d \u5168\u884c\u4e3a\u5ba1\u8ba1 | \ud83d\udee1\ufe0f \u4e24\u6bb5\u5f0f\u5b89\u5168\u8c03\u7528 | \ud83e\udde0 \u53cc\u6c34\u4f4d\u8bb0\u5fc6 | \u23f0 \u5fc3\u8df3\u4efb\u52a1 \ud83d\udcca P0 \u7ea7\u4e8b\u6545\u7387\u964d\u4f4e 80% | \u517c\u5bb9 Open",
@@ -360,21 +405,12 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 122,
-    "updated_at": "2026-08-17T03:50:04Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
     "id": "kungfu-systems/kungfu",
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4469,
-    "updated_at": "2026-08-17T03:59:58Z",
+    "updated_at": "2026-08-17T04:08:59Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19340,
-    "updated_at": "2026-08-17T03:45:30Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
@@ -414,15 +441,6 @@
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
-    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
-    "id": "bugsyhewitt/AlienClaw",
-    "language": "TypeScript",
-    "name": "bugsyhewitt/AlienClaw",
-    "stars": 7,
-    "updated_at": "2026-08-17T03:50:24Z",
-    "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
     "id": "deepset-ai/haystack",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 26227,
     "updated_at": "2026-08-17T02:29:34Z",
     "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 293,
-    "updated_at": "2026-08-17T02:24:04Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "A local-first desktop application for AI agent workflows.",
-    "id": "modelstudioai/openwork",
-    "language": "TypeScript",
-    "name": "modelstudioai/openwork",
-    "stars": 23,
-    "updated_at": "2026-08-17T03:09:10Z",
-    "url": "https://github.com/modelstudioai/openwork"
   }
 ]
