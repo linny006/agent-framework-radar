@@ -1,5 +1,23 @@
 [
   {
+    "description": "dsh-megamesh: super multi-agent architecture - files are messages, adoption replaces all-hands-on-deck failure, term lea",
+    "id": "Wang-Lin-Chang/dsh-megamesh",
+    "language": "JavaScript",
+    "name": "Wang-Lin-Chang/dsh-megamesh",
+    "stars": 0,
+    "updated_at": "2026-08-17T07:14:42Z",
+    "url": "https://github.com/Wang-Lin-Chang/dsh-megamesh"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T07:13:45Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Durable, typed multi-agent framework for Go.",
     "id": "Viking602/venat",
     "language": "Go",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T07:02:19Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T07:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "MCP server providing coding standards, skills, and workflows for AI agents",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-17T06:32:11Z",
     "url": "https://github.com/InitialDBklyn/consolidation-memory"
-  },
-  {
-    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19345,
-    "updated_at": "2026-08-17T07:03:11Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   }
 ]
