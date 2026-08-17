@@ -1,12 +1,30 @@
 [
   {
+    "description": "An intent-gated motivational control kernel for AI agents.",
+    "id": "utsapoddar/dopa-kernel",
+    "language": "Shell",
+    "name": "utsapoddar/dopa-kernel",
+    "stars": 0,
+    "updated_at": "2026-08-17T18:25:17Z",
+    "url": "https://github.com/utsapoddar/dopa-kernel"
+  },
+  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 51,
-    "updated_at": "2026-08-17T18:13:07Z",
+    "updated_at": "2026-08-17T18:24:23Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "opencode DAG dependency analysis: official vs modified comparison with 104 node pages (7-section why-how), interactive c",
+    "id": "zako-mio/opencode-dag-analysis",
+    "language": "HTML",
+    "name": "zako-mio/opencode-dag-analysis",
+    "stars": 0,
+    "updated_at": "2026-08-17T18:23:26Z",
+    "url": "https://github.com/zako-mio/opencode-dag-analysis"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -14,8 +32,134 @@
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 11,
-    "updated_at": "2026-08-17T18:14:07Z",
+    "updated_at": "2026-08-17T18:22:19Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 8,
+    "updated_at": "2026-08-17T18:22:06Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 0,
+    "updated_at": "2026-08-17T18:21:42Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Capri Hub \u6c47\u96c6\u4f60\u7684\u6240\u6709 AI Agent",
+    "id": "AgentsHarness/capri-hub",
+    "language": "Go",
+    "name": "AgentsHarness/capri-hub",
+    "stars": 1,
+    "updated_at": "2026-08-17T18:21:39Z",
+    "url": "https://github.com/AgentsHarness/capri-hub"
+  },
+  {
+    "description": "Grok Build Remote Web UI ACP Host",
+    "id": "AgentsHarness/capri-host",
+    "language": "Go",
+    "name": "AgentsHarness/capri-host",
+    "stars": 1,
+    "updated_at": "2026-08-17T18:21:36Z",
+    "url": "https://github.com/AgentsHarness/capri-host"
+  },
+  {
+    "description": "Grok Build Web UI",
+    "id": "AgentsHarness/capri-fe",
+    "language": "TypeScript",
+    "name": "AgentsHarness/capri-fe",
+    "stars": 0,
+    "updated_at": "2026-08-17T18:21:32Z",
+    "url": "https://github.com/AgentsHarness/capri-fe"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-17T18:20:15Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-17T18:20:13Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 122,
+    "updated_at": "2026-08-17T18:20:01Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an",
+    "id": "sattyamjjain/ferrumdeck",
+    "language": "TypeScript",
+    "name": "sattyamjjain/ferrumdeck",
+    "stars": 7,
+    "updated_at": "2026-08-17T18:19:10Z",
+    "url": "https://github.com/sattyamjjain/ferrumdeck"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Go",
+    "name": "shaharia-lab/agento",
+    "stars": 29,
+    "updated_at": "2026-08-17T18:18:14Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1779,
+    "updated_at": "2026-08-17T18:15:48Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6931,
+    "updated_at": "2026-08-17T18:26:08Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T18:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-17T18:12:32Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
@@ -25,24 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T18:10:56Z",
     "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
-  },
-  {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Go",
-    "name": "shaharia-lab/agento",
-    "stars": 29,
-    "updated_at": "2026-08-17T18:10:43Z",
-    "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
-    "description": "opencode DAG dependency analysis: official vs modified comparison with 104 node pages (7-section why-how), interactive c",
-    "id": "zako-mio/opencode-dag-analysis",
-    "language": "HTML",
-    "name": "zako-mio/opencode-dag-analysis",
-    "stars": 0,
-    "updated_at": "2026-08-17T18:09:42Z",
-    "url": "https://github.com/zako-mio/opencode-dag-analysis"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -99,6 +225,24 @@
     "url": "https://github.com/ag2ai/ag2"
   },
   {
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19354,
+    "updated_at": "2026-08-17T18:27:01Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8981,
+    "updated_at": "2026-08-17T18:04:47Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
@@ -106,15 +250,6 @@
     "stars": 7,
     "updated_at": "2026-08-17T18:02:12Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 0,
-    "updated_at": "2026-08-17T18:02:08Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -142,24 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T17:54:01Z",
     "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
-    "description": "AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an",
-    "id": "sattyamjjain/ferrumdeck",
-    "language": "TypeScript",
-    "name": "sattyamjjain/ferrumdeck",
-    "stars": 7,
-    "updated_at": "2026-08-17T17:53:26Z",
-    "url": "https://github.com/sattyamjjain/ferrumdeck"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T17:52:36Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -234,42 +351,6 @@
     "url": "https://github.com/achappey/aihappey-chat"
   },
   {
-    "description": "Grok Build Web UI",
-    "id": "AgentsHarness/capri-fe",
-    "language": "TypeScript",
-    "name": "AgentsHarness/capri-fe",
-    "stars": 0,
-    "updated_at": "2026-08-17T17:38:06Z",
-    "url": "https://github.com/AgentsHarness/capri-fe"
-  },
-  {
-    "description": "Grok Build Remote Web UI ACP Host",
-    "id": "AgentsHarness/capri-host",
-    "language": "Go",
-    "name": "AgentsHarness/capri-host",
-    "stars": 1,
-    "updated_at": "2026-08-17T17:38:06Z",
-    "url": "https://github.com/AgentsHarness/capri-host"
-  },
-  {
-    "description": "Capri Hub \u6c47\u96c6\u4f60\u7684\u6240\u6709 AI Agent",
-    "id": "AgentsHarness/capri-hub",
-    "language": "Go",
-    "name": "AgentsHarness/capri-hub",
-    "stars": 1,
-    "updated_at": "2026-08-17T17:38:06Z",
-    "url": "https://github.com/AgentsHarness/capri-hub"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-17T18:12:32Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
     "id": "achappey/aihappey-agents",
     "language": "C#",
@@ -277,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T17:27:48Z",
     "url": "https://github.com/achappey/aihappey-agents"
-  },
-  {
-    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 8,
-    "updated_at": "2026-08-17T17:25:46Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
   },
   {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
@@ -306,6 +378,15 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 147,
+    "updated_at": "2026-08-17T17:23:28Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
     "description": "Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo",
     "id": "getsynkora/synkora-ai",
     "language": "Python",
@@ -324,15 +405,6 @@
     "url": "https://github.com/lofcz/LLMTornado"
   },
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-17T17:15:28Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -340,15 +412,6 @@
     "stars": 12,
     "updated_at": "2026-08-17T17:14:54Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6931,
-    "updated_at": "2026-08-17T17:13:38Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -378,15 +441,6 @@
     "url": "https://github.com/clacky-ai/openclacky"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 122,
-    "updated_at": "2026-08-17T18:10:06Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-17T18:01:00Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Go/Golang multi-agent LLM framework \u2014 ReAct loops, parallel tool calls, streaming, sub-agents, and pluggable Anthropic /",
-    "id": "hung12ct/gopheragent",
-    "language": "Go",
-    "name": "hung12ct/gopheragent",
-    "stars": 3,
-    "updated_at": "2026-08-17T17:03:16Z",
-    "url": "https://github.com/hung12ct/gopheragent"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-08-17T18:06:11Z",
-    "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 146,
-    "updated_at": "2026-08-17T17:23:28Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 76,
-    "updated_at": "2026-08-17T18:12:51Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "internOS \u2014 Workstreams framework for human-agent collaboration. Coordinate work across projects, tasks, communication th",
-    "id": "poktalabs/intern-os",
-    "language": "Shell",
-    "name": "poktalabs/intern-os",
-    "stars": 5,
-    "updated_at": "2026-08-17T16:43:13Z",
-    "url": "https://github.com/poktalabs/intern-os"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-17T16:42:38Z",
-    "url": "https://github.com/vgp7758/Agt"
   }
 ]
