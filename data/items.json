@@ -1,11 +1,74 @@
 [
   {
+    "description": "Personal Ai Agent",
+    "id": "br3eze-code/br3eze-code",
+    "language": "JavaScript",
+    "name": "br3eze-code/br3eze-code",
+    "stars": 2,
+    "updated_at": "2026-08-17T13:21:02Z",
+    "url": "https://github.com/br3eze-code/br3eze-code"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-08-17T13:15:51Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
+    "id": "CogKnowEdge-Solutions/Orchestration",
+    "language": "Jupyter Notebook",
+    "name": "CogKnowEdge-Solutions/Orchestration",
+    "stars": 0,
+    "updated_at": "2026-08-17T13:15:33Z",
+    "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
+  },
+  {
+    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
+    "id": "agents-universe/agents-universe",
+    "language": "Python",
+    "name": "agents-universe/agents-universe",
+    "stars": 113,
+    "updated_at": "2026-08-17T13:15:33Z",
+    "url": "https://github.com/agents-universe/agents-universe"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T13:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6927,
+    "updated_at": "2026-08-17T13:14:32Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Lightweight Agent OS framework with Multi-Agent Swarm, DAG Planning, RAG Routing, and Secure Tool Execution.",
+    "id": "bwpows/Small-Agent",
+    "language": "Python",
+    "name": "bwpows/Small-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-17T13:13:29Z",
+    "url": "https://github.com/bwpows/Small-Agent"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34662,
-    "updated_at": "2026-08-17T13:13:01Z",
+    "stars": 34663,
+    "updated_at": "2026-08-17T13:21:19Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
-    "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
-    "id": "CogKnowEdge-Solutions/Orchestration",
-    "language": "Jupyter Notebook",
-    "name": "CogKnowEdge-Solutions/Orchestration",
-    "stars": 0,
-    "updated_at": "2026-08-17T13:04:59Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
-  },
-  {
     "description": "Visual AI agent builder & chat platform: drag-and-drop LLM workflows, SSE streaming chat, 80+ built-in tools, skill syst",
     "id": "DJR-gjsn/Agent-Editor-I-do-not-know",
     "language": "Python",
@@ -72,15 +126,6 @@
     "url": "https://github.com/clacky-ai/openclacky"
   },
   {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-08-17T13:12:09Z",
-    "url": "https://github.com/go-steer/mast"
-  },
-  {
     "description": "Open-source browser AI chat runtime with BYOK/OAuth, direct provider APIs, stateless gateway support, full MCP, Skills a",
     "id": "achappey/aihappey-chat",
     "language": "TypeScript",
@@ -90,22 +135,22 @@
     "url": "https://github.com/achappey/aihappey-chat"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T13:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 51,
-    "updated_at": "2026-08-17T12:59:30Z",
+    "updated_at": "2026-08-17T13:18:24Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4472,
+    "updated_at": "2026-08-17T12:58:18Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -122,17 +167,8 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47094,
-    "updated_at": "2026-08-17T12:56:12Z",
+    "updated_at": "2026-08-17T13:19:31Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4471,
-    "updated_at": "2026-08-17T12:58:18Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26232,
-    "updated_at": "2026-08-17T12:50:49Z",
+    "updated_at": "2026-08-17T13:21:20Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -310,7 +346,7 @@
     "id": "Electricitysheep/dsh-handbook",
     "language": "HTML",
     "name": "Electricitysheep/dsh-handbook",
-    "stars": 439,
+    "stars": 440,
     "updated_at": "2026-08-17T12:33:14Z",
     "url": "https://github.com/Electricitysheep/dsh-handbook"
   },
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
     "stars": 15025,
-    "updated_at": "2026-08-17T12:32:39Z",
+    "updated_at": "2026-08-17T13:19:50Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
   {
@@ -358,15 +394,6 @@
     "stars": 1692,
     "updated_at": "2026-08-17T12:26:39Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c",
-    "id": "agents-universe/agents-universe",
-    "language": "Python",
-    "name": "agents-universe/agents-universe",
-    "stars": 113,
-    "updated_at": "2026-08-17T12:25:50Z",
-    "url": "https://github.com/agents-universe/agents-universe"
   },
   {
     "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T12:10:07Z",
     "url": "https://github.com/Wang-Lin-Chang/dsh-megamesh"
-  },
-  {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 0,
-    "updated_at": "2026-08-17T12:51:04Z",
-    "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-17T12:31:03Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 117,
-    "updated_at": "2026-08-17T12:39:59Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   }
 ]
