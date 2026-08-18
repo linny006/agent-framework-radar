@@ -1,5 +1,50 @@
 [
   {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-18T17:49:40Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4872,
+    "updated_at": "2026-08-18T17:49:28Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 8,
+    "updated_at": "2026-08-18T17:46:19Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-18T17:45:56Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T17:45:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 8,
-    "updated_at": "2026-08-18T17:43:48Z",
+    "updated_at": "2026-08-18T17:46:49Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9016,
-    "updated_at": "2026-08-18T17:43:20Z",
+    "updated_at": "2026-08-18T17:46:37Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -34,15 +79,6 @@
     "stars": 866,
     "updated_at": "2026-08-18T17:44:52Z",
     "url": "https://github.com/promptise-com/Foundry"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-18T17:39:33Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47143,
-    "updated_at": "2026-08-18T17:35:45Z",
+    "updated_at": "2026-08-18T17:46:46Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 2,
-    "updated_at": "2026-08-18T17:34:59Z",
+    "updated_at": "2026-08-18T17:47:25Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -79,15 +115,6 @@
     "stars": 16,
     "updated_at": "2026-08-18T17:30:27Z",
     "url": "https://github.com/sweatco/archie-hq"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T17:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "KinomotoMio/dsh-context-lens",
     "stars": 2,
-    "updated_at": "2026-08-18T17:40:36Z",
+    "updated_at": "2026-08-18T17:46:15Z",
     "url": "https://github.com/KinomotoMio/dsh-context-lens"
   },
   {
@@ -234,15 +261,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-18T17:14:14Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
     "id": "salvatoreabient793/cursor-auto-deployment-agent",
     "language": "\u2014",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12870,
-    "updated_at": "2026-08-18T17:31:19Z",
+    "updated_at": "2026-08-18T17:46:00Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-18T17:01:59Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Metaorcha : many models, one harness. Apache 2.0 runtime for multi-protocol agent orchestration: one goal in, a verified",
-    "id": "solvent-labs-org/metaorcha",
-    "language": "Python",
-    "name": "solvent-labs-org/metaorcha",
-    "stars": 2,
-    "updated_at": "2026-08-18T17:01:02Z",
-    "url": "https://github.com/solvent-labs-org/metaorcha"
-  },
-  {
-    "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
-    "id": "kokorubbong/agenticqa-scan-action",
-    "language": "Python",
-    "name": "kokorubbong/agenticqa-scan-action",
-    "stars": 0,
-    "updated_at": "2026-08-18T17:00:51Z",
-    "url": "https://github.com/kokorubbong/agenticqa-scan-action"
   }
 ]
