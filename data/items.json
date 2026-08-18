@@ -1,5 +1,59 @@
 [
   {
+    "description": "A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684 AI \u56e2\u961f\u3002",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-08-18T08:49:52Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 13,
+    "updated_at": "2026-08-18T08:48:58Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "Equaxis: a governed, observable and reliable agent runtime powered by Pi.",
+    "id": "6Riemann9/equaxis-agent",
+    "language": "TypeScript",
+    "name": "6Riemann9/equaxis-agent",
+    "stars": 4,
+    "updated_at": "2026-08-18T08:45:47Z",
+    "url": "https://github.com/6Riemann9/equaxis-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T08:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
+    "id": "Justin0504/Sovereign-OS",
+    "language": "Python",
+    "name": "Justin0504/Sovereign-OS",
+    "stars": 89,
+    "updated_at": "2026-08-18T08:44:57Z",
+    "url": "https://github.com/Justin0504/Sovereign-OS"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 11,
+    "updated_at": "2026-08-18T08:50:19Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
     "description": "A curated, opinionated set of OpenCode plugins for spec-first, review-driven, safer agentic development.",
     "id": "osovv/vv-opencode",
     "language": "TypeScript",
@@ -14,7 +68,7 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1698,
-    "updated_at": "2026-08-18T08:42:12Z",
+    "updated_at": "2026-08-18T08:51:17Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1304,
-    "updated_at": "2026-08-18T08:41:23Z",
+    "updated_at": "2026-08-18T08:50:04Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -49,7 +103,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34731,
+    "stars": 34733,
     "updated_at": "2026-08-18T08:38:07Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -95,7 +149,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4474,
-    "updated_at": "2026-08-18T08:44:20Z",
+    "updated_at": "2026-08-18T08:49:20Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -135,40 +189,13 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T08:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Harness-oriented agent system framework for production-grade LLM agent applications",
     "id": "CodeSoul-co/Hypha",
     "language": "TypeScript",
     "name": "CodeSoul-co/Hypha",
     "stars": 427,
-    "updated_at": "2026-08-18T08:29:44Z",
+    "updated_at": "2026-08-18T08:48:04Z",
     "url": "https://github.com/CodeSoul-co/Hypha"
-  },
-  {
-    "description": "A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684 AI \u56e2\u961f\u3002",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-08-18T08:29:30Z",
-    "url": "https://github.com/momang85/weavemind"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 11,
-    "updated_at": "2026-08-18T08:44:27Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
@@ -365,7 +392,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 122,
-    "updated_at": "2026-08-18T07:47:36Z",
+    "updated_at": "2026-08-18T08:49:55Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-18T07:53:03Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "See what every plugin puts into the model.",
-    "id": "KinomotoMio/dsh-context-lens",
-    "language": "TypeScript",
-    "name": "KinomotoMio/dsh-context-lens",
-    "stars": 1,
-    "updated_at": "2026-08-18T07:35:58Z",
-    "url": "https://github.com/KinomotoMio/dsh-context-lens"
-  },
-  {
-    "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
-    "id": "CocoRoF/geny-executor",
-    "language": "Python",
-    "name": "CocoRoF/geny-executor",
-    "stars": 2,
-    "updated_at": "2026-08-18T07:35:34Z",
-    "url": "https://github.com/CocoRoF/geny-executor"
-  },
-  {
-    "description": "An intent-gated motivational control kernel for AI agents.",
-    "id": "utsapoddar/dopa-kernel",
-    "language": "Python",
-    "name": "utsapoddar/dopa-kernel",
-    "stars": 0,
-    "updated_at": "2026-08-18T07:33:58Z",
-    "url": "https://github.com/utsapoddar/dopa-kernel"
   }
 ]
