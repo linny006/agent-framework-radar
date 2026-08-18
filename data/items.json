@@ -1,12 +1,39 @@
 [
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-08-18T01:29:56Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "\u77e5\u672b\u667a\u4e91 \u00b7 Agent \u7f16\u6392\u3001\u5ba1\u6279\u4e0e\u5de5\u5177\u6267\u884c\u5de5\u4f5c\u53f0",
+    "id": "zmzai-cloud/zmzai-agent",
+    "language": "TypeScript",
+    "name": "zmzai-cloud/zmzai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-18T01:25:33Z",
+    "url": "https://github.com/zmzai-cloud/zmzai-agent"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-18T01:24:50Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
+    "id": "Dikhun/Arctus.ai",
     "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-18T01:22:15Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+    "name": "Dikhun/Arctus.ai",
+    "stars": 1,
+    "updated_at": "2026-08-18T01:24:58Z",
+    "url": "https://github.com/Dikhun/Arctus.ai"
   },
   {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
@@ -14,8 +41,35 @@
     "language": "Python",
     "name": "zlatko-lakisic/agentic-orchestration",
     "stars": 3,
-    "updated_at": "2026-08-18T01:20:52Z",
+    "updated_at": "2026-08-18T01:24:43Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Cost-aware multi-agent LLM orchestration with dynamic communication topology, per-round agent selection and a self-halti",
+    "id": "code0-tech/cadtopo",
+    "language": "Python",
+    "name": "code0-tech/cadtopo",
+    "stars": 1,
+    "updated_at": "2026-08-18T01:24:35Z",
+    "url": "https://github.com/code0-tech/cadtopo"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T01:23:38Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-18T01:24:31Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -25,6 +79,15 @@
     "stars": 1,
     "updated_at": "2026-08-18T01:20:44Z",
     "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
+    "id": "daniel06s6995/deepseek-harness-software-OPC",
+    "language": "JavaScript",
+    "name": "daniel06s6995/deepseek-harness-software-OPC",
+    "stars": 0,
+    "updated_at": "2026-08-18T01:19:33Z",
+    "url": "https://github.com/daniel06s6995/deepseek-harness-software-OPC"
   },
   {
     "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
@@ -72,15 +135,6 @@
     "url": "https://github.com/CaYatur/cayadev-ai-hub"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T01:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 147,
-    "updated_at": "2026-08-18T01:13:01Z",
+    "updated_at": "2026-08-18T01:29:58Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T01:05:06Z",
     "url": "https://github.com/zuoxu3310/AGENTOS"
-  },
-  {
-    "description": "Cost-aware multi-agent LLM orchestration with dynamic communication topology, per-round agent selection and a self-halti",
-    "id": "code0-tech/cadtopo",
-    "language": "Python",
-    "name": "code0-tech/cadtopo",
-    "stars": 1,
-    "updated_at": "2026-08-18T01:04:57Z",
-    "url": "https://github.com/code0-tech/cadtopo"
   },
   {
     "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
@@ -229,7 +274,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 124,
+    "stars": 125,
     "updated_at": "2026-08-18T00:37:43Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -275,17 +320,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-18T01:17:43Z",
+    "updated_at": "2026-08-18T01:29:24Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\u77e5\u672b\u667a\u4e91 \u00b7 Agent \u7f16\u6392\u3001\u5ba1\u6279\u4e0e\u5de5\u5177\u6267\u884c\u5de5\u4f5c\u53f0",
-    "id": "zmzai-cloud/zmzai-agent",
-    "language": "TypeScript",
-    "name": "zmzai-cloud/zmzai-agent",
-    "stars": 0,
-    "updated_at": "2026-08-18T00:23:38Z",
-    "url": "https://github.com/zmzai-cloud/zmzai-agent"
   },
   {
     "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
@@ -302,7 +338,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 51,
-    "updated_at": "2026-08-18T01:21:28Z",
+    "updated_at": "2026-08-18T01:27:57Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -313,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-08-18T00:23:23Z",
     "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-08-18T01:19:40Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
@@ -365,7 +392,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4473,
-    "updated_at": "2026-08-18T01:23:12Z",
+    "updated_at": "2026-08-18T01:28:12Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 12858,
     "updated_at": "2026-08-17T23:37:06Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 170,
-    "updated_at": "2026-08-17T23:33:09Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-17T23:25:51Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
-    "id": "Jovancoding/Network-AI",
-    "language": "TypeScript",
-    "name": "Jovancoding/Network-AI",
-    "stars": 69,
-    "updated_at": "2026-08-17T23:10:21Z",
-    "url": "https://github.com/Jovancoding/Network-AI"
   }
 ]
