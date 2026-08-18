@@ -1,11 +1,92 @@
 [
   {
+    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
+    "id": "ellmos-ai/.github",
+    "language": "HTML",
+    "name": "ellmos-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-08-18T11:57:45Z",
+    "url": "https://github.com/ellmos-ai/.github"
+  },
+  {
+    "description": "A curated, opinionated set of OpenCode plugins for spec-first, review-driven, safer agentic development.",
+    "id": "osovv/vv-opencode",
+    "language": "TypeScript",
+    "name": "osovv/vv-opencode",
+    "stars": 11,
+    "updated_at": "2026-08-18T11:56:35Z",
+    "url": "https://github.com/osovv/vv-opencode"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-18T11:59:24Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-18T11:55:04Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-18T11:52:08Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 253,
+    "updated_at": "2026-08-18T11:51:27Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Agent Skills - 44 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
+    "id": "bestdeejay-design/agent-skills",
+    "language": "Python",
+    "name": "bestdeejay-design/agent-skills",
+    "stars": 4,
+    "updated_at": "2026-08-18T11:51:09Z",
+    "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1304,
+    "updated_at": "2026-08-18T11:50:11Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T11:48:38Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
     "id": "GizClaw/flowcraft",
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 416,
-    "updated_at": "2026-08-18T11:48:25Z",
+    "updated_at": "2026-08-18T11:51:52Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -23,17 +104,8 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4474,
-    "updated_at": "2026-08-18T11:46:25Z",
+    "updated_at": "2026-08-18T12:00:15Z",
     "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T11:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A tiny, event-sourced TypeScript runtime for agents that can pause, resume, fork, and replay.",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T11:45:06Z",
     "url": "https://github.com/joe960913/Jixu"
-  },
-  {
-    "description": "Agent Skills - 44 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
-    "id": "bestdeejay-design/agent-skills",
-    "language": "Python",
-    "name": "bestdeejay-design/agent-skills",
-    "stars": 4,
-    "updated_at": "2026-08-18T11:44:09Z",
-    "url": "https://github.com/bestdeejay-design/agent-skills"
   },
   {
     "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
@@ -117,33 +180,6 @@
     "url": "https://github.com/DougTrajano/pydantic-ai-skills"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-18T11:45:56Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-18T11:33:18Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1304,
-    "updated_at": "2026-08-18T11:35:38Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
     "id": "AgentEra/Agently",
     "language": "Python",
@@ -160,15 +196,6 @@
     "stars": 19365,
     "updated_at": "2026-08-18T11:46:27Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 253,
-    "updated_at": "2026-08-18T11:36:36Z",
-    "url": "https://github.com/xuiltul/animaworks"
   },
   {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
@@ -193,8 +220,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34748,
-    "updated_at": "2026-08-18T11:27:58Z",
+    "stars": 34749,
+    "updated_at": "2026-08-18T11:57:49Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 122,
     "updated_at": "2026-08-18T11:26:40Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-18T11:25:21Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26239,
-    "updated_at": "2026-08-18T11:46:13Z",
+    "updated_at": "2026-08-18T11:50:42Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -382,7 +400,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4889,
+    "stars": 4890,
     "updated_at": "2026-08-18T10:41:51Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 3,
-    "updated_at": "2026-08-18T11:23:32Z",
+    "updated_at": "2026-08-18T11:59:32Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T10:26:08Z",
     "url": "https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub"
-  },
-  {
-    "description": "Capable coding agents on local Ollama models \u2014 including the small ones. Task-based model routing, tolerant tool-call pa",
-    "id": "CaYatur/cayadev-ai-hub",
-    "language": "Rust",
-    "name": "CaYatur/cayadev-ai-hub",
-    "stars": 1,
-    "updated_at": "2026-08-18T10:23:40Z",
-    "url": "https://github.com/CaYatur/cayadev-ai-hub"
-  },
-  {
-    "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
-    "id": "zerovia/be-a-lucky-block-hub",
-    "language": "HTML",
-    "name": "zerovia/be-a-lucky-block-hub",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:22:50Z",
-    "url": "https://github.com/zerovia/be-a-lucky-block-hub"
   }
 ]
