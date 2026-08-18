@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T23:59:09Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
     "id": "zlatko-lakisic/agentic-orchestration",
     "language": "Python",
@@ -81,15 +90,6 @@
     "url": "https://github.com/pereirawe/opencode-flow"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T23:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
     "id": "agentjido/jidoka",
     "language": "Elixir",
@@ -140,7 +140,7 @@
     "language": "Python",
     "name": "kdcube/kdcube",
     "stars": 23,
-    "updated_at": "2026-08-17T23:39:53Z",
+    "updated_at": "2026-08-18T00:00:06Z",
     "url": "https://github.com/kdcube/kdcube"
   },
   {
@@ -302,7 +302,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-08-17T23:56:29Z",
+    "updated_at": "2026-08-18T00:00:04Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -356,7 +356,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-17T23:53:20Z",
+    "updated_at": "2026-08-17T23:59:33Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
