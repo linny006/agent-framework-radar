@@ -1,12 +1,57 @@
 [
   {
+    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
+    "id": "SmooAI/smooth-operator",
+    "language": "Rust",
+    "name": "SmooAI/smooth-operator",
+    "stars": 0,
+    "updated_at": "2026-08-18T19:37:42Z",
+    "url": "https://github.com/SmooAI/smooth-operator"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-18T19:27:59Z",
+    "updated_at": "2026-08-18T19:37:59Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 3,
+    "updated_at": "2026-08-18T19:32:39Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T19:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-18T19:29:59Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-18T19:28:42Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -22,7 +67,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19373,
+    "stars": 19374,
     "updated_at": "2026-08-18T19:25:36Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -36,6 +81,24 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-08-18T19:23:43Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-18T19:23:18Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -45,12 +108,21 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-18T19:22:23Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 52,
-    "updated_at": "2026-08-18T19:29:53Z",
+    "updated_at": "2026-08-18T19:37:13Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -86,7 +158,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4481,
-    "updated_at": "2026-08-18T19:29:41Z",
+    "updated_at": "2026-08-18T19:38:10Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -97,15 +169,6 @@
     "stars": 34773,
     "updated_at": "2026-08-18T19:17:57Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T19:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Define AI agent roles in YAML and run them anywhere: CLI, API server, or autonomous daemon",
@@ -124,15 +187,6 @@
     "stars": 122,
     "updated_at": "2026-08-18T19:10:54Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 3,
-    "updated_at": "2026-08-18T19:05:33Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   },
   {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
@@ -180,15 +234,6 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-18T19:28:42Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
     "id": "Aureliolo/synthorg",
     "language": "Python",
@@ -196,15 +241,6 @@
     "stars": 9,
     "updated_at": "2026-08-18T18:56:59Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-18T19:23:18Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -223,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-08-18T18:42:56Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-18T19:29:59Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -277,24 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T18:35:24Z",
     "url": "https://github.com/7bder/orchd-core"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-18T19:23:43Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-18T19:22:23Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
@@ -401,7 +410,7 @@
     "language": "TypeScript",
     "name": "KinomotoMio/dsh-context-lens",
     "stars": 2,
-    "updated_at": "2026-08-18T17:46:15Z",
+    "updated_at": "2026-08-18T19:36:07Z",
     "url": "https://github.com/KinomotoMio/dsh-context-lens"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T17:16:05Z",
     "url": "https://github.com/zerovia/be-a-lucky-block-hub"
-  },
-  {
-    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
-    "id": "salvatoreabient793/cursor-auto-deployment-agent",
-    "language": "\u2014",
-    "name": "salvatoreabient793/cursor-auto-deployment-agent",
-    "stars": 0,
-    "updated_at": "2026-08-18T17:13:24Z",
-    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
   }
 ]
