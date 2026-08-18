@@ -1,5 +1,50 @@
 [
   {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-18T10:57:34Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-18T10:57:07Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Production-ready agents, your way.",
+    "id": "Folken2/nuvel",
+    "language": "Python",
+    "name": "Folken2/nuvel",
+    "stars": 2,
+    "updated_at": "2026-08-18T10:56:05Z",
+    "url": "https://github.com/Folken2/nuvel"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-18T10:54:21Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T10:53:37Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
     "id": "qmilab/asterism",
     "language": "TypeScript",
@@ -58,7 +103,7 @@
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
     "name": "whyihaveyou/dsh-suite",
-    "stars": 40,
+    "stars": 41,
     "updated_at": "2026-08-18T10:48:19Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19365,
-    "updated_at": "2026-08-18T10:46:42Z",
+    "updated_at": "2026-08-18T10:59:37Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-18T10:45:48Z",
     "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T10:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -126,15 +162,6 @@
     "url": "https://github.com/seed-forge/harness-ai-kit"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-18T10:40:36Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -160,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-08-18T10:52:39Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-18T10:26:50Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "Automate Be a Lucky Block with targeting assistance and instant inventory liquidation for streamlined PC gameplay.",
@@ -268,15 +286,6 @@
     "stars": 12865,
     "updated_at": "2026-08-18T10:22:10Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-18T10:22:02Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Backend implementing the Agent Framework for orchestrating agent workflows and message exchange. Acts as a content and r",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-18T10:14:47Z",
     "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 122,
-    "updated_at": "2026-08-18T10:14:04Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   }
 ]
