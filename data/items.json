@@ -1,21 +1,12 @@
 [
   {
-    "description": "The most Token-efficient open-source AI Agent",
-    "id": "clacky-ai/openclacky",
-    "language": "Ruby",
-    "name": "clacky-ai/openclacky",
-    "stars": 1149,
-    "updated_at": "2026-08-18T02:28:51Z",
-    "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "\u77e5\u672b\u667a\u4e91 \u00b7 Agent \u7f16\u6392\u3001\u5ba1\u6279\u4e0e\u5de5\u5177\u6267\u884c\u5de5\u4f5c\u53f0",
-    "id": "zmzai-cloud/zmzai-agent",
-    "language": "TypeScript",
-    "name": "zmzai-cloud/zmzai-agent",
-    "stars": 0,
-    "updated_at": "2026-08-18T02:27:12Z",
-    "url": "https://github.com/zmzai-cloud/zmzai-agent"
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 30,
+    "updated_at": "2026-08-18T02:32:28Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "The control plane for AI coding agents.",
@@ -23,8 +14,53 @@
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
     "stars": 1580,
-    "updated_at": "2026-08-18T02:27:57Z",
+    "updated_at": "2026-08-18T02:31:57Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "\u77e5\u672b\u667a\u4e91 \u00b7 Agent \u7f16\u6392\u3001\u5ba1\u6279\u4e0e\u5de5\u5177\u6267\u884c\u5de5\u4f5c\u53f0",
+    "id": "zmzai-cloud/zmzai-agent",
+    "language": "TypeScript",
+    "name": "zmzai-cloud/zmzai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-18T02:31:34Z",
+    "url": "https://github.com/zmzai-cloud/zmzai-agent"
+  },
+  {
+    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-18T02:31:07Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T02:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-18T02:30:07Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1149,
+    "updated_at": "2026-08-18T02:28:51Z",
+    "url": "https://github.com/clacky-ai/openclacky"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -50,7 +86,7 @@
     "language": "TypeScript",
     "name": "aparry3/agntz",
     "stars": 1,
-    "updated_at": "2026-08-18T02:28:55Z",
+    "updated_at": "2026-08-18T02:31:15Z",
     "url": "https://github.com/aparry3/agntz"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 6,
     "updated_at": "2026-08-18T02:23:33Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T02:15:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -205,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-08-18T02:06:37Z",
     "url": "https://github.com/acnlabs/ACN"
-  },
-  {
-    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-08-18T02:00:41Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
@@ -328,7 +346,7 @@
     "id": "Electricitysheep/dsh-handbook",
     "language": "HTML",
     "name": "Electricitysheep/dsh-handbook",
-    "stars": 455,
+    "stars": 456,
     "updated_at": "2026-08-18T01:39:45Z",
     "url": "https://github.com/Electricitysheep/dsh-handbook"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T01:19:33Z",
     "url": "https://github.com/daniel06s6995/deepseek-harness-software-OPC"
-  },
-  {
-    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 8,
-    "updated_at": "2026-08-18T01:18:31Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
-    "id": "kimtth/azure-openai-llm-notes",
-    "language": "Python",
-    "name": "kimtth/azure-openai-llm-notes",
-    "stars": 407,
-    "updated_at": "2026-08-18T01:17:53Z",
-    "url": "https://github.com/kimtth/azure-openai-llm-notes"
   }
 ]
