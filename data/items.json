@@ -1,5 +1,32 @@
 [
   {
+    "description": "Source-available Harness AI / Agent OS for teams building governed agent applications - with Nexus orchestration, policy",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 3,
+    "updated_at": "2026-08-18T05:58:22Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 11,
+    "updated_at": "2026-08-18T05:56:03Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T05:52:34Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Event-driven autonomous AI agent orchestration \u2014 no polling, no cron. inotify watches memory, agents react instantly. De",
     "id": "noivan0/NOVA",
     "language": "Python",
@@ -40,7 +67,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34708,
+    "stars": 34709,
     "updated_at": "2026-08-18T05:47:16Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -61,15 +88,6 @@
     "stars": 39,
     "updated_at": "2026-08-18T05:46:46Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T05:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
@@ -216,15 +234,6 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 11,
-    "updated_at": "2026-08-18T05:10:21Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -319,7 +328,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9000,
+    "stars": 9001,
     "updated_at": "2026-08-18T04:32:05Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T03:47:48Z",
     "url": "https://github.com/zmzai-cloud/zmzai-agent"
-  },
-  {
-    "description": "\u672c\u6587\u6863\u57fa\u4e8e\u539f\u7248\u8bfe\u7a0b\u5927\u7eb2\u7684\u6df1\u5165\u5206\u6790\uff0c\u7ed3\u5408 2026 \u5e74\u6700\u65b0 AI \u884c\u4e1a\u8d8b\u52bf\uff08A2A \u534f\u8bae\u3001Agent FinOps\u3001\u5408\u89c4\u6cbb\u7406\u3001AI Coding Agent \u7b49\uff09\u91cd\u65b0\u89c4\u5212\u800c\u6210\u3002",
-    "id": "ricoNext/Agent101",
-    "language": "TypeScript",
-    "name": "ricoNext/Agent101",
-    "stars": 2,
-    "updated_at": "2026-08-18T03:45:31Z",
-    "url": "https://github.com/ricoNext/Agent101"
   }
 ]
