@@ -1,19 +1,64 @@
 [
   {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-18T21:53:52Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 669,
+    "updated_at": "2026-08-18T21:48:26Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-18T21:48:11Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 3,
+    "updated_at": "2026-08-18T21:48:07Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-18T21:45:06Z",
+    "updated_at": "2026-08-18T21:45:22Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34779,
+    "updated_at": "2026-08-18T21:44:33Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6941,
+    "stars": 6942,
     "updated_at": "2026-08-18T21:43:50Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-18T21:45:02Z",
+    "updated_at": "2026-08-18T21:54:36Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -45,24 +90,6 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-18T21:32:55Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
-    "id": "zlatko-lakisic/agentic-orchestration",
-    "language": "Python",
-    "name": "zlatko-lakisic/agentic-orchestration",
-    "stars": 3,
-    "updated_at": "2026-08-18T21:29:25Z",
-    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T21:27:51Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-18T21:26:42Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Autonomous multi-agent coordination for the JVM",
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 52,
-    "updated_at": "2026-08-18T21:42:44Z",
+    "updated_at": "2026-08-18T21:59:07Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -122,7 +140,7 @@
     "language": "Rust",
     "name": "SmooAI/smooth-operator",
     "stars": 0,
-    "updated_at": "2026-08-18T21:43:43Z",
+    "updated_at": "2026-08-18T21:58:18Z",
     "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1307,
-    "updated_at": "2026-08-18T21:18:34Z",
+    "updated_at": "2026-08-18T21:52:23Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -293,7 +311,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4481,
-    "updated_at": "2026-08-18T21:44:47Z",
+    "updated_at": "2026-08-18T21:58:47Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -333,24 +351,6 @@
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34778,
-    "updated_at": "2026-08-18T21:44:33Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 669,
-    "updated_at": "2026-08-18T20:34:51Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
@@ -376,6 +376,15 @@
     "stars": 1,
     "updated_at": "2026-08-18T20:04:19Z",
     "url": "https://github.com/code0-tech/cadtopo"
+  },
+  {
+    "description": "14 failure modes from running an AI agent 24/7 on one laptop. Each pattern names the bug that produced it. Two dependenc",
+    "id": "MARCCHERGGI/always-on-agent-patterns",
+    "language": "JavaScript",
+    "name": "MARCCHERGGI/always-on-agent-patterns",
+    "stars": 0,
+    "updated_at": "2026-08-18T19:39:47Z",
+    "url": "https://github.com/MARCCHERGGI/always-on-agent-patterns"
   },
   {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
@@ -409,7 +418,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9022,
+    "stars": 9024,
     "updated_at": "2026-08-18T19:03:38Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-18T18:51:01Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "orchd \u5f15\u64ce\u6700\u5c0f\u53ef\u79fb\u690d\u6838\u5fc3\u5957\u4ef6\uff1a\u8de8 AI agent \u5e73\u53f0\u7684\u4efb\u52a1\u7f16\u6392 CLI\uff08\u4e8b\u4ef6\u6eaf\u6e90 + \u6587\u4ef6\u9501 + DAG \u5c31\u7eea\u6c60 + \u4e24\u9636\u6bb5\u5ba1\u67e5\uff09",
-    "id": "7bder/orchd-core",
-    "language": "Python",
-    "name": "7bder/orchd-core",
-    "stars": 0,
-    "updated_at": "2026-08-18T18:35:24Z",
-    "url": "https://github.com/7bder/orchd-core"
   }
 ]
