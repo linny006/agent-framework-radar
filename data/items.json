@@ -1,11 +1,83 @@
 [
   {
+    "description": "Durable, typed multi-agent framework for Go.",
+    "id": "Viking602/venat",
+    "language": "Go",
+    "name": "Viking602/venat",
+    "stars": 1,
+    "updated_at": "2026-08-18T08:14:18Z",
+    "url": "https://github.com/Viking602/venat"
+  },
+  {
+    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
+    "id": "use-brian/use-brian",
+    "language": "TypeScript",
+    "name": "use-brian/use-brian",
+    "stars": 22,
+    "updated_at": "2026-08-18T08:12:35Z",
+    "url": "https://github.com/use-brian/use-brian"
+  },
+  {
+    "description": "An agent runtime designed for tool-driven loop engineering.",
+    "id": "wxhcore/bumblehive",
+    "language": "Python",
+    "name": "wxhcore/bumblehive",
+    "stars": 9,
+    "updated_at": "2026-08-18T08:07:16Z",
+    "url": "https://github.com/wxhcore/bumblehive"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4474,
+    "updated_at": "2026-08-18T08:13:34Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 139,
+    "updated_at": "2026-08-18T08:05:20Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Open-source infrastructure for AI agents to collaborate - registry, A2A communication, task pool, payments",
+    "id": "acnlabs/ACN",
+    "language": "Python",
+    "name": "acnlabs/ACN",
+    "stars": 2,
+    "updated_at": "2026-08-18T08:04:59Z",
+    "url": "https://github.com/acnlabs/ACN"
+  },
+  {
+    "description": "A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684 AI \u56e2\u961f\u3002",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-08-18T08:02:56Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1149,
+    "updated_at": "2026-08-18T08:02:44Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-18T08:00:27Z",
+    "updated_at": "2026-08-18T08:00:51Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -41,7 +113,7 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2255,
-    "updated_at": "2026-08-18T07:55:07Z",
+    "updated_at": "2026-08-18T08:15:14Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
@@ -61,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T07:51:35Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "An agent runtime designed for tool-driven loop engineering.",
-    "id": "wxhcore/bumblehive",
-    "language": "Python",
-    "name": "wxhcore/bumblehive",
-    "stars": 9,
-    "updated_at": "2026-08-18T07:49:32Z",
-    "url": "https://github.com/wxhcore/bumblehive"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -103,7 +166,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34725,
+    "stars": 34727,
     "updated_at": "2026-08-18T07:46:06Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -148,7 +211,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47124,
+    "stars": 47125,
     "updated_at": "2026-08-18T07:42:56Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -162,21 +225,12 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4474,
-    "updated_at": "2026-08-18T07:56:13Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-18T07:38:00Z",
+    "updated_at": "2026-08-18T08:14:15Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -279,15 +333,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "The most Token-efficient open-source AI Agent",
-    "id": "clacky-ai/openclacky",
-    "language": "Ruby",
-    "name": "clacky-ai/openclacky",
-    "stars": 1149,
-    "updated_at": "2026-08-18T07:30:26Z",
-    "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-18T07:23:38Z",
+    "updated_at": "2026-08-18T08:07:25Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19360,
-    "updated_at": "2026-08-18T07:19:27Z",
+    "updated_at": "2026-08-18T08:14:57Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-18T06:42:45Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 349,
-    "updated_at": "2026-08-18T06:42:02Z",
-    "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1304,
-    "updated_at": "2026-08-18T07:45:41Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 138,
-    "updated_at": "2026-08-18T06:37:02Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 1,
-    "updated_at": "2026-08-18T06:33:18Z",
-    "url": "https://github.com/ludex-lab/ludex"
-  },
-  {
-    "description": "Durable, typed multi-agent framework for Go.",
-    "id": "Viking602/venat",
-    "language": "Go",
-    "name": "Viking602/venat",
-    "stars": 1,
-    "updated_at": "2026-08-18T07:51:19Z",
-    "url": "https://github.com/Viking602/venat"
   }
 ]
