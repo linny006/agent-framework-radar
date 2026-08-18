@@ -1,12 +1,21 @@
 [
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 13,
+    "updated_at": "2026-08-18T02:44:41Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
     "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-18T02:32:28Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-18T02:44:06Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "The control plane for AI coding agents.",
@@ -14,8 +23,44 @@
     "language": "TypeScript",
     "name": "codeaholicguy/ai-devkit",
     "stars": 1580,
-    "updated_at": "2026-08-18T02:31:57Z",
+    "updated_at": "2026-08-18T02:42:26Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Portable YAML agents for TypeScript and Python, with embedded execution, hosted APIs, evals, traces, and durable memory.",
+    "id": "aparry3/agntz",
+    "language": "TypeScript",
+    "name": "aparry3/agntz",
+    "stars": 1,
+    "updated_at": "2026-08-18T02:37:27Z",
+    "url": "https://github.com/aparry3/agntz"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 149,
+    "updated_at": "2026-08-18T02:39:57Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T02:32:56Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 30,
+    "updated_at": "2026-08-18T02:32:28Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "\u77e5\u672b\u667a\u4e91 \u00b7 Agent \u7f16\u6392\u3001\u5ba1\u6279\u4e0e\u5de5\u5177\u6267\u884c\u5de5\u4f5c\u53f0",
@@ -34,15 +79,6 @@
     "stars": 54,
     "updated_at": "2026-08-18T02:31:07Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T02:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -81,15 +117,6 @@
     "url": "https://github.com/ludex-lab/ludex"
   },
   {
-    "description": "Portable YAML agents for TypeScript and Python, with embedded execution, hosted APIs, evals, traces, and durable memory.",
-    "id": "aparry3/agntz",
-    "language": "TypeScript",
-    "name": "aparry3/agntz",
-    "stars": 1,
-    "updated_at": "2026-08-18T02:31:15Z",
-    "url": "https://github.com/aparry3/agntz"
-  },
-  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
@@ -126,12 +153,21 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
+    "description": "Metaorcha \u2014 many models, one harness. Apache 2.0 runtime for multi-protocol agent orchestration: one goal in, a verified",
+    "id": "solvent-labs-org/metaorcha",
+    "language": "Python",
+    "name": "solvent-labs-org/metaorcha",
+    "stars": 2,
+    "updated_at": "2026-08-18T02:17:22Z",
+    "url": "https://github.com/solvent-labs-org/metaorcha"
+  },
+  {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
     "id": "kungfu-systems/kungfu",
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4473,
-    "updated_at": "2026-08-18T02:17:40Z",
+    "updated_at": "2026-08-18T02:44:51Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -144,20 +180,11 @@
     "url": "https://github.com/Muse2688/Fullspace"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-18T02:23:33Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12858,
+    "stars": 12859,
     "updated_at": "2026-08-18T02:15:06Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -189,21 +216,12 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Many models. One harness. Apache 2.0 runtime for multi-protocol agent orchestration: one goal in, a verified multi-agent",
-    "id": "solvent-labs-org/metaorcha",
-    "language": "Python",
-    "name": "solvent-labs-org/metaorcha",
-    "stars": 2,
-    "updated_at": "2026-08-18T02:17:22Z",
-    "url": "https://github.com/solvent-labs-org/metaorcha"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 127,
-    "updated_at": "2026-08-18T02:09:08Z",
+    "updated_at": "2026-08-18T02:42:47Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -324,15 +342,6 @@
     "url": "https://github.com/enthrium/open-enthrium-ai-platform"
   },
   {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 148,
-    "updated_at": "2026-08-18T02:28:25Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-18T01:20:44Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
-    "id": "daniel06s6995/deepseek-harness-software-OPC",
-    "language": "JavaScript",
-    "name": "daniel06s6995/deepseek-harness-software-OPC",
-    "stars": 0,
-    "updated_at": "2026-08-18T01:19:33Z",
-    "url": "https://github.com/daniel06s6995/deepseek-harness-software-OPC"
   }
 ]
