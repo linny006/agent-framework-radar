@@ -1,12 +1,21 @@
 [
   {
-    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
-    "id": "SmooAI/smooth-operator",
+    "description": "Capable coding agents on local Ollama models \u2014 including the small ones. Task-based model routing, tolerant tool-call pa",
+    "id": "CaYatur/cayadev-ai-hub",
     "language": "Rust",
-    "name": "SmooAI/smooth-operator",
-    "stars": 0,
-    "updated_at": "2026-08-18T19:37:42Z",
-    "url": "https://github.com/SmooAI/smooth-operator"
+    "name": "CaYatur/cayadev-ai-hub",
+    "stars": 1,
+    "updated_at": "2026-08-18T19:45:06Z",
+    "url": "https://github.com/CaYatur/cayadev-ai-hub"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 42,
+    "updated_at": "2026-08-18T19:42:20Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-18T19:37:59Z",
+    "updated_at": "2026-08-18T19:44:34Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
+    "id": "SmooAI/smooth-operator",
+    "language": "Rust",
+    "name": "SmooAI/smooth-operator",
+    "stars": 0,
+    "updated_at": "2026-08-18T19:44:51Z",
+    "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "zlatko-lakisic/agentic-orchestration",
     "stars": 3,
-    "updated_at": "2026-08-18T19:32:39Z",
+    "updated_at": "2026-08-18T19:38:45Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   },
   {
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-18T19:30:25Z",
+    "updated_at": "2026-08-18T19:38:14Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -158,7 +176,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4481,
-    "updated_at": "2026-08-18T19:38:10Z",
+    "updated_at": "2026-08-18T19:43:37Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -166,7 +184,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34773,
+    "stars": 34774,
     "updated_at": "2026-08-18T19:17:57Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -212,7 +230,7 @@
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-08-18T19:03:25Z",
+    "updated_at": "2026-08-18T19:40:01Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T19:07:39Z",
     "url": "https://github.com/Ash20pk/BerthOS"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 42,
-    "updated_at": "2026-08-18T18:58:20Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
@@ -392,7 +401,7 @@
     "language": "TypeScript",
     "name": "sweatco/archie-hq",
     "stars": 16,
-    "updated_at": "2026-08-18T19:24:03Z",
+    "updated_at": "2026-08-18T19:42:33Z",
     "url": "https://github.com/sweatco/archie-hq"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T17:18:11Z",
     "url": "https://github.com/EzyGang/ovid-core"
-  },
-  {
-    "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
-    "id": "zerovia/be-a-lucky-block-hub",
-    "language": "HTML",
-    "name": "zerovia/be-a-lucky-block-hub",
-    "stars": 0,
-    "updated_at": "2026-08-18T17:16:05Z",
-    "url": "https://github.com/zerovia/be-a-lucky-block-hub"
   }
 ]
