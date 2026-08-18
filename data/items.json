@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T20:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-18T20:45:14Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 52,
+    "updated_at": "2026-08-18T20:45:11Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-18T20:44:14Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
     "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
     "id": "SparkElf/deepseek-harness-plus",
     "language": "TypeScript",
@@ -63,15 +99,6 @@
     "url": "https://github.com/aeonfun/aeon"
   },
   {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-18T20:45:14Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
@@ -97,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-08-18T20:31:30Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T20:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -216,15 +234,6 @@
     "url": "https://github.com/code0-tech/cadtopo"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 52,
-    "updated_at": "2026-08-18T20:45:11Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -239,7 +248,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4481,
-    "updated_at": "2026-08-18T20:41:11Z",
+    "updated_at": "2026-08-18T20:46:11Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 13,
     "updated_at": "2026-08-18T17:25:55Z",
     "url": "https://github.com/we-are-singular/aml"
-  },
-  {
-    "description": "See what every plugin puts into the model.",
-    "id": "KinomotoMio/dsh-context-lens",
-    "language": "TypeScript",
-    "name": "KinomotoMio/dsh-context-lens",
-    "stars": 2,
-    "updated_at": "2026-08-18T19:36:07Z",
-    "url": "https://github.com/KinomotoMio/dsh-context-lens"
   }
 ]
