@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-19T19:44:23Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 7,
+    "updated_at": "2026-08-19T19:56:20Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Self-hosted multi-agent framework (AGPL-3.0). Mirror of canonical Forgejo repo.",
+    "id": "merryshelly/openalpheus",
+    "language": "Python",
+    "name": "merryshelly/openalpheus",
+    "stars": 3,
+    "updated_at": "2026-08-19T19:55:52Z",
+    "url": "https://github.com/merryshelly/openalpheus"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -14,17 +23,80 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 6044,
-    "updated_at": "2026-08-19T19:42:07Z",
+    "updated_at": "2026-08-19T19:56:16Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 252,
+    "updated_at": "2026-08-19T19:50:32Z",
+    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12961,
-    "updated_at": "2026-08-19T19:41:57Z",
+    "stars": 12962,
+    "updated_at": "2026-08-19T19:49:58Z",
     "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
+    "id": "proteus-evolve/Proteus",
+    "language": "Python",
+    "name": "proteus-evolve/Proteus",
+    "stars": 5,
+    "updated_at": "2026-08-19T19:49:04Z",
+    "url": "https://github.com/proteus-evolve/Proteus"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6955,
+    "updated_at": "2026-08-19T19:46:52Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 122,
+    "updated_at": "2026-08-19T19:45:49Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T19:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1797,
+    "updated_at": "2026-08-19T19:44:45Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-19T19:44:23Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9059,
-    "updated_at": "2026-08-19T19:43:04Z",
+    "updated_at": "2026-08-19T19:54:19Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -79,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T19:36:48Z",
     "url": "https://github.com/aayushman-singh/hydraclaim"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T19:36:06Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
@@ -136,12 +199,12 @@
   },
   {
     "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
-    "id": "PiloTracer/.ai",
+    "id": "PiloTracer/pilo.ai.logicbison",
     "language": "Shell",
-    "name": "PiloTracer/.ai",
+    "name": "PiloTracer/pilo.ai.logicbison",
     "stars": 0,
     "updated_at": "2026-08-19T19:24:14Z",
-    "url": "https://github.com/PiloTracer/.ai"
+    "url": "https://github.com/PiloTracer/pilo.ai.logicbison"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -185,7 +248,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1309,
-    "updated_at": "2026-08-19T19:20:54Z",
+    "updated_at": "2026-08-19T19:56:42Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -234,15 +297,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 7,
-    "updated_at": "2026-08-19T19:39:11Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
     "id": "Ash20pk/BerthOS",
     "language": "TypeScript",
@@ -283,7 +337,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34867,
+    "stars": 34868,
     "updated_at": "2026-08-19T18:59:48Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -302,7 +356,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 1,
-    "updated_at": "2026-08-19T18:50:05Z",
+    "updated_at": "2026-08-19T19:52:33Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -351,15 +405,6 @@
     "url": "https://github.com/microphage-create/microwave-method"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 122,
-    "updated_at": "2026-08-19T19:31:55Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
     "id": "aomi-labs/aomi",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 30,
     "updated_at": "2026-08-19T18:29:42Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
-    "id": "SmooAI/smooth-operator",
-    "language": "Rust",
-    "name": "SmooAI/smooth-operator",
-    "stars": 0,
-    "updated_at": "2026-08-19T18:19:42Z",
-    "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
-    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
-    "id": "usetheokit/theokit",
-    "language": "TypeScript",
-    "name": "usetheokit/theokit",
-    "stars": 0,
-    "updated_at": "2026-08-19T18:17:02Z",
-    "url": "https://github.com/usetheokit/theokit"
-  },
-  {
-    "description": "LangGraph+FastAPI\u901a\u7528Agent\u6846\u67b6\uff1a\u4e94\u8282\u70b9\u5de5\u4f5c\u6d41\u3001\u4e09\u5c42\u8bb0\u5fc6\u3001\u4e3b\u4ece\u591a\u667a\u80fd\u4f53",
-    "id": "xiaohe9/react-agent-platform",
-    "language": "Python",
-    "name": "xiaohe9/react-agent-platform",
-    "stars": 0,
-    "updated_at": "2026-08-19T18:09:32Z",
-    "url": "https://github.com/xiaohe9/react-agent-platform"
-  },
-  {
-    "description": "AutoGen Studio is a low-code / no-code developer GUI from Microsoft Research for rapidly prototyping, composing, and deb",
-    "id": "api-evangelist/autogen-studio",
-    "language": "\u2014",
-    "name": "api-evangelist/autogen-studio",
-    "stars": 0,
-    "updated_at": "2026-08-19T18:08:20Z",
-    "url": "https://github.com/api-evangelist/autogen-studio"
-  },
-  {
-    "description": "Open source Golang LLM Proxy, Agent SDK with Restate & Temporal support for durable agent loop",
-    "id": "hastekit/agent-sdk-go",
-    "language": "Go",
-    "name": "hastekit/agent-sdk-go",
-    "stars": 12,
-    "updated_at": "2026-08-19T18:05:22Z",
-    "url": "https://github.com/hastekit/agent-sdk-go"
   }
 ]
