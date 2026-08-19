@@ -1,5 +1,131 @@
 [
   {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-08-19T12:41:31Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
+    "id": "qmilab/asterism",
+    "language": "TypeScript",
+    "name": "qmilab/asterism",
+    "stars": 2,
+    "updated_at": "2026-08-19T12:41:32Z",
+    "url": "https://github.com/qmilab/asterism"
+  },
+  {
+    "description": "From ticket to reviewed pull request. Free and open-source, on your machine.",
+    "id": "no-human-ai/no_human",
+    "language": "Python",
+    "name": "no-human-ai/no_human",
+    "stars": 3,
+    "updated_at": "2026-08-19T12:40:54Z",
+    "url": "https://github.com/no-human-ai/no_human"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-19T12:40:42Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
+    "id": "SparkElf/deepseek-harness-plus",
+    "language": "TypeScript",
+    "name": "SparkElf/deepseek-harness-plus",
+    "stars": 2,
+    "updated_at": "2026-08-19T12:40:25Z",
+    "url": "https://github.com/SparkElf/deepseek-harness-plus"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-08-19T12:38:04Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-19T12:33:47Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:33:39Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "HydraClaim turns agent memory into a temporal claim graph: every fact is a claim with provenance and a validity window, ",
+    "id": "aayushman-singh/hydraclaim",
+    "language": "Python",
+    "name": "aayushman-singh/hydraclaim",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:32:43Z",
+    "url": "https://github.com/aayushman-singh/hydraclaim"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9044,
+    "updated_at": "2026-08-19T12:32:09Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83e\udd16 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
+    "id": "agentjido/jido",
+    "language": "Elixir",
+    "name": "agentjido/jido",
+    "stars": 1807,
+    "updated_at": "2026-08-19T12:31:26Z",
+    "url": "https://github.com/agentjido/jido"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 159,
+    "updated_at": "2026-08-19T12:44:21Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T12:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The control plane for AI coding agents.",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1583,
+    "updated_at": "2026-08-19T12:43:36Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
     "description": "Agent Knowledge Cube \u2014 \u4e09\u7ef4\u77e5\u8bc6\u7ea6\u675f\u6846\u67b6: \u89d2\u8272(X) \u00d7 \u5de5\u4f5c\u6d41(Y) \u00d7 \u77e5\u8bc6\u5e93(Z)\uff0c\u8ba9AI Agent\u5728\u7ed3\u6784\u5316\u8fb9\u754c\u5185\u5404\u53f8\u5176\u804c",
     "id": "Focus688/agent-knowledge-cube",
     "language": "Python",
@@ -77,26 +203,8 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6953,
-    "updated_at": "2026-08-19T12:15:45Z",
+    "updated_at": "2026-08-19T12:36:15Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "HydraClaim turns agent memory into a temporal claim graph: every fact is a claim with provenance and a validity window, ",
-    "id": "aayushman-singh/hydraclaim",
-    "language": "Python",
-    "name": "aayushman-singh/hydraclaim",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:15:36Z",
-    "url": "https://github.com/aayushman-singh/hydraclaim"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T12:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -113,7 +221,7 @@
     "language": "Python",
     "name": "AetherAI3/Nano",
     "stars": 4,
-    "updated_at": "2026-08-19T12:09:46Z",
+    "updated_at": "2026-08-19T12:44:32Z",
     "url": "https://github.com/AetherAI3/Nano"
   },
   {
@@ -151,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T12:00:13Z",
     "url": "https://github.com/api-evangelist/autogen-studio"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-19T11:55:31Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -270,15 +369,6 @@
     "url": "https://github.com/NumericalArt/Pritha"
   },
   {
-    "description": "From ticket to reviewed pull request. Free and open-source, on your machine.",
-    "id": "no-human-ai/no_human",
-    "language": "Python",
-    "name": "no-human-ai/no_human",
-    "stars": 3,
-    "updated_at": "2026-08-19T11:23:56Z",
-    "url": "https://github.com/no-human-ai/no_human"
-  },
-  {
     "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
     "id": "ayman3000/SwiftAgentKit",
     "language": "Swift",
@@ -293,17 +383,8 @@
     "language": "HTML",
     "name": "LovaHuguel/Khala-Orchestrator-Core",
     "stars": 1,
-    "updated_at": "2026-08-19T11:23:07Z",
+    "updated_at": "2026-08-19T12:42:53Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-08-19T11:22:32Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   },
   {
     "description": "Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible;",
@@ -333,33 +414,6 @@
     "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
   },
   {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-19T11:20:42Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-19T11:19:25Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-19T11:19:21Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
     "description": "Contemplative Agent (CA) \u2014 an autonomous agent that carries an explicit, human-editable constitution and amends it. Ever",
     "id": "shimo4228/contemplative-agent",
     "language": "Python",
@@ -387,66 +441,12 @@
     "url": "https://github.com/shimo4228/agent-knowledge-cycle"
   },
   {
-    "description": "A local-first runtime for running many distinct agents \u2014 each with its own memory, secrets, skills, workspace, and auton",
-    "id": "qmilab/asterism",
-    "language": "TypeScript",
-    "name": "qmilab/asterism",
-    "stars": 2,
-    "updated_at": "2026-08-19T12:22:25Z",
-    "url": "https://github.com/qmilab/asterism"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12916,
+    "stars": 12917,
     "updated_at": "2026-08-19T11:14:19Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Build portable AI agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 93,
-    "updated_at": "2026-08-19T11:10:16Z",
-    "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 16,
-    "updated_at": "2026-08-19T11:13:25Z",
-    "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 3,
-    "updated_at": "2026-08-19T11:09:18Z",
-    "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "SDK de c\u00f3digo abierto en Python para el patr\u00f3n Backend for Agents (BFA), extendido como un servidor de enrutamiento din\u00e1",
-    "id": "IRC-A/bfa-sdk",
-    "language": "Python",
-    "name": "IRC-A/bfa-sdk",
-    "stars": 1,
-    "updated_at": "2026-08-19T11:08:08Z",
-    "url": "https://github.com/IRC-A/bfa-sdk"
-  },
-  {
-    "description": "Timeline memory for DeepSeek Harness (dsh): append-only fact log + agent-maintained summary pyramid, fixed reading budge",
-    "id": "33moren33/dsh-memory-pyramid",
-    "language": "JavaScript",
-    "name": "33moren33/dsh-memory-pyramid",
-    "stars": 1,
-    "updated_at": "2026-08-19T11:07:46Z",
-    "url": "https://github.com/33moren33/dsh-memory-pyramid"
   }
 ]
