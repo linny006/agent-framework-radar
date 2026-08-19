@@ -1,5 +1,59 @@
 [
   {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-19T14:58:39Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1158,
+    "updated_at": "2026-08-19T14:56:59Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 42,
+    "updated_at": "2026-08-19T14:55:46Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Deterministic decision rules for AI agents and trading systems. Plain-text rules in, auditable decisions out \u2014 the same ",
+    "id": "AetherAI3/Nano",
+    "language": "Python",
+    "name": "AetherAI3/Nano",
+    "stars": 4,
+    "updated_at": "2026-08-19T14:55:31Z",
+    "url": "https://github.com/AetherAI3/Nano"
+  },
+  {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "JavaScript",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 4,
+    "updated_at": "2026-08-19T14:52:14Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T14:50:57Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -9,13 +63,13 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T14:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2256,
+    "updated_at": "2026-08-19T14:44:30Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "orchd \u5f15\u64ce\u6700\u5c0f\u53ef\u79fb\u690d\u6838\u5fc3\u5957\u4ef6\uff1a\u8de8 AI agent \u5e73\u53f0\u7684\u4efb\u52a1\u7f16\u6392 CLI\uff08\u4e8b\u4ef6\u6eaf\u6e90 + \u6587\u4ef6\u9501 + DAG \u5c31\u7eea\u6c60 + \u4e24\u9636\u6bb5\u5ba1\u67e5\uff09",
@@ -25,6 +79,24 @@
     "stars": 0,
     "updated_at": "2026-08-19T14:43:27Z",
     "url": "https://github.com/7bder/orchd-core"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 486,
+    "updated_at": "2026-08-19T14:43:18Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "\u901a\u7528 Agent \u751f\u957f\u6846\u67b6\uff1a\u4e8b\u4ef6\u91c7\u96c6 \u2192 \u4fe1\u53f7\u68c0\u6d4b \u2192 \u53cd\u9988\u8ffd\u8e2a \u2192 \u6a21\u5f0f\u63d0\u53d6 \u2192 \u4fe1\u5ff5\u5f71\u54cd\u3002\u914d\u7f6e\u9a71\u52a8\u3001\u96f6\u786c\u7f16\u7801\u4eba\u683c\u3001\u96f6\u81ea\u52a8 LLM \u6210\u672c\u3002\u7075\u9b42/\u9aa8\u67b6\u5206\u79bb\u67b6\u6784\u3002",
+    "id": "pardofelis013/PUW-agent-growth-system",
+    "language": "Python",
+    "name": "pardofelis013/PUW-agent-growth-system",
+    "stars": 1,
+    "updated_at": "2026-08-19T14:42:08Z",
+    "url": "https://github.com/pardofelis013/PUW-agent-growth-system"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -43,6 +115,15 @@
     "stars": 10,
     "updated_at": "2026-08-19T14:37:08Z",
     "url": "https://github.com/AmritaBot/AmritaCore"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-19T14:35:36Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "From ticket to reviewed pull request. Free and open-source, on your machine.",
@@ -167,7 +248,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-19T14:46:25Z",
+    "updated_at": "2026-08-19T14:58:25Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -216,6 +297,15 @@
     "url": "https://github.com/streamcoreai/streamcore-server"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9046,
+    "updated_at": "2026-08-19T14:20:53Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
     "id": "tuanductran/soulmap-ai",
     "language": "Python",
@@ -252,15 +342,6 @@
     "url": "https://github.com/achappey/aihappey-agents"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 42,
-    "updated_at": "2026-08-19T14:09:05Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
     "id": "jiabaobei/skills-constitution",
     "language": "Python",
@@ -288,15 +369,6 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9045,
-    "updated_at": "2026-08-19T14:20:53Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
     "id": "ahwurm/localharness",
     "language": "Python",
@@ -322,15 +394,6 @@
     "stars": 1151,
     "updated_at": "2026-08-19T13:56:46Z",
     "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-19T14:35:36Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "AI-native desktop command center built on top of DeepSeek Harness",
@@ -365,7 +428,7 @@
     "language": "TypeScript",
     "name": "Carrara-Labs/delta-harness",
     "stars": 0,
-    "updated_at": "2026-08-19T14:39:46Z",
+    "updated_at": "2026-08-19T14:59:16Z",
     "url": "https://github.com/Carrara-Labs/delta-harness"
   },
   {
@@ -382,71 +445,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34855,
+    "stars": 34856,
     "updated_at": "2026-08-19T13:33:33Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26253,
-    "updated_at": "2026-08-19T14:28:17Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-19T13:08:25Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-19T14:49:31Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47174,
-    "updated_at": "2026-08-19T13:05:15Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 10,
-    "updated_at": "2026-08-19T14:23:46Z",
-    "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 3,
-    "updated_at": "2026-08-19T13:04:09Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4485,
-    "updated_at": "2026-08-19T14:33:47Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
   }
 ]
