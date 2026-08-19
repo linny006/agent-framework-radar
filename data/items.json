@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T19:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -115,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T18:45:40Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T18:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -410,7 +410,7 @@
     "language": "TypeScript",
     "name": "KinomotoMio/dsh-context-lens",
     "stars": 2,
-    "updated_at": "2026-08-19T18:58:39Z",
+    "updated_at": "2026-08-19T19:00:45Z",
     "url": "https://github.com/KinomotoMio/dsh-context-lens"
   },
   {

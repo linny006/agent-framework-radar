@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 19:00 UTC
+> ⏰ Last updated: 2026-08-19 19:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ljchang/mecha](https://github.com/ljchang/mecha) | 4 | Rust | 2026-08-19 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 2 | [no-human-ai/no_human](https://github.com/no-human-ai/no_human) | 6 | Python | 2026-08-19 | From ticket to reviewed pull request. Free and open-source, on your machine. |
-| 3 | [aayushman-singh/hydraclaim](https://github.com/aayushman-singh/hydraclaim) | 0 | Python | 2026-08-19 | HydraClaim turns agent memory into a temporal claim graph: every fact is a claim with provenance and a validity window,  |
-| 4 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-08-19 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 5 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9057 | Python | 2026-08-19 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 6 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 20 | TypeScript | 2026-08-19 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
-| 7 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 42 | HTML | 2026-08-19 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
-| 8 | [GEMISIS/leviath](https://github.com/GEMISIS/leviath) | 1 | Rust | 2026-08-19 | A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single  |
-| 9 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-08-19 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 10 | [codeaholicguy/ai-devkit](https://github.com/codeaholicguy/ai-devkit) | 1584 | TypeScript | 2026-08-19 | The control plane for AI coding agents. |
-| 11 | [tuanductran/soulmap-ai](https://github.com/tuanductran/soulmap-ai) | 2 | Python | 2026-08-19 | SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t |
-| 12 | [sattyamjjain/ferrumdeck](https://github.com/sattyamjjain/ferrumdeck) | 7 | TypeScript | 2026-08-19 | AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an |
-| 13 | [vgp7758/Agt](https://github.com/vgp7758/Agt) | 1 | Python | 2026-08-19 | An AI agent framework that builds itself — multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w |
-| 14 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-19 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-19 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [ljchang/mecha](https://github.com/ljchang/mecha) | 4 | Rust | 2026-08-19 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 3 | [no-human-ai/no_human](https://github.com/no-human-ai/no_human) | 6 | Python | 2026-08-19 | From ticket to reviewed pull request. Free and open-source, on your machine. |
+| 4 | [aayushman-singh/hydraclaim](https://github.com/aayushman-singh/hydraclaim) | 0 | Python | 2026-08-19 | HydraClaim turns agent memory into a temporal claim graph: every fact is a claim with provenance and a validity window,  |
+| 5 | [tya5/reyn](https://github.com/tya5/reyn) | 7 | Python | 2026-08-19 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 6 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9057 | Python | 2026-08-19 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 7 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 20 | TypeScript | 2026-08-19 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
+| 8 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 42 | HTML | 2026-08-19 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
+| 9 | [GEMISIS/leviath](https://github.com/GEMISIS/leviath) | 1 | Rust | 2026-08-19 | A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single  |
+| 10 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-08-19 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 11 | [codeaholicguy/ai-devkit](https://github.com/codeaholicguy/ai-devkit) | 1584 | TypeScript | 2026-08-19 | The control plane for AI coding agents. |
+| 12 | [tuanductran/soulmap-ai](https://github.com/tuanductran/soulmap-ai) | 2 | Python | 2026-08-19 | SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t |
+| 13 | [sattyamjjain/ferrumdeck](https://github.com/sattyamjjain/ferrumdeck) | 7 | TypeScript | 2026-08-19 | AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an |
+| 14 | [vgp7758/Agt](https://github.com/vgp7758/Agt) | 1 | Python | 2026-08-19 | An AI agent framework that builds itself — multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w |
 | 15 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-19 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
 | 16 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 19396 | Python | 2026-08-19 | How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end |
 | 17 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 34868 | Go | 2026-08-19 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
