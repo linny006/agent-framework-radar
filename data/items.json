@@ -1,12 +1,12 @@
 [
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
+    "description": "Deterministic decision rules for AI agents and trading systems. Plain-text rules in, auditable decisions out \u2014 the same ",
+    "id": "AetherAI3/Nano",
     "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6951,
-    "updated_at": "2026-08-19T11:59:40Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "name": "AetherAI3/Nano",
+    "stars": 4,
+    "updated_at": "2026-08-19T12:09:46Z",
+    "url": "https://github.com/AetherAI3/Nano"
   },
   {
     "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
@@ -14,8 +14,17 @@
     "language": "Rust",
     "name": "mmeyerlein/meclaw",
     "stars": 9,
-    "updated_at": "2026-08-19T11:55:57Z",
+    "updated_at": "2026-08-19T12:08:46Z",
     "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-19T12:08:45Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "A flexible, modularized and easy-to-use agent framework.",
@@ -23,8 +32,44 @@
     "language": "Rust",
     "name": "dynamder/funera",
     "stars": 3,
-    "updated_at": "2026-08-19T11:59:57Z",
+    "updated_at": "2026-08-19T12:05:23Z",
     "url": "https://github.com/dynamder/funera"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-19T12:02:40Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6952,
+    "updated_at": "2026-08-19T12:02:14Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T12:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AutoGen Studio is a low-code / no-code developer GUI from Microsoft Research for rapidly prototyping, composing, and deb",
+    "id": "api-evangelist/autogen-studio",
+    "language": "\u2014",
+    "name": "api-evangelist/autogen-studio",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:00:13Z",
+    "url": "https://github.com/api-evangelist/autogen-studio"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -34,24 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T11:55:31Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Deterministic decision rules for AI agents and trading systems. Plain-text rules in, auditable decisions out \u2014 the same ",
-    "id": "AetherAI3/Nano",
-    "language": "Python",
-    "name": "AetherAI3/Nano",
-    "stars": 4,
-    "updated_at": "2026-08-19T11:51:51Z",
-    "url": "https://github.com/AetherAI3/Nano"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T11:47:56Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -88,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-08-19T11:43:16Z",
     "url": "https://github.com/shipiit/shipit_agent"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-19T11:42:34Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -311,7 +329,7 @@
     "language": "TypeScript",
     "name": "qmilab/asterism",
     "stars": 2,
-    "updated_at": "2026-08-19T11:15:07Z",
+    "updated_at": "2026-08-19T12:13:54Z",
     "url": "https://github.com/qmilab/asterism"
   },
   {
@@ -319,7 +337,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12915,
+    "stars": 12916,
     "updated_at": "2026-08-19T11:14:19Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -391,7 +409,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19387,
+    "stars": 19389,
     "updated_at": "2026-08-19T11:05:35Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-19T11:36:07Z",
     "url": "https://github.com/zkysar1/Claude-Mind"
-  },
-  {
-    "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
-    "id": "0xUrsanomics/utopia-os",
-    "language": "Python",
-    "name": "0xUrsanomics/utopia-os",
-    "stars": 2,
-    "updated_at": "2026-08-19T10:57:54Z",
-    "url": "https://github.com/0xUrsanomics/utopia-os"
-  },
-  {
-    "description": "AgentDeck SDK  Agentic software should feel like software. Build agents, tools and workflows as normal software. AgentDe",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 2,
-    "updated_at": "2026-08-19T10:55:03Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
   }
 ]
