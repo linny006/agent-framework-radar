@@ -1,5 +1,113 @@
 [
   {
+    "description": "Deterministic decision rules for AI agents and trading systems. Plain-text rules in, auditable decisions out \u2014 the same ",
+    "id": "AetherAI3/Nano",
+    "language": "Python",
+    "name": "AetherAI3/Nano",
+    "stars": 4,
+    "updated_at": "2026-08-19T11:44:00Z",
+    "url": "https://github.com/AetherAI3/Nano"
+  },
+  {
+    "description": "A curated, opinionated set of OpenCode plugins for spec-first, review-driven, safer agentic development.",
+    "id": "osovv/vv-opencode",
+    "language": "TypeScript",
+    "name": "osovv/vv-opencode",
+    "stars": 11,
+    "updated_at": "2026-08-19T11:43:58Z",
+    "url": "https://github.com/osovv/vv-opencode"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-19T11:42:34Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 42,
+    "updated_at": "2026-08-19T11:42:15Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Define AI agent roles in YAML and run them anywhere: CLI, API server, or autonomous daemon",
+    "id": "vladkesler/initrunner",
+    "language": "Python",
+    "name": "vladkesler/initrunner",
+    "stars": 41,
+    "updated_at": "2026-08-19T11:40:46Z",
+    "url": "https://github.com/vladkesler/initrunner"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-08-19T11:34:27Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-19T11:34:01Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-08-19T11:33:36Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "",
+    "id": "himhhh/dsh-side-tasks",
+    "language": "JavaScript",
+    "name": "himhhh/dsh-side-tasks",
+    "stars": 0,
+    "updated_at": "2026-08-19T11:32:31Z",
+    "url": "https://github.com/himhhh/dsh-side-tasks"
+  },
+  {
+    "description": "A flexible, modularized and easy-to-use agent framework.",
+    "id": "dynamder/funera",
+    "language": "Rust",
+    "name": "dynamder/funera",
+    "stars": 3,
+    "updated_at": "2026-08-19T11:45:07Z",
+    "url": "https://github.com/dynamder/funera"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T11:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 3,
+    "updated_at": "2026-08-19T11:30:22Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
     "description": "An open-source Digital Worker platform for reliable execution, continuous co-evolution, and building Enterprise AI asset",
     "id": "microsoft/Sico",
     "language": "TypeScript",
@@ -18,13 +126,13 @@
     "url": "https://github.com/mmeyerlein/meclaw"
   },
   {
-    "description": "A curated, opinionated set of OpenCode plugins for spec-first, review-driven, safer agentic development.",
-    "id": "osovv/vv-opencode",
-    "language": "TypeScript",
-    "name": "osovv/vv-opencode",
-    "stars": 11,
-    "updated_at": "2026-08-19T11:29:44Z",
-    "url": "https://github.com/osovv/vv-opencode"
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1151,
+    "updated_at": "2026-08-19T11:28:56Z",
+    "url": "https://github.com/clacky-ai/openclacky"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -36,15 +144,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "A flexible, modularized and easy-to-use agent framework.",
-    "id": "dynamder/funera",
-    "language": "Rust",
-    "name": "dynamder/funera",
-    "stars": 3,
-    "updated_at": "2026-08-19T11:27:06Z",
-    "url": "https://github.com/dynamder/funera"
-  },
-  {
     "description": "Local-first, Codex-native agent foundry and knowledge OS for creating reviewed, testable specialist AI agents.",
     "id": "NumericalArt/Pritha",
     "language": "JavaScript",
@@ -52,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-08-19T11:25:58Z",
     "url": "https://github.com/NumericalArt/Pritha"
-  },
-  {
-    "description": "",
-    "id": "himhhh/dsh-side-tasks",
-    "language": "JavaScript",
-    "name": "himhhh/dsh-side-tasks",
-    "stars": 0,
-    "updated_at": "2026-08-19T11:24:07Z",
-    "url": "https://github.com/himhhh/dsh-side-tasks"
   },
   {
     "description": "From ticket to reviewed pull request. Free and open-source, on your machine.",
@@ -162,15 +252,6 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T11:18:02Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Task-agnostic Planner\u2013Specialist\u2013Evaluator (PSE) agent framework powered by CrewAI. Register tasks under tasks/ to run v",
     "id": "erishen/crewai-pse",
     "language": "Python",
@@ -230,24 +311,15 @@
     "language": "Python",
     "name": "shipiit/shipit_agent",
     "stars": 3,
-    "updated_at": "2026-08-19T11:12:00Z",
+    "updated_at": "2026-08-19T11:43:16Z",
     "url": "https://github.com/shipiit/shipit_agent"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-19T11:11:29Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Build portable AI agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring",
     "id": "pqpo/pragma",
     "language": "TypeScript",
     "name": "pqpo/pragma",
-    "stars": 92,
+    "stars": 93,
     "updated_at": "2026-08-19T11:10:16Z",
     "url": "https://github.com/pqpo/pragma"
   },
@@ -306,15 +378,6 @@
     "url": "https://github.com/streamcoreai/streamcore-server"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-19T11:02:11Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
     "id": "pereirawe/opencode-flow",
     "language": "Shell",
@@ -338,7 +401,7 @@
     "language": "Python",
     "name": "zkysar1/Claude-Mind",
     "stars": 5,
-    "updated_at": "2026-08-19T10:58:08Z",
+    "updated_at": "2026-08-19T11:36:07Z",
     "url": "https://github.com/zkysar1/Claude-Mind"
   },
   {
@@ -364,7 +427,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47169,
+    "stars": 47170,
     "updated_at": "2026-08-19T10:54:57Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -385,68 +448,5 @@
     "stars": 1309,
     "updated_at": "2026-08-19T11:07:05Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-08-19T10:48:47Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 42,
-    "updated_at": "2026-08-19T10:48:00Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 52,
-    "updated_at": "2026-08-19T10:46:16Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Capable coding agents on local Ollama models \u2014 including the small ones. Task-based model routing, tolerant tool-call pa",
-    "id": "CaYatur/cayadev-ai-hub",
-    "language": "Rust",
-    "name": "CaYatur/cayadev-ai-hub",
-    "stars": 1,
-    "updated_at": "2026-08-19T10:41:54Z",
-    "url": "https://github.com/CaYatur/cayadev-ai-hub"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34839,
-    "updated_at": "2026-08-19T10:40:27Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "See what every plugin puts into the model.",
-    "id": "KinomotoMio/dsh-context-lens",
-    "language": "TypeScript",
-    "name": "KinomotoMio/dsh-context-lens",
-    "stars": 2,
-    "updated_at": "2026-08-19T10:35:05Z",
-    "url": "https://github.com/KinomotoMio/dsh-context-lens"
-  },
-  {
-    "description": "Agentic LLM shell aimed at low cost GPUs",
-    "id": "chrisws/nitro",
-    "language": "C++",
-    "name": "chrisws/nitro",
-    "stars": 1,
-    "updated_at": "2026-08-19T10:32:06Z",
-    "url": "https://github.com/chrisws/nitro"
   }
 ]
