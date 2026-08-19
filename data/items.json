@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T23:44:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
     "id": "telus-labs/stagecraft",
     "language": "JavaScript",
@@ -99,15 +108,6 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T23:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
@@ -185,7 +185,7 @@
     "language": "Python",
     "name": "andrexibiza/darkloom",
     "stars": 4,
-    "updated_at": "2026-08-19T23:36:07Z",
+    "updated_at": "2026-08-19T23:45:08Z",
     "url": "https://github.com/andrexibiza/darkloom"
   },
   {
@@ -311,7 +311,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 174,
-    "updated_at": "2026-08-19T23:40:56Z",
+    "updated_at": "2026-08-19T23:45:02Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
