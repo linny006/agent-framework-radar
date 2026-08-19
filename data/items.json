@@ -1,21 +1,39 @@
 [
   {
-    "description": "Typed application contracts, runtime policy, and adapters for building Pydantic AI agents.",
-    "id": "EzyGang/ovid-core",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
     "language": "Python",
-    "name": "EzyGang/ovid-core",
-    "stars": 0,
-    "updated_at": "2026-08-19T11:45:53Z",
-    "url": "https://github.com/EzyGang/ovid-core"
+    "name": "strands-agents/harness-sdk",
+    "stars": 6951,
+    "updated_at": "2026-08-19T11:59:40Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
+    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 9,
+    "updated_at": "2026-08-19T11:55:57Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "A flexible, modularized and easy-to-use agent framework.",
+    "id": "dynamder/funera",
+    "language": "Rust",
+    "name": "dynamder/funera",
     "stars": 3,
-    "updated_at": "2026-08-19T11:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "updated_at": "2026-08-19T11:59:57Z",
+    "url": "https://github.com/dynamder/funera"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-19T11:55:31Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Deterministic decision rules for AI agents and trading systems. Plain-text rules in, auditable decisions out \u2014 the same ",
@@ -23,8 +41,35 @@
     "language": "Python",
     "name": "AetherAI3/Nano",
     "stars": 4,
-    "updated_at": "2026-08-19T11:46:56Z",
+    "updated_at": "2026-08-19T11:51:51Z",
     "url": "https://github.com/AetherAI3/Nano"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T11:47:56Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-08-19T11:46:22Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Typed application contracts, runtime policy, and adapters for building Pydantic AI agents.",
+    "id": "EzyGang/ovid-core",
+    "language": "Python",
+    "name": "EzyGang/ovid-core",
+    "stars": 0,
+    "updated_at": "2026-08-19T11:45:53Z",
+    "url": "https://github.com/EzyGang/ovid-core"
   },
   {
     "description": "A curated, opinionated set of OpenCode plugins for spec-first, review-driven, safer agentic development.",
@@ -81,15 +126,6 @@
     "url": "https://github.com/go-steer/mast"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-19T11:34:01Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
@@ -108,15 +144,6 @@
     "url": "https://github.com/himhhh/dsh-side-tasks"
   },
   {
-    "description": "A flexible, modularized and easy-to-use agent framework.",
-    "id": "dynamder/funera",
-    "language": "Rust",
-    "name": "dynamder/funera",
-    "stars": 3,
-    "updated_at": "2026-08-19T11:45:07Z",
-    "url": "https://github.com/dynamder/funera"
-  },
-  {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
     "id": "kyashrathore/Claxedo",
     "language": "TypeScript",
@@ -133,15 +160,6 @@
     "stars": 182,
     "updated_at": "2026-08-19T11:29:40Z",
     "url": "https://github.com/microsoft/Sico"
-  },
-  {
-    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 9,
-    "updated_at": "2026-08-19T11:29:04Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
   },
   {
     "description": "The most Token-efficient open-source AI Agent",
@@ -211,7 +229,7 @@
     "id": "openma-ai/open-managed-agents",
     "language": "TypeScript",
     "name": "openma-ai/open-managed-agents",
-    "stars": 239,
+    "stars": 240,
     "updated_at": "2026-08-19T11:21:47Z",
     "url": "https://github.com/openma-ai/open-managed-agents"
   },
@@ -301,7 +319,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12913,
+    "stars": 12915,
     "updated_at": "2026-08-19T11:14:19Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -373,7 +391,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19386,
+    "stars": 19387,
     "updated_at": "2026-08-19T11:05:35Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-19T10:55:03Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47170,
-    "updated_at": "2026-08-19T10:54:57Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 416,
-    "updated_at": "2026-08-19T10:53:19Z",
-    "url": "https://github.com/GizClaw/flowcraft"
   }
 ]
