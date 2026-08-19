@@ -1,12 +1,66 @@
 [
   {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-19T19:44:23Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 6044,
+    "updated_at": "2026-08-19T19:42:07Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12961,
+    "updated_at": "2026-08-19T19:41:57Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 42,
+    "updated_at": "2026-08-19T19:41:33Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9058,
-    "updated_at": "2026-08-19T19:34:41Z",
+    "stars": 9059,
+    "updated_at": "2026-08-19T19:43:04Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-19T19:39:13Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Claude Code plugin for React Native \u2014 explores codebases, designs architecture, implements features, and verifies live o",
+    "id": "Lykhoyda/rn-dev-agent",
+    "language": "TypeScript",
+    "name": "Lykhoyda/rn-dev-agent",
+    "stars": 10,
+    "updated_at": "2026-08-19T19:39:36Z",
+    "url": "https://github.com/Lykhoyda/rn-dev-agent"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -14,8 +68,17 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 52,
-    "updated_at": "2026-08-19T19:35:07Z",
+    "updated_at": "2026-08-19T19:44:36Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "HydraClaim turns agent memory into a temporal claim graph: every fact is a claim with provenance and a validity window, ",
+    "id": "aayushman-singh/hydraclaim",
+    "language": "Python",
+    "name": "aayushman-singh/hydraclaim",
+    "stars": 0,
+    "updated_at": "2026-08-19T19:36:48Z",
+    "url": "https://github.com/aayushman-singh/hydraclaim"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -23,8 +86,26 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-19T19:30:27Z",
+    "updated_at": "2026-08-19T19:36:06Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-08-19T19:41:55Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 21,
+    "updated_at": "2026-08-19T19:33:44Z",
+    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "From ticket to reviewed pull request. Free and open-source, on your machine.",
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T19:28:38Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12960,
-    "updated_at": "2026-08-19T19:28:28Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
@@ -144,15 +216,6 @@
     "url": "https://github.com/brunogcar/agent"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-19T19:16:35Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-19T19:31:08Z",
+    "updated_at": "2026-08-19T19:39:11Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -198,15 +261,6 @@
     "url": "https://github.com/rapidaai/voice-ai"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-19T19:11:08Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -220,7 +274,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19397,
+    "stars": 19398,
     "updated_at": "2026-08-19T18:59:59Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -234,15 +288,6 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "HydraClaim turns agent memory into a temporal claim graph: every fact is a claim with provenance and a validity window, ",
-    "id": "aayushman-singh/hydraclaim",
-    "language": "Python",
-    "name": "aayushman-singh/hydraclaim",
-    "stars": 0,
-    "updated_at": "2026-08-19T18:59:32Z",
-    "url": "https://github.com/aayushman-singh/hydraclaim"
-  },
-  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
@@ -250,15 +295,6 @@
     "stars": 20,
     "updated_at": "2026-08-19T18:55:43Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 42,
-    "updated_at": "2026-08-19T18:55:17Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -329,7 +365,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 10,
-    "updated_at": "2026-08-19T18:34:11Z",
+    "updated_at": "2026-08-19T19:42:49Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 12,
     "updated_at": "2026-08-19T18:05:22Z",
     "url": "https://github.com/hastekit/agent-sdk-go"
-  },
-  {
-    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
-    "id": "Thepizzapie/BuildersGate",
-    "language": "Python",
-    "name": "Thepizzapie/BuildersGate",
-    "stars": 21,
-    "updated_at": "2026-08-19T18:01:41Z",
-    "url": "https://github.com/Thepizzapie/BuildersGate"
-  },
-  {
-    "description": "Multi-Agent Reasoning Systems",
-    "id": "rezaho/MARSYS",
-    "language": "Python",
-    "name": "rezaho/MARSYS",
-    "stars": 23,
-    "updated_at": "2026-08-19T17:58:12Z",
-    "url": "https://github.com/rezaho/MARSYS"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47179,
-    "updated_at": "2026-08-19T17:53:48Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "A from-scratch Python agent harness: tool orchestration, multi-agent routing, session lifecycle, event-driven hooks, and",
-    "id": "Alear030/Alear030",
-    "language": "Python",
-    "name": "Alear030/Alear030",
-    "stars": 0,
-    "updated_at": "2026-08-19T17:53:27Z",
-    "url": "https://github.com/Alear030/Alear030"
   }
 ]
