@@ -1,11 +1,65 @@
 [
   {
+    "description": "Give Claude Code a persistent mind: an autonomous agent framework that sets its own goals, forms predictions, and learns",
+    "id": "zkysar1/Claude-Mind",
+    "language": "Python",
+    "name": "zkysar1/Claude-Mind",
+    "stars": 5,
+    "updated_at": "2026-08-19T10:58:08Z",
+    "url": "https://github.com/zkysar1/Claude-Mind"
+  },
+  {
+    "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
+    "id": "0xUrsanomics/utopia-os",
+    "language": "Python",
+    "name": "0xUrsanomics/utopia-os",
+    "stars": 2,
+    "updated_at": "2026-08-19T10:57:54Z",
+    "url": "https://github.com/0xUrsanomics/utopia-os"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 3,
+    "updated_at": "2026-08-19T10:57:19Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "AgentDeck SDK  Agentic software should feel like software. Build agents, tools and workflows as normal software. AgentDe",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 0,
+    "updated_at": "2026-08-19T10:55:03Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T10:53:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 416,
+    "updated_at": "2026-08-19T10:53:19Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1309,
-    "updated_at": "2026-08-19T10:52:42Z",
+    "updated_at": "2026-08-19T10:55:25Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -36,15 +90,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "An open framework for a persistent, self-regulating AI operations system on a coding-agent CLI: tiered memory + SSOT, se",
-    "id": "0xUrsanomics/utopia-os",
-    "language": "Python",
-    "name": "0xUrsanomics/utopia-os",
-    "stars": 2,
-    "updated_at": "2026-08-19T10:46:52Z",
-    "url": "https://github.com/0xUrsanomics/utopia-os"
-  },
-  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
@@ -52,15 +97,6 @@
     "stars": 52,
     "updated_at": "2026-08-19T10:46:16Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T10:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Capable coding agents on local Ollama models \u2014 including the small ones. Task-based model routing, tolerant tool-call pa",
@@ -85,7 +121,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34838,
+    "stars": 34839,
     "updated_at": "2026-08-19T10:40:27Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47168,
-    "updated_at": "2026-08-19T10:40:21Z",
+    "updated_at": "2026-08-19T10:54:57Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12913,
-    "updated_at": "2026-08-19T10:48:29Z",
+    "updated_at": "2026-08-19T10:54:12Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T10:35:05Z",
     "url": "https://github.com/KinomotoMio/dsh-context-lens"
-  },
-  {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 416,
-    "updated_at": "2026-08-19T10:53:19Z",
-    "url": "https://github.com/GizClaw/flowcraft"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -160,15 +187,6 @@
     "stars": 52,
     "updated_at": "2026-08-19T10:30:52Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "AgentDeck SDK  Agentic software should feel like software. Build agents, tools and workflows as normal software. AgentDe",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 0,
-    "updated_at": "2026-08-19T10:38:50Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
     "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
@@ -430,23 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-19T09:25:26Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "PRAXOVELA (formerly AxisRobo Agent): a governable, local-first desktop agent runtime for AI execution. Deny by default, ",
-    "id": "axisrobo/praxovela-open",
-    "language": "Go",
-    "name": "axisrobo/praxovela-open",
-    "stars": 2,
-    "updated_at": "2026-08-19T09:21:38Z",
-    "url": "https://github.com/axisrobo/praxovela-open"
-  },
-  {
-    "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
-    "id": "CogKnowEdge-Solutions/Orchestration",
-    "language": "Jupyter Notebook",
-    "name": "CogKnowEdge-Solutions/Orchestration",
-    "stars": 0,
-    "updated_at": "2026-08-19T09:20:47Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
   }
 ]
