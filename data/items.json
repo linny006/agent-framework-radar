@@ -1,12 +1,93 @@
 [
   {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-19T02:14:50Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-19T02:14:46Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 12,
+    "updated_at": "2026-08-19T02:13:41Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 122,
+    "updated_at": "2026-08-19T02:13:11Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
     "description": "MCP server providing coding standards, skills, and workflows for AI agents",
     "id": "JunMystery/Agent-Guidance-Rust",
     "language": "Rust",
     "name": "JunMystery/Agent-Guidance-Rust",
     "stars": 0,
-    "updated_at": "2026-08-19T01:59:35Z",
+    "updated_at": "2026-08-19T02:11:20Z",
     "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-19T02:10:09Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-19T02:09:59Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34791,
+    "updated_at": "2026-08-19T02:08:48Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "DSPy Go implementation",
+    "id": "XiaoConstantine/dspy-go",
+    "language": "Go",
+    "name": "XiaoConstantine/dspy-go",
+    "stars": 193,
+    "updated_at": "2026-08-19T02:10:05Z",
+    "url": "https://github.com/XiaoConstantine/dspy-go"
+  },
+  {
+    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
+    "id": "rundesk-ai/rundesk-cli",
+    "language": "Python",
+    "name": "rundesk-ai/rundesk-cli",
+    "stars": 3,
+    "updated_at": "2026-08-19T02:05:24Z",
+    "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -14,17 +95,17 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 52,
-    "updated_at": "2026-08-19T02:00:10Z",
+    "updated_at": "2026-08-19T02:04:23Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34786,
-    "updated_at": "2026-08-19T01:58:13Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T02:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -63,15 +144,6 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T01:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build portable AI agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring",
     "id": "pqpo/pragma",
     "language": "TypeScript",
@@ -81,12 +153,21 @@
     "url": "https://github.com/pqpo/pragma"
   },
   {
+    "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
+    "id": "ranxi2001/zero2Agent",
+    "language": "HTML",
+    "name": "ranxi2001/zero2Agent",
+    "stars": 270,
+    "updated_at": "2026-08-19T01:35:03Z",
+    "url": "https://github.com/ranxi2001/zero2Agent"
+  },
+  {
     "description": "Open-source alternative to Claude Cowork \u2014 a local-first AI agent desktop app \u00b7 multi-model \u00b7 self-evolving skills \u00b7 pri",
     "id": "PM-Shawn/Abu-Cowork",
     "language": "TypeScript",
     "name": "PM-Shawn/Abu-Cowork",
     "stars": 335,
-    "updated_at": "2026-08-19T01:42:49Z",
+    "updated_at": "2026-08-19T02:04:08Z",
     "url": "https://github.com/PM-Shawn/Abu-Cowork"
   },
   {
@@ -171,15 +252,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 122,
-    "updated_at": "2026-08-19T01:09:42Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "AI agent with zero dependencies, bring your own bun",
     "id": "devoidfury/hotdog",
     "language": "TypeScript",
@@ -229,27 +301,9 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12880,
+    "stars": 12882,
     "updated_at": "2026-08-19T00:58:38Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
-    "id": "rundesk-ai/rundesk-cli",
-    "language": "Python",
-    "name": "rundesk-ai/rundesk-cli",
-    "stars": 3,
-    "updated_at": "2026-08-19T01:57:48Z",
-    "url": "https://github.com/rundesk-ai/rundesk-cli"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:53:33Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
     "description": "Governance-driven AI development framework -- convention enforcement, quality gates, and domain expertise for Claude Cod",
@@ -259,15 +313,6 @@
     "stars": 17,
     "updated_at": "2026-08-19T00:53:21Z",
     "url": "https://github.com/rfxn/rdf"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:53:12Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -311,7 +356,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-19T01:59:06Z",
+    "updated_at": "2026-08-19T02:05:47Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -360,15 +405,6 @@
     "url": "https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub"
   },
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:32:35Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
     "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
     "id": "zerovia/be-a-lucky-block-hub",
     "language": "HTML",
@@ -385,15 +421,6 @@
     "stars": 21,
     "updated_at": "2026-08-19T00:32:19Z",
     "url": "https://github.com/Thepizzapie/BuildersGate"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-19T00:32:07Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-19T00:28:33Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:27:31Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-08-19T00:27:29Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:26:55Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
   }
 ]
