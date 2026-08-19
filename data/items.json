@@ -1,5 +1,77 @@
 [
   {
+    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
+    "id": "substructureai/substructure",
+    "language": "Rust",
+    "name": "substructureai/substructure",
+    "stars": 5,
+    "updated_at": "2026-08-19T05:50:10Z",
+    "url": "https://github.com/substructureai/substructure"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-19T05:49:37Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
+    "id": "use-brian/use-brian",
+    "language": "TypeScript",
+    "name": "use-brian/use-brian",
+    "stars": 22,
+    "updated_at": "2026-08-19T05:48:36Z",
+    "url": "https://github.com/use-brian/use-brian"
+  },
+  {
+    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 9,
+    "updated_at": "2026-08-19T05:48:20Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 42,
+    "updated_at": "2026-08-19T05:48:02Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Open-Source AI research workbench with scientific agents for reproducible research and discovery. ",
+    "id": "aipoch/open-science",
+    "language": "TypeScript",
+    "name": "aipoch/open-science",
+    "stars": 2819,
+    "updated_at": "2026-08-19T05:53:14Z",
+    "url": "https://github.com/aipoch/open-science"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T05:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9037,
+    "updated_at": "2026-08-19T05:44:30Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "High-performance async AI companion/agent core with hybrid Python + C++ scheduler. Features long-term memory, emotional ",
     "id": "hakituo/xiaoyou-core",
     "language": "Python",
@@ -50,7 +122,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 21,
-    "updated_at": "2026-08-19T05:35:14Z",
+    "updated_at": "2026-08-19T05:50:00Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -70,24 +142,6 @@
     "stars": 30,
     "updated_at": "2026-08-19T05:33:21Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Open-Source AI research workbench with scientific agents for reproducible research and discovery. ",
-    "id": "aipoch/open-science",
-    "language": "TypeScript",
-    "name": "aipoch/open-science",
-    "stars": 2816,
-    "updated_at": "2026-08-19T05:30:42Z",
-    "url": "https://github.com/aipoch/open-science"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T05:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
@@ -176,17 +230,8 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 0,
-    "updated_at": "2026-08-19T05:24:25Z",
+    "updated_at": "2026-08-19T05:51:01Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
-    "description": "Substructure is an open-source engine that drives your agent loop with JSON webhooks. It keeps sessions durable and stre",
-    "id": "substructureai/substructure",
-    "language": "Rust",
-    "name": "substructureai/substructure",
-    "stars": 5,
-    "updated_at": "2026-08-19T05:21:20Z",
-    "url": "https://github.com/substructureai/substructure"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -214,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T05:18:33Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-19T05:16:18Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -297,15 +333,6 @@
     "url": "https://github.com/songyang0603/dsh-open-deep-research"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 42,
-    "updated_at": "2026-08-19T04:53:47Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -324,20 +351,11 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9037,
-    "updated_at": "2026-08-19T05:44:30Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12894,
+    "stars": 12895,
     "updated_at": "2026-08-19T04:43:19Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -346,7 +364,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 153,
+    "stars": 154,
     "updated_at": "2026-08-19T04:36:36Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -376,6 +394,15 @@
     "stars": 6946,
     "updated_at": "2026-08-19T04:18:53Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6792,
+    "updated_at": "2026-08-19T04:18:29Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
@@ -421,32 +448,5 @@
     "stars": 4895,
     "updated_at": "2026-08-19T04:04:54Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-08-19T04:03:14Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1158,
-    "updated_at": "2026-08-19T04:02:44Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
-    "id": "yichen14/Proteus",
-    "language": "Python",
-    "name": "yichen14/Proteus",
-    "stars": 2,
-    "updated_at": "2026-08-19T04:02:25Z",
-    "url": "https://github.com/yichen14/Proteus"
   }
 ]
