@@ -1,5 +1,32 @@
 [
   {
+    "description": "Open-source CMA-compatible agent runtime for any model, with MCP tools, sandboxed sessions, audit, replay, and a local c",
+    "id": "sandbaseai/sandbase-harness",
+    "language": "TypeScript",
+    "name": "sandbaseai/sandbase-harness",
+    "stars": 623,
+    "updated_at": "2026-08-19T22:48:26Z",
+    "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
+    "id": "proteus-evolve/Proteus",
+    "language": "Python",
+    "name": "proteus-evolve/Proteus",
+    "stars": 6,
+    "updated_at": "2026-08-19T22:47:22Z",
+    "url": "https://github.com/proteus-evolve/Proteus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T22:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -63,15 +90,6 @@
     "url": "https://github.com/andrexibiza/darkloom"
   },
   {
-    "description": "Open-source CMA-compatible agent runtime for any model, with MCP tools, sandboxed sessions, audit, replay, and a local c",
-    "id": "sandbaseai/sandbase-harness",
-    "language": "TypeScript",
-    "name": "sandbaseai/sandbase-harness",
-    "stars": 623,
-    "updated_at": "2026-08-19T22:35:12Z",
-    "url": "https://github.com/sandbaseai/sandbase-harness"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -113,17 +131,8 @@
     "language": "Python",
     "name": "AetherAI3/Nano",
     "stars": 4,
-    "updated_at": "2026-08-19T22:30:30Z",
+    "updated_at": "2026-08-19T22:47:16Z",
     "url": "https://github.com/AetherAI3/Nano"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T22:30:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19399,
-    "updated_at": "2026-08-19T22:34:46Z",
+    "updated_at": "2026-08-19T22:48:03Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -214,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-08-19T22:14:03Z",
     "url": "https://github.com/agoradynamics/wick"
-  },
-  {
-    "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
-    "id": "proteus-evolve/Proteus",
-    "language": "Python",
-    "name": "proteus-evolve/Proteus",
-    "stars": 6,
-    "updated_at": "2026-08-19T22:12:47Z",
-    "url": "https://github.com/proteus-evolve/Proteus"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -293,7 +293,7 @@
     "language": "Rust",
     "name": "SmooAI/smooth-operator",
     "stars": 0,
-    "updated_at": "2026-08-19T22:03:59Z",
+    "updated_at": "2026-08-19T22:46:45Z",
     "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
