@@ -1,12 +1,84 @@
 [
   {
+    "description": "PRAXOVELA (formerly AxisRobo Agent): a governable, local-first desktop agent runtime for AI execution. Deny by default, ",
+    "id": "axisrobo/praxovela-open",
+    "language": "Go",
+    "name": "axisrobo/praxovela-open",
+    "stars": 2,
+    "updated_at": "2026-08-19T09:21:38Z",
+    "url": "https://github.com/axisrobo/praxovela-open"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-19T09:21:05Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-19T09:21:01Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
     "id": "CogKnowEdge-Solutions/Orchestration",
     "language": "Jupyter Notebook",
     "name": "CogKnowEdge-Solutions/Orchestration",
     "stars": 0,
-    "updated_at": "2026-08-19T09:11:05Z",
+    "updated_at": "2026-08-19T09:20:47Z",
     "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26252,
+    "updated_at": "2026-08-19T09:16:05Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T09:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1308,
+    "updated_at": "2026-08-19T09:25:46Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
+    "id": "Carrara-Labs/delta-harness",
+    "language": "TypeScript",
+    "name": "Carrara-Labs/delta-harness",
+    "stars": 0,
+    "updated_at": "2026-08-19T09:24:54Z",
+    "url": "https://github.com/Carrara-Labs/delta-harness"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1158,
+    "updated_at": "2026-08-19T09:11:17Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
     "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 0,
-    "updated_at": "2026-08-19T09:09:39Z",
+    "updated_at": "2026-08-19T09:19:20Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -34,15 +106,6 @@
     "stars": 6,
     "updated_at": "2026-08-19T09:08:07Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26252,
-    "updated_at": "2026-08-19T09:10:51Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
@@ -70,24 +133,6 @@
     "stars": 52,
     "updated_at": "2026-08-19T09:04:07Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
-    "id": "Carrara-Labs/delta-harness",
-    "language": "TypeScript",
-    "name": "Carrara-Labs/delta-harness",
-    "stars": 0,
-    "updated_at": "2026-08-19T09:13:08Z",
-    "url": "https://github.com/Carrara-Labs/delta-harness"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T09:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -293,7 +338,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 0,
-    "updated_at": "2026-08-19T08:28:31Z",
+    "updated_at": "2026-08-19T09:23:25Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 122,
-    "updated_at": "2026-08-19T08:28:18Z",
+    "updated_at": "2026-08-19T09:20:01Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -324,29 +369,11 @@
     "url": "https://github.com/mmeyerlein/meclaw"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-19T08:21:55Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-19T08:21:50Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34829,
+    "stars": 34831,
     "updated_at": "2026-08-19T08:19:10Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -374,17 +401,8 @@
     "language": "Python",
     "name": "rllm-org/rllm",
     "stars": 5791,
-    "updated_at": "2026-08-19T09:13:38Z",
+    "updated_at": "2026-08-19T09:18:23Z",
     "url": "https://github.com/rllm-org/rllm"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1308,
-    "updated_at": "2026-08-19T09:15:08Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "The control plane for AI coding agents.",
@@ -428,25 +446,7 @@
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 11,
-    "updated_at": "2026-08-19T07:48:03Z",
+    "updated_at": "2026-08-19T09:25:26Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
-    "id": "sweatco/archie-hq",
-    "language": "TypeScript",
-    "name": "sweatco/archie-hq",
-    "stars": 16,
-    "updated_at": "2026-08-19T07:47:51Z",
-    "url": "https://github.com/sweatco/archie-hq"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-08-19T07:41:51Z",
-    "url": "https://github.com/ggui-ai/ggui"
   }
 ]
