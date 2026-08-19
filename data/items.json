@@ -1,12 +1,57 @@
 [
   {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
+    "description": "Microwave Method: agent factory + governed LLM wiki. Heavy pass once per agent, light pass per feature. Context is cooke",
+    "id": "microphage-create/microwave-method",
+    "language": "Python",
+    "name": "microphage-create/microwave-method",
+    "stars": 0,
+    "updated_at": "2026-08-19T20:44:24Z",
+    "url": "https://github.com/microphage-create/microwave-method"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-08-19T20:44:37Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
     "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 10,
-    "updated_at": "2026-08-19T20:27:50Z",
-    "url": "https://github.com/aomi-labs/aomi"
+    "name": "aeonfun/aeon",
+    "stars": 676,
+    "updated_at": "2026-08-19T20:42:36Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9059,
+    "updated_at": "2026-08-19T20:41:01Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-19T20:39:43Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
+    "id": "proteus-evolve/Proteus",
+    "language": "Python",
+    "name": "proteus-evolve/Proteus",
+    "stars": 6,
+    "updated_at": "2026-08-19T20:39:33Z",
+    "url": "https://github.com/proteus-evolve/Proteus"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -14,8 +59,62 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 252,
-    "updated_at": "2026-08-19T20:26:56Z",
+    "updated_at": "2026-08-19T20:44:21Z",
     "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 6044,
+    "updated_at": "2026-08-19T20:43:30Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Deterministic decision rules for AI agents and trading systems. Plain-text rules in, auditable decisions out \u2014 the same ",
+    "id": "AetherAI3/Nano",
+    "language": "Python",
+    "name": "AetherAI3/Nano",
+    "stars": 4,
+    "updated_at": "2026-08-19T20:35:40Z",
+    "url": "https://github.com/AetherAI3/Nano"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1797,
+    "updated_at": "2026-08-19T20:35:27Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-19T20:32:46Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-19T20:31:51Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T20:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -25,6 +124,15 @@
     "stars": 1,
     "updated_at": "2026-08-19T20:29:54Z",
     "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 10,
+    "updated_at": "2026-08-19T20:27:50Z",
+    "url": "https://github.com/aomi-labs/aomi"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -61,24 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T20:25:06Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
-    "id": "proteus-evolve/Proteus",
-    "language": "Python",
-    "name": "proteus-evolve/Proteus",
-    "stars": 6,
-    "updated_at": "2026-08-19T20:24:25Z",
-    "url": "https://github.com/proteus-evolve/Proteus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T20:24:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
@@ -140,7 +230,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-19T20:15:32Z",
+    "updated_at": "2026-08-19T20:42:29Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -189,42 +279,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Deterministic decision rules for AI agents and trading systems. Plain-text rules in, auditable decisions out \u2014 the same ",
-    "id": "AetherAI3/Nano",
-    "language": "Python",
-    "name": "AetherAI3/Nano",
-    "stars": 4,
-    "updated_at": "2026-08-19T20:23:57Z",
-    "url": "https://github.com/AetherAI3/Nano"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1797,
-    "updated_at": "2026-08-19T20:04:46Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-19T20:02:14Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6044,
-    "updated_at": "2026-08-19T19:58:40Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
     "id": "PiloTracer/pilo.ai.logicbison",
     "language": "Shell",
@@ -232,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T19:58:04Z",
     "url": "https://github.com/PiloTracer/pilo.ai.logicbison"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-19T19:57:54Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Self-hosted multi-agent framework (AGPL-3.0). Mirror of canonical Forgejo repo.",
@@ -266,7 +311,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 122,
-    "updated_at": "2026-08-19T19:45:49Z",
+    "updated_at": "2026-08-19T20:37:40Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -277,15 +322,6 @@
     "stars": 42,
     "updated_at": "2026-08-19T19:41:33Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9059,
-    "updated_at": "2026-08-19T20:25:10Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Claude Code plugin for React Native \u2014 explores codebases, designs architecture, implements features, and verifies live o",
@@ -302,7 +338,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 52,
-    "updated_at": "2026-08-19T20:30:22Z",
+    "updated_at": "2026-08-19T20:43:46Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -340,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T19:29:15Z",
     "url": "https://github.com/briandenicola/content-understanding-demo"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-19T19:28:38Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "Open Souls is an open-source framework and philosophy for building \"AI souls\" \u2014 agentic, embodied digital beings with pe",
@@ -421,32 +448,5 @@
     "stars": 34868,
     "updated_at": "2026-08-19T18:59:48Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "The control plane for AI coding agents.",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1584,
-    "updated_at": "2026-08-19T19:28:06Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an",
-    "id": "sattyamjjain/ferrumdeck",
-    "language": "TypeScript",
-    "name": "sattyamjjain/ferrumdeck",
-    "stars": 7,
-    "updated_at": "2026-08-19T18:47:35Z",
-    "url": "https://github.com/sattyamjjain/ferrumdeck"
-  },
-  {
-    "description": "Microwave Method: agent factory + governed LLM wiki. Heavy pass once per agent, light pass per feature. Context is cooke",
-    "id": "microphage-create/microwave-method",
-    "language": "Python",
-    "name": "microphage-create/microwave-method",
-    "stars": 0,
-    "updated_at": "2026-08-19T18:41:00Z",
-    "url": "https://github.com/microphage-create/microwave-method"
   }
 ]
