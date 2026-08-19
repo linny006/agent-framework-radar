@@ -1,11 +1,83 @@
 [
   {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 42,
+    "updated_at": "2026-08-19T08:56:44Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
+    "id": "CogKnowEdge-Solutions/Orchestration",
+    "language": "Jupyter Notebook",
+    "name": "CogKnowEdge-Solutions/Orchestration",
+    "stars": 0,
+    "updated_at": "2026-08-19T08:56:06Z",
+    "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
+  },
+  {
+    "description": "A dual-store AI memory architecture combining authoritative Git Markdown with experience memory (TDAI) for long-term AI-",
+    "id": "hczxy05/ai-memory-framework",
+    "language": "JavaScript",
+    "name": "hczxy05/ai-memory-framework",
+    "stars": 1,
+    "updated_at": "2026-08-19T08:55:15Z",
+    "url": "https://github.com/hczxy05/ai-memory-framework"
+  },
+  {
+    "description": "The long-running embedded agent",
+    "id": "crabtalk/crabtalk",
+    "language": "Rust",
+    "name": "crabtalk/crabtalk",
+    "stars": 729,
+    "updated_at": "2026-08-19T08:54:58Z",
+    "url": "https://github.com/crabtalk/crabtalk"
+  },
+  {
+    "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
+    "id": "proteus-evolve/Proteus",
+    "language": "Python",
+    "name": "proteus-evolve/Proteus",
+    "stars": 4,
+    "updated_at": "2026-08-19T08:54:03Z",
+    "url": "https://github.com/proteus-evolve/Proteus"
+  },
+  {
+    "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
+    "id": "Carrara-Labs/delta-harness",
+    "language": "TypeScript",
+    "name": "Carrara-Labs/delta-harness",
+    "stars": 0,
+    "updated_at": "2026-08-19T08:53:37Z",
+    "url": "https://github.com/Carrara-Labs/delta-harness"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9040,
+    "updated_at": "2026-08-19T08:54:11Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-19T08:55:05Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-19T08:49:28Z",
+    "updated_at": "2026-08-19T08:52:22Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -14,8 +86,17 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 2,
-    "updated_at": "2026-08-19T08:49:13Z",
+    "updated_at": "2026-08-19T08:53:24Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47165,
+    "updated_at": "2026-08-19T08:48:50Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-19T08:48:29Z",
+    "updated_at": "2026-08-19T08:56:22Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T08:48:39Z",
     "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9040,
-    "updated_at": "2026-08-19T08:44:25Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26252,
-    "updated_at": "2026-08-19T08:37:14Z",
+    "updated_at": "2026-08-19T08:53:16Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -124,15 +196,6 @@
     "stars": 119,
     "updated_at": "2026-08-19T08:34:10Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47164,
-    "updated_at": "2026-08-19T08:48:50Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -198,15 +261,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-19T08:51:29Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -214,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T08:25:05Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
-    "id": "proteus-evolve/Proteus",
-    "language": "Python",
-    "name": "proteus-evolve/Proteus",
-    "stars": 4,
-    "updated_at": "2026-08-19T08:23:06Z",
-    "url": "https://github.com/proteus-evolve/Proteus"
   },
   {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
@@ -261,15 +306,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
-    "id": "Carrara-Labs/delta-harness",
-    "language": "TypeScript",
-    "name": "Carrara-Labs/delta-harness",
-    "stars": 0,
-    "updated_at": "2026-08-19T08:21:25Z",
-    "url": "https://github.com/Carrara-Labs/delta-harness"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
@@ -284,7 +320,7 @@
     "language": "HTML",
     "name": "Rakshit64w43/agent-gateway-hub",
     "stars": 4,
-    "updated_at": "2026-08-19T08:18:53Z",
+    "updated_at": "2026-08-19T08:59:55Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
@@ -315,15 +351,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "The long-running embedded agent",
-    "id": "crabtalk/crabtalk",
-    "language": "Rust",
-    "name": "crabtalk/crabtalk",
-    "stars": 729,
-    "updated_at": "2026-08-19T08:40:19Z",
-    "url": "https://github.com/crabtalk/crabtalk"
-  },
-  {
     "description": "Democratizing Reinforcement Learning for LLMs",
     "id": "rllm-org/rllm",
     "language": "Python",
@@ -338,7 +365,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1308,
-    "updated_at": "2026-08-19T08:51:08Z",
+    "updated_at": "2026-08-19T08:59:37Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -349,15 +376,6 @@
     "stars": 1581,
     "updated_at": "2026-08-19T07:56:18Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 42,
-    "updated_at": "2026-08-19T07:55:30Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
@@ -414,15 +432,6 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "A dual-store AI memory architecture combining authoritative Git Markdown with experience memory (TDAI) for long-term AI-",
-    "id": "hczxy05/ai-memory-framework",
-    "language": "JavaScript",
-    "name": "hczxy05/ai-memory-framework",
-    "stars": 1,
-    "updated_at": "2026-08-19T07:40:32Z",
-    "url": "https://github.com/hczxy05/ai-memory-framework"
-  },
-  {
     "description": "Company Is a Word. \u4e00\u53e5\u8bdd\u5f00\u4e00\u5bb6AI\u516c\u53f8 - open-source multi-agent orchestration framework for non-developers. \u5c0f\u767d5\u5206\u949f\u62e5\u6709\u81ea\u5df1\u7684AI\u516c\u53f8\uff0c\u53efDIY\u4efb",
     "id": "yyyy231209/ai-company-framework",
     "language": "PowerShell",
@@ -439,14 +448,5 @@
     "stars": 4899,
     "updated_at": "2026-08-19T07:35:33Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "AgentDeck SDK \u2014 a production runtime and composition layer for AI agents. Agents, workflows, skills and MCP tools as sma",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 0,
-    "updated_at": "2026-08-19T07:35:07Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
   }
 ]
