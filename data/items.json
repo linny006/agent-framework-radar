@@ -1,5 +1,68 @@
 [
   {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 20,
+    "updated_at": "2026-08-19T19:59:08Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-19T19:58:50Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 6044,
+    "updated_at": "2026-08-19T19:58:40Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Deterministic decision rules for AI agents and trading systems. Plain-text rules in, auditable decisions out \u2014 the same ",
+    "id": "AetherAI3/Nano",
+    "language": "Python",
+    "name": "AetherAI3/Nano",
+    "stars": 4,
+    "updated_at": "2026-08-19T19:58:14Z",
+    "url": "https://github.com/AetherAI3/Nano"
+  },
+  {
+    "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
+    "id": "PiloTracer/pilo.ai.logicbison",
+    "language": "Shell",
+    "name": "PiloTracer/pilo.ai.logicbison",
+    "stars": 0,
+    "updated_at": "2026-08-19T19:58:04Z",
+    "url": "https://github.com/PiloTracer/pilo.ai.logicbison"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-19T19:57:54Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T19:57:17Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-08-19T19:55:52Z",
     "url": "https://github.com/merryshelly/openalpheus"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6044,
-    "updated_at": "2026-08-19T19:56:16Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -49,7 +103,7 @@
     "id": "proteus-evolve/Proteus",
     "language": "Python",
     "name": "proteus-evolve/Proteus",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-08-19T19:49:04Z",
     "url": "https://github.com/proteus-evolve/Proteus"
   },
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6955,
-    "updated_at": "2026-08-19T19:46:52Z",
+    "updated_at": "2026-08-19T19:59:36Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 122,
     "updated_at": "2026-08-19T19:45:49Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T19:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -115,15 +160,6 @@
     "stars": 9059,
     "updated_at": "2026-08-19T19:54:19Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-19T19:39:13Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Claude Code plugin for React Native \u2014 explores codebases, designs architecture, implements features, and verifies live o",
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T19:28:38Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
-    "id": "PiloTracer/pilo.ai.logicbison",
-    "language": "Shell",
-    "name": "PiloTracer/pilo.ai.logicbison",
-    "stars": 0,
-    "updated_at": "2026-08-19T19:24:14Z",
-    "url": "https://github.com/PiloTracer/pilo.ai.logicbison"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -342,21 +369,12 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-08-19T18:55:43Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 1,
-    "updated_at": "2026-08-19T19:52:33Z",
+    "updated_at": "2026-08-19T19:59:15Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -385,15 +403,6 @@
     "stars": 7,
     "updated_at": "2026-08-19T18:47:35Z",
     "url": "https://github.com/sattyamjjain/ferrumdeck"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-19T18:45:40Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "Microwave Method: agent factory + governed LLM wiki. Heavy pass once per agent, light pass per feature. Context is cooke",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T18:30:20Z",
     "url": "https://github.com/AgentsHarness/capri-fe"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-19T18:29:42Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
