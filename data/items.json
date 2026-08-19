@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 0,
-    "updated_at": "2026-08-19T09:54:21Z",
+    "updated_at": "2026-08-19T09:58:44Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 12911,
+    "updated_at": "2026-08-19T09:58:17Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T09:56:49Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34835,
+    "updated_at": "2026-08-19T09:56:37Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
+    "id": "Carrara-Labs/delta-harness",
+    "language": "TypeScript",
+    "name": "Carrara-Labs/delta-harness",
+    "stars": 0,
+    "updated_at": "2026-08-19T09:59:21Z",
+    "url": "https://github.com/Carrara-Labs/delta-harness"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -16,15 +52,6 @@
     "stars": 42,
     "updated_at": "2026-08-19T09:51:20Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34834,
-    "updated_at": "2026-08-19T09:56:37Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -54,24 +81,6 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T09:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
-    "id": "Carrara-Labs/delta-harness",
-    "language": "TypeScript",
-    "name": "Carrara-Labs/delta-harness",
-    "stars": 0,
-    "updated_at": "2026-08-19T09:56:20Z",
-    "url": "https://github.com/Carrara-Labs/delta-harness"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
@@ -97,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T09:43:42Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 12911,
-    "updated_at": "2026-08-19T09:43:31Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -284,7 +284,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1308,
-    "updated_at": "2026-08-19T09:53:23Z",
+    "updated_at": "2026-08-19T09:58:02Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -392,7 +392,7 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 160,
-    "updated_at": "2026-08-19T09:44:00Z",
+    "updated_at": "2026-08-19T09:58:37Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -401,7 +401,7 @@
     "language": "Go",
     "name": "go-steer/mast",
     "stars": 1,
-    "updated_at": "2026-08-19T08:41:29Z",
+    "updated_at": "2026-08-19T09:58:04Z",
     "url": "https://github.com/go-steer/mast"
   },
   {
@@ -418,7 +418,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 157,
+    "stars": 158,
     "updated_at": "2026-08-19T08:37:06Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
