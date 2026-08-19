@@ -1,5 +1,59 @@
 [
   {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-08-19T18:28:34Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 1,
+    "updated_at": "2026-08-19T18:25:18Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9056,
+    "updated_at": "2026-08-19T18:27:46Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-19T18:24:42Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Microwave Method: agent factory + governed LLM wiki. Heavy pass once per agent, light pass per feature. Context is cooke",
+    "id": "microphage-create/microwave-method",
+    "language": "Python",
+    "name": "microphage-create/microwave-method",
+    "stars": 0,
+    "updated_at": "2026-08-19T18:24:35Z",
+    "url": "https://github.com/microphage-create/microwave-method"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T18:22:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
     "id": "SmooAI/smooth-operator",
     "language": "Rust",
@@ -16,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-08-19T18:18:38Z",
     "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
+    "language": "TypeScript",
+    "name": "usetheokit/theokit",
+    "stars": 0,
+    "updated_at": "2026-08-19T18:17:02Z",
+    "url": "https://github.com/usetheokit/theokit"
   },
   {
     "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
@@ -50,17 +113,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 7,
-    "updated_at": "2026-08-19T18:15:33Z",
+    "updated_at": "2026-08-19T18:29:20Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T18:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "LangGraph+FastAPI\u901a\u7528Agent\u6846\u67b6\uff1a\u4e94\u8282\u70b9\u5de5\u4f5c\u6d41\u3001\u4e09\u5c42\u8bb0\u5fc6\u3001\u4e3b\u4ece\u591a\u667a\u80fd\u4f53",
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T18:09:32Z",
     "url": "https://github.com/xiaohe9/react-agent-platform"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9055,
-    "updated_at": "2026-08-19T18:17:04Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
@@ -113,17 +158,8 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 10,
-    "updated_at": "2026-08-19T18:08:02Z",
+    "updated_at": "2026-08-19T18:27:14Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 1,
-    "updated_at": "2026-08-19T18:17:21Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "Open source Golang LLM Proxy, Agent SDK with Restate & Temporal support for durable agent loop",
@@ -157,7 +193,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 12953,
+    "stars": 12954,
     "updated_at": "2026-08-19T18:00:26Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -248,7 +284,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 122,
-    "updated_at": "2026-08-19T17:32:52Z",
+    "updated_at": "2026-08-19T18:30:27Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -306,30 +342,12 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-19T17:22:12Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-19T17:21:07Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-19T17:20:57Z",
+    "updated_at": "2026-08-19T18:24:27Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 24,
     "updated_at": "2026-08-19T16:48:03Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "Open-source CMA-compatible agent runtime for any model, with MCP tools, sandboxed sessions, audit, replay, and a local c",
-    "id": "sandbaseai/sandbase-harness",
-    "language": "TypeScript",
-    "name": "sandbaseai/sandbase-harness",
-    "stars": 624,
-    "updated_at": "2026-08-19T16:46:08Z",
-    "url": "https://github.com/sandbaseai/sandbase-harness"
-  },
-  {
-    "description": "Agent Identity Protocol -- verifiable, delegable identity for AI agents across MCP and A2A. IETF Internet-Draft. PyPI: a",
-    "id": "sunilp/aip",
-    "language": "HTML",
-    "name": "sunilp/aip",
-    "stars": 6,
-    "updated_at": "2026-08-19T16:44:43Z",
-    "url": "https://github.com/sunilp/aip"
   }
 ]
