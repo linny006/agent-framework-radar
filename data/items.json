@@ -1,12 +1,48 @@
 [
   {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 52,
+    "updated_at": "2026-08-20T15:10:50Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-08-20T15:14:24Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6958,
+    "updated_at": "2026-08-20T15:05:30Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-20T15:00:35Z",
+    "updated_at": "2026-08-20T15:04:42Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-08-20T15:02:44Z",
+    "url": "https://github.com/dsswift/ion"
   },
   {
     "description": "DeepSeek Harness Core (DHC) \u00b7 AI \u4eba\u683c\u6838\u5fc3\u8fdb\u5316\u63d2\u4ef6 / AI personality core evolution plugin for DeepSeek Harness",
@@ -27,11 +63,20 @@
     "url": "https://github.com/Jan-Jianhao-Liu/omo-deepseek-harness"
   },
   {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5192,
+    "updated_at": "2026-08-20T14:57:01Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34925,
+    "stars": 34927,
     "updated_at": "2026-08-20T14:56:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -45,13 +90,31 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 676,
+    "updated_at": "2026-08-20T14:56:29Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
     "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
     "id": "geniusdapeng-collab/workloom-im",
     "language": "TypeScript",
     "name": "geniusdapeng-collab/workloom-im",
     "stars": 0,
-    "updated_at": "2026-08-20T14:52:13Z",
+    "updated_at": "2026-08-20T15:09:01Z",
     "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 254,
+    "updated_at": "2026-08-20T15:07:37Z",
+    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -61,6 +124,15 @@
     "stars": 20,
     "updated_at": "2026-08-20T14:51:45Z",
     "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-20T14:50:32Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -76,7 +148,7 @@
     "id": "agents-universe/agents-universe",
     "language": "Python",
     "name": "agents-universe/agents-universe",
-    "stars": 42,
+    "stars": 43,
     "updated_at": "2026-08-20T14:43:47Z",
     "url": "https://github.com/agents-universe/agents-universe"
   },
@@ -122,7 +194,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-20T15:00:47Z",
+    "updated_at": "2026-08-20T15:06:32Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -151,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-08-20T14:37:25Z",
     "url": "https://github.com/EurusDevSec/eurus-agent"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-08-20T15:01:42Z",
-    "url": "https://github.com/go-steer/mast"
   },
   {
     "description": "PurrCat Agent",
@@ -194,7 +257,7 @@
     "language": "HTML",
     "name": "qadeer-ux/oh-my-codex-remix",
     "stars": 1,
-    "updated_at": "2026-08-20T14:33:21Z",
+    "updated_at": "2026-08-20T15:07:31Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
@@ -212,7 +275,7 @@
     "language": "Python",
     "name": "no-human-ai/no_human",
     "stars": 10,
-    "updated_at": "2026-08-20T14:32:58Z",
+    "updated_at": "2026-08-20T15:14:20Z",
     "url": "https://github.com/no-human-ai/no_human"
   },
   {
@@ -232,24 +295,6 @@
     "stars": 28,
     "updated_at": "2026-08-20T14:31:34Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 676,
-    "updated_at": "2026-08-20T14:56:29Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6958,
-    "updated_at": "2026-08-20T14:57:39Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "yanacuti1121/Yana-AI",
     "stars": 3,
-    "updated_at": "2026-08-20T15:03:36Z",
+    "updated_at": "2026-08-20T15:15:11Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
@@ -365,7 +410,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4488,
-    "updated_at": "2026-08-20T15:00:31Z",
+    "updated_at": "2026-08-20T15:15:17Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -387,21 +432,12 @@
     "url": "https://github.com/KPO-Tech/seshat"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-20T14:50:32Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
     "id": "Ecro/harness-maker",
     "language": "Python",
     "name": "Ecro/harness-maker",
     "stars": 4,
-    "updated_at": "2026-08-20T13:58:42Z",
+    "updated_at": "2026-08-20T15:09:55Z",
     "url": "https://github.com/Ecro/harness-maker"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T13:53:33Z",
     "url": "https://github.com/songyang0603/dsh-open-deep-research"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 2,
-    "updated_at": "2026-08-20T13:52:23Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
-    "id": "streamcoreai/streamcore-server",
-    "language": "Go",
-    "name": "streamcoreai/streamcore-server",
-    "stars": 175,
-    "updated_at": "2026-08-20T13:44:38Z",
-    "url": "https://github.com/streamcoreai/streamcore-server"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1808,
-    "updated_at": "2026-08-20T13:44:36Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Agent Voice Bridge for coding agents: session-safe TTS/STT, wake, barge-in, and modular harness adapters.",
-    "id": "davidjdseo/hermes-live-voice",
-    "language": "JavaScript",
-    "name": "davidjdseo/hermes-live-voice",
-    "stars": 0,
-    "updated_at": "2026-08-20T13:44:33Z",
-    "url": "https://github.com/davidjdseo/hermes-live-voice"
   }
 ]
