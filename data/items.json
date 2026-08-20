@@ -1,21 +1,30 @@
 [
   {
-    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
-    "id": "rhein1/agoragentic-integrations",
-    "language": "JavaScript",
-    "name": "rhein1/agoragentic-integrations",
-    "stars": 28,
-    "updated_at": "2026-08-20T16:27:16Z",
-    "url": "https://github.com/rhein1/agoragentic-integrations"
+    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
+    "id": "Allura-Ecosystem/Allura_Memory",
+    "language": "TypeScript",
+    "name": "Allura-Ecosystem/Allura_Memory",
+    "stars": 0,
+    "updated_at": "2026-08-20T16:44:48Z",
+    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-20T16:26:37Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+    "description": "OMO-style discipline-agent + ultrawork orchestration for DeepSeek Harness (DSH). Type 'ultrawork' - Sisyphus plans, dele",
+    "id": "Jan-Jianhao-Liu/omo-deepseek-harness",
+    "language": "\u2014",
+    "name": "Jan-Jianhao-Liu/omo-deepseek-harness",
+    "stars": 1,
+    "updated_at": "2026-08-20T16:41:14Z",
+    "url": "https://github.com/Jan-Jianhao-Liu/omo-deepseek-harness"
+  },
+  {
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19416,
+    "updated_at": "2026-08-20T16:39:11Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -23,8 +32,71 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-20T16:29:19Z",
+    "updated_at": "2026-08-20T16:45:15Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684 AI \u56e2\u961f\u3002",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-08-20T16:38:03Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 122,
+    "updated_at": "2026-08-20T16:37:29Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Cryptographic Harness for Uncensorable AI Agent Communication. Post-quantum verification architecture for autonomous AI ",
+    "id": "andrexibiza/darkloom",
+    "language": "Python",
+    "name": "andrexibiza/darkloom",
+    "stars": 4,
+    "updated_at": "2026-08-20T16:35:53Z",
+    "url": "https://github.com/andrexibiza/darkloom"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-20T16:33:20Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 3,
+    "updated_at": "2026-08-20T16:33:00Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34934,
+    "updated_at": "2026-08-20T16:37:24Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-08-20T16:32:09Z",
+    "url": "https://github.com/skerry699/agent-symphony"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -32,8 +104,26 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-20T16:25:02Z",
+    "updated_at": "2026-08-20T16:30:24Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c\uff0c\u5171\u4eab\u667a\u80fd\u4f53\u548c\u9879\u76ee\u8bb0\u5fc6",
+    "id": "agents-universe/agents-universe",
+    "language": "Python",
+    "name": "agents-universe/agents-universe",
+    "stars": 43,
+    "updated_at": "2026-08-20T16:30:21Z",
+    "url": "https://github.com/agents-universe/agents-universe"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-08-20T16:29:36Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -45,13 +135,31 @@
     "url": "https://github.com/sytone/botnexus"
   },
   {
-    "description": "OMO-style discipline-agent + ultrawork orchestration for DeepSeek Harness (DSH). Type 'ultrawork' - Sisyphus plans, dele",
-    "id": "Jan-Jianhao-Liu/omo-deepseek-harness",
-    "language": "\u2014",
-    "name": "Jan-Jianhao-Liu/omo-deepseek-harness",
+    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
+    "id": "rhein1/agoragentic-integrations",
+    "language": "JavaScript",
+    "name": "rhein1/agoragentic-integrations",
+    "stars": 28,
+    "updated_at": "2026-08-20T16:40:28Z",
+    "url": "https://github.com/rhein1/agoragentic-integrations"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
     "stars": 1,
-    "updated_at": "2026-08-20T16:22:46Z",
-    "url": "https://github.com/Jan-Jianhao-Liu/omo-deepseek-harness"
+    "updated_at": "2026-08-20T16:26:46Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-20T16:26:37Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
@@ -59,7 +167,7 @@
     "language": "Go",
     "name": "go-steer/mast",
     "stars": 1,
-    "updated_at": "2026-08-20T16:25:45Z",
+    "updated_at": "2026-08-20T16:37:57Z",
     "url": "https://github.com/go-steer/mast"
   },
   {
@@ -81,15 +189,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684 AI \u56e2\u961f\u3002",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-08-20T16:17:51Z",
-    "url": "https://github.com/momang85/weavemind"
-  },
-  {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
     "id": "aomi-labs/aomi",
     "language": "TypeScript",
@@ -108,15 +207,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Cryptographic Harness for Uncensorable AI Agent Communication. Post-quantum verification architecture for autonomous AI ",
-    "id": "andrexibiza/darkloom",
-    "language": "Python",
-    "name": "andrexibiza/darkloom",
-    "stars": 4,
-    "updated_at": "2026-08-20T16:16:06Z",
-    "url": "https://github.com/andrexibiza/darkloom"
-  },
-  {
     "description": "From ticket to reviewed pull request. Free and open-source, on your machine.",
     "id": "no-human-ai/no_human",
     "language": "Python",
@@ -124,15 +214,6 @@
     "stars": 10,
     "updated_at": "2026-08-20T16:08:30Z",
     "url": "https://github.com/no-human-ai/no_human"
-  },
-  {
-    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c\uff0c\u5171\u4eab\u667a\u80fd\u4f53\u548c\u9879\u76ee\u8bb0\u5fc6",
-    "id": "agents-universe/agents-universe",
-    "language": "Python",
-    "name": "agents-universe/agents-universe",
-    "stars": 43,
-    "updated_at": "2026-08-20T16:30:21Z",
-    "url": "https://github.com/agents-universe/agents-universe"
   },
   {
     "description": "\u8d85\u8111 Super Brain \u2014 AI Agent \u8ba4\u77e5\u589e\u5f3a\u7cfb\u7edf\uff1a\u6301\u4e45\u8bb0\u5fc6\u3001\u77e5\u8bc6\u56fe\u8c31\u3001SimHash\u8bed\u4e49\u641c\u7d22\u3001\u81ea\u68c0\u4fee\u590d",
@@ -151,24 +232,6 @@
     "stars": 10,
     "updated_at": "2026-08-20T16:06:41Z",
     "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 3,
-    "updated_at": "2026-08-20T16:26:15Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34933,
-    "updated_at": "2026-08-20T16:03:26Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -194,17 +257,8 @@
     "language": "HTML",
     "name": "Rakshit64w43/agent-gateway-hub",
     "stars": 4,
-    "updated_at": "2026-08-20T15:58:45Z",
+    "updated_at": "2026-08-20T16:44:29Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19415,
-    "updated_at": "2026-08-20T16:26:36Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -311,17 +365,8 @@
     "language": "HTML",
     "name": "IkhsanMAlbar/govchain-llm-orchestrator",
     "stars": 0,
-    "updated_at": "2026-08-20T15:36:53Z",
+    "updated_at": "2026-08-20T16:38:20Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 122,
-    "updated_at": "2026-08-20T16:29:10Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -338,26 +383,8 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47230,
-    "updated_at": "2026-08-20T15:34:36Z",
+    "updated_at": "2026-08-20T16:32:21Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-20T15:31:34Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-08-20T15:30:56Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   },
   {
     "description": "DeepSeek Harness Core (DHC) \u00b7 AI \u4eba\u683c\u6838\u5fc3\u8fdb\u5316\u63d2\u4ef6 / AI personality core evolution plugin for DeepSeek Harness",
@@ -367,24 +394,6 @@
     "stars": 3,
     "updated_at": "2026-08-20T15:28:59Z",
     "url": "https://github.com/muvuula/DeepSeek-Harness-Core"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-20T16:29:36Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-20T16:26:46Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -419,7 +428,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4488,
-    "updated_at": "2026-08-20T16:26:03Z",
+    "updated_at": "2026-08-20T16:44:15Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -428,7 +437,7 @@
     "language": "TypeScript",
     "name": "use-brian/use-brian",
     "stars": 22,
-    "updated_at": "2026-08-20T15:10:52Z",
+    "updated_at": "2026-08-20T16:41:27Z",
     "url": "https://github.com/use-brian/use-brian"
   },
   {
@@ -437,16 +446,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 52,
-    "updated_at": "2026-08-20T15:10:50Z",
+    "updated_at": "2026-08-20T16:40:17Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6960,
-    "updated_at": "2026-08-20T15:05:30Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
