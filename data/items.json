@@ -1,5 +1,23 @@
 [
   {
+    "description": "A configurable Deep Research agent and TypeScript framework for DeepSeek Harness, with web search, optional page and PDF",
+    "id": "songyang0603/dsh-open-deep-research",
+    "language": "TypeScript",
+    "name": "songyang0603/dsh-open-deep-research",
+    "stars": 0,
+    "updated_at": "2026-08-20T10:00:14Z",
+    "url": "https://github.com/songyang0603/dsh-open-deep-research"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T09:58:54Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
     "id": "Monadix-AI/monad",
     "language": "TypeScript",
@@ -59,17 +77,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 14,
-    "updated_at": "2026-08-20T09:51:59Z",
+    "updated_at": "2026-08-20T09:59:58Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T09:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -95,7 +104,7 @@
     "language": "TypeScript",
     "name": "xanstomper/mochi",
     "stars": 0,
-    "updated_at": "2026-08-20T09:42:30Z",
+    "updated_at": "2026-08-20T09:59:59Z",
     "url": "https://github.com/xanstomper/mochi"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 416,
-    "updated_at": "2026-08-20T09:58:32Z",
+    "updated_at": "2026-08-20T10:00:11Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 14,
     "updated_at": "2026-08-20T08:32:31Z",
     "url": "https://github.com/atliliw/langchainrust"
-  },
-  {
-    "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
-    "id": "akimoto-akira/SiliconLifeCollective",
-    "language": "C#",
-    "name": "akimoto-akira/SiliconLifeCollective",
-    "stars": 3,
-    "updated_at": "2026-08-20T08:31:18Z",
-    "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
   }
 ]
