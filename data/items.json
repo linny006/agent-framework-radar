@@ -1,5 +1,131 @@
 [
   {
+    "description": "Microwave Method: agent factory + governed LLM wiki. Heavy pass once per agent, light pass per feature. Context is cooke",
+    "id": "microphage-create/microwave-method",
+    "language": "Python",
+    "name": "microphage-create/microwave-method",
+    "stars": 0,
+    "updated_at": "2026-08-20T09:24:13Z",
+    "url": "https://github.com/microphage-create/microwave-method"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4910,
+    "updated_at": "2026-08-20T09:22:34Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "From ticket to reviewed pull request. Free and open-source, on your machine.",
+    "id": "no-human-ai/no_human",
+    "language": "Python",
+    "name": "no-human-ai/no_human",
+    "stars": 9,
+    "updated_at": "2026-08-20T09:22:10Z",
+    "url": "https://github.com/no-human-ai/no_human"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 122,
+    "updated_at": "2026-08-20T09:21:50Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-20T09:21:48Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-20T09:21:39Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core. 3,800+ models.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 24,
+    "updated_at": "2026-08-20T09:21:08Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47214,
+    "updated_at": "2026-08-20T09:20:37Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34901,
+    "updated_at": "2026-08-20T09:19:24Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 253,
+    "updated_at": "2026-08-20T09:19:20Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 8,
+    "updated_at": "2026-08-20T09:18:59Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
+    "id": "Monadix-AI/monad",
+    "language": "TypeScript",
+    "name": "Monadix-AI/monad",
+    "stars": 1,
+    "updated_at": "2026-08-20T09:18:26Z",
+    "url": "https://github.com/Monadix-AI/monad"
+  },
+  {
+    "description": "Visual AI agent builder & chat platform: drag-and-drop LLM workflows, SSE streaming chat, 80+ built-in tools, skill syst",
+    "id": "DJR-gjsn/Agent-Editor-I-do-not-know",
+    "language": "Python",
+    "name": "DJR-gjsn/Agent-Editor-I-do-not-know",
+    "stars": 0,
+    "updated_at": "2026-08-20T09:17:49Z",
+    "url": "https://github.com/DJR-gjsn/Agent-Editor-I-do-not-know"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T09:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
     "id": "CogKnowEdge-Solutions/Orchestration",
     "language": "Jupyter Notebook",
@@ -7,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T09:12:53Z",
     "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34902,
-    "updated_at": "2026-08-20T09:12:36Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
@@ -36,24 +153,6 @@
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
-    "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
-    "id": "Monadix-AI/monad",
-    "language": "TypeScript",
-    "name": "Monadix-AI/monad",
-    "stars": 1,
-    "updated_at": "2026-08-20T09:14:33Z",
-    "url": "https://github.com/Monadix-AI/monad"
-  },
-  {
-    "description": "Microwave Method: agent factory + governed LLM wiki. Heavy pass once per agent, light pass per feature. Context is cooke",
-    "id": "microphage-create/microwave-method",
-    "language": "Python",
-    "name": "microphage-create/microwave-method",
-    "stars": 0,
-    "updated_at": "2026-08-20T09:11:05Z",
-    "url": "https://github.com/microphage-create/microwave-method"
-  },
-  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
@@ -61,6 +160,15 @@
     "stars": 52,
     "updated_at": "2026-08-20T09:10:54Z",
     "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9079,
+    "updated_at": "2026-08-20T09:10:38Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Evidence-native TypeScript framework for agents that perform bounded work under explicit authority.",
@@ -117,15 +225,6 @@
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T09:00:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -140,7 +239,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 2,
-    "updated_at": "2026-08-20T08:59:32Z",
+    "updated_at": "2026-08-20T09:16:01Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -167,7 +266,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-20T09:04:34Z",
+    "updated_at": "2026-08-20T09:24:04Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -196,15 +295,6 @@
     "stars": 4,
     "updated_at": "2026-08-20T08:53:21Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 253,
-    "updated_at": "2026-08-20T08:51:00Z",
-    "url": "https://github.com/xuiltul/animaworks"
   },
   {
     "description": "\ud83d\udc7e \u4e0b\u4e00\u4ee3\u900f\u660e\u667a\u80fd\u4f53\u67b6\u6784 | Next-Gen Transparent Agent Architecture \ud83d\udd0d \u5168\u884c\u4e3a\u5ba1\u8ba1 | \ud83d\udee1\ufe0f \u4e24\u6bb5\u5f0f\u5b89\u5168\u8c03\u7528 | \ud83e\udde0 \u53cc\u6c34\u4f4d\u8bb0\u5fc6 | \u23f0 \u5fc3\u8df3\u4efb\u52a1 \ud83d\udcca P0 \u7ea7\u4e8b\u6545\u7387\u964d\u4f4e 80% | \u517c\u5bb9 Open",
@@ -297,15 +387,6 @@
     "url": "https://github.com/atliliw/langchainrust"
   },
   {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core. 3,800+ models.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 24,
-    "updated_at": "2026-08-20T09:14:19Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
     "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
     "id": "akimoto-akira/SiliconLifeCollective",
     "language": "C#",
@@ -342,39 +423,12 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-20T08:22:45Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-20T08:22:44Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 122,
-    "updated_at": "2026-08-20T09:09:34Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
     "id": "proteus-evolve/Proteus",
     "language": "Python",
     "name": "proteus-evolve/Proteus",
-    "stars": 20,
-    "updated_at": "2026-08-20T08:15:38Z",
+    "stars": 21,
+    "updated_at": "2026-08-20T09:19:16Z",
     "url": "https://github.com/proteus-evolve/Proteus"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 19409,
     "updated_at": "2026-08-20T08:46:40Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1709,
-    "updated_at": "2026-08-20T08:14:26Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "The zero-trust framework for autonomous AI agents.",
-    "id": "calebfaruki/sycophant",
-    "language": "Rust",
-    "name": "calebfaruki/sycophant",
-    "stars": 6,
-    "updated_at": "2026-08-20T08:09:47Z",
-    "url": "https://github.com/calebfaruki/sycophant"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 5191,
-    "updated_at": "2026-08-20T08:08:05Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 166,
-    "updated_at": "2026-08-20T08:37:09Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1637,
-    "updated_at": "2026-08-20T08:02:34Z",
-    "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
-    "id": "bugsyhewitt/AlienClaw",
-    "language": "TypeScript",
-    "name": "bugsyhewitt/AlienClaw",
-    "stars": 7,
-    "updated_at": "2026-08-20T08:02:11Z",
-    "url": "https://github.com/bugsyhewitt/AlienClaw"
   }
 ]
