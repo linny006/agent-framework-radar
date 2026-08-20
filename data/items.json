@@ -1,5 +1,23 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9100,
+    "updated_at": "2026-08-20T23:15:31Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T23:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Autonomous AI agent ecosystem & declarative mesh workflow engine (DAM v3.0, DWM v1.0)",
     "id": "seismael/aeromesh",
     "language": "Python",
@@ -72,15 +90,6 @@
     "url": "https://github.com/go-steer/mast"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9100,
-    "updated_at": "2026-08-20T23:14:42Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T23:04:08Z",
     "url": "https://github.com/geniusdapeng-collab/workloom-im"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T23:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
@@ -428,7 +428,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-08-20T23:14:36Z",
+    "updated_at": "2026-08-20T23:18:31Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {

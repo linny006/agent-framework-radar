@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-20 23:15 UTC
+> ⏰ Last updated: 2026-08-20 23:18 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [seismael/aeromesh](https://github.com/seismael/aeromesh) | 0 | Python | 2026-08-20 | Autonomous AI agent ecosystem & declarative mesh workflow engine (DAM v3.0, DWM v1.0) |
-| 2 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-20 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 3 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 1 | HTML | 2026-08-20 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
-| 4 | [doeixd/effect-agent](https://github.com/doeixd/effect-agent) | 1 | TypeScript | 2026-08-20 | An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o |
-| 5 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-08-20 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 6 | [xuiltul/animaworks](https://github.com/xuiltul/animaworks) | 254 | Python | 2026-08-20 | Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model  |
-| 7 | [GEMISIS/leviath](https://github.com/GEMISIS/leviath) | 3 | Rust | 2026-08-20 | A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single  |
-| 8 | [go-steer/mast](https://github.com/go-steer/mast) | 1 | Go | 2026-08-20 | Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o |
-| 9 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9100 | Python | 2026-08-20 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 10 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 7 | Python | 2026-08-20 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 11 | [geniusdapeng-collab/workloom-im](https://github.com/geniusdapeng-collab/workloom-im) | 0 | TypeScript | 2026-08-20 | WorkLoom 织元 · DeepSeek Harness 企业级 Agent IM — Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence,  |
-| 12 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-20 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9100 | Python | 2026-08-20 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-20 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [seismael/aeromesh](https://github.com/seismael/aeromesh) | 0 | Python | 2026-08-20 | Autonomous AI agent ecosystem & declarative mesh workflow engine (DAM v3.0, DWM v1.0) |
+| 4 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-20 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 5 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 1 | HTML | 2026-08-20 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
+| 6 | [doeixd/effect-agent](https://github.com/doeixd/effect-agent) | 1 | TypeScript | 2026-08-20 | An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o |
+| 7 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-08-20 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 8 | [xuiltul/animaworks](https://github.com/xuiltul/animaworks) | 254 | Python | 2026-08-20 | Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model  |
+| 9 | [GEMISIS/leviath](https://github.com/GEMISIS/leviath) | 3 | Rust | 2026-08-20 | A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single  |
+| 10 | [go-steer/mast](https://github.com/go-steer/mast) | 1 | Go | 2026-08-20 | Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o |
+| 11 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 7 | Python | 2026-08-20 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 12 | [geniusdapeng-collab/workloom-im](https://github.com/geniusdapeng-collab/workloom-im) | 0 | TypeScript | 2026-08-20 | WorkLoom 织元 · DeepSeek Harness 企业级 Agent IM — Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence,  |
 | 13 | [rundesk-ai/rundesk-cli](https://github.com/rundesk-ai/rundesk-cli) | 4 | Python | 2026-08-20 | Persistent proactive self-improving AI teammates with memory, skills, and schedules. |
 | 14 | [xanstomper/mochi](https://github.com/xanstomper/mochi) | 0 | TypeScript | 2026-08-20 | Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run |
 | 15 | [telus-labs/stagecraft](https://github.com/telus-labs/stagecraft) | 6 | JavaScript | 2026-08-20 | Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API |
