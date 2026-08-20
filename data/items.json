@@ -1,5 +1,113 @@
 [
   {
+    "description": "Autonomous AI agent ecosystem & declarative mesh workflow engine (DAM v3.0, DWM v1.0)",
+    "id": "seismael/aeromesh",
+    "language": "Python",
+    "name": "seismael/aeromesh",
+    "stars": 0,
+    "updated_at": "2026-08-20T23:14:12Z",
+    "url": "https://github.com/seismael/aeromesh"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-20T23:14:10Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-20T23:14:07Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 1,
+    "updated_at": "2026-08-20T23:12:14Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-20T23:11:13Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 254,
+    "updated_at": "2026-08-20T23:10:20Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 3,
+    "updated_at": "2026-08-20T23:09:15Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-08-20T23:08:27Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9100,
+    "updated_at": "2026-08-20T23:14:42Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 7,
+    "updated_at": "2026-08-20T23:04:28Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 0,
+    "updated_at": "2026-08-20T23:04:08Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T23:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
     "id": "rundesk-ai/rundesk-cli",
     "language": "Python",
@@ -16,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T22:59:34Z",
     "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Autonomous AI agent ecosystem & declarative mesh workflow engine (DAM v3.0, DWM v1.0)",
-    "id": "seismael/aeromesh",
-    "language": "Python",
-    "name": "seismael/aeromesh",
-    "stars": 0,
-    "updated_at": "2026-08-20T22:59:06Z",
-    "url": "https://github.com/seismael/aeromesh"
   },
   {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
@@ -86,35 +185,8 @@
     "language": "Python",
     "name": "no-human-ai/no_human",
     "stars": 10,
-    "updated_at": "2026-08-20T22:52:51Z",
+    "updated_at": "2026-08-20T23:07:12Z",
     "url": "https://github.com/no-human-ai/no_human"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T22:52:35Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9099,
-    "updated_at": "2026-08-20T22:52:22Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-08-20T22:50:27Z",
-    "url": "https://github.com/go-steer/mast"
   },
   {
     "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native te",
@@ -144,24 +216,6 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 0,
-    "updated_at": "2026-08-20T22:46:46Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-20T22:46:16Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -176,7 +230,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1310,
-    "updated_at": "2026-08-20T22:38:09Z",
+    "updated_at": "2026-08-20T23:13:59Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -194,7 +248,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-20T22:58:12Z",
+    "updated_at": "2026-08-20T23:15:13Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 174,
-    "updated_at": "2026-08-20T22:33:33Z",
+    "updated_at": "2026-08-20T23:05:49Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -288,24 +342,6 @@
     "url": "https://github.com/ludex-lab/ludex"
   },
   {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-20T22:14:25Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-20T22:14:17Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19418,
-    "updated_at": "2026-08-20T22:09:26Z",
+    "updated_at": "2026-08-20T23:08:37Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-08-20T22:49:00Z",
+    "updated_at": "2026-08-20T23:14:36Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -401,7 +437,7 @@
     "language": "TypeScript",
     "name": "Lykhoyda/rn-dev-agent",
     "stars": 10,
-    "updated_at": "2026-08-20T21:53:28Z",
+    "updated_at": "2026-08-20T23:01:59Z",
     "url": "https://github.com/Lykhoyda/rn-dev-agent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1146,
     "updated_at": "2026-08-20T22:05:20Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 122,
-    "updated_at": "2026-08-20T22:38:13Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 1,
-    "updated_at": "2026-08-20T21:38:54Z",
-    "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34950,
-    "updated_at": "2026-08-20T21:36:29Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Self-hosted completion gate for coding agents: independent verification before done, durable evidence, CLI and local GUI",
-    "id": "moortekweb-art/agentic-harness",
-    "language": "Python",
-    "name": "moortekweb-art/agentic-harness",
-    "stars": 3,
-    "updated_at": "2026-08-20T21:34:04Z",
-    "url": "https://github.com/moortekweb-art/agentic-harness"
   }
 ]
