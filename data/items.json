@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T15:00:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek Harness Core (DHC) \u00b7 AI \u4eba\u683c\u6838\u5fc3\u8fdb\u5316\u63d2\u4ef6 / AI personality core evolution plugin for DeepSeek Harness",
+    "id": "muvuula/DeepSeek-Harness-Core",
+    "language": "JavaScript",
+    "name": "muvuula/DeepSeek-Harness-Core",
+    "stars": 3,
+    "updated_at": "2026-08-20T14:58:37Z",
+    "url": "https://github.com/muvuula/DeepSeek-Harness-Core"
+  },
+  {
+    "description": "OMO-style discipline-agent + ultrawork orchestration for DeepSeek Harness (DSH). Type 'ultrawork' - Sisyphus plans, dele",
+    "id": "Jan-Jianhao-Liu/omo-deepseek-harness",
+    "language": "\u2014",
+    "name": "Jan-Jianhao-Liu/omo-deepseek-harness",
+    "stars": 0,
+    "updated_at": "2026-08-20T14:57:09Z",
+    "url": "https://github.com/Jan-Jianhao-Liu/omo-deepseek-harness"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
@@ -36,13 +63,13 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T14:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-20T14:44:48Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c\uff0c\u5171\u4eab\u667a\u80fd\u4f53\u548c\u9879\u76ee\u8bb0\u5fc6",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-20T14:59:13Z",
+    "updated_at": "2026-08-20T15:00:47Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Go",
     "name": "go-steer/mast",
     "stars": 1,
-    "updated_at": "2026-08-20T14:36:02Z",
+    "updated_at": "2026-08-20T15:01:42Z",
     "url": "https://github.com/go-steer/mast"
   },
   {
@@ -187,15 +214,6 @@
     "stars": 10,
     "updated_at": "2026-08-20T14:32:58Z",
     "url": "https://github.com/no-human-ai/no_human"
-  },
-  {
-    "description": "OMO-style discipline-agent + ultrawork orchestration for DeepSeek Harness (DSH). Type 'ultrawork' - Sisyphus plans, dele",
-    "id": "Jan-Jianhao-Liu/omo-deepseek-harness",
-    "language": "\u2014",
-    "name": "Jan-Jianhao-Liu/omo-deepseek-harness",
-    "stars": 0,
-    "updated_at": "2026-08-20T14:57:09Z",
-    "url": "https://github.com/Jan-Jianhao-Liu/omo-deepseek-harness"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "yanacuti1121/Yana-AI",
     "stars": 3,
-    "updated_at": "2026-08-20T14:53:39Z",
+    "updated_at": "2026-08-20T15:03:36Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
@@ -347,7 +365,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4488,
-    "updated_at": "2026-08-20T14:56:27Z",
+    "updated_at": "2026-08-20T15:00:31Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T13:44:33Z",
     "url": "https://github.com/davidjdseo/hermes-live-voice"
-  },
-  {
-    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
-    "id": "sweatco/archie-hq",
-    "language": "TypeScript",
-    "name": "sweatco/archie-hq",
-    "stars": 16,
-    "updated_at": "2026-08-20T13:43:09Z",
-    "url": "https://github.com/sweatco/archie-hq"
-  },
-  {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 24,
-    "updated_at": "2026-08-20T13:41:38Z",
-    "url": "https://github.com/kdcube/kdcube"
   }
 ]
