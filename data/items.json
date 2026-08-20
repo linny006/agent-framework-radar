@@ -1,11 +1,47 @@
 [
   {
+    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 8,
+    "updated_at": "2026-08-20T01:34:31Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
+    "id": "SammyTourani/evestack",
+    "language": "JavaScript",
+    "name": "SammyTourani/evestack",
+    "stars": 1,
+    "updated_at": "2026-08-20T01:33:20Z",
+    "url": "https://github.com/SammyTourani/evestack"
+  },
+  {
+    "description": "An agent-builder for Claude Code: three agents (Sensei, Method, Mneme) that build, test, install, and remember specializ",
+    "id": "Atiqul-Islam/genesis",
+    "language": "Rust",
+    "name": "Atiqul-Islam/genesis",
+    "stars": 0,
+    "updated_at": "2026-08-20T01:32:42Z",
+    "url": "https://github.com/Atiqul-Islam/genesis"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T01:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Build portable AI agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring",
     "id": "pqpo/pragma",
     "language": "TypeScript",
     "name": "pqpo/pragma",
     "stars": 93,
-    "updated_at": "2026-08-20T01:29:06Z",
+    "updated_at": "2026-08-20T01:31:23Z",
     "url": "https://github.com/pqpo/pragma"
   },
   {
@@ -23,7 +59,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 34877,
-    "updated_at": "2026-08-20T01:28:21Z",
+    "updated_at": "2026-08-20T01:34:33Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -41,17 +77,8 @@
     "language": "Rust",
     "name": "SmooAI/smooth-operator",
     "stars": 0,
-    "updated_at": "2026-08-20T01:27:54Z",
+    "updated_at": "2026-08-20T01:30:46Z",
     "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
-    "description": "An agent-builder for Claude Code: three agents (Sensei, Method, Mneme) that build, test, install, and remember specializ",
-    "id": "Atiqul-Islam/genesis",
-    "language": "Rust",
-    "name": "Atiqul-Islam/genesis",
-    "stars": 0,
-    "updated_at": "2026-08-20T01:25:38Z",
-    "url": "https://github.com/Atiqul-Islam/genesis"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -68,7 +95,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4487,
-    "updated_at": "2026-08-20T01:26:09Z",
+    "updated_at": "2026-08-20T01:31:10Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -97,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T01:17:44Z",
     "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
-    "id": "SammyTourani/evestack",
-    "language": "JavaScript",
-    "name": "SammyTourani/evestack",
-    "stars": 1,
-    "updated_at": "2026-08-20T01:26:58Z",
-    "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T01:15:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -256,7 +265,7 @@
     "id": "proteus-evolve/Proteus",
     "language": "Python",
     "name": "proteus-evolve/Proteus",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-08-20T00:43:52Z",
     "url": "https://github.com/proteus-evolve/Proteus"
   },
@@ -313,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T00:32:25Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 8,
-    "updated_at": "2026-08-20T00:52:09Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
@@ -414,6 +414,15 @@
     "url": "https://github.com/sandbaseai/sandbase-harness"
   },
   {
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19400,
+    "updated_at": "2026-08-20T00:02:19Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 31,
     "updated_at": "2026-08-19T23:52:52Z",
     "url": "https://github.com/agents-universe/agents-universe"
-  },
-  {
-    "description": "\u57fa\u4e8e TRSS-Yunzai \u7684 AI Agent \u63d2\u4ef6\u6846\u67b6\uff1aLLM \u5bf9\u8bdd\u00b7\u5de5\u5177\u8c03\u7528\u00b7\u957f\u671f\u8bb0\u5fc6\u00b7MCP\u00b7\u5de5\u5177\u8fdb\u5316 | A modular AI Agent runtime for TRSS-Yunzai with self-evolving",
-    "id": "yunhai89/trss-agent-plugin",
-    "language": "JavaScript",
-    "name": "yunhai89/trss-agent-plugin",
-    "stars": 1,
-    "updated_at": "2026-08-19T23:47:34Z",
-    "url": "https://github.com/yunhai89/trss-agent-plugin"
   }
 ]
