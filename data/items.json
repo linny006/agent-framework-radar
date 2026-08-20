@@ -1,12 +1,138 @@
 [
   {
+    "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
+    "id": "mathissdupont/ingot",
+    "language": "Rust",
+    "name": "mathissdupont/ingot",
+    "stars": 2,
+    "updated_at": "2026-08-20T20:53:16Z",
+    "url": "https://github.com/mathissdupont/ingot"
+  },
+  {
     "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native te",
     "id": "joe960913/Jixu",
     "language": "TypeScript",
     "name": "joe960913/Jixu",
     "stars": 0,
-    "updated_at": "2026-08-20T20:43:30Z",
+    "updated_at": "2026-08-20T20:53:00Z",
     "url": "https://github.com/joe960913/Jixu"
+  },
+  {
+    "description": "Autonomous multi-agent coordination for the JVM",
+    "id": "mauro-mura/agenor",
+    "language": "Java",
+    "name": "mauro-mura/agenor",
+    "stars": 0,
+    "updated_at": "2026-08-20T20:52:25Z",
+    "url": "https://github.com/mauro-mura/agenor"
+  },
+  {
+    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
+    "id": "openlegion-ai/openlegion",
+    "language": "Python",
+    "name": "openlegion-ai/openlegion",
+    "stars": 116,
+    "updated_at": "2026-08-20T20:51:41Z",
+    "url": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9097,
+    "updated_at": "2026-08-20T20:53:36Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "HydraClaim turns agent memory into a temporal claim graph: every fact is a claim with provenance and a validity window, ",
+    "id": "aayushman-singh/hydraclaim",
+    "language": "Python",
+    "name": "aayushman-singh/hydraclaim",
+    "stars": 0,
+    "updated_at": "2026-08-20T20:50:14Z",
+    "url": "https://github.com/aayushman-singh/hydraclaim"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 1,
+    "updated_at": "2026-08-20T20:48:12Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 42,
+    "updated_at": "2026-08-20T20:48:11Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-20T20:47:06Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 677,
+    "updated_at": "2026-08-20T20:45:54Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-08-20T20:45:39Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T20:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 122,
+    "updated_at": "2026-08-20T20:45:13Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 0,
+    "updated_at": "2026-08-20T20:44:52Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-20T20:53:35Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Open Souls is an open-source framework and philosophy for building \"AI souls\" \u2014 agentic, embodied digital beings with pe",
@@ -16,33 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T20:43:22Z",
     "url": "https://github.com/api-evangelist/open-souls"
-  },
-  {
-    "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that c",
-    "id": "openlegion-ai/openlegion",
-    "language": "Python",
-    "name": "openlegion-ai/openlegion",
-    "stars": 116,
-    "updated_at": "2026-08-20T20:42:46Z",
-    "url": "https://github.com/openlegion-ai/openlegion"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 1,
-    "updated_at": "2026-08-20T20:42:34Z",
-    "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
-    "description": "HydraClaim turns agent memory into a temporal claim graph: every fact is a claim with provenance and a validity window, ",
-    "id": "aayushman-singh/hydraclaim",
-    "language": "Python",
-    "name": "aayushman-singh/hydraclaim",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:43:48Z",
-    "url": "https://github.com/aayushman-singh/hydraclaim"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -81,15 +180,6 @@
     "url": "https://github.com/no-human-ai/no_human"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-20T20:44:46Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
     "id": "daniel06s6995/deepseek-harness-software-OPC",
     "language": "JavaScript",
@@ -126,24 +216,6 @@
     "url": "https://github.com/databricks-solutions/consort"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T20:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
-    "id": "mathissdupont/ingot",
-    "language": "Rust",
-    "name": "mathissdupont/ingot",
-    "stars": 2,
-    "updated_at": "2026-08-20T20:29:25Z",
-    "url": "https://github.com/mathissdupont/ingot"
-  },
-  {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
     "id": "kungfu-systems/kungfu",
     "language": "C++",
@@ -151,15 +223,6 @@
     "stars": 4488,
     "updated_at": "2026-08-20T20:28:17Z",
     "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:44:52Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -288,15 +351,6 @@
     "url": "https://github.com/filipw/AgentGuard"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-20T20:10:05Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -378,33 +432,6 @@
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 42,
-    "updated_at": "2026-08-20T19:49:32Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9096,
-    "updated_at": "2026-08-20T19:44:21Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 122,
-    "updated_at": "2026-08-20T20:45:13Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "Autonomous AI agent ecosystem & declarative mesh workflow engine (DAM v3.0, DWM v1.0)",
     "id": "seismael/aeromesh",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-20T19:48:32Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
-  },
-  {
-    "description": "A proof-of-concept demonstrating how Apache Kafka can serve as a native platform for AI agents \u2014 three real google-adk a",
-    "id": "arabaaoui/kafka-for-agents",
-    "language": "Python",
-    "name": "arabaaoui/kafka-for-agents",
-    "stars": 0,
-    "updated_at": "2026-08-20T19:40:49Z",
-    "url": "https://github.com/arabaaoui/kafka-for-agents"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 77,
-    "updated_at": "2026-08-20T19:39:09Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13007,
-    "updated_at": "2026-08-20T20:38:21Z",
-    "url": "https://github.com/microsoft/agent-framework"
   }
 ]
