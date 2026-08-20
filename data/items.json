@@ -1,21 +1,30 @@
 [
   {
-    "description": "A configurable Deep Research agent and TypeScript framework for DeepSeek Harness, with web search, optional page and PDF",
-    "id": "songyang0603/dsh-open-deep-research",
+    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
+    "id": "xanstomper/mochi",
     "language": "TypeScript",
-    "name": "songyang0603/dsh-open-deep-research",
+    "name": "xanstomper/mochi",
     "stars": 0,
-    "updated_at": "2026-08-20T10:00:14Z",
-    "url": "https://github.com/songyang0603/dsh-open-deep-research"
+    "updated_at": "2026-08-20T10:15:19Z",
+    "url": "https://github.com/xanstomper/mochi"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T09:58:54Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-20T10:11:37Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
+    "id": "CogKnowEdge-Solutions/Orchestration",
+    "language": "Jupyter Notebook",
+    "name": "CogKnowEdge-Solutions/Orchestration",
+    "stars": 0,
+    "updated_at": "2026-08-20T10:09:44Z",
+    "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
   },
   {
     "description": "Monad \u2014 open-source agent team runtime by Monadix. Daemon-first, headless, MIT.",
@@ -23,15 +32,60 @@
     "language": "TypeScript",
     "name": "Monadix-AI/monad",
     "stars": 1,
-    "updated_at": "2026-08-20T09:57:11Z",
+    "updated_at": "2026-08-20T10:08:54Z",
     "url": "https://github.com/Monadix-AI/monad"
+  },
+  {
+    "description": "A configurable Deep Research agent and TypeScript framework for DeepSeek Harness, with web search, optional page and PDF",
+    "id": "songyang0603/dsh-open-deep-research",
+    "language": "TypeScript",
+    "name": "songyang0603/dsh-open-deep-research",
+    "stars": 0,
+    "updated_at": "2026-08-20T10:07:41Z",
+    "url": "https://github.com/songyang0603/dsh-open-deep-research"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 166,
+    "updated_at": "2026-08-20T10:07:30Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-20T10:03:37Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 416,
+    "updated_at": "2026-08-20T10:10:05Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T10:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34905,
+    "stars": 34906,
     "updated_at": "2026-08-20T09:55:57Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -90,30 +144,12 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-20T09:42:37Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-08-20T09:59:59Z",
-    "url": "https://github.com/xanstomper/mochi"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 12996,
-    "updated_at": "2026-08-20T09:41:43Z",
+    "updated_at": "2026-08-20T10:15:00Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -171,15 +207,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-20T09:32:00Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -196,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-08-20T09:31:52Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
-    "id": "CogKnowEdge-Solutions/Orchestration",
-    "language": "Jupyter Notebook",
-    "name": "CogKnowEdge-Solutions/Orchestration",
-    "stars": 0,
-    "updated_at": "2026-08-20T09:31:06Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -266,7 +284,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 122,
-    "updated_at": "2026-08-20T09:21:50Z",
+    "updated_at": "2026-08-20T10:14:29Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -292,7 +310,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47216,
+    "stars": 47217,
     "updated_at": "2026-08-20T09:20:37Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 8,
-    "updated_at": "2026-08-20T09:18:59Z",
+    "updated_at": "2026-08-20T10:14:47Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -356,7 +374,7 @@
     "language": "TypeScript",
     "name": "lightfastai/lightfast",
     "stars": 2,
-    "updated_at": "2026-08-20T09:05:16Z",
+    "updated_at": "2026-08-20T10:01:10Z",
     "url": "https://github.com/lightfastai/lightfast"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 11,
-    "updated_at": "2026-08-20T09:49:31Z",
+    "updated_at": "2026-08-20T10:04:34Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -394,15 +412,6 @@
     "stars": 6,
     "updated_at": "2026-08-20T09:43:43Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 416,
-    "updated_at": "2026-08-20T10:00:11Z",
-    "url": "https://github.com/GizClaw/flowcraft"
   },
   {
     "description": "\ud83d\udc7e \u4e0b\u4e00\u4ee3\u900f\u660e\u667a\u80fd\u4f53\u67b6\u6784 | Next-Gen Transparent Agent Architecture \ud83d\udd0d \u5168\u884c\u4e3a\u5ba1\u8ba1 | \ud83d\udee1\ufe0f \u4e24\u6bb5\u5f0f\u5b89\u5168\u8c03\u7528 | \ud83e\udde0 \u53cc\u6c34\u4f4d\u8bb0\u5fc6 | \u23f0 \u5fc3\u8df3\u4efb\u52a1 \ud83d\udcca P0 \u7ea7\u4e8b\u6545\u7387\u964d\u4f4e 80% | \u517c\u5bb9 Open",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T08:36:24Z",
     "url": "https://github.com/impartshadow/shadow"
-  },
-  {
-    "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
-    "id": "atliliw/langchainrust",
-    "language": "Rust",
-    "name": "atliliw/langchainrust",
-    "stars": 14,
-    "updated_at": "2026-08-20T08:32:31Z",
-    "url": "https://github.com/atliliw/langchainrust"
   }
 ]
