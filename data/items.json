@@ -1,5 +1,23 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 7,
+    "updated_at": "2026-08-20T19:28:10Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T19:27:50Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
@@ -7,6 +25,15 @@
     "stars": 52,
     "updated_at": "2026-08-20T19:27:09Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34941,
+    "updated_at": "2026-08-20T19:26:55Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "",
@@ -99,15 +126,6 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T19:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -115,24 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T19:13:16Z",
     "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34941,
-    "updated_at": "2026-08-20T19:26:55Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 7,
-    "updated_at": "2026-08-20T19:21:04Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
@@ -194,7 +194,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1310,
-    "updated_at": "2026-08-20T18:59:19Z",
+    "updated_at": "2026-08-20T19:30:03Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-20T19:24:54Z",
+    "updated_at": "2026-08-20T19:30:12Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -212,7 +212,7 @@
     "language": "TypeScript",
     "name": "aeonfun/aeon",
     "stars": 677,
-    "updated_at": "2026-08-20T19:27:47Z",
+    "updated_at": "2026-08-20T19:28:36Z",
     "url": "https://github.com/aeonfun/aeon"
   },
   {
@@ -311,7 +311,7 @@
     "language": "HTML",
     "name": "LovaHuguel/Khala-Orchestrator-Core",
     "stars": 1,
-    "updated_at": "2026-08-20T18:36:31Z",
+    "updated_at": "2026-08-20T19:29:23Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
@@ -329,7 +329,7 @@
     "language": "HTML",
     "name": "skerry699/agent-symphony",
     "stars": 119,
-    "updated_at": "2026-08-20T18:35:57Z",
+    "updated_at": "2026-08-20T19:28:49Z",
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
@@ -356,7 +356,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 2,
-    "updated_at": "2026-08-20T18:28:26Z",
+    "updated_at": "2026-08-20T19:29:51Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
