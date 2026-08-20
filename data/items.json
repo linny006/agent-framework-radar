@@ -1,12 +1,84 @@
 [
   {
+    "description": "A dual-store AI memory architecture combining authoritative Git Markdown with experience memory (TDAI) for long-term AI-",
+    "id": "hczxy05/ai-memory-framework",
+    "language": "JavaScript",
+    "name": "hczxy05/ai-memory-framework",
+    "stars": 1,
+    "updated_at": "2026-08-20T14:25:55Z",
+    "url": "https://github.com/hczxy05/ai-memory-framework"
+  },
+  {
+    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 3,
+    "updated_at": "2026-08-20T14:20:06Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26259,
+    "updated_at": "2026-08-20T14:19:12Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-20T14:18:01Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T14:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 100,
+    "updated_at": "2026-08-20T14:15:20Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-08-20T14:13:29Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
     "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
     "id": "geniusdapeng-collab/workloom-im",
     "language": "TypeScript",
     "name": "geniusdapeng-collab/workloom-im",
     "stars": 0,
-    "updated_at": "2026-08-20T14:12:41Z",
+    "updated_at": "2026-08-20T14:24:38Z",
     "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-08-20T14:11:41Z",
+    "url": "https://github.com/go-steer/mast"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -32,26 +104,8 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4488,
-    "updated_at": "2026-08-20T14:06:12Z",
+    "updated_at": "2026-08-20T14:23:21Z",
     "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-08-20T14:11:41Z",
-    "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
-    "id": "KPO-Tech/seshat",
-    "language": "Go",
-    "name": "KPO-Tech/seshat",
-    "stars": 4,
-    "updated_at": "2026-08-20T14:04:27Z",
-    "url": "https://github.com/KPO-Tech/seshat"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -61,6 +115,15 @@
     "stars": 167,
     "updated_at": "2026-08-20T14:04:28Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
+    "id": "KPO-Tech/seshat",
+    "language": "Go",
+    "name": "KPO-Tech/seshat",
+    "stars": 4,
+    "updated_at": "2026-08-20T14:04:27Z",
+    "url": "https://github.com/KPO-Tech/seshat"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -86,17 +149,8 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6958,
-    "updated_at": "2026-08-20T14:01:26Z",
+    "updated_at": "2026-08-20T14:17:47Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T14:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
@@ -117,15 +171,6 @@
     "url": "https://github.com/PurrPod/purrcat"
   },
   {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 100,
-    "updated_at": "2026-08-20T14:15:20Z",
-    "url": "https://github.com/pqpo/pragma"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -144,15 +189,6 @@
     "url": "https://github.com/songyang0603/dsh-open-deep-research"
   },
   {
-    "description": "A dual-store AI memory architecture combining authoritative Git Markdown with experience memory (TDAI) for long-term AI-",
-    "id": "hczxy05/ai-memory-framework",
-    "language": "JavaScript",
-    "name": "hczxy05/ai-memory-framework",
-    "stars": 1,
-    "updated_at": "2026-08-20T14:09:11Z",
-    "url": "https://github.com/hczxy05/ai-memory-framework"
-  },
-  {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
     "id": "tuanductran/soulmap-ai",
     "language": "Python",
@@ -169,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T13:50:17Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-08-20T14:13:29Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -202,7 +229,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1806,
+    "stars": 1807,
     "updated_at": "2026-08-20T13:44:36Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -297,21 +324,12 @@
     "url": "https://github.com/asxvgxkep/harness-core"
   },
   {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26258,
-    "updated_at": "2026-08-20T14:13:12Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
     "name": "exha1078/agentic-workflow-orchestrator",
     "stars": 1,
-    "updated_at": "2026-08-20T13:36:55Z",
+    "updated_at": "2026-08-20T14:23:24Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
@@ -320,7 +338,7 @@
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 2,
-    "updated_at": "2026-08-20T13:36:50Z",
+    "updated_at": "2026-08-20T14:23:38Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 122,
-    "updated_at": "2026-08-20T13:31:14Z",
+    "updated_at": "2026-08-20T14:23:19Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -349,24 +367,6 @@
     "stars": 25,
     "updated_at": "2026-08-20T13:29:05Z",
     "url": "https://github.com/getsynkora/synkora-ai"
-  },
-  {
-    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 3,
-    "updated_at": "2026-08-20T14:12:07Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-20T14:12:14Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Microwave Method: agent factory + governed LLM wiki. Heavy pass once per agent, light pass per feature. Context is cooke",
@@ -382,7 +382,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34916,
+    "stars": 34920,
     "updated_at": "2026-08-20T13:18:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -445,7 +445,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19412,
+    "stars": 19413,
     "updated_at": "2026-08-20T12:59:25Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   }
